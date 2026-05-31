@@ -1,0 +1,77 @@
+---
+data:
+  identifier: A.28
+  localized_concepts:
+    eng: ee1bbe34-74be-5f7a-9da4-f86854d2b6ab
+    fra: b3d1f393-2b89-591a-b71a-cc758870645c
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.13'
+    type: authoritative
+status: valid
+id: 79d4d14b-416a-51fa-aede-9dec04999415
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment accorded to products, services or processes originating in
+      other countries that is no less favourable than that accorded to like products,
+      services or processes of national origin, in a comparable situation
+  examples: []
+  id: A.28-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: national treatment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: ee1bbe34-74be-5f7a-9da4-f86854d2b6ab
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: traitement accordé aux produits, services ou processus provenant d’autres
+      pays qui n’est pas moins favorable que celui accordé à des produits, services
+      ou processus similaires d’origine nationale, dans une situation comparable
+  examples: []
+  id: A.28-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traitement national
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b3d1f393-2b89-591a-b71a-cc758870645c

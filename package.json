@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "VIML — International Vocabulary of Legal Metrology — deployment config for @glossarist/concept-browser",
+  "scripts": {
+    "build": "npx concept-browser build"
+  }
+}

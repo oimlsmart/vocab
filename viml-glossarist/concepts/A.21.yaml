@@ -1,0 +1,92 @@
+---
+data:
+  identifier: A.21
+  localized_concepts:
+    eng: b7941821-690c-5191-a01f-2fa612214c6c
+    fra: 2a19a6e4-0193-5e2f-a177-b3e07e65b0bb
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.2'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.15
+status: valid
+id: 3f9f4bf6-32ef-5b50-a5a2-576e2bd34c00
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: temporary restriction of the statement of conformity by the body that
+      issued the statement, for all or part of the specified scope of  {{attestation,A.15}}
+  examples: []
+  id: A.21-eng
+  notes:
+  - content: "EXAMPLE 1:\tThe issuing body suspends the statement of conformity because
+      the specified requirements are no longer fulfilled.\nEXAMPLE 2:\tThe client
+      of the issuing body voluntarily requests suspension of the statement of conformity.\nEXAMPLE
+      3:\tThe issuing body suspends the statement of conformity because it temporarily
+      ceases to perform that type of conformity assessment activity."
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspension
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b7941821-690c-5191-a01f-2fa612214c6c
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: restriction temporaire de l’affirmation de conformité par l’organisme
+      ayant délivré l’affirmation, pour une partie ou l’ensemble de la portée  d'{{attestation,A.15}}
+      spécifiée
+  examples: []
+  id: A.21-fra
+  notes:
+  - content: "EXAMPLE 1: \t L’organisme qui délivre l’affirmation de conformité la
+      suspend, car les exigences spécifiées ne sont plus respectées.\nEXAMPLE 2: \t
+      Le client de l’organisme qui délivre l’affirmation de conformité demande volontairement
+      sa suspension.\nEXAMPLE 3: \t L’organisme qui délivre l’affirmation de conformité
+      suspend cette dernière, car il cesse temporairement de réaliser ce type d’activité
+      d’évaluation de la conformité."
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspension
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 2a19a6e4-0193-5e2f-a177-b3e07e65b0bb

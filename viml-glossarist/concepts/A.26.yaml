@@ -1,0 +1,85 @@
+---
+data:
+  identifier: A.26
+  localized_concepts:
+    eng: cbb0a947-dc10-54be-a82d-7b4d1cae213a
+    fra: 9c56418b-c20a-50fc-902a-5625e5fbde09
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.11'
+    type: authoritative
+status: valid
+id: e3a11145-bde2-5fca-999e-0271420d9208
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relationship between two parties, where both have the same rights and
+      obligations towards each other
+  examples: []
+  id: A.26-eng
+  notes:
+  - content: Reciprocity can exist within a multilateral arrangement, comprising a
+      network of bilateral reciprocal relationships.
+  - content: Although the rights and obligations of the parties are the same, opportunities
+      emanating from them can differ. This can lead to unequal relationships between
+      parties.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reciprocity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: cbb0a947-dc10-54be-a82d-7b4d1cae213a
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relation entre deux parties dans laquelle chacune a les mêmes droits
+      et obligations l'une envers l'autre
+  examples: []
+  id: A.26-fra
+  notes:
+  - content: 'à l’article: La réciprocité peut exister au sein d’un arrangement multilatéral,
+      comprenant un réseau de relations bilatérales réciproques.'
+  - content: 'à l’article: Bien que les droits et les obligations des parties soient
+      les mêmes, les possibilités qu’elles offrent peuvent être différentes. Il peut
+      en découler des relations inégales entre les parties.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réciprocité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 9c56418b-c20a-50fc-902a-5625e5fbde09

@@ -1,0 +1,101 @@
+---
+data:
+  identifier: A.5
+  localized_concepts:
+    eng: 40945cf9-f0f3-52d1-9828-3116883753d8
+    fra: '082f6d1e-cded-523f-b1b4-b26660666075'
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.4
+status: valid
+id: ee457e01-f2df-53ac-93bb-d27a3bbd387e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of rules and procedures that describes the objects of conformity
+      assessment, identifies the specified requirements and provides the methodology
+      for performing conformity assessment
+  examples: []
+  id: A.5-eng
+  notes:
+  - content: A conformity assessment scheme can be managed within a conformity assessment
+      system.
+  - content: A conformity assessment scheme can be operated at an international, regional,
+      national subnational, or industry sector level.
+  - content: A scheme can cover all part of the conformity assessment functions explained
+      in Annex A [ISO/IEC 17000:2020].
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment scheme
+  - type: expression
+    normative_status: admitted
+    designation: conformity assessment program
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 40945cf9-f0f3-52d1-9828-3116883753d8
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble de règles et procédures qui décrit les objets de l'{{évaluation
+      de la conformité,A.4}}, identifie les exigences spécifiées et fournit la méthodologie
+      pour la réalisation de l’évaluation de la conformité
+  examples: []
+  id: A.5-fra
+  notes:
+  - content: 'à l’article: Un système particulier d’évaluation de la conformité peut
+      être géré au sein d’un système d’évaluation de la conformité.'
+  - content: 'à l’article: Un système particulier d’évaluation de la conformité peut
+      être mis en œuvre à un niveau international, régional, national, infranational
+      ou sectoriel.'
+  - content: 'à l’article: Un système particulier peut couvrir tout ou partie des
+      fonctions d’évaluation de la conformité expliquées à l’Annexe A [ISO/CEI 17000:2020].'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système particulier d'évaluation de la conformité
+  - type: expression
+    normative_status: admitted
+    designation: programme d'évaluation de la conformité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: '082f6d1e-cded-523f-b1b4-b26660666075'

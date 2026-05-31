@@ -1,0 +1,80 @@
+---
+data:
+  identifier: A.20
+  localized_concepts:
+    eng: f5a68d62-0342-5239-bff8-14a3e6d0376a
+    fra: 1fc2893e-e757-5267-b50c-27467892caf3
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.1'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+status: valid
+id: 5e897570-becd-53f5-bf27-fd45a3546ee1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: systematic iteration of {{conformity assessment,A.1}} activities as a
+      basis for maintaining the validity of the statement of conformity
+  examples: []
+  id: A.20-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surveillance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: f5a68d62-0342-5239-bff8-14a3e6d0376a
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: itération systématique d'activités d'{{évaluation de la conformité,A.1}}
+      comme base du maintien de la validité de l'affirmation de conformité
+  examples: []
+  id: A.20-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surveillance
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 1fc2893e-e757-5267-b50c-27467892caf3

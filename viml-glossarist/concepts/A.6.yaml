@@ -1,0 +1,80 @@
+---
+data:
+  identifier: A.6
+  localized_concepts:
+    eng: c781c9c1-c66c-5d52-b51b-9a57baa644f6
+    fra: b978b3ef-9fc1-5288-86ae-d7518ae57bed
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '5.1'
+    type: authoritative
+status: valid
+id: '08e17a9d-62ca-550c-9853-4765c340169a'
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: need or expectation that is stated
+  examples: []
+  id: A.6-eng
+  notes:
+  - content: Specified requirements can be stated in normative documents such as regulations,
+      standards and technical specifications.
+  - content: Specified requirements can be detailed or general.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '5.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specified requirement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c781c9c1-c66c-5d52-b51b-9a57baa644f6
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: besoin ou attente formulé
+  examples: []
+  id: A.6-fra
+  notes:
+  - content: 'à l’article: Les exigences spécifiées peuvent être formulées dans des
+      documents normatifs tels que les règlements, les normes et les spécifications
+      techniques.'
+  - content: 'à l’article: Les exigences spécifiées peuvent être détaillées ou générales.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '5.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exigence spécifiée
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b978b3ef-9fc1-5288-86ae-d7518ae57bed

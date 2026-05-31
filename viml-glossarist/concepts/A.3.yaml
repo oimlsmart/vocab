@@ -1,0 +1,83 @@
+---
+data:
+  identifier: A.3
+  localized_concepts:
+    eng: 5279ccde-684a-547f-aaae-9136ac4ccbe2
+    fra: e329ece1-706b-54c2-b28e-bc1535e8b111
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.7'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.19
+status: valid
+id: 658da235-368a-5ae4-bec7-c7727f2d14f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: authoritative body that performs {{accreditation,A.19}}
+  examples: []
+  id: A.3-eng
+  notes:
+  - content: The authority of an accreditation body can be derived from government,
+      public authorities, contracts, market acceptance or scheme owners.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accreditation body
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 5279ccde-684a-547f-aaae-9136ac4ccbe2
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: organisme faisant autorité qui procède à l'{{accréditation,A.19}}
+  examples: []
+  id: A.3-fra
+  notes:
+  - content: 'à l’article: L’autorité d’un organisme d’accréditation peut être conférée
+      par un gouvernement, des autorités publiques, des contrats, l’acceptation du
+      marché ou les propriétaires d’un système particulier.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: organisme d'accréditation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: e329ece1-706b-54c2-b28e-bc1535e8b111

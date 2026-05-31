@@ -1,0 +1,74 @@
+---
+data:
+  identifier: '5.17'
+  localized_concepts:
+    eng: d28639f3-1d5b-5a69-b125-69fc71870936
+    fra: bce0c6ae-7228-5bd2-8a39-7481c01d7807
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.16'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.03'
+status: valid
+id: d89ca8b4-7208-5003-853e-83d273be05c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{durability error,5.16}} exceeding the value specified in the applicable
+      Recommendation"
+  examples: []
+  id: 5.17-eng
+  notes:
+  - content: |-
+      Some durability errors exceeding the value specified may still be considered not significant. The applicable Recommendation shall state when such exception applies. For example the occurrence of one or some of the following errors may be acceptable:
+      — the {{indication,0.03}} cannot be interpreted, memorized or transmitted as a measurement result;
+      — the indication implies the impossibility to perform any measurement;
+      — the indication is so obviously wrong that it is bound to be noticed by all those interested in the result of the measurement; or
+      — a durability error cannot be detected and acted upon due to a breakdown of the appropriate durability protection facility.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant durability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d28639f3-1d5b-5a69-b125-69fc71870936
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{erreur de durabilité,5.16}} plus grande que la valeur spécifiée dans
+      la Recommandation applicable"
+  examples: []
+  id: 5.17-fra
+  notes:
+  - content: |-
+      Des erreurs de durabilité plus grandes que la valeur spécifiée, peuvent cependant ne pas être considérées comme significatives ; la Recommandation applicable doit indiquer lorsque de telles exceptions s'appliquent. Par exemple, l'apparition d'une ou plusieurs des erreurs suivantes peut être acceptable :
+      — l'{{indication,0.03}} ne peut être interprétée, mise en mémoire ou transmise comme un résultat de mesure ;
+      — l'indication rend impossible l'accomplissement de toute mesure ;
+      — l'indication est si évidemment fausse qu'elle est fatalement identifiée par tous ceux intéressés par le résultat du mesurage ; ou
+      — une erreur de durabilité ne peut être détectée et mise en évidence à cause d'une panne du système de protection de durabilité concerné.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur de durabilité significative
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: bce0c6ae-7228-5bd2-8a39-7481c01d7807

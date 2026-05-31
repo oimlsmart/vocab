@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '4.03'
+  localized_concepts:
+    eng: 9d745bc7-ad02-550b-b263-d579c471cf43
+    fra: c6992be8-40fc-5776-bf2b-4354fcec8a3c
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.05'
+status: valid
+id: 4ca6c0f8-cb87-585c-afed-9d7895c19067
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: attribute of any device, instrument, function or software thatinfluences
+      the measurement result or any other {{primary indication,5.05}}
+  examples: []
+  id: 4.03-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrologically relevant
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 9d745bc7-ad02-550b-b263-d579c471cf43
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: attribut de tout dispositif, instrument, fonction ou logiciel qui influence
+      le résultat de mesurage ou toute autre {{indication primaire,5.05}}
+  examples: []
+  id: 4.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: caractère métrologique
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c6992be8-40fc-5776-bf2b-4354fcec8a3c

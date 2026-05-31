@@ -1,0 +1,89 @@
+---
+data:
+  identifier: A.11
+  localized_concepts:
+    eng: 608af3f5-8675-50f7-9d2e-3652a4537dd3
+    fra: 7be07cb7-50d6-5896-b731-d84eb0b998a0
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.3'
+    type: authoritative
+status: valid
+id: a5673c91-0209-508b-918c-ca774ac174e1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examination of an object of conformity assessment and determination of
+      its conformity with detailed requirements or, on the basis of professional judgement,
+      with general requirements
+  examples: []
+  id: A.11-eng
+  notes:
+  - content: Examination can include direct or indirect observations, which can include
+      measurements or the output of instruments.
+  - content: Conformity assessment schemes or contracts can specify inspection as
+      examination only.
+  - content: Additional information on the concepts of testing and inspection is given
+      in A.3.4 [ISO/IEC 17000:2020, Annex A].
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 608af3f5-8675-50f7-9d2e-3652a4537dd3
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examen d’un objet de l’évaluation de la conformité et détermination de
+      sa conformité à des exigences détaillées ou, sur la base d’un jugement professionnel,
+      à des exigences générales
+  examples: []
+  id: A.11-fra
+  notes:
+  - content: 'à l’article: L’examen peut inclure des observations directes ou indirectes,
+      qui peuvent comprendre des mesurages ou des données de sortie d’instruments.'
+  - content: 'à l’article: Les systèmes particuliers d’évaluation de la conformité
+      ou contrats peuvent définir l’inspection comme étant un simple examen.'
+  - content: 'à l’article: Des informations supplémentaires sur les concepts d’essai
+      et d’inspection sont données en A.3.4 [ISO/CEI 17000:2020, Annexe A].'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7be07cb7-50d6-5896-b731-d84eb0b998a0

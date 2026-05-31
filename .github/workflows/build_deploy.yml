@@ -1,0 +1,69 @@
+name: build_deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [deploy]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install concept-browser
+        run: npm install -g @glossarist/concept-browser
+
+      - name: Build site
+        run: npx concept-browser build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_PATH: /oiml-viml/
+
+      - name: Rewrite paths for subpath deployment
+        run: |
+          BASE=/oiml-viml
+          cd dist
+          # Rewrite favicon and asset paths in HTML
+          sed -i "s|href=\"/favicon|href=\"${BASE}/favicon|g" index.html 404.html
+          sed -i "s|href=\"/apple-touch|href=\"${BASE}/apple-touch|g" index.html 404.html
+          # Rewrite paths in JSON files
+          find . -name '*.json' -exec sed -i "s|\"baseUrl\":\"/data/|\"baseUrl\":\"${BASE}/data/|g" {} \;
+          find . -name '*.json' -exec sed -i "s|\"manifestUrl\":\"/data/|\"manifestUrl\":\"${BASE}/data/|g" {} \;
+          find . -name '*.json' -exec sed -i "s|\"path\":\"/logos/|\"path\":\"${BASE}/logos/|g" {} \;
+          # Rewrite hardcoded fetch paths in JS bundles
+          find . -name '*.js' -exec sed -i "s|\`/pages/|\`${BASE}/pages/|g" {} \;
+          find . -name '*.js' -exec sed -i "s|\`/data/|\`${BASE}/data/|g" {} \;
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    if: ${{ github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

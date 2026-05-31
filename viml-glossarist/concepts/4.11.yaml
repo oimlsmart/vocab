@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.11'
+  localized_concepts:
+    eng: 7fb7a899-44ec-58b8-956b-df03198afb8f
+    fra: d94b4c7b-774a-59bf-9e67-b076604df1bd
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+status: valid
+id: df91389b-f2e2-58ee-8b28-be77af8ab509
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legally relevant parameter with a value that depends on the type of instrument
+      only
+  examples: []
+  id: 4.11-eng
+  notes:
+  - content: Type-specific parameters are part of the legally relevant software.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type-specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7fb7a899-44ec-58b8-956b-df03198afb8f
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: paramètre à caractère légal dont la valeur dépend seulement du type d'instrument
+  examples: []
+  id: 4.11-fra
+  notes:
+  - content: Les paramètres spécifiques au type font partie du logiciel légalement
+      concerné.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paramètre spécifique au type
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d94b4c7b-774a-59bf-9e67-b076604df1bd

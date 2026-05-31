@@ -1,0 +1,62 @@
+id: viml
+domain: viml.oiml.info
+uriBase: https://viml.oiml.info
+title: VIML Glossary
+description: Terminology from the International Vocabulary of Legal Metrology (OIML V 1:2022)
+
+datasets:
+  - id: viml
+    uri: "urn:oiml:pub:v:1:2022"
+    uriAliases:
+      - "urn:oiml:pub:v:1:2022*"
+    sourceRepo: https://github.com/metanorma/oiml-viml
+    title: "VIML — International Vocabulary of Legal Metrology"
+    description: "Terminology definitions from the International Vocabulary of Legal Metrology (OIML V 1:2022)"
+    owner: OIML
+    color: "#004996"
+    tags: [metrology, legal, oiml, vocabulary]
+    languages: [eng, fra]
+    languageOrder: [eng, fra]
+
+routing: []
+
+branding:
+  primaryColor: "#004996"
+  darkColor: "#003366"
+  fonts:
+    header:
+      family: "Source Serif 4"
+      source: "google"
+      weights: [400, 600]
+    body:
+      family: "Source Sans 3"
+      source: "google"
+      weights: [400, 500, 700]
+  logo:
+    path: /logos/oiml-logo.svg
+    alt: OIML
+    localPath: logos/oiml-logo.svg
+  ownerName: OIML
+  ownerUrl: "https://www.oiml.org"
+
+features:
+  news: false
+  stats: true
+  graph: true
+  about: true
+  search: true
+  poweredBy:
+    title: "Glossarist"
+    url: "https://glossarist.org"
+
+pages:
+  - type: about
+    route: about
+    title: About
+    icon: info
+    source: about.md
+
+defaults:
+  language: eng
+
+copyright: "OIML"

@@ -1,0 +1,79 @@
+---
+data:
+  identifier: A.7
+  localized_concepts:
+    eng: 0402b7be-07ef-52ee-a5df-cbfc4e42a556
+    fra: 8e7830e3-3195-5090-bc85-d59c5d769ded
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '5.2'
+    type: authoritative
+status: valid
+id: 9c6c7788-e77c-5e22-b6bd-c68875b60212
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: specified way to carry out an activity or a process
+  examples: []
+  id: A.7-eng
+  notes:
+  - content: |-
+      In this context, a process is defined as a set of interrelated or interacting activities that use inputs to deliver an intended result.
+      [SOURCE: ISO 9000:2015, 3.4.5, modified — The original Note to entry has been replaced with a new Note to entry.]
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '5.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procedure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 0402b7be-07ef-52ee-a5df-cbfc4e42a556
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: manière spécifiée d'effectuer une activité ou un processus
+  examples: []
+  id: A.7-fra
+  notes:
+  - content: |-
+      à l’article: Dans ce contexte, un processus est défini comme étant un ensemble d’activités corrélées ou en interaction qui utilise des éléments d’entrée pour produire un résultat escompté.
+      [SOURCE: ISO 9000:2015, 3.4.5, modifiée — La Note à l’article originale a été remplacée par une nouvelle Note à l’article.]
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '5.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procédure
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 8e7830e3-3195-5090-bc85-d59c5d769ded

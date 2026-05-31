@@ -1,0 +1,75 @@
+---
+data:
+  identifier: A.24
+  localized_concepts:
+    eng: ba11dbfc-ad42-5a00-b505-66473cb9da6a
+    fra: 48ef61d9-35cf-5f26-95de-a98f2e9a95d1
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.10'
+    type: authoritative
+status: valid
+id: 9e7d9dd3-235a-5717-9808-998a0d5aa059
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: bodies that are signatories to the agreement on which an arrangement
+      is based
+  examples: []
+  id: A.24-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: agreement group
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: ba11dbfc-ad42-5a00-b505-66473cb9da6a
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instances qui sont signataires de l'accord sur lequel l'arrangement est
+      fondé
+  examples: []
+  id: A.24-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: groupe d'accord
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 48ef61d9-35cf-5f26-95de-a98f2e9a95d1

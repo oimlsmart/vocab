@@ -1,0 +1,79 @@
+---
+data:
+  identifier: '0.11'
+  localized_concepts:
+    eng: 6fff578f-a741-5d9b-b126-efea436e30e4
+    fra: a2d94340-0b8a-5028-96a9-05a3dfe1fbfd
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+status: valid
+id: 30e9971c-814a-5c1b-8824-e1f9b3760f82
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device, used in measurement, that provides an output quantity having
+      a specified relation to the input quantity
+  examples: []
+  id: 0.11-eng
+  notes:
+  - content: Example Thermocouple, electric current transformer, strain gauge, pH
+      electrode, Bourdon tube, bimetallic strip.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 6fff578f-a741-5d9b-b126-efea436e30e4
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif, employé en mesurage, qui fait correspondre à une grandeur
+      d'entrée une grandeur de sortie selon une loi déterminée
+  examples: []
+  id: 0.11-fra
+  notes:
+  - content: Exemple Thermocouple, transformateur de courant électrique, jauge de
+      contrainte, électrode de pH, tube de Bourdon, bilame.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transducteur de mesure
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: a2d94340-0b8a-5028-96a9-05a3dfe1fbfd

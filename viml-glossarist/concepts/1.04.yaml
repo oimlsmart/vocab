@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '1.04'
+  localized_concepts:
+    eng: c8f80cc7-fe66-5457-9bbd-328f5d300892
+    fra: 9b345c6b-c683-5a9d-bdfa-9b18bd3f1efd
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.01'
+status: valid
+id: 74385af3-2252-5ff6-ab1c-3a87347e720f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: organization or agency at the national level or in a nation, responsible
+      for developing and/or enforcing laws or regulations regarding {{legal metrological
+      control,2.01}}
+  examples: []
+  id: 1.04-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: national responsible body
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c8f80cc7-fe66-5457-9bbd-328f5d300892
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: organisation ou agence responsable au niveau national du développement
+      et/ou de l'application des lois ou réglementations se rapportant au {{contrôle
+      de métrologie légale,2.01}}
+  examples: []
+  id: 1.04-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: organisme national responsable
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 9b345c6b-c683-5a9d-bdfa-9b18bd3f1efd

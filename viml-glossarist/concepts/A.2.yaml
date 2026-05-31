@@ -1,0 +1,80 @@
+---
+data:
+  identifier: A.2
+  localized_concepts:
+    eng: 52f4aa2b-a24c-5b12-b715-cfcb4f745582
+    fra: 89864df6-6f7f-5049-9be0-a1f586a2cd7d
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+status: valid
+id: d2ec7d78-2a60-54c9-a6cb-ebbe2b2d3e40
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: body that performs {{conformity assessment,A.1}} services, excluding
+      accreditation
+  examples: []
+  id: A.2-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment body
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 52f4aa2b-a24c-5b12-b715-cfcb4f745582
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: organisme qui réalise des activités d'{{évaluation de la conformité,A.1}},
+      à l’exclusion de l’accréditation
+  examples: []
+  id: A.2-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: organisme d'évaluation de la conformité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 89864df6-6f7f-5049-9be0-a1f586a2cd7d

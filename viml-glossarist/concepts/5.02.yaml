@@ -1,0 +1,53 @@
+---
+data:
+  identifier: '5.02'
+  localized_concepts:
+    eng: 04a204fb-f65a-537b-a3e0-656f21dc765d
+    fra: 7cdf05f6-7363-50b8-98ac-e583692bca46
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+status: valid
+id: 840c03c5-a11e-5bed-a3e0-064ba4751909
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value, expressed in an appropriate unit, used for the classification
+      and verification of an instrument
+  examples: []
+  id: 5.02-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification scale interval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 04a204fb-f65a-537b-a3e0-656f21dc765d
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur, exprimée dans une unité appropriée, utilisée pour la classification
+      et la vérification d'un instrument
+  examples: []
+  id: 5.02-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelon de vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7cdf05f6-7363-50b8-98ac-e583692bca46

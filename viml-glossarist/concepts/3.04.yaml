@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '3.04'
+  localized_concepts:
+    eng: b313e964-5e26-5455-907a-09d9773853ff
+    fra: 1f9a698e-4aa0-570f-b3e2-b42067c5e9ae
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.09'
+status: valid
+id: dd4d319e-d327-5867-b82e-9139036f3e9d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mark applied to a {{measuring instrument,0.10}} in a conspicuous manner
+      certifying that the {{verification of the measuring instrument,2.09}} was carried
+      out and compliance with statutory requirements was confirmed
+  examples: []
+  id: 3.04-eng
+  notes:
+  - content: The verification mark may identify the body responsible for verification
+      and/or indicate the year or date of verification or its expiry date.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification mark
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b313e964-5e26-5455-907a-09d9773853ff
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: marque apposée sur un {{instrument de mesure,0.10}} de manière apparente
+      certifiant que la {{vérification de l'instrument de mesure,2.09}} a été effectuée
+      et que la conformité aux exigences réglementaires à été constatée
+  examples: []
+  id: 3.04-fra
+  notes:
+  - content: La marque de vérification peut identifier l'organisme responsable de
+      la vérification et/ou indiquer l'année ou la date de vérification ou sa date
+      d'expiration.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marque de vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 1f9a698e-4aa0-570f-b3e2-b42067c5e9ae

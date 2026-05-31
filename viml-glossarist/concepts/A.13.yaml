@@ -1,0 +1,92 @@
+---
+data:
+  identifier: A.13
+  localized_concepts:
+    eng: cfe43d6b-b132-5f0d-9e65-a61079ad3e66
+    fra: 6badf98b-9f65-570f-9f3c-ec0eda990698
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.7'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.6
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.24
+status: valid
+id: a4388dc4-bfbb-57d8-acc8-add364c673c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: assessment of a body against {{specified requirements,A.6}} by representatives
+      of other bodies in, or candidates for, an {{agreement group,A.24}}
+  examples: []
+  id: A.13-eng
+  notes:
+  - content: "“Candidates” are included for the situation where a new group is being
+      formed, at which time there would be no bodies in the group."
+  - content: The term “peer assessment” is sometimes referred to as “peer evaluation”.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peer assessment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: cfe43d6b-b132-5f0d-9e65-a61079ad3e66
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: évaluation d'un organisme, par rapport à des {{exigences spécifiées,A.6}},
+      par des représentants d'autres organismes faisant partie d'un groupe d'accord,
+      ou ayant posé leurs candidatures pour ce {{groupe d'accord,A.24}}
+  examples: []
+  id: A.13-fra
+  notes:
+  - content: 'à l’article: « Ayant posé leurs candidatures » est inclus lorsqu’un
+      nouveau groupe se forme et qu’il n’existe pas d’organismes au sein du groupe.'
+  - content: 'à l’article: Le terme « évaluation par des pairs » est parfois désigné
+      sous le terme « appréciation par des pairs ».'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation par des pairs
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 6badf98b-9f65-570f-9f3c-ec0eda990698

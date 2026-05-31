@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '3.03'
+  localized_concepts:
+    eng: a5e4b256-f159-551b-8c1b-6dbcc56be200
+    fra: 178e06ff-513c-5ec2-9dad-aef93f34de13
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+status: valid
+id: b2529510-4bcf-5ff7-895b-f1a1dff7cca0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document stating that a {{measuring instrument,0.10}} was found not to
+      comply or no longer to comply with the relevant statutory requirements
+  examples: []
+  id: 3.03-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rejection notice
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: a5e4b256-f159-551b-8c1b-6dbcc56be200
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document indiquant qu'un {{instrument de mesure,0.10}} a été jugé comme
+      ne satisfaisant pas ou ne satisfaisant plus aux exigences réglementaires applicables
+  examples: []
+  id: 3.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bulletin de refus
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 178e06ff-513c-5ec2-9dad-aef93f34de13

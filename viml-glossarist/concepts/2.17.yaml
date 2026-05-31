@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '2.17'
+  localized_concepts:
+    eng: 4105b9da-3b48-582c-a15d-001cdd3673b5
+    fra: 0f3d7b9e-b4dd-5c98-a1dc-2e7225039e5c
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.02'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.04'
+status: valid
+id: a2a5d6ca-b6fb-54da-b4f5-4a09f3a34272
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legal decision taken by a party, either voluntarily or based on a bi-
+      or multilateral arrangement whereby a {{verification certificate,3.02}} issued
+      and/or a {{verification mark,3.04}} applied by another party is recognized as
+      complying with relevant requirements, without issuing a new {{verification certificate,3.02}}
+      and/or affixing a new {{verification mark,3.04}}
+  examples: []
+  id: 2.17-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recognition of verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 4105b9da-3b48-582c-a15d-001cdd3673b5
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision légale prise par une partie, volontairement ou sur la base d'un
+      accord bi- ou multilatéral, selon laquelle un {{certificat de vérification,3.02}}
+      délivré et / ou une {{marque de vérification,3.04}} apposée par une autre partie
+      est reconnu comme satisfaisant aux exigences applicables, sans délivrance d'un
+      nouveau {{certificat de vérification,3.02}} et/ou sans apposition d'une nouvelle
+      {{marque de vérification,3.04}}
+  examples: []
+  id: 2.17-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reconnaissance de vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 0f3d7b9e-b4dd-5c98-a1dc-2e7225039e5c

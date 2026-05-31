@@ -1,0 +1,84 @@
+---
+data:
+  identifier: A.16
+  localized_concepts:
+    eng: 145098e6-6602-5bcc-bf35-b69230fe54fd
+    fra: c17ec029-745a-5743-891e-d864b8a5d76a
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.4'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.15
+status: valid
+id: 96e40a31-d58c-56c8-83a1-297312cdc859
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range or characteristics of objects of {{conformity assessment,A.1}}
+      covered by {{attestation,A.15}}
+  examples: []
+  id: A.16-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scope of attestation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 145098e6-6602-5bcc-bf35-b69230fe54fd
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étendue ou caractéristiques des objets de l'{{évaluation de la conformité,A.1}}
+      couverts par l'{{attestation,A.15}}
+  examples: []
+  id: A.16-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: portée de l'attestation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c17ec029-745a-5743-891e-d864b8a5d76a

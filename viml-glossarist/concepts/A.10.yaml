@@ -1,0 +1,103 @@
+---
+data:
+  identifier: A.10
+  localized_concepts:
+    eng: e8ff7304-0e4a-5c60-bd42-f1a6ab7aeb77
+    fra: 7e5db273-b839-51a6-9feb-1870f6c75ebb
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.2'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.7
+status: valid
+id: 70ee6409-0296-52af-8e1e-2fb92c1d849b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: determination of one or more characteristics of an object of {{conformity
+      assessment,A.1}}, according to a {{procedure,A.7}}
+  examples: []
+  id: A.10-eng
+  notes:
+  - content: The procedure can be intended to control variables within testing as
+      a contribution to the accuracy or reliability of the results.
+  - content: The results of testing can be expressed in terms of specified units or
+      objective comparison with agreed references.
+  - content: The output of testing can include comments (e.g. opinions and interpretations)
+      about the test results and fulfilment of specified requirements.
+  - content: Additional information on the concepts of testing and inspection is given
+      in A.3.4 [ISO/IEC 17000:2020, Annex A].
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: testing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: e8ff7304-0e4a-5c60-bd42-f1a6ab7aeb77
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: détermination d'une ou de plusieurs caractéristiques d'un objet de l'{{évaluation
+      de la conformité,A.1}}, selon une {{procédure,A.7}}
+  examples: []
+  id: A.10-fra
+  notes:
+  - content: 'à l’article: La procédure peut être destinée à contrôler les variables
+      dans le cadre d’essais pour contribuer à l’exactitude ou à la fiabilité des
+      résultats.'
+  - content: 'à l’article: Les résultats d’essais peuvent être exprimés sous la forme
+      d’unités spécifiées ou par le biais d’une comparaison objective avec les données
+      de référence convenues.'
+  - content: 'à l’article: Les données de sortie d’essais peuvent inclure des commentaires
+      (par exemple, des avis et des interprétations) sur les résultats de l’essai
+      et le respect des exigences spécifiées.'
+  - content: 'à l’article: Des informations supplémentaires sur les concepts d’essai
+      et d’inspection sont données en A.3.4 [ISO/CEI 17000:2020, Annexe A].'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: essai
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7e5db273-b839-51a6-9feb-1870f6c75ebb

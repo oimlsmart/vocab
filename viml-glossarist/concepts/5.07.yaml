@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '5.07'
+  localized_concepts:
+    eng: 346582ee-5b2d-59e4-8f38-10dbc4e91977
+    fra: ec7f7934-a78d-5146-a83e-9cf7073a3bc6
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.14'
+status: valid
+id: cafa312c-60a6-5733-8646-e5aee265e1e6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility that is incorporated in a {{measuring instrument,0.10}} and
+      which enables {{significant faults,5.14}} to be detected and acted upon
+  examples: []
+  id: 5.07-eng
+  notes:
+  - content: "“Acted upon” refers to any adequate response by the {{measuring instrument,0.10}}
+      (luminous signal, acoustic signal, prevention of the measurement process, etc.)."
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 346582ee-5b2d-59e4-8f38-10dbc4e91977
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: système incorporé dans un {{instrument de mesure,0.10}} et qui permet
+      de détecter et de mettre en évidence les {{défauts significatifs,5.14}}
+  examples: []
+  id: 5.07-fra
+  notes:
+  - content: La mise en évidence peut être matérialisée par toute réponse appropriée
+      de l'{{instrument de mesure,0.10}} (signal lumineux, signal acoustique, blocage
+      du processus de mesurage, etc.).
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système de contrôle
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: ec7f7934-a78d-5146-a83e-9cf7073a3bc6

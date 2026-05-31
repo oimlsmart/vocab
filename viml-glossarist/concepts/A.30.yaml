@@ -1,0 +1,84 @@
+---
+data:
+  identifier: A.30
+  localized_concepts:
+    eng: dea240d8-70d3-5ee4-b9af-6ad3326b58c1
+    fra: a3923e84-e860-552d-a69c-4917c4d16247
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.2'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.2
+status: valid
+id: 75aff650-819e-5280-bab0-7b660756ab54
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: governmental authorization of a {{conformity assessment body,A.2}} to
+      perform specified conformity assessment activities
+  examples: []
+  id: A.30-eng
+  notes:
+  - content: Designation is sometimes referred to as “notification”.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: designation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: dea240d8-70d3-5ee4-b9af-6ad3326b58c1
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nomination par une instance gouvernementale d'un {{organisme d'évaluation
+      de la conformité,A.2}} pour réaliser des activités d'évaluation de la conformité
+      spécifiées
+  examples: []
+  id: A.30-fra
+  notes:
+  - content: 'à l’article: Le terme « désignation » est parfois désigné sous le terme
+      « notification ».'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: désignation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: a3923e84-e860-552d-a69c-4917c4d16247

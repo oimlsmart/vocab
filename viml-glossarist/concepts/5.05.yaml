@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '5.05'
+  localized_concepts:
+    eng: 8d31a717-2910-5f61-b63e-4a99e9a85e12
+    fra: 6ceadd3e-1794-52c3-b3da-5bb72bbce870
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.03'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.01'
+status: valid
+id: a8f88400-d616-5068-aa18-1b24ffd02724
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{indication,0.03}} (displayed, printed or memorized) subject to {{legal
+      metrological control,2.01}}"
+  examples: []
+  id: 5.05-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 8d31a717-2910-5f61-b63e-4a99e9a85e12
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{indication,0.03}} (affichée, imprimée ou mémorisée) soumise au {{contrôle
+      métrologique légal,2.01}}"
+  examples: []
+  id: 5.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication primaire
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 6ceadd3e-1794-52c3-b3da-5bb72bbce870

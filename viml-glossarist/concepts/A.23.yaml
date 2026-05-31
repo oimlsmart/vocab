@@ -1,0 +1,87 @@
+---
+data:
+  identifier: A.23
+  localized_concepts:
+    eng: 423d2a02-506b-5809-a0ae-e4c15f9f0fd7
+    fra: 7ce3dbfe-731b-5fcf-afba-2242439e9e69
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.7'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.2
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.3
+status: valid
+id: '038e2c79-b2c2-5046-9104-e78767fb2ae2'
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression of dissatisfaction, other than appeal, by any person or organization
+      to a {{conformity assessment body,A.2}} or an {{accreditation body,A.3}}, relating
+      to the activities of that body, where a response is expected
+  examples: []
+  id: A.23-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complaint
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 423d2a02-506b-5809-a0ae-e4c15f9f0fd7
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression d’insatisfaction, autre qu’un appel, émise par toute personne
+      ou une organisation auprès d’un {{organisme d'évaluation de la conformité,A.2}}
+      ou d'un {{organisme d'accréditation,A.3}} relative aux activités de cet organisme,
+      à laquelle une réponse est attendue
+  examples: []
+  id: A.23-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réclamation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7ce3dbfe-731b-5fcf-afba-2242439e9e69

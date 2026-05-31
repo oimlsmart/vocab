@@ -1,0 +1,92 @@
+---
+data:
+  identifier: A.34
+  localized_concepts:
+    eng: aa9b381f-586e-50f4-bf20-8361d5d11d89
+    fra: e0205149-83c1-5db1-92c1-d7336ea83863
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.6'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+status: valid
+id: a4fabd0e-dbfb-548c-8649-3fa2bcb54f12
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: use of a {{conformity assessment,A.1}} result provided by another person
+      or organization
+  examples: []
+  id: A.34-eng
+  notes:
+  - content: The expression “conformity assessment result” signifies the output of
+      any conformity assessment activity (e.g. a report or certificate) and can include
+      a finding of nonconformity.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: acceptance
+  - type: expression
+    normative_status: admitted
+    designation: acceptance of a conformity assessment result
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: aa9b381f-586e-50f4-bf20-8361d5d11d89
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: utilisation d'un résultat d'{{évaluation de la conformité,A.1}} fourni
+      par une autre personne ou organisation
+  examples: []
+  id: A.34-fra
+  notes:
+  - content: 'à l’article: L’expression « résultat d’évaluation de la conformité »
+      désigne le produit d’une activité d‘évaluation de la conformité (par exemple,
+      un rapport ou un certificat) et peut comprendre un constat de non-conformité.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: acceptation
+  - type: expression
+    normative_status: admitted
+    designation: acceptation d'un résultat d'évaluation de la conformité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: e0205149-83c1-5db1-92c1-d7336ea83863

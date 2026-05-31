@@ -1,0 +1,86 @@
+---
+data:
+  identifier: '0.12'
+  localized_concepts:
+    eng: e8d2c6a1-2bd6-564a-860e-0d6394817a06
+    fra: 7a2d3a7c-5379-5275-b447-264740de4a8e
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+status: valid
+id: 3c8f1499-8076-5c5c-92a9-b0f50ac9a987
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of one or more {{measuring instruments,0.10}} and often other devices,
+      including any reagent and supply, assembled and adapted to give information
+      used to generate measured quantity values within specified intervals for quantities
+      of specified kinds
+  examples: []
+  id: 0.12-eng
+  notes:
+  - content: A measuring system may consist of only one {{measuring instrument,0.10}}.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: e8d2c6a1-2bd6-564a-860e-0d6394817a06
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble d'un ou plusieurs {{instruments de mesure,0.10}} et souvent
+      d'autres dispositifs, comprenant si nécessaire réactifs et alimentations, assemblés
+      et adaptés pour fournir des informations destinées à obtenir des valeurs mesurées
+      dans des intervalles spécifiés pour des grandeurs de natures spécifiées
+  examples: []
+  id: 0.12-fra
+  notes:
+  - content: Un système de mesure peut consister en un seul {{instrument de mesure,0.10}}.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système de mesure
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7a2d3a7c-5379-5275-b447-264740de4a8e

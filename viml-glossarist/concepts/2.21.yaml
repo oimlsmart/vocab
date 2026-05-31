@@ -1,0 +1,51 @@
+---
+data:
+  identifier: '2.21'
+  localized_concepts:
+    eng: f33ab355-77f4-52bc-b446-bf24cc16a7b5
+    fra: 9754eac2-59ca-5cee-b6bb-f45629233267
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+status: valid
+id: dd2c1342-b684-5e8e-a2c5-6bfad2f34ea8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means preventing unauthorized access to hardware or software
+  examples: []
+  id: 2.21-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: securing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: f33ab355-77f4-52bc-b446-bf24cc16a7b5
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: moyen empêchant l'accès non autorisé aux parties matérielles ou au logiciel
+  examples: []
+  id: 2.21-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sécurité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 9754eac2-59ca-5cee-b6bb-f45629233267

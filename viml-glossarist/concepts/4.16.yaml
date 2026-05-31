@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '4.16'
+  localized_concepts:
+    eng: d7772967-64bf-5c9e-9b7b-9286bc4b56a5
+    fra: b82590e8-76db-509a-9841-8c58d44c3384
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+status: valid
+id: f3eaa35d-8c01-5f45-ab6b-3ebe9f5ce078
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sub-assembly, combination of subassemblies or complete {{measuring instrument,0.10}}
+      subject to a test
+  examples: []
+  id: 4.16-eng
+  notes:
+  - content: 'Abbreviated: EUT.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equipment under test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d7772967-64bf-5c9e-9b7b-9286bc4b56a5
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sous-ensemble, combinaison de sous-ensembles ou instrument de mesure
+      complet soumis à un essai
+  examples: []
+  id: 4.16-fra
+  notes:
+  - content: 'Abréviation : ESE.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équipement soumis à l'essai
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b82590e8-76db-509a-9841-8c58d44c3384

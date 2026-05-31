@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '6.01'
+  localized_concepts:
+    eng: 738fb228-80e8-5dc4-917c-c297c933e649
+    fra: cf01e84d-5f23-54da-9de6-455e2ef46c96
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.04'
+status: valid
+id: 6ae63fe0-248a-5a86-905c-fed3e5855f6a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sequence of readable characters (e.g. version number, checksum) that
+      is inextricably linked to the software or software {{module,4.04}} under consideration
+  examples: []
+  id: 6.01-eng
+  notes:
+  - content: It can be checked on an instrument whilst in use.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software identification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 738fb228-80e8-5dc4-917c-c297c933e649
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: séquence de caractères lisibles (par exemple un numéro de version, une
+      somme de contrôle) inextricablement liée au logiciel ou {{module,4.04}} de logiciel
+      considéré
+  examples: []
+  id: 6.01-fra
+  notes:
+  - content: Elle peut être vérifiée sur un instrument en service.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: identification du logiciel
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: cf01e84d-5f23-54da-9de6-455e2ef46c96

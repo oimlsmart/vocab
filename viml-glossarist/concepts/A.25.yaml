@@ -1,0 +1,82 @@
+---
+data:
+  identifier: A.25
+  localized_concepts:
+    eng: 285f8ce2-472b-54df-83c7-4e19f4d4862b
+    fra: 1bad80dc-2b17-5ce4-8fd5-3c76593bb78f
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.1'
+    type: authoritative
+status: valid
+id: 0aba8bf6-5a2c-5ebe-9f83-c9359fa9b97a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: permission for a product, service or process to be marketed or used for
+      stated purposes or under stated conditions
+  examples: []
+  id: A.25-eng
+  notes:
+  - content: Approval can be based on fulfilment of specified requirements or completion
+      of specified procedures.
+  - content: Approval can be given in the context of a conformity assessment scheme.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 285f8ce2-472b-54df-83c7-4e19f4d4862b
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: autorisation accordée pour pouvoir commercialiser ou utiliser un produit,
+      un service ou un processus à des fins ou dans des conditions définies
+  examples: []
+  id: A.25-fra
+  notes:
+  - content: 'à l’article: Une homologation peut être fondée sur la satisfaction d’exigences
+      spécifiées ou le respect de procédures spécifiées.'
+  - content: 'à l’article: Une homologation peut être donnée dans le cadre d’un système
+      particulier d’évaluation de la conformité.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: homologation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 1bad80dc-2b17-5ce4-8fd5-3c76593bb78f

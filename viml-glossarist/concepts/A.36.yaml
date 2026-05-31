@@ -1,0 +1,86 @@
+---
+data:
+  identifier: A.36
+  localized_concepts:
+    eng: 96167140-d7df-5c72-8ca5-f2152304f0bd
+    fra: d7bc4c3d-2c3f-5100-88ed-d802494bf0f0
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.8'
+    type: authoritative
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+status: valid
+id: 74214d53-4544-51cd-9941-31388265eaf7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement whereby two parties recognize or accept each other's {{conformity
+      assessment,A.1}} results
+  examples: []
+  id: A.36-eng
+  notes:
+  - content: The expression “conformity assessment result” signifies the output of
+      any conformity assessment activity (e.g. a report or certificate) and can include
+      a finding of nonconformity.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilateral arrangement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 96167140-d7df-5c72-8ca5-f2152304f0bd
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement selon lequel les deux parties reconnaissent ou acceptent
+      les résultats de l'{{évaluation de la conformité,A.1}} de l'autre partie
+  examples: []
+  id: A.36-fra
+  notes:
+  - content: 'à l’article: L’expression « résultat d’évaluation de la conformité »
+      désigne le produit d’une activité d‘évaluation de la conformité (par exemple,
+      un rapport ou un certificat) et peut comprendre un constat de non-conformité.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arrangement bilatéral
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d7bc4c3d-2c3f-5100-88ed-d802494bf0f0

@@ -1,0 +1,79 @@
+---
+data:
+  identifier: A.29
+  localized_concepts:
+    eng: 66f66584-a2db-5476-88ad-11b185ac2116
+    fra: 629c151c-ab10-5946-b9b9-11c810a542ea
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.14'
+    type: authoritative
+status: valid
+id: a948b821-ec18-5dd2-9268-b48a9d4019b8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment accorded to products, services or processes originating in
+      other countries that is no less favourable than that accorded to like products,
+      services or processes of national origin, or originating in any other country,
+      in a comparable situation
+  examples: []
+  id: A.29-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equal and national treatment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 66f66584-a2db-5476-88ad-11b185ac2116
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: traitement accordé aux produits, services ou processus provenant d’autres
+      pays qui n’est pas moins favorable que celui accordé à des produits, services
+      ou processus similaires, d’origine nationale ou provenant de tout autre pays,
+      dans une situation comparable
+  examples: []
+  id: A.29-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traitement égal et national
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 629c151c-ab10-5946-b9b9-11c810a542ea

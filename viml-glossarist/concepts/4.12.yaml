@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '4.12'
+  localized_concepts:
+    eng: 5214814c-2ef0-5732-8691-1a7d3bf1fd1c
+    fra: 7ff99907-86e5-563b-9dc2-8e8532551894
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.15'
+status: valid
+id: c8b4b714-cef7-54df-96b0-a3e82e6ced52
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{legally relevant parameter,4.10}} with a value that depends on the
+      individual instrument"
+  examples: []
+  id: 4.12-eng
+  notes:
+  - content: Device-specific parameters comprise {{adjustment,0.15}} parameters (e.g.
+      span adjustment or other adjustments or corrections) and configuration parameters
+      (e.g. maximum value, minimum value, units of measurement, etc.).
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device-specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 5214814c-2ef0-5732-8691-1a7d3bf1fd1c
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{paramètre à caractère légal,4.10}} dont la valeur dépend de chaque
+      instrument"
+  examples: []
+  id: 4.12-fra
+  notes:
+  - content: 'Les paramètres spécifiques individuels comprennent les paramètres d''{{ajustage,0.15}}
+      (par exemple : ajustage de pente, autres ajustages ou corrections) et les paramètres
+      de configuration (par exemple : valeur maximale, valeur minimale, unités de
+      mesure, etc.).'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paramètre spécifique individuel
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7ff99907-86e5-563b-9dc2-8e8532551894

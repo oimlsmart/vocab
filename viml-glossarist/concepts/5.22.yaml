@@ -1,0 +1,53 @@
+---
+data:
+  identifier: '5.22'
+  localized_concepts:
+    eng: cba6910e-2163-561d-8969-4bd4b8ef6782
+    fra: c4324e2b-1240-5e21-bbc5-96ab99890c4e
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+status: valid
+id: 9923816c-fba5-5ef9-8b49-1f471ed06faa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the EUT is able to maintain its performance
+      characteristics over a period of use
+  examples: []
+  id: 5.22-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: cba6910e-2163-561d-8969-4bd4b8ef6782
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: essai permettant de vérifier si l'ESE est capable de conserver ses caractéristiques
+      de performance après un certain temps d'utilisation
+  examples: []
+  id: 5.22-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: essai de durabilité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c4324e2b-1240-5e21-bbc5-96ab99890c4e

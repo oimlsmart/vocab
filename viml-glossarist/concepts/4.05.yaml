@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '4.05'
+  localized_concepts:
+    eng: 1d22f1fe-bf8d-5136-9977-86264a224bf4
+    fra: 369fc75b-9483-5f3d-88f8-b909eb79dca4
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.04'
+status: valid
+id: 6ebb016a-14cd-5630-8c23-f71cbb34e4c2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: identifiable group of {{modules,4.04}} belonging to the same manufactured
+      type that have similar design features but that may differ in some metrological
+      and technical performance requirements as defined in the relevant Recommendation
+  examples: []
+  id: 4.05-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: family of modules
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 1d22f1fe-bf8d-5136-9977-86264a224bf4
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: groupe identifiable de {{modules,4.04}} appartenant au même type fabriqué,
+      qui ont les mêmes caractéristiques de conception, mais qui peuvent différer
+      par quelques exigences de performances métrologiques et techniques, telles que
+      définies dans la Recommandation applicable
+  examples: []
+  id: 4.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: famille de modules
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 369fc75b-9483-5f3d-88f8-b909eb79dca4

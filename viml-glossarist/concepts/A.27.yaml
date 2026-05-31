@@ -1,0 +1,77 @@
+---
+data:
+  identifier: A.27
+  localized_concepts:
+    eng: 1c1e81bf-0622-5917-9a53-da5549f460c7
+    fra: d2471c2d-96f4-5374-a3d9-dab9c209f438
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.12'
+    type: authoritative
+status: valid
+id: d4ddde8b-e175-5b60-928b-d6fc4df16db1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment accorded to products, services or processes from one supplier
+      that is no less favorable than that accorded to like products, services or processes
+      from any other supplier, in a comparable situation
+  examples: []
+  id: A.27-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equal treatment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 1c1e81bf-0622-5917-9a53-da5549f460c7
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: traitement accordé aux produits, services ou processus d'un fournisseur,
+      qui n'est pas moins favorable que celui accordé à des produits, services ou
+      processus similaires de tout autre fournisseur, dans une situation comparable
+  examples: []
+  id: A.27-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traitement égal
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d2471c2d-96f4-5374-a3d9-dab9c209f438

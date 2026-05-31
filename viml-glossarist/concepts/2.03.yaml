@@ -1,0 +1,70 @@
+---
+data:
+  identifier: '2.03'
+  localized_concepts:
+    eng: '09e7b217-68c7-525c-96db-0f0b1f933f07'
+    fra: de119382-ff46-5baa-8bc1-ba269bca6e11
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.01'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.01'
+status: valid
+id: 705e4767-2b59-5d89-9a01-8cacf57816b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: activity of {{legal metrological control,2.01}} to check the observance
+      of {{metrology,0.01}} laws and regulations
+  examples: []
+  id: 2.03-eng
+  notes:
+  - content: Metrological supervision also includes checking the correctness of quantities
+      indicated on and contained in prepackages.
+  - content: To achieve these purposes, means and methods such as market surveillance
+      and quality management may be utilized.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological supervision
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: '09e7b217-68c7-525c-96db-0f0b1f933f07'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: activité du {{contrôle de métrologie légale,2.01}} consistant à vérifier
+      que les lois et règlements de {{métrologie,0.01}} sont respectés
+  examples: []
+  id: 2.03-fra
+  notes:
+  - content: La surveillance métrologique comprend également le contrôle de l'exactitude
+      des quantités indiquées sur et contenues dans les préemballages.
+  - content: Dans ce cadre, des moyens tels que la surveillance du marché et le management
+      de la qualité peuvent être utilisés.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surveillance métrologique
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: de119382-ff46-5baa-8bc1-ba269bca6e11

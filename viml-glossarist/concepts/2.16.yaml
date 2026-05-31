@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '2.16'
+  localized_concepts:
+    eng: fc2fce59-9c1a-54c4-995b-ac3f1aaab2cf
+    fra: c91301f4-4f80-571b-ab95-5324d51645b9
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+status: valid
+id: 810faeb4-f5d6-562c-b562-63d298f7ea0a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: decision of legal relevance that a {{measuring instrument,0.10}} after
+      it had been disqualified was returned to conformity with statutory requirements
+      and its use for applications requiring mandatory verification is no longer prohibited
+  examples: []
+  id: 2.16-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: requalification of a measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: fc2fce59-9c1a-54c4-995b-ac3f1aaab2cf
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision de portée légale spécifiant qu'un {{instrument de mesure,0.10}}
+      préalablement refusé satisfait à nouveau aux exigences réglementaires et que
+      son utilisation pour les applications exigeant une vérification obligatoire
+      n'est plus interdite
+  examples: []
+  id: 2.16-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: remise en conformité d'un instrument de mesure
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c91301f4-4f80-571b-ab95-5324d51645b9
