@@ -29,10 +29,9 @@ jobs:
 
       - name: Install concept-browser
         run: |
-          git clone --branch fix/subpath-base-url --depth 1 https://github.com/glossarist/concept-browser.git /tmp/cb
+          git clone --depth 1 https://github.com/glossarist/concept-browser.git /tmp/cb
           cd /tmp/cb && npm install --ignore-scripts
           npm install --prefix /tmp/cb sharp 2>/dev/null || true
-          echo "/tmp/cb/cli" >> $GITHUB_PATH
 
       - name: Build site
         run: node /tmp/cb/cli/index.mjs build
