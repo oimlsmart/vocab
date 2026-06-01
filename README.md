@@ -1,24 +1,116 @@
-# VIML Glossary
+# VIML — International Vocabulary of Legal Metrology
 
-Terminology from the **International Vocabulary of Legal Metrology** (OIML V 1:2022).
+Online terminology browser for the **International Vocabulary of Legal Metrology** (OIML V 1:2022), deployed at [metanorma.github.io/oiml-viml](https://metanorma.github.io/oiml-viml/).
+
+Built with the [Glossarist Concept Browser](https://github.com/glossarist/concept-browser) — a statically deployable SPA for browsing terminology datasets.
+
+## Contents
+
+- [Repository structure](#repository-structure)
+- [Dataset](#dataset)
+- [Building locally](#building-locally)
+- [Configuration](#configuration)
+- [Deployment](#deployment)
+- [Updating the dataset](#updating-the-dataset)
 
 ## Repository structure
 
-- `viml-glossarist/` — Glossarist v3 dataset (135 concepts, bilingual English/French)
-- `site-config.yml` — Site configuration for the Glossarist Concept Browser
-- `about.md` — About page content
-- `logos/oiml-logo.svg` — OIML logo
-- `.github/workflows/build_deploy.yml` — CI/CD pipeline
+```
+oiml-viml/
+├── site-config.yml          Site configuration (branding, features, dataset, base path)
+├── about.md                 About page (English)
+├── about-fra.md             About page (French)
+├── viml-glossarist/         Glossarist v3 dataset (source of truth)
+│   ├── register.yaml        Dataset metadata and concept list
+│   └── concepts/            135 concept YAML files
+├── logos/                    OIML logo files (SVG, light/dark variants)
+├── scripts/                  Ruby scraper scripts for generating the dataset
+└── .github/workflows/
+    └── build_deploy.yml     CI: build + deploy to GitHub Pages
+```
+
+Build artifacts (gitignored): `dist/`, `public/`, `.datasets/`, `node_modules/`.
+
+## Dataset
+
+The `viml-glossarist/` directory contains the Glossarist v3 dataset with **135 concepts** covering all sections of OIML V 1:2022:
+
+| Section | Topics |
+|---------|--------|
+| 0 | General concepts |
+| 1 | Measurement |
+| 2 | Measurement results |
+| 3 | Measuring instruments |
+| 4 | Legal metrology — General terms |
+| 5 | Legal metrology — Metrological control |
+| 6 | Legal metrology — Bodies, marks, certificates |
+| A | Conformity assessment |
+
+Each concept is a YAML file with English and French designations, definitions, notes, examples, and source references.
 
 ## Building locally
 
+Prerequisites: Node.js 20+
+
 ```sh
-npm install
+npm install --ignore-scripts @glossarist/concept-browser
+npm install --prefix node_modules/@glossarist/concept-browser sharp 2>/dev/null || true
 npx concept-browser build
 ```
 
-The built site is output to `dist/`.
+The CLI reads `site-config.yml` from the current directory, fetches the dataset from `viml-glossarist/` (via `localPath`), generates static data, and builds the SPA into `dist/`.
+
+To preview the build:
+
+```sh
+npx vite preview
+```
+
+## Configuration
+
+All configuration is in `site-config.yml`. Key fields:
+
+```yaml
+basePath: /oiml-viml/               # Subpath for GitHub Pages deployment
+
+datasets:
+  - id: viml
+    localPath: viml-glossarist       # Dataset source directory
+    ref: "OIML V 1:2022"            # Publication reference (shown in sidebar provenance)
+    owner: OIML
+    sourceRepo: https://github.com/metanorma/oiml-viml
+
+branding:
+  primaryColor: "#004996"
+  logo:
+    localPath: logos/oiml-logo.svg
+    localLight: logos/oiml-logo-icon-light.svg
+    localDark: logos/oiml-logo-icon-dark.svg
+```
+
+- **`basePath`** — sets the URL subpath for GitHub Pages. No `BASE_PATH` env var needed.
+- **`localPath`** — points to the local dataset directory. No `DATASET_SOURCE_*` env var needed.
+- **`ref`** — publication reference shown in the sidebar provenance section.
+- **Branding** — logo variants for light/dark mode, colors, Google Fonts.
+
+The site supports English and French UI (`uiLanguages` in config). About pages are provided in both languages (`about.md`, `about-fra.md`).
 
 ## Deployment
 
-Pushing to `main` triggers the GitHub Actions workflow which builds and deploys to GitHub Pages.
+Pushing to `main` triggers the GitHub Actions workflow (`.github/workflows/build_deploy.yml`):
+
+1. Checks out the repo
+2. Installs `@glossarist/concept-browser` from npm
+3. Runs `npx concept-browser build`
+4. Deploys `dist/` to GitHub Pages
+
+All configuration comes from `site-config.yml` — the only env var is `GITHUB_TOKEN`.
+
+## Updating the dataset
+
+The `scripts/` directory contains Ruby scripts used to generate the Glossarist v3 dataset from source material:
+
+- `scripts/scrape_viml.rb` — scrapes the VIML vocabulary and produces YAML concept files
+- `scripts/audit_viml.rb` — validates the generated dataset
+
+After updating the dataset, commit the changes to `viml-glossarist/` and push to `main` to trigger a rebuild.
