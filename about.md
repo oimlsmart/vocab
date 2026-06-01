@@ -7,6 +7,20 @@ This glossary provides the official definitions of terms used in legal metrology
 covering measurement, measuring instruments, legal requirements, and conformity
 assessment.
 
+## About this online version
+
+This version of the International Vocabulary of Legal Metrology (VIML) is an
+online, interactively browsable product based on the document published by the
+OIML as **OIML V 1:2022**. The publication may be downloaded free of charge from
+the [OIML website](https://www.oiml.org).
+
+This online version has the following features:
+
+- all definitions, notes and examples of the VIML are included without modification,
+- the VIML Foreword, Introduction and Scope are omitted,
+- both an alphabetical index (as in the VIML) and an analytical index are included,
+- in definitions, notes and examples, terms defined in the VIML are hyperlinked.
+
 ## Source
 
 The terminology is sourced from **OIML V 1:2022**, which incorporates definitions
