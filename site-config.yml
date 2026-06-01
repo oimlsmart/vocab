@@ -1,9 +1,14 @@
 id: viml
 domain: viml.oiml.info
 uriBase: https://viml.oiml.info
-title: VIML Glossary
+title: VIML
 subtitle: International Vocabulary of Legal Metrology
 description: Terminology from the International Vocabulary of Legal Metrology (OIML V 1:2022)
+
+translations:
+  fra:
+    subtitle: Vocabulaire international de métrologie légale
+    description: Terminologie du Vocabulaire international de métrologie légale (OIML V 1:2022)
 
 uiLanguages:
   - code: eng
@@ -19,6 +24,10 @@ datasets:
     sourceRepo: https://github.com/metanorma/oiml-viml
     title: "VIML — International Vocabulary of Legal Metrology"
     description: "Terminology definitions from the International Vocabulary of Legal Metrology (OIML V 1:2022)"
+    translations:
+      fra:
+        title: "VIML — Vocabulaire international de métrologie légale"
+        description: "Définitions de terminologie du Vocabulaire international de métrologie légale (OIML V 1:2022)"
     owner: OIML
     color: "#004996"
     tags: [metrology, legal, oiml, vocabulary]
