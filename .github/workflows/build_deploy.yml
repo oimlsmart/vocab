@@ -32,7 +32,7 @@ jobs:
           npm install -g --ignore-scripts glossarist/concept-browser#fix/subpath-base-url
 
       - name: Build site
-        run: npx concept-browser build
+        run: concept-browser build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BASE_PATH: /oiml-viml/
