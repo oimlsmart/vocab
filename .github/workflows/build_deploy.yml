@@ -28,7 +28,10 @@ jobs:
           node-version: 20
 
       - name: Install concept-browser
-        run: npm install -g glossarist/concept-browser#fix/subpath-base-url
+        run: |
+          npm install -g --ignore-scripts glossarist/concept-browser#fix/subpath-base-url
+          cd "$(npm root -g)/@glossarist/concept-browser"
+          npm rebuild sharp 2>/dev/null || true
 
       - name: Build site
         run: npx concept-browser build
