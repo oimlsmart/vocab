@@ -28,7 +28,7 @@ jobs:
           node-version: 20
 
       - name: Install concept-browser
-        run: npm install -g @glossarist/concept-browser
+        run: npm install -g glossarist/concept-browser#fix/subpath-base-url
 
       - name: Build site
         run: npx concept-browser build
@@ -36,21 +36,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BASE_PATH: /oiml-viml/
           DATASET_SOURCE_VIML: ${{ github.workspace }}/viml-glossarist
-
-      - name: Rewrite paths for subpath deployment
-        run: |
-          BASE=/oiml-viml
-          cd dist
-          # Rewrite favicon and asset paths in HTML
-          sed -i "s|href=\"/favicon|href=\"${BASE}/favicon|g" index.html 404.html
-          sed -i "s|href=\"/apple-touch|href=\"${BASE}/apple-touch|g" index.html 404.html
-          # Rewrite paths in JSON files
-          find . -name '*.json' -exec sed -i "s|\"baseUrl\":\"/data/|\"baseUrl\":\"${BASE}/data/|g" {} \;
-          find . -name '*.json' -exec sed -i "s|\"manifestUrl\":\"/data/|\"manifestUrl\":\"${BASE}/data/|g" {} \;
-          find . -name '*.json' -exec sed -i "s|\"path\":\"/logos/|\"path\":\"${BASE}/logos/|g" {} \;
-          # Rewrite hardcoded fetch paths in JS bundles
-          find . -name '*.js' -exec sed -i "s|\`/pages/|\`${BASE}/pages/|g" {} \;
-          find . -name '*.js' -exec sed -i "s|\`/data/|\`${BASE}/data/|g" {} \;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
