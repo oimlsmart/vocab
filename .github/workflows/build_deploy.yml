@@ -23,26 +23,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/checkout@v4
-        with:
-          repository: glossarist/concept-browser
-          ref: v0.7.4
-          path: concept-browser
-
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - name: Install concept-browser
         run: |
-          cd concept-browser && npm install --ignore-scripts
-          npm install --prefix concept-browser sharp 2>/dev/null || true
+          npm install --ignore-scripts @glossarist/concept-browser
+          npm install --prefix node_modules/@glossarist/concept-browser sharp 2>/dev/null || true
 
       - name: Build site
-        run: node concept-browser/cli/index.mjs build
+        run: npx concept-browser build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DATASET_SOURCE_VIML: ${{ github.workspace }}/viml-glossarist
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -1,6 +1,7 @@
 id: viml
 domain: viml.oiml.info
 uriBase: https://viml.oiml.info
+basePath: /oiml-viml/
 title: VIML
 subtitle: International Vocabulary of Legal Metrology
 description: Terminology from the International Vocabulary of Legal Metrology (OIML V 1:2022)
@@ -22,6 +23,7 @@ datasets:
     uriAliases:
       - "urn:oiml:pub:v:1:2022*"
     sourceRepo: https://github.com/metanorma/oiml-viml
+    localPath: viml-glossarist
     title: "VIML — International Vocabulary of Legal Metrology"
     description: "Terminology definitions from the International Vocabulary of Legal Metrology (OIML V 1:2022)"
     translations:
