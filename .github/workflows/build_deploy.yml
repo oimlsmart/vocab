@@ -51,6 +51,7 @@ jobs:
           # Rewrite hardcoded fetch paths in JS bundles
           find . -name '*.js' -exec sed -i "s|\`/pages/|\`${BASE}/pages/|g" {} \;
           find . -name '*.js' -exec sed -i "s|\`/data/|\`${BASE}/data/|g" {} \;
+          find . -name '*.js' -exec sed -i 's|"/datasets.json"|"'${BASE}'/datasets.json"|g' {} \;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
