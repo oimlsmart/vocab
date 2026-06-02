@@ -2,8 +2,8 @@
 data:
   identifier: '2.4'
   localized_concepts:
-    eng: 8415ffcc-eb19-48c9-bbbe-45b3a63971ef
-    fra: 0e0de1cb-8b01-4f13-b20f-fd9c0a1f5b6d
+    eng: 765e6d5d-1525-4090-a75b-b5276340bb34
+    fra: a8e433ca-1a28-4918-809d-49eb94c05355
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.4'
     type: authoritative
 status: valid
-id: fba9be92-ee67-4625-aab3-2d1f697c898e
+id: 1ef73be3-8130-4677-b089-f82dad3eb85a
 schema_version: '3'
 ---
 data:
@@ -52,7 +52,7 @@ data:
     designation: principle of measurement
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8415ffcc-eb19-48c9-bbbe-45b3a63971ef
+id: 765e6d5d-1525-4090-a75b-b5276340bb34
 ---
 data:
   dates:
@@ -83,4 +83,4 @@ data:
     designation: principe de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0e0de1cb-8b01-4f13-b20f-fd9c0a1f5b6d
+id: a8e433ca-1a28-4918-809d-49eb94c05355

@@ -99,16 +99,6 @@ pages:
       fra:
         title: À propos
         source: about-fra.md
-  - type: about
-    route: about-vim
-    title: About VIM
-    icon: info
-    source: about-vim.md
-    dataset: vim
-    translations:
-      fra:
-        title: À propos du VIM
-        source: about-vim-fra.md
 
 defaults:
   language: eng

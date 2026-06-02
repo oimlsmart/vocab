@@ -2,8 +2,8 @@
 data:
   identifier: '5.8'
   localized_concepts:
-    eng: 7526b389-28b3-41bd-81ef-b31996e6a70a
-    fra: 9516c66c-e9cb-4837-81c6-febe4f5270a3
+    eng: 52d4b76c-3604-4278-ab8c-5001a56f0309
+    fra: 6fa3d07d-e076-46d3-bfcc-c1047592180a
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.8'
     type: authoritative
 status: valid
-id: ebf2bc92-0197-482f-902b-a774b8f0ba1b
+id: ff34d8a0-5d01-4a0d-b17b-399eb1049020
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: travelling standard
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7526b389-28b3-41bd-81ef-b31996e6a70a
+id: 52d4b76c-3604-4278-ab8c-5001a56f0309
 ---
 data:
   dates:
@@ -78,4 +78,4 @@ data:
     designation: étalon voyageur
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9516c66c-e9cb-4837-81c6-febe4f5270a3
+id: 6fa3d07d-e076-46d3-bfcc-c1047592180a

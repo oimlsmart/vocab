@@ -2,8 +2,8 @@
 data:
   identifier: '4.8'
   localized_concepts:
-    eng: 0b066705-2800-4506-97b6-4ed36c308f71
-    fra: 83c2fe66-067c-4139-ad72-e45eef0e639d
+    eng: 290eade3-58da-413c-944a-914c18712bd5
+    fra: e12a713e-666f-4d82-b510-74e6367d305d
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '4.8'
     type: authoritative
 status: valid
-id: 64ae5d12-b6db-44b6-9ab9-7f7730c4ca9d
+id: aee58f00-fde3-4b88-bb53-b6747f009fca
 schema_version: '3'
 ---
 data:
@@ -46,7 +46,7 @@ data:
     designation: steady-state operating condition
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0b066705-2800-4506-97b6-4ed36c308f71
+id: 290eade3-58da-413c-944a-914c18712bd5
 ---
 data:
   dates:
@@ -77,4 +77,4 @@ data:
     designation: condition de régime permanent, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 83c2fe66-067c-4139-ad72-e45eef0e639d
+id: e12a713e-666f-4d82-b510-74e6367d305d

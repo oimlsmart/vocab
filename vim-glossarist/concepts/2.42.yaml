@@ -2,8 +2,8 @@
 data:
   identifier: '2.42'
   localized_concepts:
-    eng: e9cc4d2e-944b-4563-aa33-a3b5b502594d
-    fra: 0a3f76e2-b213-4952-88a5-dc653418e806
+    eng: ced2f3bd-ab52-4a9d-a425-dbd2ebbcd1ca
+    fra: 8f6aa41f-a6b3-4afa-9648-94756121077f
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.42'
     type: authoritative
 status: valid
-id: 96b0693f-ae8d-4180-b50d-7099e9e6c8e6
+id: aa45b88d-cad2-4062-bcde-4c62d6d15ce4
 schema_version: '3'
 ---
 data:
@@ -56,7 +56,7 @@ data:
     designation: traceability chain
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e9cc4d2e-944b-4563-aa33-a3b5b502594d
+id: ced2f3bd-ab52-4a9d-a425-dbd2ebbcd1ca
 ---
 data:
   dates:
@@ -93,4 +93,4 @@ data:
     designation: chaîne de traçabilité, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0a3f76e2-b213-4952-88a5-dc653418e806
+id: 8f6aa41f-a6b3-4afa-9648-94756121077f

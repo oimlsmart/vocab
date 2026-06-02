@@ -32,8 +32,7 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 - `site-config.yml` — All site configuration (branding, features, dataset source, base path, languages)
 - `viml-glossarist/` — Glossarist v3 dataset for VIML (135 concept YAML files + `register.yaml`)
 - `vim-glossarist/` — Glossarist v3 dataset for VIM (144 concept YAML files + `register.yaml`)
-- `about.md` / `about-fra.md` — About page content for VIML (English and French)
-- `about-vim.md` / `about-vim-fra.md` — About page content for VIM (English and French)
+- `about.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
 - `scripts/scrape_viml.rb` — Scraper for VIML dataset (from viml.oiml.info)
 - `scripts/scrape_vim.rb` — Scraper for VIM dataset (from jcgm.bipm.org/vim)
@@ -70,7 +69,7 @@ The `vim-glossarist/` directory contains 144 bilingual (English/French) concepts
 - **65 annotations** — informative commentary by JCGM/WG 2, stored as notes with `[Annotation]` prefix
 - **Examples** separated from notes; examples following a note are embedded in that note's text
 - **Cross-references** as `{{term text,concept_id}}` patterns
-- **Tables** serialized as pipe-delimited text within note content
+- **Tables** serialized as Asciidoc tables (`|===` delimited) within note content
 
 To update: `ruby scripts/scrape_vim.rb`, commit changes to `vim-glossarist/`, push to `main`.
 

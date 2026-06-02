@@ -2,8 +2,8 @@
 data:
   identifier: '1.17'
   localized_concepts:
-    eng: 0c7e178d-cc3f-45e5-8795-ff76b71436f7
-    fra: fe90e99a-4d32-46b1-b4c1-eca128c4ef2f
+    eng: 3f87bbc2-cbd6-4721-bf02-6330cebdc24e
+    fra: 58f0d2a1-0477-46e0-9157-103004e659f5
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.17'
     type: authoritative
 status: valid
-id: c76f7338-5f95-4257-8d3e-b08cfcc66bff
+id: bd7bea96-48e6-4fd6-bfa0-2cca3a686822
 schema_version: '3'
 ---
 data:
@@ -39,15 +39,16 @@ data:
       SI prefixes refer strictly to powers of 10, and should not be used for powers of 2. For example, 1 kilobit should not be used to represent 1 024 bits (210 bits), which is 1 kibibit.
       Prefixes for binary multiples are:
 
-      | (210)8 | yobi yobi |
-      | --- | --- |
-      | (210)7 | zebi zébi |
-      | (210)6 | exbi exbi |
-      | (210)5 | pebi pébi |
-      | (210)4 | tebi tébi |
-      | (210)3 | gibi gibi |
-      | (210)2 | mebi mébi |
-      | (210)1 | kibi kibi |
+      |===
+      | (210)8 | yobi yobi
+      | (210)7 | zebi zébi
+      | (210)6 | exbi exbi
+      | (210)5 | pebi pébi
+      | (210)4 | tebi tébi
+      | (210)3 | gibi gibi
+      | (210)2 | mebi mébi
+      | (210)1 | kibi kibi
+      |===
       Source: IEC 80000-13.
   sources:
   - origin:
@@ -63,7 +64,7 @@ data:
     designation: multiple of a unit
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0c7e178d-cc3f-45e5-8795-ff76b71436f7
+id: 3f87bbc2-cbd6-4721-bf02-6330cebdc24e
 ---
 data:
   dates:
@@ -85,15 +86,16 @@ data:
       Les préfixes SI représentent strictement des puissances de 10 et il convient de ne pas les utiliser pour des puissances de 2. Par exemple, il convient de ne pas utiliser 1 kilobit pour représenter 1 024 bits (210 bits), qui est 1 kibibit.
       Les préfixes pour les multiples binaires sont:
 
-      | (210)8 | yobi yobi |
-      | --- | --- |
-      | (210)7 | zebi zébi |
-      | (210)6 | exbi exbi |
-      | (210)5 | pebi pébi |
-      | (210)4 | tebi tébi |
-      | (210)3 | gibi gibi |
-      | (210)2 | mebi mébi |
-      | (210)1 | kibi kibi |
+      |===
+      | (210)8 | yobi yobi
+      | (210)7 | zebi zébi
+      | (210)6 | exbi exbi
+      | (210)5 | pebi pébi
+      | (210)4 | tebi tébi
+      | (210)3 | gibi gibi
+      | (210)2 | mebi mébi
+      | (210)1 | kibi kibi
+      |===
       Source: CEI 80000-13.
   sources:
   - origin:
@@ -109,4 +111,4 @@ data:
     designation: multiple d'une unité
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: fe90e99a-4d32-46b1-b4c1-eca128c4ef2f
+id: 58f0d2a1-0477-46e0-9157-103004e659f5

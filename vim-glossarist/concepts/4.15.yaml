@@ -2,8 +2,8 @@
 data:
   identifier: '4.15'
   localized_concepts:
-    eng: 24dd547c-27f8-4630-9162-c7549b3011a6
-    fra: e1134f73-f86d-47cc-85cc-f0c10531a684
+    eng: 4e4dbb0d-930f-4a47-9f37-1ceb272d5af1
+    fra: 55cd47a0-a593-407d-9968-0c73cfeb60b0
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '4.15'
     type: authoritative
 status: valid
-id: 257c071b-89f1-4de2-b35b-388781687ac8
+id: 94565693-3f64-4558-b468-d2ef19d8544f
 schema_version: '3'
 ---
 data:
@@ -45,7 +45,7 @@ data:
     designation: resolution of a displaying device
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 24dd547c-27f8-4630-9162-c7549b3011a6
+id: 4e4dbb0d-930f-4a47-9f37-1ceb272d5af1
 ---
 data:
   dates:
@@ -72,4 +72,4 @@ data:
     designation: résolution d'un dispositif afficheur
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e1134f73-f86d-47cc-85cc-f0c10531a684
+id: 55cd47a0-a593-407d-9968-0c73cfeb60b0

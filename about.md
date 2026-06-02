@@ -1,4 +1,9 @@
-# VIML — International Vocabulary of Legal Metrology
+# OIML Vocabularies of Metrology
+
+This site hosts interactive, browsable editions of the two International
+Vocabularies of Metrology published by OIML and JCGM.
+
+## VIML — International Vocabulary of Legal Metrology
 
 The **International Vocabulary of Legal Metrology (VIML)** is published by the
 International Organization of Legal Metrology (OIML) as **OIML V 1:2022**.
@@ -7,28 +12,38 @@ This glossary provides the official definitions of terms used in legal metrology
 covering measurement, measuring instruments, legal requirements, and conformity
 assessment.
 
-## About this online version
-
-This version of the International Vocabulary of Legal Metrology (VIML) is an
-online, interactively browsable product based on the document published by the
-OIML as **OIML V 1:2022**. The publication may be downloaded free of charge from
-the [OIML website](https://www.oiml.org).
-
-This online version has the following features:
-
-- all definitions, notes and examples of the VIML are included without modification,
-- the VIML Foreword, Introduction and Scope are omitted,
-- both an alphabetical index (as in the VIML) and an analytical index are included,
-- in definitions, notes and examples, terms defined in the VIML are hyperlinked.
-
-## Source
-
 The terminology is sourced from **OIML V 1:2022**, which incorporates definitions
 from:
 
 - **OIML V 2-200:2012** — International Vocabulary of Metrology (VIM)
 - **ISO/IEC 17000:2020** — Conformity assessment vocabulary
 - **IEC 60050-300** — International Electrotechnical Vocabulary
+
+## VIM — International Vocabulary of Metrology
+
+The **International Vocabulary of Metrology (VIM)** is published as
+**JCGM 200:2012** (3rd edition, also published as OIML V 2-200:2012).
+It defines basic and general concepts and associated terms used in metrology.
+
+This online version is an abridged edition supplemented by informative annotations
+produced by Working Group 2 of the Joint Committee for Guides in Metrology
+(JCGM/WG 2). It includes:
+
+- all definitions, notes, and examples of the VIM3 without modification
+- hyperlinked cross-references between concepts
+- informative annotations by JCGM/WG 2 (marked with `[Annotation]`)
+
+The VIM3 PDF is available for free download from the
+[BIPM JCGM page](https://www.bipm.org/en/committees/jc/jcgm).
+
+## About this site
+
+This online browser provides:
+
+- interactive browsing and full-text search across both vocabularies
+- bilingual presentation (English and French)
+- hyperlinked cross-references between VIML and VIM where concepts are shared
+- both alphabetical and analytical indexes
 
 ## About OIML
 
@@ -37,16 +52,3 @@ is an intergovernmental treaty organization that promotes the global harmonizati
 of legal metrology procedures. Founded in 1955, OIML develops International
 Recommendations and Documents that provide model regulations for measuring
 instruments and measurement standards.
-
-## Sections
-
-| Section | Title |
-|---------|-------|
-| 0 | Basic terms |
-| 1 | Metrology and its legal aspects |
-| 2 | Legal metrology activities |
-| 3 | Documents and marks within legal metrology |
-| 4 | Classification of measuring instruments |
-| 5 | Construction and operation of measuring instruments |
-| 6 | Software in legal metrology |
-| A | Terms relating to conformity assessment |

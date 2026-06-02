@@ -2,8 +2,8 @@
 data:
   identifier: '1.16'
   localized_concepts:
-    eng: a24dcde6-a961-4aa3-9df8-f7cfe6d6e89d
-    fra: 27395ef3-d855-47be-8710-d049b49c1bfb
+    eng: 2d18389c-b377-4a36-a635-d965f1e0e1c1
+    fra: a835ac49-3816-4f1d-a448-9102e2697aaf
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,13 +17,13 @@ data:
         reference_from: '1.16'
     type: authoritative
 status: valid
-id: dc7988fe-d67c-4611-a528-c34c635d4e73
-schema_version: '3'
+id: 5fb6a994-545a-4e8f-a27a-4d498389baa6
 related:
 - type: compare
   ref:
     source: urn:oiml:pub:v:1:2022
     id: '0.02'
+---
 ---
 data:
   dates:
@@ -41,14 +41,15 @@ data:
   - content: |-
       The SI is founded on the seven {{base quantities,1.4}} of the {{ISQ,1.6}} and the names and symbols of the corresponding {{base units,1.10}} that are contained in the following table.
 
-      | lengthlongueur | metremètre |
-      | --- | --- |
-      | massmasse | kilogramkilogramme |
-      | timetemps | secondseconde |
-      | electric currentcourant électrique | ampereampère |
-      | thermodynamic temperaturetempérature thermodynamique | kelvinkelvin |
-      | amount of substancequantité de matière | molemole |
-      | luminous intensityintensité lumineuse | candelacandela |
+      |===
+      | lengthlongueur | metremètre
+      | massmasse | kilogramkilogramme
+      | timetemps | secondseconde
+      | electric currentcourant électrique | ampereampère
+      | thermodynamic temperaturetempérature thermodynamique | kelvinkelvin
+      | amount of substancequantité de matière | molemole
+      | luminous intensityintensité lumineuse | candelacandela
+      |===
   - content: The base units and the {{coherent derived units,1.12}} of the SI form
       a coherent set, designated the “set of coherent SI units”.
   - content: For a full description and explanation of the International System of
@@ -59,27 +60,28 @@ data:
   - content: |-
       The SI prefixes for {{multiples of units,1.17}} and {{submultiples of units,1.18}} are:
 
-      | 1024 | yottayotta |
-      | --- | --- |
-      | 1021 | zettazetta |
-      | 1018 | exaexa |
-      | 1015 | petapéta |
-      | 1012 | teratéra |
-      | 109 | gigagiga |
-      | 106 | megaméga |
-      | 103 | kilokilo |
-      | 102 | hectohecto |
-      | 101 | decadéca |
-      | 10-1 | decidéci |
-      | 10-2 | centicenti |
-      | 10-3 | millimilli |
-      | 10-6 | micromicro |
-      | 10-9 | nanonano |
-      | 10-12 | picopico |
-      | 10-15 | femtofemto |
-      | 10-18 | attoatto |
-      | 10-21 | zeptozepto |
-      | 10-24 | yoctoyocto |
+      |===
+      | 1024 | yottayotta
+      | 1021 | zettazetta
+      | 1018 | exaexa
+      | 1015 | petapéta
+      | 1012 | teratéra
+      | 109 | gigagiga
+      | 106 | megaméga
+      | 103 | kilokilo
+      | 102 | hectohecto
+      | 101 | decadéca
+      | 10-1 | decidéci
+      | 10-2 | centicenti
+      | 10-3 | millimilli
+      | 10-6 | micromicro
+      | 10-9 | nanonano
+      | 10-12 | picopico
+      | 10-15 | femtofemto
+      | 10-18 | attoatto
+      | 10-21 | zeptozepto
+      | 10-24 | yoctoyocto
+      |===
   sources:
   - origin:
       ref:
@@ -97,7 +99,8 @@ data:
     designation: SI
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: a24dcde6-a961-4aa3-9df8-f7cfe6d6e89d
+id: 2d18389c-b377-4a36-a635-d965f1e0e1c1
+---
 ---
 data:
   dates:
@@ -115,14 +118,15 @@ data:
   - content: |-
       Le SI est fondé sur les sept {{grandeurs de base,1.4}} de l'{{ISQ,1.6}}. Les noms et les symboles des {{unités de base,1.10}} sont donnés dans le tableau suivant.
 
-      | lengthlongueur | metremètre |
-      | --- | --- |
-      | massmasse | kilogramkilogramme |
-      | timetemps | secondseconde |
-      | electric currentcourant électrique | ampereampère |
-      | thermodynamic temperaturetempérature thermodynamique | kelvinkelvin |
-      | amount of substancequantité de matière | molemole |
-      | luminous intensityintensité lumineuse | candelacandela |
+      |===
+      | lengthlongueur | metremètre
+      | massmasse | kilogramkilogramme
+      | timetemps | secondseconde
+      | electric currentcourant électrique | ampereampère
+      | thermodynamic temperaturetempérature thermodynamique | kelvinkelvin
+      | amount of substancequantité de matière | molemole
+      | luminous intensityintensité lumineuse | candelacandela
+      |===
   - content: Les unités de base et les {{unités dérivées cohérentes,1.12}} du SI forment
       un ensemble cohérent, appelé «ensemble des unités SI cohérentes».
   - content: Pour une description et une explication complètes du Système international
@@ -135,27 +139,28 @@ data:
   - content: |-
       Les préfixes SI pour les {{multiples des unités,1.17}} et {{sous-multiples des unités,1.18}} sont:
 
-      | 1024 | yottayotta |
-      | --- | --- |
-      | 1021 | zettazetta |
-      | 1018 | exaexa |
-      | 1015 | petapéta |
-      | 1012 | teratéra |
-      | 109 | gigagiga |
-      | 106 | megaméga |
-      | 103 | kilokilo |
-      | 102 | hectohecto |
-      | 101 | decadéca |
-      | 10-1 | decidéci |
-      | 10-2 | centicenti |
-      | 10-3 | millimilli |
-      | 10-6 | micromicro |
-      | 10-9 | nanonano |
-      | 10-12 | picopico |
-      | 10-15 | femtofemto |
-      | 10-18 | attoatto |
-      | 10-21 | zeptozepto |
-      | 10-24 | yoctoyocto |
+      |===
+      | 1024 | yottayotta
+      | 1021 | zettazetta
+      | 1018 | exaexa
+      | 1015 | petapéta
+      | 1012 | teratéra
+      | 109 | gigagiga
+      | 106 | megaméga
+      | 103 | kilokilo
+      | 102 | hectohecto
+      | 101 | decadéca
+      | 10-1 | decidéci
+      | 10-2 | centicenti
+      | 10-3 | millimilli
+      | 10-6 | micromicro
+      | 10-9 | nanonano
+      | 10-12 | picopico
+      | 10-15 | femtofemto
+      | 10-18 | attoatto
+      | 10-21 | zeptozepto
+      | 10-24 | yoctoyocto
+      |===
   sources:
   - origin:
       ref:
@@ -173,4 +178,4 @@ data:
     designation: SI, m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 27395ef3-d855-47be-8710-d049b49c1bfb
+id: a835ac49-3816-4f1d-a448-9102e2697aaf

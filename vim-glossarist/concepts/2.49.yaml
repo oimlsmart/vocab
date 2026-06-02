@@ -2,8 +2,8 @@
 data:
   identifier: '2.49'
   localized_concepts:
-    eng: c9202fa6-c8dc-4b5f-9442-8a2b405c7d4f
-    fra: b5444eac-beec-4f42-934c-1f8bdc01b44c
+    eng: d4ed4e81-fd89-43e1-b5f9-e79e9b97677c
+    fra: cd5fca54-657b-4052-9fb0-82e6c17ec3a1
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.49'
     type: authoritative
 status: valid
-id: 9cb76cc3-c3ce-4c22-9da6-3e267b7e1dcc
+id: d8caf55c-c02f-4882-9d02-06c7341cf181
 schema_version: '3'
 ---
 data:
@@ -58,7 +58,7 @@ data:
     designation: measurement function
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: c9202fa6-c8dc-4b5f-9442-8a2b405c7d4f
+id: d4ed4e81-fd89-43e1-b5f9-e79e9b97677c
 ---
 data:
   dates:
@@ -94,4 +94,4 @@ data:
     designation: fonction de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: b5444eac-beec-4f42-934c-1f8bdc01b44c
+id: cd5fca54-657b-4052-9fb0-82e6c17ec3a1

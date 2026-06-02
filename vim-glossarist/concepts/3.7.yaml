@@ -2,8 +2,8 @@
 data:
   identifier: '3.7'
   localized_concepts:
-    eng: bace68c6-e896-4a72-9e12-f8b6eaf5ffce
-    fra: d60a5f86-293b-4c66-b1a7-bee422fb1b39
+    eng: dd3b510b-8b09-47ba-b3ff-23ead25a0fad
+    fra: a1a334ef-b0b7-412c-923f-f3791a800721
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,13 +17,13 @@ data:
         reference_from: '3.7'
     type: authoritative
 status: valid
-id: a1d5aadb-8477-4c5c-a78a-52e85844674c
-schema_version: '3'
+id: 5ff64d43-07e2-4afc-b8be-cc9b94de14bf
 related:
 - type: compare
   ref:
     source: urn:oiml:pub:v:1:2022
     id: '0.11'
+---
 ---
 data:
   dates:
@@ -52,7 +52,8 @@ data:
     designation: measuring transducer
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: bace68c6-e896-4a72-9e12-f8b6eaf5ffce
+id: dd3b510b-8b09-47ba-b3ff-23ead25a0fad
+---
 ---
 data:
   dates:
@@ -81,4 +82,4 @@ data:
     designation: transducteur de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d60a5f86-293b-4c66-b1a7-bee422fb1b39
+id: a1a334ef-b0b7-412c-923f-f3791a800721

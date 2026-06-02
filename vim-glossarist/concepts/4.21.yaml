@@ -2,8 +2,8 @@
 data:
   identifier: '4.21'
   localized_concepts:
-    eng: dfd6c43c-c8fc-4851-9bda-ae69528d5cc5
-    fra: af35cae8-1e34-4e22-9fa4-ec1fb73fd43f
+    eng: bc6cc127-da8b-4f1f-8cae-89dd8d6f1ba6
+    fra: 4d8cf337-4b19-47bc-9553-f92d11d85cd0
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '4.21'
     type: authoritative
 status: valid
-id: 66781584-806b-4fec-b2f2-c71ef22ac8fd
+id: b928be1b-b6f7-40a2-933d-e020dadbd852
 schema_version: '3'
 ---
 data:
@@ -47,7 +47,7 @@ data:
     designation: instrumental drift
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: dfd6c43c-c8fc-4851-9bda-ae69528d5cc5
+id: bc6cc127-da8b-4f1f-8cae-89dd8d6f1ba6
 ---
 data:
   dates:
@@ -76,4 +76,4 @@ data:
     designation: dérive instrumentale
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: af35cae8-1e34-4e22-9fa4-ec1fb73fd43f
+id: 4d8cf337-4b19-47bc-9553-f92d11d85cd0

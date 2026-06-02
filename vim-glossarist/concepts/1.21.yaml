@@ -2,8 +2,8 @@
 data:
   identifier: '1.21'
   localized_concepts:
-    eng: de09c4d8-b691-4ebf-b2c4-a80a9d13fadd
-    fra: bd3ad0f1-c904-4144-9d26-1fff30063fe6
+    eng: 373cc2c3-31d9-4ba9-b00a-fe031d3cbb4b
+    fra: 31667ac0-8f59-439c-8434-54231344bbe7
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.21'
     type: authoritative
 status: valid
-id: 2b9e1faa-1f13-48a0-8066-002985ad08e6
+id: 19f0c403-7f12-464a-8be1-7970026ce7f2
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: quantity calculus
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: de09c4d8-b691-4ebf-b2c4-a80a9d13fadd
+id: 373cc2c3-31d9-4ba9-b00a-fe031d3cbb4b
 ---
 data:
   dates:
@@ -80,4 +80,4 @@ data:
     designation: algèbre des grandeurs
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: bd3ad0f1-c904-4144-9d26-1fff30063fe6
+id: 31667ac0-8f59-439c-8434-54231344bbe7

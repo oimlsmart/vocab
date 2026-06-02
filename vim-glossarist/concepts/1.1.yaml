@@ -2,8 +2,8 @@
 data:
   identifier: '1.1'
   localized_concepts:
-    eng: 86da3eb3-4070-4516-9ad8-9c3d35d8ef31
-    fra: 75b77e4d-0644-45bd-8cbd-02fe748ae632
+    eng: c6aa06b6-cb48-45d9-ba84-cadac2f153c0
+    fra: ef40bf63-9dad-4810-adbb-565568ba7d56
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.1'
     type: authoritative
 status: valid
-id: 39037c3f-7809-4fc4-a6e2-7beef7f6a8fb
+id: a036b06b-578b-489c-8281-697b92aa643f
 schema_version: '3'
 ---
 data:
@@ -33,19 +33,29 @@ data:
   id: 1.1-eng
   language_code: eng
   notes:
-  - content: |-
-      The generic concept 'quantity' can be divided into several levels of specific concepts, as shown in the following table. The left hand side of the table shows specific concepts under 'quantity'. These are generic concepts for the individual quantities in the right hand.
-
-      | length, l longueur, l | radius, r rayon, r | radius of circle A, rA or r(A) rayon du cercle A, rA ou r(A) |
-      | --- | --- | --- |
-      | wavelength, λ longueur d'onde, λ | wavelength of the sodium D radiation, λD or λ(D; Na) longueur d'onde de la radiation D du sodium, λD ou λ(D; Na) |  |
-      | energy, E énergie, E | kinetic energy, T énergie cinétique, T | kinetic energy of particle i in a given system, Ti énergie cinétique de la particule i dans un système donné, Ti |
-      | heat, Q chaleur, Q | heat of vaporization of sample i of water, Qichaleur de vaporisation du spécimen i d'eau, Qi |  |
-      | electric charge, Qcharge électrique, Q | electric charge of the proton, e charge électrique du proton, e |  |
-      | electric resistance, R résistance électrique, R | electric resistance of resistor i in a given circuit, Ri résistance électrique de la résistance i dans un circuit donné, Ri |  |
-      | amount-of-substance concentration of entity B, cBconcentration en quantité de matière du constituant B, cB | amount-of-substance concentration of ethanol in wine sample i, ci(C2H5OH) concentration en quantité de matière d'éthanol dans le spécimen i de vin, ci(C2H5OH) |  |
-      | number concentration of entity B, CB nombre volumique du constituant B, CB | number concentration of erythrocytes in blood sample i, C(Erys; Bi) nombre volumique d'érythrocytes dans le spécimen i de sang, C(Erc; Sgi) |  |
-      | Rockwell C hardness, HRC dureté C de Rockwell, HRC | Rockwell C hardness of steel sample i, HRCi dureté C de Rockwell du spécimen i d'acier, HRCi |  |
+  - content: "The generic concept 'quantity' can be divided into several levels of
+      specific concepts, as shown in the following table. The left hand side of the
+      table shows specific concepts under 'quantity'. These are generic concepts for
+      the individual quantities in the right hand.\n\n|===\n| length, l longueur,
+      l | radius, r rayon, r | radius of circle A, rA or r(A) rayon du cercle A, rA
+      ou r(A)\n| wavelength, λ longueur d'onde, λ | wavelength of the sodium D radiation,
+      λD or λ(D; Na) longueur d'onde de la radiation D du sodium, λD ou λ(D; Na) |
+      \n| energy, E énergie, E | kinetic energy, T énergie cinétique, T | kinetic
+      energy of particle i in a given system, Ti énergie cinétique de la particule
+      i dans un système donné, Ti\n| heat, Q chaleur, Q | heat of vaporization of
+      sample i of water, Qichaleur de vaporisation du spécimen i d'eau, Qi | \n| electric
+      charge, Qcharge électrique, Q | electric charge of the proton, e charge électrique
+      du proton, e | \n| electric resistance, R résistance électrique, R | electric
+      resistance of resistor i in a given circuit, Ri résistance électrique de la
+      résistance i dans un circuit donné, Ri | \n| amount-of-substance concentration
+      of entity B, cBconcentration en quantité de matière du constituant B, cB | amount-of-substance
+      concentration of ethanol in wine sample i, ci(C2H5OH) concentration en quantité
+      de matière d'éthanol dans le spécimen i de vin, ci(C2H5OH) | \n| number concentration
+      of entity B, CB nombre volumique du constituant B, CB | number concentration
+      of erythrocytes in blood sample i, C(Erys; Bi) nombre volumique d'érythrocytes
+      dans le spécimen i de sang, C(Erc; Sgi) | \n| Rockwell C hardness, HRC dureté
+      C de Rockwell, HRC | Rockwell C hardness of steel sample i, HRCi dureté C de
+      Rockwell du spécimen i d'acier, HRCi | \n|==="
   - content: A reference can be a {{measurement unit,1.9}}, a {{measurement procedure,2.6}},
       a {{reference material,5.13}}, or a combination of such.
   - content: Symbols for quantities are given in the ISO 80000 and IEC 80000 series
@@ -72,7 +82,7 @@ data:
     designation: quantity
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 86da3eb3-4070-4516-9ad8-9c3d35d8ef31
+id: c6aa06b6-cb48-45d9-ba84-cadac2f153c0
 ---
 data:
   dates:
@@ -85,19 +95,29 @@ data:
   id: 1.1-fra
   language_code: fra
   notes:
-  - content: |-
-      Le concept générique de grandeur peut être subdivisé en plusieurs niveaux de concepts spécifiques, comme indiqué dans le tableau suivant. La moitié gauche du tableau présente des concepts spécifiques du concept de grandeur. Ce sont des concepts génériques pour les grandeurs individuelles de la moitié droite.
-
-      | length, l longueur, l | radius, r rayon, r | radius of circle A, rA or r(A) rayon du cercle A, rA ou r(A) |
-      | --- | --- | --- |
-      | wavelength, λ longueur d'onde, λ | wavelength of the sodium D radiation, λD or λ(D; Na) longueur d'onde de la radiation D du sodium, λD ou λ(D; Na) |  |
-      | energy, E énergie, E | kinetic energy, T énergie cinétique, T | kinetic energy of particle i in a given system, Ti énergie cinétique de la particule i dans un système donné, Ti |
-      | heat, Q chaleur, Q | heat of vaporization of sample i of water, Qichaleur de vaporisation du spécimen i d'eau, Qi |  |
-      | electric charge, Qcharge électrique, Q | electric charge of the proton, e charge électrique du proton, e |  |
-      | electric resistance, R résistance électrique, R | electric resistance of resistor i in a given circuit, Ri résistance électrique de la résistance i dans un circuit donné, Ri |  |
-      | amount-of-substance concentration of entity B, cBconcentration en quantité de matière du constituant B, cB | amount-of-substance concentration of ethanol in wine sample i, ci(C2H5OH) concentration en quantité de matière d'éthanol dans le spécimen i de vin, ci(C2H5OH) |  |
-      | number concentration of entity B, CB nombre volumique du constituant B, CB | number concentration of erythrocytes in blood sample i, C(Erys; Bi) nombre volumique d'érythrocytes dans le spécimen i de sang, C(Erc; Sgi) |  |
-      | Rockwell C hardness, HRC dureté C de Rockwell, HRC | Rockwell C hardness of steel sample i, HRCi dureté C de Rockwell du spécimen i d'acier, HRCi |  |
+  - content: "Le concept générique de grandeur peut être subdivisé en plusieurs niveaux
+      de concepts spécifiques, comme indiqué dans le tableau suivant. La moitié gauche
+      du tableau présente des concepts spécifiques du concept de grandeur. Ce sont
+      des concepts génériques pour les grandeurs individuelles de la moitié droite.\n\n|===\n|
+      length, l longueur, l | radius, r rayon, r | radius of circle A, rA or r(A)
+      rayon du cercle A, rA ou r(A)\n| wavelength, λ longueur d'onde, λ | wavelength
+      of the sodium D radiation, λD or λ(D; Na) longueur d'onde de la radiation D
+      du sodium, λD ou λ(D; Na) | \n| energy, E énergie, E | kinetic energy, T énergie
+      cinétique, T | kinetic energy of particle i in a given system, Ti énergie cinétique
+      de la particule i dans un système donné, Ti\n| heat, Q chaleur, Q | heat of
+      vaporization of sample i of water, Qichaleur de vaporisation du spécimen i d'eau,
+      Qi | \n| electric charge, Qcharge électrique, Q | electric charge of the proton,
+      e charge électrique du proton, e | \n| electric resistance, R résistance électrique,
+      R | electric resistance of resistor i in a given circuit, Ri résistance électrique
+      de la résistance i dans un circuit donné, Ri | \n| amount-of-substance concentration
+      of entity B, cBconcentration en quantité de matière du constituant B, cB | amount-of-substance
+      concentration of ethanol in wine sample i, ci(C2H5OH) concentration en quantité
+      de matière d'éthanol dans le spécimen i de vin, ci(C2H5OH) | \n| number concentration
+      of entity B, CB nombre volumique du constituant B, CB | number concentration
+      of erythrocytes in blood sample i, C(Erys; Bi) nombre volumique d'érythrocytes
+      dans le spécimen i de sang, C(Erc; Sgi) | \n| Rockwell C hardness, HRC dureté
+      C de Rockwell, HRC | Rockwell C hardness of steel sample i, HRCi dureté C de
+      Rockwell du spécimen i d'acier, HRCi | \n|==="
   - content: La référence peut être une {{unité de mesure,1.9}}, une {{procédure de
       mesure,2.6}}, un {{matériau de référence,5.13}}, ou une de leurs combinaisons.
   - content: Les séries ISO 80000 et CEI 80000 Grandeurs et unités donnent des symboles
@@ -126,4 +146,4 @@ data:
     designation: grandeur
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 75b77e4d-0644-45bd-8cbd-02fe748ae632
+id: ef40bf63-9dad-4810-adbb-565568ba7d56

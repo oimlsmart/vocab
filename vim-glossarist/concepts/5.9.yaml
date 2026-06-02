@@ -2,8 +2,8 @@
 data:
   identifier: '5.9'
   localized_concepts:
-    eng: fa66def2-a1c0-4cf5-b0ea-2236ac656976
-    fra: 920d4c02-f1f4-4595-b380-a9743ade97d1
+    eng: 82599fcd-680a-451f-8747-4c2ff35bb29e
+    fra: 8a91cae8-c36b-47d3-bd43-621b0fe2d132
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.9'
     type: authoritative
 status: valid
-id: cba16b75-ae7b-46fa-88c1-43ffa2851559
+id: 9eae3c81-a723-4e8b-bd50-5349f323f2ba
 schema_version: '3'
 ---
 data:
@@ -48,7 +48,7 @@ data:
     designation: transfer device
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: fa66def2-a1c0-4cf5-b0ea-2236ac656976
+id: 82599fcd-680a-451f-8747-4c2ff35bb29e
 ---
 data:
   dates:
@@ -75,4 +75,4 @@ data:
     designation: dispositif de transfert
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 920d4c02-f1f4-4595-b380-a9743ade97d1
+id: 8a91cae8-c36b-47d3-bd43-621b0fe2d132

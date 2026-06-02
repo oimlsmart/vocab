@@ -2,8 +2,8 @@
 data:
   identifier: '4.20'
   localized_concepts:
-    eng: 1667c019-2ff3-4578-894f-9d0ce119e1b2
-    fra: 6bbefc8a-d719-4f3c-b49a-4cb8f6f6b860
+    eng: baf5e79f-f5d5-4284-9e88-7d904a176ab6
+    fra: 836621f8-82a1-4830-bbac-7d73e558d720
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '4.20'
     type: authoritative
 status: valid
-id: 57618174-b36a-430c-b779-7d9c6fdbc486
+id: 273e5c57-caef-46ec-ae9b-f41354f5f860
 schema_version: '3'
 ---
 data:
@@ -48,7 +48,7 @@ data:
     designation: instrumental bias
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1667c019-2ff3-4578-894f-9d0ce119e1b2
+id: baf5e79f-f5d5-4284-9e88-7d904a176ab6
 ---
 data:
   dates:
@@ -78,4 +78,4 @@ data:
     designation: erreur de justesse d'un instrument, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6bbefc8a-d719-4f3c-b49a-4cb8f6f6b860
+id: 836621f8-82a1-4830-bbac-7d73e558d720

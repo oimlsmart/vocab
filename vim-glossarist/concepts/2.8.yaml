@@ -2,8 +2,8 @@
 data:
   identifier: '2.8'
   localized_concepts:
-    eng: 870d68d5-8b03-47f4-97cc-65857d80ea63
-    fra: e5e74500-e01e-4887-80cc-3926b60a586c
+    eng: d64cc518-5bce-4cb1-875b-261cfbe8c6c0
+    fra: 4607ae0c-058a-405b-98e8-41b4b400972a
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.8'
     type: authoritative
 status: valid
-id: 2270e0f0-6888-43fa-b33d-08dfc131b1dc
+id: 04ac643c-eab0-4ee6-9db4-78710491c274
 schema_version: '3'
 ---
 data:
@@ -64,7 +64,7 @@ data:
     designation: primary reference procedure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 870d68d5-8b03-47f4-97cc-65857d80ea63
+id: d64cc518-5bce-4cb1-875b-261cfbe8c6c0
 ---
 data:
   dates:
@@ -109,4 +109,4 @@ data:
     designation: procédure opératoire primaire, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e5e74500-e01e-4887-80cc-3926b60a586c
+id: 4607ae0c-058a-405b-98e8-41b4b400972a

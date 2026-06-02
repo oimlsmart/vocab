@@ -304,16 +304,14 @@ def serialize_table(table_node)
   end
   return "" if rows.empty?
 
-  # Build a proper markdown table with header separator row
+  # Build an Asciidoc table with |=== delimiters
   max_cols = rows.map(&:size).max
   normalized = rows.map { |r| r + [""] * (max_cols - r.size) }
 
   lines = []
-  # First data row as header
-  lines << "| #{normalized[0].join(' | ')} |"
-  lines << "| #{(['---'] * max_cols).join(' | ')} |"
-  # Remaining rows as body
-  normalized[1..].each { |r| lines << "| #{r.join(' | ')} |" }
+  lines << "|==="
+  normalized.each { |r| lines << "| #{r.join(' | ')}" }
+  lines << "|==="
   lines.join("\n")
 end
 

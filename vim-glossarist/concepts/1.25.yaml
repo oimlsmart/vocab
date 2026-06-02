@@ -2,8 +2,8 @@
 data:
   identifier: '1.25'
   localized_concepts:
-    eng: bf1e4a58-71a8-4ef5-956f-4583ff160bbb
-    fra: d535e09f-b14a-486b-a5ea-a4d17ec695d5
+    eng: 817d438a-8a2b-43a6-9c0e-ca1332b74663
+    fra: ef98fde8-23d6-4d3d-8648-52c84a5654aa
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.25'
     type: authoritative
 status: valid
-id: d89b81be-5eae-47de-90da-b795da8c2f97
+id: 65542742-19fb-447d-9480-99df55b98990
 schema_version: '3'
 ---
 data:
@@ -58,7 +58,7 @@ data:
     designation: numerical quantity value equation
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: bf1e4a58-71a8-4ef5-956f-4583ff160bbb
+id: 817d438a-8a2b-43a6-9c0e-ca1332b74663
 ---
 data:
   dates:
@@ -88,4 +88,4 @@ data:
     designation: équation aux valeurs numériques
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d535e09f-b14a-486b-a5ea-a4d17ec695d5
+id: ef98fde8-23d6-4d3d-8648-52c84a5654aa

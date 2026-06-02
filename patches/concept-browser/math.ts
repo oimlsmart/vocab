@@ -55,6 +55,36 @@ function mathPlaceholder(expr: string, format: string, bold: boolean): string {
   return `<span class="math-pending${bold ? ' math-bold' : ''}" data-expr="${escapeAttr(expr)}" data-format="${format}">${escapeAttr(expr)}</span>`;
 }
 
+function convertAsciiDocTables(text: string): string {
+  return text.replace(/\n?\|===\n([\s\S]*?)\n\|===/g, (_, body) => {
+    const rows = body.split('\n').filter(line => line.trim() !== '');
+    if (!rows.length) return '';
+
+    const parsedRows = rows.map(row => {
+      // Cells are prefixed with |
+      // "Header 1 | Header 2" or "| Header 1 | Header 2"
+      let cellText = row.replace(/^\s*\|/, '').trim();
+      const cells = cellText.split(/\s*\|\s*/).map(c => c.trim()).filter(c => c !== '');
+      return cells;
+    }).filter(r => r.length > 0);
+
+    if (!parsedRows.length) return '';
+
+    const maxCols = Math.max(...parsedRows.map(r => r.length));
+    const normalized = parsedRows.map(r => {
+      while (r.length < maxCols) r.push('');
+      return r;
+    });
+
+    const thead = normalized[0].map(c => `<th>${escapeHtml(c)}</th>`).join('');
+    const tbody = normalized.slice(1).map(r =>
+      `<tr>${r.map(c => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`
+    ).join('');
+
+    return `\n<table class="concept-table"><thead><tr>${thead}</tr></thead><tbody>${tbody}</tbody></table>`;
+  });
+}
+
 function convertLists(text: string): string {
   let result = text.replace(/(?:^|\n)((?:[ \t]*\* [^\n]+)(?:\n[ \t]*\* [^\n]+)*)/g, (_, block) => {
     if (/^\*stem:\[/.test(block.trimStart())) return _;
@@ -96,6 +126,7 @@ export function renderMath(text: string, xrefResolverOrOpts?: XrefResolver | Ren
   result = replaceBracketed(result, 'stem:', (expr, bold) => mathPlaceholder(expr, 'asciimath', bold));
   result = replaceBracketed(result, 'latexmath:', (expr, bold) => mathPlaceholder(expr, 'latex', bold));
 
+  result = convertAsciiDocTables(result);
   result = convertLists(result);
   result = result.replace(/\*([^*]+)\*/g, '<em>$1</em>');
   result = result.replace(/~([^~]+)~/g, '<sub>$1</sub>');

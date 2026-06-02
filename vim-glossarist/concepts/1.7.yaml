@@ -2,8 +2,8 @@
 data:
   identifier: '1.7'
   localized_concepts:
-    eng: e75b4e7a-3032-450d-bfbc-fea531190761
-    fra: 8a133fbd-1ef6-4808-943f-13f32563de15
+    eng: 309b899d-4e27-4f4f-8471-5cbd5c96e238
+    fra: 1020dbb3-798f-42c7-8068-b9b0e30b8108
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.7'
     type: authoritative
 status: valid
-id: abecfba2-b2ec-48f7-81bd-c5417b2a011c
+id: 813574b0-241d-469b-b3d4-c00b0821619f
 schema_version: '3'
 ---
 data:
@@ -60,14 +60,15 @@ data:
   - content: |-
       Symbols representing the dimensions of the base quantities in the ISQ are:
 
-      | lengthlongueur |
-      | --- |
-      | massmasse |
-      | timetemps |
-      | electric currentcourant électrique |
-      | thermodynamic temperaturetempérature thermodynamique |
-      | amount of substancequantité de matière |
-      | luminous intensityintensité lumineuse |
+      |===
+      | lengthlongueur
+      | massmasse
+      | timetemps
+      | electric currentcourant électrique
+      | thermodynamic temperaturetempérature thermodynamique
+      | amount of substancequantité de matière
+      | luminous intensityintensité lumineuse
+      |===
       Thus, the dimension of a quantity Qis denoted by dim Q = LαMβTγIδΘεNζJη where the exponents, named dimensional exponents, are positive, negative, or zero.
   sources:
   - origin:
@@ -89,7 +90,7 @@ data:
     designation: dimension
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e75b4e7a-3032-450d-bfbc-fea531190761
+id: 309b899d-4e27-4f4f-8471-5cbd5c96e238
 ---
 data:
   dates:
@@ -129,14 +130,15 @@ data:
   - content: |-
       Dans l'ISQ, les symboles correspondant aux dimensions des grandeurs de base sont:
 
-      | lengthlongueur |
-      | --- |
-      | massmasse |
-      | timetemps |
-      | electric currentcourant électrique |
-      | thermodynamic temperaturetempérature thermodynamique |
-      | amount of substancequantité de matière |
-      | luminous intensityintensité lumineuse |
+      |===
+      | lengthlongueur
+      | massmasse
+      | timetemps
+      | electric currentcourant électrique
+      | thermodynamic temperaturetempérature thermodynamique
+      | amount of substancequantité de matière
+      | luminous intensityintensité lumineuse
+      |===
       La dimension d'une grandeur Qest donc notée dim Q = LαMβTγIδΘεNζJη où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou nuls.
   sources:
   - origin:
@@ -155,4 +157,4 @@ data:
     designation: dimension d'une grandeur, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8a133fbd-1ef6-4808-943f-13f32563de15
+id: 1020dbb3-798f-42c7-8068-b9b0e30b8108
