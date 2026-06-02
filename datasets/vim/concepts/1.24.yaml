@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.24'
-    type: authoritative
 status: valid
 id: dfe75d2b-f8b5-4c08-906a-3bc07fe9977b
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   language_code: eng
   notes:
   - content: The measurement units may belong to different {{systems of units,1.13}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.24'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,14 +51,6 @@ data:
       Les unités de mesure peuvent appartenir à des {{systèmes d'unités,1.13}} différents.
       EXEMPLE 1 h/s = 3 600 et par conséquent 1 h = 3 600 s.
       EXEMPLE 2 (km/h)/(m/s) = (1/3,6) et par conséquent 1 km/h = (1/3,6) m/s.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.24'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

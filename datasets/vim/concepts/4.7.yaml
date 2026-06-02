@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.7'
-    type: authoritative
 status: valid
 id: c75bdd4e-b644-48c1-9af7-afb10868de09
 schema_version: '3'
@@ -36,14 +28,6 @@ data:
   - content: In some fields, the term is “measuring range” or “measurement range”.
   - content: The lower limit of a measuring interval should not be confused with {{detection
       limit,4.18}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.7'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -72,14 +56,6 @@ data:
       range». En français, le terme «étendue de mesure» est parfois improprement employé.
   - content: Il convient de ne pas confondre la limite inférieure d'un intervalle
       de mesure avec la {{limite de détection,4.18}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.7'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

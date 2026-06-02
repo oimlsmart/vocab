@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.5'
-    type: authoritative
 status: valid
 id: 56495f5d-0671-4d28-95a0-0f1efb1567cc
 schema_version: '3'
@@ -38,14 +30,6 @@ data:
   - content: '[Annotation] Here "quantity values" can be replaced by "values" without
       ambiguity: "absolute value of the difference between the extreme values of a
       nominal indication interval".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.5'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -70,14 +54,6 @@ data:
   - content: En anglais, l'étendue de mesure est quelquefois dénommée «span of a nominal
       interval». En français, le terme «intervalle de mesure» est parfois improprement
       employé.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.5'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.37'
-    type: authoritative
 status: valid
 id: b0eb7f1f-ea2e-44a2-a69e-36542d0ee06d
 schema_version: '3'
@@ -38,14 +30,6 @@ data:
   - content: '[Annotation] Here "true quantity values" can be replaced with "true
       values" without ambiguity: "probability that the set of true values of a measurand
       is contained within a specified coverage interval".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.37'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -70,14 +54,6 @@ data:
   - content: Il convient de ne pas confondre ce concept avec le concept statistique
       de niveau de confiance, bien que le terme «level of confidence» soit utilisé
       en anglais dans le GUM.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.37'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

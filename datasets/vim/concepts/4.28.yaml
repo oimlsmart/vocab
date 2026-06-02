@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.28'
-    type: authoritative
 status: valid
 id: 371830b8-542c-4685-a84f-61675dc0f924
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   - content: '[Annotation] Here "datum measurement error" can be replaced by "datum
       error" and "measured quantity value" can be replaced by "measured value" without
       ambiguity: "datum error where the specified measured value is zero".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.28'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -64,14 +48,6 @@ data:
   notes:
   - content: Il convient de ne pas confondre l'erreur à zéro avec l'absence d'{{erreur
       de mesure,2.16}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.28'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

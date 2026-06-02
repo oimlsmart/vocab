@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.4'
-    type: authoritative
 status: valid
 id: ece558eb-00a2-42e3-ae63-f9d44f8897d8
 schema_version: '3'
@@ -42,14 +34,6 @@ data:
   id: 5.4-eng
   language_code: eng
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -78,14 +62,6 @@ data:
       EXEMPLE 3 Étalon primaire pour les mesurages du rapport molaire d'isotopes, préparé en mélangeant des quantités de matière connues d'isotopes spécifiés.
       EXEMPLE 4 Étalon primaire de température thermodynamique constitué d'une cellule à point triple de l'eau.
       EXEMPLE 5 Le prototype international du kilogramme en tant qu'objet choisi par convention.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

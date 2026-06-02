@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.1'
-    type: authoritative
 status: valid
 id: 05a95eda-d71d-4bd9-82c1-1a596d6a3e36
 schema_version: '3'
@@ -81,14 +73,6 @@ data:
   - content: '[Annotation] Here "quantity value" can be replaced by "value" without
       ambiguity: "realization of the definition of a given quantity, with stated value
       and associated measurement uncertainty, used as a reference".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -155,14 +139,6 @@ data:
       standard»). Seule la deuxième signification relève du présent Vocabulaire.'
   - content: Le terme «étalon» est parfois utilisé pour désigner d'autres outils métrologiques,
       par exemple un étalon logiciel (voir l'ISO 5436-2).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.16'
-    type: authoritative
 status: valid
 id: 3f003db0-3c3a-4147-8bd0-dbd695ccd28d
 schema_version: '3'
@@ -44,14 +36,6 @@ data:
   - content: "[Annotation] ANNOTATION (for Note 1) (informative) [5 June 2014] The
       concept of 'measurement error' can be used either for a) or for b), but not
       for both a) and b) simultaneously."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -91,14 +75,6 @@ data:
   - content: "[Annotation] ANNOTATION (pour la Note 1) (informative) [5 juin 2014]
       Le concept d'erreur de mesure peut être utilisé dans le cas a) ou dans le cas
       b), mais pas dans les deux cas à la fois."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

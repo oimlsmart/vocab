@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.9'
-    type: authoritative
 status: valid
 id: 541cb049-a7fb-42b4-a31c-15ca13eba5a4
 schema_version: '3'
@@ -53,14 +45,6 @@ data:
       is only an approximation or estimate of the value of the measurand and thus
       is complete only when accompanied by a statement of the uncertainty of that
       estimate.")'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.9'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -102,14 +86,6 @@ data:
       seulement une approximation ou estimation de la valeur du mesurande et, de ce
       fait, est seulement complet lorsqu'il est accompagné par une expression de l'incertitude
       de cette estimation»)."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.9'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

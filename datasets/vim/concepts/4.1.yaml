@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.1'
-    type: authoritative
 status: valid
 id: a683ceaa-8497-44d9-b7a3-ebc8a06d2855
 related:
@@ -45,14 +37,6 @@ data:
       measured are not necessarily values of quantities of the same {{kind,1.2}}.
   - content: "[Annotation] Indication is sometimes understood as a quantity, which
       has a value, rather than as a value of a quantity."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -83,14 +67,6 @@ data:
       ne sont pas nécessairement des valeurs de grandeurs de même {{nature,1.2}}.
   - content: "[Annotation] Une indication est quelquefois considérée comme une grandeur
       ayant une valeur plutôt que comme une valeur d'une grandeur."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

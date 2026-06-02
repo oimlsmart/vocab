@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.35'
-    type: authoritative
 status: valid
 id: 89b56f80-bed8-48cb-adc2-ab19c0422f04
 schema_version: '3'
@@ -40,14 +32,6 @@ data:
   - content: '[Annotation] Here "combined standard measurement uncertainty" can be
       replaced with "combined standard uncertainty" without ambiguity: "product of
       a combined standard uncertainty and a factor larger than the number one".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.35'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -77,14 +61,6 @@ data:
   - content: L'incertitude élargie est appelée «incertitude globale» au paragraphe
       5 de la Recommandation INC-1 (1980) (voir le GUM) et simplement «incertitude»
       dans les documents de la CEI.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.35'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

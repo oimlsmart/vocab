@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.8'
-    type: authoritative
 status: valid
 id: 04ac643c-eab0-4ee6-9db4-78710491c274
 schema_version: '3'
@@ -47,14 +39,6 @@ data:
       method" are more generally used for a method adopted to obtain a measurement
       result without relation to a measurement standard for a quantity of the same
       kind.'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.8'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -92,14 +76,6 @@ data:
       Les termes «méthode primaire», «méthode primaire de mesure» et «méthode de mesure
       primaire» sont généralement utilisés pour une méthode servant à obtenir un résultat
       de mesure sans relation avec un étalon d'une grandeur de même nature."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.8'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

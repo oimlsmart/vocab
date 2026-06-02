@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.48'
-    type: authoritative
 status: valid
 id: 21cc0ea5-9dc4-4989-9f9c-5aa29af097d3
 schema_version: '3'
@@ -37,14 +29,6 @@ data:
       information about {{input quantities in the measurement model,2.50}}X1, …, Xn.
   - content: In more complex cases where there are two or more output quantities in
       a measurement model, the measurement model consists of more than one equation.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.48'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -76,14 +60,6 @@ data:
       sur les {{grandeurs d'entrée dans le modèle de mesure,2.50}}X1, …, Xn.
   - content: Dans les cas plus complexes où il y a deux grandeurs de sortie ou plus,
       le modèle de mesure comprend plus d'une seule équation.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.48'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

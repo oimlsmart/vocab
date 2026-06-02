@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.22'
-    type: authoritative
 status: valid
 id: 52224555-963d-4a5a-8c26-608390738f32
 schema_version: '3'
@@ -38,14 +30,6 @@ data:
   id: 1.22-eng
   language_code: eng
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.22'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,14 +53,6 @@ data:
       EXEMPLE 1 Q1 = ζQ2 Q3, où Q1, Q2 et Q3 représentent différentes grandeurs et où ζ est un facteur numérique.
       EXEMPLE 2 T = (1/2) mv2, où Test l'énergie cinétique et vla vitesse d'une particule spécifiée de masse m.
       EXEMPLE 3 n= It/F, où nest la quantité de matière d'un composé univalent, Iest le courant électrique et tla durée de l'électrolyse, et où Fest la constante de Faraday.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.22'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

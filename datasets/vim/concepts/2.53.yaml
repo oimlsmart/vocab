@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.53'
-    type: authoritative
 status: valid
 id: 767ef122-a658-4888-bfed-5dc953ae1f8f
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
       effect'.
   - content: The compensation can take different forms, such as an addend or a factor,
       or can be deduced from a table.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.53'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -64,14 +48,6 @@ data:
       d'effet systématique.
   - content: La modification peut prendre différentes formes, telles que l'addition
       d'une valeur ou la multiplication par un facteur, ou peut se déduire d'une table.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.53'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

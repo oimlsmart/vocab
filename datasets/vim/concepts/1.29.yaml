@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.29'
-    type: authoritative
 status: valid
 id: b7dad0ed-facc-45a2-9f07-bc4b222a7d92
 schema_version: '3'
@@ -30,14 +22,6 @@ data:
   id: 1.29-eng
   language_code: eng
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.29'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,14 +40,6 @@ data:
   id: 1.29-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.29'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

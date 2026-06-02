@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.31'
-    type: authoritative
 status: valid
 id: 02bf9072-40a5-4ec1-995f-342dd27d1f0c
 schema_version: '3'
@@ -37,14 +29,6 @@ data:
   - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
       value" without ambiguity: "expression of the relation between indication and
       corresponding measured value".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.31'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,14 +51,6 @@ data:
   - content: Une courbe d'étalonnage exprime une relation biunivoque qui ne fournit
       pas un {{résultat de mesure,2.9}} puisqu'elle ne contient aucune information
       sur l'{{incertitude de mesure,2.26}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.31'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

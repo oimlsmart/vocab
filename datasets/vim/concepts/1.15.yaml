@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.15'
-    type: authoritative
 status: valid
 id: 5ce0a674-86bc-4fae-85be-1390a1cf1f67
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   id: 1.15-eng
   language_code: eng
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.15'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -68,14 +52,6 @@ data:
   - content: |-
       EXEMPLE 1 L'électronvolt (environ 1,602 18 ·10–19J) est une unité d'énergie hors système pour le {{SI,1.16}}.
       EXEMPLE 2 Le jour, l'heure, la minute sont des unités de temps hors système pour le SI.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.15'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

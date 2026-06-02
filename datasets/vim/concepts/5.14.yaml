@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.14'
-    type: authoritative
 status: valid
 id: aaffc1d8-70d8-4a77-847b-abb256a78e7f
 schema_version: '3'
@@ -51,14 +43,6 @@ data:
   - content: ISO/REMCO has an analogous definition (Accred. Qual. Assur.:2006) [45]
       but uses the modifiers “metrological” and “metrologically” to refer to both
       quantity and nominal property.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -103,14 +87,6 @@ data:
   - content: La définition de l'ISO/REMCO est analogue (Accred. Qual. Assur.:2006)
       [45], mais utilise «métrologique» à la fois pour une grandeur et pour une propriété
       qualitative.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

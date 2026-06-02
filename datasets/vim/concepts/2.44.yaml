@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.44'
-    type: authoritative
 status: valid
 id: 4b4472ea-9405-4aee-9691-9783a5d6d65f
 schema_version: '3'
@@ -53,14 +45,6 @@ data:
   - content: '[Annotation] ANNOTATION (for Example 1) (informative) [5 June 2014]
       By "measurement portion" here is meant amount of material, of proper size, for
       measurement of any quantity of interest, removed from the reference material.'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.44'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -102,14 +86,6 @@ data:
       Une «prise de mesure» signifie ici un prélèvement de taille appropriée effectué
       sur le matériau de référence en vue de mesurer toute grandeur présentant de
       l'intérêt."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.44'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

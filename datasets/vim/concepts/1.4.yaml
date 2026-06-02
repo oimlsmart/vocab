@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.4'
-    type: authoritative
 status: valid
 id: 62be355d-891d-4d20-adf6-d866469c7701
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
       base quantity cannot be expressed as a product of powers of the other base quantities.
   - content: "'Number of entities' can be regarded as a base quantity in any system
       of quantities."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -75,14 +59,6 @@ data:
       des autres grandeurs de base.
   - content: On peut considérer la grandeur «nombre d'entités» comme une grandeur
       de base dans tout système de grandeurs.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

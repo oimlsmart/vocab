@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.18'
-    type: authoritative
 status: valid
 id: 2cb8abf7-7a23-4329-a7da-35e840f63d05
 schema_version: '3'
@@ -43,14 +35,6 @@ data:
   - content: '[Annotation] Here "quantity value" can be replaced by "value" without
       ambiguity: "value used as a basis for comparison with values of quantities of
       the same kind".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.18'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -82,14 +66,6 @@ data:
       b) un dispositif, par exemple un laser stabilisé,
       c) une {{procédure de mesure de référence,2.7}},
       d) une comparaison d'{{étalons,5.1}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.18'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

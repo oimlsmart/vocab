@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.20'
-    type: authoritative
 status: valid
 id: cb9d7033-dfbe-43c1-9176-9cd70ddddc2b
 schema_version: '3'
@@ -44,14 +36,6 @@ data:
   - content: For {{quantities,1.1}} that have a measurement unit (i.e. those other
       than {{ordinal quantities,1.26}}), the numerical value {Q} of a quantity Qis
       frequently denoted {Q} = Q/[Q], where [Q] denotes the measurement unit.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.20'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -83,14 +67,6 @@ data:
   - content: |-
       Pour les {{grandeurs,1.1}} qui ont une unité de mesure (c'est-à-dire autres que les {{grandeurs ordinales,1.26}}), la valeur numérique {Q} d'une grandeur Qest fréquemment notée {Q} = Q/[Q], où [Q] est le symbole de l'unité de mesure.
       EXEMPLE Pour une valeur de 5,7 kg, la valeur numérique est {m} = (5,7 kg)/kg = 5,7. La même valeur peut être exprimée comme 5 700 g et la valeur numérique est alors {m} = (5 700 g)/g = 5 700.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.20'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

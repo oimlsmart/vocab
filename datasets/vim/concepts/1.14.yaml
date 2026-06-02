@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.14'
-    type: authoritative
 status: valid
 id: 9eb9b702-33da-484d-a240-3b1358fb708b
 schema_version: '3'
@@ -38,14 +30,6 @@ data:
   - content: For a coherent system of units, {{numerical value equations,1.25}} have
       the same form, including numerical factors, as the corresponding {{quantity
       equations,1.22}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -72,14 +56,6 @@ data:
   - content: Pour un système cohérent d'unités, les {{équations aux valeurs numériques,1.25}}
       ont la même forme, y compris les facteurs numériques, que les {{équations aux
       grandeurs,1.22}} correspondantes.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

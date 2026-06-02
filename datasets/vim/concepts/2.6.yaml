@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.6'
-    type: authoritative
 status: valid
 id: 193a1668-bc89-472e-b00e-b738078d15e1
 schema_version: '3'
@@ -43,14 +35,6 @@ data:
       procedure" differs, for historical reasons, between different areas of metrology.
       In general, a measurement method delimits a broader category of operations than
       does a measurement procedure, which requires a detailed set of instructions.'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.6'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -84,14 +68,6 @@ data:
       métrologie. En général, une méthode de mesure recouvre une plus grande catégorie
       d'opérations qu'une procédure de mesure, qui nécessite un ensemble détaillé
       d'instructions."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.6'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

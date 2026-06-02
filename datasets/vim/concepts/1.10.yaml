@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.10'
-    type: authoritative
 status: valid
 id: 83988535-3695-4126-bcbd-9abe69d63822
 schema_version: '3'
@@ -41,14 +33,6 @@ data:
       {{quantity dimension,1.7}}.
   - content: For number of entities, the number one, symbol 1, can be regarded as
       a base unit in any {{system of units,1.13}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.10'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -76,14 +60,6 @@ data:
       EXEMPLE La hauteur de pluie, définie comme un volume surfacique (volume par aire) a le mètre comme {{unité dérivée cohérente,1.12}} dans le SI.
   - content: Pour un nombre d'entités, on peut considérer le nombre un, de symbole
       1, comme une unité de base dans tout {{système d'unités,1.13}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.10'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

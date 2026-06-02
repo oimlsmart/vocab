@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.3'
-    type: authoritative
 status: valid
 id: c5dcdc59-1356-4f7c-a012-c6f590300f20
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
   - content: "{{Ordinal quantities,1.26}}, such as Rockwell C hardness, are usually
       not considered to be part of a system of quantities because they are related
       to other quantities through empirical relations only."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -64,14 +48,6 @@ data:
   - content: Les {{grandeurs ordinales,1.26}}, telles que la dureté C de Rockwell,
       ne sont généralement pas considérées comme faisant partie d'un système de grandeurs,
       parce qu'elles ne sont reliées à d'autres grandeurs que par des relations empiriques.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.27'
-    type: authoritative
 status: valid
 id: 902e434b-25cf-489f-af16-baac2150d611
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
   - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
       value" without ambiguity: "measurement error of a measuring instrument or measuring
       system at a specified measured value".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.27'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -64,14 +48,6 @@ data:
   id: 4.27-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.27'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

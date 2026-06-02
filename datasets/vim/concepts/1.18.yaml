@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.18'
-    type: authoritative
 status: valid
 id: ed53422b-e43e-4c95-b4f3-06f2cd9a7a72
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   notes:
   - content: SI prefixes for decimal submultiples of SI {{base units,1.10}} and SI
       {{derived units,1.11}} are given in Note 5 of 1.16.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.18'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,14 +51,6 @@ data:
       EXEMPLE 2 Pour l'angle plan, la seconde est un sous-multiple non décimal de la minute.
   - content: Les préfixes SI pour les sous-multiples décimaux des {{unités de base,1.10}}
       et des {{unités dérivées,1.11}} du SI sont donnés à la Note 5 de 1.16.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.18'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

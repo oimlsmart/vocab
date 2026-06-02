@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.25'
-    type: authoritative
 status: valid
 id: 2c6ec8b8-25a4-47d8-ba43-7f6725ce6d6a
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
   - content: Relevant statistical terms are given in ISO 5725-1:1994 and ISO 5725-2:1994.
   - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
       "measurement precision under reproducibility conditions".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.25'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -65,14 +49,6 @@ data:
   notes:
   - content: Des termes statistiques pertinents sont donnés dans l'ISO 5725-1:1994
       et l'ISO 5725-2:1994.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.25'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

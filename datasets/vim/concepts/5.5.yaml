@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.5'
-    type: authoritative
 status: valid
 id: '09046c73-429b-459a-ab53-90a411643a58'
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
   - content: A measurement standard having its {{quantity value,1.19}} assigned by
       a ratio {{primary reference measurement procedure,2.8}} is a secondary measurement
       standard.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.5'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -75,14 +59,6 @@ data:
       secondaire.
   - content: Un étalon dont la {{valeur,1.19}} est assignée par une {{procédure de
       mesure primaire,2.8}} de mesure de rapport est un étalon secondaire.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.5'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.27'
-    type: authoritative
 status: valid
 id: 11bbd65f-bb89-4fce-8d9a-b93e8058ecbd
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
       "kind of quantity" can be replaced with "kind", without ambiguity: "ordered
       set of values of quantities of a given kind used in ranking, according to magnitude,
       quantities of that kind".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.27'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -74,14 +58,6 @@ data:
       EXEMPLE 1 Échelle des températures Celsius.
       EXEMPLE 2 Échelle de temps.
       EXEMPLE 3 Échelle de dureté C de Rockwell.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.27'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

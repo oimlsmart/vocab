@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.17'
-    type: authoritative
 status: valid
 id: bd7bea96-48e6-4fd6-bfa0-2cca3a686822
 schema_version: '3'
@@ -50,14 +42,6 @@ data:
       | (210)1 | kibi kibi
       |===
       Source: IEC 80000-13.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -97,14 +81,6 @@ data:
       | (210)1 | kibi kibi
       |===
       Source: CEI 80000-13.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

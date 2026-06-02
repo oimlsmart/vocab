@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.9'
-    type: authoritative
 status: valid
 id: 9eae3c81-a723-4e8b-bd50-5349f323f2ba
 schema_version: '3'
@@ -31,14 +23,6 @@ data:
   language_code: eng
   notes:
   - content: Sometimes, measurement standards are used as transfer devices.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.9'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -61,14 +45,6 @@ data:
   language_code: fra
   notes:
   - content: Des étalons peuvent parfois servir de dispositifs de transfert.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.9'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

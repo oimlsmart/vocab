@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.27'
-    type: authoritative
 status: valid
 id: b5b9e230-03e2-4d00-bb3b-3da39a954053
 schema_version: '3'
@@ -36,14 +28,6 @@ data:
   - content: Any change in the descriptive detail leads to another definitional uncertainty.
   - content: In the ISO/IEC Guide 98-3:2008, D.3.4, and in IEC 60359, the concept
       'definitional uncertainty' is termed “intrinsic uncertainty”.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.27'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,14 +53,6 @@ data:
       définitionnelle.
   - content: Dans le Guide ISO/CEI 98-3:2008, D.3.4, et dans la CEI 60359, le concept
       d'incertitude définitionnelle est appelé «incertitude intrinsèque».
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.27'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

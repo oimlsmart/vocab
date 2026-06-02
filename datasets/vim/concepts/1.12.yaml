@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.12'
-    type: authoritative
 status: valid
 id: adc58c33-666e-4360-aea5-a212ba1028d2
 schema_version: '3'
@@ -49,14 +41,6 @@ data:
   - content: The coherent derived unit for every derived {{quantity of dimension one,1.8}}
       in a given system of units is the number one, symbol 1. The name and symbol
       of the {{measurement unit,1.9}} one are generally not indicated.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -87,14 +71,6 @@ data:
   - content: Dans tout système d'unités, l'unité dérivée cohérente de toute grandeur
       dérivée sans dimension est le nombre un, de symbole 1. Le nom et le symbole
       de l'{{unité de mesure,1.9}} un sont généralement omis.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

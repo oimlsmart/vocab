@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.1'
-    type: authoritative
 status: valid
 id: a036b06b-578b-489c-8281-697b92aa643f
 schema_version: '3'
@@ -68,14 +60,6 @@ data:
   - content: The concept 'quantity' may be generically divided into, e.g. 'physical
       quantity', 'chemical quantity', and 'biological quantity', or {{base quantity,1.4}}
       and {{derived quantity,1.5}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -132,14 +116,6 @@ data:
   - content: Le concept de grandeur peut être subdivisé génériquement, par exemple
       «grandeur physique», «grandeur chimique» et «grandeur biologique», ou {{grandeur
       de base,1.4}} et {{grandeur dérivée,1.5}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

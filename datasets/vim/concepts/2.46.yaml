@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.46'
-    type: authoritative
 status: valid
 id: c697e830-299b-4283-9e4b-b44787166921
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
   - content: Metrological comparability of measurement results does not necessitate
       that the {{measured quantity values,2.10}} and associated {{measurement uncertainties,2.26}}
       compared be of the same order of magnitude.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.46'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -77,14 +61,6 @@ data:
   - content: Voir la Note 1 de 2.41, {{traçabilité métrologique,2.41}}.
   - content: La comparabilité métrologique ne nécessite pas que les {{valeurs mesurées,2.10}}
       et les {{incertitudes de mesure,2.26}} associées soient du même ordre de grandeur.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.46'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

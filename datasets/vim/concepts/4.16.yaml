@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.16'
-    type: authoritative
 status: valid
 id: be03dd00-72c9-4d22-a2b6-395f68f62d26
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
   - content: Discrimination threshold may depend on, e.g. noise (internal or external)
       or friction. It can also depend on the value of the quantity being measured
       and how the change is applied.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -64,14 +48,6 @@ data:
   - content: Le seuil de discrimination peut dépendre, par exemple, du bruit (interne
       ou externe) ou du frottement. Il peut aussi dépendre de la valeur de la grandeur
       mesurée et de la manière dont la variation est appliquée.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

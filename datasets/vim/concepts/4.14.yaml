@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.14'
-    type: authoritative
 status: valid
 id: cc1bd5a3-a322-479d-a4a8-96133bf21398
 schema_version: '3'
@@ -33,14 +25,6 @@ data:
   notes:
   - content: Resolution can depend on, for example, noise (internal or external) or
       friction. It may also depend on the {{value,1.19}} of a quantity being measured.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -63,14 +47,6 @@ data:
   - content: La résolution peut dépendre, par exemple, du bruit (interne ou externe)
       ou du frottement. Elle peut aussi dépendre de la {{valeur,1.19}} de la grandeur
       mesurée.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

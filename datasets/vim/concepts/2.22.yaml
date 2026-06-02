@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.22'
-    type: authoritative
 status: valid
 id: c6fb4206-30b0-4f09-a0a0-1f3245520733
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
       and unchanged, to the extent practical.
   - content: In chemistry, the term “inter-serial precision condition of measurement”
       is sometimes used to designate this concept.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.22'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -78,14 +62,6 @@ data:
       inchangées.
   - content: En chimie, on utilise quelquefois le terme «condition de fidélité inter-série»
       pour désigner ce concept.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.22'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

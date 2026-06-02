@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.26'
-    type: authoritative
 status: valid
 id: 2b428229-03b2-4190-9bb3-67d090a6560e
 related:
@@ -46,14 +38,6 @@ data:
       value" without ambiguity: "extreme value of measurement error, with respect
       to a known reference value, permitted by specifications or regulations for a
       given measurement, measuring instrument, or measuring system".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.26'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -86,14 +70,6 @@ data:
       utilisés lorsqu'il y a deux valeurs extrêmes.
   - content: Il convient de ne pas utiliser le terme «tolérance» pour désigner l'erreur
       maximale tolérée.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.26'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

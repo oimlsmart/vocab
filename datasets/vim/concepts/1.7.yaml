@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.7'
-    type: authoritative
 status: valid
 id: 813574b0-241d-469b-b3d4-c00b0821619f
 schema_version: '3'
@@ -70,14 +62,6 @@ data:
       | luminous intensityintensité lumineuse
       |===
       Thus, the dimension of a quantity Qis denoted by dim Q = LαMβTγIδΘεNζJη where the exponents, named dimensional exponents, are positive, negative, or zero.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.7'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -140,14 +124,6 @@ data:
       | luminous intensityintensité lumineuse
       |===
       La dimension d'une grandeur Qest donc notée dim Q = LαMβTγIδΘεNζJη où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou nuls.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.7'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

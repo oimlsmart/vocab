@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.43'
-    type: authoritative
 status: valid
 id: ebc0010f-cc22-4a63-ae72-9f6acfe92128
 schema_version: '3'
@@ -33,14 +25,6 @@ data:
   notes:
   - content: The expression “traceability to the SI” means 'metrological traceability
       to a measurement unit of the {{International System of Units,1.16}}'.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.43'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -65,14 +49,6 @@ data:
   notes:
   - content: L'expression «traçabilité au SI» signifie la traçabilité métrologique
       à une unité de mesure du {{Système international d'unités,1.16}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.43'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.16'
-    type: authoritative
 status: valid
 id: 64884bf3-8b71-44c8-a887-2401569b8cbc
 schema_version: '3'
@@ -38,14 +30,6 @@ data:
       and 'accuracy of a nominal property value'.
   - content: "“Data” is a plural form, “datum” is the singular. “Data” is commonly
       used in the singular sense, instead of “datum”."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -72,14 +56,6 @@ data:
       de mesure,2.13}}, soit l'«exactitude de la valeur d'une propriété qualitative».
   - content: En anglais, «data» est une forme plurielle dont le singulier est «datum».
       «Data» est couramment utilisé au sens singulier à la place de «datum».
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

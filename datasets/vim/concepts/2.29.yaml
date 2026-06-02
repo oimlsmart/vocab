@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.29'
-    type: authoritative
 status: valid
 id: 8c8a461b-1b27-4d72-aa19-6559d3ff14a2
 schema_version: '3'
@@ -40,14 +32,6 @@ data:
   language_code: eng
   notes:
   - content: See also ISO/IEC Guide 98-3:2008, 2.3.3.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.29'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -79,14 +63,6 @@ data:
       - obtenues à partir de la {{classe d'exactitude,4.25}} d'un {{instrument de mesure,3.1}} vérifié,
       - obtenues à partir de limites déduites de l'expérience personnelle.
   - content: Voir aussi le Guide ISO/CEI 98-3:2008, 2.3.3.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.29'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

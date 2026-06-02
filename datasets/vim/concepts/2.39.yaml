@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.39'
-    type: authoritative
 status: valid
 id: 8cc511a1-030c-4cc5-887d-6aba5271630e
 related:
@@ -64,14 +56,6 @@ data:
       out on a measuring system such that the system provides prescribed indications
       corresponding to given values of quantities to be measured, typically obtained
       from measurement standards."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.39'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -121,14 +105,6 @@ data:
       qui est l'ensemble des opérations réalisées sur un système de mesure pour qu'il
       fournisse des indications prescrites correspondant à des valeurs données des
       grandeurs à mesurer, habituellement à partir d'étalons de mesure."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.39'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

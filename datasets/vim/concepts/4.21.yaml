@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.21'
-    type: authoritative
 status: valid
 id: b928be1b-b6f7-40a2-933d-e020dadbd852
 schema_version: '3'
@@ -33,14 +25,6 @@ data:
   notes:
   - content: Instrumental drift is related neither to a change in a {{quantity,1.1}}
       being measured nor to a change of any recognized {{influence quantity,2.52}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.21'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,14 +46,6 @@ data:
   notes:
   - content: La dérive instrumentale n'est liée ni à une variation de la {{grandeur,1.1}}
       mesurée, ni à une variation d'une {{grandeur d'influence,2.52}} identifiée.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.21'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.28'
-    type: authoritative
 status: valid
 id: f26f730e-86ed-4985-8c32-805a683ddfeb
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
   notes:
   - content: An ordinal quantity-value scale may be established by {{measurements,2.1}}
       according to a {{measurement procedure,2.6}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.28'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -68,14 +52,6 @@ data:
       EXEMPLE 2 Échelle des indices d'octane pour les carburants.
   - content: Une échelle ordinale peut être établie par des {{mesurages,2.1}} conformément
       à une {{procédure de mesure,2.6}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.28'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.49'
-    type: authoritative
 status: valid
 id: d8caf55c-c02f-4882-9d02-06c7341cf181
 schema_version: '3'
@@ -44,14 +36,6 @@ data:
       without ambiguity: "function of quantities, the value of which, when calculated
       using known values for the input quantities in a measurement model, is a measured
       value of the output quantity in the measurement model".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.49'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -80,14 +64,6 @@ data:
       valeur de sortie unique correspondante y = f (x1, …, xn).
   - content: On utilise aussi une fonction de mesure pour calculer l'{{incertitude
       de mesure,2.26}} associée à la valeur mesurée de Y.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.49'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

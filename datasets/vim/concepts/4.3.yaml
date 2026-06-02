@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.3'
-    type: authoritative
 status: valid
 id: d7a7df0e-65bf-4757-a44b-a218c4c26abc
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   - content: In some fields, the term is “range of indications”.
   - content: '[Annotation] Here "quantity values" can be replaced by "values" without
       ambiguity: "set of values bounded by extreme possible indications".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,14 +50,6 @@ data:
       plus petite et la plus grande valeur, par exemple «99 V à 201 V».
   - content: Dans certains domaines, le terme anglais est «range of indications».
       En français, le terme «étendue des indications» est parfois employé.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

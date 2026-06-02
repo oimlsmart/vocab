@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.17'
-    type: authoritative
 status: valid
 id: 4ecb0ec1-5229-48a4-a6da-55a01f3836e7
 schema_version: '3'
@@ -33,14 +25,6 @@ data:
   language_code: eng
   notes:
   - content: Dead band can depend on the rate of change.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,14 +46,6 @@ data:
   language_code: fra
   notes:
   - content: La zone morte peut dépendre de la vitesse de la variation.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

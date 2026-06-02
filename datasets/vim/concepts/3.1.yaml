@@ -8,14 +8,6 @@ data:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.1'
-    type: authoritative
 status: valid
 id: a44e53cf-a538-427b-be65-b29dee0c83fd
 related:
@@ -39,14 +31,6 @@ data:
   - content: A measuring instrument that can be used alone is a {{measuring system,3.2}}.
   - content: A measuring instrument may be an {{indicating measuring instrument,3.3}}
       or a {{material measure,3.6}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -71,14 +55,6 @@ data:
       mesure,3.2}}.
   - content: Un instrument de mesure peut être un {{appareil de mesure indicateur,3.3}}
       ou une {{mesure matérialisée,3.6}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.1'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

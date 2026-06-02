@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.38'
-    type: authoritative
 status: valid
 id: 7f7d16fd-e586-4da9-9d01-57a1d0e8a7d8
 schema_version: '3'
@@ -38,14 +30,6 @@ data:
       can be replaced with "expanded uncertainty" without ambiguity: "number larger
       than one by which a combined standard uncertainty is multiplied to obtain an
       expanded uncertainty".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.38'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,14 +51,6 @@ data:
   notes:
   - content: Un facteur d'élargissement est habituellement noté par le symbole k (voir
       aussi le Guide ISO/CEI 98-3:2008, 2.3.6).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.38'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

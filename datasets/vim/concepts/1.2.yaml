@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.2'
-    type: authoritative
 status: valid
 id: 9257b3a1-3425-4c01-8429-da6c13b5cd0f
 schema_version: '3'
@@ -53,14 +45,6 @@ data:
       of the same kind." Two quantities of the same kind are mutually comparable,
       so that they can be placed in order of magnitude. Length and mass are quantities
       of different kinds because they are not mutually comparable.'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -99,14 +83,6 @@ data:
       l'ordre croissant ou décroissant de leurs expressions quantitatives. La longueur
       et la masse sont des grandeurs de natures différentes parce qu'elles ne sont
       pas mutuellement comparables."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

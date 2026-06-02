@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.50'
-    type: authoritative
 status: valid
 id: b563fd23-5992-4cf5-b4f9-573a774956f6
 schema_version: '3'
@@ -44,14 +36,6 @@ data:
       value" without ambiguity: "quantity that must be measured, or a quantity, the
       value of which can be otherwise obtained, in order to calculate a measured value
       of a measurand".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.50'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -83,14 +67,6 @@ data:
       de sortie d'un {{système de mesure,3.2}}.
   - content: Les {{indications,4.1}}, les {{corrections,2.53}} et les {{grandeurs
       d'influence,2.52}} sont des grandeurs d'entrée dans un modèle de mesure.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.50'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

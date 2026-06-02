@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.21'
-    type: authoritative
 status: valid
 id: 19f0c403-7f12-464a-8be1-7970026ce7f2
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
       value equations,1.25}} because quantity equations are independent of the choice
       of {{measurement units,1.9}}, whereas numerical value equations are not (see
       ISO 31-0:1992, 2.2.2).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.21'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,14 +50,6 @@ data:
       aux {{équations aux valeurs numériques,1.25}} car les premières, contrairement
       aux secondes, sont indépendantes du choix des {{unités de mesure,1.9}} (voir
       l'ISO 31-0:1992, 2.2.2).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.21'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

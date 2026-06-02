@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.13'
-    type: authoritative
 status: valid
 id: 34a5f1c9-91f2-4886-935c-6396d7c6da56
 schema_version: '3'
@@ -66,14 +58,6 @@ data:
       procedure, whereby it provides measured values for one or more measurands such
       that the values of each measurand are independent of other measurands or other
       quantities in the phenomenon, body, or substance being investigated".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.13'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -117,14 +101,6 @@ data:
       sont dans des intervalles déterminés.
   - content: Le concept de sélectivité en physique (voir Note 1) est voisin de celui
       de spécificité, tel qu'il est quelquefois utilisé en chimie.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.13'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

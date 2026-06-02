@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.22'
-    type: authoritative
 status: valid
 id: d6fadb02-45fe-4be6-9a2d-7849665c1832
 schema_version: '3'
@@ -37,14 +29,6 @@ data:
       ambiguity: "difference in indication for a given measured value, or in values
       supplied by a material measure, when an influence quantity assumes successively
       two different values".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.22'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,14 +50,6 @@ data:
   id: 4.22-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.22'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

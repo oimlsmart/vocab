@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.13'
-    type: authoritative
 status: valid
 id: ea816c5f-fc64-4a10-aee4-6c228cdc1a37
 schema_version: '3'
@@ -67,14 +59,6 @@ data:
   - content: ISO/REMCO has an analogous definition [45] but uses the term “measurement
       process” to mean 'examination' (ISO 15189:2007, 3.4), which covers both measurement
       of a quantity and examination of a nominal property.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.13'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -132,14 +116,6 @@ data:
   - content: La définition de l'ISO/REMCO [45] est analogue, mais utilise le terme
       «processus de mesure» pour signifier «examen» (ISO 15189:2007, 3.4) qui couvre
       à la fois un mesurage de la grandeur et l'examen d'une propriété qualitative.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.13'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

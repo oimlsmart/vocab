@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.12'
-    type: authoritative
 status: valid
 id: 54603038-099e-46b4-98aa-456bccbb9260
 schema_version: '3'
@@ -31,14 +23,6 @@ data:
   language_code: eng
   notes:
   - content: The term “calibrator” is only used in certain fields.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,14 +42,6 @@ data:
   language_code: fra
   notes:
   - content: En anglais, le terme «calibrator» n'est utilisé que dans certains domaines.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.3'
-    type: authoritative
 status: valid
 id: a0229b29-bef9-4800-9eac-a4041e1c32f1
 schema_version: '3'
@@ -56,14 +48,6 @@ data:
       to include corrections in the measurement model such that the value of the quantity
       that is intended to be measured can be calculated on the basis of the value
       of the quantity that is actually measured."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -101,14 +85,6 @@ data:
       possible d'inclure dans le modèle de mesure des corrections qui permettent de
       calculer la valeur de la grandeur que l'on veut mesurer à partir de la valeur
       de la grandeur effectivement mesurée."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

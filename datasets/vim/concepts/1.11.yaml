@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.11'
-    type: authoritative
 status: valid
 id: 2c14d022-6722-486c-a565-34cd5a40d826
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   id: 1.11-eng
   language_code: eng
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.11'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,14 +50,6 @@ data:
       par heure, symbole km/h, est une unité de vitesse en dehors du SI mais dont
       l'usage est accepté avec le SI. Le noeud, égal à un mille marin par heure, est
       une unité de vitesse en dehors du SI.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.11'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

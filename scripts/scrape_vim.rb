@@ -333,16 +333,6 @@ def build_localized_yaml(data)
       "id" => "#{data.term_id}-#{data.language_code}",
       "language_code" => data.language_code,
       "notes" => data.notes.map { |n| { "content" => n } },
-      "sources" => [{
-        "origin" => {
-          "ref" => { "source" => SOURCE_REF },
-          "locality" => {
-            "type" => "clause",
-            "reference_from" => data.term_id,
-          },
-        },
-        "type" => "authoritative",
-      }],
       "terms" => build_terms_yaml(data),
     },
     "date_accepted" => "2012-01-01T00:00:00+00:00",
@@ -388,16 +378,6 @@ def build_concept_file(term_id, eng_data, fra_data)
         "concept_id" => "section-#{section_for(term_id)}",
         "source" => DATASET_SOURCE,
         "ref_type" => "domain",
-      }],
-      "sources" => [{
-        "origin" => {
-          "ref" => { "source" => SOURCE_REF },
-          "locality" => {
-            "type" => "clause",
-            "reference_from" => term_id,
-          },
-        },
-        "type" => "authoritative",
       }],
     },
     "status" => "valid",

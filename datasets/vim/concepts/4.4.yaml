@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.4'
-    type: authoritative
 status: valid
 id: e91810ed-30f2-4369-8fba-58d87129cdf1
 schema_version: '3'
@@ -36,14 +28,6 @@ data:
   - content: A nominal indication interval is usually stated as its smallest and greatest
       quantity values, for example “100 V to 200 V”.
   - content: In some fields, the term is “nominal range”.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -71,14 +55,6 @@ data:
   - content: Un intervalle nominal des indications est généralement exprimé en donnant
       la plus petite et la plus grande valeur, par exemple «100 V à 200 V».
   - content: Dans certains domaines, le terme anglais est «nominal range».
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

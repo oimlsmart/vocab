@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.14'
-    type: authoritative
 status: valid
 id: cba974dd-6c2d-4ac4-8edc-7dea3ede5f26
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
   - content: '[Annotation] Here "quantity value" can be replaced with "value" without
       ambiguity: "closeness of agreement between the average of an infinite number
       of replicate measured values and a reference value".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -79,14 +63,6 @@ data:
       mais n'est pas liée à l'{{erreur aléatoire,2.19}}.
   - content: Il convient de ne pas utiliser «exactitude de mesure» pour la justesse
       de mesure.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.14'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

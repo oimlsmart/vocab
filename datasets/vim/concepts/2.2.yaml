@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.2'
-    type: authoritative
 status: valid
 id: 4322f65b-02ae-4f01-8825-1f6d369eb0cb
 related:
@@ -37,14 +29,6 @@ data:
   notes:
   - content: Metrology includes all theoretical and practical aspects of measurement,
       whatever the {{measurement uncertainty,2.26}} and field of application.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,14 +50,6 @@ data:
   notes:
   - content: La métrologie comprend tous les aspects théoriques et pratiques des mesurages,
       quels que soient l'{{incertitude de mesure,2.26}} et le domaine d'application.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

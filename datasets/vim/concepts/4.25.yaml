@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.25'
-    type: authoritative
 status: valid
 id: 3d550bb4-f825-4ae6-aaf5-083902087e20
 schema_version: '3'
@@ -36,14 +28,6 @@ data:
   - content: An accuracy class is usually denoted by a number or symbol adopted by
       convention.
   - content: Accuracy class applies to {{material measures,3.6}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.25'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -68,14 +52,6 @@ data:
   - content: Une classe d'exactitude est habituellement indiquée par un nombre ou
       un symbole adopté par convention.
   - content: Le concept de classe d'exactitude s'applique aux {{mesures matérialisées,3.6}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.25'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.24'
-    type: authoritative
 status: valid
 id: fa377a5f-459c-4791-acb6-7bca45e52de7
 schema_version: '3'
@@ -38,14 +30,6 @@ data:
       of measurement uncertainty,2.29}}.
   - content: Information relevant to instrumental measurement uncertainty may be given
       in the instrument specifications.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.24'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -72,14 +56,6 @@ data:
       B de l'incertitude,2.29}}.
   - content: Les informations relatives à l'incertitude instrumentale peuvent être
       données dans les spécifications de l'instrument.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.24'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.7'
-    type: authoritative
 status: valid
 id: 4f5b9edd-b170-42a0-a5da-87b39ff6eab7
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
       a {{reference measurement standard,5.6}}.
   - content: In relation to {{verification,2.44}}, the terms “check standard” or “control
       standard” are also sometimes used.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.7'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,14 +53,6 @@ data:
       de référence,5.6}}.
   - content: Un étalon de travail servant à la {{vérification,2.44}} est aussi désigné
       comme «étalon de vérification» ou «étalon de contrôle».
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.7'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

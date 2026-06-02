@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.41'
-    type: authoritative
 status: valid
 id: 923de308-0807-4e17-ba40-6d4555ff5533
 schema_version: '3'
@@ -64,14 +56,6 @@ data:
       traceability' or 'instrument traceability' or 'material traceability', where
       the history (“trace”) of an item is meant. Therefore, the full term of “metrological
       traceability” is preferred if there is any risk of confusion.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.41'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -125,14 +109,6 @@ data:
       d'un spécimen, d'un document, d'un instrument ou d'un matériau, où intervient
       l'historique (la trace) d'une entité. Il est donc préférable d'utiliser le terme
       complet «traçabilité métrologique » s'il y a risque de confusion.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.41'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

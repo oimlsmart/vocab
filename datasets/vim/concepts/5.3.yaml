@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.3'
-    type: authoritative
 status: valid
 id: 0f965644-1ef9-4c1d-aebc-35c08ca62b95
 schema_version: '3'
@@ -36,14 +28,6 @@ data:
       "kind of quantity" can be replaced by "kind", without ambiguity: "measurement
       standard recognized by national authority to serve in a state or economy as
       the basis for assigning values to other measurement standards for the kind concerned".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,14 +51,6 @@ data:
   id: 5.3-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

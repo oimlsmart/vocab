@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.19'
-    type: authoritative
 status: valid
 id: 3e1c53f6-e87b-4c06-9ba2-b9207a8913e4
 schema_version: '3'
@@ -78,14 +70,6 @@ data:
       the second term, "value of a quantity", or even the third term, "value" (when
       there is no possible ambiguity or confusion; for example, it is not necessary
       to write "quantity value of a measurand").'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.19'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -143,14 +127,6 @@ data:
   - content: |-
       Dans le cas de grandeurs vectorielles ou tensorielles, chaque composante a une valeur.
       EXEMPLE Force agissant sur une particule donnée, par exemple en coordonnées cartésiennes (Fx; Fy; Fz) = (−31,5; 43,2; 17,0) N.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.19'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

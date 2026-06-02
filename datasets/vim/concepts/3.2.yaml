@@ -8,14 +8,6 @@ data:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.2'
-    type: authoritative
 status: valid
 id: 38f8d4d2-a556-4844-9530-30ba7db9054c
 related:
@@ -44,14 +36,6 @@ data:
       other devices, including any reagent and supply, assembled and adapted to give
       information used to generate measured values within specified intervals for
       quantities of specified kinds".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -76,14 +60,6 @@ data:
   language_code: fra
   notes:
   - content: Un système de mesure peut consister en un seul instrument de mesure.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

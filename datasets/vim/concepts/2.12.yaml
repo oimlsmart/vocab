@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.12'
-    type: authoritative
 status: valid
 id: 93fe0aea-d7c1-43d7-88cb-8888f1c0ceb8
 schema_version: '3'
@@ -45,14 +37,6 @@ data:
       with a suitably small {{measurement uncertainty,2.26}}, which might be zero.
   - content: '[Annotation] Here "quantity value" can be replaced with "value" without
       ambiguity: "value attributed by agreement to a quantity for a given purpose".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -88,14 +72,6 @@ data:
       vraie,2.11}}.
   - content: Une valeur conventionnelle est généralement considérée comme associée
       à une {{incertitude de mesure,2.26}} convenablement petite, qui peut être nulle.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

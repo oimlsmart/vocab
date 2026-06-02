@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.20'
-    type: authoritative
 status: valid
 id: 273e5c57-caef-46ec-ae9b-f41354f5f860
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
   - content: '[Annotation] Here "reference quantity value" can be replaced by "reference
       value" without ambiguity: "average of replicate indications minus a reference
       value".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.20'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -61,14 +45,6 @@ data:
   id: 4.20-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.20'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

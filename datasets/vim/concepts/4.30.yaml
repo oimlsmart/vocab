@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.30'
-    type: authoritative
 status: valid
 id: 97c3d055-82cb-4e4d-bcb8-4c01fa35e53d
 schema_version: '3'
@@ -42,14 +34,6 @@ data:
   - content: This concept pertains to a {{calibration,2.39}} when the instrumental
       measurement uncertainty is large in comparison with the measurement uncertainties
       associated with the {{quantity values,1.19}} of {{measurement standards,5.1}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.30'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -79,14 +63,6 @@ data:
   - content: Le concept est relatif à un {{étalonnage,2.39}} quand l'incertitude instrumentale
       est grande par rapport aux incertitudes de mesure associées aux {{valeurs,1.19}}
       des {{étalons,5.1}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.30'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

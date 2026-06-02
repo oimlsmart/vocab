@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.4'
-    type: authoritative
 status: valid
 id: 1ef73be3-8130-4677-b089-f82dad3eb85a
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   language_code: eng
   notes:
   - content: The phenomenon can be of a physical, chemical, or biological nature.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,14 +53,6 @@ data:
       EXEMPLE 2 Absorption d'énergie appliquée au mesurage de la concentration en quantité de matière.
       EXEMPLE 3 Diminution de la concentration de glucose dans le sang d'un lapin à jeun, appliquée au mesurage de la concentration d'insuline dans une préparation.
   - content: Le phénomène peut être de nature physique, chimique ou biologique
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.4'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

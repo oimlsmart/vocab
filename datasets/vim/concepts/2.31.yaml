@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.31'
-    type: authoritative
 status: valid
 id: 23d0e8c0-050b-4d54-9650-58d4b69ee3fe
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
       by "standard uncertainty" in both occurrences without ambiguity: "standard uncertainty
       that is obtained using the individual standard uncertainties associated with
       the input quantities in a measurement model".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.31'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -72,14 +56,6 @@ data:
   - content: Lorsqu'il existe des corrélations entre les grandeurs d'entrée dans un
       modèle de mesure, il faut aussi prendre en compte des covariances dans le calcul
       de l'incertitude-type composée; voir aussi le Guide ISO/CEI 98-3:2008, 2.3.4.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.31'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

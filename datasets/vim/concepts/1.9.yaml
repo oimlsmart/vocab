@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.9'
-    type: authoritative
 status: valid
 id: 25d2677e-6d33-43d4-a782-6ed3c9918207
 schema_version: '3'
@@ -49,14 +41,6 @@ data:
       mole equal to 10–3 and microgram per kilogram equal to 10–9.
   - content: For a given quantity, the short term “unit” is often combined with the
       quantity name, such as “mass unit” or “unit of mass”.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.9'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -100,14 +84,6 @@ data:
       égale à 10–3, et le microgramme par kilogramme égal à 10–9.
   - content: Pour une grandeur donnée, le nom abrégé «unité» est souvent combiné avec
       le nom de la grandeur, par exemple «unité de masse».
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.9'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

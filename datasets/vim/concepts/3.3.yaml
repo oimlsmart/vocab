@@ -8,14 +8,6 @@ data:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.3'
-    type: authoritative
 status: valid
 id: 883992b9-407f-4732-bd7d-fe9e4b5b1bb8
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   - content: An indicating measuring instrument may provide a record of its {{indication,4.1}}.
   - content: An output signal may be presented in visual or acoustic form. It may
       also be transmitted to one or more other devices.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,14 +51,6 @@ data:
       {{indication,4.1}}.
   - content: Un signal de sortie peut être présenté sous forme visuelle ou acoustique.
       Il peut aussi être transmis à un ou plusieurs autres dispositifs.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '3.3'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

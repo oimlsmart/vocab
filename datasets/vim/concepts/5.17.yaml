@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.17'
-    type: authoritative
 status: valid
 id: ef7e488b-f516-4442-9aa7-2f2cb752a134
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   id: 5.17-eng
   language_code: eng
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -68,14 +52,6 @@ data:
       EXEMPLE 2 Valeurs des masses atomiques relatives des éléments, appelées aussi valeurs des poids atomiques, évaluées tous les deux ans par l'UICPA-CIAAW, approuvées par l'Assemblée générale de l'IUPAC et
       publiées dans Pure Appl. Chem.
        
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

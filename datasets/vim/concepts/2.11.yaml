@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.11'
-    type: authoritative
 status: valid
 id: 97698077-4627-4fa8-8080-b8876fccd8b2
 schema_version: '3'
@@ -52,14 +44,6 @@ data:
       reasons that the set of true values is unknowable are: 1) the measurement model
       used in a measurement may be incorrect, and 2) a mistake may be made in performing
       the measurement."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.11'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -104,14 +88,6 @@ data:
       Deux des raisons pour lesquelles l'ensemble des valeurs vraies est impossible
       à connaître sont : 1) le modèle de mesure utilisé dans un mesurage peut être
       incorrect ; 2) une erreur a pu être commise en effectuant le mesurage."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.11'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

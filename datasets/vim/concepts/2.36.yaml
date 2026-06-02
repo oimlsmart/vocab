@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.36'
-    type: authoritative
 status: valid
 id: 379270a8-c0d1-45e5-8dd2-0efe05c01d99
 schema_version: '3'
@@ -40,14 +32,6 @@ data:
   - content: '[Annotation] Here "true quantity values" can be replaced with "true
       values" without ambiguity: "interval containing the set of true values of a
       measurand with a stated probability, based on the information available".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.36'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -74,14 +58,6 @@ data:
       ISO/CEI 98-3:2008, 6.2.2).
   - content: Un intervalle élargi peut se déduire d'une {{incertitude élargie,2.35}}
       (voir le Guide ISO/CEI 98-3:2008, 2.3.5).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.36'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

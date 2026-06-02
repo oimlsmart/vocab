@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.2'
-    type: authoritative
 status: valid
 id: db737058-5c97-4c8a-840d-f3806cfce7eb
 schema_version: '3'
@@ -37,14 +29,6 @@ data:
   id: 5.2-eng
   language_code: eng
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,14 +53,6 @@ data:
       EXEMPLE 2 Gonadotrophine chorionique, 4e étalon international de l'Organisation mondiale de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule.
       EXEMPLE 3 Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence internationale pour l'énergie atomique (AIEA) pour des {{mesurages,2.1}} de rapports molaires différentiels
        relatif d'isotopes stables.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.2'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

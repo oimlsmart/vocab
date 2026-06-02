@@ -8,14 +8,6 @@ data:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.11'
-    type: authoritative
 status: valid
 id: 7d04d5ca-edb3-41a7-9f5d-92c4cd977dce
 schema_version: '3'
@@ -34,14 +26,6 @@ data:
   - content: Conservation commonly includes periodic {{verification,2.44}} of predefined
       metrological properties or {{calibration,2.39}}, storage under suitable conditions,
       and specified care in use.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.11'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,14 +51,6 @@ data:
   - content: La conservation comprend habituellement une {{vérification,2.44}} périodique
       de propriétés métrologiques choisies ou un {{étalonnage,2.39}}, un stockage
       dans des conditions appropriées et des précautions particulières lors de l'utilisation.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '5.11'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

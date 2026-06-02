@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.47'
-    type: authoritative
 status: valid
 id: 576e483d-989a-46b5-b0c8-b09a19563e27
 schema_version: '3'
@@ -51,14 +43,6 @@ data:
       a specified measurand, such that the absolute value of the difference of any
       pair of measured values from two different measurement results is smaller than
       some chosen multiple of the standard uncertainty of that difference".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.47'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -96,14 +80,6 @@ data:
       est égale à la moyenne quadratique de leurs incertitudes-types (racine carrée
       de la somme des carrés), tandis qu'elle est plus petite pour une covariance
       positive ou plus grande pour une covariance négative.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.47'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

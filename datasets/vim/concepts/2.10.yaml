@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.10'
-    type: authoritative
 status: valid
 id: eb55f8a6-1060-47e3-9dd5-bdf949e4c2bd
 schema_version: '3'
@@ -52,14 +44,6 @@ data:
       or misinterpretation in the particular context. In particular, the term "measured
       value" is sometimes used for indication, and this is not what is meant by "measured
       quantity value".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.10'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -101,14 +85,6 @@ data:
   - content: Dans le GUM, les termes «résultat de mesure » et «estimation de la valeur
       du mesurande», ou simplement «estimation du mesurande», sont utilisés au sens
       de «valeur mesurée».
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.10'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

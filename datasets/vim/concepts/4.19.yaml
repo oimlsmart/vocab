@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.19'
-    type: authoritative
 status: valid
 id: ab98fbd9-f9a9-43b7-9c14-83fb722393dc
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   language_code: eng
   notes:
   - content: Stability may be quantified in several ways.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.19'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,14 +53,6 @@ data:
       La stabilité d'un instrument de mesure peut être exprimée quantitativement de plusieurs façons.
       EXEMPLE 1 Par la durée d'un intervalle de temps au cours duquel une propriété métrologique évolue d'une quantité donnée.
       EXEMPLE 2 Par la variation d'une propriété au cours d'un intervalle de temps déterminé.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.19'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

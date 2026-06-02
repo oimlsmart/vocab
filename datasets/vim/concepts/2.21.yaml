@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.21'
-    type: authoritative
 status: valid
 id: '088381cf-28ba-469b-a7a2-2b740d9fd904'
 schema_version: '3'
@@ -33,14 +25,6 @@ data:
   notes:
   - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
       "measurement precision under a set of repeatability conditions".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.21'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,14 +46,6 @@ data:
   id: 2.21-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.21'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

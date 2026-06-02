@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.8'
-    type: authoritative
 status: valid
 id: 2c27e69f-9f64-4dad-b8a3-1eaf153b4f9b
 schema_version: '3'
@@ -45,14 +37,6 @@ data:
   - content: Some quantities of dimension one are defined as the ratios of two quantities
       of the same {{kind,1.2}}.
   - content: Numbers of entities are quantities of dimension one.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.8'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -89,14 +73,6 @@ data:
   - content: |-
       Les nombres d'entités sont des grandeurs sans dimension.
       EXEMPLES Nombre de tours dans une bobine, nombre de molécules dans un spécimen donné, dégénérescence des niveaux d'énergie d'un système quantique.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.8'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

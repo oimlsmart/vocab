@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.19'
-    type: authoritative
 status: valid
 id: 17c98d63-c791-4557-8402-21f685b7f114
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
       zero, and its variance.
   - content: Random measurement error equals measurement error minus {{systematic
       measurement error,2.17}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.19'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -79,14 +63,6 @@ data:
       supposée nulle, et par sa variance.
   - content: L'erreur aléatoire est égale à la différence entre l'erreur de mesure
       et l'{{erreur systématique,2.17}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.19'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

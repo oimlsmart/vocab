@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.52'
-    type: authoritative
 status: valid
 id: 3c4c6dce-09c4-4431-983b-2b5f3ecd4981
 related:
@@ -53,14 +45,6 @@ data:
       system,3.2}}, as in the definition above, but also those quantities that affect
       the quantities actually measured. Also, in the GUM this concept is not restricted
       to direct measurements.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.52'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -94,14 +78,6 @@ data:
       qui ont un effet sur le {{système de mesure,3.2}}, comme dans la définition
       ci-dessus, mais aussi celles qui ont un effet sur les grandeurs effectivement
       mesurées. En outre, le concept n'y est pas limité aux mesurages directs.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.52'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

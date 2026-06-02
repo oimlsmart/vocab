@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.28'
-    type: authoritative
 status: valid
 id: b2bb1318-efd7-4d2e-8a0d-1837ca07ae1b
 schema_version: '3'
@@ -41,14 +33,6 @@ data:
   - content: '[Annotation] Here "measured quantity values" can be replaced with "measured
       values" without ambiguity: "evaluation of a component of uncertainty by a statistical
       analysis of measured values obtained under defined measurement conditions".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.28'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -78,14 +62,6 @@ data:
       statistique.
   - content: Voir aussi le Guide ISO/CEI 98-3:2008, 2.3.2, l'ISO 5725, l'ISO 13528,
       l'ISO/TS 21748 et l'ISO 21749.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.28'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

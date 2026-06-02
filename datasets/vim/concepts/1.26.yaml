@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.26'
-    type: authoritative
 status: valid
 id: 54cd5674-e3ea-4eef-8707-b5b80e820843
 schema_version: '3'
@@ -42,14 +34,6 @@ data:
       of ordinal quantities have no physical meaning.
   - content: Ordinal quantities are arranged according to {{ordinal quantity-value
       scales,1.28}} (see 1.28).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.26'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -81,14 +65,6 @@ data:
       et les rapports de grandeurs ordinales n'ont pas de signification.
   - content: Les grandeurs ordinales sont classées selon des {{échelles ordinales,1.28}}
       (voir 1.28).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.26'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

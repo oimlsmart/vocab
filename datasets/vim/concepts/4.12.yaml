@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.12'
-    type: authoritative
 status: valid
 id: 02b6b655-8b81-411f-9c93-23430f9e9eee
 schema_version: '3'
@@ -36,14 +28,6 @@ data:
       being measured.
   - content: The change considered in a value of a quantity being measured must be
       large compared with the {{resolution,4.14}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -70,14 +54,6 @@ data:
   - content: La sensibilité peut dépendre de la valeur de la grandeur mesurée.
   - content: La variation de la valeur de la grandeur mesurée doit être grande par
       rapport à la {{résolution,4.14}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.12'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

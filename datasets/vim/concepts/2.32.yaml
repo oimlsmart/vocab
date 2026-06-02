@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.32'
-    type: authoritative
 status: valid
 id: e31af1a8-301d-4db2-89f6-02704dc97ab1
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
       with "standard uncertainty" and "measured quantity value" can be replaced with
       "measured value" without ambiguity: "standard uncertainty divided by the absolute
       value of the measured value".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.32'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,14 +46,6 @@ data:
   id: 2.32-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.32'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

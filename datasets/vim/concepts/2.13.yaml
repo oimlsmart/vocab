@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.13'
-    type: authoritative
 status: valid
 id: 6a3f01f5-33cc-4dec-b6dc-6c77dd5cdb39
 schema_version: '3'
@@ -52,14 +44,6 @@ data:
       Care must therefore be taken in explaining in which sense the term "measurement
       accuracy" is being used. In no case is there an established methodology for
       assigning a numerical value to measurement accuracy.'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.13'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -103,14 +87,6 @@ data:
       exactes. Il faut donc faire attention à expliquer en quel sens le terme «exactitude
       de mesure» est employé. Il n'existe en aucun cas de méthodologie établie pour
       attribuer une valeur numérique à l'exactitude de mesure."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.13'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

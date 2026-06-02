@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.30'
-    type: authoritative
 status: valid
 id: c934225f-b4c7-484d-a4d4-1b9177c18f18
 schema_version: '3'
@@ -47,14 +39,6 @@ data:
       2013] While colour of a paint sample is sometimes considered to be a nominal
       property, it is also recognized that a pure colour can be characterized by the
       wavelength of electromagnetic radiation, which is a quantity that can be measured."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.30'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -91,14 +75,6 @@ data:
       décembre 2013] La couleur d'un spécimen de peinture est parfois considérée comme
       une propriété qualitative, mais une couleur pure peut être caractérisée par
       la longueur d'onde d'une onde électromagnétique, qui est une grandeur mesurable."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.30'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

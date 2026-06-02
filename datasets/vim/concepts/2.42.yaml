@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.42'
-    type: authoritative
 status: valid
 id: aa45b88d-cad2-4062-bcde-4c62d6d15ce4
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
       if the comparison is used to check and, if necessary, correct the {{quantity
       value,1.19}} and {{measurement uncertainty,2.26}} attributed to one of the measurement
       standards.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.42'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -76,14 +60,6 @@ data:
   - content: Une comparaison entre deux étalons peut être considérée comme un étalonnage
       si elle sert à vérifier et, si nécessaire, à corriger la {{valeur,1.19}} et
       l'{{incertitude de mesure,2.26}} attribuées à l'un des étalons.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.42'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

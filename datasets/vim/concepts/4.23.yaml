@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.23'
-    type: authoritative
 status: valid
 id: ef9cc8c7-5f29-4319-8b8b-2cd7c942133e
 schema_version: '3'
@@ -39,14 +31,6 @@ data:
       value of a measuring instrument or measuring system is subjected to an abrupt
       change between two specified constant values and the instant when a corresponding
       indication settles within specified limits around its final steady value".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.23'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,14 +53,6 @@ data:
   id: 4.23-fra
   language_code: fra
   notes: []
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.23'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -100,26 +100,6 @@ pages:
         title: À propos
         source: about-fra.md
 
-  - type: about
-    route: viml-about
-    title: About VIML
-    icon: info
-    source: datasets/viml/about.md
-    translations:
-      fra:
-        title: À propos du VIML
-        source: datasets/viml/about-fra.md
-
-  - type: about
-    route: vim-about
-    title: About VIM
-    icon: info
-    source: datasets/vim/about.md
-    translations:
-      fra:
-        title: À propos du VIM
-        source: datasets/vim/about-fra.md
-
 defaults:
   language: eng
 

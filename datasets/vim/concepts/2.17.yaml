@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.17'
-    type: authoritative
 status: valid
 id: 1c0ccd40-b4d0-4dc5-8f88-005523668057
 schema_version: '3'
@@ -40,14 +32,6 @@ data:
       error.
   - content: Systematic measurement error equals measurement error minus {{random
       measurement error,2.19}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -81,14 +65,6 @@ data:
       connue.
   - content: L'erreur systématique est égale à la différence entre l'erreur de mesure
       et l'{{erreur aléatoire,2.19}}.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.17'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.6'
-    type: authoritative
 status: valid
 id: d7b682db-5182-4861-baeb-9c90fb390962
 schema_version: '3'
@@ -40,14 +32,6 @@ data:
   notes:
   - content: "“Nominal quantity value” and “nominal value” should not be used for
       'nominal property value' (see 1.30, Note 2)."
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.6'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -79,14 +63,6 @@ data:
   - content: En anglais, il convient de ne pas utilizer «nominal quantity value» et
       «nominal value» pour la valeur d'une {{propriété qualitative,1.30}} (en anglais
       «nominal property value»).
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.6'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

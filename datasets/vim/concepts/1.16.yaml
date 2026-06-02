@@ -8,14 +8,6 @@ data:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.16'
-    type: authoritative
 status: valid
 id: 5fb6a994-545a-4e8f-a27a-4d498389baa6
 related:
@@ -82,14 +74,6 @@ data:
       | 10-21 | zeptozepto
       | 10-24 | yoctoyocto
       |===
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -161,14 +145,6 @@ data:
       | 10-21 | zeptozepto
       | 10-24 | yoctoyocto
       |===
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '1.16'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

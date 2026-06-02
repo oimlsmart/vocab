@@ -8,14 +8,6 @@ data:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.29'
-    type: authoritative
 status: valid
 id: 658d9eaa-6e08-4a9c-92e1-9d78d60f1683
 schema_version: '3'
@@ -40,14 +32,6 @@ data:
   - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
       value" without ambiguity: "measurement uncertainty where the specified measured
       value is zero".'
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.29'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -73,14 +57,6 @@ data:
       de l'{{instrument de mesure,3.1}} est due seulement au bruit.
   - content: Le concept d'incertitude de mesure à zéro s'applique aussi lorsqu'une
       différence est obtenue entre le {{mesurage,2.1}} d'un spécimen et un blanc.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '4.29'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred

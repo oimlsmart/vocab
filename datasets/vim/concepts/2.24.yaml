@@ -8,14 +8,6 @@ data:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.24'
-    type: authoritative
 status: valid
 id: 3fcb6c66-bb4b-4246-b3fb-8c26ba55fb2a
 schema_version: '3'
@@ -35,14 +27,6 @@ data:
   - content: The different measuring systems may use different {{measurement procedures,2.6}}.
   - content: A specification should give the conditions changed and unchanged, to
       the extent practical.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.24'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -71,14 +55,6 @@ data:
   - content: Il convient qu'une spécification relative aux conditions contienne, dans
       la mesure du possible, les conditions que l'on fait varier et celles qui restent
       inchangées.
-  sources:
-  - origin:
-      ref:
-        source: JCGM 200:2012
-      locality:
-        type: clause
-        reference_from: '2.24'
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
