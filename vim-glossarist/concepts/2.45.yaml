@@ -1,0 +1,81 @@
+---
+data:
+  identifier: '2.45'
+  localized_concepts:
+    eng: 8bf28ea3-6569-4324-ab27-d4819d2ec51d
+    fra: 73201bb5-1b59-4c9b-a6c6-f594c1b44510
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.45'
+    type: authoritative
+status: valid
+id: 92e4e1de-7e2f-4871-b0f0-e32e47e01ac7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{verification,2.44}}, where the specified requirements are adequate
+      for an intended use"
+  examples:
+  - content: "{{Measurement procedure,2.6}}, ordinarily used for the {{measurement,2.1}}
+      of mass concentration of nitrogen in water, may be validated also for measurement
+      of mass concentration of nitrogen in human serum."
+  id: 2.45-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.45'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: validation
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8bf28ea3-6569-4324-ab27-d4819d2ec51d
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{vérification,2.44}}, où les exigences spécifiées sont adéquates pour
+      un usage déterminé"
+  examples:
+  - content: EXEMPLE Une {{procédure de mesure,2.6}}, habituellement utilisée pour
+      le {{mesurage,2.1}} de la concentration en masse d'azote dans l'eau, peut aussi
+      être validée pour le mesurage dans le sérum humain.
+  id: 2.45-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.45'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: validation
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 73201bb5-1b59-4c9b-a6c6-f594c1b44510

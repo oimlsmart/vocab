@@ -1,0 +1,89 @@
+---
+data:
+  identifier: '2.31'
+  localized_concepts:
+    eng: 56ad1e53-e0ef-463f-8725-99e36c14430d
+    fra: e47e0781-990d-4244-a49c-226e185d5a2a
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.31'
+    type: authoritative
+status: valid
+id: 8e865e89-6585-45f0-8905-2c4aaa32cae5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{standard measurement uncertainty,2.30}} that is obtained using the
+      individual {{standard measurement uncertainties,2.30}} associated with the {{input
+      quantities in a measurement model,2.50}}"
+  examples: []
+  id: 2.31-eng
+  language_code: eng
+  notes:
+  - content: In case of correlations of input quantities in a measurement model, covariances
+      must also be taken into account when calculating the combined standard measurement
+      uncertainty; see also ISO/IEC Guide 98-3:2008, 2.3.4.
+  - content: '[Annotation] Here "standard measurement uncertainty" can be replaced
+      by "standard uncertainty" in both occurrences without ambiguity: "standard uncertainty
+      that is obtained using the individual standard uncertainties associated with
+      the input quantities in a measurement model".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.31'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: combined standard measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: combined standard uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 56ad1e53-e0ef-463f-8725-99e36c14430d
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{incertitude-type,2.30}} obtenue en utilisant les {{incertitudes-types,2.30}}
+      individuelles associées aux {{grandeurs d'entrée dans un modèle de mesure,2.50}}"
+  examples: []
+  id: 2.31-fra
+  language_code: fra
+  notes:
+  - content: Lorsqu'il existe des corrélations entre les grandeurs d'entrée dans un
+      modèle de mesure, il faut aussi prendre en compte des covariances dans le calcul
+      de l'incertitude-type composée; voir aussi le Guide ISO/CEI 98-3:2008, 2.3.4.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.31'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type composée
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e47e0781-990d-4244-a49c-226e185d5a2a

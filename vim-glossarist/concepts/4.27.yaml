@@ -1,0 +1,81 @@
+---
+data:
+  identifier: '4.27'
+  localized_concepts:
+    eng: 9b070a15-24de-4e44-9adf-13003038e4da
+    fra: f265f841-2ee9-4731-aaa8-a1ebabc618a1
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.27'
+    type: authoritative
+status: valid
+id: a3060d14-e02d-4d26-8c54-c2657f0e980e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement error,2.16}} of a {{measuring instrument,3.1}} or {{measuring
+      system,3.2}} at a specified {{measured quantity value,2.10}}"
+  examples: []
+  id: 4.27-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
+      value" without ambiguity: "measurement error of a measuring instrument or measuring
+      system at a specified measured value".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: datum measurement error
+  - type: expression
+    normative_status: admitted
+    designation: datum error
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9b070a15-24de-4e44-9adf-13003038e4da
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{erreur de mesure,2.16}} d'un {{instrument de mesure,3.1}} ou d'un
+      {{système de mesure,3.2}} pour une {{valeur mesurée,2.10}} spécifiée"
+  examples: []
+  id: 4.27-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur au point de contrôle
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f265f841-2ee9-4731-aaa8-a1ebabc618a1

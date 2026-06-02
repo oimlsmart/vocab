@@ -2,14 +2,14 @@ id: viml
 domain: metanorma.github.io/oiml-viml
 uriBase: https://metanorma.github.io/oiml-viml
 basePath: /oiml-viml/
-title: VIML
-subtitle: International Vocabulary of Legal Metrology
-description: Terminology from the International Vocabulary of Legal Metrology (OIML V 1:2022)
+title: OIML Vocabularies
+subtitle: International Vocabularies of Metrology
+description: Terminology from the International Vocabularies of Metrology published by OIML and JCGM
 
 translations:
   fra:
-    subtitle: Vocabulaire international de métrologie légale
-    description: Terminologie du Vocabulaire international de métrologie légale (OIML V 1:2022)
+    subtitle: Vocabulaires internationaux de métrologie
+    description: Terminologie des Vocabulaires internationaux de métrologie publiés par l'OIML et le JCGM
 
 uiLanguages:
   - code: eng
@@ -34,6 +34,25 @@ datasets:
     owner: OIML
     color: "#004996"
     tags: [metrology, legal, oiml, vocabulary]
+    languages: [eng, fra]
+    languageOrder: [eng, fra]
+
+  - id: vim
+    uri: "urn:jcgm:pub:200:2012"
+    uriAliases:
+      - "urn:jcgm:pub:200:2012*"
+    sourceRepo: https://github.com/metanorma/oiml-viml
+    localPath: vim-glossarist
+    ref: "JCGM 200:2012"
+    title: "VIM — International Vocabulary of Metrology"
+    description: "Terminology definitions from the International Vocabulary of Metrology (JCGM 200:2012)"
+    translations:
+      fra:
+        title: "VIM — Vocabulaire international de métrologie"
+        description: "Définitions de terminologie du Vocabulaire international de métrologie (JCGM 200:2012)"
+    owner: JCGM
+    color: "#005A9C"
+    tags: [metrology, jcgm, vocabulary]
     languages: [eng, fra]
     languageOrder: [eng, fra]
 
@@ -80,8 +99,18 @@ pages:
       fra:
         title: À propos
         source: about-fra.md
+  - type: about
+    route: about-vim
+    title: About VIM
+    icon: info
+    source: about-vim.md
+    dataset: vim
+    translations:
+      fra:
+        title: À propos du VIM
+        source: about-vim-fra.md
 
 defaults:
   language: eng
 
-copyright: "OIML"
+copyright: "OIML / JCGM"

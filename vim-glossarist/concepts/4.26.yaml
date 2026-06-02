@@ -1,0 +1,100 @@
+---
+data:
+  identifier: '4.26'
+  localized_concepts:
+    eng: 5c0f0a26-3280-4f18-9a35-58ccf750f806
+    fra: ed36cc43-8805-45ec-b841-8e44e816c9b8
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.26'
+    type: authoritative
+status: valid
+id: d9bba4c0-9ece-4dd6-ad60-ac64fc8f1df5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme value of {{measurement error,2.16}}, with respect to a known
+      {{reference quantity value,5.18}}, permitted by specifications or regulations
+      for a given {{measurement,2.1}}, {{measuring instrument,3.1}}, or {{measuring
+      system,3.2}}
+  examples: []
+  id: 4.26-eng
+  language_code: eng
+  notes:
+  - content: Usually, the term “maximum permissible errors” or “limits of error” is
+      used where there are two extreme values.
+  - content: The term “tolerance” should not be used to designate 'maximum permissible
+      error'.
+  - content: '[Annotation] Here "reference quantity value" can be replaced by "reference
+      value" without ambiguity: "extreme value of measurement error, with respect
+      to a known reference value, permitted by specifications or regulations for a
+      given measurement, measuring instrument, or measuring system".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible measurement error
+  - type: expression
+    normative_status: admitted
+    designation: maximum permissible error
+  - type: expression
+    normative_status: admitted
+    designation: limit of error
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5c0f0a26-3280-4f18-9a35-58ccf750f806
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur extrême de l'{{erreur de mesure,2.16}}, par rapport à une {{valeur
+      de référence,5.18}} connue, qui est tolérée par les spécifications ou règlements
+      pour un {{mesurage,2.1}}, un {{instrument de mesure,3.1}} ou un {{système de
+      mesure,3.2}} donné
+  examples: []
+  id: 4.26-fra
+  language_code: fra
+  notes:
+  - content: Les termes «erreurs maximales tolérées» ou «limites d'erreur» sont généralement
+      utilisés lorsqu'il y a deux valeurs extrêmes.
+  - content: Il convient de ne pas utiliser le terme «tolérance» pour désigner l'erreur
+      maximale tolérée.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur maximale tolérée
+  - type: expression
+    normative_status: admitted
+    designation: limite d'erreur, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ed36cc43-8805-45ec-b841-8e44e816c9b8

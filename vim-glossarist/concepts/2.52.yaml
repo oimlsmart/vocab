@@ -1,0 +1,105 @@
+---
+data:
+  identifier: '2.52'
+  localized_concepts:
+    eng: 04d037e6-0e51-4919-bb00-1f27b48a0254
+    fra: cdc3a694-0cc2-4e10-8227-3c1c07d601dc
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.52'
+    type: authoritative
+status: valid
+id: 0c7865cf-1d12-4013-a78c-4a1e70266b7b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{quantity,1.1}} that, in a direct {{measurement,2.1}}, does not affect
+      the quantity that is actually measured, but affects the relation between the
+      {{indication,4.1}} and the {{measurement result,2.9}}"
+  examples:
+  - content: Frequency in the direct measurement with an ammeter of the constant amplitude
+      of an alternating current.
+  - content: Amount-of-substance concentration of bilirubin in a direct measurement
+      of haemoglobin amount-of-substance concentration in human blood plasma.
+  - content: Temperature of a micrometer used for measuring the length of a rod, but
+      not the temperature of the rod itself which can enter into the definition of
+      the {{measurand,2.3}}.
+  - content: Background pressure in the ion source of a mass spectrometer during a
+      measurement of amount-of-substance fraction.
+  id: 2.52-eng
+  language_code: eng
+  notes:
+  - content: An indirect measurement involves a combination of direct measurements,
+      each of which may be affected by influence quantities.
+  - content: In the GUM, the concept 'influence quantity' is defined as in the second
+      edition of the VIM, covering not only the quantities affecting the {{measuring
+      system,3.2}}, as in the definition above, but also those quantities that affect
+      the quantities actually measured. Also, in the GUM this concept is not restricted
+      to direct measurements.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.52'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 04d037e6-0e51-4919-bb00-1f27b48a0254
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{grandeur,1.1}} qui, lors d'un {{mesurage,2.1}} direct, n'a pas d'effet
+      sur la grandeur effectivement mesurée, mais a un effet sur la relation entre
+      l'{{indication,4.1}} et le {{résultat de mesure,2.9}}"
+  examples:
+  - content: |-
+      EXEMPLE 1 Fréquence lors du mesurage direct de l'amplitude constante d'un courant alternatif au moyen d'un ampèremètre.
+      EXEMPLE 2 Concentration en quantité de matière de bilirubine lors du mesurage direct de la concentration en quantité de matière d'hémoglobine dans le plasma sanguin humain.
+      EXEMPLE 3 Température d'un micromètre lors du mesurage de la longueur d'une tige, mais pas la température de la tige elle-même qui peut entrer dans la définition du {{mesurande,2.3}}.
+      EXEMPLE 4 Pression ambiante dans la source d'ions d'un spectromètre de masse lors du mesurage d'une fraction molaire.
+  id: 2.52-fra
+  language_code: fra
+  notes:
+  - content: Un mesurage indirect implique une combinaison de mesurages directs, sur
+      chacun desquels des grandeurs d'influence peuvent avoir un effet.
+  - content: Dans le GUM, le concept «grandeur d'influence » est défini comme dans
+      la deuxième édition du VIM, de façon à comprendre non seulement les grandeurs
+      qui ont un effet sur le {{système de mesure,3.2}}, comme dans la définition
+      ci-dessus, mais aussi celles qui ont un effet sur les grandeurs effectivement
+      mesurées. En outre, le concept n'y est pas limité aux mesurages directs.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.52'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur d'influence
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: cdc3a694-0cc2-4e10-8227-3c1c07d601dc

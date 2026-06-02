@@ -1,0 +1,91 @@
+---
+data:
+  identifier: '1.25'
+  localized_concepts:
+    eng: 726c7fef-e969-49e5-9304-063a99b4081d
+    fra: 0cb48ef8-d935-45ba-93b5-ef791c3b697b
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.25'
+    type: authoritative
+status: valid
+id: e51ddd49-974a-4ade-b46c-332fd37067e2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mathematical relation between {{numerical quantity values,1.20}}, based
+      on a given {{quantity equation,1.22}} and specified {{measurement units,1.9}}
+  examples:
+  - content: For the {{quantities,1.1}} in Example 1 in item 1.22, {Q1} = ζ{Q2} {Q3}
+      where {Q1}, {Q2}, and {Q3} denote the numerical values of Q1, Q2, and Q3, respectively,
+      provided that they are expressed in either {{base units,1.10}} or {{coherent
+      derived units,1.12}} or both.
+  - content: In the quantity equation for kinetic energy of a particle, T= (1/2) mv2,
+      if m= 2 kg and v= 3 m/s, then {T} = (1/2) ·2 ·32 is a numerical value equation
+      giving the numerical value 9 of Tin joules.
+  id: 1.25-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "numerical quantity value" can be replaced with "numerical
+      value" in the definition without ambiguity: "mathematical relation between numerical
+      values, based on a given quantity equation and specified measurement units".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: numerical value equation
+  - type: expression
+    normative_status: admitted
+    designation: numerical quantity value equation
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 726c7fef-e969-49e5-9304-063a99b4081d
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relation d'égalité entre des {{valeurs numériques,1.20}}, fondée sur
+      une {{équation aux grandeurs,1.22}} donnée et des {{unités de mesure,1.9}} spécifiées
+  examples:
+  - content: |-
+      EXEMPLE 1 Pour les {{grandeurs,1.1}} données dans l'Exemple 1 de 1.22, {Q1} = ζ {Q2} {Q3}, où {Q1}, {Q2} et {Q3} représentent respectivement les valeurs numériques de Q1, Q2 et Q3 lorsqu'elles sont exprimées en {{unités de base,1.10}} ou en {{unités dérivées cohérentes,1.12}} ou les deux.
+      EXEMPLE 2 Pour l'équation de l'énergie cinétique d'une particule, T= (1/2) mv2, si m= 2 kg et v= 3 m/s, alors {T} = (1/2) ·2 · 32 est une équation aux valeurs numériques donnant la valeur numérique 9 pour Ten joules.
+  id: 1.25-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équation aux valeurs numériques
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0cb48ef8-d935-45ba-93b5-ef791c3b697b

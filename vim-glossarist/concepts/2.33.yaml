@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '2.33'
+  localized_concepts:
+    eng: 8493bcbd-5bb0-45e4-a710-9890b2125abc
+    fra: 2f0226c7-81b4-41ac-a9c6-faf20c8483c6
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.33'
+    type: authoritative
+status: valid
+id: 035fe2c1-5189-403c-86f3-e1907225962e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: statement of a {{measurement uncertainty,2.26}}, of the components of
+      that measurement uncertainty, and of their calculation and combination
+  examples: []
+  id: 2.33-eng
+  language_code: eng
+  notes:
+  - content: An uncertainty budget should include the {{measurement model,2.48}},
+      estimates and measurement uncertainties associated with the {{quantities,1.1}}
+      in the measurement model, covariances, type of applied probability density functions,
+      degrees of freedom, type of evaluation of measurement uncertainty, and any {{coverage
+      factor,2.38}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.33'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty budget
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8493bcbd-5bb0-45e4-a710-9890b2125abc
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: formulation d'une {{incertitude de mesure,2.26}} et des composantes de
+      cette incertitude, ainsi que de leur calcul et de leur combinaison
+  examples: []
+  id: 2.33-fra
+  language_code: fra
+  notes:
+  - content: Un bilan d'incertitude devrait comprendre le {{modèle de mesure,2.48}},
+      les estimations et incertitudes associées aux {{grandeurs,1.1}} qui interviennent
+      dans ce modèle, les covariances, le type des fonctions de densité de probabilité
+      utilisées, les degrés de liberté, le type d'évaluation de l'incertitude, ainsi
+      que tout {{facteur d'élargissement,2.38}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.33'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilan d'incertitude
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2f0226c7-81b4-41ac-a9c6-faf20c8483c6

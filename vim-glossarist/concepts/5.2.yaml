@@ -1,0 +1,86 @@
+---
+data:
+  identifier: '5.2'
+  localized_concepts:
+    eng: 7ae0f8ec-bbf2-440b-b5fe-7e4acb4ae744
+    fra: 7dbbbec4-df38-43f6-b31e-dd0d8ab69533
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.2'
+    type: authoritative
+status: valid
+id: 8bd41fce-c750-417e-9e29-f4ef3dd5285b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}} recognized by signatories to an international
+      agreement and intended to serve worldwide"
+  examples:
+  - content: The international prototype of the kilogram.
+  - content: Chorionic gonadotrophin, World Health Organization (WHO) 4th international
+      standard 1999, 75/589, 650 International Units per ampoule.
+  - content: VSMOW2 (Vienna Standard Mean Ocean Water) distributed by the International
+      Atomic Energy Agency (IAEA) for differential stable isotope amount-of-substance
+      ratio {{measurements,2.1}}.
+  id: 5.2-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: international measurement standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7ae0f8ec-bbf2-440b-b5fe-7e4acb4ae744
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}} reconnu par les signataires d'un accord international
+      pour une utilisation mondiale"
+  examples:
+  - content: |-
+      EXEMPLE 1 Le prototype international du kilogramme.
+      EXEMPLE 2 Gonadotrophine chorionique, 4e étalon international de l'Organisation mondiale de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule.
+      EXEMPLE 3 Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence internationale pour l'énergie atomique (AIEA) pour des {{mesurages,2.1}} de rapports molaires différentiels
+       relatif d'isotopes stables.
+  id: 5.2-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon international
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7dbbbec4-df38-43f6-b31e-dd0d8ab69533

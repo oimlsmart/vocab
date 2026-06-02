@@ -1,0 +1,84 @@
+---
+data:
+  identifier: '4.2'
+  localized_concepts:
+    eng: 681bcb1d-b224-45c8-b9c8-206e88c5eb4d
+    fra: b25517f8-468f-4990-8a2e-44e83e9484d6
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.2'
+    type: authoritative
+status: valid
+id: cba0999f-7478-4629-aa23-4133b5a7dd7b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{indication,4.1}} obtained from a phenomenon, body, or substance similar
+      to the one under investigation, but for which a {{quantity,1.1}} of interest
+      is supposed not to be present, or is not contributing to the indication"
+  examples: []
+  id: 4.2-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blank indication
+  - type: expression
+    normative_status: admitted
+    designation: background indication
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 681bcb1d-b224-45c8-b9c8-206e88c5eb4d
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{indication,4.1}} obtenue à partir d'un phénomène, d'un corps ou d'une
+      substance semblable au phénomène, au corps ou à la substance en cours d'étude,
+      mais dont la {{grandeur,1.1}} d'intérêt est supposée ne pas être présente ou
+      ne contribue pas à l'indication"
+  examples: []
+  id: 4.2-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication du blanc
+  - type: expression
+    normative_status: admitted
+    designation: indication d'environnement, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b25517f8-468f-4990-8a2e-44e83e9484d6

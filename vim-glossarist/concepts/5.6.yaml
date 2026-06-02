@@ -1,0 +1,80 @@
+---
+data:
+  identifier: '5.6'
+  localized_concepts:
+    eng: 99d31c9c-08ec-4a7d-8fc8-277df612bedf
+    fra: 255b31d7-94f3-44f6-aba2-e716c15ea495
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.6'
+    type: authoritative
+status: valid
+id: 52dd38fc-4fda-4c64-a01f-5052df7ae7cf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}} designated for the {{calibration,2.39}}
+      of other measurement standards for {{quantities,1.1}} of a given {{kind,1.2}}
+      in a given organization or at a given location"
+  examples: []
+  id: 5.6-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: reference standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 99d31c9c-08ec-4a7d-8fc8-277df612bedf
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}} conçu pour l'{{étalonnage,2.39}} d'autres étalons de
+      {{grandeurs,1.1}} de même {{nature,1.2}} dans une organisation donnée ou en
+      un lieu donné"
+  examples: []
+  id: 5.6-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon de référence
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 255b31d7-94f3-44f6-aba2-e716c15ea495

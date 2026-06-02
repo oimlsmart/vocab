@@ -1,0 +1,84 @@
+---
+data:
+  identifier: '5.3'
+  localized_concepts:
+    eng: 36b0dc13-0d57-44c4-b792-3708def4a887
+    fra: 890a75c0-d2c8-4a2b-b49a-9db6155b0460
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.3'
+    type: authoritative
+status: valid
+id: 70a488c1-5c6b-435b-9536-d89a81bf50e8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}} recognized by national authority to serve
+      in a state or economy as the basis for assigning {{quantity values,1.19}} to
+      other measurement standards for the {{kind of quantity,1.2}} concerned"
+  examples: []
+  id: 5.3-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "quantity values" can be replaced by "values", and
+      "kind of quantity" can be replaced by "kind", without ambiguity: "measurement
+      standard recognized by national authority to serve in a state or economy as
+      the basis for assigning values to other measurement standards for the kind concerned".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: national measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: national standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 36b0dc13-0d57-44c4-b792-3708def4a887
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}} reconnu par une autorité nationale pour servir, dans
+      un état ou une économie, comme base à l'attribution de {{valeurs,1.19}} à d'autres
+      étalons de {{grandeurs,1.1}} de la même {{nature,1.2}}"
+  examples: []
+  id: 5.3-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon national
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 890a75c0-d2c8-4a2b-b49a-9db6155b0460

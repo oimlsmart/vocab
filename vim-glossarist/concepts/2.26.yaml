@@ -1,0 +1,133 @@
+---
+data:
+  identifier: '2.26'
+  localized_concepts:
+    eng: 6661da1f-60e1-4275-97ee-ee840bfd77aa
+    fra: b7bc68da-e9bb-4448-91af-8a97eb5be2de
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.26'
+    type: authoritative
+status: valid
+id: fa6e9bf8-531b-4ab1-8005-bfd5f09cb945
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: non-negative parameter characterizing the dispersion of the {{quantity
+      values,1.19}} being attributed to a {{measurand,2.3}}, based on the information
+      used
+  examples: []
+  id: 2.26-eng
+  language_code: eng
+  notes:
+  - content: Measurement uncertainty includes components arising from systematic effects,
+      such as components associated with {{corrections,2.53}} and the assigned quantity
+      values of {{measurement standards,5.1}}, as well as the {{definitional uncertainty,2.27}}.
+      Sometimes estimated systematic effects are not corrected for but, instead, associated
+      measurement uncertainty components are incorporated.
+  - content: The parameter may be, for example, a standard deviation called {{standard
+      measurement uncertainty,2.30}} (or a specified multiple of it), or the half-width
+      of an interval, having a stated {{coverage probability,2.37}}.
+  - content: Measurement uncertainty comprises, in general, many components. Some
+      of these may be evaluated by {{Type A evaluation of measurement uncertainty,2.28}}
+      from the statistical distribution of the quantity values from series of {{measurements,2.1}}
+      and can be characterized by standard deviations. The other components, which
+      may be evaluated by {{Type B evaluation of measurement uncertainty,2.29}}, can
+      also be characterized by standard deviations, evaluated from probability density
+      functions based on experience or other information.
+  - content: In general, for a given set of information, it is understood that the
+      measurement uncertainty is associated with a stated quantity value attributed
+      to the measurand. A modification of this value results in a modification of
+      the associated uncertainty.
+  - content: '[Annotation] Measurement uncertainty is part of a measurement result,
+      which is an outcome of a measurement. "non-negative" means "zero or positive".
+      The "information used" in the definition is the information obtained from performing
+      the measurement.'
+  - content: '[Annotation] A simplified equivalent wording of the definition is "non-negative
+      parameter characterizing the dispersion of the values being attributed to a
+      measurand, based on the information used."'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: uncertainty of measurement
+  - type: expression
+    normative_status: admitted
+    designation: uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6661da1f-60e1-4275-97ee-ee840bfd77aa
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: paramètre non négatif qui caractérise la dispersion des {{valeurs,1.19}}
+      attribuées à un {{mesurande,2.3}}, à partir des informations utilisées
+  examples: []
+  id: 2.26-fra
+  language_code: fra
+  notes:
+  - content: L'incertitude de mesure comprend des composantes provenant d'effets systématiques,
+      telles que les composantes associées aux {{corrections,2.53}} et aux valeurs
+      assignées des {{étalons,5.1}}, ainsi que l'{{incertitude définitionnelle,2.27}}.
+      Parfois, on ne corrige pas des effets systématiques estimés, mais on insère
+      plutôt des composantes associées de l'incertitude.
+  - content: Le paramètre peut être, par exemple, un écarttype appelé {{incertitude-type,2.30}}
+      (ou un de ses multiples) ou la demi-étendue d'un intervalle ayant une {{probabilité
+      de couverture,2.37}} déterminée.
+  - content: L'incertitude de mesure comprend en général de nombreuses composantes.
+      Certaines peuvent être évaluées par une {{évaluation de type A de l'incertitude,2.28}}
+      à partir de la distribution statistique des valeurs provenant de séries de {{mesurages,2.1}}
+      et peuvent être caractérisées par des écarts-types. Les autres composantes,
+      qui peuvent être évaluées par une {{évaluation de type B de l'incertitude,2.29}},
+      peuvent aussi être caractérisées par des écartstypes, évalués à partir de fonctions
+      de densité de probabilité fondées sur l'expérience ou d'autres informations.
+  - content: En général, pour des informations données, on sous-entend que l'incertitude
+      de mesure est associée à une valeur déterminée attribuée au mesurande. Une modification
+      de cette valeur entraîne une modification de l'incertitude associée.
+  - content: "[Annotation] Une incertitude de mesure fait partie d'un résultat de
+      mesure, qui est le résultat d'un mesurage. Le qualificatif «non négatif» signifie
+      «positif ou nul». Les «informations utilisées» dans la définition sont les informations
+      obtenues en effectuant le mesurage."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude de mesure
+  - type: expression
+    normative_status: admitted
+    designation: incertitude, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b7bc68da-e9bb-4448-91af-8a97eb5be2de

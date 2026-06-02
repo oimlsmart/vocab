@@ -1,0 +1,82 @@
+---
+data:
+  identifier: '3.10'
+  localized_concepts:
+    eng: 75b9c27c-3306-44e0-aac5-2c2dd1437a79
+    fra: 2ca607e3-b40f-4ace-9110-a436eab938ab
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+status: valid
+id: de438307-63b6-4b84-bacf-5926039b4281
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: series of elements of a {{measuring system,3.2}} constituting a single
+      path of the signal from a {{sensor,3.8}} to an output element
+  examples:
+  - content: Electro-acoustic measuring chain comprising a microphone, attenuator,
+      filter, amplifier, and voltmeter.
+  - content: Mechanical measuring chain comprising a Bourdon tube, system of levers,
+      two gears, and a mechanical dial.
+  id: 3.10-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring chain
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 75b9c27c-3306-44e0-aac5-2c2dd1437a79
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: suite d'éléments d'un {{système de mesure,3.2}} qui constitue un seul
+      chemin du signal depuis le {{capteur,3.8}} jusqu'à l'élément de sortie
+  examples:
+  - content: |-
+      EXEMPLE 1 Chaîne de mesure électroacoustique comprenant un microphone, un atténuateur, un filtre, un amplificateur et un voltmètre.
+      EXEMPLE 2 Chaîne de mesure mécanique comprenant un tube de Bourdon, un système de leviers, deux roues dentées et un cadran mécanique.
+  id: 3.10-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chaîne de mesure
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2ca607e3-b40f-4ace-9110-a436eab938ab

@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '4.25'
+  localized_concepts:
+    eng: f607b62b-902d-48e9-bb36-5e7f27350d08
+    fra: b94386b9-f01c-4368-b5da-852367f81269
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.25'
+    type: authoritative
+status: valid
+id: 5de7b43b-9e15-4cc6-becf-da08beb5955c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class of {{measuring instruments,3.1}} or {{measuring systems,3.2}} that
+      meet stated metrological requirements that are intended to keep {{measurement
+      errors,2.16}} or {{instrumental measurement uncertainties,4.24}} within specified
+      limits under specified operating conditions
+  examples: []
+  id: 4.25-eng
+  language_code: eng
+  notes:
+  - content: An accuracy class is usually denoted by a number or symbol adopted by
+      convention.
+  - content: Accuracy class applies to {{material measures,3.6}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f607b62b-902d-48e9-bb36-5e7f27350d08
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: classe d'{{instruments de mesure,3.1}} ou de {{systèmes de mesure,3.2}}
+      qui satisfont à certaines exigences métrologiques destinées à maintenir les
+      {{erreurs de mesure,2.16}} ou les {{incertitudes instrumentales,4.24}} entre
+      des limites spécifiées dans des conditions de fonctionnement spécifiées
+  examples: []
+  id: 4.25-fra
+  language_code: fra
+  notes:
+  - content: Une classe d'exactitude est habituellement indiquée par un nombre ou
+      un symbole adopté par convention.
+  - content: Le concept de classe d'exactitude s'applique aux {{mesures matérialisées,3.6}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: classe d'exactitude
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b94386b9-f01c-4368-b5da-852367f81269

@@ -1,0 +1,79 @@
+---
+data:
+  identifier: '2.30'
+  localized_concepts:
+    eng: e3ead8d3-afd1-4631-89a8-036fc84f3951
+    fra: eb20d747-608c-4f3e-8650-43d0a02dd463
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.30'
+    type: authoritative
+status: valid
+id: 698e070c-16ea-4512-9051-d2ecfe8bf3b9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement uncertainty,2.26}} expressed as a standard deviation"
+  examples: []
+  id: 2.30-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.30'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: standard uncertainty of measurement
+  - type: expression
+    normative_status: admitted
+    designation: standard uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e3ead8d3-afd1-4631-89a8-036fc84f3951
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{incertitude de mesure,2.26}} exprimée sous la forme d'un écart-type"
+  examples: []
+  id: 2.30-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.30'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: eb20d747-608c-4f3e-8650-43d0a02dd463

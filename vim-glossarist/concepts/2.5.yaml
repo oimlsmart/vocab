@@ -1,0 +1,113 @@
+---
+data:
+  identifier: '2.5'
+  localized_concepts:
+    eng: 5090d0cd-4e34-4d8e-a169-163fb61b7b65
+    fra: b99269b9-9d71-4fbb-8f6e-4d130e05343f
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+status: valid
+id: 714bbbde-1bdd-4cc1-b1ce-b47bafb3d8ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: generic description of a logical organization of operations used in a
+      {{measurement,2.1}}
+  examples: []
+  id: 2.5-eng
+  language_code: eng
+  notes:
+  - content: |-
+      Measurement methods may be qualified in various ways such as:
+      - substitution measurement method,
+      - differential measurement method, and
+      - null measurement method;
+      or
+      - direct measurement method, and
+      - indirect measurement method.
+      See IEC 60050-300:2001.
+  - content: '[Annotation] The use of the terms "measurement method" and "measurement
+      procedure" differs, for historical reasons, between different areas of metrology.
+      In general, a measurement method delimits a broader category of operations than
+      does a measurement procedure, which requires a detailed set of instructions.'
+  - content: '[Annotation] The terms "primary method", "primary method of measurement",
+      and "primary measurement method" are generally used for a method adopted to
+      obtain a measurement result without relation to a measurement standard for a
+      quantity of the same kind.'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement method
+  - type: expression
+    normative_status: admitted
+    designation: method of measurement
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5090d0cd-4e34-4d8e-a169-163fb61b7b65
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: description générique de l'organisation logique des opérations mises
+      en oeuvre dans un {{mesurage,2.1}}
+  examples: []
+  id: 2.5-fra
+  language_code: fra
+  notes:
+  - content: |-
+      Les méthodes de mesure peuvent être qualifiées de diverses façons telles que:
+      - méthode de mesure par substitution,
+      - méthode de mesure différentielle,
+      - méthode de mesure par zéro;
+      ou
+      - méthode de mesure directe,
+      - méthode de mesure indirecte.
+      Voir la CEI 60050-300:2001.
+  - content: "[Annotation] L'emploi des termes «méthode de mesure» et «procédure de
+      mesure» diffère, pour des raisons historiques, d'un domaine à l'autre de la
+      métrologie. En général, une méthode de mesure recouvre une plus grande catégorie
+      d'opérations qu'une procédure de mesure, qui nécessite un ensemble détaillé
+      d'instructions."
+  - content: "[Annotation] Les termes «méthode primaire», «méthode primaire de mesure»
+      et «méthode de mesure primaire» sont généralement utilisés pour une méthode
+      servant à obtenir un résultat de mesure sans relation avec un étalon d'une grandeur
+      de même nature."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: méthode de mesure
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b99269b9-9d71-4fbb-8f6e-4d130e05343f

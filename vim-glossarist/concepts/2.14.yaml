@@ -1,0 +1,99 @@
+---
+data:
+  identifier: '2.14'
+  localized_concepts:
+    eng: a549bb44-e5de-4c24-a00f-e7530007e446
+    fra: 9b1e1470-093c-40b0-945b-bc512341b99d
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+status: valid
+id: bf517a07-3966-4fc1-a4c8-8c02fabec814
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: closeness of agreement between the average of an infinite number of replicate
+      {{measured quantity values,2.10}} and a {{reference quantity value,5.18}}
+  examples: []
+  id: 2.14-eng
+  language_code: eng
+  notes:
+  - content: Measurement trueness is not a {{quantity,1.1}} and thus cannot be expressed
+      numerically, but measures for closeness of agreement are given in ISO 5725.
+  - content: Measurement trueness is inversely related to {{systematic measurement
+      error,2.17}}, but is not related to {{random measurement error,2.19}}.
+  - content: "“Measurement accuracy” should not be used for 'measurement trueness'."
+  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
+      ambiguity: "closeness of agreement between the average of an infinite number
+      of replicate measured values and a reference value".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement trueness
+  - type: expression
+    normative_status: admitted
+    designation: trueness of measurement
+  - type: expression
+    normative_status: admitted
+    designation: trueness
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a549bb44-e5de-4c24-a00f-e7530007e446
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étroitesse de l'accord entre la moyenne d'un nombre infini de {{valeurs
+      mesurées,2.10}} répétées et une {{valeur de référence,5.18}}
+  examples: []
+  id: 2.14-fra
+  language_code: fra
+  notes:
+  - content: La justesse de mesure n'est pas une {{grandeur,1.1}} et ne peut donc
+      pas s'exprimer numériquement, mais l'ISO 5725 donne des caractéristiques pour
+      l'étroitesse de l'accord.
+  - content: La justesse de mesure varie en sens inverse de l'{{erreur systématique,2.17}}
+      mais n'est pas liée à l'{{erreur aléatoire,2.19}}.
+  - content: Il convient de ne pas utiliser «exactitude de mesure» pour la justesse
+      de mesure.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: justesse de mesure
+  - type: expression
+    normative_status: admitted
+    designation: justesse, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9b1e1470-093c-40b0-945b-bc512341b99d

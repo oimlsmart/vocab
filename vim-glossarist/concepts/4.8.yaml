@@ -1,0 +1,80 @@
+---
+data:
+  identifier: '4.8'
+  localized_concepts:
+    eng: a0dcc937-0c82-416a-a2f5-be1dc35a48ef
+    fra: a72b5b3d-4d52-49cb-bdc4-ce28d74f3fc1
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.8'
+    type: authoritative
+status: valid
+id: 6cdb1fbf-65dc-435b-be5b-67a858ee5faf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating condition of a {{measuring instrument,3.1}} or {{measuring
+      system,3.2}} in which the relation established by {{calibration,2.39}} remains
+      valid even for a {{measurand,2.3}} varying with time
+  examples: []
+  id: 4.8-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: steady-state operating condition
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a0dcc937-0c82-416a-a2f5-be1dc35a48ef
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de fonctionnement d'un {{instrument de mesure,3.1}} ou d'un
+      {{système de mesure,3.2}} dans laquelle la relation établie par un {{étalonnage,2.39}}
+      reste valable même pour un {{mesurande,2.3}} qui varie en fonction du temps
+  examples: []
+  id: 4.8-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition de régime établi
+  - type: expression
+    normative_status: admitted
+    designation: condition de régime permanent, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a72b5b3d-4d52-49cb-bdc4-ce28d74f3fc1

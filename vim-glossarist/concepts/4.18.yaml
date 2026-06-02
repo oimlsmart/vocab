@@ -1,0 +1,92 @@
+---
+data:
+  identifier: '4.18'
+  localized_concepts:
+    eng: b8f038bf-7500-455a-93c1-342e215e4998
+    fra: 8a2275fe-a2df-44b1-837b-9ad9218a335e
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.18'
+    type: authoritative
+status: valid
+id: 661b6558-4345-495d-b5c9-2991c18b4a2b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measured quantity value,2.10}}, obtained by a given {{measurement
+      procedure,2.6}}, for which the probability of falsely claiming the absence of
+      a component in a material is β, given a probability α of falsely claiming its
+      presence"
+  examples: []
+  id: 4.18-eng
+  language_code: eng
+  notes:
+  - content: IUPAC recommends default values for α and β equal to 0.05.
+  - content: The abbreviation LOD is sometimes used.
+  - content: The term “sensitivity” is discouraged for 'detection limit'.
+  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
+      value" without ambiguity: "measured value, obtained by a given measurement procedure,
+      for which the probability of falsely claiming the absence of a component in
+      a material is β, given a probability α of falsely claiming its presence".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detection limit
+  - type: expression
+    normative_status: admitted
+    designation: limit of detection
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b8f038bf-7500-455a-93c1-342e215e4998
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{valeur mesurée,2.10}}, obtenue par une {{procédure de mesure,2.6}}
+      donnée, pour laquelle la probabilité de déclarer faussement l'absence d'un constituant
+      dans un matériau est β, étant donnée la probabilité α de déclarer faussement
+      sa présence"
+  examples: []
+  id: 4.18-fra
+  language_code: fra
+  notes:
+  - content: L'UICPA recommande des valeurs par défaut de α et β égales à 0,05.
+  - content: "[Applicable uniquement au texte anglais]."
+  - content: Le terme «sensibilité» est à proscrire au sens de limite de détection.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limite de détection
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8a2275fe-a2df-44b1-837b-9ad9218a335e

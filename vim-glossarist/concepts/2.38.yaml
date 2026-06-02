@@ -1,0 +1,84 @@
+---
+data:
+  identifier: '2.38'
+  localized_concepts:
+    eng: a6e74809-4d65-4988-ad4f-bd9f80a70c61
+    fra: d793f890-a95e-4e24-b1b4-77a94f168b9b
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.38'
+    type: authoritative
+status: valid
+id: 690d74b8-5162-4265-a06c-7c20d11983d5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: number larger than one by which a {{combined standard measurement uncertainty,2.31}}
+      is multiplied to obtain an {{expanded measurement uncertainty,2.35}}
+  examples: []
+  id: 2.38-eng
+  language_code: eng
+  notes:
+  - content: A coverage factor is usually symbolized k (see also ISO/IEC Guide 98-3:2008,
+      2.3.6).
+  - content: '[Annotation] Here "combined standard measurement uncertainty" can be
+      replaced with "combined standard uncertainty" and "expanded measurement uncertainty"
+      can be replaced with "expanded uncertainty" without ambiguity: "number larger
+      than one by which a combined standard uncertainty is multiplied to obtain an
+      expanded uncertainty".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.38'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage factor
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a6e74809-4d65-4988-ad4f-bd9f80a70c61
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nombre supérieur à un par lequel on multiplie une {{incertitude-type
+      composée,2.31}} pour obtenir une {{incertitude élargie,2.35}}
+  examples: []
+  id: 2.38-fra
+  language_code: fra
+  notes:
+  - content: Un facteur d'élargissement est habituellement noté par le symbole k (voir
+      aussi le Guide ISO/CEI 98-3:2008, 2.3.6).
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.38'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur d'élargissement
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d793f890-a95e-4e24-b1b4-77a94f168b9b

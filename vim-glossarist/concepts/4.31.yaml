@@ -1,0 +1,84 @@
+---
+data:
+  identifier: '4.31'
+  localized_concepts:
+    eng: 1ed8054b-a825-464e-9aa6-e5e24dcbc1fb
+    fra: afeeea40-9498-4cb6-91a9-a2893bd1c053
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.31'
+    type: authoritative
+status: valid
+id: 918675fb-5779-4701-849a-05b3482a9cfb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression of the relation between {{indication,4.1}} and corresponding
+      {{measured quantity value,2.10}}
+  examples: []
+  id: 4.31-eng
+  language_code: eng
+  notes:
+  - content: A calibration curve expresses a one-to-one relation that does not supply
+      a {{measurement result,2.9}} as it bears no information about the {{measurement
+      uncertainty,2.26}}.
+  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
+      value" without ambiguity: "expression of the relation between indication and
+      corresponding measured value".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.31'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration curve
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1ed8054b-a825-464e-9aa6-e5e24dcbc1fb
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression de la relation entre une {{indication,4.1}} et la {{valeur
+      mesurée,2.10}} correspondante
+  examples: []
+  id: 4.31-fra
+  language_code: fra
+  notes:
+  - content: Une courbe d'étalonnage exprime une relation biunivoque qui ne fournit
+      pas un {{résultat de mesure,2.9}} puisqu'elle ne contient aucune information
+      sur l'{{incertitude de mesure,2.26}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.31'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: courbe d'étalonnage
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: afeeea40-9498-4cb6-91a9-a2893bd1c053

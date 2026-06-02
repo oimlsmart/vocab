@@ -1,0 +1,81 @@
+---
+data:
+  identifier: '5.8'
+  localized_concepts:
+    eng: 9df5c24a-a563-46ca-86fe-d5efc99f564d
+    fra: 74a4225b-a45e-427a-9786-6ae7c8a08c4c
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.8'
+    type: authoritative
+status: valid
+id: fb22085e-8067-47d3-ba1b-637f4fb8d813
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}}, sometimes of special construction, intended
+      for transport between different locations"
+  examples:
+  - content: Portable battery-operated caesium-133 frequency measurement standard.
+  id: 5.8-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: travelling measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: travelling standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9df5c24a-a563-46ca-86fe-d5efc99f564d
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}}, parfois de construction spéciale, destiné au transport
+      en des lieux différents"
+  examples:
+  - content: EXEMPLE Étalon de fréquence à césium 133, portatif et fonctionnant sur
+      accumulateur.
+  id: 5.8-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon voyageur
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 74a4225b-a45e-427a-9786-6ae7c8a08c4c

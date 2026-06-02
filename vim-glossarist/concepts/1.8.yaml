@@ -1,0 +1,110 @@
+---
+data:
+  identifier: '1.8'
+  localized_concepts:
+    eng: d11ef138-f07f-4af4-85d7-1c168f1e4a6f
+    fra: d15fe049-09c1-48d9-92d8-979e71e00622
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.8'
+    type: authoritative
+status: valid
+id: 146db916-8169-49af-9548-a2352756943d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{quantity,1.1}} for which all the exponents of the factors corresponding
+      to the {{base quantities,1.4}} in its {{quantity dimension,1.7}} are zero"
+  examples: []
+  id: 1.8-eng
+  language_code: eng
+  notes:
+  - content: The term “dimensionless quantity” is commonly used and is kept here for
+      historical reasons. It stems from the fact that all exponents are zero in the
+      symbolic representation of the dimension for such quantities. The term “quantity
+      of dimension one” reflects the convention in which the symbolic representation
+      of the dimension for such quantities is the symbol 1 (see ISO 31-0:1992, 2.2.6).
+  - content: The {{measurement units,1.9}} and {{values,1.19}} of quantities of dimension
+      one are numbers, but such quantities convey more information than a number.
+  - content: |-
+      Some quantities of dimension one are defined as the ratios of two quantities of the same {{kind,1.2}}.
+
+      EXAMPLES Plane angle, solid angle, refractive index, relative permeability, mass fraction, friction factor, Mach number.
+  - content: |-
+      Numbers of entities are quantities of dimension one.
+
+      EXAMPLES Number of turns in a coil, number of molecules in a given sample, degeneracy of the energy levels of a quantum system.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity of dimension one
+  - type: expression
+    normative_status: admitted
+    designation: dimensionless quantity
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d11ef138-f07f-4af4-85d7-1c168f1e4a6f
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{grandeur,1.1}} pour laquelle tous les exposants des facteurs correspondant
+      aux {{grandeurs de base,1.4}} dans sa {{dimension,1.7}} sont nuls"
+  examples: []
+  id: 1.8-fra
+  language_code: fra
+  notes:
+  - content: Le terme «grandeur sans dimension» est d'usage courant en français. Il
+      provient du fait que tous les exposants sont nuls dans la représentation symbolique
+      de la dimension de telles grandeurs. Le terme «grandeur de dimension un» reflète
+      la convention selon laquelle la représentation symbolique de la dimension de
+      telles grandeurs est le symbole 1 (voir l'ISO 31-0:1992, 2.2.6).
+  - content: Les {{unités de mesure,1.9}} et les {{valeurs,1.19}} des grandeurs sans
+      dimension sont des nombres, mais ces grandeurs portent plus d'information qu'un
+      nombre.
+  - content: |-
+      Certaines grandeurs sans dimension sont définies comme des rapports de deux grandeurs de même {{nature,1.2}}.
+      EXEMPLES Angle plan, angle solide, indice de réfraction, perméabilité relative, fraction massique, facteur de frottement, nombre de Mach.
+  - content: |-
+      Les nombres d'entités sont des grandeurs sans dimension.
+      EXEMPLES Nombre de tours dans une bobine, nombre de molécules dans un spécimen donné, dégénérescence des niveaux d'énergie d'un système quantique.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur sans dimension
+  - type: expression
+    normative_status: admitted
+    designation: grandeur de dimension un, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d15fe049-09c1-48d9-92d8-979e71e00622

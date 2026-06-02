@@ -1,0 +1,87 @@
+---
+data:
+  identifier: '5.11'
+  localized_concepts:
+    eng: 5efbe661-6a6e-45d6-a7b8-ce83862439b6
+    fra: 6d16cb68-52c1-4665-9966-c88f3810156e
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.11'
+    type: authoritative
+status: valid
+id: a650a172-6789-471f-9de5-95cb27422587
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of operations necessary to preserve the metrological properties of
+      a {{measurement standard,5.1}} within stated limits
+  examples: []
+  id: 5.11-eng
+  language_code: eng
+  notes:
+  - content: Conservation commonly includes periodic {{verification,2.44}} of predefined
+      metrological properties or {{calibration,2.39}}, storage under suitable conditions,
+      and specified care in use.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conservation of a measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: maintenance of a measurement standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5efbe661-6a6e-45d6-a7b8-ce83862439b6
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des opérations nécessaires à la préservation des propriétés
+      métrologiques d'un {{étalon,5.1}} dans des limites déterminées
+  examples: []
+  id: 5.11-fra
+  language_code: fra
+  notes:
+  - content: La conservation comprend habituellement une {{vérification,2.44}} périodique
+      de propriétés métrologiques choisies ou un {{étalonnage,2.39}}, un stockage
+      dans des conditions appropriées et des précautions particulières lors de l'utilisation.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conservation d'un étalon
+  - type: expression
+    normative_status: admitted
+    designation: maintenance d'un étalon, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6d16cb68-52c1-4665-9966-c88f3810156e

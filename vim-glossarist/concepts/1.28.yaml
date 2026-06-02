@@ -1,0 +1,88 @@
+---
+data:
+  identifier: '1.28'
+  localized_concepts:
+    eng: c1cef6f8-d9eb-48f7-a2d0-ce8e5a5dc742
+    fra: 3113baeb-832c-4d84-9b83-047086a0b86f
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.28'
+    type: authoritative
+status: valid
+id: 39a7d04f-4803-4154-bdda-44513b29d868
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{quantity-value scale,1.27}} for {{ordinal quantities,1.26}}"
+  examples:
+  - content: Rockwell C hardness scale.
+  - content: Scale of octane numbers for petroleum fuel.
+  id: 1.28-eng
+  language_code: eng
+  notes:
+  - content: An ordinal quantity-value scale may be established by {{measurements,2.1}}
+      according to a {{measurement procedure,2.6}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.28'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ordinal quantity-value scale
+  - type: expression
+    normative_status: admitted
+    designation: ordinal value scale
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c1cef6f8-d9eb-48f7-a2d0-ce8e5a5dc742
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{échelle de valeurs,1.27}} pour {{grandeurs ordinales,1.26}}"
+  examples:
+  - content: |-
+      EXEMPLE 1 Échelle de dureté C de Rockwell.
+      EXEMPLE 2 Échelle des indices d'octane pour les carburants.
+  id: 1.28-fra
+  language_code: fra
+  notes:
+  - content: Une échelle ordinale peut être établie par des {{mesurages,2.1}} conformément
+      à une {{procédure de mesure,2.6}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.28'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle ordinale
+  - type: expression
+    normative_status: admitted
+    designation: échelle de repérage, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3113baeb-832c-4d84-9b83-047086a0b86f

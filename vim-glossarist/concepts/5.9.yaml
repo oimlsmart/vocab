@@ -1,0 +1,78 @@
+---
+data:
+  identifier: '5.9'
+  localized_concepts:
+    eng: fc9e34cb-6ddc-4542-89e0-dd3b2078b761
+    fra: fa4cd0d0-746d-4371-bf47-f0eaf55dee22
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.9'
+    type: authoritative
+status: valid
+id: 0a981f22-0980-48eb-b873-1bdfe291bd5a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device used as an intermediary to compare {{measurement standards,5.1}}
+  examples: []
+  id: 5.9-eng
+  language_code: eng
+  notes:
+  - content: Sometimes, measurement standards are used as transfer devices.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transfer measurement device
+  - type: expression
+    normative_status: admitted
+    designation: transfer device
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: fc9e34cb-6ddc-4542-89e0-dd3b2078b761
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif utilisé comme intermédiaire pour comparer entre eux des {{étalons,5.1}}
+  examples: []
+  id: 5.9-fra
+  language_code: fra
+  notes:
+  - content: Des étalons peuvent parfois servir de dispositifs de transfert.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dispositif de transfert
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: fa4cd0d0-746d-4371-bf47-f0eaf55dee22

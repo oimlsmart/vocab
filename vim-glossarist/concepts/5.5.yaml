@@ -1,0 +1,92 @@
+---
+data:
+  identifier: '5.5'
+  localized_concepts:
+    eng: 93a70d13-cad5-4c54-b9c5-e2fa7e20a3c6
+    fra: 0ed412f3-2012-42eb-97d3-072ac599ccbf
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.5'
+    type: authoritative
+status: valid
+id: 33a2ed9c-d4f7-452d-bacb-52742aad057f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}} established through {{calibration,2.39}}
+      with respect to a {{primary measurement standard,5.4}} for a {{quantity,1.1}}
+      of the same {{kind,1.2}}"
+  examples: []
+  id: 5.5-eng
+  language_code: eng
+  notes:
+  - content: Calibration may be obtained directly between a primary measurement standard
+      and a secondary measurement standard, or involve an intermediate {{measuring
+      system,3.2}} calibrated by the primary measurement standard and assigning a
+      {{measurement result,2.9}} to the secondary measurement standard.
+  - content: A measurement standard having its {{quantity value,1.19}} assigned by
+      a ratio {{primary reference measurement procedure,2.8}} is a secondary measurement
+      standard.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: secondary standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 93a70d13-cad5-4c54-b9c5-e2fa7e20a3c6
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}} établi par l'intermédiaire d'un {{étalonnage,2.39}} par
+      rapport à un {{étalon primaire,5.4}} d'une {{grandeur,1.1}} de même {{nature,1.2}}"
+  examples: []
+  id: 5.5-fra
+  language_code: fra
+  notes:
+  - content: On peut obtenir directement la relation entre l'étalon primaire et l'étalon
+      secondaire ou mettre en oeuvre un {{système de mesure,3.2}} intermédiaire étalonné
+      par l'étalon primaire, qui assigne un {{résultat de mesure,2.9}} à l'étalon
+      secondaire.
+  - content: Un étalon dont la {{valeur,1.19}} est assignée par une {{procédure de
+      mesure primaire,2.8}} de mesure de rapport est un étalon secondaire.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon secondaire
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0ed412f3-2012-42eb-97d3-072ac599ccbf

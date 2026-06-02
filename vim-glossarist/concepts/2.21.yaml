@@ -1,0 +1,82 @@
+---
+data:
+  identifier: '2.21'
+  localized_concepts:
+    eng: 4fdda249-c873-4939-a7fe-26e557fd3498
+    fra: 43e2e97b-0fb3-42b8-8e0b-782e406d58f4
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.21'
+    type: authoritative
+status: valid
+id: 21c0d2a0-3d2d-40ab-99f2-028d406714a1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement precision,2.15}} under a set of {{repeatability conditions
+      of measurement,2.20}}"
+  examples: []
+  id: 2.21-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
+      "measurement precision under a set of repeatability conditions".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement repeatability
+  - type: expression
+    normative_status: admitted
+    designation: repeatability
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4fdda249-c873-4939-a7fe-26e557fd3498
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de répétabilité,2.20}}"
+  examples: []
+  id: 2.21-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: répétabilité de mesure
+  - type: expression
+    normative_status: admitted
+    designation: répétabilité, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 43e2e97b-0fb3-42b8-8e0b-782e406d58f4

@@ -1,0 +1,87 @@
+---
+data:
+  identifier: '4.16'
+  localized_concepts:
+    eng: a38b682e-fb4c-42f2-8097-e4ae41e6f6d6
+    fra: 48bb9c65-ae3a-4a15-8b12-615935d9f6fd
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.16'
+    type: authoritative
+status: valid
+id: 8de2502a-c690-4cf5-beb5-53b08f51254e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: largest change in a {{value,1.19}} of a {{quantity,1.1}} being measured
+      that causes no detectable change in the corresponding {{indication,4.1}}
+  examples: []
+  id: 4.16-eng
+  language_code: eng
+  notes:
+  - content: Discrimination threshold may depend on, e.g. noise (internal or external)
+      or friction. It can also depend on the value of the quantity being measured
+      and how the change is applied.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discrimination threshold
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a38b682e-fb4c-42f2-8097-e4ae41e6f6d6
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: variation la plus grande de la {{valeur,1.19}} d'une {{grandeur,1.1}}
+      mesurée qui ne produit aucune variation détectable de l'{{indication,4.1}} correspondante
+  examples: []
+  id: 4.16-fra
+  language_code: fra
+  notes:
+  - content: Le seuil de discrimination peut dépendre, par exemple, du bruit (interne
+      ou externe) ou du frottement. Il peut aussi dépendre de la valeur de la grandeur
+      mesurée et de la manière dont la variation est appliquée.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: seuil de discrimination
+  - type: expression
+    normative_status: admitted
+    designation: seuil de mobilité, m
+  - type: expression
+    normative_status: admitted
+    designation: mobilité, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 48bb9c65-ae3a-4a15-8b12-615935d9f6fd

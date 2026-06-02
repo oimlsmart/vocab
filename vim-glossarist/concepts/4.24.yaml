@@ -1,0 +1,89 @@
+---
+data:
+  identifier: '4.24'
+  localized_concepts:
+    eng: 2c0347ff-70cb-4bca-8974-4e1d19f2f9f1
+    fra: 5dc9782a-fe82-4ee6-935e-b74cd5c61fed
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.24'
+    type: authoritative
+status: valid
+id: 2dccb20c-4fee-4aa2-a443-39e24f042851
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component of {{measurement uncertainty,2.26}} arising from a {{measuring
+      instrument,3.1}} or {{measuring system,3.2}} in use
+  examples: []
+  id: 4.24-eng
+  language_code: eng
+  notes:
+  - content: Instrumental measurement uncertainty is obtained through {{calibration,2.39}}
+      of a measuring instrument or measuring system, except for a {{primary measurement
+      standard,5.4}} for which other means are used.
+  - content: Instrumental measurement uncertainty is used in a {{Type B evaluation
+      of measurement uncertainty,2.29}}.
+  - content: Information relevant to instrumental measurement uncertainty may be given
+      in the instrument specifications.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.24'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrumental measurement uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2c0347ff-70cb-4bca-8974-4e1d19f2f9f1
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: composante de l'{{incertitude de mesure,2.26}} qui provient de l'{{instrument
+      de mesure,3.1}} ou du {{système de mesure,3.2}} utilisé
+  examples: []
+  id: 4.24-fra
+  language_code: fra
+  notes:
+  - content: L'incertitude instrumentale est obtenue par {{étalonnage,2.39}} de l'instrument
+      de mesure ou du système de mesure, sauf pour un {{étalon primaire,5.4}}, pour
+      lequel on utilise d'autres moyens.
+  - content: L'incertitude instrumentale est utilisée dans une {{évaluation de type
+      B de l'incertitude,2.29}}.
+  - content: Les informations relatives à l'incertitude instrumentale peuvent être
+      données dans les spécifications de l'instrument.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.24'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude instrumentale
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5dc9782a-fe82-4ee6-935e-b74cd5c61fed

@@ -1,0 +1,86 @@
+---
+data:
+  identifier: '2.27'
+  localized_concepts:
+    eng: ce14f5b7-eaed-4da2-b347-07ccf1efe260
+    fra: d76d57da-3cbd-4836-b05a-8efa5a099202
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.27'
+    type: authoritative
+status: valid
+id: 64714c63-f024-405b-96bb-3b58f9e0c8db
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component of {{measurement uncertainty,2.26}} resulting from the finite
+      amount of detail in the definition of a {{measurand,2.3}}
+  examples: []
+  id: 2.27-eng
+  language_code: eng
+  notes:
+  - content: Definitional uncertainty is the practical minimum measurement uncertainty
+      achievable in any {{measurement,2.1}} of a given measurand.
+  - content: Any change in the descriptive detail leads to another definitional uncertainty.
+  - content: In the ISO/IEC Guide 98-3:2008, D.3.4, and in IEC 60359, the concept
+      'definitional uncertainty' is termed “intrinsic uncertainty”.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: definitional uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ce14f5b7-eaed-4da2-b347-07ccf1efe260
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: composante de l'{{incertitude de mesure,2.26}} qui résulte de la quantité
+      finie de détails dans la définition d'un {{mesurande,2.3}}
+  examples: []
+  id: 2.27-fra
+  language_code: fra
+  notes:
+  - content: L'incertitude définitionnelle est l'incertitude minimale que l'on peut
+      obtenir en pratique par tout {{mesurage,2.1}} d'un mesurande donné.
+  - content: Toute modification des détails descriptifs conduit à une autre incertitude
+      définitionnelle.
+  - content: Dans le Guide ISO/CEI 98-3:2008, D.3.4, et dans la CEI 60359, le concept
+      d'incertitude définitionnelle est appelé «incertitude intrinsèque».
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude définitionnelle
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d76d57da-3cbd-4836-b05a-8efa5a099202

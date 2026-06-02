@@ -1,0 +1,80 @@
+---
+data:
+  identifier: '4.14'
+  localized_concepts:
+    eng: bd19d0c6-7ac4-49d8-99e6-a10d74336931
+    fra: 7587f376-f87f-407f-8e96-c5ce80b185d8
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.14'
+    type: authoritative
+status: valid
+id: e7c1825b-69b0-4bc4-a2d7-5581683705d8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest change in a {{quantity,1.1}} being measured that causes a perceptible
+      change in the corresponding {{indication,4.1}}
+  examples: []
+  id: 4.14-eng
+  language_code: eng
+  notes:
+  - content: Resolution can depend on, for example, noise (internal or external) or
+      friction. It may also depend on the {{value,1.19}} of a quantity being measured.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: bd19d0c6-7ac4-49d8-99e6-a10d74336931
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: plus petite variation de la {{grandeur,1.1}} mesurée qui produit une
+      variation perceptible de l'{{indication,4.1}} correspondante
+  examples: []
+  id: 4.14-fra
+  language_code: fra
+  notes:
+  - content: La résolution peut dépendre, par exemple, du bruit (interne ou externe)
+      ou du frottement. Elle peut aussi dépendre de la {{valeur,1.19}} de la grandeur
+      mesurée.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résolution
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7587f376-f87f-407f-8e96-c5ce80b185d8

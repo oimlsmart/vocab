@@ -1,0 +1,87 @@
+---
+data:
+  identifier: '3.3'
+  localized_concepts:
+    eng: dbefdb94-c6ec-432b-a970-b590978971ce
+    fra: e42bd162-7e2e-4c8a-9eb0-fd8f80178faa
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+status: valid
+id: 1e489bb9-74c9-4a29-abb3-02fc62518c07
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measuring instrument,3.1}} providing an output signal carrying information
+      about the {{value,1.19}} of the {{quantity,1.1}} being measured"
+  examples:
+  - content: Voltmeter, micrometer, thermometer, electronic balance.
+  id: 3.3-eng
+  language_code: eng
+  notes:
+  - content: An indicating measuring instrument may provide a record of its {{indication,4.1}}.
+  - content: An output signal may be presented in visual or acoustic form. It may
+      also be transmitted to one or more other devices.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating measuring instrument
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: dbefdb94-c6ec-432b-a970-b590978971ce
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{instrument de mesure,3.1}} qui fournit un signal de sortie porteur
+      d'informations sur la {{valeur,1.19}} de la {{grandeur,1.1}} mesurée"
+  examples:
+  - content: EXEMPLES Voltmètre, micromètre à vis, thermomètre, balance électronique.
+  id: 3.3-fra
+  language_code: fra
+  notes:
+  - content: Un appareil de mesure indicateur peut fournir un enregistrement de son
+      {{indication,4.1}}.
+  - content: Un signal de sortie peut être présenté sous forme visuelle ou acoustique.
+      Il peut aussi être transmis à un ou plusieurs autres dispositifs.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appareil de mesure indicateur
+  - type: expression
+    normative_status: admitted
+    designation: appareil indicateur, m
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e42bd162-7e2e-4c8a-9eb0-fd8f80178faa

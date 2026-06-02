@@ -1,0 +1,83 @@
+---
+data:
+  identifier: '4.22'
+  localized_concepts:
+    eng: febb853e-6d40-443a-a3d1-4b21ba65e1c4
+    fra: 6f777d9a-242c-4730-9edc-f67bfdc3374a
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.22'
+    type: authoritative
+status: valid
+id: bfaaaf93-c1b7-4f63-b606-4e37e69959c1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference in {{indication,4.1}} for a given {{measured quantity value,2.10}},
+      or in {{quantity values,1.19}} supplied by a {{material measure,3.6}}, when
+      an {{influence quantity,2.52}} assumes successively two different quantity values
+  examples: []
+  id: 4.22-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
+      value" and "quantity values" can be replaced by "values" in both instances without
+      ambiguity: "difference in indication for a given measured value, or in values
+      supplied by a material measure, when an influence quantity assumes successively
+      two different values".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variation due to an influence quantity
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: febb853e-6d40-443a-a3d1-4b21ba65e1c4
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: différence entre les {{indications,4.1}} qui correspondent à une même
+      {{valeur mesurée,2.10}}, ou entre les {{valeurs,1.19}} fournies par une {{mesure
+      matérialisée,3.6}}, lorsqu'une {{grandeur d'influence,2.52}} prend successivement
+      deux valeurs différentes
+  examples: []
+  id: 4.22-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variation due à une grandeur d'influence
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6f777d9a-242c-4730-9edc-f67bfdc3374a

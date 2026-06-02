@@ -1,0 +1,78 @@
+---
+data:
+  identifier: '3.4'
+  localized_concepts:
+    eng: 0fba9255-8f61-4095-8154-9c6acd0853ca
+    fra: 1b07ce0e-86bc-48ce-ae10-9910d5b24727
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+status: valid
+id: 61ddef98-73fd-43d1-b1e8-7a1f2e93a74d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{indicating measuring instrument,3.3}} where the output signal is presented
+      in visual form"
+  examples: []
+  id: 3.4-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: displaying measuring instrument
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0fba9255-8f61-4095-8154-9c6acd0853ca
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{appareil de mesure indicateur,3.3}} dont le signal de sortie est présenté
+      sous forme visuelle"
+  examples: []
+  id: 3.4-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appareil de mesure afficheur
+  - type: expression
+    normative_status: admitted
+    designation: appareil afficheur, m
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1b07ce0e-86bc-48ce-ae10-9910d5b24727

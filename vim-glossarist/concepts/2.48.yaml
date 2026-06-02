@@ -1,0 +1,96 @@
+---
+data:
+  identifier: '2.48'
+  localized_concepts:
+    eng: 535d8a4b-5c0a-4226-9c30-08ef5f4ce4af
+    fra: c7179a08-0a61-4f98-be16-7ceef15aadf7
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.48'
+    type: authoritative
+status: valid
+id: 0e834acc-8b0c-4685-a25b-5e297d41c5ac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mathematical relation among all {{quantities,1.1}} known to be involved
+      in a {{measurement,2.1}}
+  examples: []
+  id: 2.48-eng
+  language_code: eng
+  notes:
+  - content: A general form of a measurement model is the equation h(Y, X1, …, Xn)
+      = 0, where Y, the {{output quantity in the measurement model,2.51}}, is the
+      {{measurand,2.3}}, the {{quantity value,1.19}} of which is to be inferred from
+      information about {{input quantities in the measurement model,2.50}}X1, …, Xn.
+  - content: In more complex cases where there are two or more output quantities in
+      a measurement model, the measurement model consists of more than one equation.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.48'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement model
+  - type: expression
+    normative_status: admitted
+    designation: model of measurement
+  - type: expression
+    normative_status: admitted
+    designation: model
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 535d8a4b-5c0a-4226-9c30-08ef5f4ce4af
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relation mathématique entre toutes les {{grandeurs,1.1}} qui interviennent
+      dans un {{mesurage,2.1}}
+  examples: []
+  id: 2.48-fra
+  language_code: fra
+  notes:
+  - content: Une forme générale d'un modèle de mesure est l'équation h(Y, X1, …, Xn)
+      = 0 , où Y, la {{grandeur de sortie dans le modèle de mesure,2.51}}, est le
+      {{mesurande,2.3}}, dont la {{valeur,1.19}} doit être déduite de l'information
+      sur les {{grandeurs d'entrée dans le modèle de mesure,2.50}}X1, …, Xn.
+  - content: Dans les cas plus complexes où il y a deux grandeurs de sortie ou plus,
+      le modèle de mesure comprend plus d'une seule équation.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.48'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: modèle de mesure
+  - type: expression
+    normative_status: admitted
+    designation: modèle, m
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c7179a08-0a61-4f98-be16-7ceef15aadf7

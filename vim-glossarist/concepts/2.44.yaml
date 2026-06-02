@@ -1,0 +1,119 @@
+---
+data:
+  identifier: '2.44'
+  localized_concepts:
+    eng: ab6e84a6-19c0-4179-b852-70fe7f97d74c
+    fra: 542b1518-9367-45db-909d-825ee7a6a7f6
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.44'
+    type: authoritative
+status: valid
+id: e547f947-5c5f-425f-82ae-424a401dde30
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: provision of objective evidence that a given item fulfils specified requirements
+  examples:
+  - content: Confirmation that a given {{reference material,5.13}} as claimed is homogeneous
+      for the {{quantity value,1.19}} and {{measurement procedure,2.6}} concerned,
+      down to a measurement portion having a mass of 10 mg.
+  - content: Confirmation that performance properties or legal requirements of a {{measuring
+      system,3.2}} are achieved.
+  - content: Confirmation that a {{target measurement uncertainty,2.34}} can be met.
+  id: 2.44-eng
+  language_code: eng
+  notes:
+  - content: When applicable, {{measurement uncertainty,2.26}} should be taken into
+      consideration.
+  - content: The item may be, e.g. a process, measurement procedure, material, compound,
+      or measuring system.
+  - content: The specified requirements may be, e.g. that a manufacturer's specifications
+      are met.
+  - content: Verification in legal metrology, as defined in VIML [53], and in conformity
+      assessment in general, pertains to the examination and marking and/or issuing
+      of a verification certificate for a measuring system.
+  - content: Verification should not be confused with {{calibration,2.39}}. Not every
+      verification is a {{validation,2.45}}.
+  - content: In chemistry, verification of the identity of the entity involved, or
+      of activity, requires a description of the structure or properties of that entity
+      or activity.
+  - content: '[Annotation] ANNOTATION (for Example 1) (informative) [5 June 2014]
+      By "measurement portion" here is meant amount of material, of proper size, for
+      measurement of any quantity of interest, removed from the reference material.'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.44'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ab6e84a6-19c0-4179-b852-70fe7f97d74c
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fourniture de preuves tangibles qu'une entité donnée satisfait à des
+      exigences spécifiées
+  examples:
+  - content: |-
+      EXEMPLE 1 Confirmation qu'un {{matériau de référence,5.13}} donné est bien, comme déclaré, homogène pour la {{valeur,1.19}} et la {{procédure de mesure,2.6}} concernées jusqu'à des prises de mesure de masse 10 mg.
+      EXEMPLE 2 Confirmation que des propriétés relatives aux performances ou des exigences légales sont satisfaites par un {{système de mesure,3.2}}.
+      EXEMPLE 3 Confirmation qu'une {{incertitude cible,2.34}} peut être atteinte.
+  id: 2.44-fra
+  language_code: fra
+  notes:
+  - content: S'il y a lieu, il convient de prendre en compte l'{{incertitude de mesure,2.26}}.
+  - content: L'entité peut être, par exemple, un processus, une procédure de mesure,
+      un matériau, un composé ou un système de mesure.
+  - content: Les exigences spécifiées peuvent être, par exemple, les spécifications
+      d'un fabricant.
+  - content: La vérification en métrologie légale, comme définie dans le VIML [53],
+      et plus généralement en évaluation de la conformité, comporte l'examen et le
+      marquage et/ou la délivrance d'un certificat de vérification pour un système
+      de mesure.
+  - content: Il convient de ne pas confondre la vérification avec l'{{étalonnage,2.39}}.
+      Toute vérification n'est pas une {{validation,2.45}}.
+  - content: En chimie, la vérification de l'identité d'une entité, ou celle d'une
+      activité, nécessite une description de la structure ou des propriétés de cette
+      entité ou activité.
+  - content: "[Annotation] ANNOTATION (pour l'Exemple 1) (informative) [5 juin 2014]
+      Une «prise de mesure» signifie ici un prélèvement de taille appropriée effectué
+      sur le matériau de référence en vue de mesurer toute grandeur présentant de
+      l'intérêt."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.44'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 542b1518-9367-45db-909d-825ee7a6a7f6

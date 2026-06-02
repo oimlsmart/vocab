@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '1.15'
+  localized_concepts:
+    eng: e1ec416d-1c53-46ca-8603-8ff367c30ddd
+    fra: b99cb0bc-c4d0-4eae-a335-7cc74df148d1
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.15'
+    type: authoritative
+status: valid
+id: a08660fa-3bf8-45cd-8a6a-339e423c8990
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement unit,1.9}} that does not belong to a given {{system of
+      units,1.13}}"
+  examples:
+  - content: The electronvolt (about 1.602 18 ·10–19J) is an off-system measurement
+      unit of energy with respect to the {{SI,1.16}}.
+  - content: Day, hour, minute are off-system measurement units of time with respect
+      to the SI.
+  id: 1.15-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: off-system measurement unit
+  - type: expression
+    normative_status: admitted
+    designation: off-system unit
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e1ec416d-1c53-46ca-8603-8ff367c30ddd
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{unité de mesure,1.9}} qui n'appartient pas à un {{système d'unités,1.13}}
+      donné"
+  examples:
+  - content: |-
+      EXEMPLE 1 L'électronvolt (environ 1,602 18 ·10–19J) est une unité d'énergie hors système pour le {{SI,1.16}}.
+      EXEMPLE 2 Le jour, l'heure, la minute sont des unités de temps hors système pour le SI.
+  id: 1.15-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité hors système
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b99cb0bc-c4d0-4eae-a335-7cc74df148d1

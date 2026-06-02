@@ -1,0 +1,111 @@
+---
+data:
+  identifier: '2.16'
+  localized_concepts:
+    eng: d48af866-cc92-47de-b6e9-1444e2fba01b
+    fra: a55cbb9e-33c6-49a3-8de6-1b9256cfa99b
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.16'
+    type: authoritative
+status: valid
+id: 1d2e4e81-e1b6-4039-a9f0-a95e58d4145f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measured quantity value,2.10}} minus a {{reference quantity value,5.18}}"
+  examples: []
+  id: 2.16-eng
+  language_code: eng
+  notes:
+  - content: The concept of 'measurement error' can be used both a) when there is
+      a single reference quantity value to refer to, which occurs if a {{calibration,2.39}}
+      is made by means of a {{measurement standard,5.1}} with a {{measured quantity
+      value,2.10}} having a negligible {{measurement uncertainty,2.26}} or if a {{conventional
+      quantity value,2.12}} is given, in which case the measurement error is known,
+      and b) if a {{measurand,2.3}} is supposed to be represented by a unique {{true
+      quantity value,2.11}} or a set of true quantity values of negligible range,
+      in which case the measurement error is not known.
+  - content: Measurement error should not be confused with production error or mistake.
+  - content: "[Annotation] Measurement error is sometimes understood as a quantity,
+      which has a value, rather than as a value of a quantity."
+  - content: "[Annotation] ANNOTATION (for Note 1) (informative) [5 June 2014] The
+      concept of 'measurement error' can be used either for a) or for b), but not
+      for both a) and b) simultaneously."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement error
+  - type: expression
+    normative_status: admitted
+    designation: error of measurement
+  - type: expression
+    normative_status: admitted
+    designation: error
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d48af866-cc92-47de-b6e9-1444e2fba01b
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: différence entre la {{valeur mesurée,2.10}} d'une {{grandeur,1.1}} et
+      une {{valeur de référence,5.18}}
+  examples: []
+  id: 2.16-fra
+  language_code: fra
+  notes:
+  - content: Le concept d'erreur peut être utilisé a) lorsqu'il existe une valeur
+      de référence unique à laquelle se rapporter, ce qui a lieu si on effectue un
+      {{étalonnage,2.39}} au moyen d'un {{étalon,5.1}} dont la {{valeur mesurée,2.10}}
+      a une {{incertitude de mesure,2.26}} négligeable ou si on prend une {{valeur
+      conventionnelle,2.12}}, l'erreur étant alors connue, b) si on suppose le {{mesurande,2.3}}
+      représenté par une {{valeur vraie,2.11}} unique ou un ensemble de valeurs vraies
+      d'étendue négligeable, l'erreur étant alors inconnue.
+  - content: Il convient de ne pas confondre l'erreur de mesure avec une erreur de
+      production ou une erreur humaine.
+  - content: "[Annotation] Une erreur de mesure est quelquefois considérée comme une
+      grandeur ayant une valeur plutôt que comme une valeur d'une grandeur."
+  - content: "[Annotation] ANNOTATION (pour la Note 1) (informative) [5 juin 2014]
+      Le concept d'erreur de mesure peut être utilisé dans le cas a) ou dans le cas
+      b), mais pas dans les deux cas à la fois."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur de mesure
+  - type: expression
+    normative_status: admitted
+    designation: erreur, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a55cbb9e-33c6-49a3-8de6-1b9256cfa99b

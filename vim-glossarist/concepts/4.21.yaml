@@ -1,0 +1,79 @@
+---
+data:
+  identifier: '4.21'
+  localized_concepts:
+    eng: b5182297-05b7-4103-be41-5dfb82bd51a8
+    fra: bc7ef60c-c0d9-4199-8a3b-819a4a640507
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.21'
+    type: authoritative
+status: valid
+id: 86c05e95-f48a-4721-ad35-ea873e5e8704
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: continuous or incremental change over time in {{indication,4.1}}, due
+      to changes in metrological properties of a {{measuring instrument,3.1}}
+  examples: []
+  id: 4.21-eng
+  language_code: eng
+  notes:
+  - content: Instrumental drift is related neither to a change in a {{quantity,1.1}}
+      being measured nor to a change of any recognized {{influence quantity,2.52}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrumental drift
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b5182297-05b7-4103-be41-5dfb82bd51a8
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: variation continue ou incrémentale dans le temps d'une {{indication,4.1}},
+      due à des variations des propriétés métrologiques d'un {{instrument de mesure,3.1}}
+  examples: []
+  id: 4.21-fra
+  language_code: fra
+  notes:
+  - content: La dérive instrumentale n'est liée ni à une variation de la {{grandeur,1.1}}
+      mesurée, ni à une variation d'une {{grandeur d'influence,2.52}} identifiée.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dérive instrumentale
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: bc7ef60c-c0d9-4199-8a3b-819a4a640507

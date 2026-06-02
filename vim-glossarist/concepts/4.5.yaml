@@ -1,0 +1,90 @@
+---
+data:
+  identifier: '4.5'
+  localized_concepts:
+    eng: 28e48cd5-a016-431d-ab47-4615524a4517
+    fra: 9b39dfde-552e-47ad-ac66-3950849c53a2
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.5'
+    type: authoritative
+status: valid
+id: 3863f248-e152-49ed-81c1-12633da1508f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: absolute value of the difference between the extreme {{quantity values,1.19}}
+      of a {{nominal indication interval,4.4}}
+  examples:
+  - content: For a nominal indication interval of −10 V to +10 V, the range of the
+      nominal indication interval is 20 V.
+  id: 4.5-eng
+  language_code: eng
+  notes:
+  - content: Range of a nominal indication interval is sometimes termed “span of a
+      nominal interval”.
+  - content: '[Annotation] Here "quantity values" can be replaced by "values" without
+      ambiguity: "absolute value of the difference between the extreme values of a
+      nominal indication interval".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: range of a nominal indication interval
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 28e48cd5-a016-431d-ab47-4615524a4517
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur absolue de la différence entre les {{valeurs,1.19}} extrêmes d'un
+      {{intervalle nominal des indications,4.4}}
+  examples:
+  - content: EXEMPLE Pour un intervalle nominal des indications de –10 V à +10 V,
+      l'étendue de mesure est 20 V.
+  id: 4.5-fra
+  language_code: fra
+  notes:
+  - content: En anglais, l'étendue de mesure est quelquefois dénommée «span of a nominal
+      interval». En français, le terme «intervalle de mesure» est parfois improprement
+      employé.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étendue de mesure
+  - type: expression
+    normative_status: admitted
+    designation: étendue nominale, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9b39dfde-552e-47ad-ac66-3950849c53a2

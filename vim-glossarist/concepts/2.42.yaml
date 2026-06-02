@@ -1,0 +1,96 @@
+---
+data:
+  identifier: '2.42'
+  localized_concepts:
+    eng: 74dbeb4d-b449-4810-8154-7bad25a7dd85
+    fra: b80e1685-c34e-4f7d-a0fc-c51f50f7af1b
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.42'
+    type: authoritative
+status: valid
+id: 42be1bef-4ccf-4e4f-ac60-bc2653be46c2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sequence of {{measurement standards,5.1}} and {{calibrations,2.39}} that
+      is used to relate a {{measurement result,2.9}} to a reference
+  examples: []
+  id: 2.42-eng
+  language_code: eng
+  notes:
+  - content: A metrological traceability chain is defined through a {{calibration
+      hierarchy,2.40}}.
+  - content: A metrological traceability chain is used to establish {{metrological
+      traceability,2.41}} of a measurement result.
+  - content: A comparison between two measurement standards may be viewed as a calibration
+      if the comparison is used to check and, if necessary, correct the {{quantity
+      value,1.19}} and {{measurement uncertainty,2.26}} attributed to one of the measurement
+      standards.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.42'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological traceability chain
+  - type: expression
+    normative_status: admitted
+    designation: traceability chain
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 74dbeb4d-b449-4810-8154-7bad25a7dd85
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: succession d'{{étalons,5.1}} et d'{{étalonnages,2.39}} qui est utilisée
+      pour relier un {{résultat de mesure,2.9}} à une référence
+  examples: []
+  id: 2.42-fra
+  language_code: fra
+  notes:
+  - content: Une chaîne de traçabilité métrologique est définie par l'intermédiaire
+      d'une {{hiérarchie d'étalonnage,2.40}}.
+  - content: La chaîne de traçabilité métrologique est utilisée pour établir la {{traçabilité
+      métrologique,2.41}} du résultat de mesure.
+  - content: Une comparaison entre deux étalons peut être considérée comme un étalonnage
+      si elle sert à vérifier et, si nécessaire, à corriger la {{valeur,1.19}} et
+      l'{{incertitude de mesure,2.26}} attribuées à l'un des étalons.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.42'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chaîne de traçabilité métrologique
+  - type: expression
+    normative_status: admitted
+    designation: chaîne de traçabilité, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b80e1685-c34e-4f7d-a0fc-c51f50f7af1b

@@ -1,0 +1,120 @@
+---
+data:
+  identifier: '1.9'
+  localized_concepts:
+    eng: 8c8b026d-8d48-4ab2-97cf-f4eda8ae0168
+    fra: 298958fe-7ae3-4688-a659-e12ae31826b4
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.9'
+    type: authoritative
+status: valid
+id: 5fc7abc1-eda0-4fa5-bc38-c26a9bd41139
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: real scalar {{quantity,1.1}}, defined and adopted by convention, with
+      which any other quantity of the same {{kind,1.2}} can be compared to express
+      the ratio of the two quantities as a number
+  examples: []
+  id: 1.9-eng
+  language_code: eng
+  notes:
+  - content: Measurement units are designated by conventionally assigned names and
+      symbols.
+  - content: Measurement units of quantities of the same {{quantity dimension,1.7}}
+      may be designated by the same name and symbol even when the quantities are not
+      of the same kind. For example, joule per kelvin and J/K are respectively the
+      name and symbol of both a measurement unit of heat capacity and a measurement
+      unit of entropy, which are generally not considered to be quantities of the
+      same kind. However, in some cases special measurement unit names are restricted
+      to be used with quantities of a specific kind only. For example, the measurement
+      unit 'second to the power minus one' (1/s) is called hertz (Hz) when used for
+      frequencies and becquerel (Bq) when used for activities of radionuclides.
+  - content: Measurement units of {{quantities of dimension one,1.8}} are numbers.
+      In some cases these measurement units are given special names, e.g. radian,
+      steradian, and decibel, or are expressed by quotients such as millimole per
+      mole equal to 10–3 and microgram per kilogram equal to 10–9.
+  - content: For a given quantity, the short term “unit” is often combined with the
+      quantity name, such as “mass unit” or “unit of mass”.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement unit
+  - type: expression
+    normative_status: admitted
+    designation: unit of measurement
+  - type: expression
+    normative_status: admitted
+    designation: unit
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8c8b026d-8d48-4ab2-97cf-f4eda8ae0168
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{grandeur,1.1}} scalaire réelle, définie et adoptée par convention,
+      à laquelle on peut comparer toute autre grandeur de même {{nature,1.2}} pour
+      exprimer le rapport des deux grandeurs sous la forme d'un nombre"
+  examples: []
+  id: 1.9-fra
+  language_code: fra
+  notes:
+  - content: On désigne les unités de mesure par des noms et des symboles attribués
+      par convention.
+  - content: Les unités des grandeurs de même {{dimension,1.7}} peuvent être désignées
+      par le même nom et le même symbole même si ces grandeurs ne sont pas de même
+      nature. On emploie, par exemple, le nom «joule par kelvin» et le symbole J/K
+      pour désigner à la fois une unité de capacité thermique et une unité d'entropie,
+      bien que ces grandeurs ne soient généralement pas considérées comme étant de
+      même nature. Toutefois, dans certains cas, des noms spéciaux sont utilisés exclusivement
+      pour des grandeurs d'une nature spécifiée. C'est ainsi que l'unité seconde à
+      la puissance moins un (1/s) est appelée hertz (Hz) pour les fréquences et becquerel
+      (Bq) pour les activités de radionucléides.
+  - content: Les unités des {{grandeurs sans dimension,1.8}} sont des nombres. Dans
+      certains cas, on leur donne des noms spéciaux, par exemple radian, stéradian
+      et décibel, ou on les exprime par des quotients comme la millimole par mole
+      égale à 10–3, et le microgramme par kilogramme égal à 10–9.
+  - content: Pour une grandeur donnée, le nom abrégé «unité» est souvent combiné avec
+      le nom de la grandeur, par exemple «unité de masse».
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité de mesure
+  - type: expression
+    normative_status: admitted
+    designation: unité, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 298958fe-7ae3-4688-a659-e12ae31826b4

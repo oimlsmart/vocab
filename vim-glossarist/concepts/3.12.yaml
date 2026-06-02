@@ -1,0 +1,80 @@
+---
+data:
+  identifier: '3.12'
+  localized_concepts:
+    eng: 56fad35e-1a77-4b7e-8234-0b2258e5ee42
+    fra: d7b82c0e-5398-4242-9012-a77a0b1b2e22
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+status: valid
+id: 5e0dd3f9-ec97-49a3-81ea-39d20d15db6a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{adjustment of a measuring system,3.11}} so that it provides a null
+      {{indication,4.1}} corresponding to a zero {{value,1.19}} of a {{quantity,1.1}}
+      to be measured"
+  examples: []
+  id: 3.12-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero adjustment of a measuring system
+  - type: expression
+    normative_status: admitted
+    designation: zero adjustment
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 56fad35e-1a77-4b7e-8234-0b2258e5ee42
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{ajustage d'un système de mesure,3.11}} pour que le système fournisse
+      une {{indication,4.1}} égale à zéro correspondant à une {{valeur,1.19}} égale
+      à zéro de la {{grandeur,1.1}} à mesurer"
+  examples: []
+  id: 3.12-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réglage de zéro
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d7b82c0e-5398-4242-9012-a77a0b1b2e22

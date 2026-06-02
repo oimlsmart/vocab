@@ -1,0 +1,81 @@
+---
+data:
+  identifier: '2.53'
+  localized_concepts:
+    eng: df97d7c4-aaf9-4366-a692-399e17908285
+    fra: 1f6ff2d7-3716-4898-a131-7bfe91b994f9
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.53'
+    type: authoritative
+status: valid
+id: 1d9d801a-5f64-46cd-9667-83aadd59f875
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: compensation for an estimated systematic effect
+  examples: []
+  id: 2.53-eng
+  language_code: eng
+  notes:
+  - content: See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of 'systematic
+      effect'.
+  - content: The compensation can take different forms, such as an addend or a factor,
+      or can be deduced from a table.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.53'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: df97d7c4-aaf9-4366-a692-399e17908285
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: compensation d'un effet systématique connu
+  examples: []
+  id: 2.53-fra
+  language_code: fra
+  notes:
+  - content: Voir le Guide ISO/CEI 98-3:2008, 3.2.3, pour une explication du concept
+      d'effet systématique.
+  - content: La modification peut prendre différentes formes, telles que l'addition
+      d'une valeur ou la multiplication par un facteur, ou peut se déduire d'une table.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.53'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1f6ff2d7-3716-4898-a131-7bfe91b994f9

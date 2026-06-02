@@ -1,0 +1,81 @@
+---
+data:
+  identifier: '2.34'
+  localized_concepts:
+    eng: cae70867-56e1-4aa2-9327-e478a92dc326
+    fra: eb59f396-8a18-4119-90fe-becac3ae1cb9
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.34'
+    type: authoritative
+status: valid
+id: 70affa06-bbae-4430-a8a8-690b7db3ef2b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement uncertainty,2.26}} specified as an upper limit and decided
+      on the basis of the intended use of {{measurement results,2.9}}"
+  examples: []
+  id: 2.34-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.34'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: target measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: target uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: cae70867-56e1-4aa2-9327-e478a92dc326
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{incertitude de mesure,2.26}} spécifiée comme une limite supérieure
+      et choisie d'après les usages prévus des {{résultats de mesure,2.9}}"
+  examples: []
+  id: 2.34-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.34'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude cible
+  - type: expression
+    normative_status: admitted
+    designation: incertitude anticipée, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: eb59f396-8a18-4119-90fe-becac3ae1cb9

@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '5.17'
+  localized_concepts:
+    eng: f578b1ee-ba31-41d5-99a7-fbabf108b520
+    fra: 9a95f60d-864a-496a-86f1-b77619dac457
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.17'
+    type: authoritative
+status: valid
+id: b6046833-a1a2-40a1-891e-e14f89077652
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{reference data,5.16}} issued by a recognized authority"
+  examples:
+  - content: Values of the fundamental physical constants, as regularly evaluated
+      and recommended by CODATA of ICSU.
+  - content: |-
+      Relative atomic mass values, also called atomic weight values, of the elements, as evaluated every two years by IUPAC-CIAAW, approved by the IUPAC General Assembly, and published in Pure Appl. Chem.
+       
+  id: 5.17-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard reference data
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f578b1ee-ba31-41d5-99a7-fbabf108b520
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{donnée de référence,5.16}} provenant d'une autorité reconnue"
+  examples:
+  - content: |-
+      EXEMPLE 1 Valeurs des constantes physiques fondamentales, évaluées et recommandées régulièrement par le CODATA de
+       l'ICSU
+      .
+      EXEMPLE 2 Valeurs des masses atomiques relatives des éléments, appelées aussi valeurs des poids atomiques, évaluées tous les deux ans par l'UICPA-CIAAW, approuvées par l'Assemblée générale de l'IUPAC et
+      publiées dans Pure Appl. Chem.
+       
+  id: 5.17-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: donnée de référence normalisée
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9a95f60d-864a-496a-86f1-b77619dac457

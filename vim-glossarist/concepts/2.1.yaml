@@ -1,0 +1,110 @@
+---
+data:
+  identifier: '2.1'
+  localized_concepts:
+    eng: f08c3731-c2fc-4f5a-9878-2d83a6e09109
+    fra: 5c951a4e-f035-44ce-9152-a19060436f97
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+status: valid
+id: 8f5a53ef-c9cd-4893-b35c-d543fba7838d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: process of experimentally obtaining one or more {{quantity values,1.19}}
+      that can reasonably be attributed to a {{quantity,1.1}}
+  examples: []
+  id: 2.1-eng
+  language_code: eng
+  notes:
+  - content: Measurement does not apply to {{nominal properties,1.30}}.
+  - content: Measurement implies comparison of quantities or counting of entities.
+  - content: Measurement presupposes a description of the quantity commensurate with
+      the intended use of a {{measurement result,2.9}}, a {{measurement procedure,2.6}},
+      and a calibrated {{measuring system,3.2}} operating according to the specified
+      measurement procedure, including the measurement conditions.
+  - content: '[Annotation] "experimentally obtaining" in the definition is to be interpreted
+      in a broad sense of including not only direct physical comparison, but also
+      of using models and calculations that are based on theoretical considerations.'
+  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
+      ambiguity: "process of experimentally obtaining one or more values that can
+      reasonably be attributed to a quantity".'
+  - content: "[Annotation] ANNOTATION (for Note 3) (informative) [3 December 2013]
+      This Note is intended to explain what is needed in order to carry out a measurement.
+      It is first necessary to choose a target measurement uncertainty, and then choose
+      an appropriate procedure and measuring system for performing the measurement
+      in order not to exceed the target uncertainty."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f08c3731-c2fc-4f5a-9878-2d83a6e09109
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: processus consistant à obtenir expérimentalement une ou plusieurs {{valeurs,1.19}}
+      que l'on peut raisonnablement attribuer à une {{grandeur,1.1}}
+  examples: []
+  id: 2.1-fra
+  language_code: fra
+  notes:
+  - content: Les mesurages ne s'appliquent pas aux {{propriétés qualitatives,1.30}}.
+  - content: Un mesurage implique la comparaison de grandeurs ou le comptage d'entités.
+  - content: Un mesurage suppose une description de la grandeur compatible avec l'usage
+      prévu d'un {{résultat de mesure,2.9}}, une {{procédure de mesure,2.6}} et un
+      {{système de mesure,3.2}} étalonné fonctionnant selon la procédure de mesure
+      spécifiée, incluant les conditions de mesure.
+  - content: "[Annotation] L'expression «obtenir expérimentalement» dans la définition
+      doit être interprétée dans un sens étendu de façon à inclure non seulement une
+      comparaison physique directe, mais aussi des modèles et calculs fondés sur des
+      considérations théoriques."
+  - content: "[Annotation] ANNOTATION (pour la Note 3) (informative) [3 décembre 2013]
+      Le but de cette note est d'expliquer ce qui est nécessaire pour effectuer un
+      mesurage. Il faut d'abord spécifier une incertitude cible et choisir ensuite
+      une procédure et un système de mesure appropriés pour effectuer le mesurage
+      de façon à ne pas dépasser l'incertitude cible."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mesurage
+  - type: expression
+    normative_status: admitted
+    designation: mesure, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5c951a4e-f035-44ce-9152-a19060436f97

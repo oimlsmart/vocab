@@ -1,0 +1,96 @@
+---
+data:
+  identifier: '4.6'
+  localized_concepts:
+    eng: bc22a168-1445-4d24-8f5d-6d64c9f4f3ed
+    fra: 1c47e023-1719-40ad-a9dc-ff45d25b25e5
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+status: valid
+id: aa428e6a-93ff-44a8-95dc-205d2eeb1005
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: rounded or approximate {{value,1.19}} of a characterizing {{quantity,1.1}}
+      of a {{measuring instrument,3.1}} or {{measuring system,3.2}} that provides
+      guidance for its appropriate use
+  examples:
+  - content: 100 Ω as the nominal quantity value marked on a standard resistor.
+  - content: 1 000 ml as the nominal quantity value marked on a single-mark volumetric
+      flask.
+  - content: 0.1 mol/l as the nominal quantity value for amount-of-substance concentration
+      of a solution of hydrogen chloride, HCl.
+  - content: "–20 °C as a maximum Celsius temperature for storage."
+  id: 4.6-eng
+  language_code: eng
+  notes:
+  - content: "“Nominal quantity value” and “nominal value” should not be used for
+      'nominal property value' (see 1.30, Note 2)."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal quantity value
+  - type: expression
+    normative_status: admitted
+    designation: nominal value
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: bc22a168-1445-4d24-8f5d-6d64c9f4f3ed
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{valeur,1.19}} arrondie ou approximative d'une {{grandeur,1.1}} caractéristique
+      d'un {{instrument de mesure,3.1}} ou d'un {{système de mesure,3.2}}, qui sert
+      de guide pour son utilisation appropriée"
+  examples:
+  - content: |-
+      EXEMPLE 1 La valeur 100 Ω marquée sur une résistance étalon.
+      EXEMPLE 2 La valeur 1 000 ml marquée sur une fiole jaugée à un trait.
+      EXEMPLE 3 La valeur 0,1 mol/l de la concentration en quantité de matière d'une solution d'acide chlorhydrique, HCl.
+      EXEMPLE 4 La valeur –20 °C d'une température Celsius maximale de stockage.
+  id: 4.6-fra
+  language_code: fra
+  notes:
+  - content: En anglais, il convient de ne pas utilizer «nominal quantity value» et
+      «nominal value» pour la valeur d'une {{propriété qualitative,1.30}} (en anglais
+      «nominal property value»).
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur nominale
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1c47e023-1719-40ad-a9dc-ff45d25b25e5

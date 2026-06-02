@@ -1,0 +1,81 @@
+---
+data:
+  identifier: '4.20'
+  localized_concepts:
+    eng: 7adf1b84-c4ff-4367-9c30-b58732523ba7
+    fra: f716b26b-a61e-4b47-8e47-36f308526b21
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.20'
+    type: authoritative
+status: valid
+id: 19b74a87-b83b-4f16-8624-ee079def0e63
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: average of replicate {{indications,4.1}} minus a {{reference quantity
+      value,5.18}}
+  examples: []
+  id: 4.20-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "reference quantity value" can be replaced by "reference
+      value" without ambiguity: "average of replicate indications minus a reference
+      value".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrumental bias
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7adf1b84-c4ff-4367-9c30-b58732523ba7
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: différence entre la moyenne d'{{indications,4.1}} répétées et une {{valeur
+      de référence,5.18}}
+  examples: []
+  id: 4.20-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biais instrumental
+  - type: expression
+    normative_status: admitted
+    designation: erreur de justesse d'un instrument, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f716b26b-a61e-4b47-8e47-36f308526b21

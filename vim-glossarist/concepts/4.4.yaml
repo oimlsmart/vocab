@@ -1,0 +1,94 @@
+---
+data:
+  identifier: '4.4'
+  localized_concepts:
+    eng: 05a5871d-d5c4-428b-b249-42d7261a8fc6
+    fra: a6cf0d09-dd0c-4b25-9333-baa06a0bd5b8
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.4'
+    type: authoritative
+status: valid
+id: f718f0a2-981e-498b-8d5e-7282431f950d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of {{quantity values,1.19}}, bounded by rounded or approximate extreme
+      {{indications,4.1}}, obtainable with a particular setting of the controls of
+      a {{measuring instrument,3.1}} or {{measuring system,3.2}} and used to designate
+      that setting
+  examples: []
+  id: 4.4-eng
+  language_code: eng
+  notes:
+  - content: A nominal indication interval is usually stated as its smallest and greatest
+      quantity values, for example “100 V to 200 V”.
+  - content: In some fields, the term is “nominal range”.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal indication interval
+  - type: expression
+    normative_status: admitted
+    designation: nominal interval
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 05a5871d-d5c4-428b-b249-42d7261a8fc6
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des {{valeurs,1.19}} comprises entre deux {{indications,4.1}}
+      extrêmes arrondies ou approximatives, que l'on obtient pour une position particulière
+      des commandes d'un {{instrument de mesure,3.1}} ou d'un {{système de mesure,3.2}}
+      et qui sert à désigner cette position
+  examples: []
+  id: 4.4-fra
+  language_code: fra
+  notes:
+  - content: Un intervalle nominal des indications est généralement exprimé en donnant
+      la plus petite et la plus grande valeur, par exemple «100 V à 200 V».
+  - content: Dans certains domaines, le terme anglais est «nominal range».
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intervalle nominal des indications
+  - type: expression
+    normative_status: admitted
+    designation: intervalle nominal, m
+  - type: expression
+    normative_status: admitted
+    designation: calibre, m
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a6cf0d09-dd0c-4b25-9333-baa06a0bd5b8

@@ -1,0 +1,99 @@
+---
+data:
+  identifier: '5.18'
+  localized_concepts:
+    eng: 3a981ed4-002d-43c2-b3e8-9134e186d404
+    fra: 48dfaf72-c504-4b08-a042-fdf6c3a55c92
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.18'
+    type: authoritative
+status: valid
+id: 420eea54-d19c-4ed3-a325-82eee42a0602
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{quantity value,1.19}} used as a basis for comparison with values of
+      {{quantities,1.1}} of the same {{kind,1.2}}"
+  examples: []
+  id: 5.18-eng
+  language_code: eng
+  notes:
+  - content: A reference quantity value can be a {{true quantity value,2.11}} of a
+      {{measurand,2.3}}, in which case it is unknown, or a {{conventional quantity
+      value,2.12}}, in which case it is known.
+  - content: |-
+      A reference quantity value with associated {{measurement uncertainty,2.26}} is usually provided with reference to
+      a) material, e.g. a {{certified reference material,5.14}},
+      b) a device, e.g. a stabilized laser,
+      c) a {{reference measurement procedure,2.7}},
+      d) a comparison of {{measurement standards,5.1}}.
+  - content: '[Annotation] Here "quantity value" can be replaced by "value" without
+      ambiguity: "value used as a basis for comparison with values of quantities of
+      the same kind".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference quantity value
+  - type: expression
+    normative_status: admitted
+    designation: reference value
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3a981ed4-002d-43c2-b3e8-9134e186d404
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{valeur d'une grandeur,1.19}} servant de base de comparaison pour les
+      valeurs de {{grandeurs,1.1}} de même {{nature,1.2}}"
+  examples: []
+  id: 5.18-fra
+  language_code: fra
+  notes:
+  - content: La valeur de référence peut être une {{valeur vraie,2.11}} d'un {{mesurande,2.3}},
+      et est alors inconnue, ou une {{valeur conventionnelle,2.12}}, et est alors
+      connue.
+  - content: |-
+      Une valeur de référence associée à son {{incertitude de mesure,2.26}} se rapporte généralement à
+      a) un matériau, par exemple un {{matériau de référence certifié,5.14}},
+      b) un dispositif, par exemple un laser stabilisé,
+      c) une {{procédure de mesure de référence,2.7}},
+      d) une comparaison d'{{étalons,5.1}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur de référence
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 48dfaf72-c504-4b08-a042-fdf6c3a55c92

@@ -1,0 +1,89 @@
+---
+data:
+  identifier: '5.16'
+  localized_concepts:
+    eng: 3c896542-0a4c-433b-be47-480f714e402a
+    fra: e49c54af-3ac4-4805-bb0e-00629b0d66d2
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.16'
+    type: authoritative
+status: valid
+id: 255c2cb0-560a-40dd-9971-c70a888d86a9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: data related to a property of a phenomenon, body, or substance, or to
+      a system of components of known composition or structure, obtained from an identified
+      source, critically evaluated, and verified for accuracy
+  examples:
+  - content: Reference data for solubility of chemical compounds as published by the
+      IUPAC.
+  id: 5.16-eng
+  language_code: eng
+  notes:
+  - content: In this definition, 'accuracy' covers, for example, {{measurement accuracy,2.13}}
+      and 'accuracy of a nominal property value'.
+  - content: "“Data” is a plural form, “datum” is the singular. “Data” is commonly
+      used in the singular sense, instead of “datum”."
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference data
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3c896542-0a4c-433b-be47-480f714e402a
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: donnée liée à une propriété d'un phénomène, d'un corps ou d'une substance,
+      ou à un système de constituants de composition ou de structure connue, obtenue
+      à partir d'une source identifiée, évaluée de façon critique et vérifiée en exactitude
+  examples:
+  - content: EXEMPLE Données de référence relatives à la solubilité de composés chimiques,
+      publiées par l'UICPA.
+  id: 5.16-fra
+  language_code: fra
+  notes:
+  - content: Dans la définition, le terme «exactitude» peut désigner soit une {{exactitude
+      de mesure,2.13}}, soit l'«exactitude de la valeur d'une propriété qualitative».
+  - content: En anglais, «data» est une forme plurielle dont le singulier est «datum».
+      «Data» est couramment utilisé au sens singulier à la place de «datum».
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: donnée de référence
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e49c54af-3ac4-4805-bb0e-00629b0d66d2

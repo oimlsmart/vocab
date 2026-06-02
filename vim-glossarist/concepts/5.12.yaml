@@ -1,0 +1,75 @@
+---
+data:
+  identifier: '5.12'
+  localized_concepts:
+    eng: ef5c390c-7170-4219-a14f-6432d4ef6f0b
+    fra: f2383ec4-2ec7-4896-b217-701d8eb096f3
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.12'
+    type: authoritative
+status: valid
+id: 6dda0605-fa96-443d-9ac1-018d6927d312
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}} used in {{calibration,2.39}}"
+  examples: []
+  id: 5.12-eng
+  language_code: eng
+  notes:
+  - content: The term “calibrator” is only used in certain fields.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibrator
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ef5c390c-7170-4219-a14f-6432d4ef6f0b
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}} utilisé pour des {{étalonnages,2.39}}"
+  examples: []
+  id: 5.12-fra
+  language_code: fra
+  notes:
+  - content: En anglais, le terme «calibrator» n'est utilisé que dans certains domaines.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ". . ."
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f2383ec4-2ec7-4896-b217-701d8eb096f3

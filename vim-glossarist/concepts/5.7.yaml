@@ -1,0 +1,86 @@
+---
+data:
+  identifier: '5.7'
+  localized_concepts:
+    eng: 9e739b85-b403-43d3-8f80-592540d30cc3
+    fra: c6d29796-4d03-41f3-aeaf-b0be43622e5f
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.7'
+    type: authoritative
+status: valid
+id: 119d8b8d-72f3-4229-9bc3-1d416d59af94
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}} that is used routinely to calibrate or
+      verify {{measuring instruments,3.1}} or {{measuring systems,3.2}}"
+  examples: []
+  id: 5.7-eng
+  language_code: eng
+  notes:
+  - content: A working measurement standard is usually calibrated with respect to
+      a {{reference measurement standard,5.6}}.
+  - content: In relation to {{verification,2.44}}, the terms “check standard” or “control
+      standard” are also sometimes used.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: working standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9e739b85-b403-43d3-8f80-592540d30cc3
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}} qui est utilisé couramment pour étalonner ou contrôler
+      des {{instruments de mesure,3.1}} ou des {{systèmes de mesure,3.2}}"
+  examples: []
+  id: 5.7-fra
+  language_code: fra
+  notes:
+  - content: Un étalon de travail est habituellement étalonné par rapport à un {{étalon
+      de référence,5.6}}.
+  - content: Un étalon de travail servant à la {{vérification,2.44}} est aussi désigné
+      comme «étalon de vérification» ou «étalon de contrôle».
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon de travail
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c6d29796-4d03-41f3-aeaf-b0be43622e5f

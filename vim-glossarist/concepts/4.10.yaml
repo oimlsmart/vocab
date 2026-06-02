@@ -1,0 +1,89 @@
+---
+data:
+  identifier: '4.10'
+  localized_concepts:
+    eng: 85f372cc-30d4-4ab2-872f-dd5c8d9a7a7f
+    fra: ba82f446-4f68-4f51-8a70-828d6259b8e1
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.10'
+    type: authoritative
+status: valid
+id: b0a87814-b3df-4eed-af8a-0af8b99173ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme operating condition that a {{measuring instrument,3.1}} or {{measuring
+      system,3.2}} is required to withstand without damage, and without degradation
+      of specified metrological properties, when it is subsequently operated under
+      its {{rated operating conditions,4.9}}
+  examples: []
+  id: 4.10-eng
+  language_code: eng
+  notes:
+  - content: Limiting conditions for storage, transport or operation can differ.
+  - content: Limiting conditions can include limiting {{values,1.19}} of a {{quantity,1.1}}
+      being measured and of any {{influence quantity,2.52}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limiting operating condition
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 85f372cc-30d4-4ab2-872f-dd5c8d9a7a7f
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de fonctionnement extrême qu'un {{instrument de mesure,3.1}}
+      ou un {{système de mesure,3.2}} doit pouvoir supporter sans dommage et sans
+      dégradation de propriétés métrologiques spécifiées, lorsqu'il est ensuite utilisé
+      dans ses {{conditions assignées de fonctionnement,4.9}}
+  examples: []
+  id: 4.10-fra
+  language_code: fra
+  notes:
+  - content: Les conditions limites de fonctionnement peuvent être différentes pour
+      le stockage, le transport et le fonctionnement.
+  - content: Les conditions limites de fonctionnement peuvent comprendre des {{valeurs,1.19}}
+      limites pour la {{grandeur,1.1}} mesurée et pour les {{grandeurs d'influence,2.52}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition limite de fonctionnement
+  - type: expression
+    normative_status: admitted
+    designation: condition limite, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ba82f446-4f68-4f51-8a70-828d6259b8e1

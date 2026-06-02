@@ -1,0 +1,86 @@
+---
+data:
+  identifier: '2.4'
+  localized_concepts:
+    eng: d93e4cba-b42b-4309-ad48-820cb9876de3
+    fra: c0a17eef-84a7-4683-81dd-2142196fd2a5
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+status: valid
+id: 342e1791-c25c-4e29-964f-444891da4186
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: phenomenon serving as a basis of a {{measurement,2.1}}
+  examples:
+  - content: Thermoelectric effect applied to the measurement of temperature.
+  - content: Energy absorption applied to the measurement of amount-of-substance concentration.
+  - content: Lowering of the concentration of glucose in blood in a fasting rabbit
+      applied to the measurement of insulin concentration in a preparation.
+  id: 2.4-eng
+  language_code: eng
+  notes:
+  - content: The phenomenon can be of a physical, chemical, or biological nature.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement principle
+  - type: expression
+    normative_status: admitted
+    designation: principle of measurement
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d93e4cba-b42b-4309-ad48-820cb9876de3
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: phénomène servant de base à un {{mesurage,2.1}}
+  examples:
+  - content: |-
+      EXEMPLE 1 Effet thermoélectrique appliqué au mesurage de la température.
+      EXEMPLE 2 Absorption d'énergie appliquée au mesurage de la concentration en quantité de matière.
+      EXEMPLE 3 Diminution de la concentration de glucose dans le sang d'un lapin à jeun, appliquée au mesurage de la concentration d'insuline dans une préparation.
+  id: 2.4-fra
+  language_code: fra
+  notes:
+  - content: Le phénomène peut être de nature physique, chimique ou biologique
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: principe de mesure
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c0a17eef-84a7-4683-81dd-2142196fd2a5

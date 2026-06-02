@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '3.1'
+  localized_concepts:
+    eng: bccb6c3b-7307-4c2a-8d00-413807e813ce
+    fra: 74313f4d-e9fa-4cba-80b8-e54469349c2a
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+status: valid
+id: b04eb01b-d7fc-4603-b1c7-7d23b73ec077
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device used for making {{measurements,2.1}}, alone or in conjunction
+      with one or more supplementary devices
+  examples: []
+  id: 3.1-eng
+  language_code: eng
+  notes:
+  - content: A measuring instrument that can be used alone is a {{measuring system,3.2}}.
+  - content: A measuring instrument may be an {{indicating measuring instrument,3.3}}
+      or a {{material measure,3.6}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring instrument
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: bccb6c3b-7307-4c2a-8d00-413807e813ce
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif utilisé pour faire des {{mesurages,2.1}}, seul ou associé
+      à un ou plusieurs dispositifs annexes
+  examples: []
+  id: 3.1-fra
+  language_code: fra
+  notes:
+  - content: Un instrument de mesure qui peut être utilisé seul est un {{système de
+      mesure,3.2}}.
+  - content: Un instrument de mesure peut être un {{appareil de mesure indicateur,3.3}}
+      ou une {{mesure matérialisée,3.6}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument de mesure
+  - type: expression
+    normative_status: admitted
+    designation: appareil de mesure, m
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 74313f4d-e9fa-4cba-80b8-e54469349c2a

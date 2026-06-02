@@ -1,0 +1,94 @@
+---
+data:
+  identifier: '1.27'
+  localized_concepts:
+    eng: 007ce91b-d4b7-4dfe-a243-f4fe4d1424aa
+    fra: 4fede28e-3cca-41af-a932-8ca13664d913
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.27'
+    type: authoritative
+status: valid
+id: 0fc790ab-95ce-4c13-997c-54577b020d13
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ordered set of {{quantity values,1.19}} of {{quantities,1.1}} of a given
+      {{kind of quantity,1.2}} used in ranking, according to magnitude, quantities
+      of that kind
+  examples:
+  - content: Celsius temperature scale.
+  - content: Time scale.
+  - content: Rockwell C hardness scale.
+  id: 1.27-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "quantity values" can be replaced with "values", and
+      "kind of quantity" can be replaced with "kind", without ambiguity: "ordered
+      set of values of quantities of a given kind used in ranking, according to magnitude,
+      quantities of that kind".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity-value scale
+  - type: expression
+    normative_status: admitted
+    designation: measurement scale
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 007ce91b-d4b7-4dfe-a243-f4fe4d1424aa
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble ordonné de {{valeurs,1.19}} de {{grandeurs,1.1}} d'une {{nature,1.2}}
+      donnée, utilisé pour classer des grandeurs de cette nature en ordre croissant
+      ou décroissant de leurs expressions quantitatives
+  examples:
+  - content: |-
+      EXEMPLE 1 Échelle des températures Celsius.
+      EXEMPLE 2 Échelle de temps.
+      EXEMPLE 3 Échelle de dureté C de Rockwell.
+  id: 1.27-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle de valeurs
+  - type: expression
+    normative_status: admitted
+    designation: échelle de mesure, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4fede28e-3cca-41af-a932-8ca13664d913

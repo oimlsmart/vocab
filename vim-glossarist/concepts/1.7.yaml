@@ -1,0 +1,156 @@
+---
+data:
+  identifier: '1.7'
+  localized_concepts:
+    eng: 3e5b575e-ee7b-4240-9aa3-583ce0b6dc0f
+    fra: 50611a25-cfd8-4fb0-a36f-d8c8ad4a891a
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.7'
+    type: authoritative
+status: valid
+id: b11fba34-b04e-4c36-85ff-20a7b753b2d4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression of the dependence of a {{quantity,1.1}} on the {{base quantities,1.4}}
+      of a {{system of quantities,1.3}} as a product of powers of factors corresponding
+      to the base quantities, omitting any numerical factor
+  examples:
+  - content: In the {{ISQ,1.6}}, the quantity dimension of force is denoted by dim
+      F= LMT–2.
+  - content: In the same system of quantities, dim ρB = ML–3 is the quantity dimension
+      of mass concentration of component B, and ML–3 is also the quantity dimension
+      of mass density, ρ (volumic mass).
+  - content: |-
+      The period Tof a pendulum of length lat a place with the local acceleration of free fall gis
+      or
+      where
+      Hence dim C(g) = L–1/2 T.
+  id: 1.7-eng
+  language_code: eng
+  notes:
+  - content: A power of a factor is the factor raised to an exponent. Each factor
+      is the dimension of a base quantity.
+  - content: The conventional symbolic representation of the dimension of a base quantity
+      is a single upper case letter in roman (upright) sans-serif type. The conventional
+      symbolic representation of the dimension of a {{derived quantity,1.5}} is the
+      product of powers of the dimensions of the base quantities according to the
+      definition of the derived quantity. The dimension of a quantity Qis denoted
+      by dim Q.
+  - content: In deriving the dimension of a quantity, no account is taken of its scalar,
+      vector, or tensor character.
+  - content: |-
+      In a given system of quantities,
+      - quantities of the same {{kind,1.2}} have the same quantity dimension,
+      - quantities of different quantity dimensions are always of different kinds, and
+      - quantities having the same quantity dimension are not necessarily of the same kind.
+  - content: |-
+      Symbols representing the dimensions of the base quantities in the ISQ are:
+
+      | lengthlongueur |
+      | massmasse |
+      | timetemps |
+      | electric currentcourant électrique |
+      | thermodynamic temperaturetempérature thermodynamique |
+      | amount of substancequantité de matière |
+      | luminous intensityintensité lumineuse |
+      Thus, the dimension of a quantity Qis denoted by dim Q = LαMβTγIδΘεNζJη where the exponents, named dimensional exponents, are positive, negative, or zero.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity dimension
+  - type: expression
+    normative_status: admitted
+    designation: dimension of a quantity
+  - type: expression
+    normative_status: admitted
+    designation: dimension
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3e5b575e-ee7b-4240-9aa3-583ce0b6dc0f
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression de la dépendance d'une {{grandeur,1.1}} par rapport aux {{grandeurs
+      de base,1.4}} d'un {{système de grandeurs,1.3}} sous la forme d'un produit de
+      puissances de facteurs correspondant aux grandeurs de base, en omettant tout
+      facteur numérique
+  examples:
+  - content: |-
+      EXEMPLE 1 Dans l'{{ISQ,1.6}}, la dimension de la force est notée dim F= LMT–2.
+      EXEMPLE 2 Dans le même système de grandeurs, dim ρB = ML–3 est la dimension de la concentration en masse du constituant B, et ML–3 est aussi la dimension de la masse volumique ρ.
+      EXEMPLE 3 La période Td'un pendule de longueur len un endroit où l'accélération locale de la pesanteur vaut gest
+      ou
+      où
+      Par conséquent, dim C(g) = L–1/2 T.
+  id: 1.7-fra
+  language_code: fra
+  notes:
+  - content: Une puissance d'un facteur est le facteur muni d'un exposant. Chaque
+      facteur exprime la dimension d'une grandeur de base.
+  - content: Par convention, la représentation symbolique de la dimension d'une grandeur
+      de base est une lettre majuscule unique en caractère romain (droit) sans empattement.
+      Par convention, la représentation symbolique de la dimension d'une {{grandeur
+      dérivée,1.5}} est le produit de puissances des dimensions des grandeurs de base
+      conformément à la définition de la grandeur dérivée. La dimension de la grandeur
+      Qest notée dim Q.
+  - content: Pour établir la dimension d'une grandeur, on ne tient pas compte du caractère
+      scalaire, vectoriel ou tensoriel.
+  - content: |-
+      Dans un système de grandeurs donné,
+      - les grandeurs de même {{nature,1.2}} ont la même dimension,
+      - des grandeurs de dimensions différentes sont toujours de nature différente,
+      - des grandeurs ayant la même dimension ne sont pas nécessairement de même nature.
+  - content: |-
+      Dans l'ISQ, les symboles correspondant aux dimensions des grandeurs de base sont:
+
+      | lengthlongueur |
+      | massmasse |
+      | timetemps |
+      | electric currentcourant électrique |
+      | thermodynamic temperaturetempérature thermodynamique |
+      | amount of substancequantité de matière |
+      | luminous intensityintensité lumineuse |
+      La dimension d'une grandeur Qest donc notée dim Q = LαMβTγIδΘεNζJη où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou nuls.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimension
+  - type: expression
+    normative_status: admitted
+    designation: dimension d'une grandeur, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 50611a25-cfd8-4fb0-a36f-d8c8ad4a891a

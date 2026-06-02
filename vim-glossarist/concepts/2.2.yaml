@@ -1,0 +1,77 @@
+---
+data:
+  identifier: '2.2'
+  localized_concepts:
+    eng: c79947cc-ac69-4d7a-9df1-f38950ac4636
+    fra: 060ace7c-015a-4971-b6be-b6ebf835f472
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+status: valid
+id: 61d8e64d-7fbf-44fd-8c94-19c200278834
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: science of {{measurement,2.1}} and its application
+  examples: []
+  id: 2.2-eng
+  language_code: eng
+  notes:
+  - content: Metrology includes all theoretical and practical aspects of measurement,
+      whatever the {{measurement uncertainty,2.26}} and field of application.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrology
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c79947cc-ac69-4d7a-9df1-f38950ac4636
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: science des {{mesurages,2.1}} et ses applications
+  examples: []
+  id: 2.2-fra
+  language_code: fra
+  notes:
+  - content: La métrologie comprend tous les aspects théoriques et pratiques des mesurages,
+      quels que soient l'{{incertitude de mesure,2.26}} et le domaine d'application.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: métrologie
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 060ace7c-015a-4971-b6be-b6ebf835f472

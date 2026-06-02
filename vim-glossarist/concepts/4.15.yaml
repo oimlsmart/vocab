@@ -1,0 +1,75 @@
+---
+data:
+  identifier: '4.15'
+  localized_concepts:
+    eng: 2c4e3219-50bd-43b6-96a0-28fca22b611a
+    fra: 1e974143-435c-4079-94b3-63a83eb88571
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.15'
+    type: authoritative
+status: valid
+id: 69badd76-6d87-4036-8aeb-1de76ea77ac4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest difference between displayed {{indications,4.1}} that can be
+      meaningfully distinguished
+  examples: []
+  id: 4.15-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution of a displaying device
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2c4e3219-50bd-43b6-96a0-28fca22b611a
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: plus petite différence entre {{indications,4.1}} affichées qui peut être
+      perçue de manière significative
+  examples: []
+  id: 4.15-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résolution d'un dispositif afficheur
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1e974143-435c-4079-94b3-63a83eb88571

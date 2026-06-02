@@ -1,0 +1,79 @@
+---
+data:
+  identifier: '2.32'
+  localized_concepts:
+    eng: ab0f7a1b-d95f-485e-ab31-1082671f75d3
+    fra: e9e4e377-406b-4d76-ad1d-9b4d525faa1c
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.32'
+    type: authoritative
+status: valid
+id: a4db5267-d05c-4e92-b36c-f95822e77ace
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{standard measurement uncertainty,2.30}} divided by the absolute value
+      of the {{measured quantity value,2.10}}"
+  examples: []
+  id: 2.32-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "standard measurement uncertainty" can be replaced
+      with "standard uncertainty" and "measured quantity value" can be replaced with
+      "measured value" without ambiguity: "standard uncertainty divided by the absolute
+      value of the measured value".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.32'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative standard measurement uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ab0f7a1b-d95f-485e-ab31-1082671f75d3
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quotient de l'{{incertitude-type,2.30}} par la valeur absolue de la {{valeur
+      mesurée,2.10}}
+  examples: []
+  id: 2.32-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.32'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type relative
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e9e4e377-406b-4d76-ad1d-9b4d525faa1c

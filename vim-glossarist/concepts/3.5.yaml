@@ -1,0 +1,82 @@
+---
+data:
+  identifier: '3.5'
+  localized_concepts:
+    eng: 3372594d-e17f-4f8a-b9dc-43ad0a028018
+    fra: 769e5743-ca14-4dcf-b5d8-f5aaa746de7e
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+status: valid
+id: 1d22f683-4136-48e4-880a-eb986808f7de
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of a {{displaying measuring instrument,3.4}}, consisting of an ordered
+      set of marks together with any associated {{quantity values,1.19}}
+  examples: []
+  id: 3.5-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
+      ambiguity: "part of a displaying measuring instrument, consisting of an ordered
+      set of marks together with any associated values."'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale of a displaying measuring instrument
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3372594d-e17f-4f8a-b9dc-43ad0a028018
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: partie d'un {{appareil de mesure afficheur,3.4}} constituée d'un ensemble
+      ordonné de repères, associés éventuellement à des nombres ou des {{valeurs de
+      grandeurs,1.19}}
+  examples: []
+  id: 3.5-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle d'un appareil de mesure afficheur
+  - type: expression
+    normative_status: admitted
+    designation: échelle, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 769e5743-ca14-4dcf-b5d8-f5aaa746de7e

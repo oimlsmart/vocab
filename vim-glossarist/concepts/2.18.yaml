@@ -1,0 +1,84 @@
+---
+data:
+  identifier: '2.18'
+  localized_concepts:
+    eng: 98ab7fc6-a80d-402e-a486-35025f523c80
+    fra: 698e77ea-a966-45d0-b2a8-096a3ad6a256
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.18'
+    type: authoritative
+status: valid
+id: 3b0fc130-0c95-4a07-8578-584db78da1d9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: estimate of a {{systematic measurement error,2.17}}
+  examples: []
+  id: 2.18-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "systematic measurement error" can be replaced with
+      "systematic error" without ambiguity: "estimate of a systematic error".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement bias
+  - type: expression
+    normative_status: admitted
+    designation: bias
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 98ab7fc6-a80d-402e-a486-35025f523c80
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: estimation d'une {{erreur systématique,2.17}}
+  examples: []
+  id: 2.18-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biais de mesure
+  - type: expression
+    normative_status: admitted
+    designation: biais, m
+  - type: expression
+    normative_status: admitted
+    designation: erreur de justesse, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 698e77ea-a966-45d0-b2a8-096a3ad6a256

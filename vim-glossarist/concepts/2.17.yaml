@@ -1,0 +1,98 @@
+---
+data:
+  identifier: '2.17'
+  localized_concepts:
+    eng: c0916649-2127-493a-bdbb-5ae3ef19a31b
+    fra: 3b46afe2-0ec6-4386-bed0-d71048e9dee3
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+status: valid
+id: 17350f52-b444-4fd0-92a5-ca20a5136086
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component of {{measurement error,2.16}} that in replicate {{measurements,2.1}}
+      remains constant or varies in a predictable manner
+  examples: []
+  id: 2.17-eng
+  language_code: eng
+  notes:
+  - content: A {{reference quantity value,5.18}} for a systematic measurement error
+      is a {{true quantity value,2.11}}, or a {{measured quantity value,2.10}} of
+      a {{measurement standard,5.1}} of negligible {{measurement uncertainty,2.26}},
+      or a {{conventional quantity value,2.12}}.
+  - content: Systematic measurement error, and its causes, can be known or unknown.
+      A {{correction,2.53}} can be applied to compensate for a known systematic measurement
+      error.
+  - content: Systematic measurement error equals measurement error minus {{random
+      measurement error,2.19}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: systematic measurement error
+  - type: expression
+    normative_status: admitted
+    designation: systematic error of measurement
+  - type: expression
+    normative_status: admitted
+    designation: systematic error
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c0916649-2127-493a-bdbb-5ae3ef19a31b
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: composante de l'{{erreur de mesure,2.16}} qui, dans des {{mesurages,2.1}}
+      répétés, demeure constante ou varie de façon prévisible
+  examples: []
+  id: 2.17-fra
+  language_code: fra
+  notes:
+  - content: La {{valeur de référence,5.18}} pour une erreur systématique est une
+      {{valeur vraie,2.11}}, une {{valeur mesurée,2.10}} d'un {{étalon,5.1}} dont
+      l'{{incertitude de mesure,2.26}} est négligeable, ou une {{valeur conventionnelle,2.12}}.
+  - content: L'erreur systématique et ses causes peuvent être connues ou inconnues.
+      On peut appliquer une {{correction,2.53}} pour compenser une erreur systématique
+      connue.
+  - content: L'erreur systématique est égale à la différence entre l'erreur de mesure
+      et l'{{erreur aléatoire,2.19}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur systématique
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3b46afe2-0ec6-4386-bed0-d71048e9dee3

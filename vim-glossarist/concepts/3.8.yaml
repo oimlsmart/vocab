@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '3.8'
+  localized_concepts:
+    eng: 1b27e9dc-6525-486d-bc7c-10d26c6d1d0c
+    fra: a2dfb62b-299a-4ca1-bd38-36e609da81d8
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+status: valid
+id: b9cc22e6-c695-4f6b-8992-7727a9c341cf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: element of a {{measuring system,3.2}} that is directly affected by a
+      phenomenon, body, or substance carrying a {{quantity,1.1}} to be measured
+  examples:
+  - content: Sensing coil of a platinum resistance thermometer, rotor of a turbine
+      flow meter, Bourdon tube of a pressure gauge, float of a level-measuring instrument,
+      photocell of a spectrometer, thermotropic liquid crystal which changes colour
+      as a function of temperature.
+  id: 3.8-eng
+  language_code: eng
+  notes:
+  - content: In some fields, the term “detector” is used for this concept.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensor
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1b27e9dc-6525-486d-bc7c-10d26c6d1d0c
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: élément d'un {{système de mesure,3.2}} qui est directement soumis à l'action
+      du phénomène, du corps ou de la substance portant la {{grandeur,1.1}} à mesurer
+  examples:
+  - content: EXEMPLES Bobine sensible d'un thermomètre à résistance de platine, rotor
+      d'un débitmètre à turbine, tube de Bourdon d'un manomètre, flotteur d'un appareil
+      de mesure de niveau, récepteur photoélectrique d'un spectrophotomètre, cristal
+      liquide thermotrope dont la couleur change en fonction de la température.
+  id: 3.8-fra
+  language_code: fra
+  notes:
+  - content: Dans certains domaines, le terme «détecteur» est employé pour ce concept.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capteur
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a2dfb62b-299a-4ca1-bd38-36e609da81d8

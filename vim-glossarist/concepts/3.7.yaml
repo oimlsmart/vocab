@@ -1,0 +1,79 @@
+---
+data:
+  identifier: '3.7'
+  localized_concepts:
+    eng: 436a46d0-fb49-4438-b8bd-822609b1b79c
+    fra: c525c649-5ba2-4e7b-bbea-e9f8966e832b
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+status: valid
+id: 251a4311-4e5d-4604-b166-96c045312665
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device, used in {{measurement,2.1}}, that provides an output {{quantity,1.1}}
+      having a specified relation to the input quantity
+  examples:
+  - content: Thermocouple, electric current transformer, strain gauge, pH electrode,
+      Bourdon tube, bimetallic strip.
+  id: 3.7-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring transducer
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 436a46d0-fb49-4438-b8bd-822609b1b79c
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif, employé en {{mesurage,2.1}}, qui fait correspondre à une
+      {{grandeur,1.1}} d'entrée une grandeur de sortie selon une loi déterminée
+  examples:
+  - content: EXEMPLES Thermocouple, transformateur de courant électrique, jauge de
+      contrainte, électrode de pH, tube de Bourdon, bilame.
+  id: 3.7-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transducteur de mesure
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c525c649-5ba2-4e7b-bbea-e9f8966e832b

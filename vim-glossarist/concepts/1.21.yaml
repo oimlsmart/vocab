@@ -1,0 +1,83 @@
+---
+data:
+  identifier: '1.21'
+  localized_concepts:
+    eng: daae4d3a-e8a4-4c07-a68f-2c1fc7a42ca1
+    fra: 7dfc038d-e8e2-415d-9015-c20bdac8188c
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.21'
+    type: authoritative
+status: valid
+id: cbc45ae3-c61c-428b-9a6e-0ce93abef9ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of mathematical rules and operations applied to {{quantities,1.1}}
+      other than {{ordinal quantities,1.26}}
+  examples: []
+  id: 1.21-eng
+  language_code: eng
+  notes:
+  - content: In quantity calculus, {{quantity equations,1.22}} are preferred to {{numerical
+      value equations,1.25}} because quantity equations are independent of the choice
+      of {{measurement units,1.9}}, whereas numerical value equations are not (see
+      ISO 31-0:1992, 2.2.2).
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity calculus
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: daae4d3a-e8a4-4c07-a68f-2c1fc7a42ca1
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble de règles et opérations mathématiques appliquées aux {{grandeurs,1.1}}
+      autres que les {{grandeurs ordinales,1.26}}
+  examples: []
+  id: 1.21-fra
+  language_code: fra
+  notes:
+  - content: En algèbre des grandeurs, les {{équations aux grandeurs,1.22}} sont préférées
+      aux {{équations aux valeurs numériques,1.25}} car les premières, contrairement
+      aux secondes, sont indépendantes du choix des {{unités de mesure,1.9}} (voir
+      l'ISO 31-0:1992, 2.2.2).
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: algèbre des grandeurs
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7dfc038d-e8e2-415d-9015-c20bdac8188c

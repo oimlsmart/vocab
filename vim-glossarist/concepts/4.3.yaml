@@ -1,0 +1,83 @@
+---
+data:
+  identifier: '4.3'
+  localized_concepts:
+    eng: d9c1434e-197b-4dcb-bd97-745317d76c48
+    fra: d30b9c67-7ff4-40b5-aaa9-5ee7081681f7
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.3'
+    type: authoritative
+status: valid
+id: b18be9c7-9240-4c5c-9701-d82949570235
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of {{quantity values,1.19}} bounded by extreme possible {{indications,4.1}}
+  examples: []
+  id: 4.3-eng
+  language_code: eng
+  notes:
+  - content: An indication interval is usually stated in terms of its smallest and
+      greatest quantity values, for example “99 V to 201 V”.
+  - content: In some fields, the term is “range of indications”.
+  - content: '[Annotation] Here "quantity values" can be replaced by "values" without
+      ambiguity: "set of values bounded by extreme possible indications".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication interval
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d9c1434e-197b-4dcb-bd97-745317d76c48
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des {{valeurs,1.19}} comprises entre les deux {{indications,4.1}}
+      extrêmes
+  examples: []
+  id: 4.3-fra
+  language_code: fra
+  notes:
+  - content: Un intervalle des indications est généralement exprimé en donnant la
+      plus petite et la plus grande valeur, par exemple «99 V à 201 V».
+  - content: Dans certains domaines, le terme anglais est «range of indications».
+      En français, le terme «étendue des indications» est parfois employé.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intervalle des indications
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d30b9c67-7ff4-40b5-aaa9-5ee7081681f7

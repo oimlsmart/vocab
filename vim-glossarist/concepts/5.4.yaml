@@ -1,0 +1,95 @@
+---
+data:
+  identifier: '5.4'
+  localized_concepts:
+    eng: 7e6ed05e-309f-4344-b5da-1d4753e507bc
+    fra: b70fe1d5-a84e-4593-ba0a-07215b56868a
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.4'
+    type: authoritative
+status: valid
+id: 4e889c38-5ea8-4e0d-a395-7992ff905222
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement standard,5.1}} established using a {{primary reference
+      measurement procedure,2.8}}, or created as an artifact, chosen by convention"
+  examples:
+  - content: Primary measurement standard of amount-of-substance concentration prepared
+      by dissolving a known amount of substance of a chemical component to a known
+      volume of solution.
+  - content: Primary measurement standard for pressure based on separate {{measurements,2.1}}
+      of force and area.
+  - content: Primary measurement standard for isotope amount-of-substance ratio measurements,
+      prepared by mixing known amount-of-substances of specified isotopes.
+  - content: Triple-point-of-water cell as a primary measurement standard of thermodynamic
+      temperature.
+  - content: The international prototype of the kilogram as an artifact, chosen by
+      convention.
+  id: 5.4-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: primary standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7e6ed05e-309f-4344-b5da-1d4753e507bc
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{étalon,5.1}} établi à l'aide d'une {{procédure de mesure primaire,2.8}}
+      ou créé comme objet choisi par convention"
+  examples:
+  - content: |-
+      EXEMPLE 1 Étalon primaire de concentration en quantité de matière préparé en dissolvant une quantité de matière connue d'une substance chimique dans un volume connu de solution.
+      EXEMPLE 2 Étalon primaire de pression fondé sur des {{mesurages,2.1}} séparés de force et d'aire.
+      EXEMPLE 3 Étalon primaire pour les mesurages du rapport molaire d'isotopes, préparé en mélangeant des quantités de matière connues d'isotopes spécifiés.
+      EXEMPLE 4 Étalon primaire de température thermodynamique constitué d'une cellule à point triple de l'eau.
+      EXEMPLE 5 Le prototype international du kilogramme en tant qu'objet choisi par convention.
+  id: 5.4-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '5.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon primaire
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b70fe1d5-a84e-4593-ba0a-07215b56868a

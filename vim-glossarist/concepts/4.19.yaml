@@ -1,0 +1,91 @@
+---
+data:
+  identifier: '4.19'
+  localized_concepts:
+    eng: cdcc7298-419b-4d51-9513-46f317d18afa
+    fra: 5fb59e34-e983-4280-be3f-ed581814b7af
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.19'
+    type: authoritative
+status: valid
+id: 3bc3bb12-413b-4ac4-b8f7-d9fbfe4bb67c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: property of a {{measuring instrument,3.1}}, whereby its metrological
+      properties remain constant in time
+  examples: []
+  id: 4.19-eng
+  language_code: eng
+  notes:
+  - content: |-
+      Stability may be quantified in several ways.
+
+      EXAMPLE 1 In terms of the duration of a time interval over which a metrological property changes by a stated amount.
+
+      EXAMPLE 2 In terms of the change of a property over a stated time interval.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stability of a measuring instrument
+  - type: expression
+    normative_status: admitted
+    designation: stability
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: cdcc7298-419b-4d51-9513-46f317d18afa
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: propriété d'un {{instrument de mesure,3.1}} selon laquelle celui-ci conserve
+      ses propriétés métrologiques constantes au cours du temps
+  examples: []
+  id: 4.19-fra
+  language_code: fra
+  notes:
+  - content: |-
+      La stabilité d'un instrument de mesure peut être exprimée quantitativement de plusieurs façons.
+      EXEMPLE 1 Par la durée d'un intervalle de temps au cours duquel une propriété métrologique évolue d'une quantité donnée.
+      EXEMPLE 2 Par la variation d'une propriété au cours d'un intervalle de temps déterminé.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stabilité
+  - type: expression
+    normative_status: admitted
+    designation: constance, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5fb59e34-e983-4280-be3f-ed581814b7af

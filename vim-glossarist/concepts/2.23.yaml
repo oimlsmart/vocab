@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '2.23'
+  localized_concepts:
+    eng: 1a612983-82a4-4b66-adee-f644dd24cea4
+    fra: da481368-344c-4f10-9058-ecfed11b3f22
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.23'
+    type: authoritative
+status: valid
+id: 5602c8f1-44a1-4c0c-ade7-304495685378
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measurement precision,2.15}} under a set of {{intermediate precision
+      conditions of measurement,2.22}}"
+  examples: []
+  id: 2.23-eng
+  language_code: eng
+  notes:
+  - content: Relevant statistical terms are given in ISO 5725-3:1994.
+  - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
+      "measurement precision under a set of intermediate precision conditions".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermediate measurement precision
+  - type: expression
+    normative_status: admitted
+    designation: intermediate precision
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1a612983-82a4-4b66-adee-f644dd24cea4
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de fidélité
+      intermédiaire,2.22}}"
+  examples: []
+  id: 2.23-fra
+  language_code: fra
+  notes:
+  - content: Des termes statistiques pertinents sont donnés dans l'ISO 5725-3:1994.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fidélité intermédiaire de mesure
+  - type: expression
+    normative_status: admitted
+    designation: fidélité intermédiaire, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: da481368-344c-4f10-9058-ecfed11b3f22

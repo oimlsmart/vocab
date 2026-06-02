@@ -1,0 +1,82 @@
+---
+data:
+  identifier: '4.9'
+  localized_concepts:
+    eng: 28427d07-5663-4209-a5e9-b75251161df8
+    fra: 1e20e936-8da7-4b42-99fb-a6e31a11ee9d
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+status: valid
+id: c9dbf805-beb2-499d-9b89-3cfbaee8c815
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating condition that must be fulfilled during {{measurement,2.1}}
+      in order that a {{measuring instrument,3.1}} or {{measuring system,3.2}} perform
+      as designed
+  examples: []
+  id: 4.9-eng
+  language_code: eng
+  notes:
+  - content: Rated operating conditions generally specify intervals of {{values,1.19}}
+      for a {{quantity,1.1}} being measured and for any {{influence quantity,2.52}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating condition
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 28427d07-5663-4209-a5e9-b75251161df8
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de fonctionnement qui doit être satisfaite pendant un {{mesurage,2.1}}
+      pour qu'un {{instrument de mesure,3.1}} ou un {{système de mesure,3.2}} fonctionne
+      conformément à sa conception
+  examples: []
+  id: 4.9-fra
+  language_code: fra
+  notes:
+  - content: Les conditions assignées de fonctionnement spécifient généralement des
+      intervalles de {{valeurs,1.19}} pour la {{grandeur,1.1}} mesurée et pour les
+      {{grandeurs d'influence,2.52}}.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition assignée de fonctionnement
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1e20e936-8da7-4b42-99fb-a6e31a11ee9d

@@ -1,0 +1,103 @@
+---
+data:
+  identifier: '2.50'
+  localized_concepts:
+    eng: 30d71531-e7a5-4406-b847-09df8046ff78
+    fra: 82f2f044-dc91-4096-a9c6-d41376a85756
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.50'
+    type: authoritative
+status: valid
+id: a7b12f0f-e6b4-4944-8d89-138ac6da1d6b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{quantity,1.1}} that must be measured, or a quantity, the {{value,1.19}}
+      of which can be otherwise obtained, in order to calculate a {{measured quantity
+      value,2.10}} of a {{measurand,2.3}}"
+  examples:
+  - content: When the length of a steel rod at a specified temperature is the measurand,
+      the actual temperature, the length at that actual temperature, and the linear
+      thermal expansion coefficient of the rod are input quantities in a measurement
+      model.
+  id: 2.50-eng
+  language_code: eng
+  notes:
+  - content: An input quantity in a measurement model is often an output quantity
+      of a {{measuring system,3.2}}.
+  - content: "{{Indications,4.1}}, {{corrections,2.53}} and {{influence quantities,2.52}}
+      can be input quantities in a measurement model."
+  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
+      value" without ambiguity: "quantity that must be measured, or a quantity, the
+      value of which can be otherwise obtained, in order to calculate a measured value
+      of a measurand".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.50'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: input quantity in a measurement model
+  - type: expression
+    normative_status: admitted
+    designation: input quantity
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 30d71531-e7a5-4406-b847-09df8046ff78
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{grandeur,1.1}} qui doit être mesurée, ou grandeur dont la {{valeur,1.19}}
+      peut être obtenue autrement, pour calculer une {{valeur mesurée,2.10}} d'un
+      {{mesurande,2.3}}"
+  examples:
+  - content: EXEMPLE Lorsque le mesurande est la longueur d'une tige d'acier à une
+      température spécifiée, la température réelle, la longueur à la température réelle
+      et le coefficient de dilatation thermique linéique de la tige sont des grandeurs
+      d'entrée dans un modèle de mesure.
+  id: 2.50-fra
+  language_code: fra
+  notes:
+  - content: Une grandeur d'entrée dans un modèle de mesure est souvent une grandeur
+      de sortie d'un {{système de mesure,3.2}}.
+  - content: Les {{indications,4.1}}, les {{corrections,2.53}} et les {{grandeurs
+      d'influence,2.52}} sont des grandeurs d'entrée dans un modèle de mesure.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.50'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur d'entrée dans un modèle de mesure
+  - type: expression
+    normative_status: admitted
+    designation: grandeur d'entrée, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 82f2f044-dc91-4096-a9c6-d41376a85756

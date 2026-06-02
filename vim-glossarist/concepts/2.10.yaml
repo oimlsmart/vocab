@@ -1,0 +1,118 @@
+---
+data:
+  identifier: '2.10'
+  localized_concepts:
+    eng: ec121529-117e-43b5-9817-548de08639c1
+    fra: 621c09f4-e307-42c0-bffa-295b7b8da3d6
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+status: valid
+id: f70a2e26-42a3-4f54-a17c-79d2fffba529
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{quantity value,1.19}} representing a {{measurement result,2.9}}"
+  examples: []
+  id: 2.10-eng
+  language_code: eng
+  notes:
+  - content: For a {{measurement,2.1}} involving replicate {{indications,4.1}}, each
+      indication can be used to provide a corresponding measured quantity value. This
+      set of individual measured quantity values can be used to calculate a resulting
+      measured quantity value, such as an average or median, usually with a decreased
+      associated {{measurement uncertainty,2.26}}.
+  - content: When the range of the {{true quantity values,2.11}} believed to represent
+      the {{measurand,2.3}} is small compared with the measurement uncertainty, a
+      measured quantity value can be considered to be an estimate of an essentially
+      unique true quantity value and is often an average or median of individual measured
+      quantity values obtained through replicate measurements.
+  - content: In the case where the range of the true quantity values believed to represent
+      the measurand is not small compared with the measurement uncertainty, a measured
+      quantity value is often an estimate of an average or median of the set of true
+      quantity values.
+  - content: In the GUM, the terms “result of measurement” and “estimate of the value
+      of the measurand” or just “estimate of the measurand” are used for 'measured
+      quantity value'.
+  - content: '[Annotation] The term "measured value" can be used instead of the full
+      term "measured quantity value" only if there is no possibility for ambiguity
+      or misinterpretation in the particular context. In particular, the term "measured
+      value" is sometimes used for indication, and this is not what is meant by "measured
+      quantity value".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measured quantity value
+  - type: expression
+    normative_status: admitted
+    designation: value of a measured quantity
+  - type: expression
+    normative_status: admitted
+    designation: measured value
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ec121529-117e-43b5-9817-548de08639c1
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{valeur d'une grandeur,1.19}} représentant un {{résultat de mesure,2.9}}"
+  examples: []
+  id: 2.10-fra
+  language_code: fra
+  notes:
+  - content: Pour un {{mesurage,2.1}} impliquant des {{indications,4.1}} répétées,
+      chacune peut être utilisée pour fournir une valeur mesurée correspondante. Cet
+      ensemble de valeurs mesurées individuelles peut ensuite être utilisé pour calculer
+      une valeur mesurée résultante, telle qu'une moyenne ou une médiane, en général
+      avec une {{incertitude de mesure,2.26}} associée qui décroît.
+  - content: Lorsque l'étendue des {{valeurs vraies,2.11}} considérées comme représentant
+      le {{mesurande,2.3}} est petite par rapport à l'incertitude de mesure, on peut
+      considérer une valeur mesurée comme une estimation d'une valeur vraie par essence
+      unique, souvent sous la forme d'une moyenne ou d'une médiane de valeurs mesurées
+      individuelles obtenues par des mesurages répétés.
+  - content: Lorsque l'étendue des valeurs vraies considérées comme représentant le
+      mesurande n'est pas petite par rapport à l'incertitude de mesure, une valeur
+      mesurée est souvent une estimation d'une moyenne ou d'une médiane de l'ensemble
+      des valeurs vraies.
+  - content: Dans le GUM, les termes «résultat de mesure » et «estimation de la valeur
+      du mesurande», ou simplement «estimation du mesurande», sont utilisés au sens
+      de «valeur mesurée».
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur mesurée
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 621c09f4-e307-42c0-bffa-295b7b8da3d6

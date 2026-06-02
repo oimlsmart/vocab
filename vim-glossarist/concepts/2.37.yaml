@@ -1,0 +1,87 @@
+---
+data:
+  identifier: '2.37'
+  localized_concepts:
+    eng: 1a1f8527-2761-4aaf-8c91-a35aebda2237
+    fra: '02738ee2-ff0f-4828-95b0-fa2ac505e92d'
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.37'
+    type: authoritative
+status: valid
+id: 8e7a67ff-c152-48a7-8766-e6c4496dfccb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: probability that the set of {{true quantity values,2.11}} of a {{measurand,2.3}}
+      is contained within a specified {{coverage interval,2.36}}
+  examples: []
+  id: 2.37-eng
+  language_code: eng
+  notes:
+  - content: This definition pertains to the Uncertainty Approach as presented in
+      the GUM.
+  - content: The coverage probability is also termed “level of confidence” in the
+      GUM.
+  - content: '[Annotation] Here "true quantity values" can be replaced with "true
+      values" without ambiguity: "probability that the set of true values of a measurand
+      is contained within a specified coverage interval".'
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.37'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage probability
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1a1f8527-2761-4aaf-8c91-a35aebda2237
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: probabilité que l'ensemble des {{valeurs vraies,2.11}} d'un {{mesurande,2.3}}
+      soit contenu dans un {{intervalle élargi,2.36}} spécifié
+  examples: []
+  id: 2.37-fra
+  language_code: fra
+  notes:
+  - content: La définition se réfère à l'approche «incertitude» présentée dans le
+      GUM.
+  - content: Il convient de ne pas confondre ce concept avec le concept statistique
+      de niveau de confiance, bien que le terme «level of confidence» soit utilisé
+      en anglais dans le GUM.
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '2.37'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: probabilité de couverture
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: '02738ee2-ff0f-4828-95b0-fa2ac505e92d'

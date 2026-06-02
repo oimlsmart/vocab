@@ -1,0 +1,73 @@
+---
+data:
+  identifier: '1.29'
+  localized_concepts:
+    eng: 6fadeb0f-c354-44cc-b4ef-8b8cb056a30e
+    fra: 1f56d89c-dd39-441a-94c5-1fa700788a4f
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2012
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.29'
+    type: authoritative
+status: valid
+id: 3b63aba2-ee91-4ccd-a555-4a73d8a00fa1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{quantity-value scale,1.27}} defined by formal agreement"
+  examples: []
+  id: 1.29-eng
+  language_code: eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.29'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional reference scale
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6fadeb0f-c354-44cc-b4ef-8b8cb056a30e
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{échelle de valeurs,1.27}} définie par un accord officiel"
+  examples: []
+  id: 1.29-fra
+  language_code: fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: JCGM 200:2012
+      locality:
+        type: clause
+        reference_from: '1.29'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle de référence conventionnelle
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1f56d89c-dd39-441a-94c5-1fa700788a4f
