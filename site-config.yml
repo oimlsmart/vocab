@@ -100,6 +100,26 @@ pages:
         title: À propos
         source: about-fra.md
 
+  - type: about
+    route: viml-about
+    title: About VIML
+    icon: info
+    source: viml-glossarist/about.md
+    translations:
+      fra:
+        title: À propos du VIML
+        source: viml-glossarist/about-fra.md
+
+  - type: about
+    route: vim-about
+    title: About VIM
+    icon: info
+    source: vim-glossarist/about.md
+    translations:
+      fra:
+        title: À propos du VIM
+        source: vim-glossarist/about-fra.md
+
 defaults:
   language: eng
 

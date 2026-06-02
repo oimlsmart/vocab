@@ -584,7 +584,7 @@ const nonVerbalReps = computed(() => {
                   <div v-if="d.sources?.length" class="mt-1 space-y-0.5">
                     <div v-for="(ds, dsi) in d.sources" :key="'ds'+dsi" class="text-xs text-ink-400 flex items-center gap-1.5">
                       <span v-if="ds.type" class="badge text-[9px]" :class="sourceTypeInfo(ds.type).color">{{ sourceTypeInfo(ds.type).label }}</span>
-                      <CitationDisplay v-if="ds.origin" :citation="ds.origin" />
+                      <CitationDisplay v-if="ds.origin" :citation="ds.origin" :register-id="registerId" />
                       <span v-else-if="ds.modification" class="text-ink-300">{{ ds.modification }}</span>
                     </div>
                   </div>
@@ -631,7 +631,7 @@ const nonVerbalReps = computed(() => {
                     <span v-if="src.status" class="badge text-[10px]" :title="sourceStatusInfo(src.status).definition ?? ''" :class="sourceStatusInfo(src.status).color">{{ sourceStatusInfo(src.status).label }}</span>
                   </div>
                   <div class="text-ink-700">
-                    <CitationDisplay v-if="src.origin" :citation="src.origin" />
+                    <CitationDisplay v-if="src.origin" :citation="src.origin" :register-id="registerId" />
                     <span v-if="!src.origin && src.modification" class="text-ink-400">{{ src.modification }}</span>
                   </div>
                   <div v-if="src.modification" class="text-xs text-ink-300 mt-1">{{ src.modification }}</div>
@@ -777,7 +777,7 @@ const nonVerbalReps = computed(() => {
                   <span v-if="src.status" class="badge text-[10px]" :title="sourceStatusInfo(src.status).definition ?? ''" :class="sourceStatusInfo(src.status).color">{{ sourceStatusInfo(src.status).label }}</span>
                 </div>
                 <div class="text-ink-700">
-                  <CitationDisplay v-if="src.origin" :citation="src.origin" />
+                  <CitationDisplay v-if="src.origin" :citation="src.origin" :register-id="registerId" />
                 </div>
                 <div v-if="src.modification" class="text-ink-300 mt-0.5">{{ src.modification }}</div>
               </div>
