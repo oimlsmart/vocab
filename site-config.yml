@@ -23,7 +23,7 @@ datasets:
     uriAliases:
       - "urn:oiml:pub:v:1:2022*"
     sourceRepo: https://github.com/metanorma/oiml-viml
-    localPath: viml-glossarist
+    localPath: datasets/viml
     ref: "OIML V 1:2022"
     title: "VIML — International Vocabulary of Legal Metrology"
     description: "Terminology definitions from the International Vocabulary of Legal Metrology (OIML V 1:2022)"
@@ -42,7 +42,7 @@ datasets:
     uriAliases:
       - "urn:jcgm:pub:200:2012*"
     sourceRepo: https://github.com/metanorma/oiml-viml
-    localPath: vim-glossarist
+    localPath: datasets/vim
     ref: "JCGM 200:2012"
     title: "VIM — International Vocabulary of Metrology"
     description: "Terminology definitions from the International Vocabulary of Metrology (JCGM 200:2012)"
@@ -104,21 +104,21 @@ pages:
     route: viml-about
     title: About VIML
     icon: info
-    source: viml-glossarist/about.md
+    source: datasets/viml/about.md
     translations:
       fra:
         title: À propos du VIML
-        source: viml-glossarist/about-fra.md
+        source: datasets/viml/about-fra.md
 
   - type: about
     route: vim-about
     title: About VIM
     icon: info
-    source: vim-glossarist/about.md
+    source: datasets/vim/about.md
     translations:
       fra:
         title: À propos du VIM
-        source: vim-glossarist/about-fra.md
+        source: datasets/vim/about-fra.md
 
 defaults:
   language: eng

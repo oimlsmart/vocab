@@ -8,7 +8,7 @@ require "nokogiri"
 require "yaml"
 
 CACHE_DIR = File.join(File.dirname(__FILE__), "..", ".vim-cache")
-OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "vim-glossarist")
+OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/vim")
 
 TERM_IDS = [
   *(1..30).map { |n| "1.#{n}" },

@@ -30,8 +30,8 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 ## Key files
 
 - `site-config.yml` — All site configuration (branding, features, dataset source, base path, languages)
-- `viml-glossarist/` — Glossarist v3 dataset for VIML (135 concept YAML files + `register.yaml`)
-- `vim-glossarist/` — Glossarist v3 dataset for VIM (144 concept YAML files + `register.yaml`)
+- `datasets/viml/` — Glossarist v3 dataset for VIML (135 concept YAML files + `register.yaml`)
+- `datasets/vim/` — Glossarist v3 dataset for VIM (144 concept YAML files + `register.yaml`)
 - `about.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
 - `scripts/scrape_viml.rb` — Scraper for VIML dataset (from viml.oiml.info)
@@ -44,7 +44,7 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 ## Configuration conventions
 
 - `basePath: /oiml-viml/` — GitHub Pages subpath deployment. No `BASE_PATH` env var.
-- `localPath: viml-glossarist` — Dataset source directory. No `DATASET_SOURCE_*` env var.
+- `localPath: datasets/viml` — Dataset source directory. No `DATASET_SOURCE_*` env var.
 - `ref: "OIML V 1:2022"` — Publication reference shown in sidebar provenance.
 - All config is in `site-config.yml`. The CI uses only `GITHUB_TOKEN`.
 
@@ -59,11 +59,11 @@ Push to `main` triggers `.github/workflows/build_deploy.yml`:
 
 ### VIML (OIML V 1:2022)
 
-The `viml-glossarist/` directory contains 135 bilingual (English/French) concepts from OIML V 1:2022. Concepts are YAML files in Glossarist v3 format. To update: `ruby scripts/scrape_viml.rb`, commit changes to `viml-glossarist/`, push to `main`.
+The `datasets/viml/` directory contains 135 bilingual (English/French) concepts from OIML V 1:2022. Concepts are YAML files in Glossarist v3 format. To update: `ruby scripts/scrape_viml.rb`, commit changes to `datasets/viml/`, push to `main`.
 
 ### VIM (JCGM 200:2012 / OIML V 2-200:2012)
 
-The `vim-glossarist/` directory contains 144 bilingual (English/French) concepts from JCGM 200:2012 (3rd edition). The dataset includes:
+The `datasets/vim/` directory contains 144 bilingual (English/French) concepts from JCGM 200:2012 (3rd edition). The dataset includes:
 
 - **5 sections**: Quantities and units (1.1–1.30), Measurement (2.1–2.53), Devices for measurement (3.1–3.12), Properties of measuring devices (4.1–4.31), Measurement standards (5.1–5.18)
 - **65 annotations** — informative commentary by JCGM/WG 2, stored as notes with `[Annotation]` prefix
@@ -71,6 +71,6 @@ The `vim-glossarist/` directory contains 144 bilingual (English/French) concepts
 - **Cross-references** as `{{term text,concept_id}}` patterns
 - **Tables** serialized as Asciidoc tables (`|===` delimited) within note content
 
-To update: `ruby scripts/scrape_vim.rb`, commit changes to `vim-glossarist/`, push to `main`.
+To update: `ruby scripts/scrape_vim.rb`, commit changes to `datasets/vim/`, push to `main`.
 
 Scraper commands: `fetch` (download HTML), `build` (parse → YAML), `about` (generate about pages), or run without args for all phases.

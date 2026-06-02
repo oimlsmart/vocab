@@ -22,7 +22,7 @@ require "fileutils"
 
 BASE_URL = "http://viml.oiml.info"
 CACHE_DIR = File.join(File.dirname(__FILE__), "..", ".viml-cache")
-OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "viml-glossarist")
+OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/viml")
 
 DATASET_SOURCE = "urn:oiml:pub:v:1:2022"
 
