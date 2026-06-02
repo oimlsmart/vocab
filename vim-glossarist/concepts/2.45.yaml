@@ -2,8 +2,8 @@
 data:
   identifier: '2.45'
   localized_concepts:
-    eng: 8bf28ea3-6569-4324-ab27-d4819d2ec51d
-    fra: 73201bb5-1b59-4c9b-a6c6-f594c1b44510
+    eng: c74fc190-e59e-4e66-9d53-71ac32683551
+    fra: 239a44ef-370d-4cfa-9fba-6ebad277852b
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.45'
     type: authoritative
 status: valid
-id: 92e4e1de-7e2f-4871-b0f0-e32e47e01ac7
+id: 55ac955b-c348-4ef4-9974-d18d493e3538
 schema_version: '3'
 ---
 data:
@@ -48,7 +48,7 @@ data:
     designation: validation
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8bf28ea3-6569-4324-ab27-d4819d2ec51d
+id: c74fc190-e59e-4e66-9d53-71ac32683551
 ---
 data:
   dates:
@@ -57,13 +57,13 @@ data:
   definition:
   - content: "{{vérification,2.44}}, où les exigences spécifiées sont adéquates pour
       un usage déterminé"
-  examples:
+  examples: []
+  id: 2.45-fra
+  language_code: fra
+  notes:
   - content: EXEMPLE Une {{procédure de mesure,2.6}}, habituellement utilisée pour
       le {{mesurage,2.1}} de la concentration en masse d'azote dans l'eau, peut aussi
       être validée pour le mesurage dans le sérum humain.
-  id: 2.45-fra
-  language_code: fra
-  notes: []
   sources:
   - origin:
       ref:
@@ -78,4 +78,4 @@ data:
     designation: validation
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 73201bb5-1b59-4c9b-a6c6-f594c1b44510
+id: 239a44ef-370d-4cfa-9fba-6ebad277852b

@@ -2,8 +2,8 @@
 data:
   identifier: '5.1'
   localized_concepts:
-    eng: 335ce59e-55ec-4aee-9e9e-eeb5cd512365
-    fra: bcf9ecfc-7d13-432f-b52b-be5d4ef61011
+    eng: b19e0aeb-c51f-4352-895f-b91c8e7f5407
+    fra: a64e2cce-e7b1-477e-b086-9a35faa38238
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.1'
     type: authoritative
 status: valid
-id: 99616158-af50-49f7-b8a6-c868685fa261
+id: d6f7f7b5-4c24-4e27-9692-d8e95b4989dc
 schema_version: '3'
 ---
 data:
@@ -98,7 +98,7 @@ data:
     designation: etalon
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 335ce59e-55ec-4aee-9e9e-eeb5cd512365
+id: b19e0aeb-c51f-4352-895f-b91c8e7f5407
 ---
 data:
   dates:
@@ -108,7 +108,10 @@ data:
   - content: réalisation de la définition d'une {{grandeur,1.1}} donnée, avec une
       {{valeur,1.19}} déterminée et une {{incertitude de mesure,2.26}} associée, utilisée
       comme référence
-  examples:
+  examples: []
+  id: 5.1-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Étalon de masse de 1 kg avec une {{incertitude-type,2.30}} associée de 3 µg.
       EXEMPLE 2 Résistance étalon de 100 Ω avec une incertitude-type associée de 1 µΩ.
@@ -117,9 +120,6 @@ data:
        
       EXEMPLE 5 Série de solutions de référence de cortisol dans du sérum humain, dont chaque solution a une valeur certifiée avec une incertitude de mesure.
       EXEMPLE 6 {{Matériau de référence,5.13}} fournissant des valeurs avec les incertitudes de mesure associées pour la concentration en masse de dix protéines différentes.
-  id: 5.1-fra
-  language_code: fra
-  notes:
   - content: La «réalisation de la définition d'une grandeur donnée» peut être fournie
       par un {{système de mesure,3.2}}, une {{mesure matérialisée,3.6}} ou un matériau
       de référence.
@@ -169,4 +169,4 @@ data:
     designation: étalon
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: bcf9ecfc-7d13-432f-b52b-be5d4ef61011
+id: a64e2cce-e7b1-477e-b086-9a35faa38238

@@ -2,8 +2,8 @@
 data:
   identifier: '5.4'
   localized_concepts:
-    eng: 7e6ed05e-309f-4344-b5da-1d4753e507bc
-    fra: b70fe1d5-a84e-4593-ba0a-07215b56868a
+    eng: 7a585b31-2d73-4d20-a5c5-de1bff18de98
+    fra: b3f3663c-483a-4677-a373-1a136d1f5cbe
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.4'
     type: authoritative
 status: valid
-id: 4e889c38-5ea8-4e0d-a395-7992ff905222
+id: 31302a63-dae2-4821-8652-53d2d5975c24
 schema_version: '3'
 ---
 data:
@@ -59,7 +59,7 @@ data:
     designation: primary standard
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7e6ed05e-309f-4344-b5da-1d4753e507bc
+id: 7a585b31-2d73-4d20-a5c5-de1bff18de98
 ---
 data:
   dates:
@@ -68,16 +68,16 @@ data:
   definition:
   - content: "{{étalon,5.1}} établi à l'aide d'une {{procédure de mesure primaire,2.8}}
       ou créé comme objet choisi par convention"
-  examples:
+  examples: []
+  id: 5.4-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Étalon primaire de concentration en quantité de matière préparé en dissolvant une quantité de matière connue d'une substance chimique dans un volume connu de solution.
       EXEMPLE 2 Étalon primaire de pression fondé sur des {{mesurages,2.1}} séparés de force et d'aire.
       EXEMPLE 3 Étalon primaire pour les mesurages du rapport molaire d'isotopes, préparé en mélangeant des quantités de matière connues d'isotopes spécifiés.
       EXEMPLE 4 Étalon primaire de température thermodynamique constitué d'une cellule à point triple de l'eau.
       EXEMPLE 5 Le prototype international du kilogramme en tant qu'objet choisi par convention.
-  id: 5.4-fra
-  language_code: fra
-  notes: []
   sources:
   - origin:
       ref:
@@ -92,4 +92,4 @@ data:
     designation: étalon primaire
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: b70fe1d5-a84e-4593-ba0a-07215b56868a
+id: b3f3663c-483a-4677-a373-1a136d1f5cbe

@@ -2,8 +2,8 @@
 data:
   identifier: '2.53'
   localized_concepts:
-    eng: df97d7c4-aaf9-4366-a692-399e17908285
-    fra: 1f6ff2d7-3716-4898-a131-7bfe91b994f9
+    eng: ba7cbad8-d1eb-43fd-9f8b-fc4a1541bf46
+    fra: 4b60b9b7-e00c-45b7-a429-8d57470c9af7
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.53'
     type: authoritative
 status: valid
-id: 1d9d801a-5f64-46cd-9667-83aadd59f875
+id: 19750566-bb84-40b0-bb9e-76f7c5422f13
 schema_version: '3'
 ---
 data:
@@ -48,7 +48,7 @@ data:
     designation: correction
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: df97d7c4-aaf9-4366-a692-399e17908285
+id: ba7cbad8-d1eb-43fd-9f8b-fc4a1541bf46
 ---
 data:
   dates:
@@ -78,4 +78,4 @@ data:
     designation: correction
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1f6ff2d7-3716-4898-a131-7bfe91b994f9
+id: 4b60b9b7-e00c-45b7-a429-8d57470c9af7

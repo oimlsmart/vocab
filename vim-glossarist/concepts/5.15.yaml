@@ -2,8 +2,8 @@
 data:
   identifier: '5.15'
   localized_concepts:
-    eng: 3084fbd4-ad12-4dbc-bc35-b1051cc660de
-    fra: 2d462a02-7af4-4374-88a7-9b77c98ccd25
+    eng: a43782ef-fc7c-4baf-a999-50c9082cfb3c
+    fra: add3dd3b-b9b6-4f37-9027-69bd24af5c16
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.15'
     type: authoritative
 status: valid
-id: 956d3b78-3ea6-4154-9d4e-b8d98910013d
+id: 1db5cebf-9f38-40df-be47-d406aab7cb11
 schema_version: '3'
 ---
 data:
@@ -54,7 +54,7 @@ data:
     designation: commutability of a reference material
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3084fbd4-ad12-4dbc-bc35-b1051cc660de
+id: a43782ef-fc7c-4baf-a999-50c9082cfb3c
 ---
 data:
   dates:
@@ -91,4 +91,4 @@ data:
     designation: commutabilité d'un matériau de référence
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2d462a02-7af4-4374-88a7-9b77c98ccd25
+id: add3dd3b-b9b6-4f37-9027-69bd24af5c16

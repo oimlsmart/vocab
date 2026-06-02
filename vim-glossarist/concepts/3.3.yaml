@@ -2,8 +2,8 @@
 data:
   identifier: '3.3'
   localized_concepts:
-    eng: dbefdb94-c6ec-432b-a970-b590978971ce
-    fra: e42bd162-7e2e-4c8a-9eb0-fd8f80178faa
+    eng: 71102914-e998-47b3-9796-8a24c1184569
+    fra: 3a42a963-a62a-470d-bced-2b91e3cffab4
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '3.3'
     type: authoritative
 status: valid
-id: 1e489bb9-74c9-4a29-abb3-02fc62518c07
+id: 2ac238fe-d325-4c00-9d3f-563e3d760f9a
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: indicating measuring instrument
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: dbefdb94-c6ec-432b-a970-b590978971ce
+id: 71102914-e998-47b3-9796-8a24c1184569
 ---
 data:
   dates:
@@ -58,11 +58,11 @@ data:
   definition:
   - content: "{{instrument de mesure,3.1}} qui fournit un signal de sortie porteur
       d'informations sur la {{valeur,1.19}} de la {{grandeur,1.1}} mesurée"
-  examples:
-  - content: EXEMPLES Voltmètre, micromètre à vis, thermomètre, balance électronique.
+  examples: []
   id: 3.3-fra
   language_code: fra
   notes:
+  - content: EXEMPLES Voltmètre, micromètre à vis, thermomètre, balance électronique.
   - content: Un appareil de mesure indicateur peut fournir un enregistrement de son
       {{indication,4.1}}.
   - content: Un signal de sortie peut être présenté sous forme visuelle ou acoustique.
@@ -84,4 +84,4 @@ data:
     designation: appareil indicateur, m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e42bd162-7e2e-4c8a-9eb0-fd8f80178faa
+id: 3a42a963-a62a-470d-bced-2b91e3cffab4

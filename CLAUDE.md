@@ -15,6 +15,9 @@ This is NOT a software project. It is a deployment configuration: site config, d
 npm install --ignore-scripts @glossarist/concept-browser
 npm install --prefix node_modules/@glossarist/concept-browser sharp 2>/dev/null || true
 
+# Patch concept-browser (adds clickable concept mentions)
+bash scripts/patch-concept-browser.sh
+
 # Build the static site
 npx concept-browser build
 
@@ -36,6 +39,8 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 - `scripts/scrape_vim.rb` — Scraper for VIM dataset (from jcgm.bipm.org/vim)
 - `scripts/audit_viml.rb` — VIML dataset validation script
 - `scripts/audit_vim.rb` — VIM dataset validation script
+- `scripts/patch-concept-browser.sh` — Patches concept-browser for clickable concept mentions
+- `patches/concept-browser/` — Patched source files for concept-browser
 
 ## Configuration conventions
 

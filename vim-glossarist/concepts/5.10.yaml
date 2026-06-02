@@ -2,8 +2,8 @@
 data:
   identifier: '5.10'
   localized_concepts:
-    eng: d4ad16af-3e77-46aa-9775-60963aaaccdd
-    fra: d85288f7-9018-4adf-b25f-3f98c8e461c8
+    eng: 873f41b4-4a99-4bb2-b804-982bc892b808
+    fra: 9b6c20a2-523d-4d56-8df4-a191a2ef6689
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.10'
     type: authoritative
 status: valid
-id: c4d09526-0190-4478-8165-1606d2290fa2
+id: df598afa-66a7-4995-8e6a-9e20281802be
 schema_version: '3'
 ---
 data:
@@ -69,7 +69,7 @@ data:
     designation: intrinsic standard
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d4ad16af-3e77-46aa-9775-60963aaaccdd
+id: 873f41b4-4a99-4bb2-b804-982bc892b808
 ---
 data:
   dates:
@@ -78,15 +78,15 @@ data:
   definition:
   - content: "{{étalon,5.1}} fondé sur une propriété intrinsèque et reproductible
       d'un phénomène ou d'une substance"
-  examples:
+  examples: []
+  id: 5.10-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Étalon intrinsèque de température thermodynamique constitué d'une cellule à point triple de l'eau.
       EXEMPLE 2 Étalon intrinsèque de différence de potentiel électrique fondé sur l'effet Josephson.
       EXEMPLE 3 Étalon intrinsèque de résistance électrique fondé sur l'effet Hall quantique.
       EXEMPLE 4 Étalon intrinsèque de conductivité électrique constitué d'un spécimen de cuivre.
-  id: 5.10-fra
-  language_code: fra
-  notes:
   - content: La {{valeur,1.19}} d'un étalon intrinsèque est assignée par consensus
       et n'a pas besoin d'être établie en le reliant à un autre étalon de même type.
       Son {{incertitude de mesure,2.26}} est déterminée en prenant en compte deux
@@ -115,4 +115,4 @@ data:
     designation: étalon intrinsèque
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d85288f7-9018-4adf-b25f-3f98c8e461c8
+id: 9b6c20a2-523d-4d56-8df4-a191a2ef6689

@@ -2,8 +2,8 @@
 data:
   identifier: '1.11'
   localized_concepts:
-    eng: 921a5196-7967-4224-806e-246fe7065d3d
-    fra: d655268e-5bdf-48ef-a85d-c17404accfa2
+    eng: fa856f72-5d26-4648-a907-5045b3ee0992
+    fra: 3522b790-83bb-4aad-913d-5f8ea85d70b0
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.11'
     type: authoritative
 status: valid
-id: 49b01b9c-44ee-4aa9-a81e-3653d386d781
+id: 30b60e55-0f45-4ea3-829e-b2cd318e2e53
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: derived unit
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 921a5196-7967-4224-806e-246fe7065d3d
+id: fa856f72-5d26-4648-a907-5045b3ee0992
 ---
 data:
   dates:
@@ -57,15 +57,15 @@ data:
     type: accepted
   definition:
   - content: "{{unité de mesure,1.9}} d'une {{grandeur dérivée,1.5}}"
-  examples:
+  examples: []
+  id: 1.11-fra
+  language_code: fra
+  notes:
   - content: EXEMPLES Le mètre par seconde, symbole m/s, et le centimètre par seconde,
       symbole cm/s, sont des unités dérivées de vitesse dans le {{SI,1.16}}. Le kilomètre
       par heure, symbole km/h, est une unité de vitesse en dehors du SI mais dont
       l'usage est accepté avec le SI. Le noeud, égal à un mille marin par heure, est
       une unité de vitesse en dehors du SI.
-  id: 1.11-fra
-  language_code: fra
-  notes: []
   sources:
   - origin:
       ref:
@@ -80,4 +80,4 @@ data:
     designation: unité dérivée
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d655268e-5bdf-48ef-a85d-c17404accfa2
+id: 3522b790-83bb-4aad-913d-5f8ea85d70b0

@@ -2,8 +2,8 @@
 data:
   identifier: '1.19'
   localized_concepts:
-    eng: 865f0e0b-45f1-461e-8d77-43e4c78a5331
-    fra: '09d862a1-4ca8-4a0e-8568-4b68c609101d'
+    eng: c1aef7bc-86aa-4876-9b33-a30e0399c57c
+    fra: 3f54daf9-15a5-4ffb-bfc5-da9717c3be52
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.19'
     type: authoritative
 status: valid
-id: 59992273-82b8-4a5a-82c2-c36b57a2e12c
+id: 945c913b-ec6d-4590-81a2-b1b0426a5d7c
 schema_version: '3'
 ---
 data:
@@ -57,6 +57,8 @@ data:
   - content: |-
       Arbitrary amount-of-substance concentration of lutropin in a given sample of human blood plasma (WHO International Standard 80/552 used as a calibrator):
       5.0 IU/l, where “IU” stands for “WHO International Unit"
+  - content: Force acting on a given particle, e.g. in Cartesian components (Fx; Fy;
+      Fz) = (−31.5; 43.2; 17.0) N.
   id: 1.19-eng
   language_code: eng
   notes:
@@ -68,10 +70,8 @@ data:
   - content: The number can be complex (see Example 5).
   - content: A quantity value can be presented in more than one way (see Examples
       1, 2 and 8).
-  - content: |-
-      In the case of vector or tensor quantities, each component has a quantity value.
-
-      EXAMPLE Force acting on a given particle, e.g. in Cartesian components (Fx; Fy; Fz) = (−31.5; 43.2; 17.0) N.
+  - content: In the case of vector or tensor quantities, each component has a quantity
+      value.
   - content: '[Annotation] The term "quantity value" was chosen as the first (preferred)
       term in order to take advantage of the adjectival use of a noun in the English
       language. However, it is recognized that the more commonly used expression is
@@ -98,7 +98,7 @@ data:
     designation: value
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 865f0e0b-45f1-461e-8d77-43e4c78a5331
+id: c1aef7bc-86aa-4876-9b33-a30e0399c57c
 ---
 data:
   dates:
@@ -107,7 +107,10 @@ data:
   definition:
   - content: ensemble d'un nombre et d'une référence constituant l'expression quantitative
       d'une {{grandeur,1.1}}
-  examples:
+  examples: []
+  id: 1.19-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Longueur d'une tige donnée:
       5,34 m ou 534 cm
@@ -129,9 +132,6 @@ data:
       1,76 µmol/kg
       EXEMPLE 10 Concentration arbitraire en quantité de matière de lutropine dans un spécimen donné de plasma sanguin humain en utilisant l'étalon international 80/552 de l'OMS:
       5,0 UI/l, où «UI» signifie «unité internationale de l'OMS»
-  id: 1.19-fra
-  language_code: fra
-  notes:
   - content: |-
       Selon le type de référence, la valeur d'une grandeur est
       - soit le produit d'un nombre et d'une {{unité de mesure,1.9}} (voir les Exemples 1, 2, 3, 4, 5, 8 et 9); l'unité un est généralement omise pour les {{grandeurs sans dimension,1.8}} (voir Exemples 6 et 8);
@@ -160,4 +160,4 @@ data:
     designation: valeur, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: '09d862a1-4ca8-4a0e-8568-4b68c609101d'
+id: 3f54daf9-15a5-4ffb-bfc5-da9717c3be52

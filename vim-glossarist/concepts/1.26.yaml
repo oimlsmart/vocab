@@ -2,8 +2,8 @@
 data:
   identifier: '1.26'
   localized_concepts:
-    eng: b90d1af2-7d4e-40a3-b2ea-7f7dab6b5300
-    fra: f67d9c8d-fa34-495b-93ca-f0badc0cec00
+    eng: a4de6381-addd-492d-83ca-db4f38a708f3
+    fra: e3583b6e-dc46-4e96-86b7-7059e4209a76
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.26'
     type: authoritative
 status: valid
-id: 2209d6a4-16c2-4d2f-8108-e3031b0f43f3
+id: 16f7b101-28ed-4d07-bfd4-93232bbcbf25
 schema_version: '3'
 ---
 data:
@@ -56,7 +56,7 @@ data:
     designation: ordinal quantity
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: b90d1af2-7d4e-40a3-b2ea-7f7dab6b5300
+id: a4de6381-addd-492d-83ca-db4f38a708f3
 ---
 data:
   dates:
@@ -67,15 +67,15 @@ data:
       par convention, qui peut être classée avec d'autres grandeurs de même {{nature,1.2}}
       selon l'ordre croissant ou décroissant de leurs expressions quantitatives, mais
       pour laquelle aucune relation algébrique entre ces grandeurs n'existe"
-  examples:
+  examples: []
+  id: 1.26-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Dureté C de Rockwell.
       EXEMPLE 2 Indice d'octane pour les carburants.
       EXEMPLE 3 Magnitude d'un séisme sur l'échelle de Richter.
       EXEMPLE 4 Niveau subjectif de douleur abdominale sur une échelle de zéro à cinq.
-  id: 1.26-fra
-  language_code: fra
-  notes:
   - content: Les grandeurs ordinales ne peuvent prendre part qu'à des relations empiriques
       et n'ont ni {{unités de mesure,1.9}}, ni {{dimensions,1.7}}. Les différences
       et les rapports de grandeurs ordinales n'ont pas de signification.
@@ -98,4 +98,4 @@ data:
     designation: grandeur repérable, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: f67d9c8d-fa34-495b-93ca-f0badc0cec00
+id: e3583b6e-dc46-4e96-86b7-7059e4209a76

@@ -2,8 +2,8 @@
 data:
   identifier: '1.18'
   localized_concepts:
-    eng: a571dda7-c141-4661-9e78-ca4382be90b4
-    fra: 526ee58d-8186-4f98-82d8-8697afe4321a
+    eng: 2ea8994b-4f16-4436-8624-1f484f2f283a
+    fra: 03be52dc-1e62-4d7c-bf4f-fccfb988a69b
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.18'
     type: authoritative
 status: valid
-id: 1d136bf5-8708-44de-b0da-564b644b57b7
+id: e9a497c1-bef4-4703-88b9-132dd6f178f2
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: submultiple of a unit
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: a571dda7-c141-4661-9e78-ca4382be90b4
+id: 2ea8994b-4f16-4436-8624-1f484f2f283a
 ---
 data:
   dates:
@@ -58,13 +58,13 @@ data:
   definition:
   - content: "{{unité de mesure,1.9}} obtenue en divisant une unité de mesure donnée
       par un entier supérieur à un"
-  examples:
-  - content: |-
-      EXEMPLE 1 Le millimètre est un sous-multiple décimal du mètre.
-      EXEMPLE 2 Pour l'angle plan, la seconde est un sous-multiple non décimal de la minute.
+  examples: []
   id: 1.18-fra
   language_code: fra
   notes:
+  - content: |-
+      EXEMPLE 1 Le millimètre est un sous-multiple décimal du mètre.
+      EXEMPLE 2 Pour l'angle plan, la seconde est un sous-multiple non décimal de la minute.
   - content: Les préfixes SI pour les sous-multiples décimaux des {{unités de base,1.10}}
       et des {{unités dérivées,1.11}} du SI sont donnés à la Note 5 de 1.16.
   sources:
@@ -81,4 +81,4 @@ data:
     designation: sous-multiple d'une unité
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 526ee58d-8186-4f98-82d8-8697afe4321a
+id: 03be52dc-1e62-4d7c-bf4f-fccfb988a69b

@@ -2,8 +2,8 @@
 data:
   identifier: '5.2'
   localized_concepts:
-    eng: 7ae0f8ec-bbf2-440b-b5fe-7e4acb4ae744
-    fra: 7dbbbec4-df38-43f6-b31e-dd0d8ab69533
+    eng: 2c72c57c-cfae-479e-9381-ec35c258f9b5
+    fra: e20f0654-b76c-4396-bd1f-246966c0f99e
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.2'
     type: authoritative
 status: valid
-id: 8bd41fce-c750-417e-9e29-f4ef3dd5285b
+id: 473fcf91-fc36-4297-9610-73007289771b
 schema_version: '3'
 ---
 data:
@@ -51,7 +51,7 @@ data:
     designation: international measurement standard
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7ae0f8ec-bbf2-440b-b5fe-7e4acb4ae744
+id: 2c72c57c-cfae-479e-9381-ec35c258f9b5
 ---
 data:
   dates:
@@ -60,15 +60,15 @@ data:
   definition:
   - content: "{{étalon,5.1}} reconnu par les signataires d'un accord international
       pour une utilisation mondiale"
-  examples:
+  examples: []
+  id: 5.2-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Le prototype international du kilogramme.
       EXEMPLE 2 Gonadotrophine chorionique, 4e étalon international de l'Organisation mondiale de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule.
       EXEMPLE 3 Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence internationale pour l'énergie atomique (AIEA) pour des {{mesurages,2.1}} de rapports molaires différentiels
        relatif d'isotopes stables.
-  id: 5.2-fra
-  language_code: fra
-  notes: []
   sources:
   - origin:
       ref:
@@ -83,4 +83,4 @@ data:
     designation: étalon international
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7dbbbec4-df38-43f6-b31e-dd0d8ab69533
+id: e20f0654-b76c-4396-bd1f-246966c0f99e

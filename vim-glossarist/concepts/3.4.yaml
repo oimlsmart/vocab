@@ -2,8 +2,8 @@
 data:
   identifier: '3.4'
   localized_concepts:
-    eng: 0fba9255-8f61-4095-8154-9c6acd0853ca
-    fra: 1b07ce0e-86bc-48ce-ae10-9910d5b24727
+    eng: 0fa2154a-4890-4e31-a318-38239657a11c
+    fra: 31ecc1ec-bd7d-4a8b-ac3b-08bdd290bdde
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '3.4'
     type: authoritative
 status: valid
-id: 61ddef98-73fd-43d1-b1e8-7a1f2e93a74d
+id: a985f2b2-cd00-4127-bfc6-e6e2718655d9
 schema_version: '3'
 ---
 data:
@@ -45,7 +45,7 @@ data:
     designation: displaying measuring instrument
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0fba9255-8f61-4095-8154-9c6acd0853ca
+id: 0fa2154a-4890-4e31-a318-38239657a11c
 ---
 data:
   dates:
@@ -75,4 +75,4 @@ data:
     designation: appareil afficheur, m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1b07ce0e-86bc-48ce-ae10-9910d5b24727
+id: 31ecc1ec-bd7d-4a8b-ac3b-08bdd290bdde

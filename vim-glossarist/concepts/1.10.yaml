@@ -2,8 +2,8 @@
 data:
   identifier: '1.10'
   localized_concepts:
-    eng: e70ad045-11b6-4a62-9f2a-6a080eb0748e
-    fra: 57294054-bc88-4d8e-b981-52262793c0a1
+    eng: 1138dbde-10ec-4af3-ab94-8ec93795f2c0
+    fra: 5cd6d48b-568d-4709-94a4-d96cf23a77f8
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.10'
     type: authoritative
 status: valid
-id: 7f8be329-cb6b-4e10-a40b-aa1b74ecf11e
+id: ff79f4d3-5a93-46e1-9f62-e4cfe2262d72
 schema_version: '3'
 ---
 data:
@@ -27,18 +27,18 @@ data:
   definition:
   - content: "{{measurement unit,1.9}} that is adopted by convention for a {{base
       quantity,1.4}}"
-  examples: []
+  examples:
+  - content: In the {{SI,1.16}}, the metre is the base unit of length. In the CGS
+      systems, the centimetre is the base unit of length.
+  - content: Rainfall, when defined as areic volume (volume per area), has the metre
+      as a {{coherent derived unit,1.12}} in the SI.
   id: 1.10-eng
   language_code: eng
   notes:
-  - content: |-
-      In each {{coherent system of units,1.14}}, there is only one base unit for each base quantity.
-
-      EXAMPLE In the {{SI,1.16}}, the metre is the base unit of length. In the CGS systems, the centimetre is the base unit of length.
-  - content: |-
-      A base unit may also serve for a {{derived quantity,1.5}} of the same {{quantity dimension,1.7}}.
-
-      EXAMPLE Rainfall, when defined as areic volume (volume per area), has the metre as a {{coherent derived unit,1.12}} in the SI.
+  - content: In each {{coherent system of units,1.14}}, there is only one base unit
+      for each base quantity.
+  - content: A base unit may also serve for a {{derived quantity,1.5}} of the same
+      {{quantity dimension,1.7}}.
   - content: For number of entities, the number one, symbol 1, can be regarded as
       a base unit in any {{system of units,1.13}}.
   sources:
@@ -55,7 +55,7 @@ data:
     designation: base unit
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e70ad045-11b6-4a62-9f2a-6a080eb0748e
+id: 1138dbde-10ec-4af3-ab94-8ec93795f2c0
 ---
 data:
   dates:
@@ -90,4 +90,4 @@ data:
     designation: unité de base
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 57294054-bc88-4d8e-b981-52262793c0a1
+id: 5cd6d48b-568d-4709-94a4-d96cf23a77f8

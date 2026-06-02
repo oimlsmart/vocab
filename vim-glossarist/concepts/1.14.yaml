@@ -2,8 +2,8 @@
 data:
   identifier: '1.14'
   localized_concepts:
-    eng: 857490ba-9871-4ffe-9946-4a317ad2493c
-    fra: 462aff1b-0d9d-4215-b69f-0f301828bab0
+    eng: cb6fc892-a22b-44e3-af43-d44d51f7f067
+    fra: 845827d6-a6d9-477d-a3ce-219e259aa9c2
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.14'
     type: authoritative
 status: valid
-id: 72f0004b-b3b5-4055-a73d-4db0e3a85586
+id: 74e11704-a4d5-42c5-9e64-2d95cd48c29f
 schema_version: '3'
 ---
 data:
@@ -52,7 +52,7 @@ data:
     designation: coherent system of units
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 857490ba-9871-4ffe-9946-4a317ad2493c
+id: cb6fc892-a22b-44e3-af43-d44d51f7f067
 ---
 data:
   dates:
@@ -62,11 +62,11 @@ data:
   - content: "{{système d'unités,1.13}}, fondé sur un {{système de grandeurs,1.3}}
       donné, dans lequel l'{{unité de mesure,1.9}} de chaque {{grandeur dérivée,1.5}}
       est une {{unité dérivée cohérente,1.12}}"
-  examples:
-  - content: EXEMPLE L'ensemble des unités SI cohérentes et les relations entre elles.
+  examples: []
   id: 1.14-fra
   language_code: fra
   notes:
+  - content: EXEMPLE L'ensemble des unités SI cohérentes et les relations entre elles.
   - content: Un système d'unités ne peut être cohérent que par rapport à un système
       de grandeurs et aux {{unités de base,1.10}} adoptées.
   - content: Pour un système cohérent d'unités, les {{équations aux valeurs numériques,1.25}}
@@ -86,4 +86,4 @@ data:
     designation: système cohérent d'unités
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 462aff1b-0d9d-4215-b69f-0f301828bab0
+id: 845827d6-a6d9-477d-a3ce-219e259aa9c2

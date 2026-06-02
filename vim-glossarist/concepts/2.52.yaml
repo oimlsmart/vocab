@@ -2,8 +2,8 @@
 data:
   identifier: '2.52'
   localized_concepts:
-    eng: 04d037e6-0e51-4919-bb00-1f27b48a0254
-    fra: cdc3a694-0cc2-4e10-8227-3c1c07d601dc
+    eng: 28fd9447-007a-4b98-a44c-2dfc25d87353
+    fra: e0970197-65ef-414c-a2e2-afb6ca8d2003
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,8 +17,13 @@ data:
         reference_from: '2.52'
     type: authoritative
 status: valid
-id: 0c7865cf-1d12-4013-a78c-4a1e70266b7b
+id: 7e448ef4-12a0-4710-be3a-85b28a82927c
 schema_version: '3'
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.07'
 ---
 data:
   dates:
@@ -62,7 +67,7 @@ data:
     designation: influence quantity
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 04d037e6-0e51-4919-bb00-1f27b48a0254
+id: 28fd9447-007a-4b98-a44c-2dfc25d87353
 ---
 data:
   dates:
@@ -72,15 +77,15 @@ data:
   - content: "{{grandeur,1.1}} qui, lors d'un {{mesurage,2.1}} direct, n'a pas d'effet
       sur la grandeur effectivement mesurée, mais a un effet sur la relation entre
       l'{{indication,4.1}} et le {{résultat de mesure,2.9}}"
-  examples:
+  examples: []
+  id: 2.52-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Fréquence lors du mesurage direct de l'amplitude constante d'un courant alternatif au moyen d'un ampèremètre.
       EXEMPLE 2 Concentration en quantité de matière de bilirubine lors du mesurage direct de la concentration en quantité de matière d'hémoglobine dans le plasma sanguin humain.
       EXEMPLE 3 Température d'un micromètre lors du mesurage de la longueur d'une tige, mais pas la température de la tige elle-même qui peut entrer dans la définition du {{mesurande,2.3}}.
       EXEMPLE 4 Pression ambiante dans la source d'ions d'un spectromètre de masse lors du mesurage d'une fraction molaire.
-  id: 2.52-fra
-  language_code: fra
-  notes:
   - content: Un mesurage indirect implique une combinaison de mesurages directs, sur
       chacun desquels des grandeurs d'influence peuvent avoir un effet.
   - content: Dans le GUM, le concept «grandeur d'influence » est défini comme dans
@@ -102,4 +107,4 @@ data:
     designation: grandeur d'influence
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: cdc3a694-0cc2-4e10-8227-3c1c07d601dc
+id: e0970197-65ef-414c-a2e2-afb6ca8d2003

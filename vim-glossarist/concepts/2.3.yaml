@@ -2,8 +2,8 @@
 data:
   identifier: '2.3'
   localized_concepts:
-    eng: 2856f320-d1e7-46a1-a698-db297a80cc70
-    fra: 0127a2e6-6d92-48b4-87af-7ab1ef9149d8
+    eng: 75d2373a-c947-4330-b7ea-89228e7b264f
+    fra: eac82b84-e4fe-4080-bc29-c681eb2b83c9
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.3'
     type: authoritative
 status: valid
-id: e57d2c7b-ad10-43b9-b378-c0bed8173d1f
+id: 36fcc947-082f-4ba0-bdae-4204220d223c
 schema_version: '3'
 ---
 data:
@@ -26,7 +26,14 @@ data:
     type: accepted
   definition:
   - content: "{{quantity,1.1}} intended to be measured"
-  examples: []
+  examples:
+  - content: The potential difference between the terminals of a battery may decrease
+      when using a voltmeter with a significant internal conductance to perform the
+      measurement. The open-circuit potential difference can be calculated from the
+      internal resistances of the battery and the voltmeter.
+  - content: The length of a steel rod in equilibrium with the ambient Celsius temperature
+      of 23 °C will be different from the length at the specified temperature of 20
+      °C, which is the measurand. In this case, a correction is necessary.
   id: 2.3-eng
   language_code: eng
   notes:
@@ -36,12 +43,10 @@ data:
       involved.
   - content: In the second edition of the VIM and in IEC 60050-300:2001, the measurand
       is defined as the 'particular quantity subject to measurement'.
-  - content: |-
-      The {{measurement,2.1}}, including the {{measuring system,3.2}} and the conditions under which the measurement is carried out, might change the phenomenon, body, or substance such that the quantity being measured may differ from the measurand as defined. In this case, adequate {{correction,2.53}} is necessary.
-
-      EXAMPLE 1 The potential difference between the terminals of a battery may decrease when using a voltmeter with a significant internal conductance to perform the measurement. The open-circuit potential difference can be calculated from the internal resistances of the battery and the voltmeter.
-
-      EXAMPLE 2 The length of a steel rod in equilibrium with the ambient Celsius temperature of 23 °C will be different from the length at the specified temperature of 20 °C, which is the measurand. In this case, a correction is necessary.
+  - content: The {{measurement,2.1}}, including the {{measuring system,3.2}} and the
+      conditions under which the measurement is carried out, might change the phenomenon,
+      body, or substance such that the quantity being measured may differ from the
+      measurand as defined. In this case, adequate {{correction,2.53}} is necessary.
   - content: In chemistry, “analyte”, or the name of a substance or compound, are
       terms sometimes used for 'measurand'. This usage is erroneous because these
       terms do not refer to quantities.
@@ -65,7 +70,7 @@ data:
     designation: measurand
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2856f320-d1e7-46a1-a698-db297a80cc70
+id: 75d2373a-c947-4330-b7ea-89228e7b264f
 ---
 data:
   dates:
@@ -110,4 +115,4 @@ data:
     designation: mesurande
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0127a2e6-6d92-48b4-87af-7ab1ef9149d8
+id: eac82b84-e4fe-4080-bc29-c681eb2b83c9

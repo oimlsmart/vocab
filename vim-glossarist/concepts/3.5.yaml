@@ -2,8 +2,8 @@
 data:
   identifier: '3.5'
   localized_concepts:
-    eng: 3372594d-e17f-4f8a-b9dc-43ad0a028018
-    fra: 769e5743-ca14-4dcf-b5d8-f5aaa746de7e
+    eng: 9652dc74-0616-4d4c-a7c6-78b7c82523d4
+    fra: db4fa42b-e36a-447f-9dd4-34029165515f
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,8 +17,13 @@ data:
         reference_from: '3.5'
     type: authoritative
 status: valid
-id: 1d22f683-4136-48e4-880a-eb986808f7de
+id: '000787fa-0ac4-4a84-abb6-7134594f5678'
 schema_version: '3'
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.13'
 ---
 data:
   dates:
@@ -48,7 +53,7 @@ data:
     designation: scale of a displaying measuring instrument
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3372594d-e17f-4f8a-b9dc-43ad0a028018
+id: 9652dc74-0616-4d4c-a7c6-78b7c82523d4
 ---
 data:
   dates:
@@ -79,4 +84,4 @@ data:
     designation: échelle, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 769e5743-ca14-4dcf-b5d8-f5aaa746de7e
+id: db4fa42b-e36a-447f-9dd4-34029165515f

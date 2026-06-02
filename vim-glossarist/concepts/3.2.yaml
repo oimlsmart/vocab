@@ -2,8 +2,8 @@
 data:
   identifier: '3.2'
   localized_concepts:
-    eng: d3d8782d-75ff-422f-b64c-4c9facf0e3f4
-    fra: 5b7d5ac6-1eed-4f93-a027-19c8e8179920
+    eng: 947ea5a4-9ddb-4f52-baf1-f9b1acd80c68
+    fra: 1413a712-d82d-42c6-a7a9-11f711243184
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,8 +17,13 @@ data:
         reference_from: '3.2'
     type: authoritative
 status: valid
-id: e3a7f1fa-7a7b-4311-923e-bf79757a80d8
+id: ec0b54e9-e3ac-44e1-b731-67e8362ce50d
 schema_version: '3'
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.12'
 ---
 data:
   dates:
@@ -53,7 +58,7 @@ data:
     designation: measuring system
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d3d8782d-75ff-422f-b64c-4c9facf0e3f4
+id: 947ea5a4-9ddb-4f52-baf1-f9b1acd80c68
 ---
 data:
   dates:
@@ -84,4 +89,4 @@ data:
     designation: système de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5b7d5ac6-1eed-4f93-a027-19c8e8179920
+id: 1413a712-d82d-42c6-a7a9-11f711243184

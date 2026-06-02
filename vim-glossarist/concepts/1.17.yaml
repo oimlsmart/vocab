@@ -2,8 +2,8 @@
 data:
   identifier: '1.17'
   localized_concepts:
-    eng: 5d82c12b-c70f-49dd-8688-24d3172ee0b7
-    fra: 740965aa-65c8-4bd3-8721-6b74345a4886
+    eng: 0c7e178d-cc3f-45e5-8795-ff76b71436f7
+    fra: fe90e99a-4d32-46b1-b4c1-eca128c4ef2f
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.17'
     type: authoritative
 status: valid
-id: 0a9b8322-dc3b-4c73-b80e-28872d7845a1
+id: c76f7338-5f95-4257-8d3e-b08cfcc66bff
 schema_version: '3'
 ---
 data:
@@ -40,6 +40,7 @@ data:
       Prefixes for binary multiples are:
 
       | (210)8 | yobi yobi |
+      | --- | --- |
       | (210)7 | zebi zébi |
       | (210)6 | exbi exbi |
       | (210)5 | pebi pébi |
@@ -62,7 +63,7 @@ data:
     designation: multiple of a unit
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5d82c12b-c70f-49dd-8688-24d3172ee0b7
+id: 0c7e178d-cc3f-45e5-8795-ff76b71436f7
 ---
 data:
   dates:
@@ -71,13 +72,13 @@ data:
   definition:
   - content: "{{unité de mesure,1.9}} obtenue en multipliant une unité de mesure donnée
       par un entier supérieur à un"
-  examples:
-  - content: |-
-      EXEMPLE 1 Le kilomètre est un multiple décimal du mètre.
-      EXEMPLE 2 L'heure est un multiple non décimal de la seconde.
+  examples: []
   id: 1.17-fra
   language_code: fra
   notes:
+  - content: |-
+      EXEMPLE 1 Le kilomètre est un multiple décimal du mètre.
+      EXEMPLE 2 L'heure est un multiple non décimal de la seconde.
   - content: Les préfixes SI pour les multiples décimaux des {{unités de base,1.10}}
       et des {{unités dérivées,1.11}} du {{SI,1.16}} sont donnés à la Note 5 de 1.16.
   - content: |-
@@ -85,6 +86,7 @@ data:
       Les préfixes pour les multiples binaires sont:
 
       | (210)8 | yobi yobi |
+      | --- | --- |
       | (210)7 | zebi zébi |
       | (210)6 | exbi exbi |
       | (210)5 | pebi pébi |
@@ -107,4 +109,4 @@ data:
     designation: multiple d'une unité
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 740965aa-65c8-4bd3-8721-6b74345a4886
+id: fe90e99a-4d32-46b1-b4c1-eca128c4ef2f

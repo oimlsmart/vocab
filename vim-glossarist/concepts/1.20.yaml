@@ -2,8 +2,8 @@
 data:
   identifier: '1.20'
   localized_concepts:
-    eng: 5d850aee-b20a-4821-ad56-7bc4a10c69b8
-    fra: 85ad51b8-b0ef-48cf-96b5-b1eb8b5fe704
+    eng: 4ea67c53-5ab1-4047-9533-bc16877e10ad
+    fra: 83201424-3c2b-4aac-8970-df424185e40e
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.20'
     type: authoritative
 status: valid
-id: 0c4139fb-139a-4661-b13c-b03e7253a6e3
+id: c5872d5b-3cdd-4abb-8572-ebb30def1e05
 schema_version: '3'
 ---
 data:
@@ -27,18 +27,23 @@ data:
   definition:
   - content: number in the expression of a {{quantity value,1.19}}, other than any
       number serving as the reference
-  examples: []
+  examples:
+  - content: In an amount-of-substance fraction equal to 3 mmol/mol, the numerical
+      quantity value is 3 and the unit is mmol/mol. The unit mmol/mol is numerically
+      equal to 0.001, but this number 0.001 is not part of the numerical quantity
+      value, which remains 3.
+  - content: For a quantity value of 5.7 kg, the numerical quantity value is {m} =
+      (5.7 kg)/kg = 5.7. The same quantity value can be expressed as 5 700 g in which
+      case the numerical quantity value {m} = (5 700 g)/g = 5 700.
   id: 1.20-eng
   language_code: eng
   notes:
-  - content: |-
-      For {{quantities of dimension one,1.8}}, the reference is a {{measurement unit,1.9}} which is a number and this is not considered as a part of the numerical quantity value.
-
-      EXAMPLE In an amount-of-substance fraction equal to 3 mmol/mol, the numerical quantity value is 3 and the unit is mmol/mol. The unit mmol/mol is numerically equal to 0.001, but this number 0.001 is not part of the numerical quantity value, which remains 3.
-  - content: |-
-      For {{quantities,1.1}} that have a measurement unit (i.e. those other than {{ordinal quantities,1.26}}), the numerical value {Q} of a quantity Qis frequently denoted {Q} = Q/[Q], where [Q] denotes the measurement unit.
-
-      EXAMPLE For a quantity value of 5.7 kg, the numerical quantity value is {m} = (5.7 kg)/kg = 5.7. The same quantity value can be expressed as 5 700 g in which case the numerical quantity value {m} = (5 700 g)/g = 5 700.
+  - content: For {{quantities of dimension one,1.8}}, the reference is a {{measurement
+      unit,1.9}} which is a number and this is not considered as a part of the numerical
+      quantity value.
+  - content: For {{quantities,1.1}} that have a measurement unit (i.e. those other
+      than {{ordinal quantities,1.26}}), the numerical value {Q} of a quantity Qis
+      frequently denoted {Q} = Q/[Q], where [Q] denotes the measurement unit.
   sources:
   - origin:
       ref:
@@ -59,7 +64,7 @@ data:
     designation: numerical value
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5d850aee-b20a-4821-ad56-7bc4a10c69b8
+id: 4ea67c53-5ab1-4047-9533-bc16877e10ad
 ---
 data:
   dates:
@@ -95,4 +100,4 @@ data:
     designation: valeur numérique d'une grandeur, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 85ad51b8-b0ef-48cf-96b5-b1eb8b5fe704
+id: 83201424-3c2b-4aac-8970-df424185e40e

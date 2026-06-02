@@ -2,8 +2,8 @@
 data:
   identifier: '5.14'
   localized_concepts:
-    eng: 9a279bfe-980f-4c77-b95b-4d0b5c927a1a
-    fra: d27f1ad4-b1dc-4113-bbc4-b980799f6f80
+    eng: c6481f4e-292d-4a42-8063-27e7062e7998
+    fra: 32804b5d-88f9-4e73-9ffd-a95c0cfdf580
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.14'
     type: authoritative
 status: valid
-id: 4f84e339-9fbb-42c6-9378-a948a678c45a
+id: 720d695b-c741-40e2-a24d-7ed1bb8665c0
 schema_version: '3'
 ---
 data:
@@ -68,7 +68,7 @@ data:
     designation: CRM
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9a279bfe-980f-4c77-b95b-4d0b5c927a1a
+id: c6481f4e-292d-4a42-8063-27e7062e7998
 ---
 data:
   dates:
@@ -79,14 +79,14 @@ data:
       par un organisme faisant autorité et fournissant une ou plusieurs valeurs de
       propriétés spécifiées avec les incertitudes et les traçabilités associées, en
       utilisant des procédures valables"
-  examples:
+  examples: []
+  id: 5.14-fra
+  language_code: fra
+  notes:
   - content: EXEMPLE Sérum humain dont la {{valeur,1.19}} assignée à la concentration
       de cholestérol et l'{{incertitude de mesure,2.26}} associée sont indiquées dans
       un certificat et qui sert d'{{étalon,5.1}} dans un {{étalonnage,2.39}} ou de
       matériau de contrôle de la {{justesse de mesure,2.14}}.
-  id: 5.14-fra
-  language_code: fra
-  notes:
   - content: La documentation mentionnée est délivrée sous la forme d'un «certificat»
       (voir le Guide ISO 31:2000).
   - content: Des procédures pour la production et la certification de matériaux de
@@ -120,4 +120,4 @@ data:
     designation: MRC
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d27f1ad4-b1dc-4113-bbc4-b980799f6f80
+id: 32804b5d-88f9-4e73-9ffd-a95c0cfdf580

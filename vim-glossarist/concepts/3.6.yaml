@@ -2,8 +2,8 @@
 data:
   identifier: '3.6'
   localized_concepts:
-    eng: 683a010f-ad52-4fb8-91a2-6442b55e9062
-    fra: 3495b4a5-cd44-4b3b-8319-5d91c403cd8a
+    eng: 6c371372-ab3d-49ba-8435-93103bf0d9c0
+    fra: 6771bde5-984a-4944-9ebf-cc0d3de97721
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '3.6'
     type: authoritative
 status: valid
-id: 8a676cd7-041c-4215-a6bf-3cdfa8a3716a
+id: 40639249-892b-4508-b8eb-3894377d4ca5
 schema_version: '3'
 ---
 data:
@@ -57,7 +57,7 @@ data:
     designation: material measure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 683a010f-ad52-4fb8-91a2-6442b55e9062
+id: 6c371372-ab3d-49ba-8435-93103bf0d9c0
 ---
 data:
   dates:
@@ -67,14 +67,14 @@ data:
   - content: "{{instrument de mesure,3.1}} qui reproduit ou fournit, d'une manière
       permanente pendant son emploi, des {{grandeurs,1.1}} d'une ou plusieurs {{natures,1.2}},
       chacune avec une {{valeur,1.19}} assignée"
-  examples:
+  examples: []
+  id: 3.6-fra
+  language_code: fra
+  notes:
   - content: EXEMPLES Masse marquée, mesure de capacité (fournissant une ou plusieurs
       valeurs, avec ou sans {{échelle de valeurs,1.27}}), résistance électrique étalon,
       règle graduée, cale étalon, générateur de signaux étalons, {{matériau de référence
       certifié,5.14}}.
-  id: 3.6-fra
-  language_code: fra
-  notes:
   - content: L'{{indication,4.1}} d'une mesure matérialisée est sa valeur assignée.
   - content: Une mesure matérialisée peut être un {{étalon,5.1}}.
   sources:
@@ -91,4 +91,4 @@ data:
     designation: mesure matérialisée
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3495b4a5-cd44-4b3b-8319-5d91c403cd8a
+id: 6771bde5-984a-4944-9ebf-cc0d3de97721

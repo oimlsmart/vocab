@@ -2,8 +2,8 @@
 data:
   identifier: '2.8'
   localized_concepts:
-    eng: 0074f6d7-06fe-4890-9a41-35551a2f98bb
-    fra: f1f2285d-a6ab-4ab6-a5e0-3bff8720d657
+    eng: 870d68d5-8b03-47f4-97cc-65857d80ea63
+    fra: e5e74500-e01e-4887-80cc-3926b60a586c
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.8'
     type: authoritative
 status: valid
-id: 82f185af-c14a-4c5d-90cc-28958f282c81
+id: 2270e0f0-6888-43fa-b33d-08dfc131b1dc
 schema_version: '3'
 ---
 data:
@@ -64,7 +64,7 @@ data:
     designation: primary reference procedure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0074f6d7-06fe-4890-9a41-35551a2f98bb
+id: 870d68d5-8b03-47f4-97cc-65857d80ea63
 ---
 data:
   dates:
@@ -74,15 +74,15 @@ data:
   - content: "{{procédure de mesure de référence,2.7}} utilisée pour obtenir un {{résultat
       de mesure,2.9}} sans relation avec un {{étalon,5.1}} d'une {{grandeur,1.1}}
       de même {{nature,1.2}}"
-  examples:
+  examples: []
+  id: 2.8-fra
+  language_code: fra
+  notes:
   - content: EXEMPLE Le volume d'eau délivré par une pipette de 5 ml à 20 °C est mesuré
       en pesant l'eau délivrée par la pipette dans un bécher, en prenant la différence
       entre la masse du bécher contenant l'eau et la masse du bécher initialement
       vide, puis en corrigeant la différence de masse pour la température réelle de
       l'eau par l'intermédiaire de la masse volumique.
-  id: 2.8-fra
-  language_code: fra
-  notes:
   - content: Le Comité consultatif pour la quantité de matière – Métrologie en chimie
       (CCQM) utilise pour ce concept le terme «méthode de mesure primaire».
   - content: Le CCQM a donné (5e réunion, 1999) [43] les définitions de deux concepts
@@ -109,4 +109,4 @@ data:
     designation: procédure opératoire primaire, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: f1f2285d-a6ab-4ab6-a5e0-3bff8720d657
+id: e5e74500-e01e-4887-80cc-3926b60a586c

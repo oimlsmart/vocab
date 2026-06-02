@@ -2,8 +2,8 @@
 data:
   identifier: '3.9'
   localized_concepts:
-    eng: 5d5c3cf7-eae7-4a0b-ab5d-d00b4dc95199
-    fra: 4617ca11-70f8-4c7b-b205-f9dbea9e292e
+    eng: 703ad822-1170-4e7a-b687-c88cb1ac7066
+    fra: 7d68c3f7-aeb7-48ab-be4d-de5d28e23f86
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '3.9'
     type: authoritative
 status: valid
-id: a08031de-7cb3-4db6-99c4-f4e8d24762c8
+id: 0457265e-337a-4cd1-a56a-82d9725dc34e
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: detector
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5d5c3cf7-eae7-4a0b-ab5d-d00b4dc95199
+id: 703ad822-1170-4e7a-b687-c88cb1ac7066
 ---
 data:
   dates:
@@ -59,11 +59,11 @@ data:
   - content: dispositif ou substance qui indique la présence d'un phénomène, d'un
       corps ou d'une substance lorsqu'une {{valeur,1.19}} de seuil d'une {{grandeur,1.1}}
       associée est dépassée
-  examples:
-  - content: EXEMPLES Détecteur de fuite à halogène, papier au tournesol.
+  examples: []
   id: 3.9-fra
   language_code: fra
   notes:
+  - content: EXEMPLES Détecteur de fuite à halogène, papier au tournesol.
   - content: Dans certains domaines, le terme «détecteur» est employé pour le concept
       de {{capteur,3.8}}.
   - content: En chimie, le terme «indicateur» est souvent employé pour ce concept.
@@ -81,4 +81,4 @@ data:
     designation: détecteur
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 4617ca11-70f8-4c7b-b205-f9dbea9e292e
+id: 7d68c3f7-aeb7-48ab-be4d-de5d28e23f86

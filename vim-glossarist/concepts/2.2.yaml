@@ -2,8 +2,8 @@
 data:
   identifier: '2.2'
   localized_concepts:
-    eng: c79947cc-ac69-4d7a-9df1-f38950ac4636
-    fra: 060ace7c-015a-4971-b6be-b6ebf835f472
+    eng: 11cf0e32-2a09-41ad-9fca-c3b72bb21be6
+    fra: 11f1a52b-64a3-4d82-8089-2c144fb4e4c4
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,8 +17,13 @@ data:
         reference_from: '2.2'
     type: authoritative
 status: valid
-id: 61d8e64d-7fbf-44fd-8c94-19c200278834
+id: 00cfaaae-dd25-4f89-9f27-19cc76672870
 schema_version: '3'
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.01'
 ---
 data:
   dates:
@@ -46,7 +51,7 @@ data:
     designation: metrology
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: c79947cc-ac69-4d7a-9df1-f38950ac4636
+id: 11cf0e32-2a09-41ad-9fca-c3b72bb21be6
 ---
 data:
   dates:
@@ -74,4 +79,4 @@ data:
     designation: métrologie
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 060ace7c-015a-4971-b6be-b6ebf835f472
+id: 11f1a52b-64a3-4d82-8089-2c144fb4e4c4

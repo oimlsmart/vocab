@@ -2,8 +2,8 @@
 data:
   identifier: '3.7'
   localized_concepts:
-    eng: 436a46d0-fb49-4438-b8bd-822609b1b79c
-    fra: c525c649-5ba2-4e7b-bbea-e9f8966e832b
+    eng: bace68c6-e896-4a72-9e12-f8b6eaf5ffce
+    fra: d60a5f86-293b-4c66-b1a7-bee422fb1b39
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,8 +17,13 @@ data:
         reference_from: '3.7'
     type: authoritative
 status: valid
-id: 251a4311-4e5d-4604-b166-96c045312665
+id: a1d5aadb-8477-4c5c-a78a-52e85844674c
 schema_version: '3'
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.11'
 ---
 data:
   dates:
@@ -47,7 +52,7 @@ data:
     designation: measuring transducer
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 436a46d0-fb49-4438-b8bd-822609b1b79c
+id: bace68c6-e896-4a72-9e12-f8b6eaf5ffce
 ---
 data:
   dates:
@@ -56,12 +61,12 @@ data:
   definition:
   - content: dispositif, employé en {{mesurage,2.1}}, qui fait correspondre à une
       {{grandeur,1.1}} d'entrée une grandeur de sortie selon une loi déterminée
-  examples:
-  - content: EXEMPLES Thermocouple, transformateur de courant électrique, jauge de
-      contrainte, électrode de pH, tube de Bourdon, bilame.
+  examples: []
   id: 3.7-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: EXEMPLES Thermocouple, transformateur de courant électrique, jauge de
+      contrainte, électrode de pH, tube de Bourdon, bilame.
   sources:
   - origin:
       ref:
@@ -76,4 +81,4 @@ data:
     designation: transducteur de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: c525c649-5ba2-4e7b-bbea-e9f8966e832b
+id: d60a5f86-293b-4c66-b1a7-bee422fb1b39

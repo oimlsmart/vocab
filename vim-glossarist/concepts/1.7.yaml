@@ -2,8 +2,8 @@
 data:
   identifier: '1.7'
   localized_concepts:
-    eng: 3e5b575e-ee7b-4240-9aa3-583ce0b6dc0f
-    fra: 50611a25-cfd8-4fb0-a36f-d8c8ad4a891a
+    eng: e75b4e7a-3032-450d-bfbc-fea531190761
+    fra: 8a133fbd-1ef6-4808-943f-13f32563de15
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.7'
     type: authoritative
 status: valid
-id: b11fba34-b04e-4c36-85ff-20a7b753b2d4
+id: abecfba2-b2ec-48f7-81bd-c5417b2a011c
 schema_version: '3'
 ---
 data:
@@ -61,6 +61,7 @@ data:
       Symbols representing the dimensions of the base quantities in the ISQ are:
 
       | lengthlongueur |
+      | --- |
       | massmasse |
       | timetemps |
       | electric currentcourant électrique |
@@ -88,7 +89,7 @@ data:
     designation: dimension
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3e5b575e-ee7b-4240-9aa3-583ce0b6dc0f
+id: e75b4e7a-3032-450d-bfbc-fea531190761
 ---
 data:
   dates:
@@ -99,7 +100,10 @@ data:
       de base,1.4}} d'un {{système de grandeurs,1.3}} sous la forme d'un produit de
       puissances de facteurs correspondant aux grandeurs de base, en omettant tout
       facteur numérique
-  examples:
+  examples: []
+  id: 1.7-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Dans l'{{ISQ,1.6}}, la dimension de la force est notée dim F= LMT–2.
       EXEMPLE 2 Dans le même système de grandeurs, dim ρB = ML–3 est la dimension de la concentration en masse du constituant B, et ML–3 est aussi la dimension de la masse volumique ρ.
@@ -107,9 +111,6 @@ data:
       ou
       où
       Par conséquent, dim C(g) = L–1/2 T.
-  id: 1.7-fra
-  language_code: fra
-  notes:
   - content: Une puissance d'un facteur est le facteur muni d'un exposant. Chaque
       facteur exprime la dimension d'une grandeur de base.
   - content: Par convention, la représentation symbolique de la dimension d'une grandeur
@@ -129,6 +130,7 @@ data:
       Dans l'ISQ, les symboles correspondant aux dimensions des grandeurs de base sont:
 
       | lengthlongueur |
+      | --- |
       | massmasse |
       | timetemps |
       | electric currentcourant électrique |
@@ -153,4 +155,4 @@ data:
     designation: dimension d'une grandeur, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 50611a25-cfd8-4fb0-a36f-d8c8ad4a891a
+id: 8a133fbd-1ef6-4808-943f-13f32563de15

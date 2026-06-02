@@ -2,8 +2,8 @@
 data:
   identifier: '4.24'
   localized_concepts:
-    eng: 2c0347ff-70cb-4bca-8974-4e1d19f2f9f1
-    fra: 5dc9782a-fe82-4ee6-935e-b74cd5c61fed
+    eng: f900232a-4255-480b-89a3-63d17765a950
+    fra: 5719184c-7d70-40a4-a2af-41db3d4c2c4f
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '4.24'
     type: authoritative
 status: valid
-id: 2dccb20c-4fee-4aa2-a443-39e24f042851
+id: a6b13538-c26f-40a5-aa9e-9269c97eeeb6
 schema_version: '3'
 ---
 data:
@@ -52,7 +52,7 @@ data:
     designation: instrumental measurement uncertainty
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2c0347ff-70cb-4bca-8974-4e1d19f2f9f1
+id: f900232a-4255-480b-89a3-63d17765a950
 ---
 data:
   dates:
@@ -86,4 +86,4 @@ data:
     designation: incertitude instrumentale
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5dc9782a-fe82-4ee6-935e-b74cd5c61fed
+id: 5719184c-7d70-40a4-a2af-41db3d4c2c4f

@@ -2,8 +2,8 @@
 data:
   identifier: '2.4'
   localized_concepts:
-    eng: d93e4cba-b42b-4309-ad48-820cb9876de3
-    fra: c0a17eef-84a7-4683-81dd-2142196fd2a5
+    eng: 8415ffcc-eb19-48c9-bbbe-45b3a63971ef
+    fra: 0e0de1cb-8b01-4f13-b20f-fd9c0a1f5b6d
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.4'
     type: authoritative
 status: valid
-id: 342e1791-c25c-4e29-964f-444891da4186
+id: fba9be92-ee67-4625-aab3-2d1f697c898e
 schema_version: '3'
 ---
 data:
@@ -52,7 +52,7 @@ data:
     designation: principle of measurement
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d93e4cba-b42b-4309-ad48-820cb9876de3
+id: 8415ffcc-eb19-48c9-bbbe-45b3a63971ef
 ---
 data:
   dates:
@@ -60,14 +60,14 @@ data:
     type: accepted
   definition:
   - content: phénomène servant de base à un {{mesurage,2.1}}
-  examples:
+  examples: []
+  id: 2.4-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Effet thermoélectrique appliqué au mesurage de la température.
       EXEMPLE 2 Absorption d'énergie appliquée au mesurage de la concentration en quantité de matière.
       EXEMPLE 3 Diminution de la concentration de glucose dans le sang d'un lapin à jeun, appliquée au mesurage de la concentration d'insuline dans une préparation.
-  id: 2.4-fra
-  language_code: fra
-  notes:
   - content: Le phénomène peut être de nature physique, chimique ou biologique
   sources:
   - origin:
@@ -83,4 +83,4 @@ data:
     designation: principe de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: c0a17eef-84a7-4683-81dd-2142196fd2a5
+id: 0e0de1cb-8b01-4f13-b20f-fd9c0a1f5b6d

@@ -2,8 +2,8 @@
 data:
   identifier: '1.8'
   localized_concepts:
-    eng: d11ef138-f07f-4af4-85d7-1c168f1e4a6f
-    fra: d15fe049-09c1-48d9-92d8-979e71e00622
+    eng: 472f66b3-8e6a-4b2a-9816-b28381cf6418
+    fra: 588d8de1-5591-4f07-801f-1aaf575456f0
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.8'
     type: authoritative
 status: valid
-id: 146db916-8169-49af-9548-a2352756943d
+id: 658fd572-ba7a-4512-88ba-62a0e94d3419
 schema_version: '3'
 ---
 data:
@@ -27,7 +27,11 @@ data:
   definition:
   - content: "{{quantity,1.1}} for which all the exponents of the factors corresponding
       to the {{base quantities,1.4}} in its {{quantity dimension,1.7}} are zero"
-  examples: []
+  examples:
+  - content: Plane angle, solid angle, refractive index, relative permeability, mass
+      fraction, friction factor, Mach number.
+  - content: Number of turns in a coil, number of molecules in a given sample, degeneracy
+      of the energy levels of a quantum system.
   id: 1.8-eng
   language_code: eng
   notes:
@@ -38,14 +42,9 @@ data:
       of the dimension for such quantities is the symbol 1 (see ISO 31-0:1992, 2.2.6).
   - content: The {{measurement units,1.9}} and {{values,1.19}} of quantities of dimension
       one are numbers, but such quantities convey more information than a number.
-  - content: |-
-      Some quantities of dimension one are defined as the ratios of two quantities of the same {{kind,1.2}}.
-
-      EXAMPLES Plane angle, solid angle, refractive index, relative permeability, mass fraction, friction factor, Mach number.
-  - content: |-
-      Numbers of entities are quantities of dimension one.
-
-      EXAMPLES Number of turns in a coil, number of molecules in a given sample, degeneracy of the energy levels of a quantum system.
+  - content: Some quantities of dimension one are defined as the ratios of two quantities
+      of the same {{kind,1.2}}.
+  - content: Numbers of entities are quantities of dimension one.
   sources:
   - origin:
       ref:
@@ -63,7 +62,7 @@ data:
     designation: dimensionless quantity
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d11ef138-f07f-4af4-85d7-1c168f1e4a6f
+id: 472f66b3-8e6a-4b2a-9816-b28381cf6418
 ---
 data:
   dates:
@@ -107,4 +106,4 @@ data:
     designation: grandeur de dimension un, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: d15fe049-09c1-48d9-92d8-979e71e00622
+id: 588d8de1-5591-4f07-801f-1aaf575456f0

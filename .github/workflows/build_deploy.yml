@@ -32,6 +32,9 @@ jobs:
           npm install --ignore-scripts @glossarist/concept-browser
           npm install --prefix node_modules/@glossarist/concept-browser sharp 2>/dev/null || true
 
+      - name: Patch concept-browser
+        run: bash scripts/patch-concept-browser.sh
+
       - name: Build site
         run: npx concept-browser build
         env:

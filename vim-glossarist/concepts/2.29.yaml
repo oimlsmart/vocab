@@ -2,8 +2,8 @@
 data:
   identifier: '2.29'
   localized_concepts:
-    eng: ce9c424b-d988-42dd-b168-fbd9d6008a9d
-    fra: 2c2fa484-c619-40c7-9a82-2dda3ea245b1
+    eng: 59ff17f7-6ada-41ec-873d-3ae54a701500
+    fra: 505b9f67-26f6-4bfc-a5d5-511fd9cc3232
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.29'
     type: authoritative
 status: valid
-id: 9811d1c4-156a-4dd4-ad04-0f935e6ad43c
+id: e81b0eb7-cfc0-4264-83fb-d01f6e9acc26
 schema_version: '3'
 ---
 data:
@@ -57,7 +57,7 @@ data:
     designation: Type B evaluation
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: ce9c424b-d988-42dd-b168-fbd9d6008a9d
+id: 59ff17f7-6ada-41ec-873d-3ae54a701500
 ---
 data:
   dates:
@@ -66,7 +66,10 @@ data:
   definition:
   - content: évaluation d'une composante de l'{{incertitude de mesure,2.26}} par d'autres
       moyens qu'une {{évaluation de type A de l'incertitude,2.28}}
-  examples:
+  examples: []
+  id: 2.29-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLES Évaluation fondée sur des informations
       - associées à des {{valeurs,1.19}} publiées faisant autorité,
@@ -75,9 +78,6 @@ data:
       - concernant la dérive,
       - obtenues à partir de la {{classe d'exactitude,4.25}} d'un {{instrument de mesure,3.1}} vérifié,
       - obtenues à partir de limites déduites de l'expérience personnelle.
-  id: 2.29-fra
-  language_code: fra
-  notes:
   - content: Voir aussi le Guide ISO/CEI 98-3:2008, 2.3.3.
   sources:
   - origin:
@@ -96,4 +96,4 @@ data:
     designation: évaluation de type B, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2c2fa484-c619-40c7-9a82-2dda3ea245b1
+id: 505b9f67-26f6-4bfc-a5d5-511fd9cc3232

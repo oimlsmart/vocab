@@ -2,8 +2,8 @@
 data:
   identifier: '2.12'
   localized_concepts:
-    eng: 7a6aa1a1-d642-4684-8b3e-b00319f9c41c
-    fra: 3501b23b-0b0b-41ed-b33e-bef06e0cd27d
+    eng: 29cb4864-359f-4245-9b4d-124ecbdb0ce8
+    fra: 449b92fc-7fc3-4450-b240-905a5e8fef83
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.12'
     type: authoritative
 status: valid
-id: 408699da-5e58-40a6-86f2-f2778cec6e23
+id: a25a308e-aa56-4ef4-9c2e-aa9dbb760401
 schema_version: '3'
 ---
 data:
@@ -65,7 +65,7 @@ data:
     designation: conventional value
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7a6aa1a1-d642-4684-8b3e-b00319f9c41c
+id: 29cb4864-359f-4245-9b4d-124ecbdb0ce8
 ---
 data:
   dates:
@@ -74,14 +74,14 @@ data:
   definition:
   - content: "{{valeur,1.19}} attribuée à une {{grandeur,1.1}} par un accord pour
       un usage donné"
-  examples:
+  examples: []
+  id: 2.12-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Valeur conventionnelle de l'accélération due à la pesanteur ou accélération normale de la pesanteur, gn = 9,806 65 ms−2.
       EXEMPLE 2 Valeur conventionnelle de la constante de Josephson, KJ-90 = 483 597,9 GHz V-1.
       EXEMPLE 3 Valeur conventionnelle d'un étalon de masse donné, m = 100.003 47 g.
-  id: 2.12-fra
-  language_code: fra
-  notes:
   - content: Le terme «valeur conventionnellement vraie» est quelquefois utilisé pour
       ce concept, mais son utilisation est déconseillée.
   - content: Une valeur conventionnelle est quelquefois une estimation d'une {{valeur
@@ -105,4 +105,4 @@ data:
     designation: valeur conventionnelle d'une grandeur, m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3501b23b-0b0b-41ed-b33e-bef06e0cd27d
+id: 449b92fc-7fc3-4450-b240-905a5e8fef83

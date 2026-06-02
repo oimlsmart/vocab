@@ -2,8 +2,8 @@
 data:
   identifier: '1.27'
   localized_concepts:
-    eng: 007ce91b-d4b7-4dfe-a243-f4fe4d1424aa
-    fra: 4fede28e-3cca-41af-a932-8ca13664d913
+    eng: 9652a19d-3e6b-4812-a845-e9cfb675fa95
+    fra: ff45196e-1f19-4798-8d3e-4064c419f960
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.27'
     type: authoritative
 status: valid
-id: 0fc790ab-95ce-4c13-997c-54577b020d13
+id: 759b31ce-582e-4a91-84a8-9decf5cf047d
 schema_version: '3'
 ---
 data:
@@ -56,7 +56,7 @@ data:
     designation: measurement scale
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 007ce91b-d4b7-4dfe-a243-f4fe4d1424aa
+id: 9652a19d-3e6b-4812-a845-e9cfb675fa95
 ---
 data:
   dates:
@@ -66,14 +66,14 @@ data:
   - content: ensemble ordonné de {{valeurs,1.19}} de {{grandeurs,1.1}} d'une {{nature,1.2}}
       donnée, utilisé pour classer des grandeurs de cette nature en ordre croissant
       ou décroissant de leurs expressions quantitatives
-  examples:
+  examples: []
+  id: 1.27-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Échelle des températures Celsius.
       EXEMPLE 2 Échelle de temps.
       EXEMPLE 3 Échelle de dureté C de Rockwell.
-  id: 1.27-fra
-  language_code: fra
-  notes: []
   sources:
   - origin:
       ref:
@@ -91,4 +91,4 @@ data:
     designation: échelle de mesure, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 4fede28e-3cca-41af-a932-8ca13664d913
+id: ff45196e-1f19-4798-8d3e-4064c419f960

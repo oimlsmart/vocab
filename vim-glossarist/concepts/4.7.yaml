@@ -2,8 +2,8 @@
 data:
   identifier: '4.7'
   localized_concepts:
-    eng: eec0c53e-26a1-43ff-a70c-def9bf587b8b
-    fra: 11f4c917-ab42-4c12-8150-e231f705778e
+    eng: 1ce0a0ab-40bf-4e15-aca2-6e41738292f3
+    fra: 57fd97ab-78f6-4e01-a147-42ff7f13418d
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '4.7'
     type: authoritative
 status: valid
-id: af4baa0f-2902-4dcc-92d3-5a98f02af2cd
+id: a9d29432-868e-4089-a174-8bd397e3a7bd
 schema_version: '3'
 ---
 data:
@@ -53,7 +53,7 @@ data:
     designation: working interval
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: eec0c53e-26a1-43ff-a70c-def9bf587b8b
+id: 1ce0a0ab-40bf-4e15-aca2-6e41738292f3
 ---
 data:
   dates:
@@ -86,4 +86,4 @@ data:
     designation: intervalle de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 11f4c917-ab42-4c12-8150-e231f705778e
+id: 57fd97ab-78f6-4e01-a147-42ff7f13418d

@@ -153,9 +153,9 @@ def parse_term(html, term_id, lang)
   definition, defn_xrefs = extract_text_with_xrefs(defn_node)
 
   # ── Notes, Examples (from div#notes) ──
-  # VIM interleaves NOTEs and EXAMPLEs. Examples that follow a NOTE
-  # are contextually part of that note and get appended to it.
-  # Standalone examples (not following a note) become concept-level examples.
+  # VIM interleaves NOTEs and EXAMPLEs as separate block elements.
+  # Each EXAMPLE is extracted as a standalone entry in the examples array,
+  # regardless of its position relative to NOTEs.
   notes = []
   examples = []
   all_xrefs = defn_xrefs.dup
@@ -182,19 +182,13 @@ def parse_term(html, term_id, lang)
           current_text = $1.strip
         elsif stripped =~ /\AEXAMPLES?\s*(?:\d+\s+)?(.*)/
           example_content = $1.strip
-          if current_type == :note && !example_content.empty?
-            current_text << "\n\n#{stripped}"
-          elsif !example_content.empty?
-            finalize_current(notes, examples, current_type, current_text)
-            current_type = :example
-            current_text = example_content
-          elsif current_type == :note
-            current_text << "\n\n#{stripped}"
-          end
+          finalize_current(notes, examples, current_type, current_text)
+          current_type = :example
+          current_text = example_content.empty? ? stripped : example_content
         elsif !stripped.empty? && current_text
           current_text << "\n#{stripped}"
         elsif !stripped.empty?
-          current_type = :example
+          current_type = :note
           current_text = stripped
         end
 
@@ -306,9 +300,21 @@ def serialize_table(table_node)
     cells = tr.css("td, th").map do |cell|
       cell.css("p.TableText").map { |p| p.text.strip.gsub(/\s+/, " ") }.join(" ")
     end.reject(&:empty?)
-    rows << "| #{cells.join(' | ')} |" unless cells.empty?
+    rows << cells unless cells.empty?
   end
-  rows.join("\n")
+  return "" if rows.empty?
+
+  # Build a proper markdown table with header separator row
+  max_cols = rows.map(&:size).max
+  normalized = rows.map { |r| r + [""] * (max_cols - r.size) }
+
+  lines = []
+  # First data row as header
+  lines << "| #{normalized[0].join(' | ')} |"
+  lines << "| #{(['---'] * max_cols).join(' | ')} |"
+  # Remaining rows as body
+  normalized[1..].each { |r| lines << "| #{r.join(' | ')} |" }
+  lines.join("\n")
 end
 
 # ═══════════════════════════════════════════════════════════════

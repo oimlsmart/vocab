@@ -2,8 +2,8 @@
 data:
   identifier: '5.13'
   localized_concepts:
-    eng: 2637c168-168f-433a-b10f-f1e6e0613cda
-    fra: 80b7037b-59ba-47fb-bb10-55bcaca2d13b
+    eng: c443591b-b039-49b0-8e4f-245a391e33b8
+    fra: 02f31f4a-99b8-446b-a316-f2b4c61d3fbe
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.13'
     type: authoritative
 status: valid
-id: d9bec4ba-7265-4f5a-ba83-2c761c2c248a
+id: 5ab2cc9d-3cb2-4b6f-b914-80d8c0d56eec
 schema_version: '3'
 ---
 data:
@@ -28,7 +28,20 @@ data:
   - content: material, sufficiently homogeneous and stable with reference to specified
       properties, which has been established to be fit for its intended use in {{measurement,2.1}}
       or in examination of {{nominal properties,1.30}}
-  examples: []
+  examples:
+  - content: |-
+      Examples of reference materials embodying quantities:
+      a) water of stated purity, the dynamic viscosity of which is used to calibrate viscometers;
+      b) human serum without an assigned quantity value for the amount-of-substance concentration of the inherent cholesterol, used only as a measurement precision control material;
+      c) fish tissue containing a stated mass fraction of a dioxin, used as a {{calibrator,5.12}}.
+  - content: |-
+      Examples of reference materials embodying nominal properties:
+      a) colour chart indicating one or more specified colours;
+      b) DNA compound containing a specified nucleotide sequence;
+      c) urine containing 19-androstenedione.
+  - content: Substance of known triple-point in a triple-point cell.
+  - content: Glass of known optical density in a transmission filter holder.
+  - content: Spheres of uniform size mounted on a microscope slide.
   id: 5.13-eng
   language_code: eng
   notes:
@@ -38,26 +51,10 @@ data:
       can be used for {{measurement precision,2.15}} control whereas only reference
       materials with assigned quantity values can be used for {{calibration,2.39}}
       or {{measurement trueness,2.14}} control.
-  - content: |-
-      'Reference material' comprises materials embodying {{quantities,1.1}} as well as nominal properties.
-
-      EXAMPLE 1 Examples of reference materials embodying quantities:
-      a) water of stated purity, the dynamic viscosity of which is used to calibrate viscometers;
-      b) human serum without an assigned quantity value for the amount-of-substance concentration of the inherent cholesterol, used only as a measurement precision control material;
-      c) fish tissue containing a stated mass fraction of a dioxin, used as a {{calibrator,5.12}}.
-
-      EXAMPLE 2 Examples of reference materials embodying nominal properties:
-      a) colour chart indicating one or more specified colours;
-      b) DNA compound containing a specified nucleotide sequence;
-      c) urine containing 19-androstenedione.
-  - content: |-
-      A reference material is sometimes incorporated into a specially fabricated device.
-
-      EXAMPLE 1 Substance of known triple-point in a triple-point cell.
-
-      EXAMPLE 2 Glass of known optical density in a transmission filter holder.
-
-      EXAMPLE 3 Spheres of uniform size mounted on a microscope slide.
+  - content: "'Reference material' comprises materials embodying {{quantities,1.1}}
+      as well as nominal properties."
+  - content: A reference material is sometimes incorporated into a specially fabricated
+      device.
   - content: Some reference materials have assigned quantity values that are metrologically
       traceable to a {{measurement unit,1.9}} outside a {{system of units,1.13}}.
       Such materials include vaccines to which International Units (IU) have been
@@ -87,7 +84,7 @@ data:
     designation: RM
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2637c168-168f-433a-b10f-f1e6e0613cda
+id: c443591b-b039-49b0-8e4f-245a391e33b8
 ---
 data:
   dates:
@@ -152,4 +149,4 @@ data:
     designation: MR
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 80b7037b-59ba-47fb-bb10-55bcaca2d13b
+id: 02f31f4a-99b8-446b-a316-f2b4c61d3fbe

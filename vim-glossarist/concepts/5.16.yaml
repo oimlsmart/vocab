@@ -2,8 +2,8 @@
 data:
   identifier: '5.16'
   localized_concepts:
-    eng: 3c896542-0a4c-433b-be47-480f714e402a
-    fra: e49c54af-3ac4-4805-bb0e-00629b0d66d2
+    eng: '01528765-9fbf-4c04-afa1-4162c237e214'
+    fra: ec5d4171-77f0-44e0-a182-1b157872b2b5
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.16'
     type: authoritative
 status: valid
-id: 255c2cb0-560a-40dd-9971-c70a888d86a9
+id: ca385c09-157e-4018-baba-a42b8f0f173e
 schema_version: '3'
 ---
 data:
@@ -52,7 +52,7 @@ data:
     designation: reference data
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3c896542-0a4c-433b-be47-480f714e402a
+id: '01528765-9fbf-4c04-afa1-4162c237e214'
 ---
 data:
   dates:
@@ -62,12 +62,12 @@ data:
   - content: donnée liée à une propriété d'un phénomène, d'un corps ou d'une substance,
       ou à un système de constituants de composition ou de structure connue, obtenue
       à partir d'une source identifiée, évaluée de façon critique et vérifiée en exactitude
-  examples:
-  - content: EXEMPLE Données de référence relatives à la solubilité de composés chimiques,
-      publiées par l'UICPA.
+  examples: []
   id: 5.16-fra
   language_code: fra
   notes:
+  - content: EXEMPLE Données de référence relatives à la solubilité de composés chimiques,
+      publiées par l'UICPA.
   - content: Dans la définition, le terme «exactitude» peut désigner soit une {{exactitude
       de mesure,2.13}}, soit l'«exactitude de la valeur d'une propriété qualitative».
   - content: En anglais, «data» est une forme plurielle dont le singulier est «datum».
@@ -86,4 +86,4 @@ data:
     designation: donnée de référence
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e49c54af-3ac4-4805-bb0e-00629b0d66d2
+id: ec5d4171-77f0-44e0-a182-1b157872b2b5

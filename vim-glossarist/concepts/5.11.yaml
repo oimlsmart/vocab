@@ -2,8 +2,8 @@
 data:
   identifier: '5.11'
   localized_concepts:
-    eng: 5efbe661-6a6e-45d6-a7b8-ce83862439b6
-    fra: 6d16cb68-52c1-4665-9966-c88f3810156e
+    eng: 90410d69-8995-4f26-8a1b-69d9d6f0f4bb
+    fra: cc72ca4e-7e95-4c54-93cc-4b3f72b812da
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.11'
     type: authoritative
 status: valid
-id: a650a172-6789-471f-9de5-95cb27422587
+id: 8ec188b3-1a4b-4665-884e-66108bae9229
 schema_version: '3'
 ---
 data:
@@ -51,7 +51,7 @@ data:
     designation: maintenance of a measurement standard
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5efbe661-6a6e-45d6-a7b8-ce83862439b6
+id: 90410d69-8995-4f26-8a1b-69d9d6f0f4bb
 ---
 data:
   dates:
@@ -84,4 +84,4 @@ data:
     designation: maintenance d'un étalon, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6d16cb68-52c1-4665-9966-c88f3810156e
+id: cc72ca4e-7e95-4c54-93cc-4b3f72b812da

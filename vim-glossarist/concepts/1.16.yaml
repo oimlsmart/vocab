@@ -2,8 +2,8 @@
 data:
   identifier: '1.16'
   localized_concepts:
-    eng: c354a5a0-44a8-465c-b0be-deaff1bd5aa7
-    fra: 905c3a97-a613-4415-b2b4-3d59d682a6e5
+    eng: a24dcde6-a961-4aa3-9df8-f7cfe6d6e89d
+    fra: 27395ef3-d855-47be-8710-d049b49c1bfb
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,8 +17,13 @@ data:
         reference_from: '1.16'
     type: authoritative
 status: valid
-id: c12910de-d911-4718-8bfc-cb4c96edf0a3
+id: dc7988fe-d67c-4611-a528-c34c635d4e73
 schema_version: '3'
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.02'
 ---
 data:
   dates:
@@ -37,6 +42,7 @@ data:
       The SI is founded on the seven {{base quantities,1.4}} of the {{ISQ,1.6}} and the names and symbols of the corresponding {{base units,1.10}} that are contained in the following table.
 
       | lengthlongueur | metremètre |
+      | --- | --- |
       | massmasse | kilogramkilogramme |
       | timetemps | secondseconde |
       | electric currentcourant électrique | ampereampère |
@@ -54,6 +60,7 @@ data:
       The SI prefixes for {{multiples of units,1.17}} and {{submultiples of units,1.18}} are:
 
       | 1024 | yottayotta |
+      | --- | --- |
       | 1021 | zettazetta |
       | 1018 | exaexa |
       | 1015 | petapéta |
@@ -90,7 +97,7 @@ data:
     designation: SI
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: c354a5a0-44a8-465c-b0be-deaff1bd5aa7
+id: a24dcde6-a961-4aa3-9df8-f7cfe6d6e89d
 ---
 data:
   dates:
@@ -109,6 +116,7 @@ data:
       Le SI est fondé sur les sept {{grandeurs de base,1.4}} de l'{{ISQ,1.6}}. Les noms et les symboles des {{unités de base,1.10}} sont donnés dans le tableau suivant.
 
       | lengthlongueur | metremètre |
+      | --- | --- |
       | massmasse | kilogramkilogramme |
       | timetemps | secondseconde |
       | electric currentcourant électrique | ampereampère |
@@ -128,6 +136,7 @@ data:
       Les préfixes SI pour les {{multiples des unités,1.17}} et {{sous-multiples des unités,1.18}} sont:
 
       | 1024 | yottayotta |
+      | --- | --- |
       | 1021 | zettazetta |
       | 1018 | exaexa |
       | 1015 | petapéta |
@@ -164,4 +173,4 @@ data:
     designation: SI, m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 905c3a97-a613-4415-b2b4-3d59d682a6e5
+id: 27395ef3-d855-47be-8710-d049b49c1bfb

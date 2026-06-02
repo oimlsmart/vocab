@@ -2,8 +2,8 @@
 data:
   identifier: '2.44'
   localized_concepts:
-    eng: ab6e84a6-19c0-4179-b852-70fe7f97d74c
-    fra: 542b1518-9367-45db-909d-825ee7a6a7f6
+    eng: 88138b30-c796-4a0e-b401-5cc4659800c8
+    fra: 7f67ca85-4390-42bd-b73f-b6e9b7801b25
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.44'
     type: authoritative
 status: valid
-id: e547f947-5c5f-425f-82ae-424a401dde30
+id: d2b6e67a-5409-42dc-a035-f14e75dda6a2
 schema_version: '3'
 ---
 data:
@@ -67,7 +67,7 @@ data:
     designation: verification
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: ab6e84a6-19c0-4179-b852-70fe7f97d74c
+id: 88138b30-c796-4a0e-b401-5cc4659800c8
 ---
 data:
   dates:
@@ -76,14 +76,14 @@ data:
   definition:
   - content: fourniture de preuves tangibles qu'une entité donnée satisfait à des
       exigences spécifiées
-  examples:
+  examples: []
+  id: 2.44-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Confirmation qu'un {{matériau de référence,5.13}} donné est bien, comme déclaré, homogène pour la {{valeur,1.19}} et la {{procédure de mesure,2.6}} concernées jusqu'à des prises de mesure de masse 10 mg.
       EXEMPLE 2 Confirmation que des propriétés relatives aux performances ou des exigences légales sont satisfaites par un {{système de mesure,3.2}}.
       EXEMPLE 3 Confirmation qu'une {{incertitude cible,2.34}} peut être atteinte.
-  id: 2.44-fra
-  language_code: fra
-  notes:
   - content: S'il y a lieu, il convient de prendre en compte l'{{incertitude de mesure,2.26}}.
   - content: L'entité peut être, par exemple, un processus, une procédure de mesure,
       un matériau, un composé ou un système de mesure.
@@ -116,4 +116,4 @@ data:
     designation: vérification
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 542b1518-9367-45db-909d-825ee7a6a7f6
+id: 7f67ca85-4390-42bd-b73f-b6e9b7801b25

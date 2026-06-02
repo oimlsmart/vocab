@@ -2,8 +2,8 @@
 data:
   identifier: '1.30'
   localized_concepts:
-    eng: 499a91a2-2364-4410-b9eb-bcefcbd54a10
-    fra: e85b0680-db71-4b69-abb4-7637e939ee1b
+    eng: a8e07add-ea59-4c00-a848-072a21210023
+    fra: ae40aae7-f47b-4631-8131-28dcad5ee2ca
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '1.30'
     type: authoritative
 status: valid
-id: 5f75b952-3bd9-4d83-b894-acef8684b939
+id: 514fac7b-7746-4203-a949-bb0cbc29afe5
 schema_version: '3'
 ---
 data:
@@ -61,7 +61,7 @@ data:
     designation: nominal property
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 499a91a2-2364-4410-b9eb-bcefcbd54a10
+id: a8e07add-ea59-4c00-a848-072a21210023
 ---
 data:
   dates:
@@ -70,16 +70,16 @@ data:
   definition:
   - content: propriété d'un phénomène, d'un corps ou d'une substance, que l'on ne
       peut pas exprimer quantitativement
-  examples:
+  examples: []
+  id: 1.30-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Sexe d'une personne.
       EXEMPLE 2 Couleur d'un spécimen de peinture.
       EXEMPLE 3 Couleur d'un spot test en chimie.
       EXEMPLE 4 Code de pays ISO à deux lettres.
       EXEMPLE 5 Séquence d'acides aminés dans un polypeptide.
-  id: 1.30-fra
-  language_code: fra
-  notes:
   - content: Une propriété qualitative a une valeur, qui peut être exprimée par des
       mots, par des codes alphanumériques ou par d'autres moyens.
   - content: La valeur d'une propriété qualitative ne doit pas être confondue avec
@@ -108,4 +108,4 @@ data:
     designation: attribut, m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: e85b0680-db71-4b69-abb4-7637e939ee1b
+id: ae40aae7-f47b-4631-8131-28dcad5ee2ca

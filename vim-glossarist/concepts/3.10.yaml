@@ -2,8 +2,8 @@
 data:
   identifier: '3.10'
   localized_concepts:
-    eng: 75b9c27c-3306-44e0-aac5-2c2dd1437a79
-    fra: 2ca607e3-b40f-4ace-9110-a436eab938ab
+    eng: 83df000a-b8a7-4415-a235-58e39f9ca8f9
+    fra: 664022f2-9b08-46a7-b854-d9722d8707dd
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '3.10'
     type: authoritative
 status: valid
-id: de438307-63b6-4b84-bacf-5926039b4281
+id: 40f14de4-e69a-445c-a668-b309a54f76ec
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: measuring chain
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 75b9c27c-3306-44e0-aac5-2c2dd1437a79
+id: 83df000a-b8a7-4415-a235-58e39f9ca8f9
 ---
 data:
   dates:
@@ -58,13 +58,13 @@ data:
   definition:
   - content: suite d'éléments d'un {{système de mesure,3.2}} qui constitue un seul
       chemin du signal depuis le {{capteur,3.8}} jusqu'à l'élément de sortie
-  examples:
+  examples: []
+  id: 3.10-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Chaîne de mesure électroacoustique comprenant un microphone, un atténuateur, un filtre, un amplificateur et un voltmètre.
       EXEMPLE 2 Chaîne de mesure mécanique comprenant un tube de Bourdon, un système de leviers, deux roues dentées et un cadran mécanique.
-  id: 3.10-fra
-  language_code: fra
-  notes: []
   sources:
   - origin:
       ref:
@@ -79,4 +79,4 @@ data:
     designation: chaîne de mesure
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2ca607e3-b40f-4ace-9110-a436eab938ab
+id: 664022f2-9b08-46a7-b854-d9722d8707dd

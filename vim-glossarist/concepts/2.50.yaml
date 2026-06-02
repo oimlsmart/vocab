@@ -2,8 +2,8 @@
 data:
   identifier: '2.50'
   localized_concepts:
-    eng: 30d71531-e7a5-4406-b847-09df8046ff78
-    fra: 82f2f044-dc91-4096-a9c6-d41376a85756
+    eng: ff84cba0-9648-4640-a00b-ef77ec495897
+    fra: 24d709d6-bb63-4af2-81d3-3c96832d1cec
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.50'
     type: authoritative
 status: valid
-id: a7b12f0f-e6b4-4944-8d89-138ac6da1d6b
+id: 4a0ed7a1-9d80-413d-ad71-decd92349f36
 schema_version: '3'
 ---
 data:
@@ -61,7 +61,7 @@ data:
     designation: input quantity
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 30d71531-e7a5-4406-b847-09df8046ff78
+id: ff84cba0-9648-4640-a00b-ef77ec495897
 ---
 data:
   dates:
@@ -71,14 +71,14 @@ data:
   - content: "{{grandeur,1.1}} qui doit être mesurée, ou grandeur dont la {{valeur,1.19}}
       peut être obtenue autrement, pour calculer une {{valeur mesurée,2.10}} d'un
       {{mesurande,2.3}}"
-  examples:
+  examples: []
+  id: 2.50-fra
+  language_code: fra
+  notes:
   - content: EXEMPLE Lorsque le mesurande est la longueur d'une tige d'acier à une
       température spécifiée, la température réelle, la longueur à la température réelle
       et le coefficient de dilatation thermique linéique de la tige sont des grandeurs
       d'entrée dans un modèle de mesure.
-  id: 2.50-fra
-  language_code: fra
-  notes:
   - content: Une grandeur d'entrée dans un modèle de mesure est souvent une grandeur
       de sortie d'un {{système de mesure,3.2}}.
   - content: Les {{indications,4.1}}, les {{corrections,2.53}} et les {{grandeurs
@@ -100,4 +100,4 @@ data:
     designation: grandeur d'entrée, f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 82f2f044-dc91-4096-a9c6-d41376a85756
+id: 24d709d6-bb63-4af2-81d3-3c96832d1cec

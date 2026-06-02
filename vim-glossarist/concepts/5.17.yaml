@@ -2,8 +2,8 @@
 data:
   identifier: '5.17'
   localized_concepts:
-    eng: f578b1ee-ba31-41d5-99a7-fbabf108b520
-    fra: 9a95f60d-864a-496a-86f1-b77619dac457
+    eng: 393dbf3d-e58e-49bb-9cb7-cc34b75e9fe1
+    fra: 29748cff-6f12-4f53-83ae-3ef9095ec4f4
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '5.17'
     type: authoritative
 status: valid
-id: b6046833-a1a2-40a1-891e-e14f89077652
+id: c172e165-4386-4028-83c7-62cfda7f65e8
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: standard reference data
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: f578b1ee-ba31-41d5-99a7-fbabf108b520
+id: 393dbf3d-e58e-49bb-9cb7-cc34b75e9fe1
 ---
 data:
   dates:
@@ -57,7 +57,10 @@ data:
     type: accepted
   definition:
   - content: "{{donnée de référence,5.16}} provenant d'une autorité reconnue"
-  examples:
+  examples: []
+  id: 5.17-fra
+  language_code: fra
+  notes:
   - content: |-
       EXEMPLE 1 Valeurs des constantes physiques fondamentales, évaluées et recommandées régulièrement par le CODATA de
        l'ICSU
@@ -65,9 +68,6 @@ data:
       EXEMPLE 2 Valeurs des masses atomiques relatives des éléments, appelées aussi valeurs des poids atomiques, évaluées tous les deux ans par l'UICPA-CIAAW, approuvées par l'Assemblée générale de l'IUPAC et
       publiées dans Pure Appl. Chem.
        
-  id: 5.17-fra
-  language_code: fra
-  notes: []
   sources:
   - origin:
       ref:
@@ -82,4 +82,4 @@ data:
     designation: donnée de référence normalisée
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9a95f60d-864a-496a-86f1-b77619dac457
+id: 29748cff-6f12-4f53-83ae-3ef9095ec4f4

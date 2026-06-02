@@ -17,14 +17,10 @@ data:
         reference_from: '4.1'
     type: authoritative
 related:
-- type: see
+- type: compare
   ref:
-    source: urn:oiml:pub:v:1:2022
-    id: '0.10'
-- type: see
-  ref:
-    source: urn:oiml:pub:v:1:2022
-    id: '0.12'
+    source: urn:jcgm:pub:200:2012
+    id: '4.1'
 status: valid
 id: c305ea03-677b-54b6-806f-0a3d862d2580
 schema_version: '3'

@@ -2,8 +2,8 @@
 data:
   identifier: '2.46'
   localized_concepts:
-    eng: f977e517-7861-453e-b89f-87cdff3a38e8
-    fra: 87953ca9-418c-4d9d-b9b2-f958b20f65e3
+    eng: 7faaf411-537d-4cff-8b4f-322c81f572ac
+    fra: 3656bf23-4667-4e51-9b64-9145af962641
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -17,7 +17,7 @@ data:
         reference_from: '2.46'
     type: authoritative
 status: valid
-id: 82d57e7d-7aa0-4fbb-b8df-68f945df85fa
+id: 344ea7e4-d753-4a55-afcb-74124d026b2d
 schema_version: '3'
 ---
 data:
@@ -56,7 +56,7 @@ data:
     designation: metrological comparability
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: f977e517-7861-453e-b89f-87cdff3a38e8
+id: 7faaf411-537d-4cff-8b4f-322c81f572ac
 ---
 data:
   dates:
@@ -66,14 +66,14 @@ data:
   - content: comparabilité de {{résultats de mesure,2.9}}, pour des {{grandeurs,1.1}}
       d'une {{nature,1.2}} donnée, qui sont métrologiquement traçables à une même
       référence
-  examples:
+  examples: []
+  id: 2.46-fra
+  language_code: fra
+  notes:
   - content: EXEMPLE Des résultats de mesure pour les distances entre la Terre et
       la Lune et entre Paris et Londres sont métrologiquement comparables s'ils sont
       métrologiquement traçables à la même {{unité de mesure,1.9}}, par exemple le
       mètre.
-  id: 2.46-fra
-  language_code: fra
-  notes:
   - content: Voir la Note 1 de 2.41, {{traçabilité métrologique,2.41}}.
   - content: La comparabilité métrologique ne nécessite pas que les {{valeurs mesurées,2.10}}
       et les {{incertitudes de mesure,2.26}} associées soient du même ordre de grandeur.
@@ -91,4 +91,4 @@ data:
     designation: comparabilité métrologique
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 87953ca9-418c-4d9d-b9b2-f958b20f65e3
+id: 3656bf23-4667-4e51-9b64-9145af962641

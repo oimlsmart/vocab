@@ -19,6 +19,11 @@ data:
 status: valid
 id: 30e9971c-814a-5c1b-8824-e1f9b3760f82
 schema_version: '3'
+related:
+- type: compare
+  ref:
+    source: urn:jcgm:pub:200:2012
+    id: '3.7'
 ---
 data:
   dates:
