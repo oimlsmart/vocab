@@ -94,8 +94,37 @@ const conceptDates = computed(() => props.concept.dates);
 // Managed concept sources (distinct from localized sources)
 const conceptSources = computed(() => props.concept.sources);
 
+// Managed concept related (concept-level cross-references)
+const conceptRelated = computed(() => props.concept.relatedConcepts ?? []);
+
 // Managed concept tags
 const conceptTags = computed(() => props.concept.tags ?? []);
+
+function resolveRelatedRef(ref: { source: string | null; id: string | null } | null): { registerId: string; conceptId: string } | null {
+  if (!ref?.source || !ref?.id) return null;
+  const uri = `${ref.source}/${ref.id}`;
+  const resolution = factory.resolve(uri, props.registerId);
+  if (resolution.type === 'internal') {
+    const conceptId = resolution.conceptId.replace(/^\//, '');
+    return { registerId: resolution.registerId, conceptId };
+  }
+  // Try the raw source as a URI pattern (for urn:jcgm:pub:200:2012 style)
+  if (ref.source.startsWith('urn:')) {
+    const directUri = ref.source + ref.id;
+    const directRes = factory.resolve(directUri, props.registerId);
+    if (directRes.type === 'internal') {
+      return { registerId: directRes.registerId, conceptId: directRes.conceptId.replace(/^\//, '') };
+    }
+  }
+  return null;
+}
+
+async function navigateRelated(ref: { source: string | null; id: string | null }) {
+  const target = resolveRelatedRef(ref);
+  if (!target) return;
+  await store.viewConcept(target.registerId, target.conceptId);
+  router.push({ name: 'concept', params: { registerId: target.registerId, conceptId: target.conceptId } });
+}
 
 // Cross-reference resolver: generates clickable links for inline refs
 
@@ -563,7 +592,8 @@ const nonVerbalReps = computed(() => {
                   <div v-if="d.related?.length" class="mt-0.5 space-y-0.5">
                     <div v-for="(dr, dri) in d.related" :key="'dr'+dri" class="text-xs text-ink-400 flex items-center gap-1.5">
                       <span class="badge text-[9px] bg-gray-50 text-gray-600">{{ relationshipLabel(dr.type) }}</span>
-                      <span>{{ dr.content || (dr.ref ? `${dr.ref.source || ''} ${dr.ref.id || ''}`.trim() : '') }}</span>
+                      <button v-if="resolveRelatedRef(dr.ref)" @click="navigateRelated(dr.ref!)" class="concept-link">{{ dr.content || (dr.ref ? `${dr.ref.source || ''} ${dr.ref.id || ''}`.trim() : '') }}</button>
+                      <span v-else>{{ dr.content || (dr.ref ? `${dr.ref.source || ''} ${dr.ref.id || ''}`.trim() : '') }}</span>
                     </div>
                   </div>
                 </div>
@@ -682,6 +712,24 @@ const nonVerbalReps = computed(() => {
                   <span v-if="edgeDatasetBadge(edge.source)" class="badge badge-gray text-[9px] flex-shrink-0 truncate max-w-[100px]">{{ edgeDatasetBadge(edge.source)!.title }}</span>
                 </button>
               </div>
+            </div>
+          </div>
+
+          <!-- Cross-references (concept-level related) -->
+          <div v-if="conceptRelated.length" class="card p-5">
+            <div class="section-label">{{ t('concept.relations') }}</div>
+            <div class="mt-3 space-y-1">
+              <button
+                v-for="(cr, cri) in conceptRelated"
+                :key="'cr'+cri"
+                @click="navigateRelated(cr.ref!)"
+                class="text-sm concept-link block truncate w-full text-left flex items-center gap-1.5"
+              >
+                <span class="badge text-[9px] bg-gray-50 text-gray-600">{{ relationshipLabel(cr.type) }}</span>
+                <span v-if="resolveRelatedRef(cr.ref)" class="text-ink-600">{{ resolveRelatedRef(cr.ref)!.conceptId }}</span>
+                <span v-else class="text-ink-400">{{ cr.content || (cr.ref ? `${cr.ref.source || ''} ${cr.ref.id || ''}`.trim() : '') }}</span>
+                <span v-if="resolveRelatedRef(cr.ref) && resolveRelatedRef(cr.ref)!.registerId !== manifest.id" class="badge badge-gray text-[9px] flex-shrink-0">{{ resolveRelatedRef(cr.ref)!.registerId }}</span>
+              </button>
             </div>
           </div>
 
