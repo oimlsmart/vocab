@@ -1,5 +1,7 @@
 # VIML — International Vocabulary of Legal Metrology
 
+[![Deploy](https://github.com/metanorma/oiml-viml/actions/workflows/build_deploy.yml/badge.svg)](https://github.com/metanorma/oiml-viml/actions/workflows/build_deploy.yml)
+
 Online terminology browser for the **International Vocabulary of Legal Metrology** (OIML V 1:2022), deployed at [metanorma.github.io/oiml-viml](https://metanorma.github.io/oiml-viml/).
 
 Built with the [Glossarist Concept Browser](https://github.com/glossarist/concept-browser) — a statically deployable SPA for browsing terminology datasets.
@@ -114,3 +116,7 @@ The `scripts/` directory contains Ruby scripts used to generate the Glossarist v
 - `scripts/audit_viml.rb` — validates the generated dataset
 
 After updating the dataset, commit the changes to `viml-glossarist/` and push to `main` to trigger a rebuild.
+
+## License
+
+Copyright OIML. All terminology content is sourced from OIML publications.

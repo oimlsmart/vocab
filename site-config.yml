@@ -24,6 +24,7 @@ datasets:
       - "urn:oiml:pub:v:1:2022*"
     sourceRepo: https://github.com/metanorma/oiml-viml
     localPath: viml-glossarist
+    ref: "OIML V 1:2022"
     title: "VIML — International Vocabulary of Legal Metrology"
     description: "Terminology definitions from the International Vocabulary of Legal Metrology (OIML V 1:2022)"
     translations:
@@ -35,7 +36,6 @@ datasets:
     tags: [metrology, legal, oiml, vocabulary]
     languages: [eng, fra]
     languageOrder: [eng, fra]
-    ref: "OIML V 1:2022"
 
 routing: []
 

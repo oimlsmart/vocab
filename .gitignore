@@ -1,6 +1,5 @@
-node_modules
+node_modules/
 public/
 dist/
 .datasets/
-.gcr/
-site/
+package-lock.json
