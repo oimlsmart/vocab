@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '4.12'
+  localized_concepts:
+    eng: f5de6672-a9d9-4ca6-9bc3-809a28ec45d5
+    fra: 2f1888ae-4c0f-4f51-b2dc-b56682c7e01c
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 1a4c671d-1c03-45da-b006-710df4b02a8b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quotient of the change in an indication of a measuring system and the
+      corresponding change in a value of a quantity being measured
+  examples: []
+  id: 4.12-eng
+  language_code: eng
+  notes:
+  - content: The sensitivity of a measuring system can depend on the value of the
+      quantity being measured.
+  - content: The change considered in a value of a quantity being measured must be
+      large compared with the resolution. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity of a measuring system
+  - type: expression
+    normative_status: admitted
+    designation: sensitivity
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: f5de6672-a9d9-4ca6-9bc3-809a28ec45d5
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quotient de la variation d'une indication d'un système de mesure par
+      la variation correspondante de la valeur de la grandeur mesurée
+  examples: []
+  id: 4.12-fra
+  language_code: fra
+  notes:
+  - content: La sensibilité peut dépendre de la valeur de la grandeur mesurée.
+  - content: La variation de la valeur de la grandeur mesurée doit être grande par
+      rapport à la résolution. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensibilité, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2f1888ae-4c0f-4f51-b2dc-b56682c7e01c

@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '1.18'
+  localized_concepts:
+    eng: ca246929-9204-4771-8168-0ef0f8079e06
+    fra: 0caede0b-094b-413a-b202-94840dd75f5f
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 3ee7bd38-24bc-474c-9b1e-1a1a7bb838ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement unit obtained by dividing a given measurement unit by an
+      integer greater than one
+  examples:
+  - content: a) The millimetre is a decimal submultiple of the metre. b) For plane
+      angle, the second is a non-decimal submultiple of the minute. Note SI prefixes
+      for decimal submultiples of SI base units and SI derived units are given in
+      note 5 of 1.16. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  id: 1.18-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: submultiple of a unit
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: ca246929-9204-4771-8168-0ef0f8079e06
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unité de mesure obtenue en divisant une unité de mesure donnée par un
+      entier supérieur à un EXEMPLES a) Le millimètre est un sous-multiple décimal
+      du mètre. b) Pour l’angle plan, la seconde est un sous-multiple non décimal
+      de la minute. Note Les préfixes SI pour les sous-multiples décimaux des unités
+      de base et des unités dérivées du SI sont donnés à la note 5 de 1.16. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 1.18-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sous-multiple d'une unité, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0caede0b-094b-413a-b202-94840dd75f5f

@@ -1,0 +1,63 @@
+---
+data:
+  identifier: '3.3'
+  localized_concepts:
+    eng: e43896a5-52f3-44b1-8592-82adf986310f
+    fra: 3c92fd29-4f90-4615-a3ad-dab60783ff0f
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 9c7cf8eb-e79d-4ff7-b347-91d802a816d9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument providing an output signal carrying information
+      about the value of the quantity being measured
+  examples:
+  - content: a) Voltmeter, b) micrometer, c) thermometer, d) electronic balance.
+  id: 3.3-eng
+  language_code: eng
+  notes:
+  - content: An indicating measuring instrument may provide a record of its indication.
+  - content: An output signal may be presented in visual or acoustic form. It may
+      also be transmitted to one or more other devices.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating measuring instrument
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: e43896a5-52f3-44b1-8592-82adf986310f
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument de mesure qui fournit un signal de sortie porteur d'informations
+      sur la valeur de la grandeur mesurée EXEMPLES a) Voltmètre, b) micromètre à
+      vis, c) thermomètre, d) balance électronique.
+  examples: []
+  id: 3.3-fra
+  language_code: fra
+  notes:
+  - content: Un appareil de mesure indicateur peut fournir un enregistrement de son
+      indication.
+  - content: Un signal de sortie peut être présenté sous forme visuelle ou acoustique.
+      Il peut aussi être transmis à un ou plusieurs autres dispositifs.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appareil de mesure indicateur, m
+  - type: expression
+    normative_status: admitted
+    designation: appareil indicateur, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3c92fd29-4f90-4615-a3ad-dab60783ff0f

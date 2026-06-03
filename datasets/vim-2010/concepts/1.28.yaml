@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '1.28'
+  localized_concepts:
+    eng: 3e55518f-4acf-492e-b5e2-f9ee81bbdbc1
+    fra: e92b8146-9f93-4e84-a267-ac6f06679c76
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: cacf44cb-88b8-455c-9e45-ea45c6d03af2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity-value scale for ordinal quantities
+  examples:
+  - content: a) Rockwell C hardness scale. b) Scale of octane numbers for petroleum
+      fuel. Note An ordinal quantity-value scale may be established by measurements
+      according to a measurement procedure.
+  id: 1.28-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ordinal quantity-value scale
+  - type: expression
+    normative_status: admitted
+    designation: ordinal value scale
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3e55518f-4acf-492e-b5e2-f9ee81bbdbc1
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: échelle de valeurs pour grandeurs ordinales EXEMPLES a) Échelle de dureté
+      C de Rockwell. b) Échelle des indices d'octane pour les carburants. Note Une
+      échelle ordinale peut être établie par des mesurages conformément à une procédure
+      de mesure.
+  examples: []
+  id: 1.28-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle ordinale, f
+  - type: expression
+    normative_status: admitted
+    designation: échelle de repérage, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: e92b8146-9f93-4e84-a267-ac6f06679c76

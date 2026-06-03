@@ -1,0 +1,74 @@
+---
+data:
+  identifier: '1.26'
+  localized_concepts:
+    eng: bec09b5f-24cd-407b-bab4-ff7d9e8f814b
+    fra: 88361770-c985-4912-9578-9702b21d62bb
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 47dd0681-69c2-44a8-bf8c-b35f3874a720
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity, defined by a conventional measurement procedure, for which
+      a total ordering relation can be established, according to magnitude, with other
+      quantities of the same kind, but for which no algebraic operations among those
+      quantities exist
+  examples:
+  - content: a) Rockwell C hardness. b) Octane number for petroleum fuel. c) Earthquake
+      strength on the Richter scale. d) Subjective level of abdominal pain on a scale
+      from zero to five.
+  id: 1.26-eng
+  language_code: eng
+  notes:
+  - content: Ordinal quantities can enter into empirical relations only and have neither
+      measurement units nor quantity dimensions. Differences and ratios of ordinal
+      quantities have no physical meaning.
+  - content: Ordinal quantities are arranged according to ordinal quantity-value scales
+      (see 1.28).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ordinal quantity
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: bec09b5f-24cd-407b-bab4-ff7d9e8f814b
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur définie par une procédure de mesure adoptée par convention,
+      qui peut être classée avec d'autres grandeurs de même nature selon l’ordre croissant
+      ou décroissant de leurs expressions quantitatives, mais pour laquelle aucune
+      relation algébrique entre ces grandeurs n'existe EXEMPLES a) Dureté C de Rockwell.
+      b) Indice d'octane pour les carburants. c) Magnitude d'un séisme sur l'échelle
+      de Richter. d) Niveau subjectif de douleur abdominale sur une échelle de zéro
+      à cinq.
+  examples: []
+  id: 1.26-fra
+  language_code: fra
+  notes:
+  - content: Les grandeurs ordinales ne peuvent prendre part qu'à des relations empiriques
+      et n'ont ni unités de mesure, ni dimensions. Les différences et les rapports
+      de grandeurs ordinales n'ont pas de signification.
+  - content: Les grandeurs ordinales sont classées selon des échelles ordinales (voir
+      1.28).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur ordinale, f
+  - type: expression
+    normative_status: admitted
+    designation: grandeur repérable, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 88361770-c985-4912-9578-9702b21d62bb

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.9'
+  localized_concepts:
+    eng: d97c1c02-5ed5-44ca-98de-809d3c2634fa
+    fra: 007107e3-68b0-4a33-9cd4-cc52413d0d56
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 2fc4d53d-863b-485a-b61e-656a09346667
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating condition that must be fulfilled during measurement in order
+      that a measuring instrument or measuring system perform as designed Note Rated
+      operating conditions generally specify intervals of values for a quantity being
+      measured and for any influence quantity.
+  examples: []
+  id: 4.9-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating condition
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: d97c1c02-5ed5-44ca-98de-809d3c2634fa
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de fonctionnement qui doit être satisfaite pendant un mesurage
+      pour qu'un instrument de mesure ou un système de mesure fonctionne conformément
+      à sa conception Note Les conditions assignées de fonctionnement spécifient généralement
+      des intervalles de valeurs pour la grandeur mesurée et pour les grandeurs d'influence.
+  examples: []
+  id: 4.9-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition assignée de fonctionnement, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 007107e3-68b0-4a33-9cd4-cc52413d0d56

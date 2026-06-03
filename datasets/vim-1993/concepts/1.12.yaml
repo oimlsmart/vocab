@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '1.12'
+  localized_concepts:
+    eng: fbc1df0d-5a68-4a86-acac-559ccc6edc63
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: e54f8d4b-d475-4ad5-8e24-07b9c4a38fe1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Système international d'unités, SI, m système cohérent d'unités adopté
+      et recom-mandé par la Conférence générale des poids et mesures (CGPM)
+  examples: []
+  id: 1.12-eng
+  language_code: eng
+  notes:
+  - content: 'Le SI est fondé actuellement sur les sept unités de base sU1vantes:
+      Ouantity SI base unit Name Symbol length metre m mass kilogram kg time second
+      s electric current ampere A thermodynamic temperature kelvin K amount of substance
+      mole mol luminous intensity candela cd ! Grandeur Unité SI de base Nom Symbole
+      longueur mètre m masse kilogramme kg temps seconde s courant électrique ampère
+      A température thermodynamique kelvin K quantité de matière mole mol intensité
+      lumineuse candela cd'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(1.10)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: fbc1df0d-5a68-4a86-acac-559ccc6edc63

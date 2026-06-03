@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.14'
+  localized_concepts:
+    eng: fa3b493e-87ce-4eca-ace8-324a07d01181
+    fra: 991b522a-335f-46f7-98b5-a1c03a863992
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 6328b473-3a6d-4c41-9135-9422b8b28295
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest change in a quantity being measured that causes a perceptible
+      change in the corresponding indication Note The resolution can depend on, for
+      example, noise (internal or external) or friction. It may also depend on the
+      value of a quantity being measured.
+  examples: []
+  id: 4.14-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: fa3b493e-87ce-4eca-ace8-324a07d01181
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: plus petite variation de la grandeur mesurée qui produit une variation
+      perceptible de l'indication correspondante Note La résolution peut dépendre,
+      par exemple, du bruit (interne ou externe) ou du frottement. Elle peut aussi
+      dépendre de la valeur de la grandeur mesurée.
+  examples: []
+  id: 4.14-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résolution, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 991b522a-335f-46f7-98b5-a1c03a863992

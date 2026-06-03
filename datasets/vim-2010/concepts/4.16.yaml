@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '4.16'
+  localized_concepts:
+    eng: ec9e933e-a560-4bd4-9b3c-f7b8a5dbdea0
+    fra: d2bdde33-7c26-435e-9928-306f0a9a5b10
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 31483b40-5a6e-4ffc-aba1-96604e829622
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: largest change in a value of a quantity being measured that causes no
+      detectable change in the corresponding indication Note Discrimination threshold
+      may depend on, e.g., noise (internal or external) or friction. It can also depend
+      on the value of the quantity being measured and how the change is applied.
+  examples: []
+  id: 4.16-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discrimination threshold
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: ec9e933e-a560-4bd4-9b3c-f7b8a5dbdea0
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: variation la plus grande de la valeur d'une grandeur mesurée qui ne produit
+      aucune variation détectable de l'indication correspondante Note Le seuil de
+      discrimination peut dépendre, par exemple, du bruit (interne ou externe) ou
+      du frottement. Il peut aussi dépendre de la valeur de la grandeur mesurée et
+      de la manière dont la variation est appliquée.
+  examples: []
+  id: 4.16-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: seuil de discrimination, m
+  - type: expression
+    normative_status: admitted
+    designation: seuil de mobilité, m
+  - type: expression
+    normative_status: admitted
+    designation: mobilité, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: d2bdde33-7c26-435e-9928-306f0a9a5b10

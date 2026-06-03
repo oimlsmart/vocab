@@ -1,0 +1,71 @@
+---
+data:
+  identifier: '4.4'
+  localized_concepts:
+    eng: f2b46ced-829a-4e28-b7c7-1f744ec93150
+    fra: 66fed534-f08f-4e1e-84e4-7f9f8a9c0439
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 17dc3edc-bd3d-4567-8024-011d8da44572
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of quantity values, bounded by rounded or approximate extreme indications,
+      obtainable with a particular setting of the controls of a measuring instrument
+      or measuring system and used to designate that setting
+  examples:
+  - content: ", “100 V to 200 V”."
+  id: 4.4-eng
+  language_code: eng
+  notes:
+  - content: A nominal indication interval is usually stated as its smallest and greatest
+      quantity values, for
+  - content: 'In some fields the term is “nominal range”. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Chapitre 4 : Propriétés des dispositifs de mesure'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal indication interval
+  - type: expression
+    normative_status: admitted
+    designation: nominal interval
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: f2b46ced-829a-4e28-b7c7-1f744ec93150
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des valeurs comprises entre deux indications extrêmes arrondies
+      ou approximatives, que l'on obtient pour une position particulière des commandes
+      d'un instrument de mesure ou d'un système de mesure et qui sert à désigner cette
+      position
+  examples: []
+  id: 4.4-fra
+  language_code: fra
+  notes:
+  - content: Un intervalle nominal des indications est généralement exprimé en donnant
+      la plus petite et la plus grande valeur, par exemple « 100 V à 200 V ».
+  - content: Dans certains domaines, le terme anglais est « nominal range ». _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intervalle nominal des indications, m
+  - type: expression
+    normative_status: admitted
+    designation: intervalle nominal, m
+  - type: expression
+    normative_status: admitted
+    designation: calibre, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 66fed534-f08f-4e1e-84e4-7f9f8a9c0439

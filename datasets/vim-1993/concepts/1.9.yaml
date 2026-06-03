@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '1.9'
+  localized_concepts:
+    eng: 3348ffcb-0125-4828-8004-ab8316434e25
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 4d17bb7a-e50c-495a-b29f-01a83cc44e91
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: système d'unités (de mesure), m ensemble des unités de base et des unités
+      dérivées, définies suivant les règles données, pour un système de grandeurs
+      donné EXEMPLES international d'unités, SI; système d'unités CGS. international
+      d'unités, SI; système d'unités CGS.
+  examples: []
+  id: 1.9-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "( 1.08)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3348ffcb-0125-4828-8004-ab8316434e25

@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '2.24'
+  localized_concepts:
+    eng: fe75564d-78e7-464b-a322-a4b2d6e5e0c9
+    fra: 3773a61c-ba7e-4b54-935e-f13d323fbbec
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 2ef55462-d717-4586-acda-538f67390578
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition of measurement, out of a set of conditions that includes different
+      locations, operators, measuring systems, and replicate measurements on the same
+      or similar objects
+  examples: []
+  id: 2.24-eng
+  language_code: eng
+  notes:
+  - content: The different measuring systems may use different measurement procedures.
+  - content: A specification should give the conditions changed and unchanged, to
+      the extent practical. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reproducibility condition of measurement
+  - type: expression
+    normative_status: admitted
+    designation: reproducibility condition
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: fe75564d-78e7-464b-a322-a4b2d6e5e0c9
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de mesurage dans un ensemble de conditions qui comprennent
+      des lieux, des opérateurs et des systèmes de mesure différents, ainsi que des
+      mesurages répétés sur le même objet ou des objets similaires
+  examples: []
+  id: 2.24-fra
+  language_code: fra
+  notes:
+  - content: Les différents systèmes de mesure peuvent utiliser des procédures de
+      mesure différentes.
+  - content: Il convient qu’une spécification relative aux conditions contienne, dans
+      la mesure du possible, les conditions que l’on fait varier et celles qui restent
+      inchangées. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition de reproductibilité, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3773a61c-ba7e-4b54-935e-f13d323fbbec

@@ -1,0 +1,109 @@
+---
+data:
+  identifier: '1.7'
+  localized_concepts:
+    eng: 6bfeb612-1d17-4117-8ef9-1c6bf307da93
+    fra: a0aeafa2-1aa9-4f73-bc2f-73199e992d02
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 7aebf11c-4271-4b5c-9906-e10499f1008e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression of the dependence of a quantity on the base quantities of
+      a system of quantities as a product of powers of factors corresponding to the
+      base quantities, omitting any numerical factor
+  examples:
+  - content: a) In the ISQ, the quantity dimension of force is denoted by dim F =
+      LMT–2. b) c) In the same system of quantities, dim ϱB = ML–3 is the quantity
+      dimension of mass concentration of component B, and ML–3 is also the quantity
+      dimension of mass density, ϱ, (volumic mass). The period T of a pendulum of
+      length l at a place with the local acceleration of free fall g is T 2π l g
+      or T  C(g) l where C(g)  2π g Hence, dim C(g) = L–1/2T.
+  id: 1.7-eng
+  language_code: eng
+  notes:
+  - content: A power of a factor is the factor raised to an exponent. Each factor
+      is the dimension of a base quantity.
+  - content: The conventional symbolic representation of the dimension of a base quantity
+      is a single upper case letter in roman (upright) sans-serif type. The conventional
+      symbolic representation of the dimension of a derived quantity is the product
+      of powers of the dimensions of the base quantities according to the definition
+      of the derived quantity. The dimension of a quantity Q is denoted by dim Q.
+  - content: In deriving the dimension of a quantity, no account is taken of its scalar,
+      vector, or tensor character.
+  - content: In a given system of quantities, – quantities of the same kind have the
+      same quantity dimension, – quantities of different quantity dimensions are always
+      of different kinds, and – quantities having the same quantity dimension are
+      not necessarily of the same kind.
+  - content: 'Symbols representing the dimensions of the base quantities in the ISQ:
+      Symbol for dimension Base quantity length mass time electric current thermodynamic
+      temperature amount of substance luminous intensity L M T I Θ N J Thus, the dimension
+      of a quantity Q is denoted by dim Q = LαMβTγIδΘεNζJη where the exponents, named
+      dimensional exponents, are positive, negative, or zero. _________________________________________________________________________________________________________________________________________________________________________________________________________________________'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity dimension
+  - type: expression
+    normative_status: admitted
+    designation: dimension of a quantity
+  - type: expression
+    normative_status: admitted
+    designation: dimension
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6bfeb612-1d17-4117-8ef9-1c6bf307da93
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dimension d'une grandeur, f expression de la dépendance d'une grandeur
+      par rapport aux grandeurs de base d'un système de grandeurs sous la forme d'un
+      produit de puissances de facteurs correspondant aux grandeurs de base, en omettant
+      tout facteur numérique EXEMPLES a) Dans l'ISQ, la dimension de la force est
+      notée dim F = LMT–2. b) Dans le même système de grandeurs, dim ρB = ML–3 est
+      la dimension de la concentration en masse du constituant B et ML–3 est aussi
+      la dimension de la masse volumique ρ. c) La période T d'un pendule de longueur
+      l en un endroit où l'accélération locale de la pesanteur vaut g est T  2 l
+      g ou T  C(g) l où C( g )  2 g Par conséquent, dim C(g) = L–1/2T.
+  examples: []
+  id: 1.7-fra
+  language_code: fra
+  notes:
+  - content: Une puissance d'un facteur est le facteur muni d'un exposant. Chaque
+      facteur exprime la dimension d'une grandeur de base.
+  - content: Par convention, la représentation symbolique de la dimension d'une grandeur
+      de base est une lettre majuscule unique en caractère romain (droit) sans empattement.
+      Par convention, la représentation symbolique de la dimension d'une grandeur
+      dérivée est le produit de puissances des dimensions des grandeurs de base conformément
+      à la définition de la grandeur dérivée. La dimension de la grandeur Q est notée
+      dim Q.
+  - content: Pour établir la dimension d'une grandeur, on ne tient pas compte du caractère
+      scalaire, vectoriel ou tensoriel.
+  - content: Dans un système de grandeurs donné, – les grandeurs de même nature ont
+      la même dimension, – des grandeurs de dimensions différentes sont toujours de
+      nature différente, – des grandeurs ayant la même dimension ne sont pas nécessairement
+      de même nature.
+  - content: 'Dans l''ISQ, les symboles correspondant aux dimensions des grandeurs
+      de base sont: Grandeur de base longueur masse temps courant électrique température
+      thermodynamique quantité de matière intensité lumineuse Symbole de la dimension
+      L M T I Θ N J La dimension d''une grandeur Q est donc notée dim Q = LαMβTγIδΘεNεJζ
+      où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou
+      nuls. _________________________________________________________________________________________________________________________________________________________________________________________________________________________'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimension, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: a0aeafa2-1aa9-4f73-bc2f-73199e992d02

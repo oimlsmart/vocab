@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.10'
+  localized_concepts:
+    eng: d32dbd31-d238-4039-9b60-f181c1c216f7
+    fra: 0e2c6c49-a0ee-4236-b7d9-47dcc92d9e34
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 06cf071a-003c-4059-a763-de524070e0d1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument in which the output or display  1s  a  continuous  function  of  the
+      measurand or of the input signal
+  examples: []
+  id: 4.10-eng
+  language_code: eng
+  notes:
+  - content: This term relates to the form of presentation of the output or display,
+      not to the principle of operation of the instrument.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analogue measuring instrument analogue indicating instrument
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: d32dbd31-d238-4039-9b60-f181c1c216f7
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: appareil de mesure pour lequel le signal de sortie ou l'affichage est
+      une fonction continue du mesurande ou du signal d'entrée
+  examples: []
+  id: 4.10-fra
+  language_code: fra
+  notes:
+  - content: Ce terme se rattache à la forme de présentation des signaux de sortie
+      ou de l'affichage, non au principe de fonctionnement de l'instrument.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appareil de mesure (à affichage) analogique, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0e2c6c49-a0ee-4236-b7d9-47dcc92d9e34

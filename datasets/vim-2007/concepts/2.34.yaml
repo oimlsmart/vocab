@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '2.34'
+  localized_concepts:
+    eng: 6929984d-209a-4271-b5de-d7710f127536
+    fra: 8c5c02f5-6cd5-4e60-970c-add8356bfe3c
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 7dd08a67-1789-4a25-8894-82209601910a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement uncertainty specified as an upper limit and decided on the
+      basis of the intended use of measurement results
+  examples: []
+  id: 2.34-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: target measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: target uncertainty
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6929984d-209a-4271-b5de-d7710f127536
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: incertitude de mesure spécifiée comme une limite supérieure et choisie
+      d'après les usages prévus des résultats de mesure
+  examples: []
+  id: 2.34-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude cible, f
+  - type: expression
+    normative_status: admitted
+    designation: incertitude anticipée, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8c5c02f5-6cd5-4e60-970c-add8356bfe3c

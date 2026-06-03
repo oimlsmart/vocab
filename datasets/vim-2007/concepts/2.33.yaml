@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '2.33'
+  localized_concepts:
+    eng: a67112a7-b025-453b-b5e5-5d801bd21887
+    fra: 5b1a45e6-7447-40ea-9473-b478b843efb5
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 7339e03f-f053-489f-9db8-4209d72be0a5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: statement of a measurement uncertainty, of the components of that measurement
+      uncertainty, and of their calculation and combination Note An uncertainty budget
+      should include the measurement model, estimates, and measurement uncertainties
+      associated with the quantities in the measurement model, covariances, type of
+      applied probability density functions, degrees of freedom, type of evaluation
+      of measurement uncertainty, and any coverage factor.
+  examples: []
+  id: 2.33-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty budget
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: a67112a7-b025-453b-b5e5-5d801bd21887
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: formulation d'une incertitude de mesure et des composantes de cette incertitude,
+      ainsi que de leur calcul et de leur combinaison Note Un bilan d'incertitude
+      devrait comprendre le modèle de mesure, les estimations et incertitudes associées
+      aux grandeurs qui interviennent dans ce modèle, les covariances, le type des
+      fonctions de densité de probabilité utilisées, les degrés de liberté, le type
+      d'évaluation de l'incertitude, ainsi que tout facteur d'élargissement.
+  examples: []
+  id: 2.33-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilan d'incertitude, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5b1a45e6-7447-40ea-9473-b478b843efb5

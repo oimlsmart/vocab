@@ -1,0 +1,50 @@
+---
+data:
+  identifier: '2.30'
+  localized_concepts:
+    eng: a5366e0f-3c73-4ab4-be50-4f1641b57bde
+    fra: 2ef65474-6a40-45dc-a8b6-5f1b189efccb
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 54fd75d2-ad04-46ab-9ba8-eccc38696e76
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: standard uncertainty of measurement standard uncertainty measurement
+      uncertainty expressed as a standard deviation
+  examples: []
+  id: 2.30-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard measurement uncertainty
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: a5366e0f-3c73-4ab4-be50-4f1641b57bde
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: incertitude de mesure exprimée sous la forme d'un écart-type
+  examples: []
+  id: 2.30-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2ef65474-6a40-45dc-a8b6-5f1b189efccb

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '2.9'
+  localized_concepts:
+    eng: d246b514-b98d-4179-88ee-373d265108d7
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: bd5311b5-e3d9-4f70-a216-72127d609db9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur transformée (d'un mesurande), f valeur d'un signal de mesure qui
+      représente un mesurande donné
+  examples: []
+  id: 2.9-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(2.11)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: d246b514-b98d-4179-88ee-373d265108d7

@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '2.1'
+  localized_concepts:
+    eng: c19f13dc-84d1-4b10-93ec-3e70f5a8c8d4
+    fra: e6395245-f4ff-4422-91c8-b86c6f10c504
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 8ff91a1d-2ea0-4b40-a380-45793d30839e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: process of experimentally obtaining one or more quantity values that
+      can reasonably be attributed to a quantity
+  examples: []
+  id: 2.1-eng
+  language_code: eng
+  notes:
+  - content: Measurement does not apply to nominal properties.
+  - content: Measurement implies comparison of quantities, including counting of entities.
+  - content: Measurement presupposes a description of the quantity commensurate with
+      the intended use of a measurement result, a measurement procedure, and a calibrated
+      measuring system operating according to the specified measurement procedure,
+      including the measurement conditions.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: c19f13dc-84d1-4b10-93ec-3e70f5a8c8d4
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: processus consistant à obtenir expérimentalement une ou plusieurs valeurs
+      que l'on peut raisonnablement attribuer à une grandeur
+  examples: []
+  id: 2.1-fra
+  language_code: fra
+  notes:
+  - content: Les mesurages ne s'appliquent pas aux propriétés qualitatives.
+  - content: Un mesurage implique la comparaison de grandeurs, y compris le comptage
+      d'entités.
+  - content: Un mesurage suppose une description de la grandeur compatible avec l'usage
+      prévu d'un résultat de mesure, une procédure de mesure et un système de mesure
+      étalonné fonctionnant selon une procédure de mesure spécifiée, incluant les
+      conditions de mesure.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mesurage, m
+  - type: expression
+    normative_status: admitted
+    designation: mesure, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: e6395245-f4ff-4422-91c8-b86c6f10c504

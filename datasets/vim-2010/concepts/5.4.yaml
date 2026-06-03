@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '5.4'
+  localized_concepts:
+    eng: d0ec7d69-d225-4789-bcca-f4c600be16ab
+    fra: 8a169a2b-fd77-41d6-978a-1520b3253665
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 5cfc04e4-673f-4666-a26a-414995e8a676
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement standard established using a primary reference measurement
+      procedure, or created as an artifact, chosen by convention
+  examples:
+  - content: a) Primary measurement standard of amount-of-substance concentration
+      prepared by dissolving a known amount of substance of a chemical component to
+      a known volume of solution. b) Primary measurement standard for pressure based
+      on separate measurements of force and area. c) Primary measurement standard
+      for isotope amount-of-substance ratio measurements, prepared by mixing known
+      amount-of-substances of specified isotopes. d) Triple-point-of-water cell as
+      a primary measurement standard of thermodynamic temperature. e) The international
+      prototype of the kilogram as an artifact, chosen by convention.
+  id: 5.4-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: primary standard
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: d0ec7d69-d225-4789-bcca-f4c600be16ab
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon établi à l'aide d'une procédure de mesure primaire ou créé comme
+      objet choisi par convention EXEMPLES a) Étalon primaire de concentration en
+      quantité de matière préparé en dissolvant une quantité de matière connue d'une
+      substance chimique dans un volume connu de solution. b) Étalon primaire de pression
+      fondé sur des mesurages séparés de force et d'aire. c) Étalon primaire pour
+      les mesurages du rapport molaire d'isotopes, préparé en mélangeant des quantités
+      de matière connues d'isotopes spécifiés. d) Étalon primaire de température thermodynamique
+      constitué d'une cellule à point triple de l'eau. e) Le prototype international
+      du kilogramme en tant qu'objet choisi par convention.
+  examples: []
+  id: 5.4-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon primaire, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8a169a2b-fd77-41d6-978a-1520b3253665

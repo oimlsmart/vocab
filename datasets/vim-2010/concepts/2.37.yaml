@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '2.37'
+  localized_concepts:
+    eng: 2c87d086-f7d1-496f-b101-c9c86cd988f2
+    fra: c76f4c20-4b8f-4fa1-b5be-9c2f6f13ad4c
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 1bdbb7ba-75d1-4f9c-8eac-b5a667a4234b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: probability that the set of true quantity values of a measurand is contained
+      within a specified coverage interval
+  examples: []
+  id: 2.37-eng
+  language_code: eng
+  notes:
+  - content: This definition pertains to the Uncertainty Approach as presented in
+      the GUM.
+  - content: The coverage probability is also termed “level of confidence” in the
+      GUM. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage probability
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2c87d086-f7d1-496f-b101-c9c86cd988f2
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: probabilité que l'ensemble des valeurs vraies d'un mesurande soit contenu
+      dans un intervalle élargi spécifié
+  examples: []
+  id: 2.37-fra
+  language_code: fra
+  notes:
+  - content: La définition se réfère à l'approche « incertitude » présentée dans le
+      GUM.
+  - content: Il convient de ne pas confondre ce concept avec le concept statistique
+      de niveau de confiance, bien que le terme « level of confidence » soit utilisé
+      en anglais dans le GUM. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: probabilité de couverture, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: c76f4c20-4b8f-4fa1-b5be-9c2f6f13ad4c

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '1.21'
+  localized_concepts:
+    eng: c362a3cb-e787-4b48-9301-dbf9119a0b90
+    fra: afda236a-fd38-45da-b745-ada62993d16c
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: dc753087-1110-40c5-894b-b84d8ee699ea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of mathematical rules and operations applied to quantities other
+      than ordinal quantities Note In quantity calculus, quantity equations are preferred
+      to numerical value equations because quantity equations are independent of the
+      choice of measurement units, whereas numerical value equations are not (see
+      ISO 31-0:1992, subclause 2.2.2).
+  examples: []
+  id: 1.21-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity calculus
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: c362a3cb-e787-4b48-9301-dbf9119a0b90
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble de règles et opérations mathématiques appliquées aux grandeurs
+      autres que les grandeurs ordinales Note En algèbre des grandeurs, les équations
+      aux grandeurs sont préférées aux équations aux valeurs numériques car les premières,
+      contrairement aux secondes, sont indépendantes du choix des unités de mesure
+      (voir l'ISO 31-0:1992, paragraphe 2.2.2).
+  examples: []
+  id: 1.21-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: algèbre des grandeurs, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: afda236a-fd38-45da-b745-ada62993d16c

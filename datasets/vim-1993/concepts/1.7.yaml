@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '1.7'
+  localized_concepts:
+    eng: fb41bf6f-5882-42f1-82b8-85cfd2ff9ff6
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 06d47524-3917-4167-bb44-7067dafc9491
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unité (de mesure), f grandeur  particulière, définie et adoptée par convention,
+      à laquelle on compare les autres grandeurs de même nature pour les exprimer
+      quantitativement par rapport à cette grandeur
+  examples: []
+  id: 1.7-eng
+  language_code: eng
+  notes:
+  - content: Des noms et des symboles sont attribués par convention aux unités de
+      mesure. 2  Les unités de grandeurs   ont la même dimension peuvent avoir le
+      même nom et le même symbole, même si ces grandeurs ne sont pas de même nature.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(1.06)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: fb41bf6f-5882-42f1-82b8-85cfd2ff9ff6

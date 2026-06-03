@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '5.3'
+  localized_concepts:
+    eng: adc59a66-1fa5-4cf7-ae84-593e38211272
+    fra: 6b27b9bf-1bb7-4921-a66f-8452b4e1b1a8
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: ca17155c-8968-4dc4-921b-a2f79e74ca34
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement standard recognized by national authority to serve in a state
+      or economy as the basis for assigning quantity values to other measurement standards
+      for the kind of quantity concerned
+  examples: []
+  id: 5.3-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: national measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: national standard
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: adc59a66-1fa5-4cf7-ae84-593e38211272
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon reconnu par une autorité nationale pour servir, dans un État ou
+      une économie, comme base à l'attribution de valeurs à d'autres étalons de grandeurs
+      de la même nature
+  examples: []
+  id: 5.3-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon national, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6b27b9bf-1bb7-4921-a66f-8452b4e1b1a8

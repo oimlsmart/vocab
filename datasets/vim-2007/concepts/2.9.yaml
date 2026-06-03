@@ -1,0 +1,83 @@
+---
+data:
+  identifier: '2.9'
+  localized_concepts:
+    eng: 7a8a63a8-756e-4512-878a-3be5f51017cc
+    fra: e168a44f-bcf4-4523-bda1-827ffdb705d6
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: afbf3c45-0eb3-4002-bff0-811a9f829475
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of quantity values being attributed to a measurand together with
+      any other available relevant information
+  examples: []
+  id: 2.9-eng
+  language_code: eng
+  notes:
+  - content: A measurement result generally contains “relevant information” about
+      the set of quantity values, such that some may be more representative of the
+      measurand than others. This may be expressed in the form of a probability density
+      function (PDF).
+  - content: A measurement result is generally expressed as a single measured quantity
+      value and a measurement uncertainty. If the measurement uncertainty is considered
+      to be negligible for some purpose, the measurement result may be expressed as
+      a single measured quantity value. In many fields, this is the common way of
+      expressing a measurement result.
+  - content: In the traditional literature and in the previous edition of the VIM,
+      measurement result was defined as a value attributed to a measurand and explained
+      to mean an indication, or an uncorrected result, or a corrected result, according
+      to the context.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement result
+  - type: expression
+    normative_status: admitted
+    designation: result of measurement
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7a8a63a8-756e-4512-878a-3be5f51017cc
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble de valeurs attribuées à un mesurande, complété par toute autre
+      information pertinente disponible
+  examples: []
+  id: 2.9-fra
+  language_code: fra
+  notes:
+  - content: Un résultat de mesure contient généralement des informations pertinentes
+      sur l'ensemble de valeurs, certaines pouvant être plus représentatives du mesurande
+      que d'autres. Cela peut s'exprimer sous la forme d'une fonction de densité de
+      probabilité.
+  - content: Le résultat de mesure est généralement exprimé par une valeur mesurée
+      unique et une incertitude de mesure. Si l'on considère l'incertitude de mesure
+      comme négligeable dans un certain but, le résultat de mesure peut être exprimé
+      par une seule valeur mesurée. Dans de nombreux domaines, c'est la manière la
+      plus usuelle d'exprimer un résultat de mesure.
+  - content: Dans la littérature traditionnelle et dans l'édition précédente du VIM,
+      le résultat de mesure était défini comme une valeur attribuée à un mesurande
+      et pouvait se référer à une indication, un résultat brut ou un résultat corrigé,
+      selon le contexte.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résultat de mesure, m
+  - type: expression
+    normative_status: admitted
+    designation: résultat d'un mesurage, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: e168a44f-bcf4-4523-bda1-827ffdb705d6

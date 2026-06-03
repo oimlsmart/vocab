@@ -1,0 +1,44 @@
+---
+data:
+  identifier: '1.20'
+  localized_concepts:
+    eng: 9f7c48c8-7ec6-4280-9e0b-3613fa87938f
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 96c1baa6-b84d-4efc-b24a-f53d4c923c0f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'valeur conventionnellement vraie (d''une grandeur), f valeur attribuée
+      à une grandeur particulière et reconnue, parfois par convention, comme la représentant
+      avec une incertitude appropriée pour un usage donné EXEMPLES en un lieu donné,
+      la valeur attribuée à la grandeur réalisée par un étalon de référence peut être
+      prise comme étant une valeur conventionnellement vraie; valeur recommandée par
+      CODATA (1986) pour la constante d''Avogadro, NA: 6,022 136 7 x 7023 moI-1. en
+      un lieu donné, la valeur attribuée à la grandeur réalisée par un étalon de référence
+      peut être prise comme étant une valeur conventionnellement vraie; valeur recommandée
+      par CODATA (1986) pour la constante d''Avogadro, NA: 6,022 136 7 x 7023 moI-1.'
+  examples: []
+  id: 1.20-eng
+  language_code: eng
+  notes:
+  - content: La valeur conventionnellement vraie est quelquefois appelée valeur assignée,
+      meilleure estimation de la valeur, valeur convenue ou valeur de référence; le
+      terme "valeur de référence», dans ce sens, ne doit pas être confondu avec le
+      même terme utilisé dans le sens de la note de 5.7. 2  On utilise souvent un
+      grand nombre de résultats de mesures  a'une  grandeur  pour  établir  une  valeur
+      conventionnellement vraie.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(1.19)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9f7c48c8-7ec6-4280-9e0b-3613fa87938f

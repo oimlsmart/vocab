@@ -1,0 +1,77 @@
+---
+data:
+  identifier: '2.13'
+  localized_concepts:
+    eng: 835f2670-5dd6-4cb6-9a97-7886df3bfefe
+    fra: f54580ff-d782-4c5c-959c-61b3b34e1fb5
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 22635195-ca3c-4983-98e2-d80b4b95c8a8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: closeness of agreement between a measured quantity value and a true quantity
+      value of a measurand
+  examples: []
+  id: 2.13-eng
+  language_code: eng
+  notes:
+  - content: The concept ‘measurement accuracy’ is not a quantity and is not given
+      a numerical quantity value. A measurement is said to be more accurate when it
+      offers a smaller measurement error.
+  - content: The term “measurement accuracy” should not be used for measurement trueness
+      and the term measurement precision should not be used for ‘measurement accuracy’
+      which, however, is related to both concepts.
+  - content: "‘Measurement accuracy’ is sometimes understood as closeness of agreement
+      between measured quantity values that are being attributed to the measurand.
+      _________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement accuracy
+  - type: expression
+    normative_status: admitted
+    designation: accuracy of measurement
+  - type: expression
+    normative_status: admitted
+    designation: accuracy
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 835f2670-5dd6-4cb6-9a97-7886df3bfefe
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étroitesse de l'accord entre une valeur mesurée et une valeur vraie d'un
+      mesurande
+  examples: []
+  id: 2.13-fra
+  language_code: fra
+  notes:
+  - content: L'exactitude de mesure n'est pas une grandeur et ne s'exprime pas numériquement.
+      Un mesurage est quelquefois dit plus exact s'il fournit une plus petite erreur
+      de mesure.
+  - content: Il convient de ne pas utiliser le terme « exactitude de mesure » pour
+      la justesse de mesure et le terme « fidélité de mesure » pour « l'exactitude
+      de mesure ». Celle-ci est toutefois liée aux concepts de justesse et de fidélité.
+  - content: L'exactitude de mesure est quelquefois interprétée comme l'étroitesse
+      de l'accord entre les valeurs mesurées qui sont attribuées au mesurande. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exactitude de mesure, f
+  - type: expression
+    normative_status: admitted
+    designation: exactitude, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: f54580ff-d782-4c5c-959c-61b3b34e1fb5

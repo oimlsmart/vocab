@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '4.18'
+  localized_concepts:
+    eng: 2a3468ef-b984-4436-99c4-ad1ff2c1e763
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 90cd51f0-a436-4e17-a9fe-fde518ad32a7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: longueur d'échelle, f pour une échelle donnée, longueur de la ligne lissée
+      comprise entre le premier et le dernier repère et passant par les milieux de
+      tous les repères les plus petits
+  examples: []
+  id: 4.18-eng
+  language_code: eng
+  notes:
+  - content: The line may be real or imaginary, curved or straight. 2 Scale length
+      is expressed in units of length, regardiess La droite. peut être reelle ou courbe
+      ou of the units of the measurand or the units marked on the scale.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(4.20)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2a3468ef-b984-4436-99c4-ad1ff2c1e763

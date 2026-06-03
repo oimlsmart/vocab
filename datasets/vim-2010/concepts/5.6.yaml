@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '5.6'
+  localized_concepts:
+    eng: da02671a-21fe-4718-b357-553a658302b2
+    fra: 11208ddc-147b-4dc9-95e9-b422e5d25c8e
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: daec8836-813c-4a07-88df-1d59be70f2df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement standard designated for the calibration of other measurement
+      standards for quantities of a given kind in a given organization or at a given
+      location
+  examples: []
+  id: 5.6-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: reference standard
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: da02671a-21fe-4718-b357-553a658302b2
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon conçu pour l'étalonnage d'autres étalons de grandeurs de même
+      nature dans une organisation donnée ou en un lieu donné
+  examples: []
+  id: 5.6-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon de référence, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 11208ddc-147b-4dc9-95e9-b422e5d25c8e

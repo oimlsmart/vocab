@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '2.51'
+  localized_concepts:
+    eng: 11ea39de-66bd-42d0-ba8c-809da6ac7dfa
+    fra: 9bf6b2ee-0662-41ce-89f3-3f4566a8dbb3
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 4d19c987-ecc4-403d-936d-4328dc8240ed
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity, the measured value of which is calculated using the values
+      of input quantities in a measurement model
+  examples: []
+  id: 2.51-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: output quantity in a measurement model
+  - type: expression
+    normative_status: admitted
+    designation: output quantity
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 11ea39de-66bd-42d0-ba8c-809da6ac7dfa
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur dont la valeur mesurée est calculée en utilisant les valeurs
+      des grandeurs d’entrée dans un modèle de mesure
+  examples: []
+  id: 2.51-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur de sortie dans un modèle de mesure, f
+  - type: expression
+    normative_status: admitted
+    designation: grandeur de sortie, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9bf6b2ee-0662-41ce-89f3-3f4566a8dbb3

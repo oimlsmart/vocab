@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '2.7'
+  localized_concepts:
+    eng: b3d29fc7-ed77-46c4-b34b-4738ec6ac6c4
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: a4e9bf40-690c-4114-a3a2-9bcfc4d0cf83
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur d'influence, f grandeur qui n'est pas le mesurande mais qui
+      a un effet sur le résultat du mesurage EXEMPLES temperature d'un micromètre
+      lors de la mesure d'une longueur; fréquence lors de la mesure de l'amplitude
+      d'une tension électrique alternative; concentration en bilirubine lors de la
+      mesure de la concentration en hémoglobine dans un échantillon de plasma sanguin
+      humain. temperature d'un micromètre lors de la mesure d'une longueur; fréquence
+      lors de la mesure de l'amplitude d'une tension électrique alternative; concentration
+      en bilirubine lors de la mesure de la concentration en hémoglobine dans un échantillon
+      de plasma sanguin humain.
+  examples: []
+  id: 2.7-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(2.10)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: b3d29fc7-ed77-46c4-b34b-4738ec6ac6c4

@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '2.6'
+  localized_concepts:
+    eng: 54695ab5-00ae-44d7-af8c-938c4f44b20a
+    fra: 4292efd1-0628-4270-9c6d-db4ec9d8a4c5
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: d6773662-736f-4719-b833-72658026af29
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: detailed description of a measurement according to one or more measurement
+      principles and to a given measurement method, based on a measurement model and
+      including any calculation to obtain a measurement result
+  examples: []
+  id: 2.6-eng
+  language_code: eng
+  notes:
+  - content: A measurement procedure is usually documented in sufficient detail to
+      enable an operator to perform a measurement.
+  - content: A measurement procedure can include a statement concerning a target measurement
+      uncertainty.
+  - content: A measurement procedure is sometimes called a standard operating procedure,
+      abbreviated SOP.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement procedure
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 54695ab5-00ae-44d7-af8c-938c4f44b20a
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: description détaillée d'un mesurage conformément à un ou plusieurs principes
+      de mesure et à une méthode de mesure donnée, fondée sur un modèle de mesure
+      et incluant tout calcul destiné à obtenir un résultat de mesure
+  examples: []
+  id: 2.6-fra
+  language_code: fra
+  notes:
+  - content: Une procédure de mesure est habituellement documentée avec assez de détails
+      pour permettre à un opérateur d'effectuer un mesurage.
+  - content: Une procédure de mesure peut inclure une assertion concernant une incertitude
+      cible.
+  - content: Une procédure de mesure est quelquefois appelée en anglais standard operating
+      procedure, abrégé en SOP. Le terme « mode opératoire de mesure » était employé
+      en français dans la deuxième édition du VIM.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procédure de mesure, f
+  - type: expression
+    normative_status: admitted
+    designation: procédure opératoire, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4292efd1-0628-4270-9c6d-db4ec9d8a4c5

@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '5.4'
+  localized_concepts:
+    eng: cb00b0a7-6694-4966-8a59-6845bec58e55
+    fra: ce4456da-a35e-4e01-807a-c08e3d1db4c5
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 5c0d8a5a-f054-4b99-a892-0c4ad26c8737
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of values of measurands for which the error of a measuring instrument
+      is intended to lie within specified limits
+  examples: []
+  id: 5.4-eng
+  language_code: eng
+  notes:
+  - content: "\"error'' is determined in relation to a conventional true value. 2
+      See 5.2 Note."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring range working range
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: cb00b0a7-6694-4966-8a59-6845bec58e55
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des valeurs du mesurande pour les-quelles l'erreur d'un instrument
+      de mesure est supposée comprise entre des limites spécifiées
+  examples: []
+  id: 5.4-fra
+  language_code: fra
+  notes:
+  - content: L'erreur est établie par référence à une valeur conven-tionnellement
+      vraie. 2 Voir note de 5.2. 5.5 conditions assignées de fonctionnement, f conditions
+      d'utilisation pour lesquelles les carac-téristiques métrologiques spécifiées
+      d'un instru-ment de mesure  sont supposées  comprises entre des limites données
+  - content: Les conditions assignées de fonctionnement spéci-fient généralement des
+      valeurs assignées pour le mesurande et pour les grandeurs d'influence.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étendue de mesure, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: ce4456da-a35e-4e01-807a-c08e3d1db4c5

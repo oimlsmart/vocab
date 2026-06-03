@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '5.1'
+  localized_concepts:
+    eng: cd40b205-0a9e-4edc-9a92-24e88d082cea
+    fra: e6e46e00-8664-4b5b-9ac8-88bf897f5b9e
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 55c22256-e5c4-4abb-acfc-fb83d4e3461e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range of indications obtainable with a particular setting  of  the  contrais  of  a  measuring
+      instrument
+  examples: []
+  id: 5.1-eng
+  language_code: eng
+  notes:
+  - content: 'Nominal range is normally stated in terms of its lower and upper  limits,
+      for  example,  "100 °C  to  200 °C". Where the lower lirnit is zero, the nominal
+      range is commonly stated solely in terms of its upper iimit: for example a nominai
+      range of O V to 100 V is expressed as "100 V". 2 See 5.2 Note.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal range
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: cd40b205-0a9e-4edc-9a92-24e88d082cea
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étendue d'échelle que l'on obtient pour une position donnée des commandes
+      d'un instru-ment de mesure
+  examples: []
+  id: 5.1-fra
+  language_code: fra
+  notes:
+  - content: Le calibre est normalement exprimé par ses limites inférieure et supérieure,
+      par exemple, « 100 °C à 200 °C". Lorsque la limite inféneure est zéro, le calibre
+      est habituellement exprimé par la seule limite supé-rieure, par exemple un calibre
+      de 0 V à 100 V est appelé « calibre de 100 V». 2 Voir note de 5.2.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibre, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: e6e46e00-8664-4b5b-9ac8-88bf897f5b9e

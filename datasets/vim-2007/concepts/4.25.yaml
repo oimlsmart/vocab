@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '4.25'
+  localized_concepts:
+    eng: 48466c30-dc8b-404f-9c68-7316c394f9c0
+    fra: d0979b6a-7bbf-4e06-8284-32b291282413
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 276ce6fd-ade6-4e4f-be54-8cfa4b7a650f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class of measuring instruments or measuring systems that meet stated
+      metrological requirements that are intended to keep measurement errors or instrumental
+      uncertainties within specified limits under specified operating conditions
+  examples: []
+  id: 4.25-eng
+  language_code: eng
+  notes:
+  - content: An accuracy class is usually denoted by a number or symbol adopted by
+      convention.
+  - content: Accuracy class applies to material measures.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 48466c30-dc8b-404f-9c68-7316c394f9c0
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: classe d'instruments de mesure ou de systèmes de mesure qui satisfont
+      à certaines exigences métrologiques destinées à maintenir les erreurs de mesure
+      ou les incertitudes instrumentales entre des limites spécifiées dans des conditions
+      de fonctionnement spécifiées
+  examples: []
+  id: 4.25-fra
+  language_code: fra
+  notes:
+  - content: Une classe d'exactitude est habituellement indiquée par un nombre ou
+      un symbole adopté par convention.
+  - content: Le concept de clase d'exactitude s'applique aux mesures matérialisées.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: classe d'exactitude, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: d0979b6a-7bbf-4e06-8284-32b291282413

@@ -1,0 +1,37 @@
+---
+data:
+  identifier: '2.3'
+  localized_concepts:
+    eng: 73b428a0-caf8-4e8c-8385-91d52dd10ea7
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 7a5e0073-dac3-46fe-939c-50830ffb2a36
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'principe de mesure, m base scientifique d''un mesurage EXEMPLES l''effet
+      thermoélectrique utilisé pour le mesurage de la température: l''effet Josephson
+      utilisé pour le mesurage de la tension électrique; l''effet Doppler utilise
+      pour le mesurage de la vitesse; l''effet Raman utilisé pour le mesurage du nombre
+      d''onde des vibrations moléculaires. l''effet thermoélectrique utilisé pour
+      le mesurage de la température: l''effet Josephson utilisé pour le mesurage de
+      la tension électrique; l''effet Doppler utilise pour le mesurage de la vitesse;
+      l''effet Raman utilisé pour le mesurage du nombre d''onde des vibrations moléculaires.'
+  examples: []
+  id: 2.3-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(2.05)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 73b428a0-caf8-4e8c-8385-91d52dd10ea7

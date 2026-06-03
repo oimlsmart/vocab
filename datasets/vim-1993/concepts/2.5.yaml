@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.5'
+  localized_concepts:
+    eng: 246ba769-a454-45f5-ac20-ae2de2ada0b3
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 881c8149-a82d-40ff-a62c-dca12957ddef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mode opératoire (de mesure), m ensemble  des  opérations,  décrites  d'une
+      manière spécifique, mises en œuvre lors de l'exécution de mesurages particuliers
+      selon une méthode donnée
+  examples: []
+  id: 2.5-eng
+  language_code: eng
+  notes:
+  - content: Le mode opératoire est habituellement décrit dans un document qui est
+      quelquefois appelé lui-même «mode opératoire» et qui donne assez de détails
+      pour qu'un opérateur puisse effectuer un mesu-rage sans avoir besoin d'autres
+      informations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(2.07)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 246ba769-a454-45f5-ac20-ae2de2ada0b3

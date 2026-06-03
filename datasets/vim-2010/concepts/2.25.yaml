@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '2.25'
+  localized_concepts:
+    eng: '09e3fb0d-3e04-475f-af38-00b4fb4318eb'
+    fra: 94c6a535-f232-4267-ab2e-e67d70b7fb29
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 1daa1bc3-cad6-401a-8fe1-280a191b8c2a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement precision under reproducibility conditions of measurement
+      Note Relevant statistical terms are given in ISO 5725-1:1994 and ISO 5725-2:1994.
+  examples: []
+  id: 2.25-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement reproducibility
+  - type: expression
+    normative_status: admitted
+    designation: reproducibility
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: '09e3fb0d-3e04-475f-af38-00b4fb4318eb'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fidélité de mesure selon un ensemble de conditions de reproductibilité
+      Note Des termes statistiques pertinents sont donnés dans l'ISO 5725-1:1994 et
+      l'ISO 5725-2:1994.
+  examples: []
+  id: 2.25-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reproductibilité de mesure, f
+  - type: expression
+    normative_status: admitted
+    designation: reproductibilité, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 94c6a535-f232-4267-ab2e-e67d70b7fb29

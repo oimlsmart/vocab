@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '1.4'
+  localized_concepts:
+    eng: bd55b707-3b7e-45d0-ab1e-a87203f2db61
+    fra: fea1c379-5f4a-43e1-91a2-5c0d69ba2c76
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: a7c02b5a-9b88-46fb-acf5-c60fd0845eea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity in a conventionally chosen subset of a given system of quantities,
+      where no subset quantity can be expressed in terms of the others
+  examples:
+  - content: The set of base quantities in the International System of Quantities
+      (ISQ) is given in 1.6.
+  id: 1.4-eng
+  language_code: eng
+  notes:
+  - content: The subset mentioned in the definition is termed the “set of base quantities”.
+  - content: Base quantities are referred to as being mutually independent since a
+      base quantity cannot be expressed as a product of powers of the other base quantities.
+  - content: "'Number of entities' can be regarded as a base quantity in any system
+      of quantities. _________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base quantity
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: bd55b707-3b7e-45d0-ab1e-a87203f2db61
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur d'un sous-ensemble choisi par convention dans un système de
+      grandeurs donné de façon à ce qu’aucune grandeur du sous-ensemble ne puisse
+      être exprimée en fonction des autres
+  examples: []
+  id: 1.4-fra
+  language_code: fra
+  notes:
+  - content: Le sous-ensemble mentionné dans la définition est appelé l'ensemble des
+      grandeurs de base. EXEMPLE L'ensemble des grandeurs de base du Système international
+      de grandeurs (ISQ) est donné en 1.6.
+  - content: Les grandeurs de base sont considérées comme mutuellement indépendantes
+      puisqu’une grandeur de base ne peut être exprimée par un produit de puissances
+      des autres grandeurs de base.
+  - content: On peut considérer la grandeur « nombre d'entités » comme une grandeur
+      de base dans tout système de grandeurs. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur de base, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: fea1c379-5f4a-43e1-91a2-5c0d69ba2c76

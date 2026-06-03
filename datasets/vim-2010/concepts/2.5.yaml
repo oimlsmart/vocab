@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '2.5'
+  localized_concepts:
+    eng: a277aebe-62c4-40e2-9f3c-99f6c5ba3d37
+    fra: 44ea1964-1fc1-4ace-af24-f4c337dc38b4
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 2445989b-2ec4-4493-bfe8-879367beac3e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'generic description of a logical organization of operations used in
+      a measurement Note Measurement methods may be qualified in various ways such
+      as:  substitution measurement method,  differential measurement method, and
+       null measurement method; or  direct measurement method, and  indirect measurement
+      method. See IEC 60050-300:2001.'
+  examples: []
+  id: 2.5-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement method
+  - type: expression
+    normative_status: admitted
+    designation: method of measurement
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: a277aebe-62c4-40e2-9f3c-99f6c5ba3d37
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'description générique de l''organisation logique des opérations mises
+      en œuvre dans un mesurage Note Les méthodes de mesure peuvent être qualifiées
+      de diverses façons telles que:  méthode de mesure par substitution,  méthode
+      de mesure différentielle,  méthode de mesure par zéro ; ou  méthode de mesure
+      directe,  méthode de mesure indirecte. Voir la CEI 60050-300:2001.'
+  examples: []
+  id: 2.5-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: méthode de mesure, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 44ea1964-1fc1-4ace-af24-f4c337dc38b4

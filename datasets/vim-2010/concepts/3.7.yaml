@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '3.7'
+  localized_concepts:
+    eng: 27d8e869-eca4-47f4-82dc-6661f25b8a7c
+    fra: 2e94b4c1-8500-4236-9c67-cbaec97f2e32
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 6e7b749b-2e88-44bd-a1b6-a8feee939d7a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device, used in measurement, that provides an output quantity having
+      a specified relation to the input quantity
+  examples:
+  - content: a) Thermocouple, b) electric current transformer, c) strain gauge, d)
+      pH electrode, e) Bourdon tube, f) bimetallic strip. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  id: 3.7-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring transducer
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 27d8e869-eca4-47f4-82dc-6661f25b8a7c
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif, employé en mesurage, qui fait correspondre à une grandeur
+      d'entrée une grandeur de sortie selon une loi déterminée EXEMPLES a) Thermocouple,
+      b) transformateur de courant électrique, c) jauge de contrainte, d) électrode
+      de pH, e) tube de Bourdon, f) bilame. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 3.7-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transducteur de mesure, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2e94b4c1-8500-4236-9c67-cbaec97f2e32

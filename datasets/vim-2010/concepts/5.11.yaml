@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '5.11'
+  localized_concepts:
+    eng: bb2d2e6d-f4a7-4d49-a9f9-4fd120cfbb09
+    fra: efed56bf-0089-4c84-bb3e-26739439bd90
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 11d2ce21-0b71-44a0-b105-895d46760e1e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maintenance of a measurement standard set of operations necessary to
+      preserve the metrological properties of a measurement standard within stated
+      limits Note Conservation commonly includes periodic verification of predefined
+      metrological properties or calibration, storage under suitable conditions, and
+      specified care in use. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 5.11-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conservation of a measurement standard
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: bb2d2e6d-f4a7-4d49-a9f9-4fd120cfbb09
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maintenance d'un étalon, f ensemble des opérations nécessaires à la préservation
+      des propriétés métrologiques d'un étalon dans des limites déterminées Note La
+      conservation comprend habituellement une vérification périodique de propriétés
+      métrologiques choisies ou un étalonnage, un stockage dans des conditions appropriées
+      et des précautions particulières lors de l'utilisation. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 5.11-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conservation d'un étalon, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: efed56bf-0089-4c84-bb3e-26739439bd90

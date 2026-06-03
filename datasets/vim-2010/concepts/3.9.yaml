@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '3.9'
+  localized_concepts:
+    eng: 312657b7-3c9c-40c1-827a-355ab6b8467e
+    fra: 19d340ee-01b2-4f9c-b91a-cc6f02232230
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: e4f1c2f9-966a-468b-9d5e-1a063a9b339c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device or substance that indicates the presence of a phenomenon, body,
+      or substance when a threshold value of an associated quantity is exceeded
+  examples:
+  - content: a) Halogen leak detector, b) litmus paper.
+  id: 3.9-eng
+  language_code: eng
+  notes:
+  - content: In some fields the term “detector” is used for the concept of sensor.
+  - content: In chemistry the term “indicator” is frequently used for this concept.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detector
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 312657b7-3c9c-40c1-827a-355ab6b8467e
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif ou substance qui indique la présence d'un phénomène, d'un
+      corps ou d'une substance lorsqu'une valeur de seuil d'une grandeur associée
+      est dépassée EXEMPLES a) Détecteur de fuite à halogène, b) papier au tournesol.
+  examples: []
+  id: 3.9-fra
+  language_code: fra
+  notes:
+  - content: Dans certains domaines, le terme « détecteur » est employé pour le concept
+      de capteur.
+  - content: En chimie, le terme « indicateur » est souvent employé pour ce concept.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: détecteur, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 19d340ee-01b2-4f9c-b91a-cc6f02232230

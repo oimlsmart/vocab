@@ -1,0 +1,54 @@
+---
+data:
+  identifier: '4.17'
+  localized_concepts:
+    eng: dd047241-3434-49ff-9007-e7f8887194aa
+    fra: 92fd622d-30ce-4fe0-939e-a4a910852f2e
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 28cbb39b-c115-4d5a-8867-971aa59cab50
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum interval through which a value of a quantity being measured can
+      be changed in both directions without producing a detectable change in the corresponding
+      indication Note The dead band can depend on the rate of change.
+  examples: []
+  id: 4.17-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dead band
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: dd047241-3434-49ff-9007-e7f8887194aa
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intervalle maximal à l'intérieur duquel on peut faire varier la valeur
+      de la grandeur mesurée dans les deux sens sans provoquer de variation détectable
+      de l'indication correspondante Note La zone morte peut dépendre de la vitesse
+      de la variation.
+  examples: []
+  id: 4.17-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zone morte, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 92fd622d-30ce-4fe0-939e-a4a910852f2e

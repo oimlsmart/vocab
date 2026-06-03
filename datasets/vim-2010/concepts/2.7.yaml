@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '2.7'
+  localized_concepts:
+    eng: 9ae8e72c-c6be-49da-a049-9ca3501c907e
+    fra: 597b51e7-8f8e-4a9b-a716-dc15ffdd2030
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 69ec1fbc-b45c-4ceb-ad00-5bd643f18709
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement procedure accepted as providing measurement results fit for
+      their intended use in assessing measurement trueness of measured quantity values
+      obtained from other measurement procedures for quantities of the same kind,
+      in calibration, or in characterizing reference materials. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 2.7-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference measurement procedure
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9ae8e72c-c6be-49da-a049-9ca3501c907e
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: procédure opératoire de référence, f procédure de mesure considérée comme
+      fournissant des résultats de mesure adaptés à leur usage prévu pour l'évaluation
+      de la justesse de valeurs mesurées obtenues à partir d'autres procédures de
+      mesure pour des grandeurs de la même nature, pour un étalonnage ou pour la caractérisation
+      de matériaux de référence. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 2.7-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procédure de mesure de référence, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 597b51e7-8f8e-4a9b-a716-dc15ffdd2030

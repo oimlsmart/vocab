@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '5.17'
+  localized_concepts:
+    eng: 05366dd4-0304-4365-a584-3a96af9f639a
+    fra: 1feabf29-eb14-48a9-90ed-1b1afd7d3361
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 29b9226a-552f-4c15-b848-c109e01e2059
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reference data issued by a recognized authority
+  examples:
+  - content: a) Values of the fundamental physical constants, as regularly evaluated
+      and published by ICSU CODATA. b) Relative atomic mass values, also called atomic
+      weight values, of the elements, as evaluated every two years by IUPAC-CIAAW
+      at the IUPAC General Assembly and published in Pure Appl. Chem. or in J. Phys.
+      Chem. Ref. Data.
+  id: 5.17-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard reference data
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 05366dd4-0304-4365-a584-3a96af9f639a
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: donnée de référence provenant d'une autorité reconnue EXEMPLES a) Valeurs
+      des constantes physiques fondamentales, évaluées et publiées régulièrement par
+      ICSU CODATA. b) Valeurs des masses atomiques relatives des éléments, appelées
+      aussi valeurs des poids atomiques, évaluées tous les deux ans par l'IUPAC-CIAAW
+      à l’Assemblée générale de l’IUPAC et publiées dans Pure Appl. Chem. ou dans
+      J. Phys. Chem. Ref. Data.
+  examples: []
+  id: 5.17-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: donnée de référence normalisée, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1feabf29-eb14-48a9-90ed-1b1afd7d3361

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '2.21'
+  localized_concepts:
+    eng: 23f99a0d-8db8-4d0f-9f20-c9605af2c202
+    fra: f1aeee71-29ef-4793-8918-7df7ac2b8233
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 212cd466-529a-45c0-bd02-09d404a3d28c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement precision under a set of repeatability conditions of measurement
+  examples: []
+  id: 2.21-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement repeatability
+  - type: expression
+    normative_status: admitted
+    designation: repeatability
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 23f99a0d-8db8-4d0f-9f20-c9605af2c202
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fidélité de mesure selon un ensemble de conditions de répétabilité
+  examples: []
+  id: 2.21-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: répétabilité de mesure, f
+  - type: expression
+    normative_status: admitted
+    designation: répétabilité, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: f1aeee71-29ef-4793-8918-7df7ac2b8233

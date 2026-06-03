@@ -1,0 +1,96 @@
+---
+data:
+  identifier: '1.16'
+  localized_concepts:
+    eng: 9ae1628a-c435-4da8-baa6-3265aa0ffc25
+    fra: c03bdc04-f166-4943-83e2-f899797d98f6
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: eab70faf-9a61-44db-b6cb-ef42af41b403
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system of units based on the International System of Quantities, their
+      names and symbols, including a series of prefixes and their names and symbols,
+      together with rules for their use, adopted by the General Conference on Weights
+      and Measures (CGPM)
+  examples: []
+  id: 1.16-eng
+  language_code: eng
+  notes:
+  - content: The SI is founded on the seven base quantities of the ISQ and the names
+      and symbols of the corresponding base units that are contained in the following
+      table. Base quantity Name length mass time electric current thermodynamic temperature
+      amount of substance luminous intensity Base unit Name Symbol metre m kilogram
+      kg second s ampere A kelvin K mole mol candela cd
+  - content: The base units and the coherent derived units of the SI form a coherent
+      set, designated the “set of coherent SI units”.
+  - content: For a full description and explanation of the International System of
+      Units, see the current edition of the SI brochure published by the Bureau International
+      des Poids et Mesures (BIPM) and available on the BIPM web site.
+  - content: In quantity calculus, the quantity ‘number of entities’ is often considered
+      to be a base quantity, with the base unit one, symbol 1.
+  - content: 'The SI prefixes for multiples of units and submultiples of units are:
+      Factor Prefix Name yotta zetta exa peta tera giga mega kilo hecto deca Symbol
+      Y Z E P T G M k h da 10–1 10–2 10–3 10–6 10–9 10–12 10–15 10–18 10–21 10–24
+      deci centi milli micro nano pico femto atto zepto yocto d c m μ n p f a z y
+      _________________________________________________________________________________________________________________________________________________________________________________________________________________________'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International System of Units
+  - type: expression
+    normative_status: admitted
+    designation: SI
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9ae1628a-c435-4da8-baa6-3265aa0ffc25
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: système d'unités fondé sur le Système international de grandeurs, comportant
+      les noms et symboles des unités, une série de préfixes avec leurs noms et symboles,
+      ainsi que des règles pour leur emploi, adopté par la Conférence générale des
+      poids et mesures (CGPM)
+  examples: []
+  id: 1.16-fra
+  language_code: fra
+  notes:
+  - content: Le SI est fondé sur les sept grandeurs de base de l’ISQ. Les noms et
+      les symboles des unités de base sont donnés dans le tableau suivant. Grandeur
+      de base Nom longueur masse temps courant électrique température thermodynamique
+      quantité de matière intensité lumineuse Unité de base Nom Symbole mètre m kilogramme
+      kg seconde s ampère A kelvin K mole mol candela cd
+  - content: Les unités de base et les unités dérivées cohérentes du SI forment un
+      ensemble cohérent, appelé « ensemble des unités SI cohérentes ».
+  - content: Pour une description et une explication complètes du Système international
+      d’unités, voir la dernière édition de la brochure du SI publiée par le Bureau
+      international des poids et mesures (BIPM) et disponible sur le site internet
+      du BIPM.
+  - content: En algèbre des grandeurs, la grandeur « nombre d’entités » est souvent
+      considérée comme une grandeur de base, avec l’unité de base un, symbole 1.
+  - content: 'Les préfixes SI pour les multiples et sous-multiples des unités sont
+      : Facteur Nom yotta zetta exa péta téra giga méga kilo hecto déca 10–1 10–2
+      10–3 10–6 10–9 10–12 10–15 10–18 10–21 10–24 déci centi milli micro nano pico
+      femto atto zepto yocto Préfixe Symbole Y Z E P T G M k h da d c m μ n p f a
+      z y _________________________________________________________________________________________________________________________________________________________________________________________________________________________'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Système international d'unités, m
+  - type: expression
+    normative_status: admitted
+    designation: SI, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: c03bdc04-f166-4943-83e2-f899797d98f6

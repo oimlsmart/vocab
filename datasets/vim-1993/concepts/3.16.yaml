@@ -1,0 +1,39 @@
+---
+data:
+  identifier: '3.16'
+  localized_concepts:
+    eng: 71a633c4-aefa-44a3-b064-a56123019205
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: e906cdb1-16be-4973-8e54-1ec88953e4de
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facteur de correction, m facteur numérique par lequel on multiplie le
+      résultat brut d'un mesurage pour compenser une erreur systématique
+  examples: []
+  id: 3.16-eng
+  language_code: eng
+  notes:
+  - content: Puisque l'erreur systématique ne peut pas être connue parfaitement, la
+      compensation ne peut pas être complète. Many different terms are employed to
+      describe the artefacts which are used in measurement. This  Vocabulary  defines  only  a  selection  of
+      preferred  terms;  the  following  list  is  more complete and is arranged in
+      an approximate order of increasing complexity. These terms are not mutually
+      exclusive. element component part measuring transducer measuring device reference
+      material material measure measuring instrument apparatus equipment measuring
+      chain measuring system measuring installation
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(3.15)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 71a633c4-aefa-44a3-b064-a56123019205

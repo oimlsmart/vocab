@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.21'
+  localized_concepts:
+    eng: 230b7e20-b6a5-4fef-a939-dea5083ff489
+    fra: e0927cd2-014c-4502-8de8-1db5df9c1b5d
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 461d7dcc-5b47-40ee-85fa-1509db0cd214
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: continuous or incremental change over time in indication, due to changes
+      in metrological properties of a measuring instrument. Note Instrumental drift
+      is related neither to a change in a quantity being measured nor to a change
+      of any recognized influence quantity. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 4.21-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrumental drift
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 230b7e20-b6a5-4fef-a939-dea5083ff489
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: variation continue ou incrémentale dans le temps d'une indication, due
+      à des variations des propriétés métrologiques d'un instrument de mesure Note
+      La dérive instrumentale n'est liée ni à une variation de la grandeur mesurée,
+      ni à une variation d'une grandeur d'influence identifiée. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 4.21-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dérive instrumentale, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: e0927cd2-014c-4502-8de8-1db5df9c1b5d

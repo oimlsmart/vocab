@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '4.17'
+  localized_concepts:
+    eng: c58c89a5-bcf9-470c-b830-271133909a71
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 06b6ffdf-013b-4058-ad0c-ff5c2adf55a7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: échelle (d'un appareil de mesure), f ensemble ordonné de repères avec
+      toute chif-fraison associée, formant partie d'un dispositif indicateur d'un
+      appareil de mesure
+  examples: []
+  id: 4.17-eng
+  language_code: eng
+  notes:
+  - content: "(Applicable uniquement au texte"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(4.19}"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: c58c89a5-bcf9-470c-b830-271133909a71

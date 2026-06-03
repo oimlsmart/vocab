@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '1.15'
+  localized_concepts:
+    eng: f3d8d548-0036-434b-bce9-ea7ffcf0a77f
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 684abd86-d2c1-4fe9-8fe5-264cfae2d36a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'unité (de mesure) hors système, f unité de mesure qui n''appartient
+      pas à un système d''unités donné EXEMPLES l''électronvoit (environ 1,602 18
+      x 10-19 J) est une unité  nors systeme pour le SI: le Jour, l''heure, la minute
+      sont des unités de temps hors     pour ie SI l''électronvoit (environ 1,602
+      18 x 10-19 J) est une unité  nors systeme pour le SI: le Jour, l''heure, la
+      minute sont des unités de temps hors     pour ie SI'
+  examples: []
+  id: 1.15-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "( 1.14)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f3d8d548-0036-434b-bce9-ea7ffcf0a77f

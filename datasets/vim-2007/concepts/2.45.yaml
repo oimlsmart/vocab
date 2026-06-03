@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '2.45'
+  localized_concepts:
+    eng: ec832e66-6a2d-4bb1-a58c-7526ece04d93
+    fra: 3b4f5d4e-cd8a-4730-8d58-48431e79207b
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 03db6e8f-4106-4353-8b56-39bb418c15e0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: verification, where the specified requirements are adequate for an intended
+      use
+  examples:
+  - content: A measurement procedure, ordinarily used for the measurement of mass
+      concentration of nitrogen in water, may be validated also for measurement in
+      human serum.
+  id: 2.45-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: validation
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: ec832e66-6a2d-4bb1-a58c-7526ece04d93
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vérification que des exigences spécifiées sont adéquates pour un usage
+      déterminé EXEMPLE Une procédure de mesure, habituellement utilisée pour le mesurage
+      de la concentration en masse d'azote dans l'eau, peut aussi être validée pour
+      le mesurage dans le sérum humain.
+  examples: []
+  id: 2.45-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: validation, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3b4f5d4e-cd8a-4730-8d58-48431e79207b

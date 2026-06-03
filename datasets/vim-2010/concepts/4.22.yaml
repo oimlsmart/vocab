@@ -1,0 +1,53 @@
+---
+data:
+  identifier: '4.22'
+  localized_concepts:
+    eng: af5d351f-2cfa-40d1-ad0d-9ee3afd48ebb
+    fra: 4867709c-dc5b-4b4a-b63c-be77544bf81c
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 96e7f17d-bb3a-4079-a8f4-c6980fedf536
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference in indication for a given measured quantity value, or in quantity
+      values supplied by a material measure, when an influence quantity assumes successively
+      two different quantity values
+  examples: []
+  id: 4.22-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variation due to an influence quantity
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: af5d351f-2cfa-40d1-ad0d-9ee3afd48ebb
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: différence entre les indications qui correspondent à une même valeur
+      mesurée, ou entre les valeurs fournies par une mesure matérialisée, lorsqu’une
+      grandeur d’influence prend successivement deux valeurs différentes
+  examples: []
+  id: 4.22-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variation due à une grandeur d’influence, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4867709c-dc5b-4b4a-b63c-be77544bf81c

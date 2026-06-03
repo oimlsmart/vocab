@@ -1,0 +1,86 @@
+---
+data:
+  identifier: '3.7'
+  localized_concepts:
+    eng: d2a29b70-79d8-41ea-962c-6494e967b707
+    fra: 6ef82aea-887f-4f1d-a772-03af96732e46
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 28b8d4bd-1dcf-4b30-983b-7c05bb6a892b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: closeness of the agreement between the results of  measurements  of  the  same  measurand
+      carried out under changed conditions of measure-ment
+  examples: []
+  id: 3.7-eng
+  language_code: eng
+  notes:
+  - content: A valid statement of reproducibility requ1res specifi-cation of the conditions
+      changed. The changed conditions may include principle of measurement method
+      of measurement observermeasuring instrument reference standard locationconditions
+      of use time. Reproducibility may be expressed quantitatively in terms of the
+      dispersion characteristics of the results. Results are here usually understood
+      ta be corrected results. The changed conditions may include principle of measurement
+      method of measurement observer measuring instrument reference standard location
+      conditions of use time. Reproducibility may be expressed quantitatively in terms
+      of the dispersion characteristics of the results. Results are here usually understood
+      ta be corrected results.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reproducibility (of results of measurements)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: d2a29b70-79d8-41ea-962c-6494e967b707
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étroitesse de l'accord entre les résultats des me-surages du même mesurande,
+      mesurages effec-tués en faisant varier les conditions de mesure
+  examples: []
+  id: 3.7-fra
+  language_code: fra
+  notes:
+  - content: 'Pour qu''une expression de la reproductibilité soit valable, il est
+      nécessaire de spécifier les conditions que l''on fait varier. Les conditions
+      que l''on fait varier peuvent comprendre:principe de mesureméthode de mesureobservateurinstrument
+      de mesureétalon de référencelieuconditions d''utilisationtemps. principe de
+      mesure méthode de mesure observateur instrument de mesure étalon de référence
+      lieu conditions d''utilisation temps. La reproductibilite peut s''exprimer quantitativement
+      àl''aide des caractéristiques de dispersion des résultats. Les résultats considérés
+      1c1 sont habituellement les résultats corrigés. Les conditions que l''on fait
+      varier peuvent comprendre: principe de mesure méthode de mesure observateur
+      instrument de mesure étalon de référence lieu conditions d''utilisation temps.
+      La reproductibilite peut s''exprimer quantitativement à l''aide des caractéristiques
+      de dispersion des résultats. Les résultats considérés 1c1 sont habituellement
+      les résultats corrigés. 3.8 experimental standard deviation i= 1 n-1 for a series
+      of Il  measurements of the same measurand,  the quantity s  characterizing the
+      dispersion  of  the results and given by the formula: ,,,·-- xi being the result  of  the
+      ith  measurement and .r being the arithmetic mean of the n results considered'
+  - content: Considering the series of 11 values as a sample of a distribution, .r
+      is an unbiased estimate of the mean p, and s2 is an unbiased estimate of the
+      variance a2, of that distribution. The expression .11.[;; is an estimate of
+      the standard deviation of the distribution of .r and is called the experimental
+      standard deviation of the mean. "Experimental standard dev1ation of the mean"
+      is sometImes incorrectly called standard error of the mean. The expression .11.[;;
+      is an estimate of the standard deviation of the distribution of .r and is called
+      the experimental standard deviation of the mean. "Experimental standard dev1ation
+      of the mean" is sometImes incorrectly called standard error of the mean.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reproductibilité (des résultats de mesurage), f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6ef82aea-887f-4f1d-a772-03af96732e46

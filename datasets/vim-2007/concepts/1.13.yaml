@@ -1,0 +1,53 @@
+---
+data:
+  identifier: '1.13'
+  localized_concepts:
+    eng: 331aeb03-f33c-4d09-b06b-290da7dce027
+    fra: fa15da32-718e-45fa-ae49-036e28d8f1b1
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 66686c7e-a3f3-4500-9227-dabae10747fe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of base units and derived units, together with their multiples and
+      submultiples, defined in accordance with given rules, for a given system of
+      quantities
+  examples: []
+  id: 1.13-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: system of units
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 331aeb03-f33c-4d09-b06b-290da7dce027
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble d'unités de base et d'unités dérivées, de leurs multiples et
+      sous-multiples, définis conformément à des règles données, pour un système de
+      grandeurs donné
+  examples: []
+  id: 1.13-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système d'unités, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: fa15da32-718e-45fa-ae49-036e28d8f1b1
