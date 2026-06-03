@@ -1,0 +1,50 @@
+---
+data:
+  identifier: '9.3'
+  localized_concepts:
+    fra: 5dcdb8ec-34cc-5198-ad73-f716d19b7bdc
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: f4809b3f-0054-5a66-9c7b-e27cae641702
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: DE LECTURE D,UN INSTRUMENT DE MESURAGEQualité d'un instrumenL de mesurage
+      dont le dispositif indicateur est réalisé de telle sorte qu'il permet de connaître
+      l'indication sans ambiguïté.SENSIBILITÉ D,UN INSTRUMENT DE MESURAGELa sensibilité
+      d'un instrument de mesurage, pour une valeur donnée de la grandeur mesurée,
+      s'exprime par le quotient de l'accroissement de la variable observée par l'ac-croissement
+      correspondant de la grandeur mesurée ;dlk = dGRemarques:Dans les Instruments
+      les plus courants, où l'accroissement de la variable observée se traduit pnr
+      le dépla-cement relatif d'un index cl d'uno échelle, la sensibllllé s'e-xprime
+      conventionnellcmenl par le quotient de co dépla-cement dl le long de la base
+      de l'échelle par l'aecroisserncnl d G de la grundcur mesurée qui l'a provoqué.Celte
+      valeur peut êlre constante ou variable le long de l'échelle,En pratique, on
+      peut prendre comme valeur de la sen&Jbllllé des instruments de mesurage à échelle
+      Je quo-tient de la longueur de l'échelon par la vnJeur de celui-ci.S. Dans le
+      cas où le numéraleur el le dénominateur sonl des grandeurs de lu même espèce,
+      la sensibilité s"oppello, n1pport de transmission ,,JUSTESSE D'UN INSTRUMENT
+      DE MESURAGEQualité qui caractérise l'aptitude d'un îns trument de mesurage à
+      donner des indications égales à la valeur vraie de la grandeur mesurée, les
+      erreurs de fidélité n'étant pas prises eilil considération.Remarque:D'après
+      cotte déflnlUon, la justesse caractéMse l'aptitude <l'un instrument à donner
+      des Indications qul ne soient pas entachées d'erreurs systématiques.9.
+  examples: []
+  id: 9.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: SURETl
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5dcdb8ec-34cc-5198-ad73-f716d19b7bdc

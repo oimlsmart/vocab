@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '6.06'
+  localized_concepts:
+    eng: c33dc181-d987-5e53-a5a2-3e872725043f
+    fra: 9976d707-ab87-57fe-bb0d-ec93a4e7cbe9
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 4ead02b4-f8af-54a6-942c-f98c4ba34ecc
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '6.06'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: action in which a modification of a measuring instrument parameter, adjustment
+      factor or update of software module is made
+  examples: []
+  id: 6.06-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: event
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c33dc181-d987-5e53-a5a2-3e872725043f
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: préliminaire
+  examples: []
+  id: 6.06-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: examen
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 9976d707-ab87-57fe-bb0d-ec93a4e7cbe9

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '6.3'
+  localized_concepts:
+    fra: 7fdc5581-4ac3-5488-8989-c4b4418f3c84
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: c82c865e-fd9b-55fe-b0d7-166aaa499ff9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: DUE AU FROTTEMENTErreur due aux frottements des éléments mobiles de l'instrument
+      de mesurage.
+  examples: []
+  id: 6.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 7fdc5581-4ac3-5488-8989-c4b4418f3c84

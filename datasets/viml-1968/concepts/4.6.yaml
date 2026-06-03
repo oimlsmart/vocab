@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '4.6'
+  localized_concepts:
+    fra: 17f67ca1-6263-5700-8dbe-b8314dcaec5a
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 8d714bb8-2a1f-546c-bae4-346b534a2c56
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: do mesUie sous-multiple . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4,6,7V279.Valeur absolue
+      de l'erreur ..........................................................8,
+  examples: []
+  id: 4.6-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 7278.Unité
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 17f67ca1-6263-5700-8dbe-b8314dcaec5a

@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '3.02'
+  localized_concepts:
+    eng: c2cefa26-a4ee-5f7c-a5c5-bebad75c907d
+    fra: 57b3c930-dda0-5b1b-aeda-5d47b78720f1
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.09'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '3.02'
+status: valid
+id: 4177fb5f-d9fd-5b92-b9be-19b640ba65a4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document certifying that the {{verification of the measuring instrument,2.09}}
+      was carried out and compliance with statutory requirements was confirmed
+  examples: []
+  id: 3.02-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification certificate
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c2cefa26-a4ee-5f7c-a5c5-bebad75c907d
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document certifiant que la {{vérification d'un instrument de mesure,2.09}}
+      a été effectuée et que la conformité aux exigences réglementaires a été constatée
+  examples: []
+  id: 3.02-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certificat de vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 57b3c930-dda0-5b1b-aeda-5d47b78720f1

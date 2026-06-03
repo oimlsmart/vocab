@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '4.12'
+  localized_concepts:
+    eng: 2d5f591f-19c4-5ccf-bb62-c316de454309
+    fra: b07a0f86-a8ae-5011-ac68-ec36a26a01de
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: ed83240a-a9c0-5337-af6a-0eda93afeb8f
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.12'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: parameter legally relevant parameter with a value that depends on the
+      individual instrument
+  examples: []
+  id: 4.12-eng
+  notes:
+  - content: Device-specific parameters comprise adjustment parameters (e.g. span
+      adjustment or other adjustments or corrections) and configuration parameters
+      (e.g. maximum value, minimum value, units of measurement, etc.).
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device-specific
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 2d5f591f-19c4-5ccf-bb62-c316de454309
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.12-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: perturbation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: b07a0f86-a8ae-5011-ac68-ec36a26a01de

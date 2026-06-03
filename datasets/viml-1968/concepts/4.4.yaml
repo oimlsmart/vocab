@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '4.4'
+  localized_concepts:
+    fra: e7d96843-4abf-5b47-b504-df357fc0f172
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: eff09734-60e9-5cb4-9d19-5686db80814a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de mesurage.........................................................
+      .t3.187. Erreur absolue..................................................................
+      .
+  examples: []
+  id: 4.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 186.ÉquJpement
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: e7d96843-4abf-5b47-b504-df357fc0f172

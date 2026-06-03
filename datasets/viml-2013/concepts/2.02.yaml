@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '2.02'
+  localized_concepts:
+    eng: 5728bc5c-0ccb-5c37-ad0d-c905a36db3c8
+    fra: 0bf4fe0e-095b-56ac-8f64-cc3e5be156db
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 15c92efe-bc53-5441-a428-98b3aca06714
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.2'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.02'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: control of measuring instruments generic term used to globally designate
+      legal operations to which measuring instruments may be subjected, e.g. type
+      approval, verification, etc.
+  examples: []
+  id: 2.02-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5728bc5c-0ccb-5c37-ad0d-c905a36db3c8
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: déclaration A.17 défaut
+  examples: []
+  id: 2.02-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: D
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 0bf4fe0e-095b-56ac-8f64-cc3e5be156db

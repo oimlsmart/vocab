@@ -1,0 +1,108 @@
+---
+data:
+  identifier: '0.14'
+  localized_concepts:
+    eng: f2c08daa-5faa-5c62-b793-4f3cb3c976c3
+    fra: d65e2cb8-878e-59b5-b7aa-5ceb777f7272
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '2.39'
+    type: authoritative
+related:
+- type: compare
+  ref:
+    source: urn:jcgm:pub:200:2012
+    id: '2.39'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '0.14'
+status: valid
+id: 29ccb88b-5570-5789-b419-ace3e9b107f4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operation that, under specified conditions, in a first step, establishes
+      a relation between the quantity values with measurement uncertainties provided
+      by measurement standards and corresponding {{indications,0.03}} with associated
+      measurement uncertainties and, in a second step, uses this information to establish
+      a relation for obtaining a measurement result from an {{indication,0.03}}
+  examples: []
+  id: 0.14-eng
+  notes:
+  - content: A calibration may be expressed by a statement, calibration function,
+      calibration diagram, calibration curve, or calibration table. In some cases,
+      it may consist of an additive or multiplicative correction of the indication
+      with associated measurement uncertainty.
+  - content: Calibration should not be confused with {{adjustment of a measuring system,0.15}},
+      often mistakenly called “self-calibration”, nor with verification of calibration.
+  - content: Often, the first step alone in the above definition is perceived as being
+      calibration.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '2.39'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: f2c08daa-5faa-5c62-b793-4f3cb3c976c3
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: opération qui, dans des conditions spécifiées, établit en une première
+      étape une relation entre les valeurs et les incertitudes de mesure associées
+      qui sont fournies par des étalons et les {{indications,0.03}} correspondantes
+      avec les incertitudes associées, puis utilise en une seconde étape cette information
+      pour établir une relation permettant d'obtenir un résultat de mesure à partir
+      d'une {{indication,0.03}}
+  examples: []
+  id: 0.14-fra
+  notes:
+  - content: Un étalonnage peut être exprimé sous la forme d'un énoncé, d'une fonction
+      d'étalonnage, d'un diagramme d'étalonnage, d'une courbe d'étalonnage ou d'une
+      table d'étalonnage. Dans certains cas, il peut consister en une correction additive
+      ou multiplicative de l'indication avec une incertitude de mesure associée.
+  - content: Il convient de ne pas confondre l'étalonnage avec l'{{ajustage d'un système
+      de mesure,0.15}}, souvent appelé improprement «auto-étalonnage», ni avec la
+      vérification de l'étalonnage.
+  - content: La seule première étape dans la définition est souvent perçue comme étant
+      l'étalonnage.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '2.39'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalonnage
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d65e2cb8-878e-59b5-b7aa-5ceb777f7272

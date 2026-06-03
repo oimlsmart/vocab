@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.11'
+  localized_concepts:
+    eng: c4736273-d1b8-596c-ad84-bf53b8269cf8
+    fra: d37549f2-d621-50fb-bf40-e4cfa5d27b9a
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: ed39f373-6656-5da7-a39d-7e7e9914ced4
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.11'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.11-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "]"
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c4736273-d1b8-596c-ad84-bf53b8269cf8
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: spécifique individuel
+  examples: []
+  id: 4.11-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paramètre
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d37549f2-d621-50fb-bf40-e4cfa5d27b9a

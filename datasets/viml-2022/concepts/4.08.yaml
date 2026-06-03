@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '4.08'
+  localized_concepts:
+    eng: 559cade1-5ae0-5e69-8010-78e5e1c556b7
+    fra: a6b70f4a-a832-5eef-a67e-3b003801dc9c
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.08'
+status: valid
+id: 4ed8704c-eadb-51ac-b87c-08d0cfda24e5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: attribute of a part of a {{measuring instrument,0.10}}, a device or software
+      subject to legal control
+  examples: []
+  id: 4.08-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 559cade1-5ae0-5e69-8010-78e5e1c556b7
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: attribut d'une partie d'un {{instrument de mesure,0.10}}, d'un dispositif
+      ou d'un logiciel soumise au contrôle légal
+  examples: []
+  id: 4.08-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: caractère légal
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: a6b70f4a-a832-5eef-a67e-3b003801dc9c

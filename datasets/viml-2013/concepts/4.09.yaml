@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '4.09'
+  localized_concepts:
+    eng: 60d94e00-8652-53a4-8bb3-1d47247b5d2d
+    fra: 5068db61-73a2-5739-a79b-15af624d985c
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 83ef93dd-603b-53fa-a065-7ae9479cada1
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.09'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of an approved type measuring instrument of an approved type, which on
+      its own or together with suitable documentation, serves as a reference e.g.
+      for checking conformity of instruments with the approved type
+  examples: []
+  id: 4.09-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specimen
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 60d94e00-8652-53a4-8bb3-1d47247b5d2d
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: spécifiée A.6 F facteur d'influence
+  examples: []
+  id: 4.09-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exigence
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5068db61-73a2-5739-a79b-15af624d985c

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '1.2'
+  localized_concepts:
+    fra: 00d8f049-6c27-5262-beb9-7d24cad5be16
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: 4b77427d-8082-5d26-94c7-8d4b349b9eaa
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '1.01'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d’une marque de vérification
+  examples: []
+  id: 1.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ooblitération
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 00d8f049-6c27-5262-beb9-7d24cad5be16

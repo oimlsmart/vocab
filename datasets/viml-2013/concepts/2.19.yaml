@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '2.19'
+  localized_concepts:
+    eng: 3819a1e1-d4f7-5d12-8aea-225c06e85dad
+    fra: c4c8c422-f334-5be0-a653-5b1972ca77fb
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: a0c1a340-461b-5991-aaec-14f2fbbec5fd
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.19'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.19'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: affixing of one or more marks
+  examples: []
+  id: 2.19-eng
+  notes:
+  - content: 'Examples of marks include: verification, rejection, sealing and type
+      approval marks (as described in'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marking
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 3819a1e1-d4f7-5d12-8aea-225c06e85dad
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'approbation de type
+  examples: []
+  id: 2.19-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marque
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c4c8c422-f334-5be0-a653-5b1972ca77fb

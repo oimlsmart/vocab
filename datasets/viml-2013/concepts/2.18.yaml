@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '2.18'
+  localized_concepts:
+    eng: 3a73ec3d-e064-5e00-83c3-0f93eeac852d
+    fra: 36548b54-a700-5969-8bcd-5d071c65907a
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: a258c62b-1bb2-59a9-8dee-5060e9a5e620
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.18'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.18'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: by sampling inspection of a homogeneous batch of measuring instruments
+      based on the results of evaluation of a statistically appropriate number of
+      specimens selected at random from an identified lot
+  examples: []
+  id: 2.18-eng
+  notes:
+  - content: The conditions under which the respective instruments have been used
+      (e.g. water quality for water meters) may be amongst the parameters determining
+      the homogeneity of the batch.
+  - content: 'ISO 3534-2 gives the following definition: “4.1.6 sampling inspection
+      inspection of selected items in the group under consideration”'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 3a73ec3d-e064-5e00-83c3-0f93eeac852d
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de contrôle
+  examples: []
+  id: 2.18-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 36548b54-a700-5969-8bcd-5d071c65907a

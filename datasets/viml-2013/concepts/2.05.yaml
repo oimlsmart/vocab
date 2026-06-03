@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '2.05'
+  localized_concepts:
+    eng: aa04c3ac-13f5-5565-a2ce-759edd6286ff
+    fra: a6fe3b6c-45a4-5863-baa7-4b9842044ed3
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 8728ed99-8126-5583-a8cf-ccd9bf80734c
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.5'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.05'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: approval decision of legal relevance, based on the review of the type
+      evaluation report, that the type of a measuring instrument complies with the
+      relevant statutory requirements and results in the issuance of the type approval
+      certificate
+  examples: []
+  id: 2.05-eng
+  notes:
+  - content: See also A.25
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: aa04c3ac-13f5-5565-a2ce-759edd6286ff
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de type d’effet limité
+  examples: []
+  id: 2.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: approbation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a6fe3b6c-45a4-5863-baa7-4b9842044ed3

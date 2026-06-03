@@ -1,0 +1,72 @@
+---
+data:
+  identifier: '0.07'
+  localized_concepts:
+    eng: aaf68b03-eb81-5dbb-82d4-99ee3b64c154
+    fra: ca8ea349-f357-50f0-95e4-185bf6e4b111
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 1ea9b616-8fca-536a-974e-f27874404f70
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.07'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity quantity that, in a direct measurement, does not affect the
+      quantity that is actually measured, but affects the relation between the indication
+      and the measurement result Example 1 Frequency in the direct measurement with
+      an ammeter of the constant amplitude of an alternating current. Example 2 Amount-of-substance
+      concentration of bilirubin in a direct measurement of hemoglobin amount-of-substance
+      concentration in human blood plasma. Example 3 Temperature of a micrometer used
+      for measurement of length of a rod, but not the temperature of the rod itself,
+      which can enter into the definition of the measurand. Example 4 Background pressure
+      in the ion source of a mass spectrometer during a measurement of amount-of-substance
+      fraction.
+  examples: []
+  id: 0.07-eng
+  notes:
+  - content: An indirect measurement involves a combination of direct measurements,
+      each of which may be affected by influence quantities.
+  - content: In the GUM[1], the concept ‘influence quantity’ is defined as in the
+      2nd edition of the VIM, covering not only the quantities affecting the measuring
+      system, as in the definition above, but also those quantities that affect the
+      quantities actually measured. Also, in the GUM this concept is not restricted
+      to direct measurements. [OIML V2-200:2012,
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: aaf68b03-eb81-5dbb-82d4-99ee3b64c154
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'accord A.24 I identification du logiciel
+  examples: []
+  id: 0.07-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: groupe
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: ca8ea349-f357-50f0-95e4-185bf6e4b111

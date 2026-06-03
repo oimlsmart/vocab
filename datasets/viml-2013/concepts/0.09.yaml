@@ -1,0 +1,63 @@
+---
+data:
+  identifier: '0.09'
+  localized_concepts:
+    eng: c9597f55-cf8e-5747-a2f5-3a76f5ef8fdf
+    fra: e83bbc65-fb11-5bb9-bb51-6f1859950abf
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 40dcabf7-cbbc-593f-9812-ed325706401d
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.09'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating condition reference condition operating condition prescribed
+      for evaluating the performance of a measuring instrument or measuring system
+      or for comparison of measurement results
+  examples: []
+  id: 0.09-eng
+  notes:
+  - content: Reference operating conditions specify intervals of values of the measurand
+      and of the influence quantities.
+  - content: In IEC 60050-300, item 311-06-02, the term “reference condition” refers
+      to an operating condition under which the specified instrumental measurement
+      uncertainty is the smallest possible. [OIML V2-200:2012,
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c9597f55-cf8e-5747-a2f5-3a76f5ef8fdf
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: assignées de fonctionnement
+  examples: []
+  id: 0.09-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conditions
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: e83bbc65-fb11-5bb9-bb51-6f1859950abf

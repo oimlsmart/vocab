@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '2.04'
+  localized_concepts:
+    eng: cbaf9ba0-cf41-5b42-a1cf-72be594a0477
+    fra: 9386ecc8-9b4e-5873-9cd3-bbcd4def931d
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 721bf3b8-e29a-5a37-a07b-daba3c0b622a
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.4'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.04'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "(pattern) evaluation conformity assessment procedure on one or more
+      specimens of an identified type (pattern) of measuring instruments which results
+      in an evaluation report and / or an evaluation certificate"
+  examples: []
+  id: 2.04-eng
+  notes:
+  - content: "“Pattern” is used in legal metrology with the same meaning as “type”;
+      in the entries below, only “type” is used."
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: cbaf9ba0-cf41-5b42-a1cf-72be594a0477
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: par des pairs A.13 événement
+  examples: []
+  id: 2.04-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 9386ecc8-9b4e-5873-9cd3-bbcd4def931d

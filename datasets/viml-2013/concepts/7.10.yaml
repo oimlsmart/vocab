@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '7.10'
+  localized_concepts:
+    eng: 534db2db-9c91-552a-b043-d53f6ac44227
+    fra: 589375b3-066d-5294-9fd4-b6d156653205
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 8ff7fc55-209d-5cb5-95fa-004a44778262
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: groupe d'accord instances qui sont signataires de l'accord sur lequel
+      l'arrangement est fondé [ISO/CEI 17000:2004,
+  examples: []
+  id: 7.10-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "] A.24"
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 534db2db-9c91-552a-b043-d53f6ac44227
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: approval permission for a product or process to be marketed or used for
+      stated purposes or under stated conditions [ISO/IEC 17000:2004, 7.1] A.25 homologation
+      autorisation accordée pour pouvoir commercialiser ou utiliser un produit ou
+      un processus à des fins ou dans des conditions définies [ISO/CEI 17000:2004,
+      7.1] A.26 reciprocity relationship between two parties where both have the same
+      rights and obligations towards each other
+  examples: []
+  id: 7.10-fra
+  notes:
+  - content: Reciprocity can exist within a multilateral arrangement comprising a
+      network of bilateral reciprocal relationships.
+  - content: Although rights and obligations are the same, opportunities emanating
+      from them can differ; this can lead to unequal relationships between parties
+      [ISO/IEC 17000:2004,
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "] A.25"
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 589375b3-066d-5294-9fd4-b6d156653205

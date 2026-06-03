@@ -1,0 +1,74 @@
+---
+data:
+  identifier: '6.02'
+  localized_concepts:
+    eng: ae1717f2-533a-5962-8cca-58ee7d00ecdf
+    fra: e57d49ac-b09d-57db-a069-c9946bd7a79f
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.08'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '6.03'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '6.02'
+status: valid
+id: 9e513b7d-5b99-5990-a425-fe9ba6e20471
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: separation of the software in {{measuring instruments,0.10}}, which can
+      be divided into a {{legally relevant,4.08}} part and a legally non-relevant
+      part
+  examples: []
+  id: 6.02-eng
+  notes:
+  - content: These parts communicate via a {{software interface,6.03}}.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software separation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: ae1717f2-533a-5962-8cca-58ee7d00ecdf
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: séparation du logiciel d'un {{instrument de mesure,0.10}}, qui peut être
+      divisé en une partie à {{caractère légal,4.08}} et une partie n'ayant pas de
+      caractère légal
+  examples: []
+  id: 6.02-fra
+  notes:
+  - content: Ces parties communiquent par une {{interface logicielle,6.03}}.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: séparation du logiciel
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: e57d49ac-b09d-57db-a069-c9946bd7a79f

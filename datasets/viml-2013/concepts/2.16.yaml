@@ -1,0 +1,63 @@
+---
+data:
+  identifier: '2.16'
+  localized_concepts:
+    eng: 87bc4d5f-e932-57f4-a51c-b8d2dfbe84e5
+    fra: c4b7c91f-c209-5ce6-bc60-b91f4ff0ad6c
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 50f25d9e-3d15-5da8-806e-6c711e9a93e5
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.16'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.16'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of a measuring instrument decision of legal relevance that a measuring
+      instrument after it had been disqualified was returned to conformity with statutory
+      requirements and its use for applications requiring mandatory verification is
+      no longer prohibited
+  examples: []
+  id: 2.16-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: requalification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 87bc4d5f-e932-57f4-a51c-b8d2dfbe84e5
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'une approbation de type
+  examples: []
+  id: 2.16-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retrait
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c4b7c91f-c209-5ce6-bc60-b91f4ff0ad6c

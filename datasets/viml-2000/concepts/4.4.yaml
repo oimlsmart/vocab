@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '4.4'
+  localized_concepts:
+    fra: 15a315ea-df47-56ae-9f93-2cc221606e2b
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: b8101ef5-b0ae-5d19-ac8f-f7109d22f97b
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.04'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de mesure légalement contrôlé
+  examples: []
+  id: 4.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 15a315ea-df47-56ae-9f93-2cc221606e2b

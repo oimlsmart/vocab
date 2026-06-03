@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '6.08'
+  localized_concepts:
+    eng: 64417b3a-2e95-59c6-bc6d-5074827795f6
+    fra: 43e2d2dc-2499-531e-b0bf-121fee2c4693
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 3e9cdd8e-7e8b-5b18-b46a-421ef4d178f4
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '6.08'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: interface interface that enables information to be interchanged between
+      the operator and the measuring instrument or its hardware or software components,
+      e.g. switches, keyboard, mouse, display, monitor, printer, touch-screen, software
+      window on a screen including the software that generates it
+  examples: []
+  id: 6.08-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 64417b3a-2e95-59c6-bc6d-5074827795f6
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: limite d'erreur
+  examples: []
+  id: 6.08-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: L
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 43e2d2dc-2499-531e-b0bf-121fee2c4693

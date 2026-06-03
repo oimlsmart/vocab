@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '5.09'
+  localized_concepts:
+    eng: 817717a0-484f-5fc2-a4ac-95eca629b03f
+    fra: 67046265-bae0-58b2-bbdd-9967fedcf7f2
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 37c68e83-aa02-5655-bbcb-ed747d6db490
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.09'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument instrument for the measurement of a quantity, other
+      than the measurand, the value of which is used to correct or convert a measurement
+      result
+  examples: []
+  id: 5.09-eng
+  notes:
+  - content: Typically, an associated measuring instrument is connected to a device
+      (correction device, conversion device, calculator) that is part of a measuring
+      instrument and that changes (corrects, converts) the measurement result to obtain
+      a value for the measurand under specified conditions.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: associated
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 817717a0-484f-5fc2-a4ac-95eca629b03f
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de mesure légalement contrôlé
+  examples: []
+  id: 5.09-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 67046265-bae0-58b2-bbdd-9967fedcf7f2

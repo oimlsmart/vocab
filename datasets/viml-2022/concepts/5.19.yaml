@@ -1,0 +1,72 @@
+---
+data:
+  identifier: '5.19'
+  localized_concepts:
+    eng: 28b498b9-b591-50a4-af22-a7b70ee4d2e7
+    fra: a1cbce67-0d3c-5662-82f4-09d8e293f5be
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.07'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.08'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '5.19'
+status: valid
+id: 3eae59ff-2f1e-5542-bb60-892084227d3d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{influence quantity,0.07}} having a value within the limits specified
+      in the relevant Recommendation, but outside the specified {{rated operating
+      conditions,0.08}} of a {{measuring instrument,0.10}}"
+  examples: []
+  id: 5.19-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 28b498b9-b591-50a4-af22-a7b70ee4d2e7
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{grandeur d'influence,0.07}} dont la valeur se situe dans les limites
+      spécifiées dans la Recommandation applicable, mais en dehors des {{conditions
+      assignées de fonctionnement,0.08}} d'un {{instrument de mesure,0.10}}"
+  examples: []
+  id: 5.19-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: perturbation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: a1cbce67-0d3c-5662-82f4-09d8e293f5be

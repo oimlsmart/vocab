@@ -1,0 +1,68 @@
+---
+data:
+  identifier: '3.05'
+  localized_concepts:
+    eng: d1a8c622-a1c7-5ea9-a4e6-fecfdfe014f5
+    fra: 25de0905-4f2f-5153-b28b-dcacd397c49c
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.04'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '3.05'
+status: valid
+id: 11500efb-5b4e-5eae-b997-ab99026e184f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mark applied to a {{measuring instrument,0.10}} in a conspicuous manner
+      to indicate that the measuring instrument does not comply with the statutory
+      requirements and that obliterates the previously applied {{verification mark,3.04}}
+  examples: []
+  id: 3.05-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rejection mark
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d1a8c622-a1c7-5ea9-a4e6-fecfdfe014f5
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: marque apposée sur un {{instrument de mesure,0.10}} de manière apparente
+      pour indiquer que l'instrument de mesure ne satisfait pas aux exigences réglementaires
+      et pour oblitérer la {{marque de vérification,3.04}} préalablement appliquée
+  examples: []
+  id: 3.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marque de refus
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 25de0905-4f2f-5153-b28b-dcacd397c49c

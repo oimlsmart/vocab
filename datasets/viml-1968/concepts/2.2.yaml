@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '2.2'
+  localized_concepts:
+    fra: 82835b11-101d-5137-808c-75a07975a56d
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 1ae26fa1-08ab-520e-9305-a0c193274463
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 6. Autorités de survei�nce mêtrologique 1.3BBase d'une échelle à traits........................................................
+      .BUI"eau do vêrlficallon ambulant . , ................................................
+      .Bureau International de Métrologte Légale .............. , ..........................
+      .Bureau International des Poids et Mesures. ............ , .............................Blll'eau
+      local de vé.rlflcation, .................................... , .. , ..... ,
+      , , , ......Bureau national de métrologie légale ..............................................
+      .23B. ureau national de v6ri0.Catlon ..............., .. , .................................24.Bureau
+      régional de vérificalion ..•.. ,...•....... ,..................•...............
+  examples: []
+  id: 2.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 2t
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 82835b11-101d-5137-808c-75a07975a56d

@@ -1,0 +1,65 @@
+---
+data:
+  identifier: '2.08'
+  localized_concepts:
+    eng: 3dc56f7c-6204-5481-aff8-f5d4a3714ed6
+    fra: 02533d4b-c7c3-51b4-adab-0e1a00af9950
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: e98aa653-c56c-58f7-8d48-06730d19564c
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.8'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.08'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of a type approval decision of legal relevance canceling a type approval
+  examples: []
+  id: 2.08-eng
+  notes:
+  - content: The withdrawal is justified in case of • alterations of the type, • modification
+      of its vital parts, • circumstances that affect metrological durability and/
+      or reliability, • effects altering the metrological performance of the instrument
+      required by law and coming to light only after the official type approval was
+      granted.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: withdrawal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 3dc56f7c-6204-5481-aff8-f5d4a3714ed6
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: scellement
+  examples: []
+  id: 2.08-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: revue A.14 S
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 02533d4b-c7c3-51b4-adab-0e1a00af9950

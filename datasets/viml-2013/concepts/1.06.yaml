@@ -1,0 +1,63 @@
+---
+data:
+  identifier: '1.06'
+  localized_concepts:
+    eng: 8ccfb510-08fc-5e78-8ab4-e5211e771c6b
+    fra: 780be65a-fc37-52a1-9cae-13b9c546c008
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 83027a31-162d-55f8-91a8-0171ff2a59f4
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.1'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '1.06'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: units of measurement units of measurement required or permitted by regulations
+  examples: []
+  id: 1.06-eng
+  notes:
+  - content: Legal units may be • SI units, • their decimal multiples and submultiples
+      as indicated by the use of SI prefixes, or • non-SI units specified by relevant
+      regulations.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 8ccfb510-08fc-5e78-8ab4-e5211e771c6b
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vérification d'un instrument de mesure
+  examples: []
+  id: 1.06-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: V
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 780be65a-fc37-52a1-9cae-13b9c546c008

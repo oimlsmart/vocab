@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '2.07'
+  localized_concepts:
+    eng: df885437-7f65-57d2-8c12-6edcfd7abb64
+    fra: 4a7ce40d-b182-5914-80a1-251282813c34
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: d8b0ccc8-6c11-50ac-9447-48a15ded93c2
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.7'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.07'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of type approval legal decision taken by a party either voluntarily or
+      based on a bi- or multilateral arrangement whereby a type that was approved
+      by another party is recognized as complying with the relevant statutory requirements,
+      without issuing a new type approval certificate
+  examples: []
+  id: 2.07-eng
+  notes:
+  - content: See also A.33.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recognition
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: df885437-7f65-57d2-8c12-6edcfd7abb64
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de résultats d'évaluation de la conformité A.33 reconnaissance de vérification
+  examples: []
+  id: 2.07-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reconnaissance
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4a7ce40d-b182-5914-80a1-251282813c34

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '1.1'
+  localized_concepts:
+    fra: 680c170d-d277-56fd-be3c-9474449eae4d
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: 128f6883-7764-589b-93b3-f795634737ca
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '0.01'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: légale
+  examples: []
+  id: 1.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: métrologie
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 680c170d-d277-56fd-be3c-9474449eae4d

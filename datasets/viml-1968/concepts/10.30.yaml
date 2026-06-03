@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '10.30'
+  localized_concepts:
+    fra: 12f70057-8434-57fc-b2a3-a3277435adf0
+  domains:
+  - concept_id: section-10
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: b46be7c9-f6eb-5ee5-a7d3-6278efd0ffc4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 10.30-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '1'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 12f70057-8434-57fc-b2a3-a3277435adf0

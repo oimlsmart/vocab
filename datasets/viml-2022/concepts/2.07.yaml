@@ -1,0 +1,68 @@
+---
+data:
+  identifier: '2.07'
+  localized_concepts:
+    eng: 76b9d9ec-f712-53e2-9d93-8b75fc940810
+    fra: 5606af2c-f77e-55c1-8b3c-781ce12436e2
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.01'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.07'
+status: valid
+id: 0bb66f7f-abfd-53d2-9496-26d7fdcc35a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legal decision taken by a party either voluntarily or based on a bi-
+      or multilateral arrangement whereby a type that was approved by another party
+      is recognized as complying with the relevant statutory requirements, without
+      issuing a new {{type approval certificate,3.01}}
+  examples: []
+  id: 2.07-eng
+  notes:
+  - content: See also A.33.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recognition of type approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 76b9d9ec-f712-53e2-9d93-8b75fc940810
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision légale prise par une partie, volontairement ou sur la base d'un
+      accord bi- ou multilatéral, selon laquelle un type préalablement approuvé par
+      une autre partie est reconnu comme satisfaisant aux exigences réglementaires
+      applicables, sans délivrance d'un nouveau {{certificat d'approbation de type,3.01}}
+  examples: []
+  id: 2.07-fra
+  notes:
+  - content: Voir aussi A.33.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reconnaissance d'une approbation de type
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 5606af2c-f77e-55c1-8b3c-781ce12436e2

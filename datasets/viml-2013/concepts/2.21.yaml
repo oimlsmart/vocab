@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '2.21'
+  localized_concepts:
+    eng: 4ae8e51d-a317-5cbe-8ac2-a76ecc47be43
+    fra: 5c338a56-9a1a-5bd0-8343-20fd0b06224d
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: a0db0a48-2808-56e5-902e-24aaae46dcbe
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.21'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.21'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means preventing unauthorized access to hardware or software
+  examples: []
+  id: 2.21-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: securing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4ae8e51d-a317-5cbe-8ac2-a76ecc47be43
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: du logiciel
+  examples: []
+  id: 2.21-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: séparation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5c338a56-9a1a-5bd0-8343-20fd0b06224d

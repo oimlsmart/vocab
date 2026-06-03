@@ -1,0 +1,90 @@
+---
+data:
+  identifier: '1.02'
+  localized_concepts:
+    eng: 124eb134-fcf7-5189-8359-53c783248051
+    fra: 6f2ab847-d8ba-544a-bc0f-f7a6ba6a105c
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.01'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '1.06'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.02'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.03'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '1.02'
+status: valid
+id: 4c2fdedb-dd01-5c78-a3d5-35235353aa71
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legal acts and secondary legislation that provide the statutory structure
+      to {{metrology,0.01}}
+  examples: []
+  id: 1.02-eng
+  notes:
+  - content: |-
+      Legal acts and secondary legislation in particular specify the {{legal units of measurement,1.06}}, prescribe
+      — requirements with respect to the properties of {{measuring instruments,0.10}},
+      — accuracy of measurement in cases specified by law,
+      — a system of {{legal control of measuring instruments,2.02}}, and
+      — {{metrological supervision,2.03}}.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: law on metrology
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 124eb134-fcf7-5189-8359-53c783248051
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: actes légaux et réglementaires pris pour application de ces lois, qui
+      donnent la structure légale à la {{métrologie,0.01}}
+  examples: []
+  id: 1.02-fra
+  notes:
+  - content: |-
+      Les actes légaux et la réglementation induite définissent, en particulier, les {{unités de mesure légales,1.06}} et prescrivent
+      — les exigences relatives aux caractéristiques des {{instruments de mesure,0.10}},
+      — l'exactitude de mesurage, lorsqu'elle est définie par voie légale,
+      — un système de {{contrôle légal des instruments de mesure,2.02}}, et
+      — la {{surveillance métrologique,2.03}}.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loi de métrologie
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 6f2ab847-d8ba-544a-bc0f-f7a6ba6a105c

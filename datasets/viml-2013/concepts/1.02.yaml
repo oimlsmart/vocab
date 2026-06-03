@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '1.02'
+  localized_concepts:
+    eng: b02072d9-350e-501d-b4d1-8fccf7dfea5b
+    fra: 56095519-ddf7-5af9-bf6c-f5b646610eca
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: f28bee25-747a-5a4a-82b8-013bd7a233f4
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '1.02'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: on metrology legal acts and secondary legislation that provide the statutory
+      structure to metrology
+  examples: []
+  id: 1.02-eng
+  notes:
+  - content: Legal acts and secondary legislation in particular specify the legal
+      units of measurement, prescribe • requirements with respect to the properties
+      of measuring instruments, • accuracy of measurement in cases specified by law,
+      • a system of legal control of measuring instruments, and • metrological supervision.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: law
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: b02072d9-350e-501d-b4d1-8fccf7dfea5b
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: marquage
+  examples: []
+  id: 1.02-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: M
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 56095519-ddf7-5af9-bf6c-f5b646610eca

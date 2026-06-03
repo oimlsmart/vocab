@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '2.10'
+  localized_concepts:
+    eng: 8f1a2252-33fb-5fd2-a820-55f8eabb601b
+    fra: 215aeffc-ee36-566b-9a4c-161be90dd21a
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.10'
+status: valid
+id: 4ca26d6b-73dc-5f9f-9b72-60aad7c56f87
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examination of a {{measuring instrument,0.10}} either to partial requirements
+      or before certain elements of the measuring instrument are installed as part
+      of the verification procedure
+  examples: []
+  id: 2.10-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preliminary examination
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 8f1a2252-33fb-5fd2-a820-55f8eabb601b
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examen d'un {{instrument de mesure,0.10}}, soit par rapport à une partie
+      des exigences, soit avant que certains éléments de l'instrument de mesure soient
+      assemblés, dans le cadre d'une procédure de vérification
+  examples: []
+  id: 2.10-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: examen préliminaire
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 215aeffc-ee36-566b-9a4c-161be90dd21a

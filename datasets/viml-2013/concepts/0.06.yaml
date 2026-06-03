@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '0.06'
+  localized_concepts:
+    eng: 0a8d32e7-1827-5d90-b0d1-8e54f8ed9711
+    fra: 20619859-b89f-59b8-b209-805380737a44
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 3a608c34-360a-5ae8-ba2a-49407edfaa25
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.06'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error error of indication, determined under reference conditions
+  examples: []
+  id: 0.06-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 0a8d32e7-1827-5d90-b0d1-8e54f8ed9711
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsèque initiale
+  examples: []
+  id: 0.06-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 20619859-b89f-59b8-b209-805380737a44

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: '0.1'
+  localized_concepts:
+    fra: 72c6f66a-0a7d-5ff1-8467-efe5913bcc85
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: bc0b4430-d52b-5519-9493-c57a56fc6c8e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'des connaissances relatives aux mesurages.Remarques 1Les principaux
+      domaines de la métrologie concernant. :llls unités de mesure et leurs étalons
+      (lenr établissement, reproduction, conservation et transmission), les mesurages
+      (leurs méthodes, leur exécution, l''estimation de lelll'' précision etc,),les
+      instruments de mesurage (leurs propriétés examinées du point de vue de leur
+      destination),lea observateurs (leurs qualités se rapportant à l''exécutlon des
+      meauragll.!!, plll'' ex. la lecture des indications des instruments de me:iur.1go),La
+      métrologie embrasse tous les problèmes aussi bien théoriques que pratiques �e
+      rapportant aux mesurages,quelle que soit la précision de ceux-ci.Selon la grandeur
+      envisagée, la métrologie se divise en : mét"ologle des longneurs, métrologie
+      du temps, etc...et, selon le domaine d''applicatlon, en métrologie Industrielle,
+      métrologie tecbnlque, métrologie astronomique. métrologie médicale, etc ...Sont
+      comprises également dans la métrologie les déterminations des constantes physiques
+      et des propdété1 des matériaux et des substances.D.l. M�TROLOGIE GtN�RALEPartie
+      de la métrologie qui traite des problèmes communs à toutes les questions mé-trologiques,
+      indépendamment de la grandeur mesurée.Exemples:Les problèmes généraux théoriques
+      et pratiques sur les unités de mesure (la structure d''un système d''unitéa,
+      le changement. des unités do meSl.lJ''e dans les formules pa:r ox.), les problèmes
+      des orreure de mesurage, les problème1 cies qualités métrologiques des instruments
+      de mesurage valables pou!'' n''importe quelle grandeur.'
+  examples: []
+  id: 0.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: MÉTROLOGIEDomaine
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 72c6f66a-0a7d-5ff1-8467-efe5913bcc85

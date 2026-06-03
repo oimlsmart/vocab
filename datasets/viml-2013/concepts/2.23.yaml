@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '2.23'
+  localized_concepts:
+    eng: a073d5e9-1cd3-5058-931b-83058d599caa
+    fra: 81c026a7-b008-5295-8632-701e48ea82e5
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: eb7be1f1-36ff-50cb-b22b-8c075be6580a
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.23'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.23'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: verification of measuring instruments utilizing the manufacturer's quality
+      management system manufacturer’s declaration of conformity of measuring instruments
+      to legal metrological requirements for initial verification; the declaration
+      is permitted on condition that the manufacturer has a quality management system
+      implemented and approved by a competent body
+  examples: []
+  id: 2.23-eng
+  notes:
+  - content: The national responsible body shall have in place a means for periodically
+      validating the implementation of a manufacturer’s quality management system.
+  - content: The quality management program for measuring instruments shall be in
+      accordance with legal metrological requirements for initial verification according
+      to national laws or regulations for legal metrological control.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a073d5e9-1cd3-5058-931b-83058d599caa
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ultérieure
+  examples: []
+  id: 2.23-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 81c026a7-b008-5295-8632-701e48ea82e5

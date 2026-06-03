@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '3.7'
+  localized_concepts:
+    fra: 02512122-3679-5d5f-b877-3beb133d1cf1
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: f2012f28-48f5-5c20-a6f3-b30bf99a6578
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '3.07'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 3.7-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: métrologie
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 02512122-3679-5d5f-b877-3beb133d1cf1

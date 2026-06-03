@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '6.05'
+  localized_concepts:
+    eng: 8d3c049f-47c5-525b-8dba-bd906092968a
+    fra: 778e106e-0a29-59c7-b32d-ea74a83aebc4
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 9fe417d1-ca83-58bb-b9e2-c5aca37ffd22
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '6.05'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: trail continuous data file containing a time stamped information record
+      of events, e.g. changes in the values of the parameters of a device or software
+      updates, or other activities that are legally relevant and which may influence
+      the metrological characteristics
+  examples: []
+  id: 6.05-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: audit
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 8d3c049f-47c5-525b-8dba-bd906092968a
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de métrologie légale
+  examples: []
+  id: 6.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réglementation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 778e106e-0a29-59c7-b32d-ea74a83aebc4

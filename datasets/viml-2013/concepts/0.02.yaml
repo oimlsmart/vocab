@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '0.02'
+  localized_concepts:
+    eng: '08f41640-c90c-53ab-afe9-3b0127bd7a6a'
+    fra: 0f994134-cb25-5469-b8af-8e0413e39d67
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 21248bf3-3edc-5653-b857-a6151da6d1e9
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.2'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.02'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of Units SI system of units, based on the International System of Quantities,
+      their names and symbols, including a series of prefixes and their names and
+      symbols, together with rules for their use, adopted by the General Conference
+      on Weights and Measures (CGPM) [OIML V2-200:2012,
+  examples: []
+  id: 0.02-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International System
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: '08f41640-c90c-53ab-afe9-3b0127bd7a6a'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: particulier de certification de produit A.8 système particulier d'évaluation
+      de la conformité A.5 T terminal
+  examples: []
+  id: 0.02-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 0f994134-cb25-5469-b8af-8e0413e39d67

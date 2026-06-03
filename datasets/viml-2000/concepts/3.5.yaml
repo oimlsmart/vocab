@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '3.5'
+  localized_concepts:
+    fra: c6301dea-7e5b-5847-89f2-b9e56ebbedaa
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: c7ec525b-3b6e-5d25-a23f-655273dc341c
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '3.05'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d’approbation de type
+  examples: []
+  id: 3.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ccertificat
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: c6301dea-7e5b-5847-89f2-b9e56ebbedaa

@@ -1,0 +1,75 @@
+---
+data:
+  identifier: '0.12'
+  localized_concepts:
+    eng: be1f613f-8942-5882-8bde-44b4ca2fb343
+    fra: 5dceef36-8a6d-59b7-8615-1c1aee8be415
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+status: valid
+id: 3804c4d4-0a17-5b60-a74f-1555530a0737
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.12'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system set of one or more measuring instruments and often other devices,
+      including any reagent and supply, assembled and adapted to give information
+      used to generate measured quantity values within specified intervals for quantities
+      of specified kinds
+  examples: []
+  id: 0.12-eng
+  notes:
+  - content: A measuring system may consist of only one measuring instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: be1f613f-8942-5882-8bde-44b4ca2fb343
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'évaluation de la conformité A.4 Système International d'Unités, SI
+  examples: []
+  id: 0.12-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5dceef36-8a6d-59b7-8615-1c1aee8be415

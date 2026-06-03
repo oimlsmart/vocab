@@ -1,0 +1,65 @@
+---
+data:
+  identifier: '2.03'
+  localized_concepts:
+    eng: 07b7c5a3-2d57-5c67-b5d4-a4b736432c52
+    fra: 51887a8c-453a-5024-8791-def6495a3e6b
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: f46b9379-9cb6-58e5-af13-bb1dbacc74a0
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.3'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.03'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: supervision activity of legal metrological control to check the observance
+      of metrology laws and regulations
+  examples: []
+  id: 2.03-eng
+  notes:
+  - content: Metrological supervision also includes checking the correctness of quantities
+      indicated on and contained in prepackages.
+  - content: To achieve these purposes, means and methods such as market surveillance
+      and quality management may be utilized.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 07b7c5a3-2d57-5c67-b5d4-a4b736432c52
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: système de contrôle
+  examples: []
+  id: 2.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspension A.21
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 51887a8c-453a-5024-8791-def6495a3e6b

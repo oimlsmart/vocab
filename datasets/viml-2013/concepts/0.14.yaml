@@ -1,0 +1,68 @@
+---
+data:
+  identifier: '0.14'
+  localized_concepts:
+    eng: 8353fec7-1be8-5686-8a6c-ac46e5392563
+    fra: cd8d11b3-f8b9-5140-847c-71c8e56285bb
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 6ffa4562-ab84-5798-a535-c64622ced6ee
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.14'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operation that, under specified conditions, in a first step, establishes
+      a relation between the quantity values with measurement uncertainties provided
+      by measurement standards and corresponding indications with associated measurement
+      uncertainties and, in a second step, uses this information to establish a relation
+      for obtaining a measurement result from an indication
+  examples: []
+  id: 0.14-eng
+  notes:
+  - content: A calibration may be expressed by a statement, calibration function,
+      calibration diagram, calibration curve, or calibration table. In some cases,
+      it may consist of an additive or multiplicative correction of the indication
+      with associated measurement uncertainty.
+  - content: Calibration should not be confused with adjustment of a measuring system,
+      often mistakenly called “self-calibration”, nor with verification of calibration.
+  - content: Often, the first step alone in the above definition is perceived as being
+      calibration. [OIML V2-200:2012,
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 8353fec7-1be8-5686-8a6c-ac46e5392563
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de la conformité A.1 évaluation de type (modèle)
+  examples: []
+  id: 0.14-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: cd8d11b3-f8b9-5140-847c-71c8e56285bb

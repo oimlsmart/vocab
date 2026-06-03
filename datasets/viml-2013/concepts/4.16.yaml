@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '4.16'
+  localized_concepts:
+    eng: 1fc64e29-410d-5ac1-bdb1-ae1897351a52
+    fra: 4ae209d4-28bd-5f8e-9eb3-f84fba65f3fb
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 8d9cddce-182e-5c26-8f66-9724950a6e83
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.16'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: under test sub-assembly, combination of subassemblies or complete measuring
+      instrument subject to a test
+  examples: []
+  id: 4.16-eng
+  notes:
+  - content: 'Abbreviated: EUT.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equipment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 1fc64e29-410d-5ac1-bdb1-ae1897351a52
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: équivalence de résultats d'évaluation de la conformité A.32 erreur (d'indication)
+  examples: []
+  id: 4.16-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équivalence A.32
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4ae209d4-28bd-5f8e-9eb3-f84fba65f3fb

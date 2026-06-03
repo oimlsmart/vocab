@@ -1,0 +1,76 @@
+---
+data:
+  identifier: '1.03'
+  localized_concepts:
+    eng: 67a23ee3-6a84-56db-a924-f8af3feb3d95
+    fra: b0d111bd-a404-53ff-a3da-42ff70414e55
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '1.01'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '1.03'
+status: valid
+id: 354ee6f3-5b19-5f7f-b12d-2449d7cad8da
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: technical regulation in the field of {{legal metrology,1.01}}
+  examples: []
+  id: 1.03-eng
+  notes:
+  - content: These regulations shall, when applicable, be compatible with the International
+      Recommendations of the OIML and make use of their requirements.
+  - content: |-
+      The scope of {{legal metrology,1.01}} generally includes
+      — protection of the interests of individuals and enterprises,
+      — protection of national interests,
+      — protection of public health and safety, including in relation to the environment and medical services, and
+      — meeting the requirements for commerce and trade.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal metrology regulation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 67a23ee3-6a84-56db-a924-f8af3feb3d95
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: réglementation technique du domaine de la {{métrologie légale,1.01}}
+  examples: []
+  id: 1.03-fra
+  notes:
+  - content: Si applicable, ces réglementations doivent être compatibles avec les
+      Recommandations internationales de l'OIML et recourir à leurs exigences.
+  - content: |-
+      Généralement, le champ de la {{métrologie légale,1.01}} comprend
+      — la protection des intérêts des personnes et des sociétés,
+      — la protection des intérêts nationaux,
+      — la protection de la santé publique et de la sécurité, notamment en rapport avec l'environnement et les services médicaux, et
+      — le respect des exigences relatives au commerce et aux transactions.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réglementation de métrologie légale
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b0d111bd-a404-53ff-a3da-42ff70414e55

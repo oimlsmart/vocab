@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '4.05'
+  localized_concepts:
+    eng: daf6f63b-78bc-577c-a2c9-ace4d7c4ba03
+    fra: 93b06dc6-ed74-55e0-940e-49019844e378
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: d63292d8-3e04-5067-bf91-8f957511a256
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.5'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.05'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of modules identifiable group of modules belonging to the same manufactured
+      type that have similar design features but that may differ in some metrological
+      and technical performance requirements as defined in the relevant Recommendation
+  examples: []
+  id: 4.05-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: family
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: daf6f63b-78bc-577c-a2c9-ace4d7c4ba03
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'instruments de mesure
+  examples: []
+  id: 4.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: famille
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 93b06dc6-ed74-55e0-940e-49019844e378

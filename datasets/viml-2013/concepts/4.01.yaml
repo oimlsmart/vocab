@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '4.01'
+  localized_concepts:
+    eng: 93e5d043-4649-5618-b39f-9527a4d24a8f
+    fra: 16d355ab-8ee6-5549-8ffa-54e9c9627b4d
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 9e3e3295-0dbb-5579-a76b-a88f0d6fd9e8
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.1'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.01'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of instruments identifiable set of instruments according to unique metrological
+      and technical characteristics that may include the measured quantity, the measuring
+      range, and the principle or method of measurement
+  examples: []
+  id: 4.01-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: category
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 93e5d043-4649-5618-b39f-9527a4d24a8f
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'approbation de type
+  examples: []
+  id: 4.01-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certificat
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 16d355ab-8ee6-5549-8ffa-54e9c9627b4d

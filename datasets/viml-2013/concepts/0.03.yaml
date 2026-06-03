@@ -1,0 +1,78 @@
+---
+data:
+  identifier: '0.03'
+  localized_concepts:
+    eng: b095d5a5-00b7-528d-b536-07ec785a333d
+    fra: 4f001ff3-c88e-5c03-909b-c57dde1653a6
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '4.1'
+    type: authoritative
+status: valid
+id: fbb19c07-835e-52bb-be14-3af90746e485
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.03'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity value provided by a measuring instrument or a measuring system
+  examples: []
+  id: 0.03-eng
+  notes:
+  - content: An indication may be presented in visual or acoustic form or may be transferred
+      to another device. An indication is often given by the position of a pointer
+      on the display for analog outputs, a displayed or printed number for digital
+      outputs, a code pattern for code outputs, or an assigned quantity value for
+      material measures.
+  - content: An indication and a corresponding value of the quantity being measured
+      are not necessarily values of quantities of the same kind.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '4.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: b095d5a5-00b7-528d-b536-07ec785a333d
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: primaire
+  examples: []
+  id: 0.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4f001ff3-c88e-5c03-909b-c57dde1653a6

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.16'
+  localized_concepts:
+    fra: ea0c8d56-56ff-5d71-86f6-f3b50b1c3dae
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: cc840d7a-53e3-51d7-ba73-bfbf2d59c898
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.16'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: volontaire
+  examples: []
+  id: 2.16-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: ea0c8d56-56ff-5d71-86f6-f3b50b1c3dae

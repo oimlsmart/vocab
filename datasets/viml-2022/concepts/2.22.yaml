@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '2.22'
+  localized_concepts:
+    eng: 70cacec6-b7b1-56d8-98d7-477229b27242
+    fra: bd26d69a-e5f7-5cd0-88aa-bb2edd8ec7df
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.04'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.22'
+status: valid
+id: c0a78b51-a100-51b0-90d9-cb7f2f0b28c5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: cancellation of the {{verification mark,3.04}} when it has been found
+      that the {{measuring instrument,0.10}} no longer complies with the statutory
+      requirements
+  examples: []
+  id: 2.22-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obliteration of a verification mark
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 70cacec6-b7b1-56d8-98d7-477229b27242
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: annulation de la {{marque de vérification,3.04}} quand il a été constaté
+      que l'{{instrument de mesure,0.10}} ne satisfait plus aux exigences réglementaires
+  examples: []
+  id: 2.22-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: oblitération d'une marque de vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: bd26d69a-e5f7-5cd0-88aa-bb2edd8ec7df

@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '6.08'
+  localized_concepts:
+    eng: 444aef5e-d41f-530a-8f39-a57c2e7a75a4
+    fra: 891568a2-ab91-5478-b882-8c85a4ea7dbc
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '6.08'
+status: valid
+id: 30a7260f-5ca7-55cf-b627-c3365f2a921c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: interface that enables information to be interchanged between the operator
+      and the {{measuring instrument,0.10}} or its hardware or software components,
+      e.g. switches, keyboard, mouse, display, monitor, printer, touch-screen, software
+      window on a screen including the software that generates it
+  examples: []
+  id: 6.08-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user interface
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 444aef5e-d41f-530a-8f39-a57c2e7a75a4
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: interface permettant l'échange d'informations entre l'utilisateur et
+      l'{{instrument de mesure,0.10}}, ses composants matériels ou sa partie logicielle
+      comme un bouton, un clavier, une souris, un écran, un moniteur, une imprimante,
+      un écran tactile, une fenêtre logicielle sur un écran, y compris le logiciel
+      permettant de la générer
+  examples: []
+  id: 6.08-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interface utilisateur
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 891568a2-ab91-5478-b882-8c85a4ea7dbc

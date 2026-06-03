@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '7.1'
+  localized_concepts:
+    fra: d9173391-2c0c-5abd-babd-3d5aa90a9f53
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: d88904ef-deef-5d79-90a5-d83a19f8f70c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'nnitlls de mesure , 4,7Sys�mo International d'Unitês (SI) .
+  examples: []
+  id: 7.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 1Système
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: d9173391-2c0c-5abd-babd-3d5aa90a9f53

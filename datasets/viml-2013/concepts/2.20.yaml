@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '2.20'
+  localized_concepts:
+    eng: bf763f03-0bf9-57ae-9bd9-5b4b45621086
+    fra: 4f44254c-a868-5fc1-94d1-6c3f6437fa12
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: d6e7e27e-ab67-5bee-a9de-be251674ecd3
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.20'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.20'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means intended to protect the measuring instrument against any unauthorized
+      modification, readjustment, removal of parts, software, etc.
+  examples: []
+  id: 2.20-eng
+  notes:
+  - content: This may be achieved by hardware, software or a combination of both.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sealing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: bf763f03-0bf9-57ae-9bd9-5b4b45621086
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.20-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sécurité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4f44254c-a868-5fc1-94d1-6c3f6437fa12

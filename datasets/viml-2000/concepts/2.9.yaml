@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.9'
+  localized_concepts:
+    fra: 31d601f1-9559-59fa-85fb-81817f24e105
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: 36d6e6b7-2431-5cb8-9d2e-96f2b4c016d6
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.09'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d’un instrument de mesure
+  examples: []
+  id: 2.9-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: refus
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 31d601f1-9559-59fa-85fb-81817f24e105

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '35.2'
+  localized_concepts:
+    fra: f07beeaf-6527-5673-97ad-3910852d5a13
+  domains:
+  - concept_id: section-35
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 76bb13bf-f76c-51b1-8d2d-43fb75330246
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 35.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '3'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: f07beeaf-6527-5673-97ad-3910852d5a13

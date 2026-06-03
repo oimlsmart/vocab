@@ -1,0 +1,68 @@
+---
+data:
+  identifier: '4.13'
+  localized_concepts:
+    eng: 3d794e34-9c3c-58ce-b18a-f4fa221e4859
+    fra: 02a60e6d-056d-57a3-969e-a7340d1f9c99
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.02'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.01'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.13'
+status: valid
+id: d6950213-59f6-5484-bb0c-252b72153c9b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: definitive model or {{family of measuring instruments,4.02}} permitted
+      for legal use, the decision being confirmed by the issuing of a {{type approval
+      certificate,3.01}}
+  examples: []
+  id: 4.13-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: approved type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 3d794e34-9c3c-58ce-b18a-f4fa221e4859
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: modèle définitif ou {{famille d'instruments de mesure,4.02}} dont l'utilisation
+      est légalement permise, la décision étant attestée par la délivrance d'un {{certificat
+      d'approbation de type,3.01}}
+  examples: []
+  id: 4.13-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approuvé
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 02a60e6d-056d-57a3-969e-a7340d1f9c99

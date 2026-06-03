@@ -1,0 +1,92 @@
+---
+data:
+  identifier: '1.01'
+  localized_concepts:
+    eng: f82a4063-596e-5b52-a493-fa1b7f77898a
+    fra: 7bad7268-d779-58f5-a2fd-be13cc5c0147
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.01'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.02'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '1.01'
+status: valid
+id: 6a07bad8-66a8-5509-a996-1d5a02851021
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: practice and process of applying statutory and regulatory structure and
+      enforcement to {{metrology,0.01}}
+  examples: []
+  id: 1.01-eng
+  notes:
+  - content: The scope of legal metrology may be different from country to country.
+  - content: |-
+      Legal metrology includes
+      — setting up legal requirements,
+      — control / {{conformity assessment,A.1}} of regulated products and regulated activities,
+      — supervision of regulated products and of regulated activities, and
+      — providing the necessary infrastructure for the traceability of regulated measurements and {{measuring instruments,0.10}} to {{SI,0.02}} or national standards.
+  - content: There are also regulations outside the area of legal metrology pertaining
+      to the accuracy and correctness of measurement methods.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal metrology
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: f82a4063-596e-5b52-a493-fa1b7f77898a
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: pratique et processus consistant à appliquer à la {{métrologie,0.01}}
+      une structure législative et réglementaire, et à la faire exécuter (voir 0.01)
+  examples: []
+  id: 1.01-fra
+  notes:
+  - content: Le champ de la métrologie légale peut différer d'un pays à l'autre.
+  - content: |-
+      La métrologie légale comprend
+      — l'établissement des exigences légales,
+      — le contrôle/l'{{évaluation de la conformité,A.1}} des produits réglementés,
+      — la surveillance des produits réglementés et des activités réglementés, et
+      — la définition de l'infrastructure nécessaire pour assurer la traçabilité des mesurages et {{instruments de mesure,0.10}} réglementés aux étalons {{SI,0.02}} ou nationaux.
+  - content: Il existe également des réglementations en dehors du champ de la métrologie
+      légale concernant l'exactitude et la pertinence des méthodes de mesurage.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: métrologie légale
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7bad7268-d779-58f5-a2fd-be13cc5c0147

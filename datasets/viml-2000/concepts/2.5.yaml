@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.5'
+  localized_concepts:
+    fra: b8600f69-b088-5f07-b841-7043095d2839
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: b52941e9-2393-57a1-af76-b79c061a8b6f
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.05'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de conformité au type approuvé
+  examples: []
+  id: 2.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: examen
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: b8600f69-b088-5f07-b841-7043095d2839

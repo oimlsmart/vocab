@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '5.03'
+  localized_concepts:
+    eng: 729cf30e-09bf-565c-ad78-aebcc2fb6063
+    fra: 1d2b7b79-9432-5ebb-84f6-445e994794da
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 5da448c4-cd58-53c6-9b29-622426cdf5f7
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.03'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'of verification scale intervals quotient of the maximum capacity of
+      a balance, “Max” and the verification scale interval, “e”: n = Max / e'
+  examples: []
+  id: 5.03-eng
+  notes:
+  - content: This term applies to weighing instruments.
+  - content: "“Max” and “e” have to be in the same unit."
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: number
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 729cf30e-09bf-565c-ad78-aebcc2fb6063
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: oblitération d’une marque de vérification
+  examples: []
+  id: 5.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: O
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 1d2b7b79-9432-5ebb-84f6-445e994794da

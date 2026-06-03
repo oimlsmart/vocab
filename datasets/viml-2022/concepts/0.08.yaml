@@ -1,0 +1,90 @@
+---
+data:
+  identifier: '0.08'
+  localized_concepts:
+    eng: 1a07c798-65b5-5082-9ed2-5e1d877d913c
+    fra: 3992c82d-1873-5e03-acb6-7aedb66ba61a
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+related:
+- type: compare
+  ref:
+    source: urn:jcgm:pub:200:2012
+    id: '4.9'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '0.08'
+status: valid
+id: 64bde32b-af22-5dac-bf34-fe3c2ad4bafe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating condition that must be fulfilled during measurement in order
+      that a {{measuring instrument,0.10}} or {{measuring system,0.12}} perform as
+      designed
+  examples: []
+  id: 0.08-eng
+  notes:
+  - content: Rated operating conditions generally specify intervals of values for
+      a quantity being measured and for any {{influence quantity,0.07}}.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating condition
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 1a07c798-65b5-5082-9ed2-5e1d877d913c
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de fonctionnement qui doit être satisfaite pendant un mesurage
+      pour qu'un {{instrument de mesure,0.10}} ou un {{système de mesure,0.12}} fonctionne
+      conformément à sa conception
+  examples: []
+  id: 0.08-fra
+  notes:
+  - content: Les conditions assignées de fonctionnement spécifient généralement des
+      intervalles de valeurs pour la grandeur mesurée et pour les {{grandeurs d'influence,0.07}}.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition assignée de fonctionnement
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 3992c82d-1873-5e03-acb6-7aedb66ba61a

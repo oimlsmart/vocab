@@ -1,0 +1,72 @@
+---
+data:
+  identifier: '2.04'
+  localized_concepts:
+    eng: 2ba08d59-38d8-5fe0-bf89-782cd603b0b1
+    fra: 382ca904-62c3-553e-83e3-5c19267d86cf
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.04'
+status: valid
+id: 39443553-2e36-59d4-97c0-389e4f7ecbb6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{conformity assessment,A.1}} procedure on one or more specimens of
+      an identified type (pattern) of {{measuring instruments,0.10}} which results
+      in an evaluation report and / or an evaluation certificate"
+  examples: []
+  id: 2.04-eng
+  notes:
+  - content: "“Pattern” is used in legal metrology with the same meaning as “type”;
+      in the entries below, only “type” is used."
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type (pattern) evaluation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 2ba08d59-38d8-5fe0-bf89-782cd603b0b1
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: procédure d'{{évaluation de la conformité,A.1}} d'un ou plusieurs exemplaires
+      d'un type (modèle) identifié d'{{instrument de mesure,0.10}} conduisant à l'établissement
+      d'un rapport d'évaluation et/ou d'un certificat d'évaluation
+  examples: []
+  id: 2.04-fra
+  notes:
+  - content: "«Modèle» est utilisé en métrologie légale avec la même signification
+      que «type»; dans les définitions ci-après, seul «type» est utilisé."
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de type (modèle)
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 382ca904-62c3-553e-83e3-5c19267d86cf
