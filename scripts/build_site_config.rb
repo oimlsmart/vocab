@@ -20,14 +20,9 @@ PROJECT_DIR = File.expand_path("..", SCRIPT_DIR)
 EDITIONS_PATH = File.join(PROJECT_DIR, "editions.yml")
 SITE_CONFIG_PATH = File.join(PROJECT_DIR, "site-config.yml")
 
-VIML_DATASET_IDS = begin
-  editions = YAML.load_file(EDITIONS_PATH, permitted_classes: [Date], aliases: true)["editions"]
-  editions.map { |e| e["id"] }
+def edition_type(edition)
+  edition["id"].start_with?("viml-") ? :viml : :vim
 end
-
-# Non-edition datasets that exist in site-config.yml (e.g., VIM).
-# These are preserved as-is when regenerating.
-FIXED_DATASETS = ["vim"].freeze
 
 def build_edition_dataset(edition)
   id = edition["id"]
@@ -38,6 +33,19 @@ def build_edition_dataset(edition)
   title = deploy["title"] || "VIML (#{year})"
   title_fra = deploy["title_fra"] || title
   languages = edition["languages"] || ["eng", "fra"]
+  type = edition_type(edition)
+
+  if type == :vim
+    full_name = "International Vocabulary of Metrology"
+    full_name_fra = "Vocabulaire international de métrologie"
+    owner = "JCGM"
+    tags = ["metrology", "jcgm", "vocabulary"]
+  else
+    full_name = "International Vocabulary of Legal Metrology"
+    full_name_fra = "Vocabulaire international de métrologie légale"
+    owner = "OIML"
+    tags = ["metrology", "legal", "oiml", "vocabulary"]
+  end
 
   dataset = {
     "id" => id,
@@ -47,21 +55,24 @@ def build_edition_dataset(edition)
     "localPath" => edition["dataset_path"],
     "ref" => ref,
     "title" => title,
-    "description" => "Terminology definitions from the International Vocabulary of Legal Metrology (#{ref})",
+    "description" => "Terminology definitions from the #{full_name} (#{ref})",
     "translations" => {
       "fra" => {
         "title" => title_fra,
-        "description" => "Définitions de terminologie du Vocabulaire international de métrologie légale (#{ref})",
+        "description" => "Définitions de terminologie du #{full_name_fra} (#{ref})",
       },
     },
-    "owner" => "OIML",
+    "owner" => owner,
     "color" => color,
-    "tags" => ["metrology", "legal", "oiml", "vocabulary"],
+    "tags" => tags,
     "languages" => languages.dup,
     "languageOrder" => languages.dup,
   }
 
-  # For older editions, add edition status info
+  if edition["ref_aliases"]
+    dataset["refAliases"] = edition["ref_aliases"].dup
+  end
+
   status = edition["status"]
   if status && status != "current"
     dataset["editionStatus"] = status
@@ -72,19 +83,7 @@ end
 
 def generate_datasets
   editions = YAML.load_file(EDITIONS_PATH, permitted_classes: [Date], aliases: true)["editions"]
-
-  # Build edition datasets from editions.yml
-  edition_datasets = editions.map { |e| build_edition_dataset(e) }
-
-  # Load existing site-config to preserve non-edition datasets
-  existing_config = YAML.load_file(SITE_CONFIG_PATH, aliases: true)
-  existing_datasets = existing_config["datasets"] || []
-
-  # Preserve non-VIML datasets (like VIM)
-  preserved = existing_datasets.select { |d| FIXED_DATASETS.include?(d["id"]) }
-
-  # Final order: current edition first, then older editions, then non-edition datasets
-  edition_datasets + preserved
+  editions.map { |e| build_edition_dataset(e) }
 end
 
 # ── Main ──

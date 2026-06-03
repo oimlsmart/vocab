@@ -131,15 +131,13 @@ datasets:
   languageOrder:
   - fra
   editionStatus: superseded
-- id: vim
+- id: vim-2012
   uri: urn:jcgm:pub:200:2012
   uriAliases:
   - urn:jcgm:pub:200:2012*
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim
   ref: JCGM 200:2012
-  refAliases:
-  - OIML V 2-200:2012
   title: VIM — International Vocabulary of Metrology
   description: Terminology definitions from the International Vocabulary of Metrology
     (JCGM 200:2012)
@@ -160,6 +158,99 @@ datasets:
   languageOrder:
   - eng
   - fra
+  refAliases:
+  - OIML V 2-200:2012
+- id: vim-2010
+  uri: urn:jcgm:pub:200:2010
+  uriAliases:
+  - urn:jcgm:pub:200:2010*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/vim-2010
+  ref: JCGM 200:2010
+  title: VIM (2010)
+  description: Terminology definitions from the International Vocabulary of Metrology
+    (JCGM 200:2010)
+  translations:
+    fra:
+      title: VIM (2010)
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        (JCGM 200:2010)
+  owner: JCGM
+  color: "#7C93A8"
+  tags:
+  - metrology
+  - jcgm
+  - vocabulary
+  languages:
+  - eng
+  - fra
+  languageOrder:
+  - eng
+  - fra
+  refAliases:
+  - OIML V 2-200:2010
+  editionStatus: superseded
+- id: vim-2007
+  uri: urn:jcgm:pub:200:2007
+  uriAliases:
+  - urn:jcgm:pub:200:2007*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/vim-2007
+  ref: JCGM 200:2007
+  title: VIM (2007)
+  description: Terminology definitions from the International Vocabulary of Metrology
+    (JCGM 200:2007)
+  translations:
+    fra:
+      title: VIM (2007)
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        (JCGM 200:2007)
+  owner: JCGM
+  color: "#94A8B8"
+  tags:
+  - metrology
+  - jcgm
+  - vocabulary
+  languages:
+  - eng
+  - fra
+  languageOrder:
+  - eng
+  - fra
+  refAliases:
+  - OIML V 2-200:2007
+  editionStatus: superseded
+- id: vim-1993
+  uri: urn:jcgm:pub:200:1993
+  uriAliases:
+  - urn:jcgm:pub:200:1993*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/vim-1993
+  ref: ISO Guide 99:1993
+  title: VIM (1993)
+  description: Terminology definitions from the International Vocabulary of Metrology
+    (ISO Guide 99:1993)
+  translations:
+    fra:
+      title: VIM (1993)
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        (ISO Guide 99:1993)
+  owner: JCGM
+  color: "#B0BEC5"
+  tags:
+  - metrology
+  - jcgm
+  - vocabulary
+  languages:
+  - eng
+  - fra
+  languageOrder:
+  - eng
+  - fra
+  refAliases:
+  - ISO/TAG 4:1993
+  - OIML V 2:1993
+  editionStatus: superseded
 routing: []
 branding:
   primaryColor: "#004996"
