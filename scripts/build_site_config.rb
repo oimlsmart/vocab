@@ -24,15 +24,28 @@ def edition_type(edition)
   edition["id"].start_with?("viml-") ? :viml : :vim
 end
 
+def localized(deploy, field, default_lang = "eng")
+  value = deploy[field]
+  return value unless value.is_a?(Hash)
+  value[default_lang] || value.values.first
+end
+
+def localized_translations(deploy, field, default_lang)
+  value = deploy[field]
+  return {} unless value.is_a?(Hash)
+  value.each_with_object({}) do |(lang, text), map|
+    next if lang == default_lang
+    map[lang] = text
+  end
+end
+
 def build_edition_dataset(edition)
   id = edition["id"]
-  year = edition["year"]
   ref = edition["ref"]
   deploy = edition["deploy"] || {}
   color = deploy["color"] || "#6B7280"
-  title = ref
-  title_fra = ref
   languages = edition["languages"] || ["eng", "fra"]
+  default_lang = languages.first
   type = edition_type(edition)
 
   if type == :vim
@@ -47,8 +60,18 @@ def build_edition_dataset(edition)
     tags = ["metrology", "legal", "oiml", "vocabulary"]
   end
 
-  description = deploy["description"] || "Terminology definitions from the #{full_name} (#{ref})"
-  description_fra = deploy["description_fra"] || "Définitions de terminologie du #{full_name_fra} (#{ref})"
+  main_description = localized(deploy, "description", default_lang) ||
+    "Terminology definitions from the #{full_name} (#{ref})"
+
+  desc_translations = localized_translations(deploy, "description", default_lang)
+
+  translations = {}
+  desc_translations.each do |lang, desc|
+    translations[lang] = {
+      "title" => ref,
+      "description" => desc,
+    }
+  end
 
   dataset = {
     "id" => id,
@@ -57,20 +80,17 @@ def build_edition_dataset(edition)
     "sourceRepo" => "https://github.com/metanorma/oiml-viml",
     "localPath" => edition["dataset_path"],
     "ref" => ref,
-    "title" => title,
-    "description" => description,
-    "translations" => {
-      "fra" => {
-        "title" => title_fra,
-        "description" => description_fra,
-      },
-    },
+    "title" => ref,
+    "description" => main_description,
+    "translations" => translations.empty? ? nil : translations,
     "owner" => owner,
     "color" => color,
     "tags" => tags,
     "languages" => languages.dup,
     "languageOrder" => languages.dup,
   }
+
+  dataset.delete("translations") if translations.empty?
 
   if edition["ref_aliases"]
     dataset["refAliases"] = edition["ref_aliases"].dup
@@ -92,17 +112,19 @@ end
 def generate_dataset_groups
   editions = YAML.load_file(EDITIONS_PATH, permitted_classes: [Date], aliases: true)["editions"]
 
-  # Group editions by family prefix (viml-*, vim-* excluding viml-*)
   families = editions.group_by { |e| edition_type(e) }
 
   families.map do |type, family_editions|
     ids = family_editions.map { |e| e["id"] }
     current = family_editions.find { |e| e["status"] == "current" } || family_editions.first
     deploy = current["deploy"] || {}
+    default_lang = current["languages"]&.first || "eng"
+
+    group_label = localized(deploy, "title", default_lang) || current["id"]
 
     group = {
       "id" => type.to_s,
-      "label" => deploy["title"] || current["id"],
+      "label" => group_label,
       "datasets" => ids,
     }
 
@@ -110,15 +132,12 @@ def generate_dataset_groups
       group["color"] = deploy["color"]
     end
 
-    # Collect translations from the current edition's deploy section
-    translations = {}
-    deploy.each do |key, value|
-      if key =~ /\Atitle_(\w{3})\z/
-        lang = $1
-        translations[lang] = { "label" => value }
+    title_translations = localized_translations(deploy, "title", default_lang)
+    unless title_translations.empty?
+      group["translations"] = title_translations.each_with_object({}) do |(lang, label), map|
+        map[lang] = { "label" => label }
       end
     end
-    group["translations"] = translations unless translations.empty?
 
     group
   end

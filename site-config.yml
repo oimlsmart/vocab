@@ -120,14 +120,14 @@ datasets:
   localPath: datasets/viml-1968
   ref: OIML V 1:1968
   title: OIML V 1:1968
-  description: First edition, French only. Approximately 30 terms defining fundamental
-    concepts across 7 sections. OCR-derived dataset containing typographical errors.
+  description: Première édition, en français uniquement. Environ 30 termes définissant
+    les concepts fondamentaux répartis en 7 sections. Jeu de données issu d'une OCR
+    contenant des erreurs typographiques.
   translations:
-    fra:
+    eng:
       title: OIML V 1:1968
-      description: Première édition, en français uniquement. Environ 30 termes définissant
-        les concepts fondamentaux répartis en 7 sections. Jeu de données issu d'une
-        OCR contenant des erreurs typographiques.
+      description: First edition, French only. Approximately 30 terms defining fundamental
+        concepts across 7 sections. OCR-derived dataset containing typographical errors.
   owner: OIML
   color: "#D1D5DB"
   tags:
