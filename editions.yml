@@ -1,0 +1,136 @@
+# Single source of truth for VIML editions.
+#
+# Every scraper, builder, and deployment config reads from this file.
+# The supersedes chain: 2022 → 2013 → 2000 → 1968
+#
+# URN resolution:
+#   urn:oiml:pub:v:1:2022                     → viml-2022 dataset
+#   urn:oiml:pub:v:1:2022:concept:0.01        → concept 0.01 in viml-2022
+#   urn:oiml:pub:v:1:2013:concept:2.05        → concept 2.05 in viml-2013
+
+schema_version: "1"
+
+editions:
+  - id: viml-2022
+    ref: "OIML V 1:2022"
+    year: 2022
+    urn_prefix: "urn:oiml:pub:v:1:2022"
+    dataset_path: datasets/viml-2022
+    languages: [eng, fra]
+    status: current
+    supersedes: viml-2013
+    concept_count: 135
+    sections:
+      "0": "Basic terms"
+      "1": "Metrology and its legal aspects"
+      "2": "Legal metrology activities"
+      "3": "Documents and marks within legal metrology"
+      "4": "Classification of measuring instruments"
+      "5": "Construction and operation of measuring instruments"
+      "6": "Software in legal metrology"
+      "A": "Terms relating to conformity assessment"
+    sections_fra:
+      "0": "Termes fondamentaux"
+      "1": "Métrologie et ses aspects légaux"
+      "2": "Activités de métrologie légale"
+      "3": "Documents et marques en métrologie légale"
+      "4": "Classification des instruments de mesure"
+      "5": "Construction et fonctionnement des instruments de mesure"
+      "6": "Logiciel en métrologie légale"
+      "A": "Termes relatifs à l'évaluation de la conformité"
+    source:
+      format: website
+      url: http://viml.oiml.info
+      scraper: scripts/scrape_viml.rb
+    deploy:
+      color: "#004996"
+      title: "VIML — International Vocabulary of Legal Metrology"
+      title_fra: "VIML — Vocabulaire international de métrologie légale"
+
+  - id: viml-2013
+    ref: "OIML V 1:2013"
+    year: 2013
+    urn_prefix: "urn:oiml:pub:v:1:2013"
+    dataset_path: datasets/viml-2013
+    languages: [eng, fra]
+    status: superseded
+    supersedes: viml-2000
+    concept_count: 100
+    sections:
+      "0": "Basic terms"
+      "1": "Metrology and its legal aspects"
+      "2": "Legal metrology activities"
+      "3": "Documents and marks within legal metrology"
+      "4": "Classification of measuring instruments"
+      "5": "Construction and operation of measuring instruments"
+      "6": "Software in legal metrology"
+    sections_fra:
+      "0": "Termes fondamentaux"
+      "1": "Métrologie et ses aspects légaux"
+      "2": "Activités de métrologie légale"
+      "3": "Documents et marques en métrologie légale"
+      "4": "Classification des instruments de mesure"
+      "5": "Construction et fonctionnement des instruments de mesure"
+      "6": "Logiciel en métrologie légale"
+    source:
+      format: word_html
+      file: reference-docs/V001-ef13.html
+      scraper: scripts/scrape_viml_2013.rb
+    deploy:
+      color: "#6B7280"
+      title: "VIML (2013)"
+      title_fra: "VIML (2013)"
+
+  - id: viml-2000
+    ref: "OIML V 1:2000"
+    year: 2000
+    urn_prefix: "urn:oiml:pub:v:1:2000"
+    dataset_path: datasets/viml-2000
+    languages: [eng, fra]
+    status: superseded
+    supersedes: viml-1968
+    concept_count: 44
+    sections:
+      "1": "Basic terms in legal metrology"
+      "2": "Legal metrology activities"
+      "3": "Documents and marks within legal metrology"
+      "4": "Units and measuring instruments"
+    sections_fra:
+      "1": "Termes de base de métrologie légale"
+      "2": "Activités de métrologie légale"
+      "3": "Documents et marques en métrologie légale"
+      "4": "Unités et instruments de mesure"
+    source:
+      format: pdf_html
+      file: reference-docs/v001-ef00.html
+      scraper: scripts/scrape_viml_2000.rb
+    deploy:
+      color: "#9CA3AF"
+      title: "VIML (2000)"
+      title_fra: "VIML (2000)"
+
+  - id: viml-1968
+    ref: "OIML V 1:1968"
+    year: 1968
+    urn_prefix: "urn:oiml:pub:v:1:1968"
+    dataset_path: datasets/viml-1968
+    languages: [fra]
+    status: superseded
+    concept_count: 30
+    notes: "French only. OCR quality is poor — manual review required."
+    sections:
+      "0": "Métrologie"
+      "1": "Métrologie légale"
+      "2": "Activités de métrologie légale"
+      "3": "Documents et marques"
+      "4": "Unités et instruments de mesure"
+      "5": "Caractéristiques métrologiques"
+      "6": "Étalons"
+    source:
+      format: ocr_html
+      file: reference-docs/v001-f68-ocr.html
+      scraper: scripts/scrape_viml_1968.rb
+    deploy:
+      color: "#D1D5DB"
+      title: "VIML (1968)"
+      title_fra: "VIML (1968)"
