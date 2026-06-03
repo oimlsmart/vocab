@@ -2,14 +2,14 @@
 data:
   identifier: '2.50'
   localized_concepts:
-    eng: 8c962ff7-4d05-43f4-a51f-e3fc83c1dfa9
-    fra: 9616f606-8c63-4352-9e3c-5c1cbce4af4b
+    eng: ebeefc44-aa90-42d4-9811-96d0d11bb8b2
+    fra: 361a19f2-8bab-4a40-976a-58c173ea9711
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 7c5ac0b9-59ca-40a2-912a-681cc339a08d
+id: 3ac635dd-d266-46bc-928e-6f78550c12b4
 schema_version: '3'
 ---
 data:
@@ -40,7 +40,7 @@ data:
     designation: input quantity
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8c962ff7-4d05-43f4-a51f-e3fc83c1dfa9
+id: ebeefc44-aa90-42d4-9811-96d0d11bb8b2
 ---
 data:
   dates:
@@ -48,12 +48,12 @@ data:
     type: accepted
   definition:
   - content: grandeur qui doit être mesurée, ou grandeur dont la valeur peut être
-      obtenue autrement, pour calculer une valeur mesurée d’un mesurande EXEMPLE Lorsque
-      le mesurande est la longueur d'une tige d'acier à une température spécifiée,
-      la température réelle, la longueur à la température réelle et le coefficient
-      de dilatation thermique linéique de la tige sont des grandeurs d’entrée dans
-      un modèle de mesure.
-  examples: []
+      obtenue autrement, pour calculer une valeur mesurée d’un mesurande
+  examples:
+  - content: Lorsque le mesurande est la longueur d'une tige d'acier à une température
+      spécifiée, la température réelle, la longueur à la température réelle et le
+      coefficient de dilatation thermique linéique de la tige sont des grandeurs d’entrée
+      dans un modèle de mesure.
   id: 2.50-fra
   language_code: fra
   notes:
@@ -70,4 +70,4 @@ data:
     designation: grandeur d'entrée, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9616f606-8c63-4352-9e3c-5c1cbce4af4b
+id: 361a19f2-8bab-4a40-976a-58c173ea9711

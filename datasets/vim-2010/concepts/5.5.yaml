@@ -2,14 +2,14 @@
 data:
   identifier: '5.5'
   localized_concepts:
-    eng: '080c3af7-8aa8-495b-ac51-1c5407a0663a'
-    fra: c9e4263f-30a4-4175-a964-10fdbe253310
+    eng: 511f2bd5-10f9-46d7-b873-1c4ed6c5212f
+    fra: f0873243-a288-40e8-a15e-2406c0e8a1ad
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: b7052b9a-3a84-42e1-9db5-dbfa8a59668f
+id: ab42220b-ceb4-4458-9ac6-503b7db75883
 schema_version: '3'
 ---
 data:
@@ -29,7 +29,6 @@ data:
       to the secondary measurement standard.
   - content: A measurement standard having its quantity value assigned by a ratio
       primary reference measurement procedure is a secondary measurement standard.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   terms:
   - type: expression
     normative_status: preferred
@@ -39,7 +38,7 @@ data:
     designation: secondary standard
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: '080c3af7-8aa8-495b-ac51-1c5407a0663a'
+id: 511f2bd5-10f9-46d7-b873-1c4ed6c5212f
 ---
 data:
   dates:
@@ -56,11 +55,11 @@ data:
       secondaire ou mettre en oeuvre un système de mesure intermédiaire étalonné par
       l'étalon primaire, qui assigne un résultat de mesure à l'étalon secondaire.
   - content: Un étalon dont la valeur est assignée par une procédure de mesure primaire
-      de mesure de rapport est un étalon secondaire. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      de mesure de rapport est un étalon secondaire.
   terms:
   - type: expression
     normative_status: preferred
     designation: étalon secondaire, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: c9e4263f-30a4-4175-a964-10fdbe253310
+id: f0873243-a288-40e8-a15e-2406c0e8a1ad

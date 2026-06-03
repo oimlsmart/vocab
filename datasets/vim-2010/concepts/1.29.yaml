@@ -2,14 +2,14 @@
 data:
   identifier: '1.29'
   localized_concepts:
-    eng: 97ccfae8-f276-466e-986a-2ed9cc907000
-    fra: f0cb6a8a-ea3d-4760-9d6b-37f66fee89c5
+    eng: 5f30dae1-213c-4680-903f-0c5da567c79f
+    fra: 4a2eef3a-adaf-4f54-8f0a-586b4f8cae0f
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: d61ec64a-777f-480c-93ed-2377b4ca365d
+id: 81e6d7af-0b08-4c66-bac6-a1c362049aeb
 schema_version: '3'
 ---
 data:
@@ -28,7 +28,7 @@ data:
     designation: conventional reference scale
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 97ccfae8-f276-466e-986a-2ed9cc907000
+id: 5f30dae1-213c-4680-903f-0c5da567c79f
 ---
 data:
   dates:
@@ -46,4 +46,4 @@ data:
     designation: échelle de référence conventionnelle, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: f0cb6a8a-ea3d-4760-9d6b-37f66fee89c5
+id: 4a2eef3a-adaf-4f54-8f0a-586b4f8cae0f

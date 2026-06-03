@@ -2,14 +2,14 @@
 data:
   identifier: '3.6'
   localized_concepts:
-    eng: 21d37436-8281-44c5-b517-4761e7bbd181
-    fra: 013f2387-2019-460f-a02b-a9102eb46cf2
+    eng: 47656ac1-7300-4a1e-8b9f-a8b41e65eaa9
+    fra: 369a9c16-6031-4609-9eb7-5119ce421295
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 5602c9f5-8a54-4bad-b096-bdff202b60a6
+id: 37665990-4d4d-4eb7-aaee-4b82146e6c21
 schema_version: '3'
 ---
 data:
@@ -36,7 +36,7 @@ data:
     designation: material measure
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 21d37436-8281-44c5-b517-4761e7bbd181
+id: 47656ac1-7300-4a1e-8b9f-a8b41e65eaa9
 ---
 data:
   dates:
@@ -45,11 +45,12 @@ data:
   definition:
   - content: instrument de mesure qui reproduit ou fournit, d'une manière permanente
       pendant son emploi, des grandeurs d'une ou plusieurs natures, chacune avec une
-      valeur assignée EXEMPLES a) Masse marquée, b) mesure de capacité (fournissant
-      une ou plusieurs valeurs, avec ou sans échelle de valeurs), c) résistance électrique
-      étalon, d) règle graduée, e) cale étalon, f) générateur de signaux étalons,
-      g) matériau de référence certifié.
-  examples: []
+      valeur assignée
+  examples:
+  - content: a) Masse marquée, b) mesure de capacité (fournissant une ou plusieurs
+      valeurs, avec ou sans échelle de valeurs), c) résistance électrique étalon,
+      d) règle graduée, e) cale étalon, f) générateur de signaux étalons, g) matériau
+      de référence certifié.
   id: 3.6-fra
   language_code: fra
   notes:
@@ -61,4 +62,4 @@ data:
     designation: mesure matérialisée, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 013f2387-2019-460f-a02b-a9102eb46cf2
+id: 369a9c16-6031-4609-9eb7-5119ce421295

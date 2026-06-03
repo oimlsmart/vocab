@@ -2,13 +2,14 @@
 data:
   identifier: '6.13'
   localized_concepts:
-    eng: a0d8521c-55b6-42b5-87f6-362191d9b78e
+    eng: 7a46c23e-5579-40a5-b1e1-8b64054b750d
+    fra: 65418b1d-78dc-4028-9d70-dfa560dcdb21
   domains:
   - concept_id: section-6
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 26092570-271c-4fe5-8ae3-1c556ce8c931
+id: a142cad7-9e16-4e25-9799-67ab4b4b4c9c
 schema_version: '3'
 ---
 data:
@@ -16,16 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: matériau de référence (MR), m matériau ou substance dont une (ou plusieurs)
-      valeur(s)  de  la  (des)  propriété(s)  est  (sont) suffisamment  homogène(s)  et
-      bien défin1e(s) pour permettre de l'utiliser pour l'étalonnage d'un appareil,
-      !'évaluation d'une méthode de mesurage  ou  l'attribution  de  valeurs  aux
-      matériaux ��OTE  Un matériau de référence peut se présenter sous la forrT,e
-      d'un gaz, d'un iiquide O:.J d'un solide, pur ou  composé.  Des  exempies  sont  !'eau  pour
-      i'étaionnage  des  viscosimètres,  ie  saphir  qui permet  d'étalonner  la  capacité  thermique  en
-      caiorirr,étr1e  et  les  solutions  utilisées  pour l'étalonnc1ge dans l'analyse
-      chimique. Cette déf1nit1on !y compr,s ia note) est extraite du Guide ISO 30
-      1992. 48                                                     Metrclogy 1993
+  - content: material or substance one or more of whose property values are sufficiently
+      homogeneous and well established to be used for tne cali-bration of an apparatus,
+      the assessment of a measurement method, or for assigning values to materials
+      î✓OTE A reference material may be in the form of a pure or mixed gas, liquid
+      or solid. Examples are water for the calibration of viscometers, sapphire as
+      a heat-capacity calibrant in calorimetry, and soiutions used for calibration
+      in chemical ana!ysis. This definition, including the Note, is taken from ISO
+      Guide 30:1992.
   examples: []
   id: 6.13-eng
   language_code: eng
@@ -33,7 +32,33 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(6.15)"
+    designation: reference material (RM)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: a0d8521c-55b6-42b5-87f6-362191d9b78e
+id: 7a46c23e-5579-40a5-b1e1-8b64054b750d
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: matériau ou substance dont une (ou plusieurs) valeur(s)  de  la  (des)  propriété(s)  est  (sont)
+      suffisamment  homogène(s)  et bien défin1e(s) pour permettre de l'utiliser pour
+      l'étalonnage d'un appareil, !'évaluation d'une méthode de mesurage  ou  l'attribution  de  valeurs  aux
+      matériaux ��OTE  Un matériau de référence peut se présenter sous la forrT,e
+      d'un gaz, d'un iiquide O:.J d'un solide, pur ou  composé.  Des  exempies  sont  !'eau  pour
+      i'étaionnage  des  viscosimètres,  ie  saphir  qui permet  d'étalonner  la  capacité  thermique  en
+      caiorirr,étr1e  et  les  solutions  utilisées  pour l'étalonnc1ge dans l'analyse
+      chimique. Cette déf1nit1on !y compr,s ia note) est extraite du Guide ISO 30
+      1992. 48                                                     Metrclogy 1993
+  examples: []
+  id: 6.13-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matériau de référence (MR), m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 65418b1d-78dc-4028-9d70-dfa560dcdb21

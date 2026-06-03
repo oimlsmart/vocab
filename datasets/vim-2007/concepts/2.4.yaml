@@ -2,14 +2,14 @@
 data:
   identifier: '2.4'
   localized_concepts:
-    eng: 7c63c397-39dd-4276-8539-4c4872d1d3f2
-    fra: 980e1194-aa09-42a6-b549-e1e3b456500e
+    eng: bb0190d2-51c0-4cdc-8f30-e686f24a71ca
+    fra: '0088114d-034b-4375-9a97-05b110b2735e'
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: ec2cce55-4ce5-44bc-8856-b867d04b1a37
+id: fe15f233-515e-40c3-b51e-afc5f5987931
 schema_version: '3'
 ---
 data:
@@ -36,20 +36,20 @@ data:
     designation: principle of measurement
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7c63c397-39dd-4276-8539-4c4872d1d3f2
+id: bb0190d2-51c0-4cdc-8f30-e686f24a71ca
 ---
 data:
   dates:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: phénomène servant de base à un mesurage EXEMPLES a) Effet thermoélectrique
-      appliqué au mesurage de la température. b) Absorption d'énergie appliquée au
-      mesurage de la concentration en quantité de matière. c) Diminution de la concentration
-      de glucose dans le sang d'un lapin à jeun, appliquée au mesurage de la concentration
-      d'insuline dans une préparation. Note Le phénomène peut être de nature physique,
-      chimique ou biologique.
-  examples: []
+  - content: phénomène servant de base à un mesurage
+  examples:
+  - content: a) Effet thermoélectrique appliqué au mesurage de la température. b)
+      Absorption d'énergie appliquée au mesurage de la concentration en quantité de
+      matière. c) Diminution de la concentration de glucose dans le sang d'un lapin
+      à jeun, appliquée au mesurage de la concentration d'insuline dans une préparation.
+      Note Le phénomène peut être de nature physique, chimique ou biologique.
   id: 2.4-fra
   language_code: fra
   notes: []
@@ -59,4 +59,4 @@ data:
     designation: principe de mesure, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 980e1194-aa09-42a6-b549-e1e3b456500e
+id: '0088114d-034b-4375-9a97-05b110b2735e'

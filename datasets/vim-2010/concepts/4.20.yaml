@@ -2,14 +2,14 @@
 data:
   identifier: '4.20'
   localized_concepts:
-    eng: 199fe1e9-1c21-4b20-8bc0-756d815d5b3e
-    fra: 8bab3143-76a4-4d98-a832-ea02dc83667f
+    eng: f4761af2-c52c-4e33-a63d-8b9ce03d0984
+    fra: fd2348f7-2a36-4ff9-9595-f1269e25722d
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: d55b2223-a2b6-413b-9bb8-486b560b1c70
+id: 284534b3-bfd7-44cd-80ee-ac9ede3a11c3
 schema_version: '3'
 ---
 data:
@@ -28,7 +28,7 @@ data:
     designation: instrumental bias
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 199fe1e9-1c21-4b20-8bc0-756d815d5b3e
+id: f4761af2-c52c-4e33-a63d-8b9ce03d0984
 ---
 data:
   dates:
@@ -47,4 +47,4 @@ data:
     designation: biais instrumental, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8bab3143-76a4-4d98-a832-ea02dc83667f
+id: fd2348f7-2a36-4ff9-9595-f1269e25722d

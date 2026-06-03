@@ -2,13 +2,14 @@
 data:
   identifier: '3.11'
   localized_concepts:
-    eng: 17e8ca59-6ab8-4529-927a-b6723aff2722
+    eng: ac2cb6a3-78f1-423b-b236-e3432cbdc2ae
+    fra: b05e3505-3b86-457a-8801-bfab38ac552a
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 3685e2b1-c046-40a8-bf66-5919cd45c766
+id: ba2dbdc2-b79f-45b9-bc20-299d990b16ab
 schema_version: '3'
 ---
 data:
@@ -16,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: écart, m valeur moins sa valeur de référence
+  - content: value minus its reference value
   examples: []
   id: 3.11-eng
   language_code: eng
@@ -24,7 +25,25 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(-)"
+    designation: deviation
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 17e8ca59-6ab8-4529-927a-b6723aff2722
+id: ac2cb6a3-78f1-423b-b236-e3432cbdc2ae
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur moins sa valeur de référence
+  examples: []
+  id: 3.11-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: écart, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: b05e3505-3b86-457a-8801-bfab38ac552a

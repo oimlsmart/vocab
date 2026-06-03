@@ -2,13 +2,14 @@
 data:
   identifier: '1.21'
   localized_concepts:
-    eng: 61fea7da-f8d7-4723-8a49-8d9881989518
+    eng: 0bd9a56a-ab53-4c88-959e-9c6e9ddb9103
+    fra: 0dc4deb7-c6ba-404e-8e4b-208b56e61a24
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 456b1b24-a8a4-48ca-9bc2-83e581a600e0
+id: d9d8ed52-b469-41b0-bef9-4c17f2aefffe
 schema_version: '3'
 ---
 data:
@@ -16,18 +17,35 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'valeur numérique (d''une grandeur), f nombre qui multiplie l''unité
-      dans l''expression de la valeur d''une grandeur EXEMPLES dans les exemples de
-      1.18, les nombres: 5.34 0,152 0,012 5.34 0,152 0,012 534; 152; 12. 5,34 0,152
-      0,012 5,34 0,152 0,012 534; 152; 12.'
-  examples: []
+  - content: quotient of the value of a quantity and the unit used in its expression
+  examples:
+  - content: 'lr7 the examples In 1.18, the numbers:'
   id: 1.21-eng
   language_code: eng
   notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "( 1.20)"
+    designation: numerical value (of a quantity)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 61fea7da-f8d7-4723-8a49-8d9881989518
+id: 0bd9a56a-ab53-4c88-959e-9c6e9ddb9103
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nombre qui multiplie l'unité dans l'expression de la valeur d'une grandeur
+  examples:
+  - content: 'dans les exemples de 1.18, les nombres: 5.34 0,152 0,012'
+  id: 1.21-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur numérique (d'une grandeur), f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0dc4deb7-c6ba-404e-8e4b-208b56e61a24

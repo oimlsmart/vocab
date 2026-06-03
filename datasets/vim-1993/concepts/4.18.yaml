@@ -2,13 +2,14 @@
 data:
   identifier: '4.18'
   localized_concepts:
-    eng: 2a3468ef-b984-4436-99c4-ad1ff2c1e763
+    eng: a05eb96c-2189-4ef7-b39f-90dd6948d7b8
+    fra: 05c09201-b61c-4873-ada5-a4cc5eb6dfbf
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 90cd51f0-a436-4e17-a9fe-fde518ad32a7
+id: 26d99c3f-ae50-4924-a7fb-121c49549fa7
 schema_version: '3'
 ---
 data:
@@ -16,12 +17,31 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: longueur d'échelle, f pour une échelle donnée, longueur de la ligne lissée
-      comprise entre le premier et le dernier repère et passant par les milieux de
-      tous les repères les plus petits
+  - content: for a given scale, length of the smooth line between the first and last
+      scale marks and passing through the centres of ail the shortest scale marks
   examples: []
   id: 4.18-eng
   language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale length
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: a05eb96c-2189-4ef7-b39f-90dd6948d7b8
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: pour une échelle donnée, longueur de la ligne lissée comprise entre le
+      premier et le dernier repère et passant par les milieux de tous les repères
+      les plus petits
+  examples: []
+  id: 4.18-fra
+  language_code: fra
   notes:
   - content: The line may be real or imaginary, curved or straight. 2 Scale length
       is expressed in units of length, regardiess La droite. peut être reelle ou courbe
@@ -29,7 +49,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(4.20)"
+    designation: longueur d'échelle, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2a3468ef-b984-4436-99c4-ad1ff2c1e763
+id: 05c09201-b61c-4873-ada5-a4cc5eb6dfbf

@@ -2,13 +2,14 @@
 data:
   identifier: '3.3'
   localized_concepts:
-    eng: f12cf362-eb97-40ca-b4b8-c1ea78d1a858
+    eng: 5fbe2cc5-33bf-403d-aeca-4f032f4fbc1c
+    fra: da1a8f98-9c55-478f-ab77-7d1d34e0b7cd
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: fa4c70e2-eb10-448b-99d3-2e19b5af520e
+id: 4feeba52-4da0-42d3-bbb2-c8c834fead0b
 schema_version: '3'
 ---
 data:
@@ -27,4 +28,22 @@ data:
     designation: uncorrected result
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f12cf362-eb97-40ca-b4b8-c1ea78d1a858
+id: 5fbe2cc5-33bf-403d-aeca-4f032f4fbc1c
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: résultat d'un mesurage avant correction  de l'erreur systématique
+  examples: []
+  id: 3.3-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résultat brut, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: da1a8f98-9c55-478f-ab77-7d1d34e0b7cd

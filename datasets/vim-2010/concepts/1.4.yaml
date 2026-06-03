@@ -2,14 +2,14 @@
 data:
   identifier: '1.4'
   localized_concepts:
-    eng: 8855f537-9f70-4199-b926-c3420d0860ae
-    fra: bf2503c3-8195-49ed-bc99-964b3891363b
+    eng: 476f1319-85fe-4adb-8de5-50fa2d10d44a
+    fra: 993a5b82-c576-4c49-a758-7250fd1fd99e
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 93834cdc-c285-4d64-afae-f6833b75cde0
+id: c7258cce-37fa-4d24-853c-75fa0102577b
 schema_version: '3'
 ---
 data:
@@ -29,14 +29,14 @@ data:
   - content: Base quantities are referred to as being mutually independent since a
       base quantity cannot be expressed as a product of powers of the other base quantities.
   - content: "'Number of entities' can be regarded as a base quantity in any system
-      of quantities. _________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+      of quantities."
   terms:
   - type: expression
     normative_status: preferred
     designation: base quantity
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8855f537-9f70-4199-b926-c3420d0860ae
+id: 476f1319-85fe-4adb-8de5-50fa2d10d44a
 ---
 data:
   dates:
@@ -46,22 +46,23 @@ data:
   - content: grandeur d'un sous-ensemble choisi par convention dans un système de
       grandeurs donné de façon à ce qu’aucune grandeur du sous-ensemble ne puisse
       être exprimée en fonction des autres
-  examples: []
+  examples:
+  - content: L'ensemble des grandeurs de base du Système international de grandeurs
+      (ISQ) est donné en 1.6.
   id: 1.4-fra
   language_code: fra
   notes:
   - content: Le sous-ensemble mentionné dans la définition est appelé l'ensemble des
-      grandeurs de base. EXEMPLE L'ensemble des grandeurs de base du Système international
-      de grandeurs (ISQ) est donné en 1.6.
+      grandeurs de base.
   - content: Les grandeurs de base sont considérées comme mutuellement indépendantes
       puisqu’une grandeur de base ne peut être exprimée par un produit de puissances
       des autres grandeurs de base.
   - content: On peut considérer la grandeur « nombre d'entités » comme une grandeur
-      de base dans tout système de grandeurs. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      de base dans tout système de grandeurs.
   terms:
   - type: expression
     normative_status: preferred
     designation: grandeur de base, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: bf2503c3-8195-49ed-bc99-964b3891363b
+id: 993a5b82-c576-4c49-a758-7250fd1fd99e

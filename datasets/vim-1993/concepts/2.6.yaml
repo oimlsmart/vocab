@@ -2,13 +2,14 @@
 data:
   identifier: '2.6'
   localized_concepts:
-    eng: 8dbb486c-9aca-4686-a7f9-49a38ebebfbc
+    eng: 889ff5bd-4649-421d-a9ea-e46175c1995e
+    fra: 6a86c921-56ee-4f70-affc-a6e2bb2d0a0e
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: f71cc35d-4092-4feb-86aa-703c51cba447
+id: 41859aee-7bb4-4313-9883-89ffc7de0c1c
 schema_version: '3'
 ---
 data:
@@ -16,18 +17,39 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mesurande, m grandeur particulière soumise à mesurage EXEMPLE pression
-      de vapeur d'un echantillon donné d'eau à 20 °C.
+  - content: particular quantity subject to measurement
   examples: []
   id: 2.6-eng
   language_code: eng
   notes:
-  - content: La définition du mesurande peut nécessiter des indications relatives
-      à des grandeurs telles que le temps, la température et la pression.
+  - content: vapour pressure of a g1ven sample of water at 20 °C. NOTE   The specification
+      of a measurand may requ1re statements about quantities such as time, temperature
+      and pressure.
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(2.09)"
+    designation: measurand
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8dbb486c-9aca-4686-a7f9-49a38ebebfbc
+id: 889ff5bd-4649-421d-a9ea-e46175c1995e
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur particulière soumise à mesurage
+  examples: []
+  id: 2.6-fra
+  language_code: fra
+  notes:
+  - content: pression de vapeur d'un echantillon donné d'eau à 20 °C. NOTE    La définition
+      du mesurande peut nécessiter des indications relatives à des grandeurs telles
+      que le temps, la température et la pression.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mesurande, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6a86c921-56ee-4f70-affc-a6e2bb2d0a0e

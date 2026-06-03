@@ -2,14 +2,14 @@
 data:
   identifier: '5.10'
   localized_concepts:
-    eng: a318144a-06f8-499e-8c95-a6c3907f7eda
-    fra: 72493986-9a74-41a2-924d-70ffafd84192
+    eng: ff3be470-e779-4b9a-a43c-0684e11f858d
+    fra: a78daa1f-be5f-445d-bd3e-58476794d46a
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: bb721c88-9280-4556-84e8-d34aee7aa989
+id: c0acea99-3535-4df5-a933-c3ee686c9e3a
 schema_version: '3'
 ---
 data:
@@ -51,7 +51,7 @@ data:
     designation: intrinsic standard
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: a318144a-06f8-499e-8c95-a6c3907f7eda
+id: ff3be470-e779-4b9a-a43c-0684e11f858d
 ---
 data:
   dates:
@@ -59,12 +59,13 @@ data:
     type: accepted
   definition:
   - content: étalon fondé sur une propriété intrinsèque et reproductible d'un phénomène
-      ou d'une substance EXEMPLES a) Étalon intrinsèque de température thermodynamique
-      constitué d'une cellule à point triple de l'eau. b) Étalon intrinsèque de différence
-      de potentiel électrique fondé sur l'effet Josephson. c) Étalon intrinsèque de
-      résistance électrique fondé sur l'effet Hall quantique. d) Étalon intrinsèque
-      de conductivité électrique constitué d'un spécimen de cuivre.
-  examples: []
+      ou d'une substance
+  examples:
+  - content: a) Étalon intrinsèque de température thermodynamique constitué d'une
+      cellule à point triple de l'eau. b) Étalon intrinsèque de différence de potentiel
+      électrique fondé sur l'effet Josephson. c) Étalon intrinsèque de résistance
+      électrique fondé sur l'effet Hall quantique. d) Étalon intrinsèque de conductivité
+      électrique constitué d'un spécimen de cuivre.
   id: 5.10-fra
   language_code: fra
   notes:
@@ -88,4 +89,4 @@ data:
     designation: étalon intrinsèque, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 72493986-9a74-41a2-924d-70ffafd84192
+id: a78daa1f-be5f-445d-bd3e-58476794d46a

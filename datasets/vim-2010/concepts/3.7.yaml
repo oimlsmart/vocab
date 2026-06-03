@@ -2,14 +2,14 @@
 data:
   identifier: '3.7'
   localized_concepts:
-    eng: 27d8e869-eca4-47f4-82dc-6661f25b8a7c
-    fra: 2e94b4c1-8500-4236-9c67-cbaec97f2e32
+    eng: fb295379-1d54-4653-8521-d1f83be6985d
+    fra: 05a39a28-b579-481f-9cf6-416e5d86be64
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 6e7b749b-2e88-44bd-a1b6-a8feee939d7a
+id: f17b8728-8a8c-44de-b171-780dfd47452b
 schema_version: '3'
 ---
 data:
@@ -21,7 +21,7 @@ data:
       a specified relation to the input quantity
   examples:
   - content: a) Thermocouple, b) electric current transformer, c) strain gauge, d)
-      pH electrode, e) Bourdon tube, f) bimetallic strip. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      pH electrode, e) Bourdon tube, f) bimetallic strip.
   id: 3.7-eng
   language_code: eng
   notes: []
@@ -31,7 +31,7 @@ data:
     designation: measuring transducer
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 27d8e869-eca4-47f4-82dc-6661f25b8a7c
+id: fb295379-1d54-4653-8521-d1f83be6985d
 ---
 data:
   dates:
@@ -39,10 +39,10 @@ data:
     type: accepted
   definition:
   - content: dispositif, employé en mesurage, qui fait correspondre à une grandeur
-      d'entrée une grandeur de sortie selon une loi déterminée EXEMPLES a) Thermocouple,
-      b) transformateur de courant électrique, c) jauge de contrainte, d) électrode
-      de pH, e) tube de Bourdon, f) bilame. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-  examples: []
+      d'entrée une grandeur de sortie selon une loi déterminée
+  examples:
+  - content: a) Thermocouple, b) transformateur de courant électrique, c) jauge de
+      contrainte, d) électrode de pH, e) tube de Bourdon, f) bilame.
   id: 3.7-fra
   language_code: fra
   notes: []
@@ -52,4 +52,4 @@ data:
     designation: transducteur de mesure, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2e94b4c1-8500-4236-9c67-cbaec97f2e32
+id: 05a39a28-b579-481f-9cf6-416e5d86be64

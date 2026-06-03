@@ -2,14 +2,14 @@
 data:
   identifier: '4.1'
   localized_concepts:
-    eng: 064bbdbd-b82e-4d9d-91eb-b33034a8a5f6
-    fra: 71c2db10-be90-4f72-b056-267e888625ee
+    eng: daae4d1b-4f2a-4397-8fbb-b1afd65078dd
+    fra: f03cfafe-ee46-4559-a51a-ee625f61b586
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 8cfd4c67-86d4-411a-97cb-f0c0ffe8a291
+id: f3c2ee1f-57a9-46e8-ab68-25b780f34b8e
 schema_version: '3'
 ---
 data:
@@ -18,18 +18,8 @@ data:
     type: accepted
   definition:
   - content: device  intended  to  be  used  to  make measurements,  alone or in coniunction  with
-      supplementary device(s) 4.2 material measure device 1ntended to reproduce or
-      supply, in a permanent manner during its use, one or more known values of a
-      given quantity
-  examples:
-  - content: 'a weight: a weight: De nombreux termes différents sont employés pour
-      décrire le matériel qui est utilisé pour les mesurages. Ce Vocabulaire définit
-      seulement une sélection de termes préférentiels; la liste suivante, plus complète,
-      est donnée dans un ordre approximatif de complexité croissante. Ces termes ne
-      s''excluent pas mutuellement. élément composant partie transducteur de mesure
-      dispositif de mesure matériau de référence mesure matérialisée instrument de
-      mesure { appareil de mesure appareillage équipement chaîne de mesure système
-      de mesure installation de mesure'
+      supplementary device(s)
+  examples: []
   id: 4.1-eng
   language_code: eng
   notes: []
@@ -39,7 +29,7 @@ data:
     designation: measuring instrument
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 064bbdbd-b82e-4d9d-91eb-b33034a8a5f6
+id: daae4d1b-4f2a-4397-8fbb-b1afd65078dd
 ---
 data:
   dates:
@@ -47,58 +37,15 @@ data:
     type: accepted
   definition:
   - content: appareil de mesure, m dispositif destiné à être utilisé pour faire des
-      mesurages, seul ou associé à un ou plusieurs dispositifs annexes 4.2 mesure
-      matérialisée, f dispositif destiné à reproduire ou à fournir, d'une façon permanente
-      pendant son emploi, une ou plusieurs  valeurs  connues  d'une  grandeur donnée
-      EXEMPLES masse marquée; a measure of volume (of one or several values, with
-      or without a scale); a standard electrical resistor; a gauge block; a standard
-      signal generator; a reference material. masse marquée; a measure of volume (of
-      one or several values, with or without a scale); a standard electrical resistor;
-      a gauge block; a standard signal generator; a reference material.
-  examples:
-  - content: thermocouple; current transformer; strain gauge; dl pH electrode. thermocouple;
-      current transformer; strain gauge; dl pH electrode. 4.4 measuring chain series
-      of elements of a measuring instrument or system  that  constitutes  the  path  of  the
-      measurement  signal  from  the  input  to  the output EXAMPLE  an electro-acoustic
-      measuring chain compris-ing a microphone, attenuator, filter, amplifier and
-      voltmeter. 4.5 measuring system complete  set of measuring  instruments  and
-      other  equipment  assembled  to  carry  out specified measurements
-  - content: apparatus  for  measuring  the  conductivity  of semiconductor materials;
-      apparatus for the calibration of c1inical thermometers. NOTES apparatus  for  measuring  the  conductivity  of
-      semiconductor materials; apparatus for the calibration of c1inical thermometers.
-      NOTES The system may include material measures and chemical reagents. 2  A measuring
-      system that is permanently 1nst2lled is called a measuring installation. mesure
-      de capacité (à une ou plusieurs valeurs, avec ou sans échelle); résistance électrique
-      étalon; cale étalon; générateur de signaux étalons; matériau de référence. mesure
-      de capacité (à une ou plusieurs valeurs, avec ou sans échelle); résistance électrique
-      étalon; cale étalon; générateur de signaux étalons; matériau de référence.
+      mesurages, seul ou associé à un ou plusieurs dispositifs annexes
+  examples: []
   id: 4.1-fra
   language_code: fra
-  notes:
-  - content: The  quantity  concerned  may  be  called  the supplied quantity. 4.3
-      measuring transducer device that provides an output quantity having a determined
-      relationship to the input quantity
-  - content: La grandeur  en question peut  être appelée grandeur fournie. 4.3 transducteur
-      de mesure, m dispositif qui fait correspondre à une grandeur d'entrée une grandeur
-      de sortie selon une loi déterminée EXEMPLES thermocouple; transformateur de
-      courant; jauge de contrainte; électrode de pH. thermocouple; transformateur
-      de courant; jauge de contrainte; électrode de pH. 4.4 chaîne de mesure, f suite
-      d'éléments d'un appareil de mesure ou d'un système de mesure qui constitue le
-      chemin du signal de mesure depuis l'entrée jusqu'à la sortie EXEMPLE  une  chaîne  de
-      mesure  électroacoustique comprenant un microphone, un atténuateur, un filtre,
-      un amplificateur et un voltmètre. 4.5 système de mesure, m ensemble complet
-      d'instruments de mesure et autres équipements assemblés pour exécuter des mesurages
-      spécifiés EXEMPLES appareillage pour mesurer la conductivité des matériaux semiconducteurs;
-      appareillage pour l'étalonnage des thermomètres médi-caux. appareillage pour
-      mesurer la conductivité des matériaux semiconducteurs; appareillage pour l'étalonnage
-      des thermomètres médi-caux.
-  - content: Le système peut comprendre des mesures matéria-lisées et des réactifs
-      chimiques. 2 Un système de mesure installé à demeure est appelé installation
-      de mesure. 30                                                    Metro:ogy 1993
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: instrument de mesure, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 71c2db10-be90-4f72-b056-267e888625ee
+id: f03cfafe-ee46-4559-a51a-ee625f61b586

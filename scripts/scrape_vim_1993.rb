@@ -43,6 +43,11 @@ def looks_french?(text)
   text =~ FRENCH_INDICATORS ? true : false
 end
 
+def concept_number?(text)
+  cleaned = text.gsub(/[​‌‍﻿]/, "")
+  cleaned =~ /\A\d+\.\d+\z/
+end
+
 def parse_all_elements(doc)
   all_els = doc.css("p, ol").select { |el| !el.text.strip.empty? }
 
@@ -51,11 +56,12 @@ def parse_all_elements(doc)
 
   all_els.each do |el|
     text = el.text.strip
-    cls = el["class"].to_s
 
-    if cls.include?("s31") && text =~ /\A\d\.\d+\z/
+    if concept_number?(text)
+      # Normalize: strip invisible chars from concept ID
+      id = text.gsub(/[​‌‍﻿]/, "")
       concepts << current if current
-      current = { id: text, elements: [] }
+      current = { id: id, elements: [] }
       next
     end
 
@@ -79,15 +85,30 @@ def parse_concept(raw)
   elements = raw[:elements]
   return nil if elements.empty?
 
+  # Skip leading cross-reference: "(2.07)", "( 1.03)", "(-)", "(- & 4.21)", "{1.13)"
+  first = elements[0]
+  if first =~ /\A[({]\s*[^)}]*[)}]\s*\z/ && first !~ /[[:alpha:]]{3,}/
+    elements = elements[1..]
+    return nil if elements.empty?
+    first = elements[0]
+  end
+
   # First element is the term header (admitted terms + term name)
-  header = elements[0]
-  admitted, term_name = parse_term_header(header)
+  admitted, term_name = parse_term_header(first)
   return nil if term_name.nil? || term_name.empty?
+
+  # If the next element is a standalone gender marker ("m", "f", "mp", "fp"),
+  # append it to the term name and skip it from the body.
+  remaining = elements[1..]
+  if remaining && !remaining.empty? && remaining[0] =~ /\A[fm]p?\z/
+    term_name = "#{term_name}, #{remaining[0]}"
+    remaining = remaining[1..]
+  end
 
   lang = looks_french?(term_name) ? "fra" : "eng"
 
   # Remaining elements are definition, notes, examples
-  definition, notes, examples = parse_body(elements[1..])
+  definition, notes, examples = parse_body(remaining)
 
   ConceptEntry.new(
     term_id: raw[:id],
@@ -101,7 +122,8 @@ def parse_concept(raw)
 end
 
 def parse_term_header(text)
-  if text =~ /\A\(([^)]*)\)\s*(.+)/
+  # OCR may swap parentheses for curly braces: "{derived)" instead of "(derived)"
+  if text =~ /\A[({]([^)}]*)[)}]\s*(.+)/
     admitted_str = $1
     term_name = $2.strip
     if admitted_str == "-" || admitted_str.empty?
@@ -125,17 +147,22 @@ def parse_body(elements)
   current_text = nil
 
   elements.each do |text|
-    if text =~ /\ANOTES?\z/i
+    # Match section headers, tolerating OCR errors in first 1-3 chars ("î✓OTE" → NOTE)
+    stripped = text.strip
+    is_notes = stripped =~ /NOTES?\z/i && stripped.length <= 8
+    is_examples = stripped =~ /(?:EXAMPLES?|EXEMPLES?)\z/i && stripped.length <= 10
+
+    if is_notes
       finalize_section(notes, examples, current_section, current_text)
       current_section = :notes_header
       current_text = nil
       next
-    elsif text =~ /\AEXAMPLES?\z/i
+    elsif is_examples
       finalize_section(notes, examples, current_section, current_text)
       current_section = :examples_header
       current_text = nil
       next
-    elsif text =~ /\ANOTE\s+(.+)/i
+    elsif stripped =~ /(?:NOTE|EXEMPLE|EXAMPLE)\s+(.+)/i && stripped.length <= 80
       finalize_section(notes, examples, current_section, current_text)
       current_section = :note
       current_text = $1.strip
@@ -212,7 +239,8 @@ def build_concept_file(term_id, eng_data, fra_data)
   eng_uuid = SecureRandom.uuid
   fra_uuid = SecureRandom.uuid
 
-  localized = { "eng" => eng_uuid }
+  localized = {}
+  localized["eng"] = eng_uuid if eng_data
   localized["fra"] = fra_uuid if fra_data
 
   managed = {
@@ -230,10 +258,13 @@ def build_concept_file(term_id, eng_data, fra_data)
     "schema_version" => "3",
   }
 
-  eng_yaml = build_localized_yaml(eng_data)
-  eng_yaml["id"] = eng_uuid
+  docs = [managed]
 
-  docs = [managed, eng_yaml]
+  if eng_data
+    eng_yaml = build_localized_yaml(eng_data)
+    eng_yaml["id"] = eng_uuid
+    docs << eng_yaml
+  end
 
   if fra_data
     fra_yaml = build_localized_yaml(fra_data)
@@ -259,6 +290,10 @@ doc = Nokogiri::HTML(File.read(SOURCE_FILE, encoding: "utf-8"), nil, "utf-8")
 raw_concepts = parse_all_elements(doc)
 puts "Found #{raw_concepts.size} raw concept blocks"
 
+# In the OCR HTML, concepts are interleaved: first occurrence is EN, second is FR.
+# Track occurrence count per concept ID.
+occurrence_count = Hash.new(0)
+
 eng_concepts = {}
 fra_concepts = {}
 
@@ -266,17 +301,31 @@ raw_concepts.each do |raw|
   concept = parse_concept(raw)
   next unless concept
   next unless concept.term_name && !concept.term_name.empty?
+  next unless concept.term_name.match?(/[[:alpha:]]/)
 
-  if concept.language_code == "eng"
-    eng_concepts[concept.term_id] = concept
-  else
+  occurrence_count[concept.term_id] += 1
+  n = occurrence_count[concept.term_id]
+
+  if n == 2
+    # Second occurrence is always FR
+    concept.language_code = "fra"
     fra_concepts[concept.term_id] = concept
+  else
+    # First (or only) occurrence — use term name to detect language
+    lang = looks_french?(concept.term_name) ? "fra" : "eng"
+    concept.language_code = lang
+    if lang == "eng"
+      eng_concepts[concept.term_id] = concept
+    else
+      fra_concepts[concept.term_id] = concept
+    end
   end
 end
 
 puts "Found #{eng_concepts.size} English, #{fra_concepts.size} French concepts"
 
 concepts_dir = File.join(OUTPUT_DIR, "concepts")
+FileUtils.rm_rf(concepts_dir)
 FileUtils.mkdir_p(concepts_dir)
 
 all_ids = (eng_concepts.keys + fra_concepts.keys).uniq.sort_by { |id|

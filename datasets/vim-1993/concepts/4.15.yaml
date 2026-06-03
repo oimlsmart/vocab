@@ -2,13 +2,14 @@
 data:
   identifier: '4.15'
   localized_concepts:
-    eng: 64b9ffd7-40c3-4159-9ff7-ac09d6aeda82
+    eng: c5b2db65-ddab-4683-9aa0-746eee272ac7
+    fra: fada05ed-1d99-4226-97fe-3c526b1dcafb
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 66681894-2344-4834-b7d8-7d65ebb53f85
+id: 5130a203-66a5-4a21-87c2-f1e5e0f9b743
 schema_version: '3'
 ---
 data:
@@ -16,21 +17,44 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: détecteur, m dispositif ou substance qui indique la présence d'un phénomène
-      sans nécessairement fournir une valeur d'une grandeur associée EXEMPLES détecteur
-      de fuite à halogène; papier au tournesol. NOTES détecteur de fuite à halogène;
-      papier au tournesol. NOTES On peut n'avoir une indication que si la valeur de
-      la  atteint un seuil donné, parfois appelé seuil de détection du détecteur.
-      2  Dans certains domaines, le terme «détecteur)) est utilisé pour le concept
-      de «capteur».
-  examples: []
+  - content: device or substance that indicates the presence of a phenomenon without
+      necessarily providing a value of an associated quantity
+  examples:
+  - content: halogen leak detector; litmus paper. NOTES halogen leak detector; litmus
+      paper. NOTES An indication may be produced only when the value of the quantity
+      reaches a threshold, somet1mes called the detection limit of the detector. 2  ln
+      some fields the term "detector" is used for the concept of "sensor"
   id: 4.15-eng
   language_code: eng
   notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(4.16)"
+    designation: detector
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 64b9ffd7-40c3-4159-9ff7-ac09d6aeda82
+id: c5b2db65-ddab-4683-9aa0-746eee272ac7
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif ou substance qui indique la présence d'un phénomène sans nécessairement
+      fournir une valeur d'une grandeur associée
+  examples:
+  - content: détecteur de fuite à halogène; papier au tournesol. NOTES détecteur de
+      fuite à halogène; papier au tournesol. NOTES On peut n'avoir une indication
+      que si la valeur de la  atteint un seuil donné, parfois appelé seuil de détection
+      du détecteur. 2  Dans certains domaines, le terme «détecteur)) est utilisé pour
+      le concept de «capteur».
+  id: 4.15-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: détecteur, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: fada05ed-1d99-4226-97fe-3c526b1dcafb

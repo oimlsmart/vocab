@@ -2,14 +2,34 @@
 data:
   identifier: '5.12'
   localized_concepts:
-    eng: 780e3526-a3c2-4d26-b40f-a96480864c3b
+    eng: e1c3f5e0-344e-47b3-8e60-235a9047e931
+    fra: cdbd9cb5-d892-47e7-9d71-3adf0d7028fa
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 766dc51c-e8ce-434b-a210-38169db28979
+id: 1682998c-06a1-4e27-a548-81257b1bb20f
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement standard used in calibration Note The term “calibrator” is
+      only used in certain fields.
+  examples: []
+  id: 5.12-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibrator
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: e1c3f5e0-344e-47b3-8e60-235a9047e931
 ---
 data:
   dates:
@@ -19,8 +39,8 @@ data:
   - content: étalon utilisé pour des étalonnages Note En anglais, le terme « calibrator
       » n'est utilisé que dans certains domaines.
   examples: []
-  id: 5.12-eng
-  language_code: eng
+  id: 5.12-fra
+  language_code: fra
   notes: []
   terms:
   - type: expression
@@ -28,4 +48,4 @@ data:
     designation: "....."
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 780e3526-a3c2-4d26-b40f-a96480864c3b
+id: cdbd9cb5-d892-47e7-9d71-3adf0d7028fa

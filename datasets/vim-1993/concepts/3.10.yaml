@@ -2,14 +2,14 @@
 data:
   identifier: '3.10'
   localized_concepts:
-    eng: e3053a3d-70b5-4ad8-b3bb-763e3857e852
-    fra: f752c43b-c4b0-4675-9f5a-219192cbb187
+    eng: afecf348-3c8a-49b6-b92c-efe82a0cf96e
+    fra: 6336d064-3d53-46e4-bff7-d695ccf2598c
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: d4b9b4ef-ab28-4f50-82b8-3c9caeaf6659
+id: 81bbe85b-b810-4c1e-94b8-539a2f408264
 schema_version: '3'
 ---
 data:
@@ -33,7 +33,7 @@ data:
     designation: error (of measurement)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: e3053a3d-70b5-4ad8-b3bb-763e3857e852
+id: afecf348-3c8a-49b6-b92c-efe82a0cf96e
 ---
 data:
   dates:
@@ -57,4 +57,4 @@ data:
     designation: erreur (de mesure), f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f752c43b-c4b0-4675-9f5a-219192cbb187
+id: 6336d064-3d53-46e4-bff7-d695ccf2598c

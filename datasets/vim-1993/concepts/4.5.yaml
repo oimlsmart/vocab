@@ -1,0 +1,68 @@
+---
+data:
+  identifier: '4.5'
+  localized_concepts:
+    eng: 55e5ddb0-bfc2-4019-b307-d5c06932a2e0
+    fra: a8a87ff4-e941-483c-a543-bd3fe0512403
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 81fc84bb-4587-4687-b7ff-89fc7008cbaa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: complete  set of measuring  instruments  and other  equipment  assembled  to  carry  out
+      specified measurements
+  examples:
+  - content: apparatus  for  measuring  the  conductivity  of semiconductor materials;
+      apparatus for the calibration of c1inical thermometers. NOTES apparatus  for  measuring  the  conductivity  of
+      semiconductor materials; apparatus for the calibration of c1inical thermometers.
+      NOTES The system may include material measures and chemical reagents. 2  A measuring
+      system that is permanently 1nst2lled is called a measuring installation. mesure
+      de capacité (à une ou plusieurs valeurs, avec ou sans échelle); résistance électrique
+      étalon; cale étalon; générateur de signaux étalons; matériau de référence. mesure
+      de capacité (à une ou plusieurs valeurs, avec ou sans échelle); résistance électrique
+      étalon; cale étalon; générateur de signaux étalons; matériau de référence.
+  id: 4.5-eng
+  language_code: eng
+  notes:
+  - content: La grandeur  en question peut  être appelée grandeur fournie.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 55e5ddb0-bfc2-4019-b307-d5c06932a2e0
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble complet d'instruments de mesure et autres équipements assemblés
+      pour exécuter des mesurages spécifiés
+  examples:
+  - content: appareillage pour mesurer la conductivité des matériaux semiconducteurs;
+      appareillage pour l'étalonnage des thermomètres médi-caux. appareillage pour
+      mesurer la conductivité des matériaux semiconducteurs; appareillage pour l'étalonnage
+      des thermomètres médi-caux.
+  id: 4.5-fra
+  language_code: fra
+  notes:
+  - content: Le système peut comprendre des mesures matéria-lisées et des réactifs
+      chimiques. 2 Un système de mesure installé à demeure est appelé installation
+      de mesure. 30                                                    Metro:ogy 1993
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système de mesure, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: a8a87ff4-e941-483c-a543-bd3fe0512403

@@ -2,14 +2,14 @@
 data:
   identifier: '2.6'
   localized_concepts:
-    eng: eff571df-e139-4bd7-8c5c-c7420f50eafb
-    fra: ffac814c-bbe2-452c-afc4-7c435f0e9663
+    eng: b961021d-e203-4855-9936-5634631a3578
+    fra: 4cf60b8c-b65c-4f9d-84c9-27fb12871e38
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 7f693764-cbc4-474e-a131-8ee5d64dddf0
+id: 7676988d-4182-4a0f-b298-6b94b4b6e59e
 schema_version: '3'
 ---
 data:
@@ -36,7 +36,7 @@ data:
     designation: measurement procedure
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: eff571df-e139-4bd7-8c5c-c7420f50eafb
+id: b961021d-e203-4855-9936-5634631a3578
 ---
 data:
   dates:
@@ -66,4 +66,4 @@ data:
     designation: procédure opératoire, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: ffac814c-bbe2-452c-afc4-7c435f0e9663
+id: 4cf60b8c-b65c-4f9d-84c9-27fb12871e38

@@ -2,14 +2,14 @@
 data:
   identifier: '5.18'
   localized_concepts:
-    eng: 1837056e-508d-4c7b-bd19-f92e2c4a75fc
-    fra: aa329813-970c-4f6f-b0c8-a205a9ebaf83
+    eng: 8fc7a991-4bbe-4091-bfd7-1e108cfc58d1
+    fra: 965dfd20-9c6b-4a50-b7fd-e9d681fc55f1
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: d0b7e10c-e551-4f04-b074-dd53415c3073
+id: fb653215-3c3d-434d-aa25-fa4a732b29e3
 schema_version: '3'
 ---
 data:
@@ -29,7 +29,7 @@ data:
   - content: A reference quantity value with associated measurement uncertainty is
       usually provided with reference to a) a material, e.g. a certified reference
       material, b) a device, e.g. a stabilized laser, c) a reference measurement procedure,
-      d) a comparison of measurement standards. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      d) a comparison of measurement standards.
   terms:
   - type: expression
     normative_status: preferred
@@ -39,7 +39,7 @@ data:
     designation: reference value
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1837056e-508d-4c7b-bd19-f92e2c4a75fc
+id: 8fc7a991-4bbe-4091-bfd7-1e108cfc58d1
 ---
 data:
   dates:
@@ -54,39 +54,31 @@ data:
       a comprehensive concept to two or more partitive concepts which fitted together
       constitute the parent concept. The diagrams show such relations as a rake or
       bracket, and a continued backline without a tooth means one or more further
-      partitive concepts that are not discussed. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      A close-set double line indicates that several partitive concepts of a given
-      type are involved and a broken line shows that such plurality is uncertain.
-      For example, A parenthetic term indicates a concept that is not defined in the
-      Vocabulary, but is taken as a primitive which is assumed to be generally understood.
-      The associative relation (or pragmatic relation) is non-hierarchical and connects
-      two concepts which are in some sort of thematic association. There are many
-      subtypes of associative relation, but all are indicated by a double-headed arrow.
-      For example, To avoid too complicated diagrams, they do not show all the possible
-      associative relations. The diagrams will demonstrate that fully systematic derived
-      terms have not been created, often because metrology is an old discipline with
-      a vocabulary evolved by accretion rather than as a comprehensive de novo structure.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.1  Concept diagram for part of Clause 1 around ‘quantity’ _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.2  Concept diagram for part of Clause 1 around ‘measurement unit’
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.3  Concept diagram for part of Clause 2 around ‘measurement’ _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.4  Concept diagram for part of Clause 2 around ‘quantity value’ _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.5  Concept diagram for part of Clause 2 around ‘measurement precision’
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.6  Concept diagram for part of Clause 2 around ‘measurement uncertainty’
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.7  Concept diagram for part of Clause 2 around ‘calibration’ _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.8  Concept diagram for part of Clause 2 around ‘measured quantity
-      value’ _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.9  Concept diagram for part of Clause 2 around ‘measuring system’
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.10  Concept diagram for part of Clause 4 around ‘metrological properties
-      of a measuring instrument or measuring system’ _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.11  Concept diagram for part of Clause 4 around ‘operating condition’
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Figure A.12  Concept diagram for part of Clause 5 around ‘measurement standard’
-      (‘etalon’) _________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+      partitive concepts that are not discussed. A close-set double line indicates
+      that several partitive concepts of a given type are involved and a broken line
+      shows that such plurality is uncertain. For example, A parenthetic term indicates
+      a concept that is not defined in the Vocabulary, but is taken as a primitive
+      which is assumed to be generally understood. The associative relation (or pragmatic
+      relation) is non-hierarchical and connects two concepts which are in some sort
+      of thematic association. There are many subtypes of associative relation, but
+      all are indicated by a double-headed arrow. For example, To avoid too complicated
+      diagrams, they do not show all the possible associative relations. The diagrams
+      will demonstrate that fully systematic derived terms have not been created,
+      often because metrology is an old discipline with a vocabulary evolved by accretion
+      rather than as a comprehensive de novo structure. Figure A.1  Concept diagram
+      for part of Clause 1 around ‘quantity’ Figure A.2  Concept diagram for part
+      of Clause 1 around ‘measurement unit’ Figure A.3  Concept diagram for part
+      of Clause 2 around ‘measurement’ Figure A.4  Concept diagram for part of Clause
+      2 around ‘quantity value’ Figure A.5  Concept diagram for part of Clause 2
+      around ‘measurement precision’ Figure A.6  Concept diagram for part of Clause
+      2 around ‘measurement uncertainty’ Figure A.7  Concept diagram for part of
+      Clause 2 around ‘calibration’ Figure A.8  Concept diagram for part of Clause
+      2 around ‘measured quantity value’ Figure A.9  Concept diagram for part of
+      Clause 2 around ‘measuring system’ Figure A.10  Concept diagram for part of
+      Clause 4 around ‘metrological properties of a measuring instrument or measuring
+      system’ Figure A.11  Concept diagram for part of Clause 4 around ‘operating
+      condition’ Figure A.12  Concept diagram for part of Clause 5 around ‘measurement
+      standard’ (‘etalon’)"
   id: 5.18-fra
   language_code: fra
   notes:
@@ -95,20 +87,19 @@ data:
   - content: 'Une valeur de référence associée à son incertitude de mesure se rapporte
       généralement à : a) un matériau, par exemple un matériau de référence certifié,
       b) un dispositif, par exemple un laser stabilisé, c) une procédure de mesure
-      de référence, d) une comparaison d''étalons. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Annex A (Informative) Concept diagrams (This annex in English only) The 12 concept
-      diagrams in this informative Annex are intended to provide  a visual presentation
-      of the relations between the concepts defined and termed in the preceding chapters;
-       a possibility for checking whether the definitions offer adequate relations;
-       a background for identifying further needed concepts; and  a check that terms
-      are sufficiently systematic. It should be recalled, however, that a given concept
-      may be describable by many characteristics and only essential delimiting characteristics
-      are included in the definition. The area available on a page limits the number
-      of concepts that can be presented legibly, but all diagrams in principle are
-      interrelated as shown by some overlapping concepts with reference. The relations
-      used are of three types as defined by ISO 704 and ISO 1087-1. Two are hierarchical,
-      i.e. having superordinate and subordinate concepts, the third is non-hierarchical.
+      de référence, d) une comparaison d''étalons. Annex A (Informative) Concept diagrams
+      (This annex in English only) The 12 concept diagrams in this informative Annex
+      are intended to provide  a visual presentation of the relations between the
+      concepts defined and termed in the preceding chapters;  a possibility for checking
+      whether the definitions offer adequate relations;  a background for identifying
+      further needed concepts; and  a check that terms are sufficiently systematic.
+      It should be recalled, however, that a given concept may be describable by many
+      characteristics and only essential delimiting characteristics are included in
+      the definition. The area available on a page limits the number of concepts that
+      can be presented legibly, but all diagrams in principle are interrelated as
+      shown by some overlapping concepts with reference. The relations used are of
+      three types as defined by ISO 704 and ISO 1087-1. Two are hierarchical, i.e.
+      having superordinate and subordinate concepts, the third is non-hierarchical.
       The hierarchical generic relation (or genus-species relation) connects a generic
       concept and a specific concept; the latter inherits all characteristics of the
       former. The diagrams show such relations as a tree, where a short branch with
@@ -121,4 +112,4 @@ data:
     designation: valeur de référence, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: aa329813-970c-4f6f-b0c8-a205a9ebaf83
+id: 965dfd20-9c6b-4a50-b7fd-e9d681fc55f1

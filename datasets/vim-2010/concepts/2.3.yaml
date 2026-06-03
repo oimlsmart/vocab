@@ -2,14 +2,14 @@
 data:
   identifier: '2.3'
   localized_concepts:
-    eng: a65b7c44-c84c-42ba-bd92-0ae2ec1e3005
-    fra: 3e2e8ac8-0f26-4fe1-96a6-c0d54e081de8
+    eng: 866092ae-c95d-43dc-aa19-2f5630f71c2a
+    fra: 575796f8-5ed1-4a0e-93e9-445131826721
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: f75c88c3-9acc-4da2-be9c-d7a5cbc19705
+id: c342199b-13b1-403b-8b88-0a3fc3e22556
 schema_version: '3'
 ---
 data:
@@ -38,17 +38,16 @@ data:
       which the measurement is carried out, might change the phenomenon, body, or
       substance such that the quantity being measured may differ from the measurand
       as defined. In this case adequate correction is necessary.
-  - content: 'In chemistry, “analyte”, or the name of a substance or compound, are
+  - content: In chemistry, “analyte”, or the name of a substance or compound, are
       terms sometimes used for ‘measurand’. This usage is erroneous because these
-      terms do not refer to quantities. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Chapitre 2 : Mesurages'
+      terms do not refer to quantities.
   terms:
   - type: expression
     normative_status: preferred
     designation: measurand
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: a65b7c44-c84c-42ba-bd92-0ae2ec1e3005
+id: 866092ae-c95d-43dc-aa19-2f5630f71c2a
 ---
 data:
   dates:
@@ -56,7 +55,14 @@ data:
     type: accepted
   definition:
   - content: grandeur que l'on veut mesurer
-  examples: []
+  examples:
+  - content: a) La différence de potentiel entre les bornes d'une batterie peut diminuer
+      lorsqu'on la mesure en employant un voltmètre ayant une conductance interne
+      importante. La différence de potentiel en circuit ouvert peut alors être calculée
+      à partir des résistances internes de la batterie et du voltmètre. b) La longueur
+      d'une tige en équilibre avec la température ambiante de 23 °C sera différente
+      de la longueur à la température spécifiée de 20 °C, qui est le mesurande. Dans
+      ce cas, une correction est nécessaire.
   id: 2.3-fra
   language_code: fra
   notes:
@@ -69,20 +75,14 @@ data:
   - content: Il se peut que le mesurage, incluant le système de mesure et les conditions
       sous lesquelles le mesurage est effectué, modifie le phénomène, le corps ou
       la substance de sorte que la grandeur mesurée peut différer du mesurande. Dans
-      ce cas, une correction appropriée est nécessaire. EXEMPLES a) La différence
-      de potentiel entre les bornes d'une batterie peut diminuer lorsqu'on la mesure
-      en employant un voltmètre ayant une conductance interne importante. La différence
-      de potentiel en circuit ouvert peut alors être calculée à partir des résistances
-      internes de la batterie et du voltmètre. b) La longueur d'une tige en équilibre
-      avec la température ambiante de 23 °C sera différente de la longueur à la température
-      spécifiée de 20 °C, qui est le mesurande. Dans ce cas, une correction est nécessaire.
+      ce cas, une correction appropriée est nécessaire.
   - content: En chimie, l'expression « substance à analyser », ou le nom d'une substance
       ou d'un composé, sont quelquefois utilisés à la place de « mesurande ». Cet
-      usage est erroné puisque ces termes ne désignent pas des grandeurs. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      usage est erroné puisque ces termes ne désignent pas des grandeurs.
   terms:
   - type: expression
     normative_status: preferred
     designation: mesurande, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3e2e8ac8-0f26-4fe1-96a6-c0d54e081de8
+id: 575796f8-5ed1-4a0e-93e9-445131826721

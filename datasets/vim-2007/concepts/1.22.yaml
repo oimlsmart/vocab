@@ -2,14 +2,14 @@
 data:
   identifier: '1.22'
   localized_concepts:
-    eng: ba6896c0-6472-4da4-a305-c9765f8bbc3b
-    fra: f5a96cd0-95f8-4bc3-9c7e-c9e9b95a0220
+    eng: 29350a3e-81d0-4075-805d-526ac73baf66
+    fra: 40e47db2-8d4d-4615-9999-0c5a0f24235b
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: c5969e32-bf22-4384-b259-5464633cedaf
+id: 374006de-0701-4677-ab22-fbc76c779966
 schema_version: '3'
 ---
 data:
@@ -34,7 +34,7 @@ data:
     designation: quantity equation
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: ba6896c0-6472-4da4-a305-c9765f8bbc3b
+id: 29350a3e-81d0-4075-805d-526ac73baf66
 ---
 data:
   dates:
@@ -42,13 +42,13 @@ data:
     type: accepted
   definition:
   - content: relation d'égalité entre des grandeurs d'un système de grandeurs donné,
-      indépendante des unités de mesure EXEMPLES a) Q1 = ζ Q2 Q3, où Q1, Q2 et Q3
-      représentent différentes grandeurs et où ζ est un facteur numérique. b) T =
-      (1/2) mv2, où T est l'énergie cinétique et v la vitesse d'une particule spécifiée
-      de masse m. c) n = I t / F où n est la quantité de matière d’un composé univalent,
-      I est le courant électrique et t la durée de l’électrolyse, F est la constante
-      de Faraday.
-  examples: []
+      indépendante des unités de mesure
+  examples:
+  - content: a) Q1 = ζ Q2 Q3, où Q1, Q2 et Q3 représentent différentes grandeurs et
+      où ζ est un facteur numérique. b) T = (1/2) mv2, où T est l'énergie cinétique
+      et v la vitesse d'une particule spécifiée de masse m. c) n = I t / F où n est
+      la quantité de matière d’un composé univalent, I est le courant électrique et
+      t la durée de l’électrolyse, F est la constante de Faraday.
   id: 1.22-fra
   language_code: fra
   notes: []
@@ -58,4 +58,4 @@ data:
     designation: équation aux grandeurs, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: f5a96cd0-95f8-4bc3-9c7e-c9e9b95a0220
+id: 40e47db2-8d4d-4615-9999-0c5a0f24235b

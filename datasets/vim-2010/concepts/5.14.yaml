@@ -2,14 +2,14 @@
 data:
   identifier: '5.14'
   localized_concepts:
-    eng: f7d2e0b2-312d-4d7f-bbeb-461e3784d1c8
-    fra: 57739755-3d7d-4451-a1ab-0b1eefa34470
+    eng: 245e6fb7-1d0d-48ae-bb0c-cf8982f7d344
+    fra: cc1e21a6-f277-4c02-9589-e5ffc68c46fc
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: a2255372-9fe9-4b42-9d68-3257a5ff80b8
+id: 9789c7e4-d341-4a38-a0b0-a33143abf443
 schema_version: '3'
 ---
 data:
@@ -49,7 +49,7 @@ data:
     designation: CRM
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: f7d2e0b2-312d-4d7f-bbeb-461e3784d1c8
+id: 245e6fb7-1d0d-48ae-bb0c-cf8982f7d344
 ---
 data:
   dates:
@@ -59,11 +59,12 @@ data:
   - content: matériau de référence, accompagné d'une documentation délivrée par un
       organisme faisant autorité et fournissant une ou plusieurs valeurs de propriétés
       spécifiées avec les incertitudes et les traçabilités associées, en utilisant
-      des procédures valables EXEMPLE sérum humain dont la valeur assignée à la concentration
-      de cholestérol et l'incertitude de mesure associée sont indiquées dans un certificat
-      et qui sert d'étalon dans un étalonnage ou de matériau de contrôle de la justesse
-      de mesure
-  examples: []
+      des procédures valables
+  examples:
+  - content: sérum humain dont la valeur assignée à la concentration de cholestérol
+      et l'incertitude de mesure associée sont indiquées dans un certificat et qui
+      sert d'étalon dans un étalonnage ou de matériau de contrôle de la justesse de
+      mesure
   id: 5.14-fra
   language_code: fra
   notes:
@@ -91,4 +92,4 @@ data:
     designation: MRC
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 57739755-3d7d-4451-a1ab-0b1eefa34470
+id: cc1e21a6-f277-4c02-9589-e5ffc68c46fc

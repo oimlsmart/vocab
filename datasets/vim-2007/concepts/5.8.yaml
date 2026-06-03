@@ -2,14 +2,14 @@
 data:
   identifier: '5.8'
   localized_concepts:
-    eng: 9bb6ee4b-8742-4d13-9278-53d991c90ef3
-    fra: 9d310bdf-0255-4469-bffb-2a1e553d6986
+    eng: 7779fab8-45a5-4878-b9d6-7135d04501de
+    fra: b8ce1b61-fe26-4c34-8e2f-0c20ba28a7ee
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: bd8711a4-0dc3-45b3-8fb2-7dd7db53b443
+id: 56cb6d8d-d59d-4efc-8d7b-4acdc5e53c30
 schema_version: '3'
 ---
 data:
@@ -33,7 +33,7 @@ data:
     designation: travelling standard
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9bb6ee4b-8742-4d13-9278-53d991c90ef3
+id: 7779fab8-45a5-4878-b9d6-7135d04501de
 ---
 data:
   dates:
@@ -41,9 +41,9 @@ data:
     type: accepted
   definition:
   - content: étalon, parfois de construction spéciale, destiné au transport en des
-      lieux différents EXEMPLE Étalon de fréquence à césium 133, portatif et fonctionnant
-      sur accumulateur.
-  examples: []
+      lieux différents
+  examples:
+  - content: Étalon de fréquence à césium 133, portatif et fonctionnant sur accumulateur.
   id: 5.8-fra
   language_code: fra
   notes: []
@@ -53,4 +53,4 @@ data:
     designation: étalon voyageur, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9d310bdf-0255-4469-bffb-2a1e553d6986
+id: b8ce1b61-fe26-4c34-8e2f-0c20ba28a7ee

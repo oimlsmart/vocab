@@ -2,14 +2,14 @@
 data:
   identifier: '1.15'
   localized_concepts:
-    eng: e26b9f17-2a79-453a-b1f6-a7a34cc7ddc5
-    fra: 19b13ee0-1815-4482-8bdf-f0e482b8e83e
+    eng: bf70b5ed-f296-4d0f-a8db-0853ed7bdb84
+    fra: 72688b60-df4f-4ef8-93c3-9f03f7a6a711
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 57018022-2144-4b3f-8a47-2c4af5b4c8b7
+id: 688af4f9-9a9a-47f9-9e9d-8b0dc92ba164
 schema_version: '3'
 ---
 data:
@@ -21,7 +21,7 @@ data:
   examples:
   - content: a) The electronvolt (about 1.602 18 × 10-19 J) is an off-system measurement
       unit of energy with respect to the SI. b) Day, hour, minute are off-system measurement
-      units of time with respect to the SI. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      units of time with respect to the SI.
   id: 1.15-eng
   language_code: eng
   notes: []
@@ -34,18 +34,18 @@ data:
     designation: off-system unit
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: e26b9f17-2a79-453a-b1f6-a7a34cc7ddc5
+id: bf70b5ed-f296-4d0f-a8db-0853ed7bdb84
 ---
 data:
   dates:
   - date: '2010-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: unité de mesure qui n’appartient pas à un système d’unités donné EXEMPLES
-      a) L’électronvolt (environ 1,602 18 × 10-19 J) est une unité d’énergie hors
-      système pour le SI. b) Le jour, l’heure, la minute sont des unités de temps
-      hors système pour le SI. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-  examples: []
+  - content: unité de mesure qui n’appartient pas à un système d’unités donné
+  examples:
+  - content: a) L’électronvolt (environ 1,602 18 × 10-19 J) est une unité d’énergie
+      hors système pour le SI. b) Le jour, l’heure, la minute sont des unités de temps
+      hors système pour le SI.
   id: 1.15-fra
   language_code: fra
   notes: []
@@ -55,4 +55,4 @@ data:
     designation: unité hors système, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 19b13ee0-1815-4482-8bdf-f0e482b8e83e
+id: 72688b60-df4f-4ef8-93c3-9f03f7a6a711

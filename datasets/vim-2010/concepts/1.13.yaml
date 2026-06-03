@@ -2,14 +2,14 @@
 data:
   identifier: '1.13'
   localized_concepts:
-    eng: bdc71dd5-bb4b-4f6c-8a3d-e865cfba805a
-    fra: bd56d81a-1d3d-43bd-b195-30e60dee60d2
+    eng: d9dd95d9-771c-4150-9323-c255c206a990
+    fra: b887f22a-cb77-429a-9ec5-548a59dd3524
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: b6d434d0-8564-476d-9731-ef6879b22ad7
+id: c07f869a-dac4-4602-aeb2-3e8f2b3ef996
 schema_version: '3'
 ---
 data:
@@ -30,7 +30,7 @@ data:
     designation: system of units
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: bdc71dd5-bb4b-4f6c-8a3d-e865cfba805a
+id: d9dd95d9-771c-4150-9323-c255c206a990
 ---
 data:
   dates:
@@ -50,4 +50,4 @@ data:
     designation: système d'unités, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: bd56d81a-1d3d-43bd-b195-30e60dee60d2
+id: b887f22a-cb77-429a-9ec5-548a59dd3524

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.31'
+  localized_concepts:
+    eng: 641c91a8-00be-4432-8ef0-ef8f06cd53fd
+    fra: 3f0f4d0d-afda-46bb-90fb-4950626ece7e
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 9c40ebba-a455-467f-80d3-0b9b4ff71183
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: adjustment employing only the means at the disposai of the user
+  examples: []
+  id: 4.31-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user adjustment {of a measuring instrument)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 641c91a8-00be-4432-8ef0-ef8f06cd53fd
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ajustage utilisant uniquement les moyens mis à la disposition de l'utilisateur
+      Sorne  of  the  terms  used  to  describe  the characteristics of a measuring
+      instrument are equally applicable  to  a measuring  device,  a measuring transducer
+      or a measuring system and by analogy may also be applied to a material measure
+      or a reference material. The input signal to a measuring system may be called
+      the stimulus; the output signal may be called the response. ln this chapter,
+      the term "measurand" means the quantity that is applied to a measuring instrument.
+  examples: []
+  id: 4.31-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réglage (d'un instrument de mesure), m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3f0f4d0d-afda-46bb-90fb-4950626ece7e

@@ -2,14 +2,14 @@
 data:
   identifier: '2.7'
   localized_concepts:
-    eng: 8cd742e7-abbb-46ff-894c-d9e5e0969a99
-    fra: 15e66f7d-a17c-4e62-a97b-e3662b0c8616
+    eng: 26efa801-daf5-4a49-a1fe-08e8e17fc728
+    fra: e67ce100-c9dc-4da5-b465-ab9dff858f92
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 14070c4b-7039-462e-8520-0e742a27d409
+id: b1c89e7d-e362-4a66-89f2-d9fd915ac09e
 schema_version: '3'
 ---
 data:
@@ -20,7 +20,7 @@ data:
   - content: measurement procedure accepted as providing measurement results fit for
       their intended use in assessing measurement trueness of measured quantity values
       obtained from other measurement procedures for quantities of the same kind,
-      in calibration, or in characterizing reference materials. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      in calibration, or in characterizing reference materials.
   examples: []
   id: 2.7-eng
   language_code: eng
@@ -31,7 +31,7 @@ data:
     designation: reference measurement procedure
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8cd742e7-abbb-46ff-894c-d9e5e0969a99
+id: 26efa801-daf5-4a49-a1fe-08e8e17fc728
 ---
 data:
   dates:
@@ -42,7 +42,7 @@ data:
       fournissant des résultats de mesure adaptés à leur usage prévu pour l'évaluation
       de la justesse de valeurs mesurées obtenues à partir d'autres procédures de
       mesure pour des grandeurs de la même nature, pour un étalonnage ou pour la caractérisation
-      de matériaux de référence. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      de matériaux de référence.
   examples: []
   id: 2.7-fra
   language_code: fra
@@ -53,4 +53,4 @@ data:
     designation: procédure de mesure de référence, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 15e66f7d-a17c-4e62-a97b-e3662b0c8616
+id: e67ce100-c9dc-4da5-b465-ab9dff858f92

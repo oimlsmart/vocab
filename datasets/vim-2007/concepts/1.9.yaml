@@ -2,14 +2,14 @@
 data:
   identifier: '1.9'
   localized_concepts:
-    eng: 45acb04f-adfe-49ae-bdc3-04b53e67f4b7
-    fra: 53482ecb-7415-4c1a-baa9-0b8081ace295
+    eng: 9b7a86dd-e1b1-419a-ad57-9997102125b4
+    fra: bf4bad2f-5b99-4a17-b51a-22814674f129
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 41a866b6-2dbb-43b9-886a-55ddca6690f5
+id: 4c159321-4771-4183-95f5-bd1d110d4050
 schema_version: '3'
 ---
 data:
@@ -40,7 +40,7 @@ data:
       and decibel, or are expressed by quotients such as millimole per mole equal
       to 10-3 and microgram per kilogram equal to 10-9.
   - content: For a given quantity, the short term “unit” is often combined with the
-      quantity name, such as “mass unit” or “unit of mass”. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      quantity name, such as “mass unit” or “unit of mass”.
   terms:
   - type: expression
     normative_status: preferred
@@ -53,7 +53,7 @@ data:
     designation: unit
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 45acb04f-adfe-49ae-bdc3-04b53e67f4b7
+id: 9b7a86dd-e1b1-419a-ad57-9997102125b4
 ---
 data:
   dates:
@@ -83,7 +83,7 @@ data:
       ou on les exprime par des quotients comme la millimole par mole égale à 10-3,
       et le microgramme par kilogramme, égal à 10-9.
   - content: Pour une grandeur donnée, le nom abrégé « unité » est souvent combiné
-      avec le nom de la grandeur, par exemple « unité de masse ». _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      avec le nom de la grandeur, par exemple « unité de masse ».
   terms:
   - type: expression
     normative_status: preferred
@@ -93,4 +93,4 @@ data:
     designation: unité, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 53482ecb-7415-4c1a-baa9-0b8081ace295
+id: bf4bad2f-5b99-4a17-b51a-22814674f129

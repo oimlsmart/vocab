@@ -2,13 +2,14 @@
 data:
   identifier: '1.18'
   localized_concepts:
-    eng: e90c7414-b511-42cb-943c-4af6c0e1b599
+    eng: 9b5fa08a-30dd-48b8-9d28-16ab4f7ed4e8
+    fra: bcee67ab-3fe4-498a-8933-9f698778f4a4
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 9e1eaa60-d8c7-4eac-a012-7b5b8d41acb4
+id: b7411838-8be5-4821-8a64-89c09e5a8019
 schema_version: '3'
 ---
 data:
@@ -16,31 +17,50 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: valeur (d'une grandeur), f expression quantitative d'une grandeur particu-lière,
-      généralement sous la forme d'une unité de mesure multipliée par un nombre
-  examples:
-  - content: 'length of a rod: mass of a body: amount of substance length of a rod:
-      mass of a body: amount of substance 5,34 m  or 534 cm; 0,152 kg or 152 g; EXEMPLES
-      longueur d''une tige· masse d''un corps: quantité de matière longueur d''une
-      tige· masse d''un corps: quantité de matière 5,34 m  ou 534 cm; 0,152 kg ou
-      152 g; of a sample of water (H20): 0,012 mol or 12 mmol NOTES The value of a
-      quantity may be posIt1ve, negatIve or zero. The value of a quantity may be expressed
-      in more than one way. The values of quantities of dimension one are generally
-      expressed as pure numbers. A quantity that cannot be expressed as a unit of
-      measurement  multiplied  by  a  number  may  be expressed by reference to a
-      conventional reference scale or to a measurement procedure or to both. The value
-      of a quantity may be expressed in more than one way. The values of quantities
-      of dimension one are generally expressed as pure numbers. A quantity that cannot
-      be expressed as a unit of measurement  multiplied  by  a  number  may  be expressed
-      by reference to a conventional reference scale or to a measurement procedure
-      or to both.'
+  - content: magnitude  of  a particular  quantity  generally expressed as a unit
+      of measurement multiplied by a number
+  examples: []
   id: 1.18-eng
   language_code: eng
   notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(1.17)"
+    designation: value (of a quantity)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: e90c7414-b511-42cb-943c-4af6c0e1b599
+id: 9b5fa08a-30dd-48b8-9d28-16ab4f7ed4e8
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression quantitative d'une grandeur particu-lière, généralement sous
+      la forme d'une unité de mesure multipliée par un nombre
+  examples:
+  - content: 'length of a rod: mass of a body: amount of substance length of a rod:
+      mass of a body: amount of substance 5,34 m  or 534 cm; 0,152 kg or 152 g;'
+  - content: 'longueur d''une tige· masse d''un corps: quantité de matière longueur
+      d''une tige· masse d''un corps: quantité de matière 5,34 m  ou 534 cm; 0,152
+      kg ou 152 g; of a sample of water (H20): 0,012 mol or 12 mmol NOTES The value
+      of a quantity may be posIt1ve, negatIve or zero. The value of a quantity may
+      be expressed in more than one way. The values of quantities of dimension one
+      are generally expressed as pure numbers. A quantity that cannot be expressed
+      as a unit of measurement  multiplied  by  a  number  may  be expressed by reference
+      to a conventional reference scale or to a measurement procedure or to both.
+      The value of a quantity may be expressed in more than one way. The values of
+      quantities of dimension one are generally expressed as pure numbers. A quantity
+      that cannot be expressed as a unit of measurement  multiplied  by  a  number  may  be
+      expressed by reference to a conventional reference scale or to a measurement
+      procedure or to both.'
+  id: 1.18-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur (d'une grandeur), f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: bcee67ab-3fe4-498a-8933-9f698778f4a4

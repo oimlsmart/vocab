@@ -2,14 +2,14 @@
 data:
   identifier: '2.47'
   localized_concepts:
-    eng: 2cf8a2a5-9c97-4b40-a35e-1c6689f23ecb
-    fra: 22bd7143-8969-4825-9f5b-85dcab2f6e0c
+    eng: a16a963a-04a4-4d4c-a351-a22ca0dc4f44
+    fra: 16e337e1-e0ff-443a-95dc-887e26f0a126
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: c83bc2fb-a7a3-4139-9a22-70749408f1ac
+id: 1d98b944-622d-4637-a826-525dc32fc382
 schema_version: '3'
 ---
 data:
@@ -43,7 +43,7 @@ data:
     designation: metrological compatibility of measurement results
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2cf8a2a5-9c97-4b40-a35e-1c6689f23ecb
+id: a16a963a-04a4-4d4c-a351-a22ca0dc4f44
 ---
 data:
   dates:
@@ -54,7 +54,9 @@ data:
       mesure correspondant à un mesurande spécifié, telle que la valeur absolue de
       la différence des valeurs mesurées pour toute paire de résultats de mesure est
       plus petite qu'un certain multiple choisi de l'incertitude-type de cette différence
-  examples: []
+  examples:
+  - content: ", l'incertitude de mesure évaluée est trop petite), soit la grandeur
+      mesurée a changé d'un mesurage à l'autre."
   id: 2.47-fra
   language_code: fra
   notes:
@@ -62,9 +64,7 @@ data:
       dans l'erreur », puisqu'elle exprime selon quel critère décider si deux résultats
       de mesure se rapportent ou non au même mesurande. Si, dans un ensemble de mesurages
       d'un mesurande que l'on pense rester constant, un résultat de mesure n'est pas
-      compatible avec les autres, soit le mesurage n'est pas correct (par exemple,
-      l'incertitude de mesure évaluée est trop petite), soit la grandeur mesurée a
-      changé d'un mesurage à l'autre.
+      compatible avec les autres, soit le mesurage n'est pas correct (par
   - content: La corrélation entre les mesurages influence la compatibilité de mesure.
       Si les mesurages sont entièrement décorrélés, l’incertitude-type de leur différence
       est égale à la moyenne quadratique de leurs incertitudes-types (racine carrée
@@ -76,4 +76,4 @@ data:
     designation: compatibilité de mesure, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 22bd7143-8969-4825-9f5b-85dcab2f6e0c
+id: 16e337e1-e0ff-443a-95dc-887e26f0a126

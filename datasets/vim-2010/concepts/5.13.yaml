@@ -2,14 +2,14 @@
 data:
   identifier: '5.13'
   localized_concepts:
-    eng: da7beefb-99fc-46e3-95bd-d72f2b620df7
-    fra: 780ec6e9-78ab-47a7-9390-21baaa57267f
+    eng: 85669bbc-c482-4957-b7ab-80602b07951f
+    fra: 034cbd9e-00d8-4229-85fd-5ce9a0060483
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 845ad276-7db4-4f5e-9a0b-969664282148
+id: 86bf8f96-b3ad-4d41-9836-817cfe035ea7
 schema_version: '3'
 ---
 data:
@@ -55,7 +55,6 @@ data:
   - content: ISO/REMCO has an analogous definition (Accred Qual Assur:2006[7]) but
       uses the term “measurement process” to mean 'examination' (ISO 15189:2007, 3.4),
       which covers both measurement of a quantity and examination of a nominal property.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   terms:
   - type: expression
     normative_status: preferred
@@ -65,7 +64,7 @@ data:
     designation: RM
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: da7beefb-99fc-46e3-95bd-d72f2b620df7
+id: 85669bbc-c482-4957-b7ab-80602b07951f
 ---
 data:
   dates:
@@ -75,7 +74,19 @@ data:
   - content: matériau suffisamment homogène et stable en ce qui concerne des propriétés
       spécifiées, qui a été préparé pour être adapté à son utilisation prévue pour
       un mesurage ou pour l'examen de propriétés qualitatives
-  examples: []
+  examples:
+  - content: "(de matériaux de référence supports de grandeurs) a) Eau de pureté déterminée,
+      dont la viscosité dynamique est utilisée pour l'étalonnage de viscosimètres.
+      b) Sérum humain sans valeur assignée à la concentration de cholestérol intrinsèque,
+      utilisé seulement pour le contrôle de la fidélité de mesure. c) Tissu de poisson
+      contenant une fraction massique déterminée de dioxine, utilisé comme étalon
+      dans un étalonnage."
+  - content: "(de matériaux de référence supports de propriétés qualitatives) d) Nuancier
+      de couleurs indiquant une ou plusieurs couleurs spécifiées. e) ADN contenant
+      une séquence spécifiée de nucléotides. f) Urine contenant de la 19-androstènedione."
+  - content: a) Substance dont le point triple est connu dans une cellule triple point.
+      b) Verre de densité optique connue dans un support de filtre de transmission.
+      c) Sphères à granulométrie uniforme montées sur une lame de microscope.
   id: 5.13-fra
   language_code: fra
   notes:
@@ -87,20 +98,8 @@ data:
       assignées peuvent servir à l’étalonnage ou au contrôle de la justesse de mesure.
   - content: Les matériaux de référence comprennent des matériaux caractérisés par
       des grandeurs et des matériaux caractérisés par des propriétés qualitatives.
-      EXEMPLES (de matériaux de référence supports de grandeurs) a) Eau de pureté
-      déterminée, dont la viscosité dynamique est utilisée pour l'étalonnage de viscosimètres.
-      b) Sérum humain sans valeur assignée à la concentration de cholestérol intrinsèque,
-      utilisé seulement pour le contrôle de la fidélité de mesure. c) Tissu de poisson
-      contenant une fraction massique déterminée de dioxine, utilisé comme étalon
-      dans un étalonnage. EXEMPLES (de matériaux de référence supports de propriétés
-      qualitatives) d) Nuancier de couleurs indiquant une ou plusieurs couleurs spécifiées.
-      e) ADN contenant une séquence spécifiée de nucléotides. f) Urine contenant de
-      la 19-androstènedione.
   - content: Un matériau de référence est quelquefois incorporé dans un dispositif
-      fabriqué spécialement. EXEMPLES a) Substance dont le point triple est connu
-      dans une cellule triple point. b) Verre de densité optique connue dans un support
-      de filtre de transmission. c) Sphères à granulométrie uniforme montées sur une
-      lame de microscope.
+      fabriqué spécialement.
   - content: Certains matériaux de référence ont des valeurs assignées qui sont métrologiquement
       traçables à une unité de mesure en dehors d’un système d'unités. Ces matériaux
       comprennent des vaccins auxquels des unités internationales (UI) ont été assignées
@@ -112,7 +111,7 @@ data:
   - content: La définition de l'ISO/REMCO est analogue (Accred Qual Assur:2006[7]),
       mais utilise le terme « processus de mesure » pour signifier « examen » (ISO
       15189:2007, 3.4) qui couvre à la fois un mesurage de la grandeur et l'examen
-      d'une propriété qualitative. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      d'une propriété qualitative.
   terms:
   - type: expression
     normative_status: preferred
@@ -122,4 +121,4 @@ data:
     designation: MR
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 780ec6e9-78ab-47a7-9390-21baaa57267f
+id: 034cbd9e-00d8-4229-85fd-5ce9a0060483

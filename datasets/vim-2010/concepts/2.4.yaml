@@ -2,14 +2,14 @@
 data:
   identifier: '2.4'
   localized_concepts:
-    eng: 95249c2b-5f9f-4cdc-8f35-f98f6d30225d
-    fra: 33c83e69-e10d-42d4-8c22-04ac6d32355b
+    eng: 2469e288-6f2c-4ff9-b686-d53ecba595f6
+    fra: 762f2d98-6c49-414e-abe6-dd7f5a7adbb0
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 8d1adc73-806f-4689-8766-ee22b1b0127d
+id: 3f7446d8-4527-4024-a6e0-8000f94b5b43
 schema_version: '3'
 ---
 data:
@@ -36,20 +36,20 @@ data:
     designation: principle of measurement
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 95249c2b-5f9f-4cdc-8f35-f98f6d30225d
+id: 2469e288-6f2c-4ff9-b686-d53ecba595f6
 ---
 data:
   dates:
   - date: '2010-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: phénomène servant de base à un mesurage EXEMPLES a) Effet thermoélectrique
-      appliqué au mesurage de la température. b) Absorption d'énergie appliquée au
-      mesurage de la concentration en quantité de matière. c) Diminution de la concentration
-      de glucose dans le sang d'un lapin à jeun, appliquée au mesurage de la concentration
-      d'insuline dans une préparation. Note Le phénomène peut être de nature physique,
-      chimique ou biologique.
-  examples: []
+  - content: phénomène servant de base à un mesurage
+  examples:
+  - content: a) Effet thermoélectrique appliqué au mesurage de la température. b)
+      Absorption d'énergie appliquée au mesurage de la concentration en quantité de
+      matière. c) Diminution de la concentration de glucose dans le sang d'un lapin
+      à jeun, appliquée au mesurage de la concentration d'insuline dans une préparation.
+      Note Le phénomène peut être de nature physique, chimique ou biologique.
   id: 2.4-fra
   language_code: fra
   notes: []
@@ -59,4 +59,4 @@ data:
     designation: principe de mesure, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 33c83e69-e10d-42d4-8c22-04ac6d32355b
+id: 762f2d98-6c49-414e-abe6-dd7f5a7adbb0

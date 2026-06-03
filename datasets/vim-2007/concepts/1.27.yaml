@@ -2,14 +2,14 @@
 data:
   identifier: '1.27'
   localized_concepts:
-    eng: 458ed5ab-84e6-481e-8a0e-ba2655036fc7
-    fra: 17b118c2-dac9-476b-bf9c-ea871a7468e1
+    eng: adb123bc-6a59-46b4-932a-3321e2a6a367
+    fra: 0a4ecf61-dd2d-4703-aa3c-fc820e5b44a3
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 5f4f02b0-d37e-48be-8efb-16f1d2c289be
+id: 10c46eb5-a698-4928-9bba-7772c96e10a1
 schema_version: '3'
 ---
 data:
@@ -21,7 +21,6 @@ data:
       used in ranking, according to magnitude, quantities of that kind
   examples:
   - content: a) Celsius temperature scale. b) Time scale. c) Rockwell C hardness scale.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   id: 1.27-eng
   language_code: eng
   notes: []
@@ -34,7 +33,7 @@ data:
     designation: measurement scale
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 458ed5ab-84e6-481e-8a0e-ba2655036fc7
+id: adb123bc-6a59-46b4-932a-3321e2a6a367
 ---
 data:
   dates:
@@ -43,9 +42,10 @@ data:
   definition:
   - content: ensemble ordonné de valeurs de grandeurs d'une nature donnée, utilisé
       pour classer des grandeurs de cette nature en ordre croissant ou décroissant
-      de leurs expressions quantitatives EXEMPLES a) Échelle des températures Celsius.
-      b) Échelle de temps. c) Échelle de dureté C de Rockwell. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-  examples: []
+      de leurs expressions quantitatives
+  examples:
+  - content: a) Échelle des températures Celsius. b) Échelle de temps. c) Échelle
+      de dureté C de Rockwell.
   id: 1.27-fra
   language_code: fra
   notes: []
@@ -58,4 +58,4 @@ data:
     designation: échelle de mesure, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 17b118c2-dac9-476b-bf9c-ea871a7468e1
+id: 0a4ecf61-dd2d-4703-aa3c-fc820e5b44a3

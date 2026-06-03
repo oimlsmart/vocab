@@ -2,13 +2,14 @@
 data:
   identifier: '4.21'
   localized_concepts:
-    eng: 72cbe872-2266-4778-8a8c-4b72ab0d1d25
+    eng: 689ccc1f-1b3f-4b81-b38e-93f5d4fb26e0
+    fra: 545a52cf-ff27-4e71-b2d0-10937986a0d2
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: fddbf58d-51c9-48d1-b311-96428697e190
+id: 91c659d3-719b-40e0-891b-6cb4e3a9f1ac
 schema_version: '3'
 ---
 data:
@@ -16,80 +17,40 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: longueur d'une division (d'échelle), f distance entre deux repères successifs
-      mesurée le long de la même ligne que pour la longueur d'échelle
+  - content: distance between two successive scale marks measured along the same line
+      as the scale length NOTE Scale spacing is expressed in units of length, regardless
+      of the units of the measurand or the units marked on the scale. 2  La longueur
+      d'échelle est exprimée en unité de lon-gueur, quelle que soit l'unité du mesurande
+      ou l'unité marquée sur l'échelle.
   examples: []
   id: 4.21-eng
   language_code: eng
-  notes:
-  - content: La longueur d'une division est exprimée en unité de longueur, quelle
-      que soit l'unité du mesurande ou l'unité marquée sur l'échelle. 4.22 (4.24)
-      scale interval difference between the values corresponding to two successive
-      scale marks
-  - content: Scale interval is expressed in the units marked on the scale, regardless
-      of the units of the measurand. 4.23 (4.25) linear scale scale in which each
-      scale spacing is related to the corresponding scale interval by a coefficient
-      of proportionality that is constant throughout the scale
-  - content: A linear scale having constant scale intervals is called a regular scale.
-      4.24 (4.26) nonlinear scale scale in which each scale spacing is related to
-      the corresponding scale interval by a coefficient of proportionality that is
-      not constant throughout the scale
-  - content: Sorne nonlinear scales are given special names such as logarithmic scale,
-      square-law scale. 4.25 (4.27) suppressed-zero scale scale whose scale range
-      does not include the value zero EXAMPLE  scale of a clinical thermometer. 4.26
-      (4.28) expanded scale scale in which a part of the scale range occupies a scale
-      length that is disproportionately larger than other parts 4.27 (4.29) dial fixed
-      or moving part of a displaying device that carries the scale or scales
-  - content: ln some displaying dev1ces the dial takes the form of drums or dises
-      beanng numbers and mov1ng relative to a fixed index or window. 4.22 (4.24) échelon,
-      m valeur d'une division (d'échelle), f différence entre les valeurs correspondant
-      à deux repères successifs
-  - content: L'échelon est exprimé en unité marquée sur l'échelle, quelle que soit
-      l'unité du mesurande. 4.23 (4.25) échelle linéaire, f échelle dans laquelle
-      la longueur et la valeur de chaque division sont reliées par un coefficient
-      de proportionnalité constant le long de l'échelle
-  - content: Une échelle linéaire  dont les échelons  sont constants est appelée échelle
-      régulière. 4.24 (4.26) échelle non-linéaire, f échelle dans laquelle la longueur
-      et la valeur de chaque division sont reliées par un coefficient de proportionnalité
-      non constant le long de l'échelle
-  - content: Certaines échelles non-linéaires sont désignées par des  noms  spéciaux  tels  que  échelle  loga-rithmique,
-      échelle quadratique. 4.25 (4.27) échelle à zéro décalé, f échelle dont l'étendue
-      ne comporte pas la valeur zéro EXEMPLE  échelle d'un thermomètre médical. 4.26
-      (4.28) échelle dilatée, f échelle dans laquelle une partie de l'étendue occupe
-      une longueur relativement plus grande que les autres parties 4.27 (4.29) cadran,
-      m partie fixe ou mobile d'un dispositif d'affichage qui porte la ou les échelles
-  - content: Dans certains dispositifs d'affichage, le cadran prend la forme de rouleaux
-      ou de disques chiffrés se déplaçant par rapport à un index fixe ou à une fenêtre.
-      4.28 (4.30) scale numbering ordered set of numbers associated with the scale
-      marks 4.29 (4.32) gauging (of a measuring instrument) operation of fixing the
-      positions of the scale marks of a measuring instrument (in some cases of certain
-      principal marks only), in relation to the corresponding values of the measurands
-  - content: "(Applicable only to the French text ) 4.30 (4.33) adjustment (of a measuring
-      instrument) operation of bringing a measuring instrument into a state of performance
-      suitable for its use"
-  - content: Adjustment may be automatic, sem1automatic or manual. 4.31 (4.34) user
-      adjustment {of a measuring instrument) adjustment employing only the means at
-      the disposai of the user 4.28 (4.30) chiffraison d'une échelle, f ensemble ordonné
-      de nombres associés aux repères de l'échelle 4.29 (4.32) calibrage {d'un instrument
-      de mesure), m positionnement  matériel  de  chaque  repère (éventuellement de
-      certains repères principaux seulement)  d'un instrument de mesure en fonction  de  la  valeur  correspondante  du
-      mesurande
-  - content: Ne pas confondre «calibrage» et «étalonnage». 4.30 (4.33) ajustage (d'un
-      instrument de mesure), m opération destinée à amener un instrument de mesure
-      à un   de fonctionnement convenant à son utilisation
-  - content: peut être automatique, semi-automa-tique ou manuel. 4.31 (4.34) réglage
-      (d'un instrument de mesure), m ajustage utilisant uniquement les moyens mis
-      à la disposition de l'utilisateur Sorne  of  the  terms  used  to  describe  the
-      characteristics of a measuring instrument are equally applicable  to  a measuring  device,  a
-      measuring transducer or a measuring system and by analogy may also be applied
-      to a material measure or a reference material. The input signal to a measuring
-      system may be called the stimulus; the output signal may be called the response.
-      ln this chapter, the term "measurand" means the quantity that is applied to
-      a measuring instrument.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(4.23)"
+    designation: scale spacing
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 72cbe872-2266-4778-8a8c-4b72ab0d1d25
+id: 689ccc1f-1b3f-4b81-b38e-93f5d4fb26e0
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: distance entre deux repères successifs mesurée le long de la même ligne
+      que pour la longueur d'échelle NOTE La longueur d'une division est exprimée
+      en unité de longueur, quelle que soit l'unité du mesurande ou l'unité marquée
+      sur l'échelle.
+  examples: []
+  id: 4.21-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: longueur d'une division (d'échelle), f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 545a52cf-ff27-4e71-b2d0-10937986a0d2

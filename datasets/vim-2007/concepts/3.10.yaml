@@ -2,14 +2,14 @@
 data:
   identifier: '3.10'
   localized_concepts:
-    eng: fad9e571-05a1-439a-a089-b76ec47cecba
-    fra: e42c9c3f-8007-409d-88eb-cea61e7165d8
+    eng: c786a7bc-9367-4f5c-b0e9-8d57320fd4b8
+    fra: 49e37277-cfd0-4470-ae3e-4d44afa48e8a
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: a23176d9-77cb-499b-a2b9-7392b411477c
+id: 684dba97-b1cd-4d48-8493-b69fbe292868
 schema_version: '3'
 ---
 data:
@@ -22,7 +22,7 @@ data:
   examples:
   - content: a) Electro-acoustic measuring chain comprising a microphone, attenuator,
       filter, amplifier, and voltmeter. b) Mechanical measuring chain comprising a
-      Bourdon tube, system of levers, two gears, and a mechanical dial. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Bourdon tube, system of levers, two gears, and a mechanical dial.
   id: 3.10-eng
   language_code: eng
   notes: []
@@ -32,7 +32,7 @@ data:
     designation: measuring chain
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: fad9e571-05a1-439a-a089-b76ec47cecba
+id: c786a7bc-9367-4f5c-b0e9-8d57320fd4b8
 ---
 data:
   dates:
@@ -40,11 +40,11 @@ data:
     type: accepted
   definition:
   - content: suite d'éléments d'un système de mesure qui constitue un seul chemin
-      du signal depuis le capteur jusqu'à l'élément de sortie EXEMPLES a) Chaîne de
-      mesure électroacoustique comprenant un microphone, un atténuateur, un filtre,
-      un amplificateur et un voltmètre. b) Chaîne de mesure mécanique comprenant un
-      tube de Bourdon, un système de leviers et un cadran mécanique. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-  examples: []
+      du signal depuis le capteur jusqu'à l'élément de sortie
+  examples:
+  - content: a) Chaîne de mesure électroacoustique comprenant un microphone, un atténuateur,
+      un filtre, un amplificateur et un voltmètre. b) Chaîne de mesure mécanique comprenant
+      un tube de Bourdon, un système de leviers et un cadran mécanique.
   id: 3.10-fra
   language_code: fra
   notes: []
@@ -54,4 +54,4 @@ data:
     designation: chaîne de mesure, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: e42c9c3f-8007-409d-88eb-cea61e7165d8
+id: 49e37277-cfd0-4470-ae3e-4d44afa48e8a

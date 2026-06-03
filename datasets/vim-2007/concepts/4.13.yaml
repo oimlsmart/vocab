@@ -2,14 +2,14 @@
 data:
   identifier: '4.13'
   localized_concepts:
-    eng: 204e26af-c7ed-46d3-85a1-2894c05f6d46
-    fra: 04fd9912-5a39-49fc-9ad6-f07e3f5c3a74
+    eng: 0c04798a-090f-4aa5-aebd-6079acaa05a9
+    fra: c04eb2ec-be0c-4d7b-a7cb-aeb82f3f58ee
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 1dc683f8-a25c-4612-8fd8-cb163749ef39
+id: ab61fa70-a71b-4386-93a2-87a8575fcbf8
 schema_version: '3'
 ---
 data:
@@ -59,7 +59,7 @@ data:
     designation: selectivity
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 204e26af-c7ed-46d3-85a1-2894c05f6d46
+id: 0c04798a-090f-4aa5-aebd-6079acaa05a9
 ---
 data:
   dates:
@@ -70,23 +70,24 @@ data:
       selon laquelle le système fournit des valeurs mesurées pour un ou plusieurs
       mesurandes, telles que les valeurs de chaque mesurande sont indépendantes des
       autres mesurandes ou d'autres grandeurs dans le phénomène, le corps ou la substance
-      en cours d'examen EXEMPLES a) Aptitude d'un système de mesure comprenant un
-      spectromètre de masse à mesurer le rapport des courants ioniques produits par
-      deux composés spécifiés sans dépendre d'autres sources spécifiées de courant
-      électrique. b) Aptitude d'un système de mesure à mesurer la puissance d'une
-      composante d'un signal à une fréquence donnée sans perturbation par des composantes
-      du signal ou par d'autres signaux à d'autres fréquences. c) Aptitude d'un récepteur
-      à discerner un signal désiré de signaux non désirés, qui ont souvent des fréquences
-      légèrement différentes de la fréquence du signal désiré. d) Aptitude d'un système
-      de mesure de rayonnement ionisant à répondre à un rayonnement particulier à
-      mesurer en présence d'un rayonnement concomitant. e) Aptitude d'un système de
-      mesure à mesurer la concentration en quantité de matière de créatinine dans
-      le plasma sanguin par une procédure de Jaffé sans être influencé par les concentrations
+      en cours d'examen
+  examples:
+  - content: a) Aptitude d'un système de mesure comprenant un spectromètre de masse
+      à mesurer le rapport des courants ioniques produits par deux composés spécifiés
+      sans dépendre d'autres sources spécifiées de courant électrique. b) Aptitude
+      d'un système de mesure à mesurer la puissance d'une composante d'un signal à
+      une fréquence donnée sans perturbation par des composantes du signal ou par
+      d'autres signaux à d'autres fréquences. c) Aptitude d'un récepteur à discerner
+      un signal désiré de signaux non désirés, qui ont souvent des fréquences légèrement
+      différentes de la fréquence du signal désiré. d) Aptitude d'un système de mesure
+      de rayonnement ionisant à répondre à un rayonnement particulier à mesurer en
+      présence d'un rayonnement concomitant. e) Aptitude d'un système de mesure à
+      mesurer la concentration en quantité de matière de créatinine dans le plasma
+      sanguin par une procédure de Jaffé sans être influencé par les concentrations
       de glucose, d'urate, de cétone et de protéines. f) Aptitude d'un spectromètre
       de masse à mesurer les abondances en quantité de matière de l'isotope Si et
       de l'isotope 30Si dans du silicium provenant d'un dépôt géologique sans influence
       entre eux ou par l'isotope 29Si.
-  examples: []
   id: 4.13-fra
   language_code: fra
   notes:
@@ -106,4 +107,4 @@ data:
     designation: sélectivité, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 04fd9912-5a39-49fc-9ad6-f07e3f5c3a74
+id: c04eb2ec-be0c-4d7b-a7cb-aeb82f3f58ee

@@ -2,14 +2,14 @@
 data:
   identifier: '2.24'
   localized_concepts:
-    eng: fe75564d-78e7-464b-a322-a4b2d6e5e0c9
-    fra: 3773a61c-ba7e-4b54-935e-f13d323fbbec
+    eng: 2193fe5e-17c5-4281-a806-0b9e00673e54
+    fra: 6bc3cce6-7973-4b07-8437-1d37dfa686bd
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 2ef55462-d717-4586-acda-538f67390578
+id: 2e3e2c1f-7591-4b97-91b6-fa2e4ab418f0
 schema_version: '3'
 ---
 data:
@@ -26,7 +26,7 @@ data:
   notes:
   - content: The different measuring systems may use different measurement procedures.
   - content: A specification should give the conditions changed and unchanged, to
-      the extent practical. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      the extent practical.
   terms:
   - type: expression
     normative_status: preferred
@@ -36,7 +36,7 @@ data:
     designation: reproducibility condition
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: fe75564d-78e7-464b-a322-a4b2d6e5e0c9
+id: 2193fe5e-17c5-4281-a806-0b9e00673e54
 ---
 data:
   dates:
@@ -54,11 +54,11 @@ data:
       mesure différentes.
   - content: Il convient qu’une spécification relative aux conditions contienne, dans
       la mesure du possible, les conditions que l’on fait varier et celles qui restent
-      inchangées. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      inchangées.
   terms:
   - type: expression
     normative_status: preferred
     designation: condition de reproductibilité, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3773a61c-ba7e-4b54-935e-f13d323fbbec
+id: 6bc3cce6-7973-4b07-8437-1d37dfa686bd

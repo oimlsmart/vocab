@@ -2,14 +2,14 @@
 data:
   identifier: '1.12'
   localized_concepts:
-    eng: cb6eacf5-3f19-40c6-bd54-be7c96fda929
-    fra: 9f7a6f9a-79bd-4e46-8df1-28d2b283f53e
+    eng: ade4b23e-985a-4a42-959c-bb0c1c64c124
+    fra: 4e5fce63-9f78-4c17-b30d-67afcfbb2b52
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 9fdb9710-1c7e-4419-b1b0-97d49030d9ee
+id: 6f67b3f8-3c72-41df-b7c6-baf4b49c41a7
 schema_version: '3'
 ---
 data:
@@ -40,14 +40,14 @@ data:
       but not to another.
   - content: The coherent derived unit for every derived quantity of dimension one
       in a given system of units is the number one, symbol 1. Name and symbol of the
-      measurement unit one are generally not indicated. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      measurement unit one are generally not indicated.
   terms:
   - type: expression
     normative_status: preferred
     designation: coherent derived unit
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: cb6eacf5-3f19-40c6-bd54-be7c96fda929
+id: ade4b23e-985a-4a42-959c-bb0c1c64c124
 ---
 data:
   dates:
@@ -57,31 +57,31 @@ data:
   - content: unité dérivée qui, pour un système de grandeurs donné et pour un ensemble
       choisi d'unités de base, est un produit de puissances des unités de base sans
       autre facteur de proportionnalité que le nombre un
-  examples: []
+  examples:
+  - content: Si le mètre, la seconde et la mole sont des unités de base, le mètre
+      par seconde est l'unité dérivée cohérente de vitesse lorsque la vitesse est
+      définie par l'équation aux grandeurs v = dr/dt, et la mole par mètre cube est
+      l'unité dérivée cohérente de concentration en quantité de matière lorsque la
+      concentration en quantité de matière est définie par l'équation aux grandeurs
+      c = n/V. Le kilomètre par heure et le nœud, donnés comme exemples d'unités dérivées
+      en 1.11, ne sont pas des unités dérivées cohérentes dans un tel système.
+  - content: Le centimètre par seconde est l’unité dérivée cohérente de vitesse dans
+      le système d’unités CGS mais n’est pas une unité dérivée cohérente dans le SI.
   id: 1.12-fra
   language_code: fra
   notes:
   - content: Une puissance d’une unité de base est l’unité munie d’un exposant.
   - content: La cohérence ne peut être déterminée que par rapport à un système de
-      grandeurs particulier et un ensemble donné d'unités de base. EXEMPLES Si le
-      mètre, la seconde et la mole sont des unités de base, le mètre par seconde est
-      l'unité dérivée cohérente de vitesse lorsque la vitesse est définie par l'équation
-      aux grandeurs v = dr/dt, et la mole par mètre cube est l'unité dérivée cohérente
-      de concentration en quantité de matière lorsque la concentration en quantité
-      de matière est définie par l'équation aux grandeurs c = n/V. Le kilomètre par
-      heure et le nœud, donnés comme exemples d'unités dérivées en 1.11, ne sont pas
-      des unités dérivées cohérentes dans un tel système.
+      grandeurs particulier et un ensemble donné d'unités de base.
   - content: Une unité dérivée peut être cohérente par rapport à un système de grandeurs,
-      mais non par rapport à un autre. EXEMPLE Le centimètre par seconde est l’unité
-      dérivée cohérente de vitesse dans le système d’unités CGS mais n’est pas une
-      unité dérivée cohérente dans le SI.
+      mais non par rapport à un autre.
   - content: Dans tout système d’unités, l'unité dérivée cohérente de toute grandeur
       dérivée sans dimension est le nombre un, de symbole 1. Le nom et le symbole
-      de l’unité de mesure un sont généralement omis. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      de l’unité de mesure un sont généralement omis.
   terms:
   - type: expression
     normative_status: preferred
     designation: unité dérivée cohérente, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9f7a6f9a-79bd-4e46-8df1-28d2b283f53e
+id: 4e5fce63-9f78-4c17-b30d-67afcfbb2b52

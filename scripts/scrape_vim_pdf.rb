@@ -63,11 +63,17 @@ FRENCH_INDICATORS = /[éèêëàùûôîïç]|,\s*[fm]\s*$|,\s*mp\s*$|,\s*fp\s*$
 
 def looks_french?(text)
   return false unless text
-  # French gender markers: ", f", ", m", ", mp", ", fp" at end of term
   return true if text =~ FRENCH_INDICATORS
-  # French accents
-  return true if text =~ /[éèêëàùûôîïç]/
   false
+end
+
+def detect_language(term_name, definition)
+  return "eng" unless term_name
+  return "fra" if looks_french?(term_name)
+  return "eng" unless term_name =~ /\A[.\s]+\z/  # dots-only term is ambiguous
+  # Fall back to definition text for ambiguous terms
+  return "fra" if definition && looks_french?(definition)
+  "eng"
 end
 
 def find_content_boundaries(lines)
@@ -124,15 +130,15 @@ def parse_body(body_lines)
       current_section = :note
       current_text = $1.strip
       next
-    elsif line =~ /\AEXAMPLES?\s*(.*)/i
+    elsif line =~ /\A(EXAMPLES?|EXEMPLES?)\s*(.*)/i
       finalize_section(notes, examples, current_section, current_text)
       current_section = :example
-      current_text = $1.strip.empty? ? nil : $1.strip
+      current_text = $2.strip.empty? ? nil : $2.strip
       next
-    elsif line =~ /\AEXAMPLE\s+(.+)/i
+    elsif line =~ /\A(EXAMPLE|EXEMPLE)\s+(.+)/i
       finalize_section(notes, examples, current_section, current_text)
       current_section = :example
-      current_text = $1.strip
+      current_text = $2.strip
       next
     end
 
@@ -210,8 +216,23 @@ def parse_concept(lines, header_line, next_header_line, end_line)
       i += 1
       next
     end
-    # Skip page separators
-    if l =~ /OIML V 2-200/ || l =~ /JCGM 200:/
+    # Skip page separators and footers
+    if l =~ /OIML V 2-200/ || l =~ /JCGM 200:/ || l =~ /ISO Guide 99/
+      i += 1
+      next
+    end
+    # Skip long underscore separator lines
+    if l =~ /\A_{10,}\z/
+      i += 1
+      next
+    end
+    # Skip French chapter headers
+    if l =~ /\AChapitre\s+\d/
+      i += 1
+      next
+    end
+    # Skip English chapter headers
+    if l =~ /\AChapter\s+\d/
       i += 1
       next
     end
@@ -229,10 +250,11 @@ def parse_concept(lines, header_line, next_header_line, end_line)
 
   # First line is the preferred term
   term_name = body_lines[0]
-  lang = looks_french?(term_name) ? "fra" : "eng"
 
   # The rest is definition, notes, examples
   definition, notes, examples, admitted = parse_body(body_lines[1..])
+
+  lang = detect_language(term_name, definition)
 
   ConceptEntry.new(
     term_id: term_id,

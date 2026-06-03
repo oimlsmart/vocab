@@ -2,14 +2,14 @@
 data:
   identifier: '4.4'
   localized_concepts:
-    eng: d63e978b-9bb7-4803-9d0d-02b2d66557d1
-    fra: a03a21c3-f3f6-4ac3-b37a-ac406b79a893
+    eng: 7363bbc1-acb8-44c4-a72d-7911037d7184
+    fra: 68146942-1e74-42f6-b7ed-701d18afc2e0
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 998990c1-0399-4b7a-8541-4ddd9d906e0c
+id: f35131c1-c835-4e24-a0b3-17273740a999
 schema_version: '3'
 ---
 data:
@@ -27,8 +27,7 @@ data:
   notes:
   - content: A nominal indication interval is usually stated as its smallest and greatest
       quantity values, for
-  - content: 'In some fields the term is “nominal range”. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Chapitre 4 : Propriétés des dispositifs de mesure'
+  - content: In some fields the term is “nominal range”.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,7 +37,7 @@ data:
     designation: nominal interval
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: d63e978b-9bb7-4803-9d0d-02b2d66557d1
+id: 7363bbc1-acb8-44c4-a72d-7911037d7184
 ---
 data:
   dates:
@@ -55,7 +54,7 @@ data:
   notes:
   - content: Un intervalle nominal des indications est généralement exprimé en donnant
       la plus petite et la plus grande valeur, par exemple « 100 V à 200 V ».
-  - content: Dans certains domaines, le terme anglais est « nominal range ». _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  - content: Dans certains domaines, le terme anglais est « nominal range ».
   terms:
   - type: expression
     normative_status: preferred
@@ -68,4 +67,4 @@ data:
     designation: calibre, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: a03a21c3-f3f6-4ac3-b37a-ac406b79a893
+id: 68146942-1e74-42f6-b7ed-701d18afc2e0

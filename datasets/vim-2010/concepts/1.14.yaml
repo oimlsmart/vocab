@@ -2,14 +2,14 @@
 data:
   identifier: '1.14'
   localized_concepts:
-    eng: 819bc55f-6a44-4bde-ade2-0b1d9ea5c169
-    fra: 9f55ccf3-2c44-4c01-8c3d-18107b10b17a
+    eng: 38ba6c7c-0939-4f6c-b1ef-22ed6ca249d4
+    fra: 28431720-950e-456c-a0da-c61421f0fab6
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 6eba8bda-8a91-4a86-b571-f662840cf12f
+id: f1de4eed-f0a8-446f-be9f-aa1f60bcb66b
 schema_version: '3'
 ---
 data:
@@ -34,7 +34,7 @@ data:
     designation: coherent system of units
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 819bc55f-6a44-4bde-ade2-0b1d9ea5c169
+id: 38ba6c7c-0939-4f6c-b1ef-22ed6ca249d4
 ---
 data:
   dates:
@@ -43,8 +43,8 @@ data:
   definition:
   - content: système d'unités, fondé sur un système de grandeurs donné, dans lequel
       l'unité de mesure de chaque grandeur dérivée est une unité dérivée cohérente
-      EXEMPLE L'ensemble des unités SI cohérentes et les relations entre elles.
-  examples: []
+  examples:
+  - content: L'ensemble des unités SI cohérentes et les relations entre elles.
   id: 1.14-fra
   language_code: fra
   notes:
@@ -59,4 +59,4 @@ data:
     designation: système cohérent d'unités, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9f55ccf3-2c44-4c01-8c3d-18107b10b17a
+id: 28431720-950e-456c-a0da-c61421f0fab6

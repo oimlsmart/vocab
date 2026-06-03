@@ -2,13 +2,14 @@
 data:
   identifier: '3.13'
   localized_concepts:
-    eng: f29c8830-3c9d-4133-8fae-d9bf9b75d0ca
+    eng: 10b88b4b-c4a6-489c-b9f4-ab806d424f5f
+    fra: 78bb0579-1feb-48e6-949e-fa1a02f65cdb
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: d296f025-e69b-403c-bf56-cca4828a6162
+id: 7a73e66c-eea2-4dcb-9837-0ae363b7e9a4
 schema_version: '3'
 ---
 data:
@@ -16,11 +17,33 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: erreur aléatoire, f résultat d'un mesurage moins la moyenne d'un nombre
-      infini de mesurages du même mesu-rande, effectués dans les conditions de répéta-bilité
+  - content: result of a measurement minus the mean that would  result  from  an  infinite  number  of
+      measurements of the same measurand carried out under repeatability conditions
   examples: []
   id: 3.13-eng
   language_code: eng
+  notes:
+  - content: Random error is equal to error minus systematic error. 2 Because only
+      a finite number of measurements can be made, it is possible to determine only
+      an estimate of random error.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: random error
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 10b88b4b-c4a6-489c-b9f4-ab806d424f5f
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: résultat d'un mesurage moins la moyenne d'un nombre infini de mesurages
+      du même mesu-rande, effectués dans les conditions de répéta-bilité
+  examples: []
+  id: 3.13-fra
+  language_code: fra
   notes:
   - content: L'erreur aléatoire est égale à l'erreur moins l'erreur systématique.
       2  Comme on ne peut faire qu'un nombre fini de mesu-rages, il est seulement
@@ -28,7 +51,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(3.12)"
+    designation: erreur aléatoire, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f29c8830-3c9d-4133-8fae-d9bf9b75d0ca
+id: 78bb0579-1feb-48e6-949e-fa1a02f65cdb

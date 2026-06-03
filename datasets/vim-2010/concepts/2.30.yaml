@@ -2,14 +2,14 @@
 data:
   identifier: '2.30'
   localized_concepts:
-    eng: a5366e0f-3c73-4ab4-be50-4f1641b57bde
-    fra: 2ef65474-6a40-45dc-a8b6-5f1b189efccb
+    eng: 9038b8c2-32db-44fd-9b24-589008cb43ce
+    fra: fed3e9a4-a4aa-48f6-8ab8-8becfc9cc4d1
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 54fd75d2-ad04-46ab-9ba8-eccc38696e76
+id: a027afef-263f-452c-8b1e-bdd64be2ba64
 schema_version: '3'
 ---
 data:
@@ -29,7 +29,7 @@ data:
     designation: standard measurement uncertainty
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: a5366e0f-3c73-4ab4-be50-4f1641b57bde
+id: 9038b8c2-32db-44fd-9b24-589008cb43ce
 ---
 data:
   dates:
@@ -47,4 +47,4 @@ data:
     designation: incertitude-type, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2ef65474-6a40-45dc-a8b6-5f1b189efccb
+id: fed3e9a4-a4aa-48f6-8ab8-8becfc9cc4d1

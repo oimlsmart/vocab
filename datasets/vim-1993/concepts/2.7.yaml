@@ -2,13 +2,14 @@
 data:
   identifier: '2.7'
   localized_concepts:
-    eng: b3d29fc7-ed77-46c4-b34b-4738ec6ac6c4
+    eng: d9fe48c5-651b-4878-a764-0313715ec5bd
+    fra: 8b7275d1-e719-423c-83d0-6d925e10d8e6
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: a4e9bf40-690c-4114-a3a2-9bcfc4d0cf83
+id: cac4c29c-46bf-4fd8-92e1-410610d5075a
 schema_version: '3'
 ---
 data:
@@ -16,23 +17,49 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur d'influence, f grandeur qui n'est pas le mesurande mais qui
-      a un effet sur le résultat du mesurage EXEMPLES temperature d'un micromètre
-      lors de la mesure d'une longueur; fréquence lors de la mesure de l'amplitude
-      d'une tension électrique alternative; concentration en bilirubine lors de la
-      mesure de la concentration en hémoglobine dans un échantillon de plasma sanguin
-      humain. temperature d'un micromètre lors de la mesure d'une longueur; fréquence
-      lors de la mesure de l'amplitude d'une tension électrique alternative; concentration
-      en bilirubine lors de la mesure de la concentration en hémoglobine dans un échantillon
-      de plasma sanguin humain.
-  examples: []
+  - content: quantity that is not the measurand but that affects the result of the
+      measurement
+  examples:
+  - content: temperature of a micrometer used to measure length; frequency in the
+      measurement of the amplitude of an alternating electric potential difference;
+      bilirubin  concentration  in  the  measurement  of haemoglobin concentration
+      1n a sample of human blood plasma. temperature of a micrometer used to measure
+      length; frequency in the measurement of the amplitude of an alternating electric
+      potential difference; bilirubin  concentration  in  the  measurement  of haemoglobin
+      concentration 1n a sample of human blood plasma.
   id: 2.7-eng
   language_code: eng
   notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(2.10)"
+    designation: influence quantity
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: b3d29fc7-ed77-46c4-b34b-4738ec6ac6c4
+id: d9fe48c5-651b-4878-a764-0313715ec5bd
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur qui n'est pas le mesurande mais qui a un effet sur le résultat
+      du mesurage
+  examples:
+  - content: temperature d'un micromètre lors de la mesure d'une longueur; fréquence
+      lors de la mesure de l'amplitude d'une tension électrique alternative; concentration
+      en bilirubine lors de la mesure de la concentration en hémoglobine dans un échantillon
+      de plasma sanguin humain. temperature d'un micromètre lors de la mesure d'une
+      longueur; fréquence lors de la mesure de l'amplitude d'une tension électrique
+      alternative; concentration en bilirubine lors de la mesure de la concentration
+      en hémoglobine dans un échantillon de plasma sanguin humain.
+  id: 2.7-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur d'influence, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8b7275d1-e719-423c-83d0-6d925e10d8e6

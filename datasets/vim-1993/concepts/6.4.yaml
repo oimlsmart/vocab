@@ -2,14 +2,14 @@
 data:
   identifier: '6.4'
   localized_concepts:
-    eng: 22df9477-3857-4e25-a235-e3e5ba519211
-    fra: 6cd80f3d-c195-4d4f-9c31-95dbbda96368
+    eng: 3b4c036d-acc1-4058-9bf9-475a764250ab
+    fra: d07f9b95-4919-4fc1-851f-b02f774d9444
   domains:
   - concept_id: section-6
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 5e57f58b-03a4-451d-b18c-4475297505b6
+id: 954a5db0-27c6-4540-a29d-65ebe6250e0f
 schema_version: '3'
 ---
 data:
@@ -19,20 +19,19 @@ data:
   definition:
   - content: standard that is designated or widely acknowl-edged  as  having  the  highest  metrological
       qualities and whose value is accepted without reference  to  other  standards  of  the  same
-      quantity
+      quantity NOTE The concept of primary standard is equally valid for base quantities
+      and derived quantities.
   examples: []
   id: 6.4-eng
   language_code: eng
-  notes:
-  - content: The concept of primary standard is equally valid for base quantities
-      and derived quantities.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: primary standard
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 22df9477-3857-4e25-a235-e3e5ba519211
+id: 3b4c036d-acc1-4058-9bf9-475a764250ab
 ---
 data:
   dates:
@@ -41,17 +40,16 @@ data:
   definition:
   - content: étalon qui est désigné ou largement reconnu comme  présentant  les  plus  hautes  qualités
       métrologiques et dont la valeur est établie sans se référer  à  d'autres  étalons  de  la  même
-      grandeur
+      grandeur NOTE Le concept d'étalon primaire est valable aussi bien pour les grandeurs
+      de base que pour les grandeurs dérivées.
   examples: []
   id: 6.4-fra
   language_code: fra
-  notes:
-  - content: Le concept d'étalon primaire est valable aussi bien pour les grandeurs
-      de base que pour les grandeurs dérivées.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: étalon primaire, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6cd80f3d-c195-4d4f-9c31-95dbbda96368
+id: d07f9b95-4919-4fc1-851f-b02f774d9444

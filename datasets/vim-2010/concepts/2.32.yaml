@@ -2,14 +2,14 @@
 data:
   identifier: '2.32'
   localized_concepts:
-    eng: d6bf4a8c-8f0a-4665-99bf-2f6874ad533f
-    fra: a60ade4f-79ba-40ae-a7d6-7dca79b492d2
+    eng: e0ef9c5f-7690-4a4e-b13e-f0b60f4bdce6
+    fra: 8320279a-9689-4731-92e3-d5275394f819
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: a04638b4-c825-4cd9-88cc-5cdcc313d748
+id: 5753f5c2-d220-4a6f-aba6-d2da9c283be3
 schema_version: '3'
 ---
 data:
@@ -18,7 +18,7 @@ data:
     type: accepted
   definition:
   - content: standard measurement uncertainty divided by the absolute value of the
-      measured quantity value. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      measured quantity value.
   examples: []
   id: 2.32-eng
   language_code: eng
@@ -29,7 +29,7 @@ data:
     designation: relative standard measurement uncertainty
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: d6bf4a8c-8f0a-4665-99bf-2f6874ad533f
+id: e0ef9c5f-7690-4a4e-b13e-f0b60f4bdce6
 ---
 data:
   dates:
@@ -37,7 +37,6 @@ data:
     type: accepted
   definition:
   - content: quotient de l'incertitude-type par la valeur absolue de la valeur mesurée.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   examples: []
   id: 2.32-fra
   language_code: fra
@@ -48,4 +47,4 @@ data:
     designation: incertitude-type relative, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: a60ade4f-79ba-40ae-a7d6-7dca79b492d2
+id: 8320279a-9689-4731-92e3-d5275394f819

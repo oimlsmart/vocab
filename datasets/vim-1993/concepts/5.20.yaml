@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '5.20'
+  localized_concepts:
+    eng: 2e1d8934-71d7-4803-862c-83a1d173111a
+    fra: 8673154c-2b1a-4f92-8462-6f6cd6e5d6d8
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 8765ab85-3434-4e84-9ffd-78f70fcc8630
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of a measuring instrument minus a true value of the corresponding
+      input quantity
+  examples: []
+  id: 5.20-eng
+  language_code: eng
+  notes:
+  - content: Since a true value cannot be determined, in practice a conventional true
+      value is used (see 1.19 and î .20). This concept applies mainly where the instrument
+      is compared to a reference standard. For a material measure, the indication
+      is the value assigned to it. This concept applies mainly where the instrument
+      is compared to a reference standard. For a material measure, the indication
+      is the value assigned to it.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication) of a measuring instrument
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2e1d8934-71d7-4803-862c-83a1d173111a
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication d'un instrument de mesure moins une valeur vraie de la grandeur
+      d'entrée corres-pondante
+  examples: []
+  id: 5.20-fra
+  language_code: fra
+  notes:
+  - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, on utilise
+      dans la pratique une valeur conventionnellement vraie (voir 1. î 9 et 1.20).
+      Ce  concept  s'applique  principalement  lorsqu'on compare l'instrument à un
+      étalon de référence. Pour une mesure matérialisée, l'indication est la valeur
+      qui lui est assignée. Ce  concept  s'applique  principalement  lorsqu'on compare
+      l'instrument à un étalon de référence. Pour une mesure matérialisée, l'indication
+      est la valeur qui lui est assignée.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur (d'indication) d'un instrument de mesure, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8673154c-2b1a-4f92-8462-6f6cd6e5d6d8

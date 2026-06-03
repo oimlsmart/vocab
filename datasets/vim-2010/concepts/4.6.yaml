@@ -2,14 +2,14 @@
 data:
   identifier: '4.6'
   localized_concepts:
-    eng: dc2a1c71-1bfd-44ee-8760-505529425813
-    fra: '0966c34f-d4f4-435f-a1f9-34f49941353d'
+    eng: c19d86d2-33b5-44cd-9680-7e5ed34ef6f0
+    fra: 4a5da497-2c2f-4480-9823-b60dce86e9b9
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: a65c79d1-2485-4c8e-a31a-e43c8ae73ab4
+id: 6fa30d8d-bce6-4255-aaea-432e369e5d50
 schema_version: '3'
 ---
 data:
@@ -38,7 +38,7 @@ data:
     designation: nominal value
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: dc2a1c71-1bfd-44ee-8760-505529425813
+id: c19d86d2-33b5-44cd-9680-7e5ed34ef6f0
 ---
 data:
   dates:
@@ -47,14 +47,14 @@ data:
   definition:
   - content: valeur arrondie ou approximative d'une grandeur caractéristique d'un
       instrument de mesure ou d'un système de mesure, qui sert de guide pour son utilisation
-      appropriée EXEMPLES a) La valeur 100 Ω marquée sur une résistance étalon. b)
-      La valeur 1000 ml marquée sur une fiole jaugée à un trait. c) La valeur 0,1
-      mol/l de la concentration en quantité de matière d'une solution d'acide chlorhydrique,
-      HCl. d) La valeur 20 °C d'une température Celsius maximale de stockage. Note
-      En anglais, il convient de ne pas utiliser « nominal quantity value » et « nominal
-      value » pour la valeur d’une propriété qualitative (en anglais « nominal property
-      value »).
-  examples: []
+      appropriée
+  examples:
+  - content: a) La valeur 100 Ω marquée sur une résistance étalon. b) La valeur 1000
+      ml marquée sur une fiole jaugée à un trait. c) La valeur 0,1 mol/l de la concentration
+      en quantité de matière d'une solution d'acide chlorhydrique, HCl. d) La valeur
+      20 °C d'une température Celsius maximale de stockage. Note En anglais, il convient
+      de ne pas utiliser « nominal quantity value » et « nominal value » pour la valeur
+      d’une propriété qualitative (en anglais « nominal property value »).
   id: 4.6-fra
   language_code: fra
   notes: []
@@ -64,4 +64,4 @@ data:
     designation: valeur nominale, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: '0966c34f-d4f4-435f-a1f9-34f49941353d'
+id: 4a5da497-2c2f-4480-9823-b60dce86e9b9

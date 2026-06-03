@@ -2,14 +2,14 @@
 data:
   identifier: '1.8'
   localized_concepts:
-    eng: caf0b24b-a6e6-47ed-8552-8ad6318dc250
-    fra: 67efa9c3-2af4-49d6-a8fe-89938bff63fb
+    eng: 6d4016af-a794-4620-9acd-2e8e8e9c2183
+    fra: d7c34fb5-8f2e-4370-82aa-04c5af583288
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: '09026853-833e-4f1f-aec6-b48193131231'
+id: 1124f4bc-e844-499b-bcb9-3ba649e65faf
 schema_version: '3'
 ---
 data:
@@ -47,7 +47,7 @@ data:
     designation: dimensionless quantity
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: caf0b24b-a6e6-47ed-8552-8ad6318dc250
+id: 6d4016af-a794-4620-9acd-2e8e8e9c2183
 ---
 data:
   dates:
@@ -56,7 +56,11 @@ data:
   definition:
   - content: grandeur de dimension un, f grandeur pour laquelle tous les exposants
       des facteurs correspondant aux grandeur de base dans sa dimension sont nuls
-  examples: []
+  examples:
+  - content: Angle plan, angle solide, indice de réfraction, perméabilité relative,
+      fraction massique, facteur de frottement, nombre de Mach.
+  - content: Nombre de tours dans une bobine, nombre de molécules dans un spécimen
+      donné, dégénérescence des niveaux d'énergie d'un système quantique.
   id: 1.8-fra
   language_code: fra
   notes:
@@ -69,16 +73,12 @@ data:
   - content: Les unités de mesure et les valeurs des grandeurs sans dimension sont
       des nombres, mais ces grandeurs portent plus d'information qu'un nombre.
   - content: Certaines grandeurs sans dimension sont définies comme des rapports de
-      deux grandeurs de même nature. EXEMPLES Angle plan, angle solide, indice de
-      réfraction, perméabilité relative, fraction massique, facteur de frottement,
-      nombre de Mach.
-  - content: Les nombres d'entités sont des grandeurs sans dimension. EXEMPLES Nombre
-      de tours dans une bobine, nombre de molécules dans un spécimen donné, dégénérescence
-      des niveaux d'énergie d'un système quantique.
+      deux grandeurs de même nature.
+  - content: Les nombres d'entités sont des grandeurs sans dimension.
   terms:
   - type: expression
     normative_status: preferred
     designation: grandeur sans dimension, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 67efa9c3-2af4-49d6-a8fe-89938bff63fb
+id: d7c34fb5-8f2e-4370-82aa-04c5af583288

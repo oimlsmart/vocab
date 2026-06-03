@@ -2,14 +2,14 @@
 data:
   identifier: '5.4'
   localized_concepts:
-    eng: ef0450db-b269-43fe-b6f6-8baf9b63bef8
-    fra: 8e470738-2808-459b-b5e5-0a5475fb26d1
+    eng: f13ae046-47ee-4f6b-8917-759792086e51
+    fra: 91a2dca7-55d9-4d0e-a757-83f6bd51d395
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 34398d42-4cd8-40e3-9441-8dd648e2ed65
+id: 4f9ce232-72b3-47aa-9349-89f0ec4d23a1
 schema_version: '3'
 ---
 data:
@@ -40,7 +40,7 @@ data:
     designation: primary standard
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: ef0450db-b269-43fe-b6f6-8baf9b63bef8
+id: f13ae046-47ee-4f6b-8917-759792086e51
 ---
 data:
   dates:
@@ -48,15 +48,16 @@ data:
     type: accepted
   definition:
   - content: étalon établi à l'aide d'une procédure de mesure primaire ou créé comme
-      objet choisi par convention EXEMPLES a) Étalon primaire de concentration en
-      quantité de matière préparé en dissolvant une quantité de matière connue d'une
-      substance chimique dans un volume connu de solution. b) Étalon primaire de pression
-      fondé sur des mesurages séparés de force et d'aire. c) Étalon primaire pour
-      les mesurages du rapport molaire d'isotopes, préparé en mélangeant des quantités
-      de matière connues d'isotopes spécifiés. d) Étalon primaire de température thermodynamique
-      constitué d'une cellule à point triple de l'eau. e) Le prototype international
-      du kilogramme en tant qu'objet choisi par convention.
-  examples: []
+      objet choisi par convention
+  examples:
+  - content: a) Étalon primaire de concentration en quantité de matière préparé en
+      dissolvant une quantité de matière connue d'une substance chimique dans un volume
+      connu de solution. b) Étalon primaire de pression fondé sur des mesurages séparés
+      de force et d'aire. c) Étalon primaire pour les mesurages du rapport molaire
+      d'isotopes, préparé en mélangeant des quantités de matière connues d'isotopes
+      spécifiés. d) Étalon primaire de température thermodynamique constitué d'une
+      cellule à point triple de l'eau. e) Le prototype international du kilogramme
+      en tant qu'objet choisi par convention.
   id: 5.4-fra
   language_code: fra
   notes: []
@@ -66,4 +67,4 @@ data:
     designation: étalon primaire, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8e470738-2808-459b-b5e5-0a5475fb26d1
+id: 91a2dca7-55d9-4d0e-a757-83f6bd51d395

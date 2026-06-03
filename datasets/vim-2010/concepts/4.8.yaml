@@ -2,14 +2,14 @@
 data:
   identifier: '4.8'
   localized_concepts:
-    eng: 74685ac4-7da0-482b-98e1-4de69b8fe332
-    fra: daa611b1-9c8c-4579-bdca-7c08f837bc78
+    eng: f68f18d9-453c-4682-a5c3-569f11d84204
+    fra: a945acdc-1612-4d4e-8503-2e0c500acd97
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 22b31786-40c8-4b39-ad9b-29c683c8454d
+id: c565cbec-4569-440a-af99-e100c85bdec4
 schema_version: '3'
 ---
 data:
@@ -19,7 +19,7 @@ data:
   definition:
   - content: operating condition of a measuring instrument or measuring system in
       which the relation established by calibration remains valid even for a measurand
-      varying with time _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      varying with time
   examples: []
   id: 4.8-eng
   language_code: eng
@@ -30,7 +30,7 @@ data:
     designation: steady state operating condition
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 74685ac4-7da0-482b-98e1-4de69b8fe332
+id: f68f18d9-453c-4682-a5c3-569f11d84204
 ---
 data:
   dates:
@@ -40,7 +40,6 @@ data:
   - content: condition de régime permanent, f condition de fonctionnement d'un instrument
       de mesure ou d'un système de mesure dans laquelle la relation établie par un
       étalonnage reste valable même pour un mesurande qui varie en fonction du temps
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   examples: []
   id: 4.8-fra
   language_code: fra
@@ -51,4 +50,4 @@ data:
     designation: condition de régime établi, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: daa611b1-9c8c-4579-bdca-7c08f837bc78
+id: a945acdc-1612-4d4e-8503-2e0c500acd97

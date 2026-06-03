@@ -2,14 +2,14 @@
 data:
   identifier: '1.26'
   localized_concepts:
-    eng: bec09b5f-24cd-407b-bab4-ff7d9e8f814b
-    fra: 88361770-c985-4912-9578-9702b21d62bb
+    eng: a6aec53e-50ba-4c2b-b3e2-6a5ede5a0223
+    fra: 7305faf1-13f6-4a8f-98c5-3a25d6d745d9
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 47dd0681-69c2-44a8-bf8c-b35f3874a720
+id: f1f4049e-21c3-4db3-af81-e730067afffd
 schema_version: '3'
 ---
 data:
@@ -39,7 +39,7 @@ data:
     designation: ordinal quantity
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: bec09b5f-24cd-407b-bab4-ff7d9e8f814b
+id: a6aec53e-50ba-4c2b-b3e2-6a5ede5a0223
 ---
 data:
   dates:
@@ -49,11 +49,11 @@ data:
   - content: grandeur définie par une procédure de mesure adoptée par convention,
       qui peut être classée avec d'autres grandeurs de même nature selon l’ordre croissant
       ou décroissant de leurs expressions quantitatives, mais pour laquelle aucune
-      relation algébrique entre ces grandeurs n'existe EXEMPLES a) Dureté C de Rockwell.
-      b) Indice d'octane pour les carburants. c) Magnitude d'un séisme sur l'échelle
-      de Richter. d) Niveau subjectif de douleur abdominale sur une échelle de zéro
-      à cinq.
-  examples: []
+      relation algébrique entre ces grandeurs n'existe
+  examples:
+  - content: a) Dureté C de Rockwell. b) Indice d'octane pour les carburants. c) Magnitude
+      d'un séisme sur l'échelle de Richter. d) Niveau subjectif de douleur abdominale
+      sur une échelle de zéro à cinq.
   id: 1.26-fra
   language_code: fra
   notes:
@@ -71,4 +71,4 @@ data:
     designation: grandeur repérable, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 88361770-c985-4912-9578-9702b21d62bb
+id: 7305faf1-13f6-4a8f-98c5-3a25d6d745d9

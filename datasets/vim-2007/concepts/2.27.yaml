@@ -2,14 +2,14 @@
 data:
   identifier: '2.27'
   localized_concepts:
-    eng: 25d27df3-fdd2-4c28-97f5-309fab77ac59
-    fra: ff6a21d7-98b5-4180-a1b8-4cb4913538a8
+    eng: 4fe23b23-8eb1-4ed1-818b-f6e449d1a468
+    fra: d144ff47-aaf8-48d2-8e05-c4407b183233
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: ba4acd2e-85b2-404a-89bc-b3dfd50425b4
+id: 602fb506-eb7d-4067-bb3d-32dfd3011684
 schema_version: '3'
 ---
 data:
@@ -27,14 +27,14 @@ data:
       achievable in any measurement of a given measurand.
   - content: Any change in the descriptive detail leads to another definitional uncertainty.
   - content: In the GUM:1995, D.3.4, and in IEC 60359 the concept ‘definitional uncertainty’
-      is termed “intrinsic uncertainty”. . _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      is termed “intrinsic uncertainty”. .
   terms:
   - type: expression
     normative_status: preferred
     designation: definitional uncertainty
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 25d27df3-fdd2-4c28-97f5-309fab77ac59
+id: 4fe23b23-8eb1-4ed1-818b-f6e449d1a468
 ---
 data:
   dates:
@@ -52,11 +52,11 @@ data:
   - content: Toute modification des détails descriptifs conduit à une autre incertitude
       définitionnelle.
   - content: Dans le GUM:1995, D.3.4, et dans la CEI 60359, le concept d'incertitude
-      définitionnelle est appelé « incertitude intrinsèque ». _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      définitionnelle est appelé « incertitude intrinsèque ».
   terms:
   - type: expression
     normative_status: preferred
     designation: incertitude définitionnelle, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: ff6a21d7-98b5-4180-a1b8-4cb4913538a8
+id: d144ff47-aaf8-48d2-8e05-c4407b183233

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '4.3'
+  localized_concepts:
+    eng: 5495ca7f-701e-456c-a738-596a3626bcf5
+    fra: 004a6bd0-6e47-4b69-a89b-ba4432e517d0
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 45b1849c-9d62-4264-a25e-27502a0c8d26
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that provides an output quantity having a determined relationship
+      to the input quantity
+  examples:
+  - content: thermocouple; current transformer; strain gauge; dl pH electrode. thermocouple;
+      current transformer; strain gauge; dl pH electrode.
+  id: 4.3-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring transducer
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5495ca7f-701e-456c-a738-596a3626bcf5
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif qui fait correspondre à une grandeur d'entrée une grandeur
+      de sortie selon une loi déterminée
+  examples:
+  - content: thermocouple; transformateur de courant; jauge de contrainte; électrode
+      de pH. thermocouple; transformateur de courant; jauge de contrainte; électrode
+      de pH.
+  id: 4.3-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transducteur de mesure, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 004a6bd0-6e47-4b69-a89b-ba4432e517d0

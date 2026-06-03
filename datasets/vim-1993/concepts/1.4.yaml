@@ -2,13 +2,14 @@
 data:
   identifier: '1.4'
   localized_concepts:
-    eng: 90630163-e28f-4105-b575-c7534da9919b
+    eng: f63241fd-3d0b-4885-b1ed-d6463ad220f0
+    fra: 5146c2e6-5dd9-47b5-a396-21aa16e662b7
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: bcb1dfed-176f-4383-ae4b-5bd8b6cbed9f
+id: 8ee2d08d-497b-42a7-835f-b3e67a630f4d
 schema_version: '3'
 ---
 data:
@@ -16,10 +17,9 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur dérivée, f grandeur définie, dans un système de gran-deurs,
-      comme fonction des grandeurs de base de ce système EXEMPLE dans un système qui
-      a pour grandeurs de base la longueur, la masse et le temps, la vitesse est une
-      grandeur dérivée définie comme le quotient de la longueur par le temps.
+  - content: 'quantity defined, in a system of quantities, as a function of base quantities
+      of that system EXAMPLE in a system having base quantities length, mass and time,
+      velocity Is a derived quantIty defined as: length divided by time.'
   examples: []
   id: 1.4-eng
   language_code: eng
@@ -27,7 +27,28 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "( 1.03)"
+    designation: derived quantity
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 90630163-e28f-4105-b575-c7534da9919b
+id: f63241fd-3d0b-4885-b1ed-d6463ad220f0
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur définie, dans un système de gran-deurs, comme fonction des grandeurs
+      de base de ce système EXEMPLE dans un système qui a pour grandeurs de base la
+      longueur, la masse et le temps, la vitesse est une grandeur dérivée définie
+      comme le quotient de la longueur par le temps.
+  examples: []
+  id: 1.4-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur dérivée, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5146c2e6-5dd9-47b5-a396-21aa16e662b7

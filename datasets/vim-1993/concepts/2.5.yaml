@@ -2,13 +2,14 @@
 data:
   identifier: '2.5'
   localized_concepts:
-    eng: 246ba769-a454-45f5-ac20-ae2de2ada0b3
+    eng: 1aec4515-05dd-4b96-a7d1-c55983f901e4
+    fra: 447c050c-c01d-44b0-8f6f-d2deaa27a1ca
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 881c8149-a82d-40ff-a62c-dca12957ddef
+id: 5bc5f4bd-546c-404f-af25-4d8de7805924
 schema_version: '3'
 ---
 data:
@@ -16,21 +17,41 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mode opératoire (de mesure), m ensemble  des  opérations,  décrites  d'une
-      manière spécifique, mises en œuvre lors de l'exécution de mesurages particuliers
-      selon une méthode donnée
+  - content: set of operations, described specifically, used 1n the  performance  of  particular  measurements
+      according to a given method NOTE  A measurement procedure is usually recorded
+      in a document  that  is  sometimes  ,tself  called  a "measurement procedure"  (or
+      a measurement method) and is usually 1n sufficient detail to enable an operator
+      to carry out a measurement without additional information.
   examples: []
   id: 2.5-eng
   language_code: eng
-  notes:
-  - content: Le mode opératoire est habituellement décrit dans un document qui est
-      quelquefois appelé lui-même «mode opératoire» et qui donne assez de détails
-      pour qu'un opérateur puisse effectuer un mesu-rage sans avoir besoin d'autres
-      informations.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(2.07)"
+    designation: measurement procedure
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 246ba769-a454-45f5-ac20-ae2de2ada0b3
+id: 1aec4515-05dd-4b96-a7d1-c55983f901e4
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble  des  opérations,  décrites  d'une manière spécifique, mises
+      en œuvre lors de l'exécution de mesurages particuliers selon une méthode donnée
+      NOTE Le mode opératoire est habituellement décrit dans un document qui est quelquefois
+      appelé lui-même «mode opératoire» et qui donne assez de détails pour qu'un opérateur
+      puisse effectuer un mesu-rage sans avoir besoin d'autres informations.
+  examples: []
+  id: 2.5-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mode opératoire (de mesure), m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 447c050c-c01d-44b0-8f6f-d2deaa27a1ca

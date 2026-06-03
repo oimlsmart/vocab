@@ -2,14 +2,14 @@
 data:
   identifier: '3.5'
   localized_concepts:
-    eng: f3b7fcbe-2ff2-4c3f-be84-cace3b5d76c9
-    fra: 2fdf278f-a5af-463d-a4ad-9c2c83315c7d
+    eng: 68e05e70-b45f-41f0-be0f-b1275c7cbf32
+    fra: d2dc52e3-accc-4e89-9355-53e9051f4bb8
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 9a8bdf88-519c-4c3d-95ff-e682241842b7
+id: 5881c79f-4371-4051-b741-ab1aa84e8dad
 schema_version: '3'
 ---
 data:
@@ -29,7 +29,7 @@ data:
     designation: scale of a displaying measuring instrument
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: f3b7fcbe-2ff2-4c3f-be84-cace3b5d76c9
+id: 68e05e70-b45f-41f0-be0f-b1275c7cbf32
 ---
 data:
   dates:
@@ -51,4 +51,4 @@ data:
     designation: échelle, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2fdf278f-a5af-463d-a4ad-9c2c83315c7d
+id: d2dc52e3-accc-4e89-9355-53e9051f4bb8

@@ -2,14 +2,14 @@
 data:
   identifier: '4.12'
   localized_concepts:
-    eng: 9d78d571-c09d-476d-bae2-dab6122ceafa
-    fra: 134f7ac3-91c7-43ec-be6a-f79b373a79aa
+    eng: 4650210d-d1bf-41c4-8735-70a796b5554c
+    fra: c32e0a83-dc69-4c2e-a781-15929189db8b
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 71f8327b-b94a-4230-b925-f9c537ce4d02
+id: 67854bbb-939c-45ea-aa4a-0bfef78e4002
 schema_version: '3'
 ---
 data:
@@ -43,7 +43,7 @@ data:
     designation: displaying device indicating device
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9d78d571-c09d-476d-bae2-dab6122ceafa
+id: 4650210d-d1bf-41c4-8735-70a796b5554c
 ---
 data:
   dates:
@@ -70,4 +70,4 @@ data:
     designation: dispositif d'affichage, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 134f7ac3-91c7-43ec-be6a-f79b373a79aa
+id: c32e0a83-dc69-4c2e-a781-15929189db8b

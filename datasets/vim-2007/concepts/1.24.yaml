@@ -2,14 +2,14 @@
 data:
   identifier: '1.24'
   localized_concepts:
-    eng: 26627109-678d-4cee-b4bb-1eb5eb1f383d
-    fra: bb6a5831-221f-4f0d-943a-3ccd1e764606
+    eng: e5833303-160c-4847-8c5f-67e942f3bd58
+    fra: afa48f1e-0dc8-4360-9d34-4b9ff7e4f2e6
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: ce30c12e-5ac8-46e4-a7f2-62848b7e4098
+id: 797068d0-2370-4935-9c75-e7d7de32a86b
 schema_version: '3'
 ---
 data:
@@ -22,7 +22,7 @@ data:
   - content: km/m = 1 000 and thus 1 km = 1 000 m. Note The measurement units may
       belong to different systems of units.
   - content: a) h/s = 3 600 and thus 1 h = 3 600 s. b) (km/h)/(m/s) = (1/3.6) and
-      thus 1 km/h = (1/3.6) m/s. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      thus 1 km/h = (1/3.6) m/s.
   id: 1.24-eng
   language_code: eng
   notes: []
@@ -32,7 +32,7 @@ data:
     designation: conversion factor between units
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 26627109-678d-4cee-b4bb-1eb5eb1f383d
+id: e5833303-160c-4847-8c5f-67e942f3bd58
 ---
 data:
   dates:
@@ -40,11 +40,12 @@ data:
     type: accepted
   definition:
   - content: rapport de deux unités de mesure correspondant à des grandeurs de même
-      nature EXEMPLE km/m = 1 000 et par conséquent 1 km = 1 000 m. Note Les unités
-      de mesure peuvent appartenir à des systèmes d’unités différents. EXEMPLES a)
-      h/s = 3 600 et par conséquent 1 h = 3 600 s. b) (km/h)/(m/s) = (1/3,6) et par
-      conséquent 1 km/h = (1/3,6) m/s. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-  examples: []
+      nature
+  examples:
+  - content: km/m = 1 000 et par conséquent 1 km = 1 000 m. Note Les unités de mesure
+      peuvent appartenir à des systèmes d’unités différents.
+  - content: a) h/s = 3 600 et par conséquent 1 h = 3 600 s. b) (km/h)/(m/s) = (1/3,6)
+      et par conséquent 1 km/h = (1/3,6) m/s.
   id: 1.24-fra
   language_code: fra
   notes: []
@@ -54,4 +55,4 @@ data:
     designation: facteur de conversion entre unités, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: bb6a5831-221f-4f0d-943a-3ccd1e764606
+id: afa48f1e-0dc8-4360-9d34-4b9ff7e4f2e6

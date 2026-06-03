@@ -2,14 +2,14 @@
 data:
   identifier: '3.6'
   localized_concepts:
-    eng: e95f5047-121c-4e33-b92d-4614afffa7cb
-    fra: 9780961e-81ea-40c3-8720-af2f7fa2a6b5
+    eng: 528086b2-61d9-4ab8-a138-f1a5cf31ba08
+    fra: eda61b97-4b4b-4bb0-bd85-23058b65346e
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 4cb89f2c-d6e8-4cab-9a1c-1e6458d7c95b
+id: 8319a74e-956f-43ee-9068-1c87344c8d50
 schema_version: '3'
 ---
 data:
@@ -17,30 +17,19 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: closeness  of  the  agreement  between  the results  of  successive  measurements  of  the
-      same measurand carried out under the same conditions of measurement
+  - content: p reproducibiîity of results of measurements report, calibration  6.11  Note
+      3 resolution of a displaying device  5.12
   examples: []
   id: 3.6-eng
   language_code: eng
-  notes:
-  - content: 'These conditions are called repeatability conditions. Repeatability
-      conditions include:the same measurement procedure the same observerthe same
-      measuring instrument. used under the same conditionsthe same locationrepetition
-      over a short period of time. the same measurement procedure the same observerthe
-      same measuring instrument. used under the same conditions the same locationrepetition
-      over a short period of time. Repeatability may be expressed quantitatively in
-      terms of the dispersion characterist1cs of the results. Repeatability conditions
-      include: the same measurement procedure the same observer the same measuring
-      instrument. used under the same conditions the same location repetition over
-      a short period of time. Repeatability may be expressed quantitatively in terms
-      of the dispersion characterist1cs of the results.'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: repeatability (of results of measurements)
+    designation: one, quantity of dimension  1.6 operating conditions, rated  5.5
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: e95f5047-121c-4e33-b92d-4614afffa7cb
+id: 528086b2-61d9-4ab8-a138-f1a5cf31ba08
 ---
 data:
   dates:
@@ -71,4 +60,4 @@ data:
     designation: répétabilité (des résultats de mesurage), f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9780961e-81ea-40c3-8720-af2f7fa2a6b5
+id: eda61b97-4b4b-4bb0-bd85-23058b65346e

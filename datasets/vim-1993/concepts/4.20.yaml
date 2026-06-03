@@ -2,13 +2,14 @@
 data:
   identifier: '4.20'
   localized_concepts:
-    eng: 76bcc3c9-6506-465a-9c25-92902eb3a807
+    eng: b41b8b53-6364-4916-9404-6d4ce65783a1
+    fra: f2498a39-000a-49f6-85d2-fab698d55166
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: a21082f9-7859-48d1-bc85-553089a8a9fb
+id: e89150aa-f712-4dc3-8db2-5c47cdd36044
 schema_version: '3'
 ---
 data:
@@ -16,8 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: division, f partie  d'une  échelle  comprise  entre  deux repères successifs
-      quelconques
+  - content: part of a scale between any two successive scale marks
   examples: []
   id: 4.20-eng
   language_code: eng
@@ -25,7 +25,25 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(4.22)"
+    designation: scale division
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 76bcc3c9-6506-465a-9c25-92902eb3a807
+id: b41b8b53-6364-4916-9404-6d4ce65783a1
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: partie  d'une  échelle  comprise  entre  deux repères successifs quelconques
+  examples: []
+  id: 4.20-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: division, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f2498a39-000a-49f6-85d2-fab698d55166

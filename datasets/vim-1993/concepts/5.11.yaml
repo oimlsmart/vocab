@@ -2,13 +2,14 @@
 data:
   identifier: '5.11'
   localized_concepts:
-    eng: d8443e81-9175-42b0-84ce-fe5c9ddcfac2
+    eng: 07d76429-80e5-4667-8c9e-4c9d817b9d1f
+    fra: 0b97f0b7-72b3-410a-ab55-582343e70334
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: f7ae1029-20ef-49d2-a724-59823451d72a
+id: dc26bd55-56d7-4397-a1f8-d6e352e61a80
 schema_version: '3'
 ---
 data:
@@ -16,19 +17,44 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "(seuil de) mobilité, m variation la plus grande du signal d'entrée qui
-      ne provoque pas de variation  détectable  de la réponse d'un instrument de mesure,
-      la variation du signal d'entrée étant lente et monotone"
+  - content: largest change in a stimulus that produces no detectable  change  in  the  response  of  a
+      measuring  instrument,  the  change  in  the stimulus taking place slowly and
+      monotonically NOTE The discrimination threshold may depend on, for example,
+      noise (internai or external) or friction. lt may also depend on the value of
+      the stimulus.
   examples: []
   id: 5.11-eng
   language_code: eng
-  notes:
-  - content: Le seuil de mobilité peut dépendre, par exemple, du bruit (interne ou
-      externe) ou du frottement; il peut aussi dépendre de la valeur du signal d'entrée.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(5.12)"
+    designation: discrimination (threshold)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: d8443e81-9175-42b0-84ce-fe5c9ddcfac2
+id: 07d76429-80e5-4667-8c9e-4c9d817b9d1f
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: variation la plus grande du signal d'entrée qui ne provoque pas de variation  détectable  de
+      la réponse d'un instrument de mesure, la variation du signal d'entrée étant
+      lente et monotone NOTE Le seuil de mobilité peut dépendre, par exemple, du bruit
+      (interne ou externe) ou du frottement; il peut aussi dépendre de la valeur du
+      signal d'entrée.
+  examples: []
+  id: 5.11-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobilité, m
+  - type: expression
+    normative_status: admitted
+    designation: seuil de
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0b97f0b7-72b3-410a-ab55-582343e70334

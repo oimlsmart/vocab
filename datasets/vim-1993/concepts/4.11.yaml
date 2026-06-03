@@ -2,14 +2,14 @@
 data:
   identifier: '4.11'
   localized_concepts:
-    eng: ce816e05-1441-46aa-b8c0-4715fea378f1
-    fra: 28b54c45-fc08-47de-90d4-65754dfb026b
+    eng: b1231dc7-531b-46ae-822e-23bcb448dad9
+    fra: 1ae44022-6f1f-4665-9f93-bc0cf7f6506e
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: f701c727-7a95-4c79-94ac-fdc44753da56
+id: 541c2934-8f2e-4b89-aa8b-3bf0b088633d
 schema_version: '3'
 ---
 data:
@@ -30,7 +30,7 @@ data:
     designation: digital measuring instrument digital indicating instrument
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: ce816e05-1441-46aa-b8c0-4715fea378f1
+id: b1231dc7-531b-46ae-822e-23bcb448dad9
 ---
 data:
   dates:
@@ -38,17 +38,16 @@ data:
     type: accepted
   definition:
   - content: appareil de mesure qui fournit un signal de sortie ou un affichage sous
-      forme numérique
+      forme numérique NOTE Ce terme se rattache à la forme de présentation des signaux
+      de sortie ou de l'affichage, non au principe de fonctionnement de l'instrument
   examples: []
   id: 4.11-fra
   language_code: fra
-  notes:
-  - content: Ce terme se rattache à la forme de présentation des signaux de sortie
-      ou de l'affichage, non au principe de fonctionnement de l'instrument
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: appareil de mesure (à affichage) numérique, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 28b54c45-fc08-47de-90d4-65754dfb026b
+id: 1ae44022-6f1f-4665-9f93-bc0cf7f6506e

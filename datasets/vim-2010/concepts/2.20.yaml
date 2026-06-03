@@ -2,14 +2,14 @@
 data:
   identifier: '2.20'
   localized_concepts:
-    eng: b4d9b8a8-a2af-4f09-ae63-0b9988c3bb20
-    fra: b31aa80a-124f-411f-b3e2-cf68833862c1
+    eng: 6d9683e0-9f13-4d34-b755-379155a73204
+    fra: 8635f07f-c231-4fbc-ab56-6eaf9e2922de
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 8eec2d2c-59e1-4cf7-8ff0-1fa147d8ff55
+id: 2a4305cf-3dde-4838-86c8-3aea9297d577
 schema_version: '3'
 ---
 data:
@@ -38,7 +38,7 @@ data:
     designation: repeatability condition
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: b4d9b8a8-a2af-4f09-ae63-0b9988c3bb20
+id: 6d9683e0-9f13-4d34-b755-379155a73204
 ---
 data:
   dates:
@@ -64,4 +64,4 @@ data:
     designation: condition de répétabilité, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: b31aa80a-124f-411f-b3e2-cf68833862c1
+id: 8635f07f-c231-4fbc-ab56-6eaf9e2922de

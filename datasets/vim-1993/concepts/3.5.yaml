@@ -2,14 +2,14 @@
 data:
   identifier: '3.5'
   localized_concepts:
-    eng: f7fd1553-0e30-4878-8210-ac0d06e1ca4b
-    fra: 5d8a7cdc-a12b-4731-a35c-a135887edcf7
+    eng: 1a1603f3-98b6-4ae4-a704-fe4d246d3139
+    fra: a3b5b0da-e0de-473d-9d83-48582e66153c
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 557250ba-7307-4da7-be88-0c39848b5c09
+id: 2d476f31-3c07-4920-83e9-1f2ebecef9b9
 schema_version: '3'
 ---
 data:
@@ -31,7 +31,7 @@ data:
     designation: accuracy of measurement
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f7fd1553-0e30-4878-8210-ac0d06e1ca4b
+id: 1a1603f3-98b6-4ae4-a704-fe4d246d3139
 ---
 data:
   dates:
@@ -52,4 +52,4 @@ data:
     designation: exactitude de mesure, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5d8a7cdc-a12b-4731-a35c-a135887edcf7
+id: a3b5b0da-e0de-473d-9d83-48582e66153c

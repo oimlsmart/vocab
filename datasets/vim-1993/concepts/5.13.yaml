@@ -2,13 +2,14 @@
 data:
   identifier: '5.13'
   localized_concepts:
-    eng: 199acf9f-afce-4087-bd82-94bea43af070
+    eng: 3d0d071c-492c-4c09-b2c3-60a3250bf4f5
+    fra: fc94c2d8-8831-4398-8640-c772ca00be85
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 138a7d18-401d-4f25-92d8-fd1e1d6e3256
+id: e117a85b-251a-4c6b-9998-ec0c7f811111
 schema_version: '3'
 ---
 data:
@@ -16,12 +17,34 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: zone morte, f intervalle maximal à l'intérieur duquel on peut faire varier
-      le signal d'entrée dans les deux sens sans provoquer de variation de la réponse
-      d'un instrument de mesure
+  - content: maximum interval through which a stimulus may be changed in both directions
+      without producing a change in response of a measuring instrument
   examples: []
   id: 5.13-eng
   language_code: eng
+  notes:
+  - content: The dead band may depend on the rate of change. 2  The dead band is sometimes
+      deliberately made large to prevent change in the response for small changes
+      in the stimulus.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dead band
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3d0d071c-492c-4c09-b2c3-60a3250bf4f5
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intervalle maximal à l'intérieur duquel on peut faire varier le signal
+      d'entrée dans les deux sens sans provoquer de variation de la réponse d'un instrument
+      de mesure
+  examples: []
+  id: 5.13-fra
+  language_code: fra
   notes:
   - content: La zone morte peut dépendre de l'allure des variations. 2  La zone morte
       est parfois délibérément augmentée pour éviter les variations de réponse dues
@@ -29,7 +52,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(5.14}"
+    designation: zone morte, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 199acf9f-afce-4087-bd82-94bea43af070
+id: fc94c2d8-8831-4398-8640-c772ca00be85

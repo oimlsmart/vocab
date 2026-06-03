@@ -2,13 +2,14 @@
 data:
   identifier: '1.22'
   localized_concepts:
-    eng: 62e77cd7-b023-4922-ad1f-33de77513c05
+    eng: 3331408e-f594-4676-976f-1275f56b8b8d
+    fra: 3c343d60-cf3c-4b92-be73-939ce82b2a26
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 4a4074d9-495c-427a-83e2-d72a6e46ab75
+id: d5121e24-46d5-4850-9ad0-2111b8c7f8c0
 schema_version: '3'
 ---
 data:
@@ -16,21 +17,44 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: échelle de repérage, f pour des grandeurs particulières d'une nature
-      donnée,  ensemble  de  repères  ordonnés, continu ou discret, défini par convention
-      comme référence pour classer en ordre croissant ou décroissant les grandeurs
-      de cette nature EXEMPLES l'échelle de dureté de Mohs; l'échelle de pH en chimie;
-      l'échelle des indices d'octane pour les carburants, l'échelle de dureté de Mohs;
-      l'échelle de pH en chimie; l'échelle des indices d'octane pour les carburants,
-      îv1euoiogy 1993                                                                  17
-  examples: []
+  - content: for particular  quantities  of  a given kind, an ordered set of values,
+      continuous or discrete, defined  by  convention  as  a  reference  for arranging
+      quantities of that kind in order of magnitude
+  examples:
+  - content: 'the Mohs hardness scale; the pH scale in chem1stry: the scale of octane
+      numbers for petroleurn fuel. the Mohs hardness scale; the pH scale in chem1stry:
+      the scale of octane numbers for petroleurn fuel.'
   id: 1.22-eng
   language_code: eng
   notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(1.21)"
+    designation: conventional reference scale reference-value scale
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 62e77cd7-b023-4922-ad1f-33de77513c05
+id: 3331408e-f594-4676-976f-1275f56b8b8d
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: pour des grandeurs particulières d'une nature donnée,  ensemble  de  repères  ordonnés,
+      continu ou discret, défini par convention comme référence pour classer en ordre
+      croissant ou décroissant les grandeurs de cette nature
+  examples:
+  - content: l'échelle de dureté de Mohs; l'échelle de pH en chimie; l'échelle des
+      indices d'octane pour les carburants, l'échelle de dureté de Mohs; l'échelle
+      de pH en chimie; l'échelle des indices d'octane pour les carburants, îv1euoiogy
+      1993                                                                  17
+  id: 1.22-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle de repérage, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3c343d60-cf3c-4b92-be73-939ce82b2a26

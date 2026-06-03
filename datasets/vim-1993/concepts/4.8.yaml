@@ -2,14 +2,14 @@
 data:
   identifier: '4.8'
   localized_concepts:
-    eng: 39335542-9385-4120-b337-a7415b074c4b
-    fra: 34918525-2042-46f5-932b-bb57f4cb042a
+    eng: 6e4d7747-9b2c-470e-b639-af71a5eb84c8
+    fra: 79463827-c70d-41fd-b41a-065d79591ca2
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 1b265095-8c9f-49b4-87c3-ef02fd97214c
+id: 94001465-450e-4edb-bc9d-9738c093ff41
 schema_version: '3'
 ---
 data:
@@ -32,7 +32,7 @@ data:
     designation: totalizing (measuring) instrument
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 39335542-9385-4120-b337-a7415b074c4b
+id: 6e4d7747-9b2c-470e-b639-af71a5eb84c8
 ---
 data:
   dates:
@@ -41,12 +41,11 @@ data:
   definition:
   - content: appareil de mesure qui détermine la valeur d'un mesurande en faisant
       la somme des valeurs partielles de ce mesurande obtenues simulta-nément ou consécutivement
-      d'une ou plusieurs sources EXEMPLES pont-bascule totalisateur ferroviaire; appareil
-      de mesure totalisateur de puissance électrique. pont-bascule totalisateur ferroviaire;
-      appareil de mesure totalisateur de puissance électrique. 4.9 integrating (measuring)
-      instrument measuring instrument that determines the value a measurand by integrating
-      a quantity with respect to another quantity EXAMPLE electrical energy meter.
-  examples: []
+      d'une ou plusieurs sources
+  examples:
+  - content: pont-bascule totalisateur ferroviaire; appareil de mesure totalisateur
+      de puissance électrique. pont-bascule totalisateur ferroviaire; appareil de
+      mesure totalisateur de puissance électrique.
   id: 4.8-fra
   language_code: fra
   notes: []
@@ -56,4 +55,4 @@ data:
     designation: appareil (de mesure) totalisateur, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 34918525-2042-46f5-932b-bb57f4cb042a
+id: 79463827-c70d-41fd-b41a-065d79591ca2

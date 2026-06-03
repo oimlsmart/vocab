@@ -2,14 +2,14 @@
 data:
   identifier: '2.10'
   localized_concepts:
-    eng: 9fd335e8-82f0-487c-833f-0379f86dc404
-    fra: 7f86d76a-4dc7-43db-a878-1b044ec2070d
+    eng: bd0b6735-917b-4077-b4f0-f0bc9ba09b1d
+    fra: df58a877-6dfd-491b-901c-d29c98a7f14e
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: f03c4836-0852-45a3-b723-beefc58ea6d8
+id: f2c649cd-eb6a-4fb5-aabe-648168950082
 schema_version: '3'
 ---
 data:
@@ -39,14 +39,14 @@ data:
       quantity values.
   - content: In the GUM, the terms “result of measurement” and “estimate of the value
       of the measurand” or just “estimate of the measurand” are used for ‘measured
-      quantity value’. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      quantity value’.
   terms:
   - type: expression
     normative_status: preferred
     designation: measured quantity value
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9fd335e8-82f0-487c-833f-0379f86dc404
+id: bd0b6735-917b-4077-b4f0-f0bc9ba09b1d
 ---
 data:
   dates:
@@ -74,11 +74,11 @@ data:
       des valeurs vraies.
   - content: Dans le GUM, les termes « résultat de mesure » et « estimation de la
       valeur du mesurande », ou simplement « estimation du mesurande », sont utilisés
-      au sens de « valeur mesurée ». _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      au sens de « valeur mesurée ».
   terms:
   - type: expression
     normative_status: preferred
     designation: valeur mesurée, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7f86d76a-4dc7-43db-a878-1b044ec2070d
+id: df58a877-6dfd-491b-901c-d29c98a7f14e
