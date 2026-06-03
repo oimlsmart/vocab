@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.6'
+  localized_concepts:
+    fra: c693ecb5-37d0-58b9-b4c4-90938a253c0d
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: 329e49b3-ce3b-5aba-9df6-e13d77eb1b88
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.06'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de type d’effet limité
+  examples: []
+  id: 2.6-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: approbation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: c693ecb5-37d0-58b9-b4c4-90938a253c0d

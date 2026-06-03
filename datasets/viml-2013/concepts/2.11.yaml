@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '2.11'
+  localized_concepts:
+    eng: d987422f-7c3a-58ac-b5e0-9c0f24f86a51
+    fra: ad96167f-601f-5118-8b26-74bd4c4c4d0e
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: bb967492-a6ce-5917-9ac5-10c0db322004
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.11'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.11'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: by sampling verification of a homogeneous batch of measuring instruments
+      based on the results of examination of a statistically appropriate number of
+      specimens selected at random from an identified lot
+  examples: []
+  id: 2.11-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d987422f-7c3a-58ac-b5e0-9c0f24f86a51
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: périodique (obligatoire)
+  examples: []
+  id: 2.11-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: ad96167f-601f-5118-8b26-74bd4c4c4d0e

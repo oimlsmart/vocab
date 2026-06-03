@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.14'
+  localized_concepts:
+    fra: 536d606f-0397-5cb0-90cb-0e577d16d9a9
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: 7d9f7f5b-2785-5d2b-a35e-e315046d2712
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.14'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: périodique obligatoire
+  examples: []
+  id: 2.14-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 536d606f-0397-5cb0-90cb-0e577d16d9a9

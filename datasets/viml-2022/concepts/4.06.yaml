@@ -1,0 +1,68 @@
+---
+data:
+  identifier: '4.06'
+  localized_concepts:
+    eng: 2cf35880-5378-54cf-ae72-f4fa973d68ee
+    fra: 7247e0cd-4d8e-589c-a587-4b602d991b97
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.04'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.06'
+status: valid
+id: 1b4e92bd-8bd2-5027-9354-41d9ab89bce9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: definitive model of a {{measuring instrument,0.10}} or {{module,4.04}}
+      (including a family of instruments or modules) of which all of the elements
+      affecting its metrological properties are suitably defined
+  examples: []
+  id: 4.06-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type of a measuring instrument or module
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 2cf35880-5378-54cf-ae72-f4fa973d68ee
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: modèle définitif d'un {{instrument de mesure,0.10}} ou d'un {{module,4.04}}
+      (y compris une famille d'instruments ou de modules) pour lequel tous les éléments
+      susceptibles d'affecter ses propriétés métrologiques sont définis de façon appropriée
+  examples: []
+  id: 4.06-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type d'instrument de mesure ou de module
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7247e0cd-4d8e-589c-a587-4b602d991b97

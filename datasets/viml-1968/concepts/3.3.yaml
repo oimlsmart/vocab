@@ -1,0 +1,37 @@
+---
+data:
+  identifier: '3.3'
+  localized_concepts:
+    fra: fade3c12-a8ff-5bf8-9f56-f222127e5832
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 38c691a0-890b-5a02-8d00-e47caf145072
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'un instrument de mesmage . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . .5.3168.Inscription d'ld1mt!ficatlon
+      d'un lnrtrumont de mesurage . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . .SA160.Installation de mesuruge. . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . .6.3170.Institut national de métrologie légale . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  examples: []
+  id: 3.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 1167.Indication
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: fade3c12-a8ff-5bf8-9f56-f222127e5832

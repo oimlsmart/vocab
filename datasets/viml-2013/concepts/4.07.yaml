@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '4.07'
+  localized_concepts:
+    eng: 63494f57-5784-5d79-89a6-99b235b4475f
+    fra: 246bb691-d106-5bfc-9145-a384ee906f85
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: f1d2d80a-af07-575e-be2a-3f9eadb7fbf3
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.7'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.07'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: controlled measuring instrument measuring instrument required to conform
+      to prescribed requirements, in particular legal metrological requirements
+  examples: []
+  id: 4.07-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 63494f57-5784-5d79-89a6-99b235b4475f
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de mesure présentable à la vérification
+  examples: []
+  id: 4.07-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 246bb691-d106-5bfc-9145-a384ee906f85

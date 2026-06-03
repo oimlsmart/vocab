@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.8'
+  localized_concepts:
+    fra: fefc1b94-4b20-591d-9d48-38bc8aca7d9f
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: d110298f-7e76-55a0-9d93-63e870a3346f
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.08'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: préliminaire
+  examples: []
+  id: 2.8-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: examen
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: fefc1b94-4b20-591d-9d48-38bc8aca7d9f

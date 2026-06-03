@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '3.03'
+  localized_concepts:
+    eng: c8faa607-6e45-5eb6-a3d0-0562b8b12dd5
+    fra: 99bdf5c9-53e7-528b-8c86-5a4001a22b9b
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: ec69f260-8cae-5289-aaa1-afcd70a643d7
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '3.3'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.03'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: notice document stating that a measuring instrument was found not to
+      comply or no longer to comply with the relevant statutory requirements
+  examples: []
+  id: 3.03-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rejection
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c8faa607-6e45-5eb6-a3d0-0562b8b12dd5
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: caractère légal
+  examples: []
+  id: 3.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: C
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 99bdf5c9-53e7-528b-8c86-5a4001a22b9b

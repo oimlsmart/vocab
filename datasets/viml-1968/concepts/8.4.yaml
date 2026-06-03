@@ -1,0 +1,46 @@
+---
+data:
+  identifier: '8.4'
+  localized_concepts:
+    fra: 784bed97-ee35-5825-8ba3-511e4e03ad6e
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: be4e10ac-81a9-5c4f-ae81-0251ed2dfab7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: DE D�MARRAGE D'UN COMPTEURLa plus petite charge qui met en mouvement
+      le dispositif indicateur d'un compteur.Remarque:Le 2euil de démarrage est uoc
+      quulité analogua au scull de mobilité, mals so rapporte à la aharge du compteur
+      et non à la grandeur mciiurée.TEMPS DE R�PONSE D'UN INSTRUMENT DE MESURAGETemps
+      qui s'écoule aprés une variation brusque de la grandeur à mesurer jusqu'à cc
+      que l'instrument de mesurage donne une indication qui ne diffère pas de l'indîcation
+      définitive relative à la nouvelle valeur de la grandeur d'une quantité supérieure
+      à une valeur donnée.Remarques:Pour déterminer le temps de réponse, il faut fixer
+      pour chaque catégorie d'instruments:la valeur initiale à partir de laquelle
+      doit être elloctué le changem<lnt de la grandeur mesurée,la valeur de cc changoment,la
+      <li!fércnco entre l'indication définitive et l'indication à la fin de la période
+      ncceptée commo temps de réponse.PR�CISION D'UN INSTRUMENT DE MESURAGEQualité
+      qui caractérise l'aptitude d'un instrument de mesurage à donner des indi� cations
+      proches de la valeur vraie de la grandeur mesurée.Remarque:La prêclslon est
+      la qualité globnlc de l'ln5trument du point do vue des erreun.La précision est
+      d'autant plus grande que les indications sont plus proc:he� de 1a valeur vraie.
+  examples: []
+  id: 8.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: SEUIL
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 784bed97-ee35-5825-8ba3-511e4e03ad6e

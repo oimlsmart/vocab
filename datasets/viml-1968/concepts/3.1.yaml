@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '3.1'
+  localized_concepts:
+    fra: c550fbab-31ff-51d5-a075-5cb8503d8198
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 19bde954-1cc4-56a7-afbe-cb4b2ec8cf9c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 3.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 1:U.ll
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c550fbab-31ff-51d5-a075-5cb8503d8198

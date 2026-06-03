@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '5.19'
+  localized_concepts:
+    eng: c5ccfb49-3226-5a50-b916-0f901ead261c
+    fra: 92a8d876-1d92-51f8-a6ab-76c0a345dbef
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: d6b2a139-c157-5735-853f-16a1d2a98487
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.19'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the limits specified in the
+      relevant Recommendation, but outside the specified rated operating conditions
+      of a measuring instrument
+  examples: []
+  id: 5.19-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c5ccfb49-3226-5a50-b916-0f901ead261c
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: portée de l'attestation A.16 procédure A.7 programme d’essai(s)
+  examples: []
+  id: 5.19-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plainte A.23
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 92a8d876-1d92-51f8-a6ab-76c0a345dbef

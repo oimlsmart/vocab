@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '4.5'
+  localized_concepts:
+    fra: f55caf35-9e35-5c2d-8008-d18bdcba0ad9
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: b761dd43-fb9e-5c69-87e1-d0f8bf5c83b6
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.05'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: et instruments de mesure Ch 4unités légales (de mesure)
+  examples: []
+  id: 4.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Uunités
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: f55caf35-9e35-5c2d-8008-d18bdcba0ad9

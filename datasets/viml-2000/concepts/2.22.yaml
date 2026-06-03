@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.22'
+  localized_concepts:
+    fra: 307c19ab-2551-5b48-83a0-461459923ea4
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: 1e7234e8-042b-5482-b56d-51ee151bd82c
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.22'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de mesure acceptable pour la vérification
+  examples: []
+  id: 2.22-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 307c19ab-2551-5b48-83a0-461459923ea4

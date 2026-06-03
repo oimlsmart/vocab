@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '3.05'
+  localized_concepts:
+    eng: 9ce7dbd1-f951-5d1b-bce9-660a3467cd7b
+    fra: 8dbf9948-0370-57be-a83e-2e31c3a755be
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: fe26d4ef-e4b3-526d-a49f-03ec706cef52
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '3.5'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.05'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 3.05-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ","
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 9ce7dbd1-f951-5d1b-bce9-660a3467cd7b
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de scellement
+  examples: []
+  id: 3.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marque
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 8dbf9948-0370-57be-a83e-2e31c3a755be

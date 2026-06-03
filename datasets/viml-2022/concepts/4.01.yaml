@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '4.01'
+  localized_concepts:
+    eng: cf283b37-5023-51a3-b3f7-bf0a1f8dd8e6
+    fra: 5f1f5dee-a9eb-5efe-bc98-db1bbdace074
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+status: valid
+id: 0aa4ec4a-8939-5d98-8a14-86e77f90b2cb
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.01'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: identifiable set of instruments according to unique metrological and
+      technical characteristics that may include the measured quantity, the measuring
+      range, and the principle or method of measurement
+  examples: []
+  id: 4.01-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: category of instruments
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: cf283b37-5023-51a3-b3f7-bf0a1f8dd8e6
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble identifiable d'instruments en fonction de caractéristiques métrologiques
+      et techniques spécifiques comme la quantité mesurée, l'étendue de mesure et
+      le principe ou la méthode de mesurage
+  examples: []
+  id: 4.01-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: catégorie d'instruments
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 5f1f5dee-a9eb-5efe-bc98-db1bbdace074

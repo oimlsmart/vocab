@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '1.04'
+  localized_concepts:
+    eng: 07602bd7-f376-55ec-8531-6d37a78214aa
+    fra: 5dd2d9d9-1f8f-54bd-9fca-2e223997e3b9
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 8a3e864a-6ce5-5667-bb85-71e30013dd6d
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '1.04'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: responsible body organization or agency at the national level or in a
+      nation, responsible for developing and/or enforcing laws or regulations regarding
+      legal metrological control
+  examples: []
+  id: 1.04-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: national
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 07602bd7-f376-55ec-8531-6d37a78214aa
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: paramètre à caractère légal
+  examples: []
+  id: 1.04-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: P
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5dd2d9d9-1f8f-54bd-9fca-2e223997e3b9

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '26.4'
+  localized_concepts:
+    fra: b738d73b-9a37-56b5-a4e7-194007eae44f
+  domains:
+  - concept_id: section-26
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 908a4615-e471-50e9-9763-481b8a339be4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 26.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '2'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: b738d73b-9a37-56b5-a4e7-194007eae44f

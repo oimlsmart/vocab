@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '5.05'
+  localized_concepts:
+    eng: 980821b8-7659-51cd-9c29-92a4efc8c033
+    fra: 5bb7f9b0-00bd-578d-aa83-4eadc09ec24b
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 61d2f19f-2b06-5d66-8265-3d19241cc2c9
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.05'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication indication (displayed, printed or memorized) subject to legal
+      metrological control
+  examples: []
+  id: 5.05-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 980821b8-7659-51cd-9c29-92a4efc8c033
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: inspection par échantillonnage
+  examples: []
+  id: 5.05-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection A.11
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5bb7f9b0-00bd-578d-aa83-4eadc09ec24b

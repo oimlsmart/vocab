@@ -1,0 +1,73 @@
+---
+data:
+  identifier: '0.11'
+  localized_concepts:
+    eng: e45e10fd-95aa-52a5-bce1-a8027f027c26
+    fra: 6bf68c02-cd2d-5be7-b683-be519b689ef6
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+status: valid
+id: 89adb854-333d-5509-b676-82f88093b671
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.11'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: transducer device, used in measurement, that provides an output quantity
+      having a specified relation to the input quantity Example Thermocouple, electric
+      current transformer, strain gauge, pH electrode, Bourdon tube, bimetallic strip.
+  examples: []
+  id: 0.11-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: e45e10fd-95aa-52a5-bce1-a8027f027c26
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: approuvé
+  examples: []
+  id: 0.11-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 6bf68c02-cd2d-5be7-b683-be519b689ef6

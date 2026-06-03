@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '4.1'
+  localized_concepts:
+    fra: 74d5aa33-bc10-53fd-923c-ed2c0aba3a56
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: fb8f42b9-44fd-5fdc-adad-5312071f80b5
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '1.06'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d’un instrument de mesure
+  examples: []
+  id: 4.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Vvérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 74d5aa33-bc10-53fd-923c-ed2c0aba3a56

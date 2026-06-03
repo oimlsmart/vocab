@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '0.04'
+  localized_concepts:
+    eng: 69048597-1a27-50de-83c2-5d29350b1c6b
+    fra: afda67af-c972-5d60-aec8-0f742b198f53
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.03'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '0.04'
+status: valid
+id: 6871e4c2-e019-5213-9b76-432a0b8519af
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{indication,0.03}} minus a reference quantity value"
+  examples: []
+  id: 0.04-eng
+  notes:
+  - content: This reference value is sometimes referred to as a (conventional) true
+      quantity value. See, however, also OIML V2-200:2012, 2.12, Note 1).
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error of indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 69048597-1a27-50de-83c2-5d29350b1c6b
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{indication,0.03}}moins une valeur de référence"
+  examples: []
+  id: 0.04-fra
+  notes:
+  - content: Cette valeur de référence est parfois considérée comme une valeur (conventionnellement)
+      vraie. Voir toutefois également OIML V2-200:2012, 2.12, Note 1).
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur d'indication
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: afda67af-c972-5d60-aec8-0f742b198f53

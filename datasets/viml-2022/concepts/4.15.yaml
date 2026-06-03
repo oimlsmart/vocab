@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '4.15'
+  localized_concepts:
+    eng: 23013c66-b7a2-50e9-b527-a153fa3e56a0
+    fra: 4acb1351-388e-51e1-a91a-b09febf8e399
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+status: valid
+id: 780e6020-7a53-5257-87fd-b82b44b9194a
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.15'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: equipment that meets the statutory requirements and that is used for
+      verification
+  examples: []
+  id: 4.15-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification equipment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 23013c66-b7a2-50e9-b527-a153fa3e56a0
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: équipement satisfaisant aux exigences réglementaires et utilisé pour
+      la vérification
+  examples: []
+  id: 4.15-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équipement de vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 4acb1351-388e-51e1-a91a-b09febf8e399

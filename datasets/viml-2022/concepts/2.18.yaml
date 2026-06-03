@@ -1,0 +1,74 @@
+---
+data:
+  identifier: '2.18'
+  localized_concepts:
+    eng: 1f1f6c13-5c12-5fcb-bcf7-593214f9a35e
+    fra: c6daad22-f99d-57ef-9bb1-1bec0b027ad6
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.18'
+status: valid
+id: 2d90ee60-c863-5a6d-8458-9f997acec12c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: inspection of a homogeneous batch of {{measuring instruments,0.10}} based
+      on the results of evaluation of a statistically appropriate number of specimens
+      selected at random from an identified lot
+  examples: []
+  id: 2.18-eng
+  notes:
+  - content: The conditions under which the respective instruments have been used
+      (e.g. water quality for water meters) may be amongst the parameters determining
+      the homogeneity of the batch.
+  - content: 'ISO 3534-2 gives the following definition: “4.1.6 sampling inspection
+      - inspection of selected items in the group under consideration”'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection by sampling
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 1f1f6c13-5c12-5fcb-bcf7-593214f9a35e
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: inspection d'un lot homogène d'{{instruments de mesure,0.10}} basée sur
+      les résultats de l'évaluation d'un nombre statistiquement approprié d'exemplaires
+      pris au hasard dans un lot identifié
+  examples: []
+  id: 2.18-fra
+  notes:
+  - content: Les conditions dans lesquelles les instruments concernés ont été utilisés
+      (par exemple,la qualité de l'eau pour des compteurs d'eau) peuvent être considérées
+      au titre des paramètres caractérisant l'homogénéité du lot.
+  - content: 'ISO 3534-2 donne la définition suivante: «4.1.6 contrôle par échantillonnage
+      - contrôle des individus sélectionnés dans le groupe considéré»'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection par échantillonnage
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c6daad22-f99d-57ef-9bb1-1bec0b027ad6

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '2.1'
+  localized_concepts:
+    fra: a2f41ca3-8649-5704-9581-5f15a8ad54e9
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: e6c8497d-25a2-5e1a-97e2-cf39f566a77a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nominale partielle d'une mesure ma.téria.liSée...................................
+  examples: []
+  id: 2.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 1287.Vnleur
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: a2f41ca3-8649-5704-9581-5f15a8ad54e9

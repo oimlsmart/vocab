@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '19.8'
+  localized_concepts:
+    fra: e394e074-8344-59cc-9138-f13651bdfff6
+  domains:
+  - concept_id: section-19
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 154130d8-c68c-54bd-a405-4c7f64b216e8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 19.8-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '1'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: e394e074-8344-59cc-9138-f13651bdfff6

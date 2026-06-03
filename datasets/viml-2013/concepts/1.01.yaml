@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '1.01'
+  localized_concepts:
+    eng: f57eb282-e564-5298-8f6a-fc68853ba6a9
+    fra: 35d26bed-80d0-51c7-927b-2b05dfbd1382
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: eb7215d9-187d-5b26-bda0-ceaf699ba30f
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '1.2'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '1.01'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: metrology practice and process of applying statutory and regulatory structure
+      and enforcement to metrology (see
+  examples: []
+  id: 1.01-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: f57eb282-e564-5298-8f6a-fc68853ba6a9
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sur le marché
+  examples: []
+  id: 1.01-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mise
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 35d26bed-80d0-51c7-927b-2b05dfbd1382

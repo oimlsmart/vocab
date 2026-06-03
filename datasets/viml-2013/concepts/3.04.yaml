@@ -1,0 +1,63 @@
+---
+data:
+  identifier: '3.04'
+  localized_concepts:
+    eng: d1fb86b6-42cc-515e-99eb-94b959cc066a
+    fra: 6c084764-c4c0-5f06-8e36-9ffc93120518
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 258563b7-8b57-5abc-a11b-d3eab52077a1
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '3.4'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '3.04'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mark mark applied to a measuring instrument in a conspicuous manner certifying
+      that the verification of the measuring instrument was carried out and compliance
+      with statutory requirements was confirmed
+  examples: []
+  id: 3.04-eng
+  notes:
+  - content: The verification mark may identify the body responsible for verification
+      and/or indicate the year or date of verification or its expiry date.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d1fb86b6-42cc-515e-99eb-94b959cc066a
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 3.04-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: métrologie
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 6c084764-c4c0-5f06-8e36-9ffc93120518

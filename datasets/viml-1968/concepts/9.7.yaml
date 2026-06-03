@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '9.7'
+  localized_concepts:
+    fra: 34dc3f2e-1f41-5a2b-9bdf-0a0543f07feb
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: c2c7251d-cf24-5078-a8e9-4eccbc06890d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximales tolérées en service..............................................
+      .
+  examples: []
+  id: 9.7-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 3122.Eneurs
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 34dc3f2e-1f41-5a2b-9bdf-0a0543f07feb

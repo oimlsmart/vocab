@@ -1,0 +1,76 @@
+---
+data:
+  identifier: '2.08'
+  localized_concepts:
+    eng: e2f788ae-e9fe-5a05-99da-a432a6cdb0ce
+    fra: b5e85731-3bf2-52a0-8f4c-c8e028564350
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.05'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.15'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.08'
+status: valid
+id: ebfe3c0a-4a54-571d-94b7-b02d89f7bf83
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: decision of legal relevance canceling a {{type approval,2.05}}
+  examples: []
+  id: 2.08-eng
+  notes:
+  - content: |-
+      The withdrawal is justified in case of
+      — alterations of the type,
+      — modification of its vital parts,
+      — circumstances that affect metrological {{durability,5.15}} and/ or reliability,
+      — effects altering the metrological performance of the instrument required by law and coming to light only after the official {{type approval,2.05}} was granted.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: withdrawal of a type approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: e2f788ae-e9fe-5a05-99da-a432a6cdb0ce
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision de portée légale annulant une {{approbation de type,2.05}}
+  examples: []
+  id: 2.08-fra
+  notes:
+  - content: |-
+      Le retrait est justifié dans les cas suivants :
+      — modification du type ;
+      — modification de ses parties essentielles ;
+      — circonstances qui affectent la {{durabilité,5.15}} et/ou la fiabilité métrologique ;
+      — effets altérant les performances métrologiques de l'instrument exigées par la loi et révélés seulement après que l'{{approbation de type,2.05}} officielle a été accordée.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retrait d'une approbation de type
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b5e85731-3bf2-52a0-8f4c-c8e028564350

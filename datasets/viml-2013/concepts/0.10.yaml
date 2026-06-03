@@ -1,0 +1,75 @@
+---
+data:
+  identifier: '0.10'
+  localized_concepts:
+    eng: d0fc2f06-68b2-5f02-ae68-d5eec5f14583
+    fra: 7c376fe5-3654-5566-8765-ff6ccbfd30be
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+status: valid
+id: 22e9dfe1-a863-58ae-a582-3cc1fe699a2a
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument device used for making measurements, alone or in conjunction
+      with one or more supplementary devices
+  examples: []
+  id: 0.10-eng
+  notes:
+  - content: A measuring instrument that can be used alone is a measuring system.
+  - content: A measuring instrument may be an indicating measuring instrument or a
+      material measure.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d0fc2f06-68b2-5f02-ae68-d5eec5f14583
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de mesure associé
+  examples: []
+  id: 0.10-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 7c376fe5-3654-5566-8765-ff6ccbfd30be

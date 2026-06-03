@@ -1,0 +1,77 @@
+---
+data:
+  identifier: '0.01'
+  localized_concepts:
+    eng: 64a2df31-0e40-529b-9480-765591f5d560
+    fra: f26f9f89-4753-57c8-993b-7ac5f7d0a7c4
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+status: valid
+id: 1af88dd5-c25c-5421-931f-7c2682dcc184
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '1.1'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.01'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: science of measurement and its application
+  examples: []
+  id: 0.01-eng
+  notes:
+  - content: Metrology includes all theoretical and practical aspects of measurement,
+      whatever the measurement uncertainty and field of application.
+  sources:
+  - origin:
+      ref:
+        source: OIML V2-200:2012
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrology
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 64a2df31-0e40-529b-9480-765591f5d560
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: légale
+  examples: []
+  id: 0.01-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: métrologie
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: f26f9f89-4753-57c8-993b-7ac5f7d0a7c4

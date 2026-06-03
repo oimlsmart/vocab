@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '4.03'
+  localized_concepts:
+    eng: 5d586283-4b01-5063-80ed-689889285ccf
+    fra: a5e36df6-0687-54b3-88ee-e1501eaf2a30
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 2e15b27c-e26a-5f74-8bf6-305fa2e2ac4d
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.3'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.03'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relevant attribute of any device, instrument, function or software that
+      influences the measurement result or any other primary indication
+  examples: []
+  id: 4.03-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrologically
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5d586283-4b01-5063-80ed-689889285ccf
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'instruments
+  examples: []
+  id: 4.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: catégorie
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a5e36df6-0687-54b3-88ee-e1501eaf2a30

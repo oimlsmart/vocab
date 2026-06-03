@@ -1,0 +1,65 @@
+---
+data:
+  identifier: '2.01'
+  localized_concepts:
+    eng: 2e805241-d582-597c-bafc-e547dbe2fcd6
+    fra: 2ecb9be7-194a-50d6-a798-9fa2486b78f2
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 3a85beef-bde5-5fce-a4ff-1c4287b378e6
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.1'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.01'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: metrological control the whole of legal metrology activities
+  examples: []
+  id: 2.01-eng
+  notes:
+  - content: Legal metrological control includes • legal control of measuring instruments,
+      • metrological supervision, • all the operations for the purpose of examining
+      and demonstrating, e.g. to testify in a court of law, the condition of a measuring
+      instrument and to determine its metrological properties, amongst others by reference
+      to the relevant statutory requirements.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 2e805241-d582-597c-bafc-e547dbe2fcd6
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: légal des instruments de mesure
+  examples: []
+  id: 2.01-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrôle
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 2ecb9be7-194a-50d6-a798-9fa2486b78f2

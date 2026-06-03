@@ -1,0 +1,72 @@
+---
+data:
+  identifier: '2.14'
+  localized_concepts:
+    eng: f45a269a-043e-5635-9592-8e61c8dc016a
+    fra: 23f17e37-ccc8-5b0d-b5c4-7d32f931d7b5
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.13'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.7
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.14'
+status: valid
+id: 7dd5c892-1d29-52a2-9211-beacfc78bd5a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{subsequent verification,2.13}} of a {{measuring instrument,0.10}},
+      carried out periodically at specified intervals according to the {{procedure,A.7}}
+      laid down by the regulations"
+  examples: []
+  id: 2.14-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mandatory periodic verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: f45a269a-043e-5635-9592-8e61c8dc016a
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{vérification ultérieure,2.13}} d'un {{instrument de mesure,0.10}}
+      effectuée périodiquement à des intervalles spécifiés selon la {{procédure,A.7}}
+      fixée par la réglementation"
+  examples: []
+  id: 2.14-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification périodique (obligatoire)
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 23f17e37-ccc8-5b0d-b5c4-7d32f931d7b5

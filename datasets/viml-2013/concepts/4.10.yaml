@@ -1,0 +1,59 @@
+---
+data:
+  identifier: '4.10'
+  localized_concepts:
+    eng: 565621a1-8bbf-5ecb-8bae-1d364baef989
+    fra: 3dd6dfce-64ab-5c9c-afc7-a7c0d890b12a
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: eeb289e5-fc22-5841-a576-7065bd87813f
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.10'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relevant parameter parameter of a measuring instrument, (electronic)
+      device, sub-assembly, software or a module subject to legal control
+  examples: []
+  id: 4.10-eng
+  notes:
+  - content: 'The following types of legally relevant parameters can be distinguished:
+      type-specific parameters and device-specific parameters.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 565621a1-8bbf-5ecb-8bae-1d364baef989
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: spécifique au type
+  examples: []
+  id: 4.10-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paramètre
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 3dd6dfce-64ab-5c9c-afc7-a7c0d890b12a

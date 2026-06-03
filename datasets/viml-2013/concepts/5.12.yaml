@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '5.12'
+  localized_concepts:
+    eng: 5ae7f25c-911b-5cb7-9571-2e88c11bef55
+    fra: 786b8cf7-891e-5815-9f80-d1153f088107
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 9c75efcc-a1b8-5bd9-abf0-30f11611feb2
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.12'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the error of indication and the intrinsic error of
+      a measuring instrument
+  examples: []
+  id: 5.12-eng
+  notes:
+  - content: Principally, a fault is the result of an undesired change of data contained
+      in or flowing through an electronic measuring instrument.
+  - content: From the definition it follows that a “fault” is a numerical value which
+      is expressed either in a unit of measurement or as a relative value, for instance
+      as a percentage.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5ae7f25c-911b-5cb7-9571-2e88c11bef55
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: limite
+  examples: []
+  id: 5.12-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: défaut
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 786b8cf7-891e-5815-9f80-d1153f088107

@@ -1,0 +1,66 @@
+---
+data:
+  identifier: '2.06'
+  localized_concepts:
+    eng: b9d3b34b-047c-5e26-b59d-9161aa584ee8
+    fra: bf236119-7467-5ac6-89ed-bcc0534a840f
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: aee7f076-2f46-5f76-a2c3-c69e24ed06d0
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.6'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.06'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: approval with limited effect approval of a type of measuring instrument
+      that is linked with one or more specific restrictions
+  examples: []
+  id: 2.06-eng
+  notes:
+  - content: Restrictions may pertain to, for instance • the period of validity, •
+      the number of instruments covered by the approval, • the obligation to notify
+      the competent authorities of the place of installation of each instrument, •
+      the use of the instrument.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: b9d3b34b-047c-5e26-b59d-9161aa584ee8
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: bilatéral A.36 arrangement multilatéral A.37 arrangement unilatéral A.35
+      attestation A.15 audit A.12 autorité chargée de la métrologie
+  examples: []
+  id: 2.06-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arrangement
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: bf236119-7467-5ac6-89ed-bcc0534a840f

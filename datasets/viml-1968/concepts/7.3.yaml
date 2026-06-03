@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '7.3'
+  localized_concepts:
+    fra: 4baec487-081c-504b-8bcf-f887acf81c1e
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: ba61c59e-c27e-5440-8732-e3540a2b21b8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '7.'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 4baec487-081c-504b-8bcf-f887acf81c1e

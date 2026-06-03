@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.24'
+  localized_concepts:
+    fra: bd56c1f7-d4b2-561d-a496-2d2a084f54ca
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: a53e84e8-0ba6-5f74-868e-4a361aa3fd4b
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.24'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de vérification
+  examples: []
+  id: 2.24-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Rreconnaissance
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: bd56c1f7-d4b2-561d-a496-2d2a084f54ca

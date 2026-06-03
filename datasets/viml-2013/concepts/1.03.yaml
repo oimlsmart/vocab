@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '1.03'
+  localized_concepts:
+    eng: f612f9f6-c075-59f1-aad4-8c848a70d33c
+    fra: 92056292-012e-526f-a2b3-55149665cad5
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 98e02037-06b6-59e7-9724-a45a262f7d78
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '1.03'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: metrology regulation technical regulation in the field of legal metrology
+  examples: []
+  id: 1.03-eng
+  notes:
+  - content: These regulations shall, when applicable, be compatible with the International
+      Recommendations of the OIML and make use of their requirements.
+  - content: The scope of legal metrology generally includes • protection of the interests
+      of individuals and enterprises, • protection of national interests, • protection
+      of public health and safety, including in relation to the environment and medical
+      services, and • meeting the requirements for commerce and trade.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: f612f9f6-c075-59f1-aad4-8c848a70d33c
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: en conformité d’un instrument de mesure
+  examples: []
+  id: 1.03-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: remise
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 92056292-012e-526f-a2b3-55149665cad5

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: '2.52'
+  localized_concepts:
+    eng: 54e63693-8a77-5442-bcb7-22e28bcad5b1
+    fra: 71c5ca51-f870-53e2-99b4-3c6ca1b151cd
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 4260a1ed-1a9e-5e91-8d92-7436ff77f4f4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.52-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "]"
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 54e63693-8a77-5442-bcb7-22e28bcad5b1
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.52-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "]"
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 71c5ca51-f870-53e2-99b4-3c6ca1b151cd

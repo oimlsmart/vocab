@@ -1,0 +1,63 @@
+---
+data:
+  identifier: '2.15'
+  localized_concepts:
+    eng: 1bc263a0-47cb-5511-89ea-5e4597910ee2
+    fra: 41d35708-aa11-54d0-b40a-2dde610a7d53
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 2b1a02a7-2bab-5f76-9201-ef08d8b8f9fd
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.15'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.15'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of a measuring instrument disqualification of a measuring instrument
+      decision of legal relevance that a measuring instrument does not comply with
+      statutory requirements for verification and prohibiting its use for applications
+      requiring mandatory verification
+  examples: []
+  id: 2.15-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rejection
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 1bc263a0-47cb-5511-89ea-5e4597910ee2
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: des événements
+  examples: []
+  id: 2.15-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: registre
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 41d35708-aa11-54d0-b40a-2dde610a7d53

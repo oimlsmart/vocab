@@ -1,0 +1,70 @@
+---
+data:
+  identifier: '1.06'
+  localized_concepts:
+    eng: 88fdce66-109c-5fcf-9ef6-eeef13ad1a0c
+    fra: 46a62f6f-e4d5-587e-bf9d-e2da3a6a532c
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.02'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '1.06'
+status: valid
+id: fd3ca3ec-8721-5433-bfd6-b46cbb89031e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: units of measurement required or permitted by regulations
+  examples: []
+  id: 1.06-eng
+  notes:
+  - content: |-
+      Legal units may be
+      — {{SI,0.02}} units,
+      — their decimal multiples and submultiples as indicated by the use of {{SI,0.02}} prefixes, or
+      — non-{{SI,0.02}} units specified by relevant regulations.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal units of measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 88fdce66-109c-5fcf-9ef6-eeef13ad1a0c
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unités de mesure exigées ou permises par les règlements
+  examples: []
+  id: 1.06-fra
+  notes:
+  - content: |-
+      Les unités légales peuvent être
+      — les unités {{SI,0.02}},
+      — leurs multiples et sous-multiples décimaux comme indiqué par l'utilisation des préfixes du {{SI,0.02}}, ou
+      — des unités non {{SI,0.02}} spécifiées par les règlements applicables.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unités légales de mesure
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 46a62f6f-e4d5-587e-bf9d-e2da3a6a532c

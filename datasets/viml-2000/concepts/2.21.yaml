@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.21'
+  localized_concepts:
+    fra: 7dd76f28-5722-5280-9e81-a061084d96bc
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: 67c4b391-cafa-5ab4-9be3-1d364e251278
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.21'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: par échantillonnage
+  examples: []
+  id: 2.21-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 7dd76f28-5722-5280-9e81-a061084d96bc

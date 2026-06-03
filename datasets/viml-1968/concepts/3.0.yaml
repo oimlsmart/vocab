@@ -1,0 +1,40 @@
+---
+data:
+  identifier: '3.0'
+  localized_concepts:
+    fra: 54508b3c-e80f-5e13-ad8b-e29c548339e8
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: f9cca30d-5f21-50fe-8f40-b25000256e08
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: MIÊTROLOGIE TECHNIQUEPartie de la Métrologie qui traite des problèmes
+      des mesurages dans la technique.Remorque:Bien que d'autres domalnos soient compris
+      dans la métrologie technique, cette expreaslon est souvent utilisée avec une
+      signiflcailon incorrecte pour la seule métrologie des longueurs el des angles,O.◄.
+      M�TROLOGIE THÉORIQUEPartie de la Métrologie qui traite des problèmes théoriques
+      de mesurage.Exemples:A la métrologie théorique appartiennent, entre autres,
+      la thoorle des l:lra.ndcurs et des unités de mesure, la théorie des e1Teurs
+      de mesurage, la. théorie ln(orma.tionnclle des mesurages.O.S. TECHNIQUE DES
+      MESURAGESPartie de la Métrologie qui traite de la technique d'exécution des
+      mesurages.
+  examples: []
+  id: 3.0-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: J.1,
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 54508b3c-e80f-5e13-ad8b-e29c548339e8

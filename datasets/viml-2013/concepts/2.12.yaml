@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '2.12'
+  localized_concepts:
+    eng: 4eb73062-fd6a-5204-9c00-2914be93d46f
+    fra: fa5c6e2d-6145-53ca-aeab-7a5a76a94a68
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: ca1c2562-02ae-5411-84e6-17ca991cd2fd
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.12'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.12'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Note 1).
+  examples: []
+  id: 2.12-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ","
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4eb73062-fd6a-5204-9c00-2914be93d46f
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: primitive d’instruments de mesure par recours au système de management
+      de la qualité du fabricant
+  examples: []
+  id: 2.12-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: fa5c6e2d-6145-53ca-aeab-7a5a76a94a68

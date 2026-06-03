@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '51.1'
+  localized_concepts:
+    fra: ff8d7931-ce04-57e6-b76e-13589dc08164
+  domains:
+  - concept_id: section-51
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 8f25504f-9163-5950-ac97-584457d53e76
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 51.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '5'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: ff8d7931-ce04-57e6-b76e-13589dc08164

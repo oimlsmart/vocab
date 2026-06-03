@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '3.9'
+  localized_concepts:
+    fra: 12d787bf-4fc1-50a0-acb9-bdda51016150
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: b4b357d4-cc82-5bde-9c7d-26decc8ab18e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: de vérification
+  examples: []
+  id: 3.9-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marque
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 12d787bf-4fc1-50a0-acb9-bdda51016150

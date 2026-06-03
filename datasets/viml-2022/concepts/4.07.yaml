@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '4.07'
+  localized_concepts:
+    eng: 682d5037-d22b-5e06-be21-397ac5c4a65d
+    fra: 3665f3ed-f6a6-57d8-871e-180f54e0cba6
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.10'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '4.07'
+status: valid
+id: a4e036fc-1ea8-5566-b105-7c7f1bc1d7cb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{measuring instrument,0.10}} required to conform to prescribed requirements,
+      in particular legal metrological requirements"
+  examples: []
+  id: 4.07-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally controlled measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 682d5037-d22b-5e06-be21-397ac5c4a65d
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{instrument de mesure,0.10}} soumis aux exigences prescrites, en particulier
+      les exigences de métrologie légale"
+  examples: []
+  id: 4.07-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument de mesure légalement contrôlé
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 3665f3ed-f6a6-57d8-871e-180f54e0cba6

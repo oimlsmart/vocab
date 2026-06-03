@@ -1,0 +1,63 @@
+---
+data:
+  identifier: '2.22'
+  localized_concepts:
+    eng: e8e02d51-a93d-59da-bc2f-9b5b868b9294
+    fra: 4721d6ea-deca-5892-b88c-3634534df4e7
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 59ca5458-e09a-5e88-9b6b-bf63340a0ef7
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.22'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.22'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of a verification mark cancellation of the verification mark when it
+      has been found that the measuring instrument no longer complies with the statutory
+      requirements
+  examples: []
+  id: 2.22-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obliteration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: e8e02d51-a93d-59da-bc2f-9b5b868b9294
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d'accréditation A.3 organisme d'évaluation de la conformité A.2 organisme
+      national responsable
+  examples: []
+  id: 2.22-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: organisme
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4721d6ea-deca-5892-b88c-3634534df4e7

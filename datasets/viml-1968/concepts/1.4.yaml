@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '1.4'
+  localized_concepts:
+    fra: ea4596a0-18e1-5282-beee-b86207192024
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 719822db-11a7-5001-9e86-7b05c3dda110
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  examples: []
+  id: 1.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ".1127.Erreur"
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: ea4596a0-18e1-5282-beee-b86207192024

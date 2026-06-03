@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '15.2'
+  localized_concepts:
+    fra: cbca9d79-8f2b-5ceb-8a37-6515332b7039
+  domains:
+  - concept_id: section-15
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 7ac13fa2-1f21-5961-a442-ab789fbca06d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 15.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '1'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: cbca9d79-8f2b-5ceb-8a37-6515332b7039

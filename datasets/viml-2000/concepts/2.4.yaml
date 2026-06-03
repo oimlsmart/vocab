@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '2.4'
+  localized_concepts:
+    fra: fd216751-dd63-59ae-a5b9-c7c81c479f9e
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2000
+    ref_type: domain
+status: valid
+id: ae01ed19-2305-5570-9f3f-bd7fe664316b
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '2.04'
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: d’un instrument de mesure
+  examples: []
+  id: 2.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Iinspection
+  language_code: fra
+  entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: fd216751-dd63-59ae-a5b9-c7c81c479f9e

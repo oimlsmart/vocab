@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '5.11'
+  localized_concepts:
+    eng: 9c4e61cc-9274-5f85-a59f-4c4db48bb7a8
+    fra: a713519a-ad3e-5aa0-9780-602062d76c0a
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 45c154c0-e9d3-5e66-bb78-7427aa4fe71a
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '5.11'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error intrinsic error of a measuring instrument as determined
+      prior to performance tests and durability evaluations
+  examples: []
+  id: 5.11-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 9c4e61cc-9274-5f85-a59f-4c4db48bb7a8
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximale tolérée
+  examples: []
+  id: 5.11-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a713519a-ad3e-5aa0-9780-602062d76c0a

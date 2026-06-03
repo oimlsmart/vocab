@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '9.87'
+  localized_concepts:
+    fra: f9850669-4a37-50b5-8432-6d835aa3a705
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 9379f023-ef1d-5ae4-9043-0becfe81dd20
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 9.87-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '9.'
+  language_code: fra
+  entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: f9850669-4a37-50b5-8432-6d835aa3a705

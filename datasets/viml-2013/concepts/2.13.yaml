@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '2.13'
+  localized_concepts:
+    eng: 3f6e23b2-83a0-5aa2-96d0-ac78f1cdfceb
+    fra: fa457782-595e-5a5e-9a96-4b4aa811a017
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: cb993939-036c-53eb-8467-15761d3a5990
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.13'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '2.13'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: verification verification of a measuring instrument after a previous
+      verification
+  examples: []
+  id: 2.13-eng
+  notes:
+  - content: Subsequent verification includes • mandatory periodic verification, •
+      verification after repair, and • voluntary verification.
+  - content: Subsequent verification of a measuring instrument may be carried out
+      before expiry of the period of validity of a previous verification either at
+      the request of the user (owner) or when its verification is declared to be no
+      longer valid.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: subsequent
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 3f6e23b2-83a0-5aa2-96d0-ac78f1cdfceb
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: to the expression of uncertainty in measurement, see OIML publication
+      G 1-100. 1 Guide pour l’expression de l’incertitude de mesure, voir publication
+      OIML G 1-100.
+  examples: []
+  id: 2.13-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "[1] Guide"
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: fa457782-595e-5a5e-9a96-4b4aa811a017

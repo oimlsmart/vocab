@@ -1,0 +1,68 @@
+---
+data:
+  identifier: '6.07'
+  localized_concepts:
+    eng: c8d3e24b-57db-5fc5-8da5-f555ac547a19
+    fra: 62650462-dbbb-5a48-8247-5f667ba9afd4
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.08'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.03'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '6.07'
+status: valid
+id: 7df596ca-d114-5b83-956a-a2a17311e7a8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device used for storing measurement data after completion of the measurement
+      and keeping it available for later {{legally relevant,4.08}} purposes (e.g.
+      the conclusion of a commercial transaction)
+  examples: []
+  id: 6.07-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: storage device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c8d3e24b-57db-5fc5-8da5-f555ac547a19
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif permettant de mémoriser les données après la réalisation du
+      mesurage et de les conserver accessibles à des fins ultérieures à {{caractère
+      métrologique,4.03}} (par exemple, la conclusion d'une transaction commerciale)
+  examples: []
+  id: 6.07-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dispositif de mémorisation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 62650462-dbbb-5a48-8247-5f667ba9afd4

@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '4.06'
+  localized_concepts:
+    eng: 2e7194ff-a25a-5d5e-840a-ccbfa5ed4082
+    fra: 07656fc3-419d-5882-9f65-29268827d79a
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: a0cb5bfa-544a-552e-b7bc-829022b48116
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.6'
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '4.06'
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: of a measuring instrument or module definitive model of a measuring instrument
+      or module (including a family of instruments or modules) of which all of the
+      elements affecting its metrological properties are suitably defined
+  examples: []
+  id: 4.06-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 2e7194ff-a25a-5d5e-840a-ccbfa5ed4082
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unités légales de mesure
+  examples: []
+  id: 4.06-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: U
+  language_code: fra
+  entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 07656fc3-419d-5882-9f65-29268827d79a

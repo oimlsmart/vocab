@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '0.06'
+  localized_concepts:
+    eng: 2dbfc1ca-6296-51f7-a41b-80aacc913ed2
+    fra: da9d84ca-458a-5037-aeb5-2a24ec74cf1c
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:2022
+    ref_type: domain
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.04'
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.09'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '0.06'
+status: valid
+id: c6b2bfc2-5f3c-5b66-9a4b-f8596dcd3b98
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{error of indication,0.04}}, determined under {{reference conditions,0.09}}"
+  examples: []
+  id: 0.06-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 2dbfc1ca-6296-51f7-a41b-80aacc913ed2
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: "{{erreur d'indication,0.04}} déterminée dans les {{conditions de référence,0.09}}"
+  examples: []
+  id: 0.06-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur intrinsèque
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: da9d84ca-458a-5037-aeb5-2a24ec74cf1c
