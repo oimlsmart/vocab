@@ -27,13 +27,16 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 ## Key files
 
 - `site-config.yml` — All site configuration (branding, features, dataset source, base path, languages). Auto-generated from `editions.yml` by `scripts/build_site_config.rb`.
-- `editions.yml` — Single source of truth for all VIML editions (2022, 2013, 2000, 1968)
+- `editions.yml` — Single source of truth for all editions (4 VIML + 4 VIM)
 - `supersession-map.yaml` — Cross-edition concept mapping for supersedes/superseded_by relations
 - `datasets/viml-2022/` — Glossarist v3 dataset for VIML 2022 (135 concept YAML files + `register.yaml`)
 - `datasets/viml-2013/` — Glossarist v3 dataset for VIML 2013 (109 concepts)
 - `datasets/viml-2000/` — Glossarist v3 dataset for VIML 2000 (45 concepts)
 - `datasets/viml-1968/` — Glossarist v3 dataset for VIML 1968 (OCR, needs manual review)
-- `datasets/vim/` — Glossarist v3 dataset for VIM (144 concept YAML files + `register.yaml`)
+- `datasets/vim/` — Glossarist v3 dataset for VIM 2012 (144 concepts, current)
+- `datasets/vim-2010/` — Glossarist v3 dataset for VIM 2010 (143 concepts)
+- `datasets/vim-2007/` — Glossarist v3 dataset for VIM 2007 (143 concepts)
+- `datasets/vim-1993/` — Glossarist v3 dataset for VIM 1993 (87 concepts, OCR)
 - `about.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
 - `scripts/scrape_viml.rb` — Scraper for VIML 2022 dataset (from viml.oiml.info)
@@ -43,7 +46,9 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 - `scripts/viml_edition_scraper.rb` — Shared scraper framework (EditionConfig, ConceptBuilder, DatasetWriter)
 - `scripts/build_supersessions.rb` — Injects supersedes/superseded_by relations from supersession-map.yaml
 - `scripts/build_site_config.rb` — Generates site-config.yml datasets from editions.yml
-- `scripts/scrape_vim.rb` — Scraper for VIM dataset (from jcgm.bipm.org/vim)
+- `scripts/scrape_vim.rb` — Scraper for VIM 2012 dataset (from jcgm.bipm.org/vim)
+- `scripts/scrape_vim_pdf.rb` — Scraper for VIM 2007/2010 (from pdftotext output)
+- `scripts/scrape_vim_1993.rb` — Scraper for VIM 1993 (from OCR HTML)
 - `scripts/audit_viml.rb` — VIML dataset validation script
 - `scripts/audit_vim.rb` — VIM dataset validation script
 
@@ -88,16 +93,19 @@ bundle exec ruby /path/to/oiml-viml/scripts/scrape_viml_2013.rb
 bundle exec ruby /path/to/oiml-viml/scripts/build_supersessions.rb
 ```
 
-### VIM (JCGM 200:2012 / OIML V 2-200:2012)
+### VIM (multi-edition)
 
-The `datasets/vim/` directory contains 144 bilingual (English/French) concepts from JCGM 200:2012 (3rd edition). The dataset includes:
+Four VIM editions are available as separate datasets:
 
-- **5 sections**: Quantities and units (1.1–1.30), Measurement (2.1–2.53), Devices for measurement (3.1–3.12), Properties of measuring devices (4.1–4.31), Measurement standards (5.1–5.18)
-- **65 annotations** — informative commentary by JCGM/WG 2, stored as notes with `[Annotation]` prefix
-- **Examples** separated from notes; examples following a note are embedded in that note's text
-- **Cross-references** as `{{term text,concept_id}}` patterns
-- **Tables** serialized as Asciidoc tables (`|===` delimited) within note content
+| Edition | Path | Concepts | Notes |
+|---------|------|----------|-------|
+| 2012 (current) | `datasets/vim/` | 144 | Bilingual EN/FR, scraped from jcgm.bipm.org/vim |
+| 2010 | `datasets/vim-2010/` | 143 | Bilingual EN/FR, scraped from pdftotext |
+| 2007 | `datasets/vim-2007/` | 143 | Bilingual EN/FR, scraped from pdftotext |
+| 1993 | `datasets/vim-1993/` | 87 | Bilingual EN/FR (limited FR from OCR), OCR quality poor |
 
-To update: `ruby scripts/scrape_vim.rb`, commit changes to `datasets/vim/`, push to `main`.
+VIM 2007/2010 share the same concept numbering (5 chapters). VIM 1993 has a different structure (6 chapters).
 
-Scraper commands: `fetch` (download HTML), `build` (parse → YAML), `about` (generate about pages), or run without args for all phases.
+To update 2012: `ruby scripts/scrape_vim.rb` (fetch/build/about phases)
+To update 2007/2010: `ruby scripts/scrape_vim_pdf.rb EDITION` (2007 or 2010)
+To update 1993: `ruby scripts/scrape_vim_1993.rb`
