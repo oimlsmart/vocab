@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '4.3'
+  localized_concepts:
+    eng: 5a5e522d-e12d-4c27-9e0a-0eed5ab428ee
+    fra: fd438d5a-f8a7-4dfc-b751-e8a214d56668
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: f52ac33e-8cb4-46c4-8735-1a25771b6531
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of quantity values bounded by extreme possible indications
+  examples:
+  - content: ", “99 V to 201 V”."
+  id: 4.3-eng
+  language_code: eng
+  notes:
+  - content: An indication interval is usually stated in terms of its smallest and
+      greatest quantity values, for
+  - content: In some fields the term is “range of indications”.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication interval
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5a5e522d-e12d-4c27-9e0a-0eed5ab428ee
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des valeurs comprises entre les deux indications extrêmes
+  examples: []
+  id: 4.3-fra
+  language_code: fra
+  notes:
+  - content: Un intervalle des indications est généralement exprimé en donnant la
+      plus petite et la plus grande valeur, par exemple « 99 V à 201 V ».
+  - content: Dans certains domaines, le terme anglais est « range of indications ».
+      En français, le terme « étendue des indications » est parfois employé.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intervalle des indications, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: fd438d5a-f8a7-4dfc-b751-e8a214d56668

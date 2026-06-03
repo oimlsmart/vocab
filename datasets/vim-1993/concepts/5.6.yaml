@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '5.6'
+  localized_concepts:
+    eng: cd99555c-dbe1-4fa2-b7dd-4312acb6ee82
+    fra: c4b0fbcf-e731-46d6-8e33-9e602136c4c7
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: abbd9bc7-9c62-4e2c-a46c-d18905d87cbb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme conditions that a measuring instrument is required to withstand
+      without damage, and without degradation  of  specified metrological characteristics
+      when it is subsequently operated under its rated operating conditions
+  examples: []
+  id: 5.6-eng
+  language_code: eng
+  notes:
+  - content: The limiting conditions for storage,  transport and operation may be
+      different. 2  The limiting conditions may include limiting values of the measurand
+      and of the influence quantities. 5.3 valeur nominale, f valeur arrondie ou approximative
+      d'une carac-téristique d'un instrument de mesure qui sert de guide pour son
+      utilisation EXEMPLES la valeur 100 Q  sur une résistance étalon; la valeur 1
+      L marquée sur une fiole jaugée à un trait; la valeur 0,1 mcl/L de la concentration
+      en quantité de matière d'une solution d'acide chlorhydrique, HCI; la valeur
+      25 °C du point de consigne d'un bain thermo-statique. la valeur 100 Q  sur une
+      résistance étalon; la valeur 1 L marquée sur une fiole jaugée à un trait; la
+      valeur 0,1 mcl/L de la concentration en quantité de matière d'une solution d'acide
+      chlorhydrique, HCI; la valeur 25 °C du point de consigne d'un bain thermo-statique.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limiting conditions
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: cd99555c-dbe1-4fa2-b7dd-4312acb6ee82
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions  extrêmes  qu'un  instrument  de mesure doit pouvoir supporter
+      sans dommage et sans dégradation des caractéristiques métro-logiques spécifiées
+      lorsqu'il est ensuite utilisé dans  ses  conditions  assignées  de  fonction-nement
+  examples: []
+  id: 5.6-fra
+  language_code: fra
+  notes:
+  - content: Les conditions limites peuvent être différentes pour le stockage, le
+      transport et le fonctionnement. 2  Les conditions limites peuvent comprendre
+      des valeurs limites pour le mesurande et pour les grandeurs d'influence.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conditions limites, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: c4b0fbcf-e731-46d6-8e33-9e602136c4c7

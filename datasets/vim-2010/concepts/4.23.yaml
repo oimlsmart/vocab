@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.23'
+  localized_concepts:
+    eng: 035b9645-c5b3-4b94-a8bc-b3a05b5761cf
+    fra: 58e4364a-c376-49ef-95e1-fd383bed019d
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 2ba5924d-230c-4298-b8e3-d42ce56977b0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: duration between the instant when an input quantity value of a measuring
+      instrument or measuring system is subjected to an abrupt change between two
+      specified constant quantity values and the instant when a corresponding indication
+      settles within specified limits around its final steady value
+  examples: []
+  id: 4.23-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: step response time
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 035b9645-c5b3-4b94-a8bc-b3a05b5761cf
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: durée entre l'instant où une valeur d'entrée d'un instrument de mesure
+      ou d'un système de mesure subit un changement brusque d'une valeur constante
+      spécifiée à une autre et l'instant où l'indication correspondante se maintient
+      entre deux limites spécifiées autour de sa valeur finale en régime établi
+  examples: []
+  id: 4.23-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de réponse à un échelon, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 58e4364a-c376-49ef-95e1-fd383bed019d

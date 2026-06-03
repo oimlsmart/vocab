@@ -1,0 +1,65 @@
+---
+data:
+  identifier: '4.24'
+  localized_concepts:
+    eng: 85991a29-948f-4f12-95e8-56954510a5d1
+    fra: 4979f157-ca0e-4726-91cf-e7209830fc49
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 5df253ec-d023-4540-a1db-fe2d2cd923b6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component of measurement uncertainty arising from a measuring instrument
+      or measuring system in use
+  examples: []
+  id: 4.24-eng
+  language_code: eng
+  notes:
+  - content: Instrumental measurement uncertainty is obtained through calibration
+      of a measuring instrument or measuring system, except for a primary measurement
+      standard for which other means are used.
+  - content: Instrumental uncertainty is used in a Type B evaluation of measurement
+      uncertainty.
+  - content: Information relevant to instrumental measurement uncertainty may be given
+      in the instrument specifications.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrumental measurement uncertainty
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 85991a29-948f-4f12-95e8-56954510a5d1
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: composante de l'incertitude de mesure qui provient de l'instrument de
+      mesure ou du système de mesure utilisé
+  examples: []
+  id: 4.24-fra
+  language_code: fra
+  notes:
+  - content: L'incertitude instrumentale est obtenue par étalonnage de l'instrument
+      de mesure ou du système de mesure, sauf pour un étalon primaire, pour lequel
+      on utilise d'autres moyens.
+  - content: L'incertitude instrumentale est utilisée dans une évaluation de type
+      B de l'incertitude.
+  - content: Les informations relatives à l'incertitude instrumentale peuvent être
+      données dans les spécifications de l'instrument.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude instrumentale, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4979f157-ca0e-4726-91cf-e7209830fc49

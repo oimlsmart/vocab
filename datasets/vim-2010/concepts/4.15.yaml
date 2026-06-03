@@ -1,0 +1,51 @@
+---
+data:
+  identifier: '4.15'
+  localized_concepts:
+    eng: ae0ce603-f956-4472-87c0-f8c48729a042
+    fra: 7f788399-50a5-440c-98ed-a6fc7f0a655d
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: bc074117-3d30-4628-b123-609ccfca675b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest difference between displayed indications that can be meaningfully
+      distinguished _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 4.15-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution of a displaying device
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: ae0ce603-f956-4472-87c0-f8c48729a042
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: plus petite différence entre indications affichées qui peut être perçue
+      de manière significative _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 4.15-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résolution d'un dispositif afficheur, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7f788399-50a5-440c-98ed-a6fc7f0a655d

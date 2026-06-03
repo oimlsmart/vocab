@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '1.14'
+  localized_concepts:
+    eng: 69f49765-ac0d-4bfc-aa75-edddaa8b6905
+    fra: 1e25ab12-121e-48fb-8045-f9bb491e882a
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: bed89502-3b0e-40f1-ab89-fc9b0b4dd9a0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system of units, based on a given system of quantities, in which the
+      measurement unit for each derived quantity is a coherent derived unit
+  examples:
+  - content: Set of coherent SI units and relations between them.
+  id: 1.14-eng
+  language_code: eng
+  notes:
+  - content: A system of units can be coherent only with respect to a system of quantities
+      and the adopted base units.
+  - content: For a coherent system of units, numerical value equations have the same
+      form, including numerical factors, as the corresponding quantity equations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coherent system of units
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 69f49765-ac0d-4bfc-aa75-edddaa8b6905
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: système d'unités, fondé sur un système de grandeurs donné, dans lequel
+      l'unité de mesure de chaque grandeur dérivée est une unité dérivée cohérente
+      EXEMPLE L'ensemble des unités SI cohérentes et les relations entre elles.
+  examples: []
+  id: 1.14-fra
+  language_code: fra
+  notes:
+  - content: Un système d'unités ne peut être cohérent que par rapport à un système
+      de grandeurs et aux unités de base adoptées.
+  - content: Pour un système cohérent d’unités, les équations aux valeurs numériques
+      ont la même forme, y compris les facteurs numériques, que les équations aux
+      grandeurs correspondantes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système cohérent d'unités, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1e25ab12-121e-48fb-8045-f9bb491e882a

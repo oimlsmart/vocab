@@ -1,0 +1,53 @@
+---
+data:
+  identifier: '6.5'
+  localized_concepts:
+    eng: c033edc3-ae47-4641-a412-066b4bbfa94b
+    fra: b0cb8548-3765-4a57-a988-12f75b12536f
+  domains:
+  - concept_id: section-6
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: af4d3192-7699-4335-b332-ff8516f750ac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: standard whose value is assigned by com-parison with a primary standard
+      of the same quantity 6.6 (6.08) reference standard standard, generally having
+      the highest metro-logical quality available at a given location or in a given
+      organization, from which measurements made there are derived
+  examples: []
+  id: 6.5-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary standard
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: c033edc3-ae47-4641-a412-066b4bbfa94b
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon dont la valeur est établie par comparaison à un étalon primaire
+      de la même grandeur
+  examples: []
+  id: 6.5-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon secondaire, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: b0cb8548-3765-4a57-a988-12f75b12536f

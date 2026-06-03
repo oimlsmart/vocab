@@ -1,0 +1,88 @@
+---
+data:
+  identifier: '1.19'
+  localized_concepts:
+    eng: ad3f3246-fd5a-4a1a-920f-28e6d8202e24
+    fra: e6228ef5-38f4-40ff-8600-a6fdcdc1d438
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 0a7f3112-7ed2-4db5-9c2e-87408d95a156
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: number and reference together expressing magnitude of a quantity
+  examples:
+  - content: a) length of a given rod b) mass of a given body c) curvature of a given
+      arc d) Celsius temperature of a given sample e) electric impedance of a given
+      circuit element at a given f) g) h) i) j) frequency, where j is the imaginary
+      unit refractive index of a given sample of glass Rockwell C hardness of a given
+      sample mass fraction of cadmium in a given sample of copper molality of Pb2+
+      in a given sample of water Arbitrary amount-of-substance concentration of lutropin
+      in a given sample of human blood plasma (WHO International Standard 80/552 used
+      as a calibrator) 5.34 m or 534 cm 0.152 kg or 152 g 112 m−1 −5 ºC (7 + 3j) Ω
+  id: 1.19-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity value
+  - type: expression
+    normative_status: admitted
+    designation: value of a quantity
+  - type: expression
+    normative_status: admitted
+    designation: value
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: ad3f3246-fd5a-4a1a-920f-28e6d8202e24
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble d'un nombre et d'une référence constituant l’expression quantitative
+      d’une grandeur EXEMPLES a) Longueur d'une tige donnée b) Masse d'un corps donné
+      c) Courbure d'un arc donné d) Température Celsius d'un spécimen donné e) Impédance
+      électrique d'un élément de circuit donné à une fréquence f) g) h) i) j) donnée,
+      où j est l'unité imaginaire Indice de réfraction d'un spécimen donné de verre
+      Dureté C de Rockwell d'un spécimen donné Fraction massique de cadmium dans un
+      spécimen donné de cuivre Molalité de Pb2+ dans un spécimen donné d'eau Concentration
+      arbitraire en quantité de matière de lutropine dans un spécimen donné de plasma
+      sanguin humain en utilisant l’étalon international 80/552 de l’OMS 5,34 m ou
+      534 cm 0,152 kg ou 152 g 112 m−1 −5 ºC (7 + 3j) Ω 1,32 43,5 HRC 3 µg/kg ou 3
+      × 10−9 1,76 µmol/kg 5,0 UI/l, où « UI » signifie « unité internationale de l’OMS
+      »
+  examples: []
+  id: 1.19-fra
+  language_code: fra
+  notes:
+  - content: Selon le type de référence, la valeur d'une grandeur est  soit le produit
+      d'un nombre et d'une unité de mesure (voir les exemples a, b, c, d, e, h et
+      i) ; l'unité un est généralement omise pour les grandeurs sans dimension (voir
+      f et h) ;  soit un nombre et la référence à une procédure de mesure (voir g)
+      ;  soit un nombre et un matériau de référence (voir j).
+  - content: Le nombre peut être complexe (voir l'exemple e).
+  - content: La valeur d'une grandeur peut être représentée de plus d'une façon (voir
+      a, b et h).
+  - content: Dans le cas de grandeurs vectorielles ou tensorielles, chaque composante
+      a une valeur. EXEMPLE Force agissant sur une particule donnée, par exemple en
+      coordonnées cartésiennes (Fx ; Fy ; Fz) = (31,5 ; 43,2 ; 17,0) N.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur d'une grandeur, f
+  - type: expression
+    normative_status: admitted
+    designation: valeur, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: e6228ef5-38f4-40ff-8600-a6fdcdc1d438

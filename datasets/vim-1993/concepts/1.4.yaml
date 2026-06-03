@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '1.4'
+  localized_concepts:
+    eng: 90630163-e28f-4105-b575-c7534da9919b
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: bcb1dfed-176f-4383-ae4b-5bd8b6cbed9f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur dérivée, f grandeur définie, dans un système de gran-deurs,
+      comme fonction des grandeurs de base de ce système EXEMPLE dans un système qui
+      a pour grandeurs de base la longueur, la masse et le temps, la vitesse est une
+      grandeur dérivée définie comme le quotient de la longueur par le temps.
+  examples: []
+  id: 1.4-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "( 1.03)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 90630163-e28f-4105-b575-c7534da9919b

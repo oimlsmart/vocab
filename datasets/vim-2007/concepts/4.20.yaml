@@ -1,0 +1,50 @@
+---
+data:
+  identifier: '4.20'
+  localized_concepts:
+    eng: 5410ab87-ee19-4c51-9335-bec3743dc6f1
+    fra: e5211e01-3bb6-4922-b853-c4b3f28964cd
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 49e0c3cb-30ea-4aa1-ac06-25b082154515
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: average of replicate indications minus a reference quantity value
+  examples: []
+  id: 4.20-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrumental bias
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5410ab87-ee19-4c51-9335-bec3743dc6f1
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: erreur de justesse d'un instrument, f différence entre la moyenne d'indications
+      répétées et une valeur de référence
+  examples: []
+  id: 4.20-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biais instrumental, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: e5211e01-3bb6-4922-b853-c4b3f28964cd

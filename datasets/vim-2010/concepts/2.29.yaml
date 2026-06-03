@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '2.29'
+  localized_concepts:
+    eng: 9be64a2b-c420-426d-958d-05caaa3c5f32
+    fra: f0ba6219-4777-4d41-8578-2429b633aa48
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: ea7b8168-0b9c-495d-96b4-a53cce119513
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: evaluation of a component of measurement uncertainty determined by means
+      other than a Type A evaluation of measurement uncertainty
+  examples:
+  - content: Evaluation based on information  associated with authoritative published
+      quantity values,  associated with the quantity value of a certified reference
+      material,  obtained from a calibration certificate,  about drift,  obtained
+      from the accuracy class of a verified measuring instrument,  obtained from
+      limits deduced through personal experience. Note See also GUM, 2.3.3.
+  id: 2.29-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Type B evaluation of measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: Type B evaluation
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9be64a2b-c420-426d-958d-05caaa3c5f32
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: évaluation d'une composante de l'incertitude de mesure par d'autres moyens
+      qu'une évaluation de type A de l'incertitude EXEMPLES Évaluation fondée sur
+      des informations  associées à des valeurs publiées faisant autorité,  associés
+      à la valeur d'un matériau de référence certifié,  obtenues à partir d'un certificat
+      d'étalonnage,  concernant la dérive,  obtenues à partir de la classe d'exactitude
+      d'un instrument de mesure vérifié,  obtenues à partir de limites déduites de
+      l'expérience personnelle. Note Voir aussi le GUM, 2.3.3.
+  examples: []
+  id: 2.29-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de type B de l'incertitude, f
+  - type: expression
+    normative_status: admitted
+    designation: évaluation de type B, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: f0ba6219-4777-4d41-8578-2429b633aa48

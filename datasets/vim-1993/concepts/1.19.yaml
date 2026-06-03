@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '1.19'
+  localized_concepts:
+    eng: '019df7ed-d07b-4d54-b824-6388d16336b9'
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 5f20c4b0-1c85-46a4-a149-87c712c5e820
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur vraie (d'une grandeur), f valeur compatible avec la définition
+      d'une gran-deur particulière donnée f\JOTES C'est une valeur que l'on obtiendrait
+      par un mesurage parfait Toute valeur vraie est par nature indéterminée. L'article
+      indéfini "une» plutôt que l'article défini «la" est utilisé en con1onctIon avec
+      «valeur vraie» parce qu'il peut y avoir plusieurs valeurs correspondant à la
+      défini-tion d'une grandeur particulière donnée. Toute valeur vraie est par nature
+      indéterminée. L'article indéfini "une» plutôt que l'article défini «la" est
+      utilisé en con1onctIon avec «valeur vraie» parce qu'il peut y avoir plusieurs
+      valeurs correspondant à la défini-tion d'une grandeur particulière donnée.
+  examples: []
+  id: 1.19-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(1.18)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: '019df7ed-d07b-4d54-b824-6388d16336b9'

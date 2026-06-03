@@ -1,0 +1,91 @@
+---
+data:
+  identifier: '1.2'
+  localized_concepts:
+    eng: 24ff0d7a-cad4-4699-9036-ad64b6b8b21f
+    fra: dbdbf4b1-04ab-4a66-bfc7-270a17ce0f70
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 5715f38d-1867-4da5-8a0b-4ecd4e15573a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: aspect common to mutually comparable quantities
+  examples:
+  - content: a) The quantities diameter, circumference, and wavelength are generally
+      considered to be quantities of the same kind, namely, of the kind of quantity
+      called length. b) The quantities heat, kinetic energy, and potential energy,
+      are generally considered to be quantities of the same kind, namely, of the kind
+      of quantity called energy.
+  - content: The quantities moment of force and energy are, by convention, not regarded
+      as being of the same kind, although they have the same dimension. Similarly
+      for heat capacity and entropy, as well as for number of entities, relative permeability,
+      and mass fraction.
+  id: 1.2-eng
+  language_code: eng
+  notes:
+  - content: The division of the concept of ‘quantity’ according to ‘kind of quantity’
+      is to some extent arbitrary.
+  - content: Quantities of the same kind within a given system of quantities have
+      the same quantity dimension. However, quantities of the same dimension are not
+      necessarily of the same kind.
+  - content: In English, the terms for quantities in the left half of the table in
+      1.1, Note 1, are often used for the corresponding 'kinds of quantity'. In French,
+      the term “nature” is only used in expressions such as “grandeurs de même nature”
+      (in English, “quantities of the same kind”).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: kind of quantity
+  - type: expression
+    normative_status: admitted
+    designation: kind
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 24ff0d7a-cad4-4699-9036-ad64b6b8b21f
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: aspect commun à des grandeurs mutuellement comparables
+  examples: []
+  id: 1.2-fra
+  language_code: fra
+  notes:
+  - content: La répartition des grandeurs selon leur nature est dans une certaine
+      mesure arbitraire. EXEMPLES a) Les grandeurs diamètre, circonférence et longueur
+      d'onde sont généralement considérées comme des grandeurs de même nature, à savoir
+      la nature de la longueur. b) Les grandeurs chaleur, énergie cinétique et énergie
+      potentielle sont généralement considérées comme des grandeurs de même nature,
+      à savoir la nature de l’énergie.
+  - content: Les grandeurs de même nature dans un système de grandeurs donné ont la
+      même dimension. Cependant des grandeurs de même dimension ne sont pas nécessairement
+      de même nature. EXEMPLE On ne considère pas, par convention, les grandeurs moment
+      d'une force et énergie comme étant de même nature, bien que ces grandeurs aient
+      la même dimension. Il en est de même pour la capacité thermique et l'entropie,
+      ainsi que pour un nombre d'entités, la perméabilité relative et la fraction
+      massique.
+  - content: En français, le terme « nature » n’est employé que dans des expressions
+      telles que « grandeurs de même nature » (en anglais « quantities of the same
+      kind »). En anglais, les termes désignant les grandeurs de la moitié gauche
+      du tableau en 1.1, note 1, sont souvent employés pour désigner les « natures
+      » correspondantes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nature de grandeur, f
+  - type: expression
+    normative_status: admitted
+    designation: nature, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: dbdbf4b1-04ab-4a66-bfc7-270a17ce0f70

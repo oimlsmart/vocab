@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '5.12'
+  localized_concepts:
+    eng: 9a9c0595-597a-46d7-ba1c-091011f78fd6
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 6da48193-3a7a-45aa-9ff6-344294e81e00
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon utilisé pour des étalonnages Note En anglais, le terme « calibrator
+      » n'est utilisé que dans certains domaines.
+  examples: []
+  id: 5.12-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "....."
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9a9c0595-597a-46d7-ba1c-091011f78fd6

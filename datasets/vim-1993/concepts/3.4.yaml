@@ -1,0 +1,50 @@
+---
+data:
+  identifier: '3.4'
+  localized_concepts:
+    eng: 1a28ca35-5da3-4a48-b517-c41ea23eeb8f
+    fra: 9729e93f-bc57-40b3-877b-e2890722caa4
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: f5c4e26f-8321-472b-a1c5-eb17c58ae51d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: result of a measurement after correction for systematîc error
+  examples: []
+  id: 3.4-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corrected result
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1a28ca35-5da3-4a48-b517-c41ea23eeb8f
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: résultat d'un mesurage après correction de l'erreur systématique Metroiogy
+      1993                                                                   23
+  examples: []
+  id: 3.4-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résultat corrigé, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9729e93f-bc57-40b3-877b-e2890722caa4

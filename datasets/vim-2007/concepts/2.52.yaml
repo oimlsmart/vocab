@@ -1,0 +1,91 @@
+---
+data:
+  identifier: '2.52'
+  localized_concepts:
+    eng: 6fa089ed-b161-4da7-839c-16b54fff17d9
+    fra: b8b112d4-31ab-43b6-9d18-bc918ea63ac2
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 985d8156-b7b5-4cd8-803d-92ddea07943f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity that, in a direct measurement, does not affect the quantity
+      that is actually measured, but affects the relation between the indication and
+      the measurement result
+  examples:
+  - content: a) Frequency in the direct measurement with an ammeter of the constant
+      amplitude of an alternating current. b) Amount-of-substance concentration of
+      bilirubin in a direct measurement of haemoglobin amount-ofsubstance concentration
+      in human blood plasma. c) Temperature of a micrometer used for measurement of
+      length of a rod, but not the temperature of the rod itself, which can enter
+      into the definition of the measurand. d) Background pressure in the ion source
+      of a mass spectrometer during a measurement of amount-ofsubstance fraction.
+  id: 2.52-eng
+  language_code: eng
+  notes:
+  - content: An indirect measurement involves a combination of direct measurements,
+      each of which may be affected by influence quantities.
+  - content: In the GUM, the concept ‘influence quantity’ is defined as in the 2nd
+      edition of the VIM, covering not only the quantities affecting the measuring
+      system, as in the definition above, but also those quantities that affect the
+      quantities actually measured. Also, in the GUM this concept is not restricted
+      to direct measurements. 2.53 (3.15) (3.16) correction compensation for an estimated
+      systematic effect
+  - content: See GUM, 3.2.3 for explanation of ‘systematic effect’.
+  - content: The compensation can take different forms, such as an addend or a factor,
+      or can be deduced from a table. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6fa089ed-b161-4da7-839c-16b54fff17d9
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur qui, lors d'un mesurage direct, n'a pas d'effet sur la grandeur
+      effectivement mesurée, mais a un effet sur la relation entre l'indication et
+      le résultat de mesure EXEMPLES a) Fréquence lors du mesurage direct de l'amplitude
+      constante d'un courant alternatif au moyen d'un ampèremètre. b) Concentration
+      en quantité de matière de bilirubine lors du mesurage direct de la concentration
+      en quantité de matière d'hémoglobine dans le plasma sanguin humain. c) Température
+      d'un micromètre lors du mesurage de la longueur d'une tige, mais pas la température
+      de la tige elle-même qui peut entrer dans la définition du mesurande. d) Pression
+      ambiante dans la source d'ions d'un spectromètre de masse lors du mesurage d'une
+      fraction molaire.
+  examples: []
+  id: 2.52-fra
+  language_code: fra
+  notes:
+  - content: Un mesurage indirect implique une combinaison de mesurages directs, sur
+      chacun desquels des grandeurs d'influence peuvent avoir un effet.
+  - content: Dans le GUM, le concept « grandeur d'influence » est défini comme dans
+      la deuxième édition du VIM, de façon à comprendre non seulement les grandeurs
+      qui ont un effet sur le système de mesure, comme dans la définition ci-dessus,
+      mais aussi celles qui ont un effet sur les grandeurs effectivement mesurées.
+      En outre, le concept n'y est pas limité aux mesurages directs. 2.53 (3.15) (3.16)
+      correction, f compensation d'un effet systématique connu
+  - content: Voir le GUM, 3.2.3 pour une explication du concept d'effet systématique.
+  - content: 'La modification peut prendre différentes formes, telles que l''addition
+      d''une valeur ou la multiplication par un facteur, ou peut se déduire d''une
+      table. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Chapter 3: Devices for measurement'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur d'influence, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: b8b112d4-31ab-43b6-9d18-bc918ea63ac2

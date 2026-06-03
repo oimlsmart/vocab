@@ -1,0 +1,54 @@
+---
+data:
+  identifier: '4.27'
+  localized_concepts:
+    eng: 9ef9a4af-e486-43f6-a0a8-740e50cb4787
+    fra: e03d9b23-15c8-4c2c-a8d7-4ccbeb00e5c9
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 29e35128-6b6b-4063-b00f-acfae5b0a1ea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement error of a measuring instrument or measuring system at a
+      specified measured quantity value
+  examples: []
+  id: 4.27-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: datum measurement error
+  - type: expression
+    normative_status: admitted
+    designation: datum error
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9ef9a4af-e486-43f6-a0a8-740e50cb4787
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: erreur de mesure d'un instrument de mesure ou d'un système de mesure
+      pour une valeur mesurée spécifiée
+  examples: []
+  id: 4.27-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur au point de contrôle, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: e03d9b23-15c8-4c2c-a8d7-4ccbeb00e5c9

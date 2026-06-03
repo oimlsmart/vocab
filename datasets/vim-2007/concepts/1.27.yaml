@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '1.27'
+  localized_concepts:
+    eng: 458ed5ab-84e6-481e-8a0e-ba2655036fc7
+    fra: 17b118c2-dac9-476b-bf9c-ea871a7468e1
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 5f4f02b0-d37e-48be-8efb-16f1d2c289be
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ordered set of quantity values of quantities of a given kind of quantity
+      used in ranking, according to magnitude, quantities of that kind
+  examples:
+  - content: a) Celsius temperature scale. b) Time scale. c) Rockwell C hardness scale.
+      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  id: 1.27-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity-value scale
+  - type: expression
+    normative_status: admitted
+    designation: measurement scale
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 458ed5ab-84e6-481e-8a0e-ba2655036fc7
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble ordonné de valeurs de grandeurs d'une nature donnée, utilisé
+      pour classer des grandeurs de cette nature en ordre croissant ou décroissant
+      de leurs expressions quantitatives EXEMPLES a) Échelle des températures Celsius.
+      b) Échelle de temps. c) Échelle de dureté C de Rockwell. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 1.27-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle de valeurs, f
+  - type: expression
+    normative_status: admitted
+    designation: échelle de mesure, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 17b118c2-dac9-476b-bf9c-ea871a7468e1

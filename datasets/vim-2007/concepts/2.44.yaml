@@ -1,0 +1,85 @@
+---
+data:
+  identifier: '2.44'
+  localized_concepts:
+    eng: 2e5197e4-6144-4302-be4a-4ea6c86e5c74
+    fra: 669b60bd-915e-4d68-9266-ad87a9e4685e
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: b65c2e5b-8bef-4007-b068-6432bc1947f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: provision of objective evidence that a given item fulfils specified requirements
+  examples:
+  - content: a) Confirmation that a given reference material as claimed is homogeneous
+      for the quantity value and measurement procedure concerned, down to a measurement
+      portion having a mass of 10 mg. b) Confirmation that performance properties
+      or legal requirements of a measuring system are achieved. c) Confirmation that
+      a target measurement uncertainty can be met.
+  id: 2.44-eng
+  language_code: eng
+  notes:
+  - content: When applicable, measurement uncertainty should be taken into consideration.
+  - content: The item may be, e.g., a process, measurement procedure, material, compound,
+      or measuring system.
+  - content: The specified requirements may be, e.g., that a manufacturer’s specifications
+      are met.
+  - content: Verification in legal metrology, as defined in the VIML[1], and in conformity
+      assessment in general, pertains to the examination and marking and/or issuing
+      of a verification certificate for a measuring system.
+  - content: Verification should not be confused with calibration. Not any verification
+      is a validation.
+  - content: In chemistry, verification of identity of entity involved, or of activity,
+      requires a description of the structure or properties of that entity or activity.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2e5197e4-6144-4302-be4a-4ea6c86e5c74
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fourniture de preuves tangibles qu'une entité donnée satisfait à des
+      exigences spécifiées EXEMPLES a) Confirmation qu'un matériau de référence donné
+      est bien, comme déclaré, homogène pour la valeur et la procédure de mesure concernées
+      jusqu'à des prises de mesure de masse 10 mg. b) Confirmation que des propriétés
+      relatives aux performances ou des exigences légales sont satisfaites par un
+      système de mesure. c) Confirmation qu'une incertitude cible peut être atteinte.
+  examples: []
+  id: 2.44-fra
+  language_code: fra
+  notes:
+  - content: S'il y a lieu, il convient de prendre en compte l'incertitude de mesure.
+  - content: L'entité peut être, par exemple, un processus, une procédure de mesure,
+      un matériau, un composé ou un système de mesure.
+  - content: Les exigences spécifiées peuvent être, par exemple, les spécifications
+      d'un fabricant.
+  - content: La vérification en métrologie légale, comme définie dans le VIML[1],
+      et plus généralement en évaluation de la conformité, comporte l'examen et le
+      marquage et/ou la délivrance d'un certificat de vérification pour un système
+      de mesure.
+  - content: Il convient de ne pas confondre la vérification avec l'étalonnage. Toute
+      vérification n'est pas une validation.
+  - content: En chimie, la vérification de l'identité d'une entité, ou celle d'une
+      activité, nécessite une description de la structure ou des propriétés de cette
+      entité ou activité.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 669b60bd-915e-4d68-9266-ad87a9e4685e

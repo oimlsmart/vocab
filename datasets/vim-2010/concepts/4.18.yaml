@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '4.18'
+  localized_concepts:
+    eng: e393c3c5-031d-4f40-a49c-b5681825f654
+    fra: ab5c429e-da3f-4671-86e7-26a7f10e0953
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 48e418ab-01f7-461c-9fce-12e25d9fecd3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measured quantity value, obtained by a given measurement procedure, for
+      which the probability of falsely claiming the absence of a component in a material
+      is β, given a probability α of falsely claiming its presence
+  examples: []
+  id: 4.18-eng
+  language_code: eng
+  notes:
+  - content: IUPAC recommends default values for α and β equal to 0.05.
+  - content: The abbreviation LOD is sometimes used.
+  - content: The term “sensitivity” is discouraged for this concept.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detection limit
+  - type: expression
+    normative_status: admitted
+    designation: limit of detection
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: e393c3c5-031d-4f40-a49c-b5681825f654
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur mesurée, obtenue par une procédure de mesure donnée, pour laquelle
+      la probabilité de déclarer faussement l'absence d'un constituant dans un matériau
+      est β, étant donnée la probabilité α de déclarer faussement sa présence
+  examples: []
+  id: 4.18-fra
+  language_code: fra
+  notes:
+  - content: L'IUPAC recommande des valeurs par défaut de α et β égales à 0,05.
+  - content: "[Applicable uniquement au texte anglais]."
+  - content: Le terme « sensibilité » est à proscrire au sens de limite de détection.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limite de détection, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: ab5c429e-da3f-4671-86e7-26a7f10e0953

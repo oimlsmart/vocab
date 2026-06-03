@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '2.49'
+  localized_concepts:
+    eng: 0fbb3cbf-516f-432d-8481-833037be85f8
+    fra: b7a6402a-3a76-4299-986d-b7dea92f5ee6
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: a7863ab1-d3b4-4d3b-8c90-2bea8128b71e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: function of quantities, the value of which, when calculated using known
+      quantity values for the input quantities in a measurement model, is a measured
+      quantity value of the output quantity in the measurement model
+  examples: []
+  id: 2.49-eng
+  language_code: eng
+  notes:
+  - content: If a measurement model h(Y , X1 , … , Xn) = 0 can explicitly be written
+      as Y = f (X1, … , Xn), where Y is the output quantity in the measurement model,
+      the function f is the measurement function. More generally, f may symbolize
+      an algorithm, yielding for input quantity values x1, … , xn a corresponding
+      unique output quantity value y = f (x1, … , xn).
+  - content: A measurement function is also used to calculate the measurement uncertainty
+      associated with the measured quantity value of Y. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement function
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0fbb3cbf-516f-432d-8481-833037be85f8
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fonction de grandeurs, dont la valeur, lorsqu’elle est calculée en utilisant
+      des valeurs connues pour les grandeurs d'entrée dans le modèle de mesure, est
+      une valeur mesurée de la grandeur de sortie dans le modèle de mesure
+  examples: []
+  id: 2.49-fra
+  language_code: fra
+  notes:
+  - content: Si un modèle de mesure h(Y , X1 , … , Xn) = 0 peut être écrit explicitement
+      sous la forme Y = f (X1, … , Xn), où Y est la grandeur de sortie dans le modèle
+      de mesure, la fonction f est la fonction de mesure. Plus généralement, f peut
+      symboliser un algorithme qui fournit, pour les valeurs d’entrée x1, … , xn,
+      une valeur de sortie unique correspondante y = f (x1, … , xn).
+  - content: On utilise aussi une fonction de mesure pour calculer l’incertitude de
+      mesure associée à la valeur mesurée de Y. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fonction de mesure, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: b7a6402a-3a76-4299-986d-b7dea92f5ee6

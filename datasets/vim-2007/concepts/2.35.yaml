@@ -1,0 +1,65 @@
+---
+data:
+  identifier: '2.35'
+  localized_concepts:
+    eng: 244979a5-3024-49c2-a8d0-471f35eef99d
+    fra: 2ec9e432-c150-46c5-a5b0-0e07270fb2c9
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 25cc0c0d-8854-403d-a79d-545783c69d88
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: product of a combined standard measurement uncertainty and a factor larger
+      than the number one
+  examples: []
+  id: 2.35-eng
+  language_code: eng
+  notes:
+  - content: The factor depends upon the type of probability distribution of the output
+      quantity in a measurement model and on the selected coverage probability.
+  - content: The term “factor” in this definition refers to a coverage factor.
+  - content: Expanded measurement uncertainty is termed “overall uncertainty” in paragraph
+      5 of Recommendation INC-1 (1980) (see GUM) and simply “uncertainty” in IEC documents.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: expanded measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: expanded uncertainty
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 244979a5-3024-49c2-a8d0-471f35eef99d
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: produit d'une incertitude-type composée et d'un facteur supérieur au
+      nombre un
+  examples: []
+  id: 2.35-fra
+  language_code: fra
+  notes:
+  - content: Le facteur dépend du type de la loi de probabilité de la grandeur de
+      sortie dans un modèle de mesure et de la probabilité de couverture choisie.
+  - content: Le facteur qui intervient dans la définition est un facteur d'élargissement.
+  - content: L'incertitude élargie est appelée « incertitude globale » au paragraphe
+      5 de la Recommandation INC 1 (1980) (voir le GUM) et simplement « incertitude
+      » dans les documents de la CEI.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude élargie, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2ec9e432-c150-46c5-a5b0-0e07270fb2c9

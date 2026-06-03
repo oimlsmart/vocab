@@ -1,0 +1,54 @@
+---
+data:
+  identifier: '3.5'
+  localized_concepts:
+    eng: f3b7fcbe-2ff2-4c3f-be84-cace3b5d76c9
+    fra: 2fdf278f-a5af-463d-a4ad-9c2c83315c7d
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 9a8bdf88-519c-4c3d-95ff-e682241842b7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of a displaying measuring instrument, consisting of an ordered set
+      of marks together with any associated quantity values
+  examples: []
+  id: 3.5-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale of a displaying measuring instrument
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: f3b7fcbe-2ff2-4c3f-be84-cace3b5d76c9
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: partie d’un instrument de mesure afficheur constituée d’un ensemble ordonné
+      de repères, associés éventuellement à des nombres ou des valeurs de grandeurs
+  examples: []
+  id: 3.5-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle d’un appareil de mesure afficheur, f
+  - type: expression
+    normative_status: admitted
+    designation: échelle, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2fdf278f-a5af-463d-a4ad-9c2c83315c7d

@@ -1,0 +1,39 @@
+---
+data:
+  identifier: '2.8'
+  localized_concepts:
+    eng: 59112112-2a43-4a97-a3c4-c58ce5d9d46e
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 1598a454-4a8b-4fd4-aee1-21a8f76c9605
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: signal de mesure, m grandeur qui représente le mesurande et qui lui est
+      fonctionnellement liée EXEMPLES le signal électrique de sortie d'un transducteur
+      de pression; la fréquence fournie par un convertisseur de tension-fréquence;
+      le signal électrique de sortie d'un transducteur de pression; la fréquence fournie
+      par un convertisseur de tension-fréquence; cl la force électromotrice d'une
+      cellule électrochimique à concentration utilisée pour mesurer une différence
+      de concentration.
+  examples: []
+  id: 2.8-eng
+  language_code: eng
+  notes:
+  - content: Le signal d'entrée d'un système peut être appelé «stimulus» en anglais;
+      le signal de sortie peut être appelé «réponse». 20                                                     Mrno:ogy
+      1993
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(2.12)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 59112112-2a43-4a97-a3c4-c58ce5d9d46e

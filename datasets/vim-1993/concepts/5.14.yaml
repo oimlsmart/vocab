@@ -1,0 +1,41 @@
+---
+data:
+  identifier: '5.14'
+  localized_concepts:
+    eng: 708c6060-6752-4b8c-a826-2d536a6f936c
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 2740ed7f-0399-4030-9c1f-5ed49b2cb69f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'constance, f aptitude d''un instrument de mesure à conserver ses caractéristiques
+      métrologiques constantes au cours du temps :...orsque l''on considère la constance
+      en fonction d''une grandeur autre que le temps, il est nécessaire de le mentionner
+      explicitement. 2 La constance peut être exprimée quantitativement de plusieurs
+      façons, par exemple: par la durée au cours de laquelle une caractéristique métrologique
+      évolue d''une quantité donnée, ou par la variation d''une caractéristique au
+      cours d''une durée donnée. ‌5.15 (5.17) transparency ability of a measuring
+      instrument not to alter the measurand'
+  examples:
+  - content: a mass balance 1s transparent; a resistance thermometer that heats the
+      medium whose temperature it is intended to measure is not transparent. a mass
+      balance 1s transparent; a resistance thermometer that heats the medium whose
+      temperature it is intended to measure is not transparent.
+  id: 5.14-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(5.16)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 708c6060-6752-4b8c-a826-2d536a6f936c

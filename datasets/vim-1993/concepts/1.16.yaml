@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '1.16'
+  localized_concepts:
+    eng: d41eccf4-0115-4920-be2c-e953af63839c
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: c0c67f4f-9d57-4a04-adc2-68188ecd4cbd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: multiple d'une unité (de mesure), m unité de mesure plus grande formée
+      à partir d'une unité donnée selon des conventions d'échelonnement EXEMPLES l'un
+      des multiples décimaux du métre est le kilomètre; one of the non-dec1mal hour.
+      l'un des multiples décimaux du métre est le kilomètre; one of the non-dec1mal
+      hour. of the second Is the b) l'un des l'heure. non décimaux de la seconde est
+      15
+  examples: []
+  id: 1.16-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(1.15)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: d41eccf4-0115-4920-be2c-e953af63839c

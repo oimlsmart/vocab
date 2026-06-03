@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '5.8'
+  localized_concepts:
+    eng: 9bb6ee4b-8742-4d13-9278-53d991c90ef3
+    fra: 9d310bdf-0255-4469-bffb-2a1e553d6986
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: bd8711a4-0dc3-45b3-8fb2-7dd7db53b443
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement standard, sometimes of special construction, intended for
+      transport between different locations
+  examples:
+  - content: Portable battery-operated caesium-133 frequency measurement standard.
+  id: 5.8-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: travelling measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: travelling standard
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9bb6ee4b-8742-4d13-9278-53d991c90ef3
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon, parfois de construction spéciale, destiné au transport en des
+      lieux différents EXEMPLE Étalon de fréquence à césium 133, portatif et fonctionnant
+      sur accumulateur.
+  examples: []
+  id: 5.8-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon voyageur, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9d310bdf-0255-4469-bffb-2a1e553d6986

@@ -1,0 +1,69 @@
+---
+data:
+  identifier: '1.17'
+  localized_concepts:
+    eng: 657ac30f-481d-45c9-a92a-3802cdc00f29
+    fra: 86547567-1a01-45cf-9cf3-72567eb63a80
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 38f80063-84a5-441d-a108-46a962dac3c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement unit obtained by multiplying a given measurement unit by
+      an integer greater than one
+  examples:
+  - content: a) The kilometre is a decimal multiple of the metre. b) The hour is a
+      non-decimal multiple of the second.
+  id: 1.17-eng
+  language_code: eng
+  notes:
+  - content: SI prefixes for decimal multiples of SI base units and SI derived units
+      are given in note 5 of 1.16.
+  - content: 'SI prefixes refer strictly to powers of 10, and should not be used for
+      powers of 2. For example, 1 kilobit should not be used to represent 1024 bits
+      (210 bits), which is a kibbibit. Prefixes for binary multiples are: Factor (210)8
+      (210)7 (210)6 (210)5 (210)4 (210)3 (210)2 (210)1 Prefix Name yobi zebi exbi
+      pebi tebi gibi mebi kibit Symbol Yi Zi Ei Pi Ti Gi Mi Ki Source: IEC 80000-13.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multiple of a unit
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 657ac30f-481d-45c9-a92a-3802cdc00f29
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unité de mesure obtenue en multipliant une unité de mesure donnée par
+      un entier supérieur à un EXEMPLES a) Le kilomètre est un multiple décimal du
+      mètre. b) L'heure est un multiple non décimal de la seconde.
+  examples: []
+  id: 1.17-fra
+  language_code: fra
+  notes:
+  - content: Les préfixes SI pour les multiples décimaux des unités de base et des
+      unités dérivées du SI sont donnés à la note 5 de 1.16.
+  - content: 'Les préfixes SI représentent strictement des puissances de 10 et il
+      convient de ne pas les utiliser pour des puissances de 2. Par exemple, il convient
+      de ne pas utiliser 1 kilobit pour représenter 1 024 bits (210 bits), qui est
+      1 kibibit. Les préfixes pour les multiples binaires sont : Facteur (210)8 (210)7
+      (210)6 (210)5 (210)4 (210)3 (210)2 (210)1 Préfixe Nom Symbole yobi Yi zébi Zi
+      exbi Ei pébi Pi tébi Ti gibi Gi mébi Mi kibi Ki Source: CEI 80000-13.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multiple d'une unité, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 86547567-1a01-45cf-9cf3-72567eb63a80

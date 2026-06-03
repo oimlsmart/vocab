@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '1.21'
+  localized_concepts:
+    eng: 61fea7da-f8d7-4723-8a49-8d9881989518
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 456b1b24-a8a4-48ca-9bc2-83e581a600e0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'valeur numérique (d''une grandeur), f nombre qui multiplie l''unité
+      dans l''expression de la valeur d''une grandeur EXEMPLES dans les exemples de
+      1.18, les nombres: 5.34 0,152 0,012 5.34 0,152 0,012 534; 152; 12. 5,34 0,152
+      0,012 5,34 0,152 0,012 534; 152; 12.'
+  examples: []
+  id: 1.21-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "( 1.20)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 61fea7da-f8d7-4723-8a49-8d9881989518

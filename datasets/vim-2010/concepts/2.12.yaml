@@ -1,0 +1,71 @@
+---
+data:
+  identifier: '2.12'
+  localized_concepts:
+    eng: c0a40787-35fa-4211-af7e-342be13328b9
+    fra: 75036320-38cd-413a-91ff-57985d7de694
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: ef69937e-9d97-442f-a576-196375fa8974
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conventional value of a quantity conventional value quantity value attributed
+      by agreement to a quantity for a given purpose
+  examples:
+  - content: a) Standard acceleration of free fall (formerly called “standard acceleration
+      due to gravity”), gn = 9.806 65 m s2. b) Conventional quantity value of the
+      Josephson constant, KJ-90 = 483 597.9 GHz V −1 . c) Conventional quantity value
+      of a given mass standard, m = 100.003 47 g.
+  id: 2.12-eng
+  language_code: eng
+  notes:
+  - content: The term “conventional true quantity value” is sometimes used for this
+      concept, but its use is discouraged.
+  - content: Sometimes a conventional quantity value is an estimate of a true quantity
+      value.
+  - content: A conventional quantity value is generally accepted as being associated
+      with a suitably small measurement uncertainty, which might be zero.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional quantity value
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: c0a40787-35fa-4211-af7e-342be13328b9
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur conventionnelle d'une grandeur, m valeur attribuée à une grandeur
+      par un accord pour un usage donné EXEMPLES a) Valeur conventionnelle de l'accélération
+      due à la pesanteur ou accélération normale de la pesanteur, gn = 9,806 65 m
+      s2. b) Valeur conventionnelle de la constante de Josephson, KJ-90 = 483 597,9
+      GHz V −1. c) Valeur conventionnelle d’un étalon de masse donné, m = 100,003
+      47 g.
+  examples: []
+  id: 2.12-fra
+  language_code: fra
+  notes:
+  - content: Le terme « valeur conventionnellement vraie » est quelquefois utilisé
+      pour ce concept, mais son utilisation est déconseillée.
+  - content: Une valeur conventionnelle est quelquefois une estimation d'une valeur
+      vraie.
+  - content: Une valeur conventionnelle est généralement considérée comme associée
+      à une incertitude de mesure convenablement petite, qui peut être nulle.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur conventionnelle, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 75036320-38cd-413a-91ff-57985d7de694

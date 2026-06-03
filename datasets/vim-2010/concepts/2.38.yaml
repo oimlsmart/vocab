@@ -1,0 +1,53 @@
+---
+data:
+  identifier: '2.38'
+  localized_concepts:
+    eng: db3aa8fd-b675-48a4-83bb-9471afb2e901
+    fra: c1365a6e-ffcb-4458-84de-c33e7f7a116d
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: a4f8d591-d5e5-425e-9b45-11c3fbc93e7e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: number larger than one by which a combined standard measurement uncertainty
+      is multiplied to obtain an expanded measurement uncertainty Note A coverage
+      factor is usually symbolized k (see also GUM, 2.3.6).
+  examples: []
+  id: 2.38-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage factor
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: db3aa8fd-b675-48a4-83bb-9471afb2e901
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nombre supérieur à un par lequel on multiplie une incertitude-type composée
+      pour obtenir une incertitude élargie Note Un facteur d'élargissement est habituellement
+      noté par le symbole k (voir aussi le GUM, 2.3.6).
+  examples: []
+  id: 2.38-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur d'élargissement, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: c1365a6e-ffcb-4458-84de-c33e7f7a116d

@@ -1,0 +1,70 @@
+---
+data:
+  identifier: '4.26'
+  localized_concepts:
+    eng: fda63f05-789c-4d33-ade8-88ba4da6723f
+    fra: 4abefe8d-40f8-4560-b125-fdd5e585e382
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 6397084f-7614-4188-b1c3-15aebe2b0bae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme value of measurement error, with respect to a known reference
+      quantity value, permitted by specifications or regulations for a given measurement,
+      measuring instrument, or measuring system
+  examples: []
+  id: 4.26-eng
+  language_code: eng
+  notes:
+  - content: Usually the term “maximum permissible errors” or “limits of error” are
+      used, where there are two extreme values.
+  - content: The term “tolerance” should not be used to designate ‘maximum permissible
+      error’. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible measurement error
+  - type: expression
+    normative_status: admitted
+    designation: maximum permissible error
+  - type: expression
+    normative_status: admitted
+    designation: limit of error
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: fda63f05-789c-4d33-ade8-88ba4da6723f
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur extrême de l'erreur de mesure, par rapport à une valeur de référence
+      connue, qui est tolérée par les spécifications ou règlements pour un mesurage,
+      un instrument de mesure ou un système de mesure donné
+  examples: []
+  id: 4.26-fra
+  language_code: fra
+  notes:
+  - content: Les termes « erreurs maximales tolérées » et « limites d'erreur » sont
+      généralement utilisés lorsqu'il y a deux valeurs extrêmes.
+  - content: Il convient de ne pas utiliser le terme « tolérance » pour désigner l'erreur
+      maximale tolérée. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur maximale tolérée, f
+  - type: expression
+    normative_status: admitted
+    designation: limite d’erreur, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4abefe8d-40f8-4560-b125-fdd5e585e382

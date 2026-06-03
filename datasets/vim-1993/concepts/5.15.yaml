@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '5.15'
+  localized_concepts:
+    eng: 0fb873bf-2bf1-4b6c-a5a7-d094782314d4
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 33ef3bc2-8cd6-47a9-a25d-e572e8522ee9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: discrétion, f aptitude d'un instrument de mesure à ne pas modifier le
+      mesurande EXEMPLES une balance est un instrument discret pour la mesure des
+      masses; un thermomètre à résistance qui chauffe le milieu dont il doit mesurer
+      la température n'est pas discret. une balance est un instrument discret pour
+      la mesure des masses; un thermomètre à résistance qui chauffe le milieu dont
+      il doit mesurer la température n'est pas discret.
+  examples: []
+  id: 5.15-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(5.17)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0fb873bf-2bf1-4b6c-a5a7-d094782314d4

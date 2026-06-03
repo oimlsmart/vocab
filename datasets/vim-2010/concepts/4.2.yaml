@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '4.2'
+  localized_concepts:
+    eng: 64d08f33-85bb-4585-b92e-a9e2b2566816
+    fra: 318633c2-db94-4f77-91cd-7c42cc736cf1
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 69995011-d0bd-4b4e-92a0-d9d5482b5837
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication obtained from a phenomenon, body, or substance similar to
+      the one under investigation, but for which a quantity of interest is supposed
+      not to be present, or is not contributing to the indication
+  examples: []
+  id: 4.2-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blank indication
+  - type: expression
+    normative_status: admitted
+    designation: background indication
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 64d08f33-85bb-4585-b92e-a9e2b2566816
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication d'environnement, f indication obtenue à partir d’un phénomène,
+      d’un corps ou d’une substance semblable au phénomène, au corps ou à la substance
+      en cours d’étude, mais dont la grandeur d’intérêt est supposée ne pas être présente
+      ou ne contribue pas à l'indication
+  examples: []
+  id: 4.2-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication du blanc, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 318633c2-db94-4f77-91cd-7c42cc736cf1

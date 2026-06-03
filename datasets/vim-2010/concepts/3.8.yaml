@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '3.8'
+  localized_concepts:
+    eng: a29810c3-172c-4f43-819c-c96e942849b8
+    fra: 0533e5d5-89ca-47c4-9e4b-b618b95949f2
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: dbb648ae-5511-42e6-982c-c3ff5f0a8f71
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: element of a measuring system that is directly affected by a phenomenon,
+      body, or substance carrying a quantity to be measured
+  examples:
+  - content: a) Sensing coil of a platinum resistance thermometer, b) rotor of a turbine
+      flow meter, c) Bourdon tube of a pressure gauge, d) float of a level-measuring
+      instrument, e) photocell of a spectrometer, f) thermotropic liquid crystal which
+      changes colour as a function of temperature. Note In some fields the term "detector"
+      is used for this concept.
+  id: 3.8-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensor
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: a29810c3-172c-4f43-819c-c96e942849b8
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: élément d'un système de mesure qui est directement soumis à l'action
+      du phénomène, du corps ou de la substance portant la grandeur à mesurer EXEMPLES
+      a) Bobine sensible d'un thermomètre à résistance de platine, b) rotor d'un débitmètre
+      à turbine, c) tube de Bourdon d'un manomètre, d) flotteur d'un appareil de mesure
+      de niveau, e) récepteur photoélectrique d'un spectrophotomètre, f) cristal liquide
+      thermotrope dont la couleur change en fonction de la température. Note Dans
+      certains domaines, le terme « détecteur » est employé pour ce concept.
+  examples: []
+  id: 3.8-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capteur, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0533e5d5-89ca-47c4-9e4b-b618b95949f2

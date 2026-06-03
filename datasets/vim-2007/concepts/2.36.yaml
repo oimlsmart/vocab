@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '2.36'
+  localized_concepts:
+    eng: a4d64d46-3cf8-464d-9519-1b557c1862db
+    fra: 26c89dc0-300b-4f72-8dab-5046491ddbfb
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 8626e5da-6b2d-4bc5-a124-bf97df9c6b43
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: interval containing the set of true quantity values of a measurand with
+      a stated probability, based on the information available
+  examples: []
+  id: 2.36-eng
+  language_code: eng
+  notes:
+  - content: A coverage interval does not need to be centered on the chosen measured
+      quantity value. See Evaluation of measurement data - Supplement 1 to the GUM[3].
+  - content: A coverage interval should not be termed “confidence interval” to avoid
+      confusion with the statistical concept (See GUM, 6.2.2).
+  - content: A coverage interval can be derived from an expanded measurement uncertainty
+      (See GUM, 2.3.5).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage interval
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: a4d64d46-3cf8-464d-9519-1b557c1862db
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intervalle contenant l'ensemble des valeurs vraies d'un mesurande avec
+      une probabilité déterminée, fondés sur l'information disponible
+  examples: []
+  id: 2.36-fra
+  language_code: fra
+  notes:
+  - content: Un intervalle élargi n'est pas nécessairement centré sur la valeur mesurée
+      choisie. Voir Évaluation des données de mesure, Supplément 1 au GUM[3].
+  - content: Il convient de ne pas appeler « intervalle de confiance » un intervalle
+      élargi pour éviter des confusions avec le concept statistique (voir le GUM,
+      6.2.2).
+  - content: Un intervalle élargi peut se déduire d'une incertitude élargie (voir
+      le GUM, 2.3.5).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intervalle élargi, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 26c89dc0-300b-4f72-8dab-5046491ddbfb

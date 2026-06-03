@@ -1,0 +1,72 @@
+---
+data:
+  identifier: '2.48'
+  localized_concepts:
+    eng: 966b172b-d0da-426b-ab66-2519854e7e28
+    fra: c4d9fb0d-4ed5-4f67-967c-e867a0ed9096
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 9ee4eb99-b716-46e2-8e45-d45464c47d74
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mathematical relation among all quantities known to be involved in a
+      measurement
+  examples: []
+  id: 2.48-eng
+  language_code: eng
+  notes:
+  - content: A general form of a measurement model is the equation h(Y , X1 , … ,
+      Xn) = 0 , where Y, the output quantity in the measurement model, is the measurand,
+      the quantity value of which is to be inferred from information about input quantities
+      in the measurement model X1, … , Xn.
+  - content: In more complex cases where there are two or more output quantities in
+      a measurement model, the measurement model consists of more than one equation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement model
+  - type: expression
+    normative_status: admitted
+    designation: model of measurement
+  - type: expression
+    normative_status: admitted
+    designation: model
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 966b172b-d0da-426b-ab66-2519854e7e28
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relation mathématique entre toutes les grandeurs qui interviennent dans
+      un mesurage
+  examples: []
+  id: 2.48-fra
+  language_code: fra
+  notes:
+  - content: Une forme générale d’un modèle de mesure est l’équation h(Y , X1 , …
+      , Xn) = 0, où Y, la grandeur de sortie dans le modèle de mesure, est le mesurande,
+      dont la valeur doit être déduite de l’information sur les grandeurs d’entrée
+      dans le modèle de mesure X1, … , Xn.
+  - content: Dans les cas plus complexes où il y a deux grandeurs de sortie ou plus,
+      le modèle de mesure comprend plus d’une seule équation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: modèle de mesure, m
+  - type: expression
+    normative_status: admitted
+    designation: modèle, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: c4d9fb0d-4ed5-4f67-967c-e867a0ed9096

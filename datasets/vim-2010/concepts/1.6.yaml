@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '1.6'
+  localized_concepts:
+    eng: d174962a-1edc-45e2-8747-700d25a4040f
+    fra: ee5aab88-51c0-4189-ba32-928f58e5f194
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: f5b28e3b-04ae-47e7-9484-313c19a443a0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system of quantities based on the seven base quantities length, mass,
+      time, electric current, thermodynamic temperature, amount of substance, and
+      luminous intensity
+  examples: []
+  id: 1.6-eng
+  language_code: eng
+  notes:
+  - content: This system of quantities is published in the ISO 80000 and IEC 80000
+      series Quantities and units.
+  - content: The International System of Units (SI), see item 1.16, is based on the
+      ISQ. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International System of Quantities
+  - type: expression
+    normative_status: admitted
+    designation: ISQ
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: d174962a-1edc-45e2-8747-700d25a4040f
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'système de grandeurs fondé sur les sept grandeurs de base : longueur,
+      masse, temps, courant électrique, température thermodynamique, quantité de matière,
+      intensité lumineuse'
+  examples: []
+  id: 1.6-fra
+  language_code: fra
+  notes:
+  - content: Ce système de grandeurs est publié dans les séries ISO 80000 et CEI 80000
+      Grandeurs et unités.
+  - content: Le Système international d'unités (SI), voir n° 1.16, est fondé sur l'ISQ.
+      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Système international de grandeurs, m
+  - type: expression
+    normative_status: admitted
+    designation: ISQ, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: ee5aab88-51c0-4189-ba32-928f58e5f194

@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '5.5'
+  localized_concepts:
+    eng: e4c0276e-fdb9-4184-8c99-d572a5fff592
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 7b405ea1-ae0d-4413-a224-476ec6d1609d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use for which specified metro-logical characteristics of
+      a measuring instrument are intended to lie within given limits
+  examples: []
+  id: 5.5-eng
+  language_code: eng
+  notes:
+  - content: The rated operating conditions generally specify ranges or rated values
+      of the measurand and of the influence quantities.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: e4c0276e-fdb9-4184-8c99-d572a5fff592

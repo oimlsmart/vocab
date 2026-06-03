@@ -1,0 +1,139 @@
+---
+data:
+  identifier: '5.19'
+  localized_concepts:
+    eng: 59358b94-1de5-48c9-83be-d2bf6b15b797
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 291cd0c4-3636-4ec6-9e9a-e6d7957a13ea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: classe d'exactitude, f classe d'instruments de mesure qui satisfont à
+      certaines exigences métrologiques destinées à conserver les erreurs dans des
+      limites spécifiées
+  examples:
+  - content: 1 kg mass standard; 100 n standard resIstor; standard arnmeter; caesium
+      frequency standard; standard hydrogen electrode; reference solution of cortisol
+      In human serum having a certified concentration. 1 kg mass standard; 100 n standard
+      resIstor; standard arnmeter; caesium frequency standard; standard hydrogen electrode;
+      reference solution of cortisol In human serum having a certified concentration.
+  id: 5.19-eng
+  language_code: eng
+  notes:
+  - content: Une  classe  d'exactitude  est  habituellement indiquée par un nombre
+      ou symbole adopté par convention et dénommé indice de classe. 5.20 (5.24) error
+      (of indication) of a measuring instrument indication of a measuring instrument
+      minus a true value of the corresponding input quantity
+  - content: Since a true value cannot be determined, in practice a conventional true
+      value is used (see 1.19 and î .20). This concept applies mainly where the instrument
+      is compared to a reference standard. For a material measure, the indication
+      is the value assigned to it. This concept applies mainly where the instrument
+      is compared to a reference standard. For a material measure, the indication
+      is the value assigned to it. 5.21 (5.23) maximum permissible errors (of a measuring
+      instrument) limits of permissible error (of a measuring instrument) extreme  values  of  an  error  permitted  by
+      specifications,  regulations,  etc.  for  a  given measuring instrument 5.22
+      (5.25) datum error (of a measuring instrument) error of a measuring instrument
+      at a specified indication or a specified value of the measurand, chosen for
+      checking the instrument 5.23 (5.26) zero error (of a measuring instrument) datum
+      error for zero value of the measurand 5.24 (5.27) intrinsic error (of a measuring
+      instrument) error of a measuring instrument, determined under reference conditions
+      5.20 (5.24) erreur (d'indication) d'un instrument de mesure, f indication d'un
+      instrument de mesure moins une valeur vraie de la grandeur d'entrée corres-pondante
+  - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, on utilise
+      dans la pratique une valeur conventionnellement vraie (voir 1. î 9 et 1.20).
+      Ce  concept  s'applique  principalement  lorsqu'on compare l'instrument à un
+      étalon de référence. Pour une mesure matérialisée, l'indication est la valeur
+      qui lui est assignée. Ce  concept  s'applique  principalement  lorsqu'on compare
+      l'instrument à un étalon de référence. Pour une mesure matérialisée, l'indication
+      est la valeur qui lui est assignée. 5.21 (5.23) erreurs maximales tolérées (d'un
+      instrument de mesure), f limites d'erreur tolérées (d'un instrument de mesure),
+      f valeurs extrêmes d'une erreur tolérées par les spécifications, règlements,
+      etc., pour un instru-ment de mesure donné 5.22 (5.25) erreur au point de contrôle
+      (d'un instrument de mesure), f erreur d'un instrument de mesure pour une indication
+      spécifiée ou pour une valeur spécifiée du mesurande,  choisie  pour  le  contrôle  de
+      l'instrument 5.23 (5.26) erreur à zéro (d'un instrument de mesure), f erreur
+      au point de contrôle pour une valeur nulle du mesurande 5.24 (5.27) erreur intrinsèque
+      (d'un instrument de mesure), f erreur d'un instrument de mesure déterminée dans
+      les conditions de référence 5.25 (5.28) bias (of a measuring instrument) systematic
+      error of the indication of a measuring instrument
+  - content: The bias of a measuring instrument 1s normally est1mated by averaging
+      the error of indication over an appropriate number of repeated measurements.
+      5.26 (5.29) freedom from bias (of a measuring instrument) ability  of  a  measuring  instrument  to  g1ve
+      indications free from systematic error 5.27 (5.31) repeatability (of a measuring
+      instrument) ability of a measuring instrument to provide closely similar indications
+      for repeated appli-cations of the same measurand under the same conditions of
+      measurement
+  - content: 'These conditions include: reduction to a minimum of the vanat1ons due
+      to the observer the same measurement procedure the same observer the same measuring
+      equ1pn,ent, used under the same conditions the same location repet1tion over
+      a short period of time. 2 Repeatability may be expressed quantitatively in terms
+      of the dispersion characteristics of the indications. 5.28 (5.32) fiducial error
+      (of a measuring instrument) error of a measuring instrument divided by a value
+      specified for the instrument'
+  - content: The specified value is generally called the fiducial value, and may be,
+      for example, the span or the upper limit of the nominal range of the measuring
+      instrument. 5.25 (5.28) erreur de justesse (d'un instrument de mesure}, f erreur
+      systématique d'indication d'un instrument de mesure
+  - content: L'erreur de justesse est normalement estimée en prenant la moyenne de
+      l'erreur d'indication sur un nombre approprié d'observations répétées. 5.26
+      (5.29) justesse (d'un instrument de mesure), f aptitude d'un instrument de mesure
+      à donner des indications exemptes d'erreur systématique 5.27 (5.31} fidélité
+      (d'un instrument de mesure), f aptitude d'un instrument de mesure à donner des
+      indications très voisines lors de l'application répétée du même mesurande dans
+      les mêmes conditions de mesure
+  - content: 'Ces conditions comprennent: réduction au minimum des variations dues
+      à l''observateur même mode opératoire de mesure même observateur même équipement
+      de mesure, utilisé dans les mêmes conditions même lieu répétition durant une
+      courte période de temps. 2  La répétabilité peut s''exprimer quantitativement
+      à l''aide des caractéristiques de dispersion des indications. 5.28 (5.32) erreur
+      réduite conventionnelle (d''un instrument de mesure}, f rapport de l''erreur
+      d''un instrument de mesure à une valeur spécifiée pour l''instrument'
+  - content: 'La valeur spécifiée est généralement appelée valeur conventionnelle
+      et peut être, par exemple, l''intervalle de mesure ou la limite supérieure du
+      calibre de l''instrument de mesure. ., 6  ETALONS ln  science and technology,
+      the English word "standard" is used with two different meanings: as a widely
+      adopted written technical standard, specification,  technical  recommendation  or
+      similar document (in French "norme"} and also as  a  measurement  standard  (in  French
+      "étalon"). This Vocabulary is concerned solely with  the  second  meaning  and  the  qualifier
+      "measurement" is generally omitted for brevity. 6.1 {measurement) standard etalon
+      material measure, measuring instrument, refer-ence material or measuring system
+      intended to define, realize, conserve or reproduce a unit or one or more values
+      of a quantity to serve as a reference'
+  - content: 'A set  of  similar  material measures  or measunng instruments  that,  through  their  combined  use,
+      constitutes a standard is called a collective standard. 2  A set of standards
+      of chosen values that, 1ndividua\iy or in combination, provides a series of
+      values of quanfüres of the same kind is called a group standard. Dans la science
+      et la technologie, le mot anglais «standard» est utilisé avec deux significations
+      différentes: comme document normatif techni-que largement adopté, spécification,
+      recomman-dation technique  ou document  similaire  (en français «norme»), et
+      aussi comme «étalon» (en anglais  «measurement  standard))).  Seule  la deuxième
+      signification relève de ce Vocabulaire et en anglais le qualificatif «measurement))
+      est généralement omis par simplification. 6.1 étalon, m mesure  matérialisée,  appareil  de  mesure,
+      matériau de référence ou système de mesure destiné à définir, réaliser, conserver
+      ou repro-duire une unité ou une ou plusieurs valeurs d''une grandeur pour servir
+      de référence EXEMPLES étalon de masse de 1 kg; résistance étalon de 100 n; ampèremètre
+      étalon; étalon de fréquence à césium; électrode de référence à hydrogène; solution
+      de référence de cortisol dans le sérum humain, de concentration certifiée. étalon
+      de masse de 1 kg; résistance étalon de 100 n; ampèremètre étalon; étalon de
+      fréquence à césium; électrode de référence à hydrogène; solution de référence
+      de cortisol dans le sérum humain, de concentration certifiée.'
+  - content: Un ensernble de mesures matérialisées ou d'instru-ments de mesure semblables
+      qui, utilisés conjoin-tement.  constituent  un étalon,  est  appelé  étalon
+      collectif. 2  Un  ensemble  d'étalons  de  valeurs  choisies  qui, individuellement
+      ou par combinaison, fournissent une série de valeurs de grandeurs de même nature
+      est appelé série d'étalons.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(5.22)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 59358b94-1de5-48c9-83be-d2bf6b15b797

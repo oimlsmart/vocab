@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '3.12'
+  localized_concepts:
+    eng: a39ef927-c8dc-4645-8dcc-55086d1d63b9
+    fra: 1c672594-dc0d-4752-b8bd-805a5fdd0899
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 67717681-5bd1-4866-b749-168ed740e9ab
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: adjustment of a measuring system so that it provides a null indication
+      corresponding to a zero value of a quantity to be measured _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 3.12-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero adjustment of a measuring system
+  - type: expression
+    normative_status: admitted
+    designation: zero adjustment
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: a39ef927-c8dc-4645-8dcc-55086d1d63b9
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'ajustage d''un système de mesure pour que le système fournisse une indication
+      égale à zéro correspondant à une valeur égale à zéro de la grandeur à mesurer
+      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Chapter 4: Properties of measuring devices'
+  examples: []
+  id: 3.12-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réglage de zéro, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1c672594-dc0d-4752-b8bd-805a5fdd0899

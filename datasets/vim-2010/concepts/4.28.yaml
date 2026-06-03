@@ -1,0 +1,52 @@
+---
+data:
+  identifier: '4.28'
+  localized_concepts:
+    eng: a95a7a7d-5018-43bd-83b5-e0ab3d5c15e3
+    fra: 57fe4541-1646-4edc-9da4-e62d74a9ba6f
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: f5d9de99-aa93-4f59-912c-75357bf815bd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: datum measurement error where the specified measured quantity value is
+      zero Note Zero error should not be confused with absence of measurement error.
+  examples: []
+  id: 4.28-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero error
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: a95a7a7d-5018-43bd-83b5-e0ab3d5c15e3
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: erreur au point de contrôle lorsque la valeur mesurée spécifiée est nulle
+      Note Il convient de ne pas confondre l'erreur à zéro avec l'absence d'erreur
+      de mesure.
+  examples: []
+  id: 4.28-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur à zéro, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 57fe4541-1646-4edc-9da4-e62d74a9ba6f

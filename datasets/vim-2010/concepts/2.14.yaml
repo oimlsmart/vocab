@@ -1,0 +1,72 @@
+---
+data:
+  identifier: '2.14'
+  localized_concepts:
+    eng: adf6774f-e73d-468e-9f20-599909da1e9b
+    fra: 48382614-2fb8-417e-bc7b-cdf634ce54ea
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 69642141-87f0-4901-b1b4-3d791ef4d23b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: closeness of agreement between the average of an infinite number of replicate
+      measured quantity values and a reference quantity value
+  examples: []
+  id: 2.14-eng
+  language_code: eng
+  notes:
+  - content: Measurement trueness is not a quantity and thus cannot be expressed numerically,
+      but measures for closeness of agreement are given in ISO 5725.
+  - content: Measurement trueness is inversely related to systematic measurement error,
+      but is not related to random measurement error.
+  - content: Measurement accuracy” should not be used for ‘measurement trueness’.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement trueness
+  - type: expression
+    normative_status: admitted
+    designation: trueness of measurement
+  - type: expression
+    normative_status: admitted
+    designation: trueness
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: adf6774f-e73d-468e-9f20-599909da1e9b
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étroitesse de l'accord entre la moyenne d'un nombre infini de valeurs
+      mesurées répétées et une valeur de référence
+  examples: []
+  id: 2.14-fra
+  language_code: fra
+  notes:
+  - content: La justesse de mesure n'est pas une grandeur et ne peut donc pas s'exprimer
+      numériquement, mais l'ISO 5725 donne des caractéristiques pour l'étroitesse
+      de l'accord.
+  - content: La justesse de mesure varie en sens inverse de l'erreur systématique
+      mais n'est pas liée à l'erreur aléatoire.
+  - content: Il convient de ne pas utiliser « exactitude de mesure » pour la justesse
+      de mesure.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: justesse de mesure, f
+  - type: expression
+    normative_status: admitted
+    designation: justesse, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 48382614-2fb8-417e-bc7b-cdf634ce54ea

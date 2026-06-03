@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '1.22'
+  localized_concepts:
+    eng: fb934dda-9471-4534-a680-38acb1901cf1
+    fra: 505d344d-56da-418b-96ea-02c7c634f999
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 7f8ae0dd-7088-4ef8-92c1-be39f646f7f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mathematical relation between quantities in a given system of quantities,
+      independent of measurement units
+  examples:
+  - content: a) Q1 = ζ Q2 Q3 where Q1, Q2, and Q3 denote different quantities, and
+      where ζ is a numerical factor. b) T = (1/2) mv2, where T is the kinetic energy
+      and v the speed of a specified particle of mass m. c) n = I t / F where n is
+      the amount of substance of a univalent component, I is the electric current
+      and t the duration of the electrolysis, and where F is the Faraday constant.
+  id: 1.22-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity equation
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: fb934dda-9471-4534-a680-38acb1901cf1
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relation d'égalité entre des grandeurs d'un système de grandeurs donné,
+      indépendante des unités de mesure EXEMPLES a) Q1 = ζ Q2 Q3, où Q1, Q2 et Q3
+      représentent différentes grandeurs et où ζ est un facteur numérique. b) T =
+      (1/2) mv2, où T est l'énergie cinétique et v la vitesse d'une particule spécifiée
+      de masse m. c) n = I t / F où n est la quantité de matière d’un composé univalent,
+      I est le courant électrique et t la durée de l’électrolyse, F est la constante
+      de Faraday.
+  examples: []
+  id: 1.22-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équation aux grandeurs, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 505d344d-56da-418b-96ea-02c7c634f999

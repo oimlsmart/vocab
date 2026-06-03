@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '2.28'
+  localized_concepts:
+    eng: 9bbf75ab-d2e8-43c1-9020-b415a3da939a
+    fra: 419bf84d-8dc5-4c6b-82e2-3e8292c2b98b
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 383e2dc6-8713-4e82-8b97-fde5b5a223f1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: evaluation of a component of measurement uncertainty by a statistical
+      analysis of measured quantity values obtained under defined measurement conditions
+  examples: []
+  id: 2.28-eng
+  language_code: eng
+  notes:
+  - content: For various types of measurement conditions, see repeatability condition
+      of measurement, intermediate precision condition of measurement, and reproducibility
+      condition of measurement.
+  - content: For information about statistical analysis, see e.g. the GUM:1995.
+  - content: See also GUM, 2.3.2, ISO 5725, ISO 13526, ISO/TS 21748, ISO/TS 21749.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Type A evaluation of measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: Type A evaluation
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9bbf75ab-d2e8-43c1-9020-b415a3da939a
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: évaluation d'une composante de l'incertitude de mesure par une analyse
+      statistique des valeurs mesurées obtenues dans des conditions définies de mesurage
+  examples: []
+  id: 2.28-fra
+  language_code: fra
+  notes:
+  - content: Pour divers types de conditions de mesurage, voir condition de répétabilité,
+      condition de fidélité intermédiaire et condition de reproductibilité.
+  - content: Voir par exemple le GUM:1995 pour des informations sur l'analyse statistique.
+  - content: Voir aussi le GUM, 2.3.2., l’ISO 5725, l’ISO 13526, l’ISO/TS 21748, l’ISO/TS
+      21749.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de type A de l'incertitude, f
+  - type: expression
+    normative_status: admitted
+    designation: évaluation de type A, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 419bf84d-8dc5-4c6b-82e2-3e8292c2b98b

@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '2.18'
+  localized_concepts:
+    eng: 94e13a26-48a3-4320-aba3-094f02df24a7
+    fra: d91bdcfb-99cf-4393-85a4-2e9e5a0de62f
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 0a7b509b-39f0-4f97-859c-db274c2df7f1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: estimate of a systematic measurement error
+  examples: []
+  id: 2.18-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement bias
+  - type: expression
+    normative_status: admitted
+    designation: bias
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 94e13a26-48a3-4320-aba3-094f02df24a7
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: estimation d'une erreur systématique
+  examples: []
+  id: 2.18-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biais de mesure, m
+  - type: expression
+    normative_status: admitted
+    designation: biais, m
+  - type: expression
+    normative_status: admitted
+    designation: erreur de justesse, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: d91bdcfb-99cf-4393-85a4-2e9e5a0de62f

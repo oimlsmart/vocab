@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '2.43'
+  localized_concepts:
+    eng: 51c82b54-6622-4273-bbdf-06d9f9b8b4a6
+    fra: 2557f008-ae2c-468f-86a2-cdc246038dd8
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 651e960b-71b8-4e1e-b1a3-0c77027dc35d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: metrological traceability to a unit metrological traceability where the
+      reference is the definition of a measurement unit through its practical realization
+      Note The expression “traceability to the SI” means metrological traceability
+      to a measurement unit of the International System of Units. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 2.43-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological traceability to a measurement unit
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 51c82b54-6622-4273-bbdf-06d9f9b8b4a6
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: traçabilité métrologique à une unité, f traçabilité métrologique où la
+      référence est la définition d'une unité de mesure sous la forme de sa réalisation
+      pratique Note L'expression « traçabilité au SI » signifie la traçabilité métrologique
+      à une unité de mesure du Système international d'unités. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 2.43-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traçabilité métrologique à une unité de mesure, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2557f008-ae2c-468f-86a2-cdc246038dd8

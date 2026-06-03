@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '2.4'
+  localized_concepts:
+    eng: 44a53f93-27d4-4af9-a4e8-89966ab16d3e
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 86d1ba11-71ba-4ef6-9268-fa40ee56152a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: méthode de mesure, f succession  logique  des  opérations,  décrites
+      d'une manière générique, mises en œuvre lors de l'exécution de mesurages
+  examples: []
+  id: 2.4-eng
+  language_code: eng
+  notes:
+  - content: La méthode de mesure peut être qualifiée de diverses façons telles que·
+      méthode de substitution méthode différentielle méthode de zéro. ‌2.5 (2.07)
+      measurement procedure set of operations, described specifically, used 1n the  performance  of  particular  measurements
+      according to a given method
+  - content: A measurement procedure is usually recorded in a document  that  is  sometimes  ,tself  called  a
+      "measurement procedure"  (or a measurement method) and is usually 1n sufficient
+      detail to enable an operator to carry out a measurement without additional information.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(2.06)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 44a53f93-27d4-4af9-a4e8-89966ab16d3e

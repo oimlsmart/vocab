@@ -1,0 +1,51 @@
+---
+data:
+  identifier: '2.32'
+  localized_concepts:
+    eng: 322e6000-d7ba-4a39-8f1b-cd0f35b61c98
+    fra: 43006f3e-3574-489e-99e6-1a55183dfb5a
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 70df2b0c-c7aa-4aa4-bfed-aa838845d1f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: standard measurement uncertainty divided by the absolute value of the
+      measured quantity value. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 2.32-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative standard measurement uncertainty
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 322e6000-d7ba-4a39-8f1b-cd0f35b61c98
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quotient de l'incertitude-type par la valeur absolue de la valeur mesurée.
+      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 2.32-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type relative, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 43006f3e-3574-489e-99e6-1a55183dfb5a

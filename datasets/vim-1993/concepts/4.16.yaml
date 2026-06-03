@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '4.16'
+  localized_concepts:
+    eng: aa330ea5-aa62-4f27-986c-f7de566b0ab2
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 9cab2737-ee2d-40aa-b5c4-affe981e0562
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: index, m partie fixe ou mobile d'un dispositif indicateur dont la position
+      par rapport aux repères permet de déterminer une valeur indiquée EXEMPLES a)
+      spot surface d'un liquide; plume spot surface d'un liquide; plume
+  examples: []
+  id: 4.16-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(4.18)"
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: aa330ea5-aa62-4f27-986c-f7de566b0ab2

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '1.5'
+  localized_concepts:
+    eng: 74a3eb29-5ddb-4600-b801-fef6cd421fcd
+    fra: 82043b11-ade8-4585-afcc-c0c5359c0ff5
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 809b89ba-4f56-4f7a-b0d7-f196c9d13475
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity, in a system of quantities, defined in terms of the base quantities
+      of that system
+  examples:
+  - content: In a system of quantities having the base quantities length and mass,
+      mass density is a derived quantity defined as the quotient of mass and volume
+      (length to the third power).
+  id: 1.5-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: derived quantity
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 74a3eb29-5ddb-4600-b801-fef6cd421fcd
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur définie, dans un système de grandeurs, en fonction des grandeurs
+      de base de ce système EXEMPLE Dans un système de grandeurs ayant pour grandeurs
+      de base la longueur et la masse, la masse volumique est une grandeur dérivée
+      définie comme le quotient d'une masse par un volume (longueur au cube).
+  examples: []
+  id: 1.5-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur dérivée, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 82043b11-ade8-4585-afcc-c0c5359c0ff5

@@ -1,0 +1,65 @@
+---
+data:
+  identifier: '4.10'
+  localized_concepts:
+    eng: 9f9daaed-f9f2-4b3e-8180-1d09340d1e24
+    fra: 9066406a-b027-46b1-9249-b8cc4ba6ec96
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: b92614d2-5f85-4f44-9af2-397d1ab1deed
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme operating condition that a measuring instrument or measuring
+      system is required to withstand without damage, and without degradation of specified
+      metrological properties, when it is subsequently operated under its rated operating
+      conditions
+  examples: []
+  id: 4.10-eng
+  language_code: eng
+  notes:
+  - content: Limiting conditions for storage, transport or operation can differ.
+  - content: Limiting conditions can include limiting values of a quantity being measured
+      and of any influence quantity.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limiting operating condition
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9f9daaed-f9f2-4b3e-8180-1d09340d1e24
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de fonctionnement extrême qu'un instrument de mesure ou un
+      système de mesure doit pouvoir supporter sans dommage et sans dégradation de
+      propriétés métrologiques spécifiées, lorsqu'il est ensuite utilisé dans ses
+      conditions assignées de fonctionnement
+  examples: []
+  id: 4.10-fra
+  language_code: fra
+  notes:
+  - content: Les conditions limites de fonctionnement peuvent être différentes pour
+      le stockage, le transport et le fonctionnement.
+  - content: Les conditions limites de fonctionnement peuvent comprendre des valeurs
+      limites pour la grandeur mesurée et pour les grandeurs d'influence.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition limite de fonctionnement, f
+  - type: expression
+    normative_status: admitted
+    designation: condition limite, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9066406a-b027-46b1-9249-b8cc4ba6ec96

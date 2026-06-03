@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '5.2'
+  localized_concepts:
+    eng: 805c3195-6aed-4386-814c-df0869667623
+    fra: 0dd1d070-55d7-453d-8324-92a2c4368b40
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 446f39a1-dfe1-426f-bf3d-d59f3f2f646b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement standard recognized by signatories to an international agreement
+      and intended to serve worldwide
+  examples:
+  - content: a) The international prototype of the kilogram. b) Chorionic gonadotropin,
+      World Health Organization (WHO) 4th International Standard 1999, 75/589, 650
+      International Units per ampoule. c) VSMOW2 (Vienna Standard Mean Ocean Water)
+      distributed by the International Atomic Energy Agency (IAEA) for differential
+      stable isotope amount-of-substance ratio measurements.
+  id: 5.2-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: international measurement standard
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 805c3195-6aed-4386-814c-df0869667623
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon reconnu par les signataires d'un accord international pour une
+      utilisation mondiale EXEMPLES a) Le prototype international du kilogramme. b)
+      Gonadotrophine chorionique, 4e étalon international de l'Organisation mondiale
+      de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule. c)
+      Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence
+      internationale pour l’énergie atomique (AIEA) pour des mesurages différentiels
+      des rapports molaires d'isotopes stables.
+  examples: []
+  id: 5.2-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon international, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0dd1d070-55d7-453d-8324-92a2c4368b40

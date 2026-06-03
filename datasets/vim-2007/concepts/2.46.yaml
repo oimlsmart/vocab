@@ -1,0 +1,64 @@
+---
+data:
+  identifier: '2.46'
+  localized_concepts:
+    eng: bdec70b8-169e-48ac-88ba-c5943608237b
+    fra: c0e19017-7d37-4f91-939c-26e0d1868271
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: af3d09cc-3b6e-4176-91f1-3a913e300740
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: metrological comparability comparability of measurement results, for
+      quantities of a given kind, that are metrologically traceable to the same reference
+  examples:
+  - content: Measurement results, for the distances between Earth and Moon, and between
+      Paris and London, are metrologically comparable when they are both metrologically
+      traceable to the same measurement unit, for instance the metre.
+  id: 2.46-eng
+  language_code: eng
+  notes:
+  - content: See Note 1 to 2.41 metrological traceability.
+  - content: Metrological comparability of measurement results does not necessitate
+      that the measured quantity values and associated measurement uncertainties compared
+      be of the same order of magnitude. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological comparability of measurement results
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: bdec70b8-169e-48ac-88ba-c5943608237b
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: comparabilité de résultats de mesure, pour des grandeurs d'une nature
+      donnée, qui sont métrologiquement traçables à une même référence EXEMPLE Des
+      résultats de mesure pour les distances entre la Terre et la Lune et entre Paris
+      et Londres sont métrologiquement comparables s'ils sont métrologiquement traçables
+      à la même unité de mesure, par exemple le mètre.
+  examples: []
+  id: 2.46-fra
+  language_code: fra
+  notes:
+  - content: Voir la note 1 de 2.41, traçabilité métrologique.
+  - content: La comparabilité métrologique ne nécessite pas que les valeurs mesurées
+      et les incertitudes de mesure associées soient du même ordre de grandeur. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: comparabilité métrologique, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: c0e19017-7d37-4f91-939c-26e0d1868271

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '3.4'
+  localized_concepts:
+    eng: 14de4646-9d86-4afd-89af-ec588b677b8d
+    fra: 7f84d7c9-4f84-434a-abc9-446747e434c0
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: 02ec5109-c72a-44f6-816d-33cecf366d27
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'indicating measuring instrument where the output signal is presented
+      in visual form _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Chapitre 3 : Dispositifs de mesure'
+  examples: []
+  id: 3.4-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: displaying measuring instrument
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 14de4646-9d86-4afd-89af-ec588b677b8d
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: appareil de mesure indicateur dont le signal de sortie est présenté sous
+      forme visuelle _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 3.4-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appareil de mesure afficheur, m
+  - type: expression
+    normative_status: admitted
+    designation: appareil afficheur, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7f84d7c9-4f84-434a-abc9-446747e434c0

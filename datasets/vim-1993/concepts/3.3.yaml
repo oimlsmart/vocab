@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '3.3'
+  localized_concepts:
+    eng: f12cf362-eb97-40ca-b4b8-c1ea78d1a858
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: fa4c70e2-eb10-448b-99d3-2e19b5af520e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: result of a measurement before correction for systematic error
+  examples: []
+  id: 3.3-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncorrected result
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f12cf362-eb97-40ca-b4b8-c1ea78d1a858

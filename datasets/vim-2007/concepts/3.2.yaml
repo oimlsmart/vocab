@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '3.2'
+  localized_concepts:
+    eng: c89e88e7-d49b-48c9-9c64-c96c70794b1d
+    fra: ceef5e1d-c6b7-4865-ac7d-e222c2393b90
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: a0fd00c4-a176-4ba6-9557-05bb4611ea0d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of one or more measuring instruments and often other devices, including
+      any reagent and supply, assembled and adapted to give information used to generate
+      measured quantity values within specified intervals for quantities of specified
+      kinds Note A measuring system may consist of only one measuring instrument.
+  examples: []
+  id: 3.2-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: c89e88e7-d49b-48c9-9c64-c96c70794b1d
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble d'un ou plusieurs instruments de mesure et souvent d'autres
+      dispositifs, comprenant si nécessaire réactifs et alimentations, assemblés et
+      adaptés pour fournir des informations destinées à obtenir des valeurs mesurées
+      dans des intervalles spécifiés pour des grandeurs de natures spécifiées Note
+      Un système de mesure peut consister en un seul instrument de mesure.
+  examples: []
+  id: 3.2-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système de mesure, m
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: ceef5e1d-c6b7-4865-ac7d-e222c2393b90

@@ -1,0 +1,73 @@
+---
+data:
+  identifier: '4.12'
+  localized_concepts:
+    eng: 9d78d571-c09d-476d-bae2-dab6122ceafa
+    fra: 134f7ac3-91c7-43ec-be6a-f79b373a79aa
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 71f8327b-b94a-4230-b925-f9c537ce4d02
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of a measuring instrument that displays an indication
+  examples: []
+  id: 4.12-eng
+  language_code: eng
+  notes:
+  - content: This term may include the device by which the value suppiied by a material
+      measure 1s displayed or set. An analogue displaying dev1ce prov1des an analogue
+      display; a digital displaying device provides a digital display. A form of presentation
+      of the display e1ther by means of a digital display in which the ieast s1gnificant
+      digit rnoves continuously, thus perm1tt1ng interpolation, or by rneans of a
+      digital display supplemented by a scale and index, is called a semidigital display.
+      The English term readout device 1s used as a general descriptor of the means
+      whereby the response of a rneasuring instrument 1s made ava1lable. An analogue
+      displaying dev1ce prov1des an analogue display; a digital displaying device
+      provides a digital display. A form of presentation of the display e1ther by
+      means of a digital display in which the ieast s1gnificant digit rnoves continuously,
+      thus perm1tt1ng interpolation, or by rneans of a digital display supplemented
+      by a scale and index, is called a semidigital display. The English term readout
+      device 1s used as a general descriptor of the means whereby the response of
+      a rneasuring instrument 1s made ava1lable.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: displaying device indicating device
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9d78d571-c09d-476d-bae2-dab6122ceafa
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dispositif indicateur, m partie d'un appareil de mesure qui affiche une
+      indication
+  examples: []
+  id: 4.12-fra
+  language_code: fra
+  notes:
+  - content: Ce terme peut inclure le dispositif à l'aide duquel la valeur fournie
+      par une mesure mc1térialisée est affichée ou réglée. 2  Un  dispositif  d'affichage  analogique  fournit  un
+      affichage analogique; un dispositif d'affichage numé-rique fournit un affichage
+      numérique. 3 Une forme de présentation de l'affichage, soit au moyen d'un affichage
+      numérique dans lequel le chiffre le moins significatif se déplace continûment,
+      permet-tant ainsi l'interpolation, soit au moyen d'un affichage numérique complété
+      par une echelle et un index, est appelé affichage semi-numérique. 4 (Applicable
+      uniquement au texte anglais.)
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dispositif d'affichage, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 134f7ac3-91c7-43ec-be6a-f79b373a79aa

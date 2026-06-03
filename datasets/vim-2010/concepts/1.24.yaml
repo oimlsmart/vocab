@@ -1,0 +1,57 @@
+---
+data:
+  identifier: '1.24'
+  localized_concepts:
+    eng: a1ff3ea7-b5b4-45ef-9cbc-95842740fef2
+    fra: 42bbc855-535d-4293-8fbb-aabfce92a769
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: cc6d0c14-7cf5-4e3b-865e-ca32f868dad2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ratio of two measurement units for quantities of the same kind
+  examples:
+  - content: km/m = 1 000 and thus 1 km = 1 000 m. Note The measurement units may
+      belong to different systems of units.
+  - content: a) h/s = 3 600 and thus 1 h = 3 600 s. b) (km/h)/(m/s) = (1/3.6) and
+      thus 1 km/h = (1/3.6) m/s. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  id: 1.24-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conversion factor between units
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: a1ff3ea7-b5b4-45ef-9cbc-95842740fef2
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: rapport de deux unités de mesure correspondant à des grandeurs de même
+      nature EXEMPLE km/m = 1 000 et par conséquent 1 km = 1 000 m. Note Les unités
+      de mesure peuvent appartenir à des systèmes d’unités différents. EXEMPLES a)
+      h/s = 3 600 et par conséquent 1 h = 3 600 s. b) (km/h)/(m/s) = (1/3,6) et par
+      conséquent 1 km/h = (1/3,6) m/s. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 1.24-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de conversion entre unités, m
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 42bbc855-535d-4293-8fbb-aabfce92a769

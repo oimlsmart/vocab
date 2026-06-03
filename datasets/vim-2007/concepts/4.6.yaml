@@ -1,0 +1,67 @@
+---
+data:
+  identifier: '4.6'
+  localized_concepts:
+    eng: 0fc83ce4-49eb-4772-821d-c930dd9d53cc
+    fra: 0427427c-8800-45b8-b892-4ca4c2f70a52
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: e842d712-4935-49d9-8b11-1f81724427ee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: rounded or approximate value of a characterizing quantity of a measuring
+      instrument or measuring system that provides guidance for its appropriate use
+  examples:
+  - content: a) 100 Ω as the nominal quantity value marked on a standard resistor.
+      b) 1000 ml as the nominal quantity value marked on a single-mark volumetric
+      flask. c) mol/l as the nominal quantity value for amount-of-substance concentration
+      of a solution of hydrogen chloride, HCl. d) 20 °C as a maximum Celsius temperature
+      for storage. Note “Nominal quantity value” and “nominal value” are not to be
+      confused with “nominal property value”, see 1.29, Note 2.
+  id: 4.6-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal quantity value
+  - type: expression
+    normative_status: admitted
+    designation: nominal value
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0fc83ce4-49eb-4772-821d-c930dd9d53cc
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur arrondie ou approximative d'une grandeur caractéristique d'un
+      instrument de mesure ou d'un système de mesure, qui sert de guide pour son utilisation
+      appropriée EXEMPLES a) La valeur 100 Ω marquée sur une résistance étalon. b)
+      La valeur 1000 ml marquée sur une fiole jaugée à un trait. c) La valeur 0,1
+      mol/l de la concentration en quantité de matière d'une solution d'acide chlorhydrique,
+      HCl. d) La valeur 20 °C d'une température Celsius maximale de stockage. Note
+      En anglais, il convient de ne pas confondre les termes « nominal quantity value
+      » et « nominal value » avec la valeur d'une propriété qualitative (en anglais
+      « nominal property value »).
+  examples: []
+  id: 4.6-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur nominale, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0427427c-8800-45b8-b892-4ca4c2f70a52

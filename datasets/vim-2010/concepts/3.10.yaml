@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '3.10'
+  localized_concepts:
+    eng: c9d987ec-2589-4f9d-a26e-bd573d6554ef
+    fra: 8c441cb2-b128-4857-9bcf-c9b5ab7591ed
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:2010
+    ref_type: domain
+status: valid
+id: fd273f06-6ca1-449e-b731-1a4071b9538d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: series of elements of a measuring system constituting a single path of
+      the signal from a sensor to an output element
+  examples:
+  - content: a) Electro-acoustic measuring chain comprising a microphone, attenuator,
+      filter, amplifier, and voltmeter. b) Mechanical measuring chain comprising a
+      Bourdon tube, system of levers, two gears, and a mechanical dial. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  id: 3.10-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring chain
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: c9d987ec-2589-4f9d-a26e-bd573d6554ef
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: suite d'éléments d'un système de mesure qui constitue un seul chemin
+      du signal depuis le capteur jusqu'à l'élément de sortie EXEMPLES a) Chaîne de
+      mesure électroacoustique comprenant un microphone, un atténuateur, un filtre,
+      un amplificateur et un voltmètre. b) Chaîne de mesure mécanique comprenant un
+      tube de Bourdon, un système de levier, deux roues dentées et et un cadran mécanique.
+      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 3.10-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chaîne de mesure, f
+date_accepted: '2010-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8c441cb2-b128-4857-9bcf-c9b5ab7591ed

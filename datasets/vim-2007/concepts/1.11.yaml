@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '1.11'
+  localized_concepts:
+    eng: 74180c8c-d76e-4077-ad07-84ec230a6073
+    fra: ac0f9aeb-728f-4355-9ed5-86b3b9bd5d7a
+  domains:
+  - concept_id: section-1
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 1f232d96-4d64-4978-8fc3-7d8b69c3faf7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement unit for a derived quantity
+  examples:
+  - content: The metre per second, symbol m/s, and the centimetre per second, symbol
+      cm/s, are derived units of speed in the SI. The kilometre per hour, symbol km/h,
+      is a measurement unit of speed outside the SI but accepted for use with the
+      SI. The knot, equal to one nautical mile per hour, is a measurement unit of
+      speed outside the SI.
+  id: 1.11-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: derived unit
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 74180c8c-d76e-4077-ad07-84ec230a6073
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unité de mesure d'une grandeur dérivée EXEMPLES Le mètre par seconde,
+      symbole m/s, et le centimètre par seconde, symbole cm/s sont des unités dérivées
+      de vitesse dans le SI. Le kilomètre par heure, symbole km/h, est une unité de
+      vitesse en dehors du SI mais dont l'usage est accepté avec le SI. Le nœud, égal
+      à un mille marin par heure, est une unité de vitesse en dehors du SI.
+  examples: []
+  id: 1.11-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité dérivée, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: ac0f9aeb-728f-4355-9ed5-86b3b9bd5d7a

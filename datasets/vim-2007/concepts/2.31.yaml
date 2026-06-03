@@ -1,0 +1,58 @@
+---
+data:
+  identifier: '2.31'
+  localized_concepts:
+    eng: 04af7e11-5dc5-48ea-a310-cb1fb30f4c6c
+    fra: a72b0011-0f14-4ed1-a541-83408cb46381
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: 7fcb804e-ab44-417b-acb0-7e0e1b10bf4d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: combined standard uncertainty standard measurement uncertainty that is
+      obtained using the individual standard measurement uncertainties associated
+      with the input quantities in a measurement model Note In case of correlations
+      of input quantities in a measurement model, covariances must also be taken into
+      account when calculating the combined standard measurement uncertainty; see
+      also GUM, 2.3.4.
+  examples: []
+  id: 2.31-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: combined standard measurement uncertainty
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 04af7e11-5dc5-48ea-a310-cb1fb30f4c6c
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: incertitude-type obtenue en utilisant les incertitudes-types individuelles
+      associées aux grandeurs d'entrée dans un modèle de mesure Note Lorsqu'il existe
+      des corrélations entre les grandeurs d'entrée dans un modèle de mesure, il faut
+      aussi prendre en compte des covariances dans le calcul de l'incertitude-type
+      composée; voir aussi le GUM, 2.3.4.
+  examples: []
+  id: 2.31-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type composée, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: a72b0011-0f14-4ed1-a541-83408cb46381

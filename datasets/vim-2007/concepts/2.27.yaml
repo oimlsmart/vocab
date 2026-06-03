@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '2.27'
+  localized_concepts:
+    eng: 25d27df3-fdd2-4c28-97f5-309fab77ac59
+    fra: ff6a21d7-98b5-4180-a1b8-4cb4913538a8
+  domains:
+  - concept_id: section-2
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: ba4acd2e-85b2-404a-89bc-b3dfd50425b4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component of measurement uncertainty resulting from the finite amount
+      of detail in the definition of a measurand
+  examples: []
+  id: 2.27-eng
+  language_code: eng
+  notes:
+  - content: Definitional uncertainty is the practical minimum measurement uncertainty
+      achievable in any measurement of a given measurand.
+  - content: Any change in the descriptive detail leads to another definitional uncertainty.
+  - content: In the GUM:1995, D.3.4, and in IEC 60359 the concept ‘definitional uncertainty’
+      is termed “intrinsic uncertainty”. . _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: definitional uncertainty
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 25d27df3-fdd2-4c28-97f5-309fab77ac59
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: composante de l'incertitude de mesure qui résulte de la quantité finie
+      de détails dans la définition d'un mesurande
+  examples: []
+  id: 2.27-fra
+  language_code: fra
+  notes:
+  - content: L'incertitude définitionnelle est l'incertitude minimale que l'on peut
+      obtenir en pratique par tout mesurage d'un mesurande donné.
+  - content: Toute modification des détails descriptifs conduit à une autre incertitude
+      définitionnelle.
+  - content: Dans le GUM:1995, D.3.4, et dans la CEI 60359, le concept d'incertitude
+      définitionnelle est appelé « incertitude intrinsèque ». _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude définitionnelle, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: ff6a21d7-98b5-4180-a1b8-4cb4913538a8

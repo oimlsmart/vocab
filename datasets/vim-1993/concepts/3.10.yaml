@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '3.10'
+  localized_concepts:
+    eng: e3053a3d-70b5-4ad8-b3bb-763e3857e852
+    fra: f752c43b-c4b0-4675-9f5a-219192cbb187
+  domains:
+  - concept_id: section-3
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: d4b9b4ef-ab28-4f50-82b8-3c9caeaf6659
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: result of a measurement minus a true value of the measurand
+  examples: []
+  id: 3.10-eng
+  language_code: eng
+  notes:
+  - content: Since a true value cannot be determined, in practIce a conventional true
+      value is used (see 1.19 and 1.20). 2  When it is necessary to distinguish "error"
+      from "relative error", the former is sometimes  called absolute error of measurement.
+      This should not be confused with absolute value of error, which is the modulus
+      of the error.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of measurement)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: e3053a3d-70b5-4ad8-b3bb-763e3857e852
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: résultat d'un mesurage moins une valeur vraie du mesurande
+  examples: []
+  id: 3.10-fra
+  language_code: fra
+  notes:
+  - content: Étant donné qu·une valeur vraie ne peut pas être déterminée, dans la
+      pratique on utilise une valeur conventionnellement vraie (voir 1.19 et 1.20).
+      2 Lorsqu'il est nécessaire de faire ia distinction entre «l'erreur)) et «l'erreur
+      relative», la première est parfois appelée «erreur absolue de mesure». Il ne
+      faut pas la confondre avec la valeur absolue de l'erreur, qui est le module
+      de l'erreur.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur (de mesure), f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f752c43b-c4b0-4675-9f5a-219192cbb187

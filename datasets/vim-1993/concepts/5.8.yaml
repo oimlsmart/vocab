@@ -1,0 +1,61 @@
+---
+data:
+  identifier: '5.8'
+  localized_concepts:
+    eng: 3b772861-aa7a-4cb4-bede-20f74d573574
+    fra: 67ca5bd8-4666-4022-9bc2-cb95d1cc25d7
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: ecee65d2-b4e0-4014-9538-d710482563c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: coefficient by which the direct indication of a measuring instrument
+      must be multiplied to give the indicated value of the measurand or of a quantity
+      to be used to calculate the value of the measurand
+  examples: []
+  id: 5.8-eng
+  language_code: eng
+  notes:
+  - content: Multirange measunng instruments with a single display have several instrument
+      constants that correspond, for  example,  ta  different  positions  of  a  selector
+      mechanism. 2 Where the instrument constant is the number one, it is generally
+      not shown on the instrument.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument constant
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3b772861-aa7a-4cb4-bede-20f74d573574
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: coefficient par lequel l'indication directe d'un instrument de mesure
+      doit être multipliée pour obtenir la valeur indiquée du mesurande ou d'une grandeur
+      à utiliser dans le calcul de la valeur du mesurande
+  examples: []
+  id: 5.8-fra
+  language_code: fra
+  notes:
+  - content: Les instruments de mesure à calibres multiples et qui ne comportent qu'un
+      seul affichage ont plusieurs constantes correspondant, par exemple, à différentes
+      positions d'un mécanisme sélecteur. 2 Lorsque la constante est le nombre un,
+      il n'est géné-ralement pas indiqué sur l'instrument.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante (d'un instrument), f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 67ca5bd8-4666-4022-9bc2-cb95d1cc25d7

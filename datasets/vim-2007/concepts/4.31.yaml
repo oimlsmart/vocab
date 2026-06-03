@@ -1,0 +1,56 @@
+---
+data:
+  identifier: '4.31'
+  localized_concepts:
+    eng: 24a2edc1-e0cf-4570-8dac-c9841c603b45
+    fra: 4a1d05a4-5e9f-4a01-af87-e865c8e3aaf3
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:2007
+    ref_type: domain
+status: valid
+id: ea7704e1-42a1-4922-abc2-1a10ff1a4d5f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression of the relation between indication and corresponding measured
+      quantity value Note A calibration curve expresses a one-to-one relation that
+      does not supply a measurement result as it bears no information about the measurement
+      uncertainty. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  examples: []
+  id: 4.31-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration curve
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 24a2edc1-e0cf-4570-8dac-c9841c603b45
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'expression de la relation entre une indication et la valeur mesurée
+      correspondante Note Une courbe d''étalonnage exprime une relation biunivoque
+      qui ne fournit pas un résultat de mesure puisqu’elle ne contient aucune information
+      sur l’incertitude de mesure _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Chapter 5: Measurement standards (Etalons)'
+  examples: []
+  id: 4.31-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: courbe d’étalonnage, f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4a1d05a4-5e9f-4a01-af87-e865c8e3aaf3
