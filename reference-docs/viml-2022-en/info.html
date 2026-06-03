@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+<link rel="stylesheet" href="../res/jquery.mobile.min.css" />
+<link rel="stylesheet" href="../res/style.css" type="text/css" />
+<script src="../res/jquery.js"></script>
+<script src="../res/jquery.mobile.min.js"></script>
+<script src="../res/script.js"></script>
+</head>
+<body>
+<div data-role="page">
+
+<div data-role="header" data-position="fixed" data-theme="a">
+<h2>Preamble</h2>
+<a href="#navigation" data-rel="popup" class="menu ui-btn-right" data-icon="gear">Options</a>
+</div><!-- /header -->
+
+<div data-role="content">
+<p class="info">
+This is an abridged version of the <i>International vocabulary of metrology - Basic and general concepts and associated terms (VIM)</i>
+(JCGM 200:2012, 3rd edition) (or VIM3), supplemented by annotations for some of the entries.
+It is an online, interactively browsable document produced by Working Group 2 of the Joint Committee for Guides in Metrology (JCGM/WG 2).
+</p>
+<p class="info">
+With respect to the <a href="http://www.bipm.org/en/publications/guides/vim.html" target="_blank">VIM3 version that can be freely downloaded in pdf format</a>
+from the <a href="http://www.bipm.org/en/committees/jc/jcgm" target="_blank">BIPM site, JCGM section</a>,
+this annotated version has the following features:
+</p>
+<ul class="info">
+<li>all definitions, notes, and examples of the VIM3 are taken without modification from the VIM3 itself;</li>
+<li>the VIM3 Foreword, Introduction, Conventions, Scope, Annex, Bibliography, and List of acronyms are omitted;</li>
+<li>an Alphabetical index is included;</li>
+<li>in definitions, notes, and examples terms designating concepts defined in the VIM3 are hyperlinked;</li>
+<li>some annotations are included, aimed at further clarification or comment on specific definitions, notes, or examples.
+  The JCGM decided that the annotations are informative and not normative.
+  They are exclusively developed by JCGM/WG2,
+  <a href="http://www.bipm.org/utils/en/pdf/JCGM_charter.pdf" target="_blank">according to procedures agreed by the JCGM</a>.</li>
+</ul>
+<p class="info">
+Any suggestion is <a href="mailto:webmaster@bipm.org">welcome</a>.
+</p>
+</div><!-- /content -->
+
+<div data-role="popup" id="navigation">
+<ul data-role="listview" data-inset="true">
+<li><a href="index.html" data-role="button" data-icon="home">Home</a></li>
+<li><a href="anaindex.html" data-role="button" data-icon="star">Alphabetical index</a></li>
+<li><a href="annoindex.html" data-role="button" data-icon="star">List of annotated entries</a></li>
+<li data-role="divider">Language selector</li>
+<li><a href="javascript:setLang('en');" data-role="button">English (e)</a></li>
+<li><a href="javascript:setLang('fr');" data-role="button">French (f)</a></li>
+</ul>
+</div>
+
+</div><!-- /page -->
+</body>
+</html>

@@ -3,5 +3,7 @@ public/
 dist/
 .datasets/
 .vim-cache/
+.viml-cache/
+TODO.multi-edition/
 package-lock.json
-reference-docs/
+.DS_Store
