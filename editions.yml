@@ -48,6 +48,8 @@ editions:
       color: "#004996"
       title: "VIML — International Vocabulary of Legal Metrology"
       title_fra: "VIML — Vocabulaire international de métrologie légale"
+      description: "Current edition with 135 terms across 8 sections covering basic metrology, legal aspects, activities, documents and marks, instrument classification, construction and operation, software, and conformity assessment."
+      description_fra: "Édition actuelle comprenant 135 termes répartis en 8 sections couvrant la métrologie fondamentale, les aspects légaux, les activités, les documents et marques, la classification des instruments, la construction et le fonctionnement, les logiciels et l'évaluation de la conformité."
 
   - id: viml-2013
     ref: "OIML V 1:2013"
@@ -57,7 +59,7 @@ editions:
     languages: [eng, fra]
     status: superseded
     supersedes: viml-2000
-    concept_count: 100
+    concept_count: 109
     sections:
       "0": "Basic terms"
       "1": "Metrology and its legal aspects"
@@ -82,6 +84,8 @@ editions:
       color: "#6B7280"
       title: "VIML (2013)"
       title_fra: "VIML (2013)"
+      description: "Superseded by the 2022 edition. 109 terms across 7 sections covering basic concepts, legal metrology activities, documents and marks, instrument classification, construction and operation, and software in legal metrology."
+      description_fra: "Remplacée par l'édition 2022. 109 termes répartis en 7 sections couvrant les concepts de base, les activités de métrologie légale, les documents et marques, la classification des instruments, la construction et le fonctionnement, et les logiciels en métrologie légale."
 
   - id: viml-2000
     ref: "OIML V 1:2000"
@@ -91,7 +95,7 @@ editions:
     languages: [eng, fra]
     status: superseded
     supersedes: viml-1968
-    concept_count: 44
+    concept_count: 45
     sections:
       "1": "Basic terms in legal metrology"
       "2": "Legal metrology activities"
@@ -110,6 +114,8 @@ editions:
       color: "#9CA3AF"
       title: "VIML (2000)"
       title_fra: "VIML (2000)"
+      description: "Superseded by the 2013 edition. 45 terms across 4 sections covering basic terms in legal metrology, activities, documents and marks, and units and measuring instruments."
+      description_fra: "Remplacée par l'édition 2013. 45 termes répartis en 4 sections couvrant les termes de base, les activités de métrologie légale, les documents et marques, et les unités et instruments de mesure."
 
   - id: viml-1968
     ref: "OIML V 1:1968"
@@ -136,12 +142,14 @@ editions:
       color: "#D1D5DB"
       title: "VIML (1968)"
       title_fra: "VIML (1968)"
+      description: "First edition, French only. Approximately 30 terms defining fundamental concepts across 7 sections. OCR-derived dataset containing typographical errors."
+      description_fra: "Première édition, en français uniquement. Environ 30 termes définissant les concepts fondamentaux répartis en 7 sections. Jeu de données issu d'une OCR contenant des erreurs typographiques."
 
-  # ── VIM editions (JCGM 200 / OIML V 2-200) ──
+  # ── VIM editions (OIML V 2 / JCGM 200) ──
 
   - id: vim-2012
-    ref: "JCGM 200:2012"
-    ref_aliases: ["OIML V 2-200:2012"]
+    ref: "OIML V 2-200:2012"
+    ref_aliases: ["JCGM 200:2012"]
     year: 2012
     urn_prefix: "urn:jcgm:pub:200:2012"
     dataset_path: datasets/vim
@@ -169,17 +177,19 @@ editions:
       color: "#005A9C"
       title: "VIM — International Vocabulary of Metrology"
       title_fra: "VIM — Vocabulaire international de métrologie"
+      description: "Current edition with 144 concepts in 5 chapters covering quantities and units, measurements, devices for measurement, properties of measuring devices, and measurement standards (etalons)."
+      description_fra: "Édition actuelle comprenant 144 concepts en 5 chapitres couvrant les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons."
 
   - id: vim-2010
-    ref: "JCGM 200:2010"
-    ref_aliases: ["OIML V 2-200:2010"]
+    ref: "OIML V 2-200:2010"
+    ref_aliases: ["JCGM 200:2010"]
     year: 2010
     urn_prefix: "urn:jcgm:pub:200:2010"
     dataset_path: datasets/vim-2010
     languages: [eng, fra]
     status: superseded
     supersedes: vim-2007
-    concept_count: 144
+    concept_count: 143
     sections:
       "1": "Quantities and units"
       "2": "Measurements"
@@ -201,17 +211,19 @@ editions:
       color: "#7C93A8"
       title: "VIM (2010)"
       title_fra: "VIM (2010)"
+      description: "Superseded by the 2012 edition. 143 concepts in 5 chapters with corrected definitions covering quantities and units, measurements, devices for measurement, properties of measuring devices, and measurement standards."
+      description_fra: "Remplacée par l'édition 2012. 143 concepts en 5 chapitres avec définitions corrigées couvrant les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons."
 
   - id: vim-2007
-    ref: "JCGM 200:2007"
-    ref_aliases: ["OIML V 2-200:2007"]
+    ref: "OIML V 2-200:2007"
+    ref_aliases: ["JCGM 200:2007"]
     year: 2007
     urn_prefix: "urn:jcgm:pub:200:2007"
     dataset_path: datasets/vim-2007
     languages: [eng, fra]
     status: superseded
     supersedes: vim-1993
-    concept_count: 144
+    concept_count: 143
     sections:
       "1": "Quantities and units"
       "2": "Measurements"
@@ -233,10 +245,12 @@ editions:
       color: "#94A8B8"
       title: "VIM (2007)"
       title_fra: "VIM (2007)"
+      description: "Superseded by the 2010 edition. 143 concepts in 5 chapters covering quantities and units, measurements, devices for measurement, properties of measuring devices, and measurement standards."
+      description_fra: "Remplacée par l'édition 2010. 143 concepts en 5 chapitres couvrant les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons."
 
   - id: vim-1993
-    ref: "ISO Guide 99:1993"
-    ref_aliases: ["ISO/TAG 4:1993", "OIML V 2:1993"]
+    ref: "OIML V 2:1993"
+    ref_aliases: ["JCGM 200:1993", "ISO Guide 99:1993", "ISO/TAG 4:1993"]
     year: 1993
     urn_prefix: "urn:jcgm:pub:200:1993"
     dataset_path: datasets/vim-1993
@@ -267,3 +281,5 @@ editions:
       color: "#B0BEC5"
       title: "VIM (1993)"
       title_fra: "VIM (1993)"
+      description: "Superseded by the 2007 edition. 120 concepts in 6 chapters covering quantities and units, measurements, measurement results, measuring instruments, characteristics of measuring instruments, and measurement standards."
+      description_fra: "Remplacée par l'édition 2007. 120 concepts en 6 chapitres couvrant les grandeurs et unités, les mesurages, les résultats de mesure, les instruments de mesure, les caractéristiques des instruments de mesure et les étalons."

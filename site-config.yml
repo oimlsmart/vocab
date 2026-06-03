@@ -26,13 +26,16 @@ datasets:
   localPath: datasets/viml-2022
   ref: OIML V 1:2022
   title: OIML V 1:2022
-  description: Terminology definitions from the International Vocabulary of Legal
-    Metrology (OIML V 1:2022)
+  description: Current edition with 135 terms across 8 sections covering basic metrology,
+    legal aspects, activities, documents and marks, instrument classification, construction
+    and operation, software, and conformity assessment.
   translations:
     fra:
       title: OIML V 1:2022
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        légale (OIML V 1:2022)
+      description: Édition actuelle comprenant 135 termes répartis en 8 sections couvrant
+        la métrologie fondamentale, les aspects légaux, les activités, les documents
+        et marques, la classification des instruments, la construction et le fonctionnement,
+        les logiciels et l'évaluation de la conformité.
   owner: OIML
   color: "#004996"
   tags:
@@ -54,13 +57,16 @@ datasets:
   localPath: datasets/viml-2013
   ref: OIML V 1:2013
   title: OIML V 1:2013
-  description: Terminology definitions from the International Vocabulary of Legal
-    Metrology (OIML V 1:2013)
+  description: Superseded by the 2022 edition. 109 terms across 7 sections covering
+    basic concepts, legal metrology activities, documents and marks, instrument classification,
+    construction and operation, and software in legal metrology.
   translations:
     fra:
       title: OIML V 1:2013
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        légale (OIML V 1:2013)
+      description: Remplacée par l'édition 2022. 109 termes répartis en 7 sections
+        couvrant les concepts de base, les activités de métrologie légale, les documents
+        et marques, la classification des instruments, la construction et le fonctionnement,
+        et les logiciels en métrologie légale.
   owner: OIML
   color: "#6B7280"
   tags:
@@ -83,13 +89,15 @@ datasets:
   localPath: datasets/viml-2000
   ref: OIML V 1:2000
   title: OIML V 1:2000
-  description: Terminology definitions from the International Vocabulary of Legal
-    Metrology (OIML V 1:2000)
+  description: Superseded by the 2013 edition. 45 terms across 4 sections covering
+    basic terms in legal metrology, activities, documents and marks, and units and
+    measuring instruments.
   translations:
     fra:
       title: OIML V 1:2000
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        légale (OIML V 1:2000)
+      description: Remplacée par l'édition 2013. 45 termes répartis en 4 sections
+        couvrant les termes de base, les activités de métrologie légale, les documents
+        et marques, et les unités et instruments de mesure.
   owner: OIML
   color: "#9CA3AF"
   tags:
@@ -112,13 +120,14 @@ datasets:
   localPath: datasets/viml-1968
   ref: OIML V 1:1968
   title: OIML V 1:1968
-  description: Terminology definitions from the International Vocabulary of Legal
-    Metrology (OIML V 1:1968)
+  description: First edition, French only. Approximately 30 terms defining fundamental
+    concepts across 7 sections. OCR-derived dataset containing typographical errors.
   translations:
     fra:
       title: OIML V 1:1968
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        légale (OIML V 1:1968)
+      description: Première édition, en français uniquement. Environ 30 termes définissant
+        les concepts fondamentaux répartis en 7 sections. Jeu de données issu d'une
+        OCR contenant des erreurs typographiques.
   owner: OIML
   color: "#D1D5DB"
   tags:
@@ -137,15 +146,17 @@ datasets:
   - urn:jcgm:pub:200:2012*
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim
-  ref: JCGM 200:2012
-  title: JCGM 200:2012
-  description: Terminology definitions from the International Vocabulary of Metrology
-    (JCGM 200:2012)
+  ref: OIML V 2-200:2012
+  title: OIML V 2-200:2012
+  description: Current edition with 144 concepts in 5 chapters covering quantities
+    and units, measurements, devices for measurement, properties of measuring devices,
+    and measurement standards (etalons).
   translations:
     fra:
-      title: JCGM 200:2012
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        (JCGM 200:2012)
+      title: OIML V 2-200:2012
+      description: Édition actuelle comprenant 144 concepts en 5 chapitres couvrant
+        les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés
+        des dispositifs de mesure et les étalons.
   owner: JCGM
   color: "#005A9C"
   tags:
@@ -159,22 +170,24 @@ datasets:
   - eng
   - fra
   refAliases:
-  - OIML V 2-200:2012
+  - JCGM 200:2012
 - id: vim-2010
   uri: urn:jcgm:pub:200:2010
   uriAliases:
   - urn:jcgm:pub:200:2010*
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim-2010
-  ref: JCGM 200:2010
-  title: JCGM 200:2010
-  description: Terminology definitions from the International Vocabulary of Metrology
-    (JCGM 200:2010)
+  ref: OIML V 2-200:2010
+  title: OIML V 2-200:2010
+  description: Superseded by the 2012 edition. 143 concepts in 5 chapters with corrected
+    definitions covering quantities and units, measurements, devices for measurement,
+    properties of measuring devices, and measurement standards.
   translations:
     fra:
-      title: JCGM 200:2010
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        (JCGM 200:2010)
+      title: OIML V 2-200:2010
+      description: Remplacée par l'édition 2012. 143 concepts en 5 chapitres avec
+        définitions corrigées couvrant les grandeurs et unités, les mesurages, les
+        dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons.
   owner: JCGM
   color: "#7C93A8"
   tags:
@@ -188,7 +201,7 @@ datasets:
   - eng
   - fra
   refAliases:
-  - OIML V 2-200:2010
+  - JCGM 200:2010
   editionStatus: superseded
 - id: vim-2007
   uri: urn:jcgm:pub:200:2007
@@ -196,15 +209,17 @@ datasets:
   - urn:jcgm:pub:200:2007*
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim-2007
-  ref: JCGM 200:2007
-  title: JCGM 200:2007
-  description: Terminology definitions from the International Vocabulary of Metrology
-    (JCGM 200:2007)
+  ref: OIML V 2-200:2007
+  title: OIML V 2-200:2007
+  description: Superseded by the 2010 edition. 143 concepts in 5 chapters covering
+    quantities and units, measurements, devices for measurement, properties of measuring
+    devices, and measurement standards.
   translations:
     fra:
-      title: JCGM 200:2007
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        (JCGM 200:2007)
+      title: OIML V 2-200:2007
+      description: Remplacée par l'édition 2010. 143 concepts en 5 chapitres couvrant
+        les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés
+        des dispositifs de mesure et les étalons.
   owner: JCGM
   color: "#94A8B8"
   tags:
@@ -218,7 +233,7 @@ datasets:
   - eng
   - fra
   refAliases:
-  - OIML V 2-200:2007
+  - JCGM 200:2007
   editionStatus: superseded
 - id: vim-1993
   uri: urn:jcgm:pub:200:1993
@@ -226,15 +241,17 @@ datasets:
   - urn:jcgm:pub:200:1993*
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim-1993
-  ref: ISO Guide 99:1993
-  title: ISO Guide 99:1993
-  description: Terminology definitions from the International Vocabulary of Metrology
-    (ISO Guide 99:1993)
+  ref: OIML V 2:1993
+  title: OIML V 2:1993
+  description: Superseded by the 2007 edition. 120 concepts in 6 chapters covering
+    quantities and units, measurements, measurement results, measuring instruments,
+    characteristics of measuring instruments, and measurement standards.
   translations:
     fra:
-      title: ISO Guide 99:1993
-      description: Définitions de terminologie du Vocabulaire international de métrologie
-        (ISO Guide 99:1993)
+      title: OIML V 2:1993
+      description: Remplacée par l'édition 2007. 120 concepts en 6 chapitres couvrant
+        les grandeurs et unités, les mesurages, les résultats de mesure, les instruments
+        de mesure, les caractéristiques des instruments de mesure et les étalons.
   owner: JCGM
   color: "#B0BEC5"
   tags:
@@ -248,8 +265,9 @@ datasets:
   - eng
   - fra
   refAliases:
+  - JCGM 200:1993
+  - ISO Guide 99:1993
   - ISO/TAG 4:1993
-  - OIML V 2:1993
   editionStatus: superseded
 routing: []
 branding:

@@ -47,6 +47,9 @@ def build_edition_dataset(edition)
     tags = ["metrology", "legal", "oiml", "vocabulary"]
   end
 
+  description = deploy["description"] || "Terminology definitions from the #{full_name} (#{ref})"
+  description_fra = deploy["description_fra"] || "Définitions de terminologie du #{full_name_fra} (#{ref})"
+
   dataset = {
     "id" => id,
     "uri" => edition["urn_prefix"],
@@ -55,11 +58,11 @@ def build_edition_dataset(edition)
     "localPath" => edition["dataset_path"],
     "ref" => ref,
     "title" => title,
-    "description" => "Terminology definitions from the #{full_name} (#{ref})",
+    "description" => description,
     "translations" => {
       "fra" => {
         "title" => title_fra,
-        "description" => "Définitions de terminologie du #{full_name_fra} (#{ref})",
+        "description" => description_fra,
       },
     },
     "owner" => owner,
