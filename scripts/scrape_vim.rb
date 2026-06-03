@@ -19,7 +19,7 @@
 #   ruby scripts/scrape_vim.rb [COMMAND]
 #
 # Commands:
-#   fetch    — download all pages to .vim-cache/
+#   fetch    — download all pages to reference-docs/
 #   build    — parse cached HTML, build Glossarist dataset
 #   about    — extract about pages from cached info.html
 #   all      — fetch + build + about (default if cache is empty)
@@ -32,7 +32,7 @@ require "yaml"
 require "securerandom"
 
 BASE_URL = "https://jcgm.bipm.org/vim"
-CACHE_DIR = File.join(File.dirname(__FILE__), "..", ".vim-cache")
+CACHE_DIR = File.join(File.dirname(__FILE__), "..", "reference-docs")
 OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/vim")
 
 DATASET_SOURCE = "urn:jcgm:pub:200:2012"
@@ -61,7 +61,7 @@ TERM_IDS = [
 # ═══════════════════════════════════════════════════════════════
 
 def cache_path(lang, page)
-  File.join(CACHE_DIR, lang, "#{page}.html")
+  File.join(CACHE_DIR, "vim-#{lang}", "#{page}.html")
 end
 
 def cached?(lang, page)
@@ -77,8 +77,8 @@ def fetch_page(url)
 end
 
 def fetch_all
-  FileUtils.mkdir_p(File.join(CACHE_DIR, "en"))
-  FileUtils.mkdir_p(File.join(CACHE_DIR, "fr"))
+  FileUtils.mkdir_p(File.join(CACHE_DIR, "vim-en"))
+  FileUtils.mkdir_p(File.join(CACHE_DIR, "vim-fr"))
 
   pages = TERM_IDS.flat_map { |tid| LANGUAGES.map { |l| [l, tid] } }
   pages += LANGUAGES.map { |l| [l, "info"] }

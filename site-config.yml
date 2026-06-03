@@ -1,84 +1,191 @@
+---
 id: viml
 domain: metanorma.github.io/oiml-viml
 uriBase: https://metanorma.github.io/oiml-viml
-basePath: /oiml-viml/
+basePath: "/oiml-viml/"
 title: OIML Vocabularies
 subtitle: International Vocabularies of Metrology
-description: Terminology from the International Vocabularies of Metrology published by OIML and JCGM
-
+description: Terminology from the International Vocabularies of Metrology published
+  by OIML and JCGM
 translations:
   fra:
     subtitle: Vocabulaires internationaux de métrologie
-    description: Terminologie des Vocabulaires internationaux de métrologie publiés par l'OIML et le JCGM
-
+    description: Terminologie des Vocabulaires internationaux de métrologie publiés
+      par l'OIML et le JCGM
 uiLanguages:
-  - code: eng
-    label: English
-  - code: fra
-    label: Français
-
+- code: eng
+  label: English
+- code: fra
+  label: Français
 datasets:
-  - id: viml
-    uri: "urn:oiml:pub:v:1:2022"
-    uriAliases:
-      - "urn:oiml:pub:v:1:2022*"
-    sourceRepo: https://github.com/metanorma/oiml-viml
-    localPath: datasets/viml
-    ref: "OIML V 1:2022"
-    title: "VIML — International Vocabulary of Legal Metrology"
-    description: "Terminology definitions from the International Vocabulary of Legal Metrology (OIML V 1:2022)"
-    translations:
-      fra:
-        title: "VIML — Vocabulaire international de métrologie légale"
-        description: "Définitions de terminologie du Vocabulaire international de métrologie légale (OIML V 1:2022)"
-    owner: OIML
-    color: "#004996"
-    tags: [metrology, legal, oiml, vocabulary]
-    languages: [eng, fra]
-    languageOrder: [eng, fra]
-
-  - id: vim
-    uri: "urn:jcgm:pub:200:2012"
-    uriAliases:
-      - "urn:jcgm:pub:200:2012*"
-    sourceRepo: https://github.com/metanorma/oiml-viml
-    localPath: datasets/vim
-    ref: "JCGM 200:2012"
-    title: "VIM — International Vocabulary of Metrology"
-    description: "Terminology definitions from the International Vocabulary of Metrology (JCGM 200:2012)"
-    translations:
-      fra:
-        title: "VIM — Vocabulaire international de métrologie"
-        description: "Définitions de terminologie du Vocabulaire international de métrologie (JCGM 200:2012)"
-    owner: JCGM
-    color: "#005A9C"
-    tags: [metrology, jcgm, vocabulary]
-    languages: [eng, fra]
-    languageOrder: [eng, fra]
-
+- id: viml-2022
+  uri: urn:oiml:pub:v:1:2022
+  uriAliases:
+  - urn:oiml:pub:v:1:2022*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/viml-2022
+  ref: OIML V 1:2022
+  title: VIML — International Vocabulary of Legal Metrology
+  description: Terminology definitions from the International Vocabulary of Legal
+    Metrology (OIML V 1:2022)
+  translations:
+    fra:
+      title: VIML — Vocabulaire international de métrologie légale
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        légale (OIML V 1:2022)
+  owner: OIML
+  color: "#004996"
+  tags:
+  - metrology
+  - legal
+  - oiml
+  - vocabulary
+  languages:
+  - eng
+  - fra
+  languageOrder:
+  - eng
+  - fra
+- id: viml-2013
+  uri: urn:oiml:pub:v:1:2013
+  uriAliases:
+  - urn:oiml:pub:v:1:2013*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/viml-2013
+  ref: OIML V 1:2013
+  title: VIML (2013)
+  description: Terminology definitions from the International Vocabulary of Legal
+    Metrology (OIML V 1:2013)
+  translations:
+    fra:
+      title: VIML (2013)
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        légale (OIML V 1:2013)
+  owner: OIML
+  color: "#6B7280"
+  tags:
+  - metrology
+  - legal
+  - oiml
+  - vocabulary
+  languages:
+  - eng
+  - fra
+  languageOrder:
+  - eng
+  - fra
+  editionStatus: superseded
+- id: viml-2000
+  uri: urn:oiml:pub:v:1:2000
+  uriAliases:
+  - urn:oiml:pub:v:1:2000*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/viml-2000
+  ref: OIML V 1:2000
+  title: VIML (2000)
+  description: Terminology definitions from the International Vocabulary of Legal
+    Metrology (OIML V 1:2000)
+  translations:
+    fra:
+      title: VIML (2000)
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        légale (OIML V 1:2000)
+  owner: OIML
+  color: "#9CA3AF"
+  tags:
+  - metrology
+  - legal
+  - oiml
+  - vocabulary
+  languages:
+  - eng
+  - fra
+  languageOrder:
+  - eng
+  - fra
+  editionStatus: superseded
+- id: viml-1968
+  uri: urn:oiml:pub:v:1:1968
+  uriAliases:
+  - urn:oiml:pub:v:1:1968*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/viml-1968
+  ref: OIML V 1:1968
+  title: VIML (1968)
+  description: Terminology definitions from the International Vocabulary of Legal
+    Metrology (OIML V 1:1968)
+  translations:
+    fra:
+      title: VIML (1968)
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        légale (OIML V 1:1968)
+  owner: OIML
+  color: "#D1D5DB"
+  tags:
+  - metrology
+  - legal
+  - oiml
+  - vocabulary
+  languages:
+  - fra
+  languageOrder:
+  - fra
+  editionStatus: superseded
+- id: vim
+  uri: urn:jcgm:pub:200:2012
+  uriAliases:
+  - urn:jcgm:pub:200:2012*
+  sourceRepo: https://github.com/metanorma/oiml-viml
+  localPath: datasets/vim
+  ref: JCGM 200:2012
+  refAliases:
+  - OIML V 2-200:2012
+  title: VIM — International Vocabulary of Metrology
+  description: Terminology definitions from the International Vocabulary of Metrology
+    (JCGM 200:2012)
+  translations:
+    fra:
+      title: VIM — Vocabulaire international de métrologie
+      description: Définitions de terminologie du Vocabulaire international de métrologie
+        (JCGM 200:2012)
+  owner: JCGM
+  color: "#005A9C"
+  tags:
+  - metrology
+  - jcgm
+  - vocabulary
+  languages:
+  - eng
+  - fra
+  languageOrder:
+  - eng
+  - fra
 routing: []
-
 branding:
   primaryColor: "#004996"
   darkColor: "#003366"
   fonts:
     header:
-      family: "Source Serif 4"
-      source: "google"
-      weights: [400, 600]
+      family: Source Serif 4
+      source: google
+      weights:
+      - 400
+      - 600
     body:
-      family: "Source Sans 3"
-      source: "google"
-      weights: [400, 500, 700]
+      family: Source Sans 3
+      source: google
+      weights:
+      - 400
+      - 500
+      - 700
   logo:
-    path: /logos/oiml-logo.svg
+    path: "/logos/oiml-logo.svg"
     alt: OIML
     localPath: logos/oiml-logo.svg
     localLight: logos/oiml-logo-icon-light.svg
     localDark: logos/oiml-logo-icon-dark.svg
   ownerName: OIML
-  ownerUrl: "https://www.oiml.org"
-
+  ownerUrl: https://www.oiml.org
 features:
   news: false
   stats: true
@@ -86,21 +193,18 @@ features:
   about: true
   search: true
   poweredBy:
-    title: "Glossarist"
-    url: "https://glossarist.org"
-
+    title: Glossarist
+    url: https://glossarist.org
 pages:
-  - type: about
-    route: about
-    title: About
-    icon: info
-    source: about.md
-    translations:
-      fra:
-        title: À propos
-        source: about-fra.md
-
+- type: about
+  route: about
+  title: About
+  icon: info
+  source: about.md
+  translations:
+    fra:
+      title: À propos
+      source: about-fra.md
 defaults:
   language: eng
-
-copyright: "OIML / JCGM"
+copyright: OIML / JCGM

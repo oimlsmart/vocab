@@ -8,7 +8,7 @@ require "nokogiri"
 require "yaml"
 
 CACHE_DIR = File.join(File.dirname(__FILE__), "..", ".viml-cache")
-OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/viml")
+OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/viml-2022")
 
 TERM_IDS = [
   *("0.01".."0.15").to_a,
