@@ -299,3 +299,26 @@ pages:
 defaults:
   language: eng
 copyright: OIML / JCGM
+datasetGroups:
+- id: viml
+  label: VIML — International Vocabulary of Legal Metrology
+  datasets:
+  - viml-2022
+  - viml-2013
+  - viml-2000
+  - viml-1968
+  color: "#004996"
+  translations:
+    fra:
+      label: VIML — Vocabulaire international de métrologie légale
+- id: vim
+  label: VIM — International Vocabulary of Metrology
+  datasets:
+  - vim-2012
+  - vim-2010
+  - vim-2007
+  - vim-1993
+  color: "#005A9C"
+  translations:
+    fra:
+      label: VIM — Vocabulaire international de métrologie

@@ -86,6 +86,41 @@ def generate_datasets
   editions.map { |e| build_edition_dataset(e) }
 end
 
+def generate_dataset_groups
+  editions = YAML.load_file(EDITIONS_PATH, permitted_classes: [Date], aliases: true)["editions"]
+
+  # Group editions by family prefix (viml-*, vim-* excluding viml-*)
+  families = editions.group_by { |e| edition_type(e) }
+
+  families.map do |type, family_editions|
+    ids = family_editions.map { |e| e["id"] }
+    current = family_editions.find { |e| e["status"] == "current" } || family_editions.first
+    deploy = current["deploy"] || {}
+
+    group = {
+      "id" => type.to_s,
+      "label" => deploy["title"] || current["id"],
+      "datasets" => ids,
+    }
+
+    if deploy["color"]
+      group["color"] = deploy["color"]
+    end
+
+    # Collect translations from the current edition's deploy section
+    translations = {}
+    deploy.each do |key, value|
+      if key =~ /\Atitle_(\w{3})\z/
+        lang = $1
+        translations[lang] = { "label" => value }
+      end
+    end
+    group["translations"] = translations unless translations.empty?
+
+    group
+  end
+end
+
 # ── Main ──
 
 datasets = generate_datasets
@@ -93,8 +128,9 @@ datasets = generate_datasets
 if ARGV.include?("--write")
   config = YAML.load_file(SITE_CONFIG_PATH, aliases: true)
   config["datasets"] = datasets
+  config["datasetGroups"] = generate_dataset_groups
   File.write(SITE_CONFIG_PATH, YAML.dump(config), encoding: "utf-8")
-  puts "Updated #{SITE_CONFIG_PATH} with #{datasets.size} datasets"
+  puts "Updated #{SITE_CONFIG_PATH} with #{datasets.size} datasets and #{config['datasetGroups'].size} groups"
 else
   puts "# Generated dataset entries from editions.yml"
   puts "# Run with --write to update site-config.yml"
