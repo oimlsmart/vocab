@@ -2,14 +2,14 @@
 data:
   identifier: '4.23'
   localized_concepts:
-    eng: 92873d6f-dbc6-4003-8a70-78a7c12b5716
-    fra: 59fabbd7-cdd5-4946-bb09-f98771b761c8
+    eng: f979cd9e-9f38-4065-b464-9696db5ec9f6
+    fra: 810238ca-fddd-4dab-8ab4-62f1d6bd346a
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 6f6c3456-1565-4604-9062-07ea26ec1343
+id: b4f1ea6f-17ec-49b6-a66d-f8e7c4d45855
 schema_version: '3'
 ---
 data:
@@ -31,7 +31,7 @@ data:
     designation: step response time
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 92873d6f-dbc6-4003-8a70-78a7c12b5716
+id: f979cd9e-9f38-4065-b464-9696db5ec9f6
 ---
 data:
   dates:
@@ -52,4 +52,4 @@ data:
     designation: temps de réponse à un échelon, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 59fabbd7-cdd5-4946-bb09-f98771b761c8
+id: 810238ca-fddd-4dab-8ab4-62f1d6bd346a

@@ -2,34 +2,86 @@
 data:
   identifier: '4.19'
   localized_concepts:
-    eng: b7a0bd15-4b19-477d-97b9-c73d946d73a2
+    eng: 11f7bc02-1673-4699-ab20-acb73c98593b
+    fra: 3de080dc-6cdb-4218-80b5-747a5df9f593
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: db129dfa-6a11-4c7a-8aa1-c31dd7fc97bc
+id: df40bf05-5281-4381-bf3c-31fcc5c3973d
 schema_version: '3'
 ---
 data:
   dates:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: étendue des indications, f ensemble des valeurs limité par les indications
-      extrêmes
+  definition: []
   examples: []
   id: 4.19-eng
   language_code: eng
   notes:
-  - content: Pour un affichage analogique, cet ensemble peut être appelé étendue d'échelle.
-      2  L'étendue des indications est exprimée en unité de l'affichage, quelle que
-      soit l'unité du mesurande, et est normalement spécifiée par ses limites inférieure
-      et supérieure, par exemple, 100 °Cà 200 °C. 3 Voir note de 5.2.
+  - content: 2 et préambule du
+  - content: '3'
+  - content: '2'
+  - content: 3 étalons, chaîne de raccordement aux  6. î 0  note 2 étalons, raccordement
+      aux  6.10  note 3 instrument. constante d'un 5.8 instrument de mesure  4.1 et
+      préambule du chapitre 4 instrument de mesure, a1ustage d'un  4.30 instrument
+      de mesure, calibrage d'un 4.29 ,nstrument de mesure, erreu1 au point de contrôle
+      d'un 5.22 instrument de mesure, erreur à zéro d'un  5.23 instrument de mesure,
+      erreur d'indication d'un  5.20 instrument de mesure, erreur intrinsèque d'un  5.24
+      instrument de mesure, erreur de justesse d'un  5.25 instrument de mesure, erreur
+      réduite conventionnelle d'un 5.28 instrument de mesure, erreurs maximales tolérées
+      d'un 5.21 instrument de mesure, exactitude d'un 5.18 instrument de mesure, fidélité
+      d'un  5.27 instrument de mesure, Justesse d'un  5.26 instrument de mesure, indication
+      d'un  3.2 instrument de mesure, limites d'erreur tolérées  5.21 instrument de
+      mesure, réglage d'un  4.31 intégrateur, appareil de mesure  4.9 international,
+      étalon 6.2 international, Système, d'unités, SI 1.12 intervalle de mesure 5.2
+      intrinsèque, erreur, d'un instrument de mesure  5.24 J justesse, erreur de,
+      d'un instrument de mesure  5.25 justesse d'un instrument de mesure  5.26 L mesure,
+      erreur de 3.10
+  - content: 2 mesure, étendue de  5.4 mesure, exactitude de 3.5 mesure, exactitude
+      d'un instrument de 5.18 mesure, incertitude de 3.9 mesure, indication d'un instrument
+      de 3.2
+  - content: 2 et préambule du chapitre 4 mesure, instrument de  4. î et préambule
+      du chapitre 4 mesure, instrument de, ajustage d'un  4.30 mesure, instrument
+      de, calibrage d'un  4.29 mesure, instrument de, erreur à zéro d'un  5.23 mesure,
+      instrument de, erreur d'indication d'un  5.20 mesure, instrument de, erreur
+      intrinsèque d'un  5.24 mesure, instrument de, erreur de justesse d'un  5.25
+      mesure, instrument de, erreur au point de contrôle d'un 5.22 mesure, instrument
+      de, erreur réduite conventionnelle d'un 5.28 mesure, instrument de, erreurs
+      maximales tolérées d'un 5.21 mesure, instrument de, exactitude d'un  5.18 mesure,
+      instrument de, fidélité d'un  5.27 mesure, instrument de, Justesse d'un  5.25
+      mesure, instrument de, limites d'erreur tolérées d'un 5.21 mesure, instrument
+      de, réglage d'un 4.31 mesure, intervalle de 5.2 limites, conditions 5.6 mesure
+      matérialisée mesure, méthode de 4.2 et préambule du chapitre 4
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(-&  4.21)"
+    designation: note 2.7
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: b7a0bd15-4b19-477d-97b9-c73d946d73a2
+id: 11f7bc02-1673-4699-ab20-acb73c98593b
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des valeurs limité par les indications extrêmes
+  examples: []
+  id: 4.19-fra
+  language_code: fra
+  notes:
+  - content: Pour un affichage analogique, cet ensemble peut être appelé étendue d'échelle.
+      2  L'étendue des indications est exprimée en unité de l'affichage, quelle que
+      soit l'unité du mesurande, et est normalement spécifiée par ses limites inférieure
+      et supérieure, par exemple, 100 °Cà 200 °C.
+  - content: de 5.2.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étendue des indications, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3de080dc-6cdb-4218-80b5-747a5df9f593

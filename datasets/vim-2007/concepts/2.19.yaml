@@ -2,14 +2,14 @@
 data:
   identifier: '2.19'
   localized_concepts:
-    eng: 78ed3570-b227-4adc-9be8-80a5627c4695
-    fra: 5f819525-1efe-4905-bd68-6108644af51f
+    eng: 93608d7b-e40d-4af5-9477-e16367fe15de
+    fra: c4c7815f-bbd2-4823-bcbd-2fe7eefc0fd8
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 8f6810a3-3e8c-402b-baad-25539ba9a3e2
+id: 8d2c83fe-07ad-484a-add9-853ff410f935
 schema_version: '3'
 ---
 data:
@@ -30,14 +30,14 @@ data:
       that can be summarized by its expectation, which is generally assumed to be
       zero, and its variance.
   - content: Random measurement error equals measurement error minus systematic measurement
-      error. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      error.
   terms:
   - type: expression
     normative_status: preferred
     designation: random measurement error
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 78ed3570-b227-4adc-9be8-80a5627c4695
+id: 93608d7b-e40d-4af5-9477-e16367fe15de
 ---
 data:
   dates:
@@ -56,11 +56,11 @@ data:
       distribution qui peut être résumée par son espérance mathématique, généralement
       supposée nulle, et par sa variance.
   - content: L'erreur aléatoire est égale à la différence entre l'erreur de mesure
-      et l'erreur systématique. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      et l'erreur systématique.
   terms:
   - type: expression
     normative_status: preferred
     designation: erreur aléatoire, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5f819525-1efe-4905-bd68-6108644af51f
+id: c4c7815f-bbd2-4823-bcbd-2fe7eefc0fd8

@@ -2,14 +2,14 @@
 data:
   identifier: '4.31'
   localized_concepts:
-    eng: 1e18cd2b-6e65-4f9d-96c4-d09f985bace1
-    fra: 6a675d1e-08ca-42a3-98e3-8a4eedfd501f
+    eng: 0d8d5fc7-9bf1-4bc9-97d0-023dd8ada327
+    fra: be357c62-2e35-4686-b879-fa1b6be5eec7
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 4980f563-7f03-4ea8-b28a-118b0f73b7a9
+id: f7766a72-df2d-400e-9baf-b633118c540e
 schema_version: '3'
 ---
 data:
@@ -20,7 +20,7 @@ data:
   - content: expression of the relation between indication and corresponding measured
       quantity value Note A calibration curve expresses a one-to-one relation that
       does not supply a measurement result as it bears no information about the measurement
-      uncertainty. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      uncertainty.
   examples: []
   id: 4.31-eng
   language_code: eng
@@ -31,18 +31,17 @@ data:
     designation: calibration curve
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1e18cd2b-6e65-4f9d-96c4-d09f985bace1
+id: 0d8d5fc7-9bf1-4bc9-97d0-023dd8ada327
 ---
 data:
   dates:
   - date: '2010-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'expression de la relation entre une indication et la valeur mesurée
-      correspondante Note Une courbe d''étalonnage exprime une relation biunivoque
-      qui ne fournit pas un résultat de mesure puisqu’elle ne contient aucune information
-      sur l’incertitude de mesure _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Chapter 5: Measurement standards (Etalons)'
+  - content: expression de la relation entre une indication et la valeur mesurée correspondante
+      Note Une courbe d'étalonnage exprime une relation biunivoque qui ne fournit
+      pas un résultat de mesure puisqu’elle ne contient aucune information sur l’incertitude
+      de mesure
   examples: []
   id: 4.31-fra
   language_code: fra
@@ -53,4 +52,4 @@ data:
     designation: courbe d’étalonnage, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6a675d1e-08ca-42a3-98e3-8a4eedfd501f
+id: be357c62-2e35-4686-b879-fa1b6be5eec7

@@ -2,14 +2,14 @@
 data:
   identifier: '2.29'
   localized_concepts:
-    eng: ecd2ffe7-f5a5-463c-96fe-22b9b360d2e9
-    fra: bb4d186e-af07-42a6-85ea-5fd1bcbd0592
+    eng: 9b024f69-cc39-4b13-8306-6eba6dd41cbe
+    fra: d5040aef-18b6-485c-9a0b-bbf1345832c1
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: b4fb5ccf-ee48-4e5f-9d5b-1ff67647e3dc
+id: f76ecd13-9a02-4ba6-96ff-db17df119292
 schema_version: '3'
 ---
 data:
@@ -37,7 +37,7 @@ data:
     designation: Type B evaluation
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: ecd2ffe7-f5a5-463c-96fe-22b9b360d2e9
+id: 9b024f69-cc39-4b13-8306-6eba6dd41cbe
 ---
 data:
   dates:
@@ -45,13 +45,14 @@ data:
     type: accepted
   definition:
   - content: évaluation d'une composante de l'incertitude de mesure par d'autres moyens
-      qu'une évaluation de type A de l'incertitude EXEMPLES Évaluation fondée sur
-      des informations • associées à des valeurs publiées faisant autorité, • associés
-      à la valeur d'un matériau de référence certifié, • obtenues à partir d'un certificat
-      d'étalonnage, • concernant la dérive, • obtenues à partir de la classe d'exactitude
-      d'un instrument de mesure vérifié, • obtenues à partir de limites déduites de
-      l'expérience personnelle. Note Voir aussi le GUM, 2.3.3.
-  examples: []
+      qu'une évaluation de type A de l'incertitude
+  examples:
+  - content: Évaluation fondée sur des informations • associées à des valeurs publiées
+      faisant autorité, • associés à la valeur d'un matériau de référence certifié,
+      • obtenues à partir d'un certificat d'étalonnage, • concernant la dérive, •
+      obtenues à partir de la classe d'exactitude d'un instrument de mesure vérifié,
+      • obtenues à partir de limites déduites de l'expérience personnelle. Note Voir
+      aussi le GUM, 2.3.3.
   id: 2.29-fra
   language_code: fra
   notes: []
@@ -64,4 +65,4 @@ data:
     designation: évaluation de type B, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: bb4d186e-af07-42a6-85ea-5fd1bcbd0592
+id: d5040aef-18b6-485c-9a0b-bbf1345832c1

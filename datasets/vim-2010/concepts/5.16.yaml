@@ -2,14 +2,14 @@
 data:
   identifier: '5.16'
   localized_concepts:
-    eng: 6e7481e1-a7d4-4d67-9e1d-634ced7c1c78
-    fra: '09909adf-4214-45f9-a31a-b27a0bdf6752'
+    eng: a9120247-4c36-437e-b3b6-3c9b7a3474dc
+    fra: c0194a36-154f-4402-b1ca-a04c810dcf1f
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 28df13b8-dccf-438d-be1e-a741f6a7151c
+id: 45e1064b-dd60-40e1-b4a8-5efec50b0547
 schema_version: '3'
 ---
 data:
@@ -29,14 +29,14 @@ data:
   - content: In this definition ‘accuracy’ covers, for example, measurement accuracy
       and ‘accuracy of a nominal property value’.
   - content: "“Data” is a plural form, “datum” is the singular. “Data” is commonly
-      used in the singular sense, instead of “datum”. _________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+      used in the singular sense, instead of “datum”."
   terms:
   - type: expression
     normative_status: preferred
     designation: reference data
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6e7481e1-a7d4-4d67-9e1d-634ced7c1c78
+id: a9120247-4c36-437e-b3b6-3c9b7a3474dc
 ---
 data:
   dates:
@@ -46,9 +46,9 @@ data:
   - content: donnée liée à une propriété d'un phénomène, d'un corps ou d'une substance,
       ou à un système de constituants de composition ou de structure connue, obtenue
       à partir d'une source identifiée, évaluée de façon critique et vérifiée en exactitude
-      EXEMPLE Données de référence relatives à la solubilité de composés chimiques,
+  examples:
+  - content: Données de référence relatives à la solubilité de composés chimiques,
       publiées par l’IUPAC.
-  examples: []
   id: 5.16-fra
   language_code: fra
   notes:
@@ -56,11 +56,11 @@ data:
       de mesure, soit l' « exactitude de la valeur d'une propriété qualitative ».
   - content: En anglais, « data » est une forme plurielle dont le singulier est «
       datum ». « Data » est couramment utilisé au sens singulier à la place de « datum
-      ». _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      ».
   terms:
   - type: expression
     normative_status: preferred
     designation: donnée de référence, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: '09909adf-4214-45f9-a31a-b27a0bdf6752'
+id: c0194a36-154f-4402-b1ca-a04c810dcf1f

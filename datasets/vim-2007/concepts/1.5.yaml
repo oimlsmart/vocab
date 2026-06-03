@@ -2,14 +2,14 @@
 data:
   identifier: '1.5'
   localized_concepts:
-    eng: d873f007-ea6c-4fd7-be8a-a559efed8f68
-    fra: 378770c5-f838-4a18-a4fa-eea664d5ed64
+    eng: 6164558b-e33f-46d0-b2ec-0fade0c5cb9f
+    fra: 075ad0f2-dde2-4183-a8cc-ba9441caab9c
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: afc54e13-9380-4a92-be89-ce0efb167cd3
+id: 4c84349e-19ae-489f-870d-83865c3dfed7
 schema_version: '3'
 ---
 data:
@@ -32,7 +32,7 @@ data:
     designation: derived quantity
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: d873f007-ea6c-4fd7-be8a-a559efed8f68
+id: 6164558b-e33f-46d0-b2ec-0fade0c5cb9f
 ---
 data:
   dates:
@@ -40,10 +40,11 @@ data:
     type: accepted
   definition:
   - content: grandeur définie, dans un système de grandeurs, en fonction des grandeurs
-      de base de ce système EXEMPLE Dans un système de grandeurs ayant pour grandeurs
-      de base la longueur et la masse, la masse volumique est une grandeur dérivée
-      définie comme le quotient d'une masse par un volume (longueur au cube).
-  examples: []
+      de base de ce système
+  examples:
+  - content: Dans un système de grandeurs ayant pour grandeurs de base la longueur
+      et la masse, la masse volumique est une grandeur dérivée définie comme le quotient
+      d'une masse par un volume (longueur au cube).
   id: 1.5-fra
   language_code: fra
   notes: []
@@ -53,4 +54,4 @@ data:
     designation: grandeur dérivée, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 378770c5-f838-4a18-a4fa-eea664d5ed64
+id: 075ad0f2-dde2-4183-a8cc-ba9441caab9c

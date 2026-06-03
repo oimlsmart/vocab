@@ -2,13 +2,14 @@
 data:
   identifier: '1.11'
   localized_concepts:
-    eng: 7f9ae705-4973-4623-899d-bd8e19cad56c
+    eng: 0d5acf09-afdc-4337-95d6-10007e8baa52
+    fra: 7af73089-7280-484b-b626-781e13d354a2
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: efcc3efa-d873-443d-96d8-159747ebf9ad
+id: 9ff32898-d44e-48fb-8d7e-7583a04453d6
 schema_version: '3'
 ---
 data:
@@ -16,11 +17,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'système cohérent d''unités (de mesure), m système d''unités de mesure
-      dans lequel toutes les unités de mesure sont cohérentes EXEMPLE Les unités suivantes
-      (expnmees par leurs symboles) font partie du système cohérent d''unités de la
-      mécanique dans le Système international d''unités. SI: m; kg; s; m2; m3; Hz=s-1;
-      m-s-1; m-s-2; kg-m-3; N=kg-m-s-2; Pa=kg-m-î.s-2; J=kg-m2-s-2: W=kg-m2-s-3.'
+  - content: 'system of units of measurement in which all of the derived units are
+      coherent EXAMPLE The  following  units  (expressed  by  their symbols) form
+      part of the coherent system of units in mechanics within the International System
+      of Units, SI: m; kg; s; m2; m3; Hz=s-1; m-s-1; m-s-2; kg-m-3; N=kg-m-s-2; Pa=kg-m-1.s-2;
+      J=kg-m2-s-2; W=kg-m2,s-3.'
   examples: []
   id: 1.11-eng
   language_code: eng
@@ -28,7 +29,29 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(1.09)"
+    designation: coherent system of units (of measurement)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7f9ae705-4973-4623-899d-bd8e19cad56c
+id: 0d5acf09-afdc-4337-95d6-10007e8baa52
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'système d''unités de mesure dans lequel toutes les unités de mesure
+      sont cohérentes EXEMPLE Les unités suivantes (expnmees par leurs symboles) font
+      partie du système cohérent d''unités de la mécanique dans le Système international
+      d''unités. SI: m; kg; s; m2; m3; Hz=s-1; m-s-1; m-s-2; kg-m-3; N=kg-m-s-2; Pa=kg-m-î.s-2;
+      J=kg-m2-s-2: W=kg-m2-s-3.'
+  examples: []
+  id: 1.11-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système cohérent d'unités (de mesure), m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7af73089-7280-484b-b626-781e13d354a2

@@ -2,14 +2,14 @@
 data:
   identifier: '5.2'
   localized_concepts:
-    eng: a5bb3510-fdd5-4a45-8e06-804f4d7d1743
-    fra: 3775d15e-a068-44c8-93cc-a6fd45e68967
+    eng: '0286b65d-b5bc-4076-a922-deab458f301d'
+    fra: d45e7564-3de6-4503-866e-ae1c5e010705
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 00a3b58a-921c-48be-8e66-4a23c8ddbc23
+id: f03af3c0-6d48-4be4-9b82-d6f99bc7c3ec
 schema_version: '3'
 ---
 data:
@@ -17,55 +17,46 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: modulus of the difference between the two limits of a nominal range EXAMPLE  for
-      a nominal range of -10 V to +10 V, the span is 20 V.
+  - content: modulus of the difference between the two limits of a nominal range
   examples: []
   id: 5.2-eng
   language_code: eng
   notes:
-  - content: ln some fields of knowledge, the difference between the greatest and
-      smallest values Is called range. Certains des termes définis dans ce chapitre
-      sont applicables aussi bien à un appareil de mesure,  à  un  dispositif  de  mesure,  à  un
-      transducteur de mesure ou à un système de mesure  et,  par  analogie,  à  une  mesure
-      matérialisée ou à un matériau de référence. Pour cette raison, le terme «instrument
-      de mesure» s'entend ici comme terme générique couvrant toutes ces acceptions
-      possibles. Le signal d'entrée d'un système de mesure peut être appelé stimulus,
-      en anglais, et le signal de sortie peut être appelé réponse. Dans ce chapitre,
-      on désigne par «mesurande)) la  grandeur  appliquée  à  un  instrument  de mesure.
+  - content: for a nominal range of -10 V to +10 V, the span is 20 V. NOTE   ln some
+      fields of knowledge, the difference between the greatest and smallest values
+      Is called range. Certains des termes définis dans ce chapitre sont applicables
+      aussi bien à un appareil de mesure,  à  un  dispositif  de  mesure,  à  un transducteur
+      de mesure ou à un système de mesure  et,  par  analogie,  à  une  mesure matérialisée
+      ou à un matériau de référence. Pour cette raison, le terme «instrument de mesure»
+      s'entend ici comme terme générique couvrant toutes ces acceptions possibles.
+      Le signal d'entrée d'un système de mesure peut être appelé stimulus, en anglais,
+      et le signal de sortie peut être appelé réponse. Dans ce chapitre, on désigne
+      par «mesurande)) la  grandeur  appliquée  à  un  instrument  de mesure.
   terms:
   - type: expression
     normative_status: preferred
     designation: span
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: a5bb3510-fdd5-4a45-8e06-804f4d7d1743
+id: '0286b65d-b5bc-4076-a922-deab458f301d'
 ---
 data:
   dates:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: module de la différence entre :es deux limites d'une étendue EXEMPLE  peur
-      un calibre de -10 V à +10 V, l'intervalle de mesure est 20 V.
-  examples:
-  - content: 100 Q as the value marked on a standard resistor; 1 L as the value marked
-      on a single-mark volumetric flask; 0,1 mol/L as the amount-of-substance concentration
-      of a solution of hydrogen chloride, HCI; 25 °C as the set point of a thermostatically
-      controlled bath. 100 Q as the value marked on a standard resistor; 1 L as the
-      value marked on a single-mark volumetric flask; 0,1 mol/L as the amount-of-substance
-      concentration of a solution of hydrogen chloride, HCI; 25 °C as the set point
-      of a thermostatically controlled bath.
+  - content: module de la différence entre :es deux limites d'une étendue
+  examples: []
   id: 5.2-fra
   language_code: fra
   notes:
-  - content: Dans certains domaines scientifiques, la diffé-rence entre la pius grande
-      et la plus petite valeur est appelée étendue. 5.3 nominal value rounded or approximate
-      value of a characteristic of a measuring instrument that provides a guide toits
-      use
+  - content: peur un calibre de -10 V à +10 V, l'intervalle de mesure est 20 V. NOTE   Dans
+      certains domaines scientifiques, la diffé-rence entre la pius grande et la plus
+      petite valeur est appelée étendue.
   terms:
   - type: expression
     normative_status: preferred
     designation: intervalle de mesure, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3775d15e-a068-44c8-93cc-a6fd45e68967
+id: d45e7564-3de6-4503-866e-ae1c5e010705

@@ -2,13 +2,14 @@
 data:
   identifier: '6.2'
   localized_concepts:
-    eng: 1c35233d-33e1-40ae-a81a-b00afd5c41f2
+    eng: a830d529-ee29-4a51-92b6-d357f49dc6ec
+    fra: 63279b85-011a-42b5-bcd0-4ed678521c05
   domains:
   - concept_id: section-6
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 76027094-e7b8-4033-bb66-560dbb108de2
+id: 68816f13-a57b-49c0-9bac-f4ea0f05b64c
 schema_version: '3'
 ---
 data:
@@ -16,11 +17,8 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: étalon international, m étalon reconnu par un accord international pour
-      servir de base internationale à l'attribution de valeurs  aux  autres  étalons  de  la  grandeur
-      concernée 6.3 (6.07) étalon national, m étalon reconnu par une décision nationale,
-      dans un pays, pour servir de base à l'attribution de valeurs  aux  autres  étalons  de  la  grandeur
-      concernée
+  - content: standard  recognized  by  an  international agreement to serve internationally
+      as the basis for assigning values to other standards of the quantity concerned
   examples: []
   id: 6.2-eng
   language_code: eng
@@ -28,7 +26,26 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(6.06)"
+    designation: international (measurement) standard
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1c35233d-33e1-40ae-a81a-b00afd5c41f2
+id: a830d529-ee29-4a51-92b6-d357f49dc6ec
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon reconnu par un accord international pour servir de base internationale
+      à l'attribution de valeurs  aux  autres  étalons  de  la  grandeur concernée
+  examples: []
+  id: 6.2-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon international, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 63279b85-011a-42b5-bcd0-4ed678521c05

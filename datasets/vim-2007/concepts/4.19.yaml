@@ -2,14 +2,14 @@
 data:
   identifier: '4.19'
   localized_concepts:
-    eng: 1f802134-56a1-4acf-9e0c-9a2ce9584339
-    fra: bd526f27-abe0-499f-9d27-4c13ac918396
+    eng: 3b9c5eb2-6bea-4a52-9cc2-e07dcfe5dc47
+    fra: 770a9467-ddd9-446f-b0b3-ac730a01ec29
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: d78c3ad1-413d-4b85-8fb0-ad36a9ee7269
+id: dac92737-8b90-49f5-b28b-3fa0e036e32f
 schema_version: '3'
 ---
 data:
@@ -35,7 +35,7 @@ data:
     designation: stability
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1f802134-56a1-4acf-9e0c-9a2ce9584339
+id: 3b9c5eb2-6bea-4a52-9cc2-e07dcfe5dc47
 ---
 data:
   dates:
@@ -45,10 +45,10 @@ data:
   - content: propriété d'un instrument de mesure selon laquelle celui-ci conserve
       ses propriétés métrologiques constantes au cours du temps Note La stabilité
       d'un instrument de mesure peut être exprimée quantitativement de plusieurs façons.
-      EXEMPLES a) Par la durée d'un intervalle de temps au cours duquel une propriété
+  examples:
+  - content: a) Par la durée d'un intervalle de temps au cours duquel une propriété
       métrologique évolue d'une quantité donnée. b) Par la variation d'une propriété
       au cours d'un intervalle de temps déterminé.
-  examples: []
   id: 4.19-fra
   language_code: fra
   notes: []
@@ -61,4 +61,4 @@ data:
     designation: constance, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: bd526f27-abe0-499f-9d27-4c13ac918396
+id: 770a9467-ddd9-446f-b0b3-ac730a01ec29

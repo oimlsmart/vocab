@@ -2,13 +2,14 @@
 data:
   identifier: '4.14'
   localized_concepts:
-    eng: ec00c719-8250-4c13-b091-0f93b1078073
+    eng: af9f5c7e-fd5c-4f60-b6b6-9d6f02e8770f
+    fra: 8caa1e1c-5172-492f-9f5a-54fd46520d35
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 72fd9da4-9781-40b8-a285-d3efdcad10c9
+id: 23a8ed93-70b6-45a7-a68a-4efd2ad19d6c
 schema_version: '3'
 ---
 data:
@@ -16,22 +17,48 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: capteur, m élément d'un appareil de mesure ou d'une chaîne de mesure
-      qui est directement soumis à l'action du mesurande EXEMPLES soudure de mesure
-      d'un thermomètre thermoélectri-que; rotor d'un débitmètre à turbine; tube de
-      Bourdon d'un manomètre; fiotteur d'un appareil de mesure de niveau; récepteur
-      photoélectrique d'un spectrophotomètre. soudure de mesure d'un thermomètre thermoélectri-que;
-      rotor d'un débitmètre à turbine; tube de Bourdon d'un manomètre; fiotteur d'un
-      appareil de mesure de niveau; récepteur photoélectrique d'un spectrophotomètre.
-  examples: []
+  - content: element  of  a  measuring  instrument  or measuring chain that is directly
+      affected by the measurand
+  examples:
+  - content: measuring junction of a thermoelectric thermometer; rotor of a turbine
+      flow meter; Bourdon tube of a pressure gauge; float of a level-measuring instrument;
+      photocell of a spectrophotometer. measuring junction of a thermoelectric thermometer;
+      rotor of a turbine flow meter; Bourdon tube of a pressure gauge; float of a
+      level-measuring instrument; photocell of a spectrophotometer.
   id: 4.14-eng
   language_code: eng
+  notes:
+  - content: ln some fields the term "detector" is used for this concept.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensor
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: af9f5c7e-fd5c-4f60-b6b6-9d6f02e8770f
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: élément d'un appareil de mesure ou d'une chaîne de mesure qui est directement
+      soumis à l'action du mesurande
+  examples:
+  - content: soudure de mesure d'un thermomètre thermoélectri-que; rotor d'un débitmètre
+      à turbine; tube de Bourdon d'un manomètre; fiotteur d'un appareil de mesure
+      de niveau; récepteur photoélectrique d'un spectrophotomètre. soudure de mesure
+      d'un thermomètre thermoélectri-que; rotor d'un débitmètre à turbine; tube de
+      Bourdon d'un manomètre; fiotteur d'un appareil de mesure de niveau; récepteur
+      photoélectrique d'un spectrophotomètre.
+  id: 4.14-fra
+  language_code: fra
   notes:
   - content: Dans certains domaines, le terme «détecteur» est utilisé pour ce concept.
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(4.15)"
+    designation: capteur, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: ec00c719-8250-4c13-b091-0f93b1078073
+id: 8caa1e1c-5172-492f-9f5a-54fd46520d35

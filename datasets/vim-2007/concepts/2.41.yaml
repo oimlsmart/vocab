@@ -2,14 +2,14 @@
 data:
   identifier: '2.41'
   localized_concepts:
-    eng: feeaa2c5-95d1-454b-9c9a-80f0f7fa4412
-    fra: acd7dfda-8c63-4f04-ba2d-ae9d0112de85
+    eng: 67a02279-09f4-4e56-a013-f536ba129c81
+    fra: d907c66b-4650-4dab-8586-954e7687dfa3
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 55e03a48-9f85-491a-ab7b-51b6420bc5d5
+id: 21aaf5d5-8c35-4317-a035-7eaff14d7cd2
 schema_version: '3'
 ---
 data:
@@ -60,7 +60,7 @@ data:
     designation: metrological traceability
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: feeaa2c5-95d1-454b-9c9a-80f0f7fa4412
+id: 67a02279-09f4-4e56-a013-f536ba129c81
 ---
 data:
   dates:
@@ -110,4 +110,4 @@ data:
     designation: traçabilité métrologique, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: acd7dfda-8c63-4f04-ba2d-ae9d0112de85
+id: d907c66b-4650-4dab-8586-954e7687dfa3

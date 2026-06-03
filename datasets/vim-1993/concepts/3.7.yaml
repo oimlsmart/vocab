@@ -2,44 +2,160 @@
 data:
   identifier: '3.7'
   localized_concepts:
-    eng: d2a29b70-79d8-41ea-962c-6494e967b707
-    fra: 6ef82aea-887f-4f1d-a772-03af96732e46
+    eng: 143bb108-293c-477a-836c-efe837a564f2
+    fra: 8083fd1d-2cc9-4602-bd10-bfa5ff9c5505
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 28b8d4bd-1dcf-4b30-983b-7c05bb6a892b
+id: 9703ef84-47e2-4ef7-b935-deebaf61afec
 schema_version: '3'
 ---
 data:
   dates:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: closeness of the agreement between the results of  measurements  of  the  same  measurand
-      carried out under changed conditions of measure-ment
+  definition: []
   examples: []
   id: 3.7-eng
   language_code: eng
   notes:
-  - content: A valid statement of reproducibility requ1res specifi-cation of the conditions
-      changed. The changed conditions may include principle of measurement method
-      of measurement observermeasuring instrument reference standard locationconditions
-      of use time. Reproducibility may be expressed quantitatively in terms of the
-      dispersion characteristics of the results. Results are here usually understood
-      ta be corrected results. The changed conditions may include principle of measurement
-      method of measurement observer measuring instrument reference standard location
-      conditions of use time. Reproducibility may be expressed quantitatively in terms
-      of the dispersion characteristics of the results. Results are here usually understood
-      ta be corrected results.
+  - content: "&  Ch 5: Preamble response characteristic  5.9 response time 5.17 result,
+      corrected 3.4 result of a measurement 3.1 result, uncorrected 3.3 results of
+      measurements, repeatability of  3.6 results of measurements, reproduc1bility
+      of 3.7 s"
+  - content: 2 scale, conventional reference  1.22 scale division 4.20 scale, expanded
+      4.26 scale inteNal 4.22 scale length 4.18 scale, linear 4.23
+  - content: scale mark  4.17  Note scale of a measuring instrument  4.17 scale, nonlinear  4.24
+      scale numbering 4.28
+  - content: 1 scale, reference, conventional  1.22 scale, reference-value 1.22
+  - content: scale spacing 4.21
+  - content: scale, suppressed-zero 4.25 secondary standard 6.5
+  - content: 3 sensItIvIty 5.10 sensor 4.14 SI, International System of Units  1.12
+      signal, measurement  2.8 spacing, scale 4.21 span 5.2
+  - content: stability  5.14
+  - content: '2'
+  - content: 1 standard deviaton, experimental  3.8
+  - content: '2'
+  - content: '3 standard, group  6.1  Note 2 standard, measurement 6.1 standard, measurement,
+      conservation of a  6.12 standard, measurement, international  6.2 standard,
+      measurement, national  6.3 standard, primary 6.4 standard, reference 6.6 standard,
+      secondary 6.5 standard, transfer 6.8 standard, travelling 6.9 standard, working
+      6.7 stimulus  2.8  Note  &  Ch 5: Preamble submultiple of a unit of measurement  1.17
+      substitution method  2.4  Note'
+  - content: suppressed-zero scale  4.25
+  - content: '4 system, measuring  4.5 & Ch 4: Preamble system of quantities  1.2
+      system of units of measurement  1.9 System of Units, International, SI  1.12
+      system of units of measurement, coherent  1.11 systematic error  3.14 T threshold,
+      discrimination 5.11 time, response 5.17 totalizing measuring instrument  4.8
+      traceability  6.10'
+  - content: '2'
+  - content: '1 transducer, measuring  4.3  &  Ch 4:  Preamble transfer device  6.8  Note
+      transfer standard 6.8 transformed value of a measurand  2.9 transparency  5.15
+      travelling standard 6.9 true value of a quantity 1.19 true value of a quantity,
+      conventional 1.20 u uncertainty of measurement  3.9 uncorrected result  3.3
+      unit of measurement  1.7 unit of measurement, base 1.13 unit of measurement,
+      coherent derived  1.10 unit of measurement, derived  1.14 unit of measurement,
+      multiple of a  1 .16 unit of measurement, off-system  1.15 unit of measurement,
+      subrnultiple of a  1.17 unit of rneasurernent, syrnbol of a  1.8 Units, International,
+      SI, System of  1.12 units of measurement, coherent system of  1.11 units of
+      measurement, system of  1.9 user adjustment of a measuring instrument  4.31
+      V'
+  - content: 1 value, conventional  1.20  Note 1 value of error, absolute  3.10  Note
+      2 value, fiducial  5.28  Note value, nominal 5.3 value of a measurand, transformed  2.9
+      value of a quantity  1.18 value of a quantity, conventional true  1.20 value
+      of a quantity, numerical  1.21 value of a quantity, true  1.19 values, rated  5.5  Note
+  - content: 1 values, reference  5.7  Note value, transformed, of a measurand 2.9
+      w working range 5.4 working standard 6.7 z zero error of a measuring instrument
+      5.23 A
+  - content: 2 chaîne de raccordement aux étalons chiffraison d'une échelle  4.28
+      classe d'exactitude  5.19
+  - content: '2'
+  - content: 2 affichage analogique  4.12  note 2 affichage, appareil de mesure à,
+      analogique  4.10 affichage, appareil de mesure à, numérique  4.11 affichage,
+      dispositif d'  4.12
+  - content: 2 affichage semi-numérique  4.12  note 3 afficheur, appareil de mesure  4.6
+      afficheur, résolution d'un dispositif  5.12 aiustage d'un instrument de mesure  4.30
+      aléatoire, erreur  3.13
+  - content: 1 et 4.7  note 1
+  - content: 2 analogique, appareil de mesure à affichage  4.1o appareil de mesure  4.1
+      et préambule du chapitre 4 appareil de mesure à affichage analogique  4.10 appareil
+      de mesure à affichage numérique  4.11 appareil de mesure afficheur  4.6 appareil
+      de mesure, échelle d'un  4.17 appareil de mesure enregistreur  4.7 appareil
+      de mesure indicateur  4.6 appareil de mesure intégrateur  4.9 appareil de mesure
+      totalisateur  4.8 appareillage  préambule du chapitre 4 assignée, valeur  1.20  note
+      1 assignées, conditions de fonctionnement 5.5 assignées, valeurs 5.5 note B
+      base, grandeur de 1.3 base, unité de mesure de 1.13 brut, résultat 3.3 C cadran
+      4.27 calibrage d'un instrument de mesure 4.29 calibre  5.1 capteur 4.14
+  - content: 3 certificat d'étalonnage  6.11  note 3 certifié, matériau de référence,
+      (MRC)  6.14 chaîne d'étalonnage  6.10  note 2 chaîne de mesure  4.4 et     du
+      �h~-·"~ 4 classe, indice de 5.19 note cohérent, système d'unités de mesure  1.11
+      cohérente, unité de mesure dérivée  1.10 collectif, étalon  6.1  note 1 composant  préambule
+      du chapitre 4 conditions assignées de fonctionnement 5.5 conditions limites
+      5.6 conditions de référence  5.7 conditions de répétabilité  3.6  note 1 conservation
+      d'un étalon  6.12 constance  5.14 constante d'un instrument  5.8 contrôle, erreur
+      au point de, d'un instrument de mesure  5.22
+  - content: 2 conventionnelle, erreur réduite, d'un instrument de mesure  5.28 conventionnelle,
+      valeur  5.28  note conventionnellement vraie, valeur d'une grandeur  1.20 convenue,
+      valeur  1.20  note 1 correction 3.15 correction, facteur de 3.16 corrigé, résultat
+      3.4 D décalé, échelle à zéro 4.25 dérive 5.16 dérivée, grandeur  1.4 dérivée,
+      unité de mesure 1.14 dérivée, unité de mesure, cohérente  1.10 détecteur  4.15
+      détection, seuil de  4.15  note 1 différentielle, méthode  2.4  note dilatée,
+      échelle  4.26 dimension d'une grandeur  1.5 dimension, grandeur sans  1.6 dimension
+      un, grandeur de  1.6 directe, indication  3.2  note 1 discrétion 5.15 dispositif
+      d'affichage 4.12 dispositif afficheur, résolution d'un 5.12 dispositif enregistreur  4.13
+      dispositif indicateur  4.12 dispositif de mesure préambule du chapitre 4 dispositif
+      de transfert  6.8 note division 4.20 division d'échelle, longueur d'une 4.21
+      division, valeur d'une, d'échelle 4.22 E écart 3.11 écart-type expérimental
+      3.8
+  - content: 2 échelle à zéro décalé 4.25 échelle, chiffraison d'une 4.28 échelle
+      dilatée 4.26
+  - content: 1 échelle linéaire 4.23
+  - content: échelle, longueur d'  4.18 échelle, longueur d'une division d'  4.21
+      échelle non-linéaire  4.24 échelle quadratique  4.24  note échelle régulière  4.23  note
+      échelle de repérage  1.22 échelle, valeur d'une division d' 4.22 échelon 4.22
+      élément  préambule du chapitre 4 enregistreur, appareil de mesure  4.7 enregistreur,
+      dispositif  4.13 équipement  préambule du chapitre 4
+  - content: 2 erreur aléatoire  3.13 erreur à zéro d'un instrument de mesure  5.23
+      erreur d'indication d'un instrument de mesure  5.20 erreur intrinsèque d'un
+      instrument de mesure  5.24 erreur de justesse d'un instrument de mesure  5.25
+      erreur, limites d', tolérées d'un instrument de mesure 5.21 erreur de mesure
+      3.10
+  - content: 3 erreur au point de contrôle d'un instrument de mesure  5.22 erreur
+      réduite conventionnelle d'un instrument de mesure  5.28 erreur relative 3.12
+      erreur systématique  3.14 erreur, valeur absolue de I'  3.10  note 2 erreurs
+      maximales tolérées d'un instrument de mesure 5.21
+  - content: 1 étalon 6.1 étalon collectif  6.1  ncte 1 étalon, conservation d'un  6.12
+      étalon de contrôle  6.7  note 2 étalon international 6.2 étalon national 6.3
+      étalon primaire 6.4 étalon de référence 6.6
+  - content: 2 étendue 5.2 note étendue d'échelle  4.19  note 1 étendue des indications  4.19
+      étendue de mesure  5.4
+  - content: exactitude, classe d'  5.19 exactitude d'un instrument de mesure  5.18
+      exactitude de mesure  3.5 expérimental, écart-type 3.8
+  - content: 2 F facteur de correction 3.16 fidélité d'un instrument de mesure  5.27
+      fonctionnement, conditions assignées de  5.5 fournie, grandeur  4.2  note G
+      grandeur de base  1.3 grandeur dérivée  1.4 grandeur, dimension d'une  1.5 grandeur
+      de dimension un  1.6 grandeur fournie  4.2  note grandeur d'influence  2.7 grandeur
+      mesurable  1.1 grandeur particulière  1.1  note 1 grandeur sans dimension  1.6
+      grandeur, valeur d'une  1.18 grandeur, valeur conventionnellement vraie d'une
+      1.20 grandeur, valeur numérique d'une  1.21 grandeur, valeur vraie d'une  1.19
+      grandeurs, catégorie de  1.1  note 3 grandeurs de mème nature  1.1  note 2 grandeurs,
+      symboles de  1.1  note 4 grandeurs, système de  1.2 H hors système, unité de
+      mesure 1.15 incertitude de mesure 3.9 index 4.16 indicateur, appareil de mesure  4.6
+      indicateur, dispositif  4.12
+  - content: 1 indication, erreur d', d'un instrument de mesure  5.20 indication d'un
+      instrument de mesure  3.2 étalon secondaire  6.5 étalon de transfert  6.8 étalon
+      de travail  6.7 étalon voyageur  6.9 étalonnage  6.11 indications, étendue des
+      indice de classe  5.19 influence, grandeur d' installation de mesure chapitre
+      4
   terms:
   - type: expression
     normative_status: preferred
-    designation: reproducibility (of results of measurements)
+    designation: 'part Ch 4: Preamble'
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: d2a29b70-79d8-41ea-962c-6494e967b707
+id: 143bb108-293c-477a-836c-efe837a564f2
 ---
 data:
   dates:
@@ -64,23 +180,11 @@ data:
       instrument de mesure étalon de référence lieu conditions d''utilisation temps.
       La reproductibilite peut s''exprimer quantitativement à l''aide des caractéristiques
       de dispersion des résultats. Les résultats considérés 1c1 sont habituellement
-      les résultats corrigés. 3.8 experimental standard deviation i= 1 n-1 for a series
-      of Il  measurements of the same measurand,  the quantity s  characterizing the
-      dispersion  of  the results and given by the formula: ,,,·-- xi being the result  of  the
-      ith  measurement and .r being the arithmetic mean of the n results considered'
-  - content: Considering the series of 11 values as a sample of a distribution, .r
-      is an unbiased estimate of the mean p, and s2 is an unbiased estimate of the
-      variance a2, of that distribution. The expression .11.[;; is an estimate of
-      the standard deviation of the distribution of .r and is called the experimental
-      standard deviation of the mean. "Experimental standard dev1ation of the mean"
-      is sometImes incorrectly called standard error of the mean. The expression .11.[;;
-      is an estimate of the standard deviation of the distribution of .r and is called
-      the experimental standard deviation of the mean. "Experimental standard dev1ation
-      of the mean" is sometImes incorrectly called standard error of the mean.
+      les résultats corrigés.'
   terms:
   - type: expression
     normative_status: preferred
     designation: reproductibilité (des résultats de mesurage), f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6ef82aea-887f-4f1d-a772-03af96732e46
+id: 8083fd1d-2cc9-4602-bd10-bfa5ff9c5505

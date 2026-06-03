@@ -2,14 +2,14 @@
 data:
   identifier: '5.11'
   localized_concepts:
-    eng: 841f099b-bf10-42f4-a0f1-a5e55e70445b
-    fra: cb5d3817-63dd-48bc-9b45-de89fe95290e
+    eng: 0ca98755-c042-4906-961c-8a491ff04fa0
+    fra: 9136003c-5355-4307-8df8-a5d6f5ec67f4
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: a473dcc2-8d02-4b25-98af-2c3819f50ccd
+id: f92664e2-d0d5-47aa-8927-b3b185ef58cc
 schema_version: '3'
 ---
 data:
@@ -21,7 +21,7 @@ data:
       preserve the metrological properties of a measurement standard within stated
       limits Note Conservation commonly includes periodic verification of predefined
       metrological properties or calibration, storage under suitable conditions, and
-      specified care in use. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      specified care in use.
   examples: []
   id: 5.11-eng
   language_code: eng
@@ -32,7 +32,7 @@ data:
     designation: conservation of a measurement standard
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 841f099b-bf10-42f4-a0f1-a5e55e70445b
+id: 0ca98755-c042-4906-961c-8a491ff04fa0
 ---
 data:
   dates:
@@ -43,7 +43,7 @@ data:
       des propriétés métrologiques d'un étalon dans des limites déterminées Note La
       conservation comprend habituellement une vérification périodique de propriétés
       métrologiques choisies ou un étalonnage, un stockage dans des conditions appropriées
-      et des précautions particulières lors de l'utilisation. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      et des précautions particulières lors de l'utilisation.
   examples: []
   id: 5.11-fra
   language_code: fra
@@ -54,4 +54,4 @@ data:
     designation: conservation d'un étalon, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: cb5d3817-63dd-48bc-9b45-de89fe95290e
+id: 9136003c-5355-4307-8df8-a5d6f5ec67f4

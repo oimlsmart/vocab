@@ -2,14 +2,14 @@
 data:
   identifier: '1.1'
   localized_concepts:
-    eng: f0f2145b-c158-40ba-a84c-be50cd7bf2a4
-    fra: 79d6b5a8-86ae-469d-bf56-d54ce16ddc8f
+    eng: b3e6cd6c-1eea-4cc0-8b67-318ba945039e
+    fra: '09ff321b-338b-4f72-8a77-eb6a42027988'
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: ce87b30e-aa3c-4924-8af5-7c579295427f
+id: e2534f2b-bdc7-4f73-928b-695b7777e657
 schema_version: '3'
 ---
 data:
@@ -47,17 +47,16 @@ data:
       medicine is “System—Component; quantity”.
   - content: A quantity as defined here is a scalar. However, a vector or a tensor
       the components of which are quantities is also considered to be a quantity.
-  - content: 'The concept ’quantity’ may be generically divided into, e.g. ‘physical
+  - content: The concept ’quantity’ may be generically divided into, e.g. ‘physical
       quantity’, ‘chemical quantity’, and ‘biological quantity’, or base quantity
-      and derived quantity. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Chapitre 1 : Grandeurs et unités'
+      and derived quantity.
   terms:
   - type: expression
     normative_status: preferred
     designation: quantity
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: f0f2145b-c158-40ba-a84c-be50cd7bf2a4
+id: b3e6cd6c-1eea-4cc0-8b67-318ba945039e
 ---
 data:
   dates:
@@ -66,7 +65,9 @@ data:
   definition:
   - content: propriété d'un phénomène, d'un corps ou d'une substance, que l'on peut
       exprimer quantitativement sous forme d'un nombre et d'une référence
-  examples: []
+  examples:
+  - content: "« Plasma(Sang)—Ion sodium; concentration en quantité de matière égale
+      à 143 mmol/l chez une personne donnée à un instant donné »."
   id: 1.1-fra
   language_code: fra
   notes:
@@ -91,18 +92,17 @@ data:
       donné peut noter des grandeurs différentes.
   - content: Le format préféré par l’IUPAC-IFCC pour la désignation des grandeurs
       dans les laboratoires de biologie médicale est « Système — Constituant ; grandeur
-      ». EXEMPLE « Plasma(Sang)—Ion sodium; concentration en quantité de matière égale
-      à 143 mmol/l chez une personne donnée à un instant donné ».
+      ».
   - content: Une grandeur telle que définie ici est une grandeur scalaire. Cependant,
       un vecteur ou un tenseur dont les composantes sont des grandeurs est aussi considéré
       comme une grandeur.
   - content: Le concept de « grandeur » peut être subdivisé génériquement, par exemple,
       « grandeur physique », « grandeur chimique » et « grandeur biologique », ou
-      grandeur de base et grandeur dérivée. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      grandeur de base et grandeur dérivée.
   terms:
   - type: expression
     normative_status: preferred
     designation: grandeur, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 79d6b5a8-86ae-469d-bf56-d54ce16ddc8f
+id: '09ff321b-338b-4f72-8a77-eb6a42027988'

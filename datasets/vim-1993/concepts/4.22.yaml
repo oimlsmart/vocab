@@ -1,0 +1,53 @@
+---
+data:
+  identifier: '4.22'
+  localized_concepts:
+    eng: ab648112-7d00-4436-bd75-6b08222e3975
+    fra: 3b9b3fd1-aabe-41c3-b3bf-5868bc7c9fbb
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: c84b36f9-92c2-4ffc-9958-687c8c4ef7ac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the values corresponding to two successive scale marks
+      NOTE Scale interval is expressed in the units marked on the scale, regardless
+      of the units of the measurand.
+  examples: []
+  id: 4.22-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: ab648112-7d00-4436-bd75-6b08222e3975
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valeur d'une division (d'échelle), f différence entre les valeurs correspondant
+      à deux repères successifs NOTE L'échelon est exprimé en unité marquée sur l'échelle,
+      quelle que soit l'unité du mesurande.
+  examples: []
+  id: 4.22-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelon, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3b9b3fd1-aabe-41c3-b3bf-5868bc7c9fbb

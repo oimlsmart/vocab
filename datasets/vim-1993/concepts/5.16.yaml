@@ -2,13 +2,14 @@
 data:
   identifier: '5.16'
   localized_concepts:
-    eng: 7ff3a539-dcf7-4d64-b072-5a9aed7cc533
+    eng: b38e853f-b9ee-4e53-9fd5-d02439ec6296
+    fra: c0899d0a-890c-4894-8587-b8226fe48091
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 6a3d12ee-f16f-44ca-a7e8-ddc812fbdd6f
+id: 2c1dd472-e6ff-451c-a7d6-b63d07634125
 schema_version: '3'
 ---
 data:
@@ -16,8 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: dérive, f variation lente d'une caractéristique métrolo-gique d'un instrument
-      de mesure
+  - content: slow change of a metrological characteristic of a measuring instrument
   examples: []
   id: 5.16-eng
   language_code: eng
@@ -25,7 +25,26 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(5.18)"
+    designation: drift
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7ff3a539-dcf7-4d64-b072-5a9aed7cc533
+id: b38e853f-b9ee-4e53-9fd5-d02439ec6296
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: variation lente d'une caractéristique métrolo-gique d'un instrument de
+      mesure
+  examples: []
+  id: 5.16-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dérive, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: c0899d0a-890c-4894-8587-b8226fe48091

@@ -2,14 +2,14 @@
 data:
   identifier: '5.6'
   localized_concepts:
-    eng: cd99555c-dbe1-4fa2-b7dd-4312acb6ee82
-    fra: c4b0fbcf-e731-46d6-8e33-9e602136c4c7
+    eng: 4fe7d424-88a1-4bb1-9e21-9d2cc84e614b
+    fra: ca805aa8-2ce7-4e1a-a2c1-75359c3c85cc
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: abbd9bc7-9c62-4e2c-a46c-d18905d87cbb
+id: 98add1ef-a809-4fd7-8fe2-cf3c20e8146c
 schema_version: '3'
 ---
 data:
@@ -26,22 +26,14 @@ data:
   notes:
   - content: The limiting conditions for storage,  transport and operation may be
       different. 2  The limiting conditions may include limiting values of the measurand
-      and of the influence quantities. 5.3 valeur nominale, f valeur arrondie ou approximative
-      d'une carac-téristique d'un instrument de mesure qui sert de guide pour son
-      utilisation EXEMPLES la valeur 100 Q  sur une résistance étalon; la valeur 1
-      L marquée sur une fiole jaugée à un trait; la valeur 0,1 mcl/L de la concentration
-      en quantité de matière d'une solution d'acide chlorhydrique, HCI; la valeur
-      25 °C du point de consigne d'un bain thermo-statique. la valeur 100 Q  sur une
-      résistance étalon; la valeur 1 L marquée sur une fiole jaugée à un trait; la
-      valeur 0,1 mcl/L de la concentration en quantité de matière d'une solution d'acide
-      chlorhydrique, HCI; la valeur 25 °C du point de consigne d'un bain thermo-statique.
+      and of the influence quantities.
   terms:
   - type: expression
     normative_status: preferred
     designation: limiting conditions
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: cd99555c-dbe1-4fa2-b7dd-4312acb6ee82
+id: 4fe7d424-88a1-4bb1-9e21-9d2cc84e614b
 ---
 data:
   dates:
@@ -64,4 +56,4 @@ data:
     designation: conditions limites, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: c4b0fbcf-e731-46d6-8e33-9e602136c4c7
+id: ca805aa8-2ce7-4e1a-a2c1-75359c3c85cc

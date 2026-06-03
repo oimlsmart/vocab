@@ -2,13 +2,14 @@
 data:
   identifier: '1.6'
   localized_concepts:
-    eng: 249ac320-6343-4b34-88a4-d28cd7149739
+    eng: 390c6d39-1164-4bc8-865e-70ab7b81706d
+    fra: 1fd95b69-2e4c-406b-a7e1-786c22e94d20
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: fe248b1a-1999-45b0-8db1-d894c0743a1e
+id: 1af5fad6-349f-4f6e-ac5d-e31500b88060
 schema_version: '3'
 ---
 data:
@@ -16,11 +17,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur de dimension un, f grandeur sans dimension, f grandeur dont
-      l'expression dimensionnelle en fonction des dimensions des grandeurs de base
-      présente des exposants qui se réduisent tous à zéro EXEMPLES dilatation linéique
-      relative, facteur de frottement, nombre de Mach, indice de réfraction, fraction
-      molaire, fraction massique.
+  - content: quantity in the dimensional expression of which ail the exponents of
+      the dimensions of the base quantities reduce to zero EXAMPLES linear strain,
+      friction factor, Mach number, refractive index, mole fraction (amount-of-substance
+      fraction), mass fraction.
   examples: []
   id: 1.6-eng
   language_code: eng
@@ -28,7 +28,28 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "( 1.05)"
+    designation: quantity of dimension one dimensionless quantity
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 249ac320-6343-4b34-88a4-d28cd7149739
+id: 390c6d39-1164-4bc8-865e-70ab7b81706d
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: grandeur sans dimension, f grandeur dont l'expression dimensionnelle
+      en fonction des dimensions des grandeurs de base présente des exposants qui
+      se réduisent tous à zéro EXEMPLES dilatation linéique relative, facteur de frottement,
+      nombre de Mach, indice de réfraction, fraction molaire, fraction massique.
+  examples: []
+  id: 1.6-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur de dimension un, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1fd95b69-2e4c-406b-a7e1-786c22e94d20

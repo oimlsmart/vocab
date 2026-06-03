@@ -2,14 +2,14 @@
 data:
   identifier: '1.17'
   localized_concepts:
-    eng: 657ac30f-481d-45c9-a92a-3802cdc00f29
-    fra: 86547567-1a01-45cf-9cf3-72567eb63a80
+    eng: 15a54345-14fa-479b-82fc-2071c4b420bb
+    fra: 52b80e95-1459-4383-9a73-940c5547dc92
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 38f80063-84a5-441d-a108-46a962dac3c0
+id: e06c1ddd-0547-4983-b300-390f44fd0e28
 schema_version: '3'
 ---
 data:
@@ -38,7 +38,7 @@ data:
     designation: multiple of a unit
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 657ac30f-481d-45c9-a92a-3802cdc00f29
+id: 15a54345-14fa-479b-82fc-2071c4b420bb
 ---
 data:
   dates:
@@ -46,9 +46,10 @@ data:
     type: accepted
   definition:
   - content: unité de mesure obtenue en multipliant une unité de mesure donnée par
-      un entier supérieur à un EXEMPLES a) Le kilomètre est un multiple décimal du
-      mètre. b) L'heure est un multiple non décimal de la seconde.
-  examples: []
+      un entier supérieur à un
+  examples:
+  - content: a) Le kilomètre est un multiple décimal du mètre. b) L'heure est un multiple
+      non décimal de la seconde.
   id: 1.17-fra
   language_code: fra
   notes:
@@ -66,4 +67,4 @@ data:
     designation: multiple d'une unité, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 86547567-1a01-45cf-9cf3-72567eb63a80
+id: 52b80e95-1459-4383-9a73-940c5547dc92

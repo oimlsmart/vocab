@@ -2,13 +2,14 @@
 data:
   identifier: '6.6'
   localized_concepts:
-    eng: f44e2d45-fb05-4f2b-b210-a7bd1d269431
+    eng: 12114030-1ee7-4ef1-81e6-750aa85d8509
+    fra: f8f41108-a5a2-4d8d-9974-4048032a2d31
   domains:
   - concept_id: section-6
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 4b70d1cc-b180-4021-b01f-ba0ba2c95641
+id: 4fbd993c-32f5-4714-8e32-e0e38ff795ee
 schema_version: '3'
 ---
 data:
@@ -16,53 +17,38 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: étalon de référence, m étalon, en général de la plus haute qualité métrologique
-      disponible en un lieu donné ou dans une organisation donnée, dont dérivent les
-      mesurages qui y sont faits 46                                                      Metrology
-      1993 6.7 (6.09) working standard standard that is used routinely to calibrate
-      or check  material  measures,  measuring  instru-ments or reference materials
+  - content: standard, generally having the highest metro-logical quality available
+      at a given location or in a given organization, from which measurements made
+      there are derived
   examples: []
   id: 6.6-eng
   language_code: eng
-  notes:
-  - content: A working standard is usually calibrated against a reference standard.
-      2 A working standard used routinely to ensure that measurements are being carried
-      out correctly is called a check standard. 6.8 (6.10) transfer standard standard
-      used as an intermediary to compare standards
-  - content: The term transfer device should be used when the intermediary is not
-      a standard. 6.9 (6.11) travelling standard standard, sometimes of special construction,
-      intended for transport between different loca-tions EXAMPLE  a portable battery-operated
-      caes1um frequen-cy standard. 6.10 (6.12) traceability property of the result
-      of a measurement or the value of a standard whereby it can be related to stated  references,  usually  national  or  inter-national
-      standards, through an unbroken chain of comparisons all having stated uncertainties
-  - content: 6.7 (6.09) étalon de travail, m étalon qui est utilisé couramment pour
-      étalonner ou contrôler des mesures matérialisées, des appareils  de  mesure  ou
-      des  matériaux  de référence
-  - content: Un étalon de travail est habituellement étalonné par rapport à un étalon
-      de référence. 2 Un étalon de travail utilisé couramment pour s'assurer que les
-      mesures sont effectuées correctement est appelé étalon de contrôle. 6.8 (6.10)
-      étalon de transfert, m étalon  utilisé  comme  intermédiaire  pour comparer
-      entre eux des étalons
-  - content: Le terme dispositif de transfert doit être utilisé lorsque l'intermédiaire
-      n'est pas un étalon. 6.9 (6.11) étalon voyageur, m étalon, parfois de construction
-      spéciale, destiné au transport en des lieux différents EXEMPLE  étalon de fréquence
-      à césium, portable, fonc-tionnant sur accumulateur. 6.10 (6.12) traçabilité,
-      f propriété du résultat d'un mesurage ou d'un étalon tel qu'il puisse être relié
-      à des références déterminées, généralement des étalons natio-naux ou internationaux,
-      par l'intermédiaire d'une chaîne ininterrompue  de comparaisons  ayant toutes
-      des incertitudes déterminées The concept is often traceable. by the adJective
-  - content: Ce concept est souvent exprimé par l'adjectif traçable. The  unbroken  chain  of  compar1sons  is  called  atraceability
-      chain. only to the French text.) The  unbroken  chain  of  compar1sons  is  called  a
-      traceability chain. only to the French text.) La chaîne ininterrompue de comparaisons
-      est appelée chaîne de raccordement aux étalons ou chaîne d'étalonnage. La manière
-      dont s'effectue la liaison aux étalons est appelée raccordement aux étalons.
-      La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement aux
-      étalons ou chaîne d'étalonnage. La manière dont s'effectue la liaison aux étalons
-      est appelée raccordement aux étalons. l\1e'.rology 1993                                                                   47
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(6.08)"
+    designation: reference standard
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f44e2d45-fb05-4f2b-b210-a7bd1d269431
+id: 12114030-1ee7-4ef1-81e6-750aa85d8509
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étalon, en général de la plus haute qualité métrologique disponible en
+      un lieu donné ou dans une organisation donnée, dont dérivent les mesurages qui
+      y sont faits 46                                                      Metrology
+      1993
+  examples: []
+  id: 6.6-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon de référence, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f8f41108-a5a2-4d8d-9974-4048032a2d31

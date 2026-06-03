@@ -2,14 +2,14 @@
 data:
   identifier: '4.6'
   localized_concepts:
-    eng: 57071f30-3bf4-4ccc-99dd-4d43b7bd7aa9
-    fra: 8a1467d4-8f70-460d-ba1e-0b0b87832ee3
+    eng: c0463b52-524c-4654-ba5c-364414c43335
+    fra: 340aab4b-02a9-409c-9407-3771398ce14d
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: b52ebcc9-f7c5-46d8-8ba5-3f151b909c4e
+id: 8065acd7-7c17-4ce5-9b3d-eb562fc553bc
 schema_version: '3'
 ---
 data:
@@ -35,7 +35,7 @@ data:
     designation: displaying (measuring) instrument indicating {measuring) instrument
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 57071f30-3bf4-4ccc-99dd-4d43b7bd7aa9
+id: c0463b52-524c-4654-ba5c-364414c43335
 ---
 data:
   dates:
@@ -43,10 +43,11 @@ data:
     type: accepted
   definition:
   - content: appareil (de mesure) indicateur, m appareil de mesure qui affiche une
-      indication EXEMPLES voltmètre à 1ndicat1on analogique; frequencemètre numérique;
-      micromètre à vis. voltmètre à 1ndicat1on analogique; frequencemètre numérique;
-      micromètre à vis.
-  examples: []
+      indication
+  examples:
+  - content: voltmètre à 1ndicat1on analogique; frequencemètre numérique; micromètre
+      à vis. voltmètre à 1ndicat1on analogique; frequencemètre numérique; micromètre
+      à vis.
   id: 4.6-fra
   language_code: fra
   notes:
@@ -61,4 +62,4 @@ data:
     designation: appareil {de mesure) afficheur, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8a1467d4-8f70-460d-ba1e-0b0b87832ee3
+id: 340aab4b-02a9-409c-9407-3771398ce14d

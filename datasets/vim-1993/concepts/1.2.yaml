@@ -2,13 +2,14 @@
 data:
   identifier: '1.2'
   localized_concepts:
-    eng: 86ae5a13-4e56-41df-abd4-fa0f927b61df
+    eng: 0baf855f-182e-42af-8dad-a393ebe78efe
+    fra: dc7542ec-f257-48f6-9df6-a3c5b003bffa
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: da8aa828-095f-4c0c-8823-621c70f8eb7f
+id: 8c395e62-28d6-4f10-860c-d4ceb1cfd3df
 schema_version: '3'
 ---
 data:
@@ -16,8 +17,8 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: système de grandeurs, m ensemble de grandeurs. dans le sens général,
-      entre lesquelles 11 existe des relations définies
+  - content: set of quantities, in the general sense, among which defined relationships
+      ex1st
   examples: []
   id: 1.2-eng
   language_code: eng
@@ -25,7 +26,26 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(-)"
+    designation: system of quantities
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 86ae5a13-4e56-41df-abd4-fa0f927b61df
+id: 0baf855f-182e-42af-8dad-a393ebe78efe
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble de grandeurs. dans le sens général, entre lesquelles 11 existe
+      des relations définies
+  examples: []
+  id: 1.2-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système de grandeurs, m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: dc7542ec-f257-48f6-9df6-a3c5b003bffa

@@ -2,14 +2,14 @@
 data:
   identifier: '2.12'
   localized_concepts:
-    eng: 6a6a854d-9d09-4efe-bedc-588be80a87ed
-    fra: d7ee6a0f-d6b2-4fc1-b6d6-fca9bc77bed5
+    eng: 0fdfe400-749a-40da-bece-b078c1915bc2
+    fra: ae7aeeaa-6355-4928-90d5-5d8e8375ddbd
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: b29b263f-9106-474c-a456-1e7947f42ac9
+id: e3761f50-c6ab-49c2-a7fb-85d6e71b07bd
 schema_version: '3'
 ---
 data:
@@ -39,7 +39,7 @@ data:
     designation: conventional quantity value
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6a6a854d-9d09-4efe-bedc-588be80a87ed
+id: 0fdfe400-749a-40da-bece-b078c1915bc2
 ---
 data:
   dates:
@@ -47,12 +47,12 @@ data:
     type: accepted
   definition:
   - content: valeur conventionnelle d'une grandeur, m valeur attribuée à une grandeur
-      par un accord pour un usage donné EXEMPLES a) Valeur conventionnelle de l'accélération
-      due à la pesanteur ou accélération normale de la pesanteur, gn = 9,806 65 m
-      s2. b) Valeur conventionnelle de la constante de Josephson, KJ-90 = 483 597,9
-      GHz V −1. c) Valeur conventionnelle d’un étalon de masse donné, m = 100,003
-      47 g.
-  examples: []
+      par un accord pour un usage donné
+  examples:
+  - content: a) Valeur conventionnelle de l'accélération due à la pesanteur ou accélération
+      normale de la pesanteur, gn = 9,806 65 m s2. b) Valeur conventionnelle de
+      la constante de Josephson, KJ-90 = 483 597,9 GHz V −1. c) Valeur conventionnelle
+      d’un étalon de masse donné, m = 100,003 47 g.
   id: 2.12-fra
   language_code: fra
   notes:
@@ -68,4 +68,4 @@ data:
     designation: valeur conventionnelle, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: d7ee6a0f-d6b2-4fc1-b6d6-fca9bc77bed5
+id: ae7aeeaa-6355-4928-90d5-5d8e8375ddbd

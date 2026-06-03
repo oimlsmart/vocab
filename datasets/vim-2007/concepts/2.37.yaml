@@ -2,14 +2,14 @@
 data:
   identifier: '2.37'
   localized_concepts:
-    eng: 2f2cce52-b760-45f6-855e-8f7c3cde198c
-    fra: c250af4a-7de0-490f-8c4c-30f963dc08c1
+    eng: 7dbc1c61-0527-4ad6-a36a-30f56446b704
+    fra: 74fd1404-00fc-42fa-9f88-ac76a3d97459
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: a86f1e8f-55f8-4e71-b3d5-52ea3e8d7aa7
+id: c3f4fd00-28c0-4521-a18f-75dc0edd615b
 schema_version: '3'
 ---
 data:
@@ -26,14 +26,14 @@ data:
   - content: This definition pertains to the Uncertainty Approach as presented in
       the GUM.
   - content: The coverage probability is also termed “level of confidence” in the
-      GUM. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      GUM.
   terms:
   - type: expression
     normative_status: preferred
     designation: coverage probability
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2f2cce52-b760-45f6-855e-8f7c3cde198c
+id: 7dbc1c61-0527-4ad6-a36a-30f56446b704
 ---
 data:
   dates:
@@ -50,11 +50,11 @@ data:
       GUM.
   - content: Il convient de ne pas confondre ce concept avec le concept statistique
       de niveau de confiance, bien que le terme « level of confidence » soit utilisé
-      en anglais dans le GUM. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      en anglais dans le GUM.
   terms:
   - type: expression
     normative_status: preferred
     designation: probabilité de couverture, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: c250af4a-7de0-490f-8c4c-30f963dc08c1
+id: 74fd1404-00fc-42fa-9f88-ac76a3d97459

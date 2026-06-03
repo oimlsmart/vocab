@@ -1,0 +1,49 @@
+---
+data:
+  identifier: '4.28'
+  localized_concepts:
+    eng: 14063999-1828-4a08-91cb-830bf1fca8a6
+    fra: 43b55260-5622-4654-88d1-d982651ca2ca
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 95652a17-2d35-49f3-b421-a37b0f5a9c85
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ordered set of numbers associated with the scale marks
+  examples: []
+  id: 4.28-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale numbering
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 14063999-1828-4a08-91cb-830bf1fca8a6
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble ordonné de nombres associés aux repères de l'échelle
+  examples: []
+  id: 4.28-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chiffraison d'une échelle, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 43b55260-5622-4654-88d1-d982651ca2ca

@@ -2,14 +2,14 @@
 data:
   identifier: '4.5'
   localized_concepts:
-    eng: b0a6c23e-8696-40b6-be87-3ab9405495b7
-    fra: e646bd29-aea7-4ab5-9430-3cd63aa85587
+    eng: 757d517e-70da-4824-8749-c3c0c18f123a
+    fra: 36e8f6c3-c302-43ea-90eb-e4ee1c3570e6
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: efd34768-9788-45ed-b29c-afa33d78c554
+id: '0299348c-a19d-4cdd-b7ed-6a6e09a3cd51'
 schema_version: '3'
 ---
 data:
@@ -32,7 +32,7 @@ data:
     designation: range of a nominal indication interval
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: b0a6c23e-8696-40b6-be87-3ab9405495b7
+id: 757d517e-70da-4824-8749-c3c0c18f123a
 ---
 data:
   dates:
@@ -40,11 +40,12 @@ data:
     type: accepted
   definition:
   - content: valeur absolue de la différence entre les valeurs extrêmes d'un intervalle
-      nominal des indications EXEMPLE Pour un intervalle nominal des indications de
-      –10 V à +10 V, l'étendue de mesure est 20 V. Note En anglais, l'étendue de mesure
-      est quelquefois dénommée « span of a nominal interval ». En français, le terme
-      « intervalle de mesure » est parfois improprement employé.
-  examples: []
+      nominal des indications
+  examples:
+  - content: Pour un intervalle nominal des indications de –10 V à +10 V, l'étendue
+      de mesure est 20 V. Note En anglais, l'étendue de mesure est quelquefois dénommée
+      « span of a nominal interval ». En français, le terme « intervalle de mesure
+      » est parfois improprement employé.
   id: 4.5-fra
   language_code: fra
   notes: []
@@ -57,4 +58,4 @@ data:
     designation: étendue nominale, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: e646bd29-aea7-4ab5-9430-3cd63aa85587
+id: 36e8f6c3-c302-43ea-90eb-e4ee1c3570e6

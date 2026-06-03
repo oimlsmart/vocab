@@ -2,14 +2,14 @@
 data:
   identifier: '1.19'
   localized_concepts:
-    eng: ad3f3246-fd5a-4a1a-920f-28e6d8202e24
-    fra: e6228ef5-38f4-40ff-8600-a6fdcdc1d438
+    eng: 9814093d-0d2d-4229-bed0-110ca63e54b2
+    fra: e2d786f5-6b80-4180-9d3f-86cbaec79951
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 0a7f3112-7ed2-4db5-9c2e-87408d95a156
+id: 2a7b8346-04c0-4eac-948d-c16cdd3369c5
 schema_version: '3'
 ---
 data:
@@ -42,7 +42,7 @@ data:
     designation: value
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: ad3f3246-fd5a-4a1a-920f-28e6d8202e24
+id: 9814093d-0d2d-4229-bed0-110ca63e54b2
 ---
 data:
   dates:
@@ -50,18 +50,21 @@ data:
     type: accepted
   definition:
   - content: ensemble d'un nombre et d'une référence constituant l’expression quantitative
-      d’une grandeur EXEMPLES a) Longueur d'une tige donnée b) Masse d'un corps donné
-      c) Courbure d'un arc donné d) Température Celsius d'un spécimen donné e) Impédance
-      électrique d'un élément de circuit donné à une fréquence f) g) h) i) j) donnée,
-      où j est l'unité imaginaire Indice de réfraction d'un spécimen donné de verre
-      Dureté C de Rockwell d'un spécimen donné Fraction massique de cadmium dans un
-      spécimen donné de cuivre Molalité de Pb2+ dans un spécimen donné d'eau Concentration
+      d’une grandeur
+  examples:
+  - content: a) Longueur d'une tige donnée b) Masse d'un corps donné c) Courbure d'un
+      arc donné d) Température Celsius d'un spécimen donné e) Impédance électrique
+      d'un élément de circuit donné à une fréquence f) g) h) i) j) donnée, où j est
+      l'unité imaginaire Indice de réfraction d'un spécimen donné de verre Dureté
+      C de Rockwell d'un spécimen donné Fraction massique de cadmium dans un spécimen
+      donné de cuivre Molalité de Pb2+ dans un spécimen donné d'eau Concentration
       arbitraire en quantité de matière de lutropine dans un spécimen donné de plasma
       sanguin humain en utilisant l’étalon international 80/552 de l’OMS 5,34 m ou
       534 cm 0,152 kg ou 152 g 112 m−1 −5 ºC (7 + 3j) Ω 1,32 43,5 HRC 3 µg/kg ou 3
       × 10−9 1,76 µmol/kg 5,0 UI/l, où « UI » signifie « unité internationale de l’OMS
       »
-  examples: []
+  - content: Force agissant sur une particule donnée, par exemple en coordonnées cartésiennes
+      (Fx ; Fy ; Fz) = (31,5 ; 43,2 ; 17,0) N.
   id: 1.19-fra
   language_code: fra
   notes:
@@ -74,8 +77,7 @@ data:
   - content: La valeur d'une grandeur peut être représentée de plus d'une façon (voir
       a, b et h).
   - content: Dans le cas de grandeurs vectorielles ou tensorielles, chaque composante
-      a une valeur. EXEMPLE Force agissant sur une particule donnée, par exemple en
-      coordonnées cartésiennes (Fx ; Fy ; Fz) = (31,5 ; 43,2 ; 17,0) N.
+      a une valeur.
   terms:
   - type: expression
     normative_status: preferred
@@ -85,4 +87,4 @@ data:
     designation: valeur, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: e6228ef5-38f4-40ff-8600-a6fdcdc1d438
+id: e2d786f5-6b80-4180-9d3f-86cbaec79951

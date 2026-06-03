@@ -2,14 +2,14 @@
 data:
   identifier: '5.2'
   localized_concepts:
-    eng: 90eae42e-e130-405a-8fe6-492bbf38bfc1
-    fra: a80e092a-b95a-41d9-8d0c-ae99542c9a24
+    eng: 283df653-bf8d-42c0-adb0-62b00b72c1c6
+    fra: 40c6f107-cba1-4311-981d-484e3a3c9cc0
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: dd3c5e92-4b0d-412b-b3f8-9e02059a1887
+id: 8a379f16-c0fe-4846-8228-4651bc478227
 schema_version: '3'
 ---
 data:
@@ -34,7 +34,7 @@ data:
     designation: international measurement standard
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 90eae42e-e130-405a-8fe6-492bbf38bfc1
+id: 283df653-bf8d-42c0-adb0-62b00b72c1c6
 ---
 data:
   dates:
@@ -42,13 +42,14 @@ data:
     type: accepted
   definition:
   - content: étalon reconnu par les signataires d'un accord international pour une
-      utilisation mondiale EXEMPLES a) Le prototype international du kilogramme. b)
-      Gonadotrophine chorionique, 4e étalon international de l'Organisation mondiale
-      de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule. c)
-      Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence
-      internationale pour l’énergie atomique (AIEA) pour des mesurages de rapports
-      molaires différentiels relatifs d’isotopes stables.
-  examples: []
+      utilisation mondiale
+  examples:
+  - content: a) Le prototype international du kilogramme. b) Gonadotrophine chorionique,
+      4e étalon international de l'Organisation mondiale de la santé (OMS), 1999,
+      75/589, 650 unités internationales par ampoule. c) Eau océanique moyenne normalisée
+      de Vienne (VSMOW2), distribuée par l'Agence internationale pour l’énergie atomique
+      (AIEA) pour des mesurages de rapports molaires différentiels relatifs d’isotopes
+      stables.
   id: 5.2-fra
   language_code: fra
   notes: []
@@ -58,4 +59,4 @@ data:
     designation: étalon international, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: a80e092a-b95a-41d9-8d0c-ae99542c9a24
+id: 40c6f107-cba1-4311-981d-484e3a3c9cc0

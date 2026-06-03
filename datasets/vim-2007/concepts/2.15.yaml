@@ -2,14 +2,14 @@
 data:
   identifier: '2.15'
   localized_concepts:
-    eng: 3e2d6465-a06e-43ae-a97a-f334ea8878fe
-    fra: 8edd67aa-56e5-4525-a066-311b5852359e
+    eng: 9919aa24-447a-4029-9f76-222a3d0f3275
+    fra: 182599bb-d7e1-4b0a-8734-426c6e30be62
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: aee54d85-2116-4ac0-b93e-5156f4a00355
+id: 3ba6e603-0ffb-4b39-b9e4-63d485cc7522
 schema_version: '3'
 ---
 data:
@@ -33,7 +33,7 @@ data:
   - content: Measurement precision is used to define measurement repeatability, intermediate
       measurement precision, and measurement reproducibility.
   - content: Sometimes ‘measurement precision’ is erroneously used to mean measurement
-      accuracy. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      accuracy.
   terms:
   - type: expression
     normative_status: preferred
@@ -43,7 +43,7 @@ data:
     designation: precision
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3e2d6465-a06e-43ae-a97a-f334ea8878fe
+id: 9919aa24-447a-4029-9f76-222a3d0f3275
 ---
 data:
   dates:
@@ -66,7 +66,7 @@ data:
   - content: La fidélité sert à définir la répétabilité de mesure, la fidélité intermédiaire
       de mesure et la reproductibilité de mesure.
   - content: Le terme « fidélité de mesure » est quelquefois utilisé improprement
-      pour désigner l’exactitude de mesure. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      pour désigner l’exactitude de mesure.
   terms:
   - type: expression
     normative_status: preferred
@@ -76,4 +76,4 @@ data:
     designation: fidélité, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8edd67aa-56e5-4525-a066-311b5852359e
+id: 182599bb-d7e1-4b0a-8734-426c6e30be62

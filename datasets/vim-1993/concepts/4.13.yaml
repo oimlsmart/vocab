@@ -2,14 +2,14 @@
 data:
   identifier: '4.13'
   localized_concepts:
-    eng: '08b835f9-7501-4737-a344-2ee199e1d592'
-    fra: f1e6f77a-664f-470d-bbf3-4afbac270611
+    eng: 89f2bfd2-6ac1-49b9-9722-3cd984fd925b
+    fra: bdae5a8b-5842-4a43-9def-87cd34cbbe1c
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: eafd683a-f0ed-4d21-839b-93769d31f59c
+id: 61daf2f3-ef70-418e-802f-d602df3877d2
 schema_version: '3'
 ---
 data:
@@ -17,10 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of a measuring instrument that provides a record of an indication 4.9
-      appareil (de mesure) intégrateur, m appareil de mesure qui détermine la valeur
-      d'un mesurande  en  intégrant  une  grandeur  en fonction d'une autre grandeur
-      EXEMPLE compteur d'énergie électrique.
+  - content: of a measuring instrument that provides a record of an indication
   examples: []
   id: 4.13-eng
   language_code: eng
@@ -31,7 +28,7 @@ data:
     designation: recording device
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: '08b835f9-7501-4737-a344-2ee199e1d592'
+id: 89f2bfd2-6ac1-49b9-9722-3cd984fd925b
 ---
 data:
   dates:
@@ -49,4 +46,4 @@ data:
     designation: dispositif enregistreur, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f1e6f77a-664f-470d-bbf3-4afbac270611
+id: bdae5a8b-5842-4a43-9def-87cd34cbbe1c

@@ -2,14 +2,14 @@
 data:
   identifier: '1.1'
   localized_concepts:
-    eng: 51d5ebfd-5ff0-4225-bf1e-11d4507f9c7e
-    fra: d3259b91-b8ca-43f2-ab53-aa303efa85c3
+    eng: e6ea6ff6-5c64-4410-b1c7-8e03048254c8
+    fra: a189cde2-e6c9-490d-b6e8-58b456eb569e
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: b1f9bfdc-f05a-49e0-b606-8b8e34da237e
+id: a2513fdc-499b-4432-83c9-ab496f31387d
 schema_version: '3'
 ---
 data:
@@ -46,7 +46,7 @@ data:
     designation: measurable
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 51d5ebfd-5ff0-4225-bf1e-11d4507f9c7e
+id: e6ea6ff6-5c64-4410-b1c7-8e03048254c8
 ---
 data:
   dates:
@@ -55,17 +55,12 @@ data:
   definition:
   - content: attribut d'un phénomène, d'un corps ou d'une substance, qui est susceptible
       d'être distingué qualitativement et déterminé quantitativement
-  examples: []
-  id: 1.1-fra
-  language_code: fra
-  notes:
-  - content: 'Le terme «grandeur» peut se rapporter à une grandeur dans un sens général
-      !voir exemple a)) ou à une grandeur particulière [voir exemple b)i. EXEMPLES
+  examples:
+  - content: 'grandeurs dans un sens général: longueur, temps, masse. température,
+      résistance électrique, concen-tration en quantité de matière; grandeurs particulières
       grandeurs dans un sens général: longueur, temps, masse. température, résistance
-      électrique, concen-tration en quantité de matière; grandeurs particulières grandeurs
-      dans un sens général: longueur, temps, masse. température, résistance électrique,
-      concen-tration en quantité de matière; grandeurs particulières longueur d''une
-      tige donnée résistance électrique d''un échantillon donné de fil concentration
+      électrique, concen-tration en quantité de matière; grandeurs particulières longueur
+      d''une tige donnée résistance électrique d''un échantillon donné de fil concentration
       en quantité de matière d''étha-nol dans un echantillon donné de v1n. Les grandeurs
       qui peuvent être classées les unes par rapport aux autres en ordre croissant
       (ou décroissant) sont appelées grandeurs de même nature. Les grandeurs de même
@@ -77,10 +72,15 @@ data:
       ensemble en catégories de grandeurs, par exemple: travail, chaleur. energIe;
       épaisseur. circonférence, longueur d''onde. Des symboles de grandeurs sont donnés
       dans l''ISO 31'
+  id: 1.1-fra
+  language_code: fra
+  notes:
+  - content: Le terme «grandeur» peut se rapporter à une grandeur dans un sens général
+      !voir exemple a)) ou à une grandeur particulière [voir exemple b)i.
   terms:
   - type: expression
     normative_status: preferred
     designation: grandeur {mesurable), f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: d3259b91-b8ca-43f2-ab53-aa303efa85c3
+id: a189cde2-e6c9-490d-b6e8-58b456eb569e

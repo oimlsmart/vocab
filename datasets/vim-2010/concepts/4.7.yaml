@@ -2,14 +2,14 @@
 data:
   identifier: '4.7'
   localized_concepts:
-    eng: 45dcf2af-3e74-4c8f-bfff-a481a60cf421
-    fra: 22bb8027-25d9-4089-9c34-8511c3e9e24a
+    eng: 7039fe74-b36a-4673-899f-50380e628320
+    fra: 6ad6a3d2-4318-43ed-9942-5db33661ce0e
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: '0949e200-1730-4084-a60d-a8d033db162a'
+id: 95f3b228-5e58-4a1b-850b-7be870e88dd3
 schema_version: '3'
 ---
 data:
@@ -36,7 +36,7 @@ data:
     designation: working interval
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 45dcf2af-3e74-4c8f-bfff-a481a60cf421
+id: 7039fe74-b36a-4673-899f-50380e628320
 ---
 data:
   dates:
@@ -61,4 +61,4 @@ data:
     designation: intervalle de mesure, m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 22bb8027-25d9-4089-9c34-8511c3e9e24a
+id: 6ad6a3d2-4318-43ed-9942-5db33661ce0e

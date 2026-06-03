@@ -2,14 +2,14 @@
 data:
   identifier: '1.10'
   localized_concepts:
-    eng: 3ae6bd3d-96c1-484d-bfad-a0f0a5d85d10
-    fra: 8d101e8c-ab7d-4d63-a02b-161d46a4a630
+    eng: a882625c-8c0d-4919-b2f6-9e1bf05ed71f
+    fra: a7003b14-2b1c-43bf-89e7-412de8c86c18
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: '0149e369-9c43-43ce-a5d6-114e8c88dbd3'
+id: d4b63057-06eb-41fc-8f44-704864fa7a13
 schema_version: '3'
 ---
 data:
@@ -38,7 +38,7 @@ data:
     designation: base unit
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3ae6bd3d-96c1-484d-bfad-a0f0a5d85d10
+id: a882625c-8c0d-4919-b2f6-9e1bf05ed71f
 ---
 data:
   dates:
@@ -46,16 +46,18 @@ data:
     type: accepted
   definition:
   - content: unité de mesure adoptée par convention pour une grandeur de base
-  examples: []
+  examples:
+  - content: Dans le SI, le mètre est l'unité de base de longueur. Dans les systèmes
+      CGS, le centimètre est l'unité de base de longueur.
+  - content: La hauteur de pluie, définie comme un volume surfacique (volume par aire)
+      a le mètre comme unité dérivée cohérente dans le SI.
   id: 1.10-fra
   language_code: fra
   notes:
   - content: Dans chaque système cohérent d'unités, il y a une seule unité de base
-      pour chaque grandeur de base. EXEMPLE Dans le SI, le mètre est l'unité de base
-      de longueur. Dans les systèmes CGS, le centimètre est l'unité de base de longueur.
+      pour chaque grandeur de base.
   - content: Une unité de base peut aussi servir pour une grandeur dérivée de même
-      dimension. EXEMPLE La hauteur de pluie, définie comme un volume surfacique (volume
-      par aire) a le mètre comme unité dérivée cohérente dans le SI.
+      dimension.
   - content: Pour un nombre d’entités, on peut considérer le nombre un, de symbole
       1, comme une unité de base dans tout système d’unités.
   terms:
@@ -64,4 +66,4 @@ data:
     designation: unité de base, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8d101e8c-ab7d-4d63-a02b-161d46a4a630
+id: a7003b14-2b1c-43bf-89e7-412de8c86c18

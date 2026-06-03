@@ -2,14 +2,14 @@
 data:
   identifier: '2.40'
   localized_concepts:
-    eng: ea02bb03-d555-4e41-a72e-f2578bd59c28
-    fra: b420c71d-b928-4d93-a0c1-aa99c027f1f8
+    eng: dff39726-84b1-43b4-a70e-5283551657fc
+    fra: b948ef56-2dfe-44a9-9f8c-ffe04f10f565
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 426d431f-221b-45c1-aa1a-13ac2728d080
+id: 30e863c1-80a9-4d41-b5f7-72cf3057e2ad
 schema_version: '3'
 ---
 data:
@@ -33,14 +33,13 @@ data:
   - content: A comparison between two measurement standards may be viewed as a calibration
       if the comparison is used to check and, if necessary, correct the quantity value
       and measurement uncertainty attributed to one of the measurement standards.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   terms:
   - type: expression
     normative_status: preferred
     designation: calibration hierarchy
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: ea02bb03-d555-4e41-a72e-f2578bd59c28
+id: dff39726-84b1-43b4-a70e-5283551657fc
 ---
 data:
   dates:
@@ -62,11 +61,11 @@ data:
       ou un étalon.
   - content: Une comparaison entre deux étalons peut être considérée comme un étalonnage
       si elle sert à vérifier et, si nécessaire, à corriger la valeur et l'incertitude
-      attribuées à l'un des étalons. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      attribuées à l'un des étalons.
   terms:
   - type: expression
     normative_status: preferred
     designation: hiérarchie d'étalonnage, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: b420c71d-b928-4d93-a0c1-aa99c027f1f8
+id: b948ef56-2dfe-44a9-9f8c-ffe04f10f565

@@ -2,14 +2,14 @@
 data:
   identifier: '2.8'
   localized_concepts:
-    eng: 79726d14-c6bc-48d1-8d58-4d8748853605
-    fra: c992c4ca-5e14-4b52-aa66-2445ede6671f
+    eng: 3129e60e-c468-4b6b-a9de-1f5b083dffab
+    fra: 48027b57-e80e-4b25-8496-de9b576de793
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 117e977e-3587-4225-898d-626d96dd22b1
+id: 10c013a8-7483-43ca-8ec9-d941ca843b10
 schema_version: '3'
 ---
 data:
@@ -40,7 +40,7 @@ data:
     designation: primary reference measurement procedure
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 79726d14-c6bc-48d1-8d58-4d8748853605
+id: 3129e60e-c468-4b6b-a9de-1f5b083dffab
 ---
 data:
   dates:
@@ -49,12 +49,13 @@ data:
   definition:
   - content: procédure opératoire primaire, m procédure de mesure de référence utilisée
       pour obtenir un résultat de mesure sans relation avec un étalon d'une grandeur
-      de même nature EXEMPLE Le volume d'eau délivré par une pipette de 5 ml à 20
-      °C est mesuré en pesant l'eau délivrée par la pipette dans un bécher, en prenant
-      la différence entre la masse du bécher contenant l'eau et la masse du bécher
-      initialement vide, puis en corrigeant la différence de masse pour la température
-      réelle de l'eau par l'intermédiaire de la masse volumique.
-  examples: []
+      de même nature
+  examples:
+  - content: Le volume d'eau délivré par une pipette de 5 ml à 20 °C est mesuré en
+      pesant l'eau délivrée par la pipette dans un bécher, en prenant la différence
+      entre la masse du bécher contenant l'eau et la masse du bécher initialement
+      vide, puis en corrigeant la différence de masse pour la température réelle de
+      l'eau par l'intermédiaire de la masse volumique.
   id: 2.8-fra
   language_code: fra
   notes:
@@ -69,4 +70,4 @@ data:
     designation: procédure de mesure primaire, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: c992c4ca-5e14-4b52-aa66-2445ede6671f
+id: 48027b57-e80e-4b25-8496-de9b576de793

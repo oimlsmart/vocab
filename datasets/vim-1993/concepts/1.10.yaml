@@ -2,13 +2,14 @@
 data:
   identifier: '1.10'
   localized_concepts:
-    eng: 89bf337e-3904-47c0-9117-d6c5eae2b514
+    eng: 8af1d106-ad90-41d5-b611-fbbd852c9400
+    fra: 0a88fb0a-56dd-4021-ad31-0675cf213adb
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: c94bf9c5-d6b6-49d8-8527-22204e6869ba
+id: 3bd4d05b-0359-4893-aae4-47eefcc075d1
 schema_version: '3'
 ---
 data:
@@ -16,20 +17,39 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: unité (de mesure) (dérivée) cohérente, f unité de mesure dérivée qui
-      peut s'exprimer comme un produit de puissances des unités de base avec un facteur
-      de proportionnalité égal à un
+  - content: derived unît of measurement that may be expressed as a product of powers
+      of base units with the proportionality factor one NOTE Coherency can be determined
+      only with respect to the base units of a particular system. A unit may be coherent
+      with respect to one system but not to another.
   examples: []
   id: 1.10-eng
   language_code: eng
-  notes:
-  - content: La cohérence ne peut être établie que par rapport aux unités de base
-      d'un système donné. Une unité peut être cohérente dans un système et non dans
-      un autre.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "{1.13)"
+    designation: coherent {derived) unit (of measurement)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 89bf337e-3904-47c0-9117-d6c5eae2b514
+id: 8af1d106-ad90-41d5-b611-fbbd852c9400
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unité de mesure dérivée qui peut s'exprimer comme un produit de puissances
+      des unités de base avec un facteur de proportionnalité égal à un NOTE La cohérence
+      ne peut être établie que par rapport aux unités de base d'un système donné.
+      Une unité peut être cohérente dans un système et non dans un autre.
+  examples: []
+  id: 1.10-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité (de mesure) (dérivée) cohérente, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 0a88fb0a-56dd-4021-ad31-0675cf213adb

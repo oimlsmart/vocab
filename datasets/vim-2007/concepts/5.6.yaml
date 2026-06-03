@@ -2,14 +2,14 @@
 data:
   identifier: '5.6'
   localized_concepts:
-    eng: 8cd04d21-5bb3-4cbc-ad68-03a6a758bde4
-    fra: 6bf69cda-f6cf-427d-a7f6-70b5be478f23
+    eng: 2168fa36-4c3f-496b-9af9-b973c7684ee5
+    fra: 1fb80d48-1d72-4dcb-ba22-df4dabb91add
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 8e4ef207-06d2-4a8c-996b-615a62123150
+id: 6962c967-75af-4921-9235-8b11c18c233a
 schema_version: '3'
 ---
 data:
@@ -33,7 +33,7 @@ data:
     designation: reference standard
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8cd04d21-5bb3-4cbc-ad68-03a6a758bde4
+id: 2168fa36-4c3f-496b-9af9-b973c7684ee5
 ---
 data:
   dates:
@@ -52,4 +52,4 @@ data:
     designation: étalon de référence, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6bf69cda-f6cf-427d-a7f6-70b5be478f23
+id: 1fb80d48-1d72-4dcb-ba22-df4dabb91add

@@ -2,14 +2,14 @@
 data:
   identifier: '1.7'
   localized_concepts:
-    eng: ca252048-c2e2-48aa-be2d-aac8bd17aea2
-    fra: 49f2f9e5-a43d-4326-89d9-1d213383d1d3
+    eng: 71898230-721a-4d74-880b-fd84edf4c3b8
+    fra: 03df6b7b-a364-436c-9072-6f3a44cae496
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 99ab9cdb-5735-4090-80de-3e336cdbb39f
+id: 927f6a81-ed10-4512-b2b8-fc790ba4b274
 schema_version: '3'
 ---
 data:
@@ -47,7 +47,7 @@ data:
       Symbol for dimension Base quantity length mass time electric current thermodynamic
       temperature amount of substance luminous intensity L M T I Θ N J Thus, the dimension
       of a quantity Q is denoted by dim Q = LαMβTγIδΘεNζJη where the exponents, named
-      dimensional exponents, are positive, negative, or zero. _________________________________________________________________________________________________________________________________________________________________________________________________________________________'
+      dimensional exponents, are positive, negative, or zero.'
   terms:
   - type: expression
     normative_status: preferred
@@ -60,7 +60,7 @@ data:
     designation: dimension
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: ca252048-c2e2-48aa-be2d-aac8bd17aea2
+id: 71898230-721a-4d74-880b-fd84edf4c3b8
 ---
 data:
   dates:
@@ -70,13 +70,14 @@ data:
   - content: dimension d'une grandeur, f expression de la dépendance d'une grandeur
       par rapport aux grandeurs de base d'un système de grandeurs sous la forme d'un
       produit de puissances de facteurs correspondant aux grandeurs de base, en omettant
-      tout facteur numérique EXEMPLES a) Dans l'ISQ, la dimension de la force est
-      notée dim F = LMT–2. b) Dans le même système de grandeurs, dim ρB = ML–3 est
-      la dimension de la concentration en masse du constituant B et ML–3 est aussi
-      la dimension de la masse volumique ρ. c) La période T d'un pendule de longueur
-      l en un endroit où l'accélération locale de la pesanteur vaut g est T = 2π l
-      g ou T = C(g) l où C( g ) = 2π g Par conséquent, dim C(g) = L–1/2T.
-  examples: []
+      tout facteur numérique
+  examples:
+  - content: a) Dans l'ISQ, la dimension de la force est notée dim F = LMT–2. b) Dans
+      le même système de grandeurs, dim ρB = ML–3 est la dimension de la concentration
+      en masse du constituant B et ML–3 est aussi la dimension de la masse volumique
+      ρ. c) La période T d'un pendule de longueur l en un endroit où l'accélération
+      locale de la pesanteur vaut g est T = 2π l g ou T = C(g) l où C( g ) = 2π g
+      Par conséquent, dim C(g) = L–1/2T.
   id: 1.7-fra
   language_code: fra
   notes:
@@ -99,11 +100,11 @@ data:
       thermodynamique quantité de matière intensité lumineuse Symbole de la dimension
       L M T I Θ N J La dimension d''une grandeur Q est donc notée dim Q = LαMβTγIδΘεNεJζ
       où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou
-      nuls. _________________________________________________________________________________________________________________________________________________________________________________________________________________________'
+      nuls.'
   terms:
   - type: expression
     normative_status: preferred
     designation: dimension, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 49f2f9e5-a43d-4326-89d9-1d213383d1d3
+id: 03df6b7b-a364-436c-9072-6f3a44cae496

@@ -2,14 +2,14 @@
 data:
   identifier: '1.6'
   localized_concepts:
-    eng: c484f5b9-6f58-4932-806d-1b944b986032
-    fra: b82f7b50-f4b0-4148-8c4f-bfa83f34f7a7
+    eng: 33e9cbe3-3bf0-4950-91c7-4e986a886018
+    fra: 4d788c71-2e78-4a44-b288-de4cb5b5ef26
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 901280fe-7242-4b05-b73b-de33fa5fa843
+id: '0618ff9b-bde5-48f2-aadf-6efd856c7187'
 schema_version: '3'
 ---
 data:
@@ -27,7 +27,7 @@ data:
   - content: This system of quantities is published in the ISO 80000 and IEC 80000
       series Quantities and units.
   - content: The International System of Units (SI), see item 1.16, is based on the
-      ISQ. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      ISQ.
   terms:
   - type: expression
     normative_status: preferred
@@ -37,7 +37,7 @@ data:
     designation: ISQ
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: c484f5b9-6f58-4932-806d-1b944b986032
+id: 33e9cbe3-3bf0-4950-91c7-4e986a886018
 ---
 data:
   dates:
@@ -54,7 +54,6 @@ data:
   - content: Ce système de grandeurs est publié dans les séries ISO 80000 et CEI 80000
       Grandeurs et unités.
   - content: Le Système international d'unités (SI), voir n° 1.16, est fondé sur l'ISQ.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   terms:
   - type: expression
     normative_status: preferred
@@ -64,4 +63,4 @@ data:
     designation: ISQ, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: b82f7b50-f4b0-4148-8c4f-bfa83f34f7a7
+id: 4d788c71-2e78-4a44-b288-de4cb5b5ef26

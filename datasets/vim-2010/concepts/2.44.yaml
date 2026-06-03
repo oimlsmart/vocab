@@ -2,14 +2,14 @@
 data:
   identifier: '2.44'
   localized_concepts:
-    eng: ae94d0b7-c18f-4a45-b55f-fdc9361bef7a
-    fra: b35e0348-4e83-4e1e-966c-adb52687960f
+    eng: 39c23003-3a30-46a4-8f7c-28844d67984d
+    fra: 1d595c8a-56aa-4534-b86e-4ad49aa07eda
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 398ff0d2-7113-44b2-869d-56956e237d9a
+id: bf157471-3cfe-441a-9fa3-0af53c3fc605
 schema_version: '3'
 ---
 data:
@@ -45,7 +45,7 @@ data:
     designation: verification
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: ae94d0b7-c18f-4a45-b55f-fdc9361bef7a
+id: 39c23003-3a30-46a4-8f7c-28844d67984d
 ---
 data:
   dates:
@@ -53,12 +53,13 @@ data:
     type: accepted
   definition:
   - content: fourniture de preuves tangibles qu'une entité donnée satisfait à des
-      exigences spécifiées EXEMPLES a) Confirmation qu'un matériau de référence donné
-      est bien, comme déclaré, homogène pour la valeur et la procédure de mesure concernées
-      jusqu'à des prises de mesure de masse 10 mg. b) Confirmation que des propriétés
-      relatives aux performances ou des exigences légales sont satisfaites par un
-      système de mesure. c) Confirmation qu'une incertitude cible peut être atteinte.
-  examples: []
+      exigences spécifiées
+  examples:
+  - content: a) Confirmation qu'un matériau de référence donné est bien, comme déclaré,
+      homogène pour la valeur et la procédure de mesure concernées jusqu'à des prises
+      de mesure de masse 10 mg. b) Confirmation que des propriétés relatives aux performances
+      ou des exigences légales sont satisfaites par un système de mesure. c) Confirmation
+      qu'une incertitude cible peut être atteinte.
   id: 2.44-fra
   language_code: fra
   notes:
@@ -82,4 +83,4 @@ data:
     designation: vérification, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: b35e0348-4e83-4e1e-966c-adb52687960f
+id: 1d595c8a-56aa-4534-b86e-4ad49aa07eda

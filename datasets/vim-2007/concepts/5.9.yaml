@@ -2,14 +2,14 @@
 data:
   identifier: '5.9'
   localized_concepts:
-    eng: 4ade19ec-4510-40d9-81b9-c786a37fe5f2
-    fra: a4effac3-e976-441c-b32c-4912f3020773
+    eng: 69093de5-b2b7-40d8-b18e-4136319cbc88
+    fra: 0471b82d-ff8d-471f-9642-c308092a6185
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 17c9de05-293b-4b92-9d57-6e9864411cc6
+id: 521c904d-4271-49f1-9728-81234c364256
 schema_version: '3'
 ---
 data:
@@ -18,7 +18,7 @@ data:
     type: accepted
   definition:
   - content: device used as an intermediary to compare measurement standards Note
-      Sometimes, measurement standards are used as transfer devices. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Sometimes, measurement standards are used as transfer devices.
   examples: []
   id: 5.9-eng
   language_code: eng
@@ -32,7 +32,7 @@ data:
     designation: transfer device
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 4ade19ec-4510-40d9-81b9-c786a37fe5f2
+id: 69093de5-b2b7-40d8-b18e-4136319cbc88
 ---
 data:
   dates:
@@ -40,7 +40,7 @@ data:
     type: accepted
   definition:
   - content: dispositif utilisé comme intermédiaire pour comparer entre eux des étalons
-      Note Des étalons peuvent parfois servir de dispositifs de transfert. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      Note Des étalons peuvent parfois servir de dispositifs de transfert.
   examples: []
   id: 5.9-fra
   language_code: fra
@@ -51,4 +51,4 @@ data:
     designation: dispositif de transfert, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: a4effac3-e976-441c-b32c-4912f3020773
+id: 0471b82d-ff8d-471f-9642-c308092a6185

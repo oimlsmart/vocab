@@ -2,14 +2,14 @@
 data:
   identifier: '5.9'
   localized_concepts:
-    eng: 67ff10b3-324c-4535-a4e2-93157598857e
-    fra: '079a94b1-556f-4746-867e-d3432ab29274'
+    eng: db62c145-da6f-4889-967f-03b0e6d82ef3
+    fra: 1ed0289b-3573-4b6e-b970-f56d098f2a1f
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: aa4c37de-ae3a-4441-b622-eec2856823c2
+id: 3e533f56-d20e-41f6-a0aa-1058a5caa721
 schema_version: '3'
 ---
 data:
@@ -34,7 +34,7 @@ data:
     designation: response characteristic
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 67ff10b3-324c-4535-a4e2-93157598857e
+id: db62c145-da6f-4889-967f-03b0e6d82ef3
 ---
 data:
   dates:
@@ -42,12 +42,12 @@ data:
     type: accepted
   definition:
   - content: relation entre un signal d'entrée et la réponse correspondante, dans
-      des conditions définies EXEMPLE  force électromotrice d'un thermocouple en fonction
-      de la température.
+      des conditions définies
   examples: []
   id: 5.9-fra
   language_code: fra
   notes:
+  - content: force électromotrice d'un thermocouple en fonction de la température.
   - content: La relation peut s'exprimer sous la forme d'une équa-tion mathématique,
       d'une table numérique ou d'un graphe. 2 Lorsque le signal d'entrée varie en
       fonction du temps, la fonction de transfert (quotient de la transformée de Laplace
@@ -59,4 +59,4 @@ data:
     designation: caractéristique de transfert, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: '079a94b1-556f-4746-867e-d3432ab29274'
+id: 1ed0289b-3573-4b6e-b970-f56d098f2a1f

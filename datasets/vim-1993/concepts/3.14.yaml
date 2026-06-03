@@ -2,13 +2,14 @@
 data:
   identifier: '3.14'
   localized_concepts:
-    eng: 5623e8f9-afae-4404-81d4-33395a44a4a2
+    eng: 28bb9e77-59ef-4113-bfbe-227e09c180c0
+    fra: 123758e4-318d-43a6-80af-608de3fdf02c
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: b7ef0362-e542-46f6-8504-17408ea80669
+id: c6de2b2f-7370-477b-b629-fbb8d56abad4
 schema_version: '3'
 ---
 data:
@@ -16,12 +17,34 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: erreur systématique, f moyenne qui résulterait d'un nombre infini de
-      mesurages  du  même  mesurande,  effectués dans les conditions de répétabilité,
-      moins une valeur vraie du mesurande
+  - content: mean that would result from an infinite number of  measurements  of  the  same  measurand
+      carried out under repeatability conditions minus a true value of the measurand
   examples: []
   id: 3.14-eng
   language_code: eng
+  notes:
+  - content: Systematic error is equal to error minus random error. Like true value,
+      systematic error and its causes cannot be completely known. For a measuring
+      instrument, see "bias" (5.25). Like true value, systematic error and its causes
+      cannot be completely known. For a measuring instrument, see "bias" (5.25).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: systematic error
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 28bb9e77-59ef-4113-bfbe-227e09c180c0
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: moyenne qui résulterait d'un nombre infini de mesurages  du  même  mesurande,  effectués
+      dans les conditions de répétabilité, moins une valeur vraie du mesurande
+  examples: []
+  id: 3.14-fra
+  language_code: fra
   notes:
   - content: L'erreur systèmat1que est égale à l'erreur moins l'erreur aléatoire.
       Comme la valeur vraie, l'erreur systématique et ses causes ne peuvent pas être
@@ -32,7 +55,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(3.13)"
+    designation: erreur systématique, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5623e8f9-afae-4404-81d4-33395a44a4a2
+id: 123758e4-318d-43a6-80af-608de3fdf02c

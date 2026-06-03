@@ -2,13 +2,14 @@
 data:
   identifier: '1.13'
   localized_concepts:
-    eng: 43f761ad-63c2-4006-9e03-5059041d2b13
+    eng: fbb93046-ae78-443b-9a5e-67f50082c5db
+    fra: adcb125c-b627-4c61-bf54-cbe80260d199
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 9d1eec64-e672-490c-9982-d3d478b3c277
+id: 807087d0-6d35-40f5-a648-88f9c8a2cb5c
 schema_version: '3'
 ---
 data:
@@ -16,18 +17,37 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: unité (de mesure) de base, f unité de mesure d'une grandeur de base dans
-      un système donné de grandeurs
+  - content: unit of measurement of a base quantity in a given system of quantities
+      NOTE ln any given coherent system of units there Is only one base unit for each
+      base quantIty.
   examples: []
   id: 1.13-eng
   language_code: eng
-  notes:
-  - content: Dans tout système d'unités cohérent, il y a une seule unité de base pour
-      chaque grandeur de base.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(1.11)"
+    designation: base unit (of measurement)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 43f761ad-63c2-4006-9e03-5059041d2b13
+id: fbb93046-ae78-443b-9a5e-67f50082c5db
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unité de mesure d'une grandeur de base dans un système donné de grandeurs
+      NOTE Dans tout système d'unités cohérent, il y a une seule unité de base pour
+      chaque grandeur de base.
+  examples: []
+  id: 1.13-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité (de mesure) de base, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: adcb125c-b627-4c61-bf54-cbe80260d199

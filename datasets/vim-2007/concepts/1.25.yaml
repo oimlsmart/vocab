@@ -2,14 +2,14 @@
 data:
   identifier: '1.25'
   localized_concepts:
-    eng: da13653e-a72e-4e47-ad6e-564220c136a5
-    fra: 616030e4-f985-44e8-8f97-cc14788b802b
+    eng: 6fe723a7-8326-40ee-bec4-51c68307bdaa
+    fra: 7d4ae2a7-f403-4a6b-9639-64d025005ae1
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 8aadf51a-6b53-427c-9ebb-b8982b67e2ca
+id: 4cc386e8-4016-4504-a7e6-5eedbc7d12e6
 schema_version: '3'
 ---
 data:
@@ -36,7 +36,7 @@ data:
     designation: numerical value equation
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: da13653e-a72e-4e47-ad6e-564220c136a5
+id: 6fe723a7-8326-40ee-bec4-51c68307bdaa
 ---
 data:
   dates:
@@ -44,14 +44,14 @@ data:
     type: accepted
   definition:
   - content: relation d'égalité entre des valeurs numériques, fondée sur une équation
-      aux grandeurs donnée et des unités de mesure spécifiées EXEMPLES a) Pour les
-      grandeurs données dans l’exemple a) de 1.22, {Q1} = ζ {Q2} {Q3}, où {Q1}, {Q2}
-      et {Q3} représentent respectivement les valeurs numériques de Q1, Q2 et Q3 lorsqu’elles
-      sont exprimées en unités de base ou en unités dérivées cohérentes ou les deux.
-      b) Pour l'équation de l'énergie cinétique d'une particule, T = (1/2) mv2, si
-      m = 2 kg et v = 3 m/s, alors {T} = (1/2) ×2 × 32 est une équation aux valeurs
-      numériques donnant la valeur numérique 9 pour T en joules.
-  examples: []
+      aux grandeurs donnée et des unités de mesure spécifiées
+  examples:
+  - content: a) Pour les grandeurs données dans l’exemple a) de 1.22, {Q1} = ζ {Q2}
+      {Q3}, où {Q1}, {Q2} et {Q3} représentent respectivement les valeurs numériques
+      de Q1, Q2 et Q3 lorsqu’elles sont exprimées en unités de base ou en unités dérivées
+      cohérentes ou les deux. b) Pour l'équation de l'énergie cinétique d'une particule,
+      T = (1/2) mv2, si m = 2 kg et v = 3 m/s, alors {T} = (1/2) ×2 × 32 est une équation
+      aux valeurs numériques donnant la valeur numérique 9 pour T en joules.
   id: 1.25-fra
   language_code: fra
   notes: []
@@ -61,4 +61,4 @@ data:
     designation: équation aux valeurs numériques, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 616030e4-f985-44e8-8f97-cc14788b802b
+id: 7d4ae2a7-f403-4a6b-9639-64d025005ae1

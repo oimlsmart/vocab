@@ -2,14 +2,14 @@
 data:
   identifier: '6.5'
   localized_concepts:
-    eng: c033edc3-ae47-4641-a412-066b4bbfa94b
-    fra: b0cb8548-3765-4a57-a988-12f75b12536f
+    eng: a2f4ca66-728b-4c60-a83e-f0e3e49cfa81
+    fra: d138a3de-e4ea-422c-b1d1-048ba29a0b2d
   domains:
   - concept_id: section-6
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: af4d3192-7699-4335-b332-ff8516f750ac
+id: ff755fbc-58bc-43b7-87ab-419271d4be2c
 schema_version: '3'
 ---
 data:
@@ -18,9 +18,7 @@ data:
     type: accepted
   definition:
   - content: standard whose value is assigned by com-parison with a primary standard
-      of the same quantity 6.6 (6.08) reference standard standard, generally having
-      the highest metro-logical quality available at a given location or in a given
-      organization, from which measurements made there are derived
+      of the same quantity
   examples: []
   id: 6.5-eng
   language_code: eng
@@ -31,7 +29,7 @@ data:
     designation: secondary standard
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: c033edc3-ae47-4641-a412-066b4bbfa94b
+id: a2f4ca66-728b-4c60-a83e-f0e3e49cfa81
 ---
 data:
   dates:
@@ -50,4 +48,4 @@ data:
     designation: étalon secondaire, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: b0cb8548-3765-4a57-a988-12f75b12536f
+id: d138a3de-e4ea-422c-b1d1-048ba29a0b2d

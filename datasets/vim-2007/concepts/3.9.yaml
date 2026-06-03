@@ -2,14 +2,14 @@
 data:
   identifier: '3.9'
   localized_concepts:
-    eng: 218bee0d-7bab-47c8-95c2-480cda770e8e
-    fra: 5ced23f7-4749-40b5-895a-a15829bfdb47
+    eng: ad265def-cdb8-4b30-b335-136f83fb0be3
+    fra: e70178cb-b387-46ae-8b5e-7a610d0b44f7
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 1f28bba0-be8e-4aec-90d2-787e0f5c679f
+id: 50adab32-20af-4d0d-a450-0683d1762279
 schema_version: '3'
 ---
 data:
@@ -32,7 +32,7 @@ data:
     designation: detector
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 218bee0d-7bab-47c8-95c2-480cda770e8e
+id: ad265def-cdb8-4b30-b335-136f83fb0be3
 ---
 data:
   dates:
@@ -41,8 +41,9 @@ data:
   definition:
   - content: dispositif ou substance qui indique la présence d'un phénomène, d'un
       corps ou d'une substance lorsqu'une valeur de seuil d'une grandeur associée
-      est dépassée EXEMPLES a) Détecteur de fuite à halogène, b) papier au tournesol.
-  examples: []
+      est dépassée
+  examples:
+  - content: a) Détecteur de fuite à halogène, b) papier au tournesol.
   id: 3.9-fra
   language_code: fra
   notes:
@@ -55,4 +56,4 @@ data:
     designation: détecteur, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5ced23f7-4749-40b5-895a-a15829bfdb47
+id: e70178cb-b387-46ae-8b5e-7a610d0b44f7

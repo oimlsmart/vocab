@@ -2,14 +2,14 @@
 data:
   identifier: '2.52'
   localized_concepts:
-    eng: 873063ec-c041-4cfc-8686-422609fa5fd5
-    fra: d80d4af0-c069-4613-8238-ed75a7babb8e
+    eng: e96e2705-92c3-4e23-9afb-057ec947756f
+    fra: a7533c80-6418-47dd-9514-90026f04e259
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 1f5644f0-9d38-451d-bea8-b96e84d14ca3
+id: d053f61c-d97f-4166-85b5-335cf270c96a
 schema_version: '3'
 ---
 data:
@@ -41,14 +41,14 @@ data:
       systematic effect
   - content: See GUM, 3.2.3 for explanation of ‘systematic effect’.
   - content: The compensation can take different forms, such as an addend or a factor,
-      or can be deduced from a table. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      or can be deduced from a table.
   terms:
   - type: expression
     normative_status: preferred
     designation: influence quantity
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 873063ec-c041-4cfc-8686-422609fa5fd5
+id: e96e2705-92c3-4e23-9afb-057ec947756f
 ---
 data:
   dates:
@@ -57,15 +57,16 @@ data:
   definition:
   - content: grandeur qui, lors d'un mesurage direct, n'a pas d'effet sur la grandeur
       effectivement mesurée, mais a un effet sur la relation entre l'indication et
-      le résultat de mesure EXEMPLES a) Fréquence lors du mesurage direct de l'amplitude
-      constante d'un courant alternatif au moyen d'un ampèremètre. b) Concentration
-      en quantité de matière de bilirubine lors du mesurage direct de la concentration
-      en quantité de matière d'hémoglobine dans le plasma sanguin humain. c) Température
-      d'un micromètre lors du mesurage de la longueur d'une tige, mais pas la température
-      de la tige elle-même qui peut entrer dans la définition du mesurande. d) Pression
-      ambiante dans la source d'ions d'un spectromètre de masse lors du mesurage d'une
-      fraction molaire.
-  examples: []
+      le résultat de mesure
+  examples:
+  - content: a) Fréquence lors du mesurage direct de l'amplitude constante d'un courant
+      alternatif au moyen d'un ampèremètre. b) Concentration en quantité de matière
+      de bilirubine lors du mesurage direct de la concentration en quantité de matière
+      d'hémoglobine dans le plasma sanguin humain. c) Température d'un micromètre
+      lors du mesurage de la longueur d'une tige, mais pas la température de la tige
+      elle-même qui peut entrer dans la définition du mesurande. d) Pression ambiante
+      dans la source d'ions d'un spectromètre de masse lors du mesurage d'une fraction
+      molaire.
   id: 2.52-fra
   language_code: fra
   notes:
@@ -78,14 +79,12 @@ data:
       En outre, le concept n'y est pas limité aux mesurages directs. 2.53 (3.15) (3.16)
       correction, f compensation d'un effet systématique connu
   - content: Voir le GUM, 3.2.3 pour une explication du concept d'effet systématique.
-  - content: 'La modification peut prendre différentes formes, telles que l''addition
-      d''une valeur ou la multiplication par un facteur, ou peut se déduire d''une
-      table. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Chapter 3: Devices for measurement'
+  - content: La modification peut prendre différentes formes, telles que l'addition
+      d'une valeur ou la multiplication par un facteur, ou peut se déduire d'une table.
   terms:
   - type: expression
     normative_status: preferred
     designation: grandeur d'influence, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: d80d4af0-c069-4613-8238-ed75a7babb8e
+id: a7533c80-6418-47dd-9514-90026f04e259

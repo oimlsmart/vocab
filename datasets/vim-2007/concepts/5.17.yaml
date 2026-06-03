@@ -2,14 +2,14 @@
 data:
   identifier: '5.17'
   localized_concepts:
-    eng: 05366dd4-0304-4365-a584-3a96af9f639a
-    fra: 1feabf29-eb14-48a9-90ed-1b1afd7d3361
+    eng: 11b37895-3705-4994-8c59-6a2bbaba480c
+    fra: e8273e77-9040-4c76-8f40-653757a2d97a
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 29b9226a-552f-4c15-b848-c109e01e2059
+id: bcf76fb5-82cd-42e8-aee1-f14186170d29
 schema_version: '3'
 ---
 data:
@@ -33,20 +33,20 @@ data:
     designation: standard reference data
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 05366dd4-0304-4365-a584-3a96af9f639a
+id: 11b37895-3705-4994-8c59-6a2bbaba480c
 ---
 data:
   dates:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: donnée de référence provenant d'une autorité reconnue EXEMPLES a) Valeurs
-      des constantes physiques fondamentales, évaluées et publiées régulièrement par
-      ICSU CODATA. b) Valeurs des masses atomiques relatives des éléments, appelées
-      aussi valeurs des poids atomiques, évaluées tous les deux ans par l'IUPAC-CIAAW
-      à l’Assemblée générale de l’IUPAC et publiées dans Pure Appl. Chem. ou dans
-      J. Phys. Chem. Ref. Data.
-  examples: []
+  - content: donnée de référence provenant d'une autorité reconnue
+  examples:
+  - content: a) Valeurs des constantes physiques fondamentales, évaluées et publiées
+      régulièrement par ICSU CODATA. b) Valeurs des masses atomiques relatives des
+      éléments, appelées aussi valeurs des poids atomiques, évaluées tous les deux
+      ans par l'IUPAC-CIAAW à l’Assemblée générale de l’IUPAC et publiées dans Pure
+      Appl. Chem. ou dans J. Phys. Chem. Ref. Data.
   id: 5.17-fra
   language_code: fra
   notes: []
@@ -56,4 +56,4 @@ data:
     designation: donnée de référence normalisée, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 1feabf29-eb14-48a9-90ed-1b1afd7d3361
+id: e8273e77-9040-4c76-8f40-653757a2d97a

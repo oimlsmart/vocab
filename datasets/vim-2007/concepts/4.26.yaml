@@ -2,14 +2,14 @@
 data:
   identifier: '4.26'
   localized_concepts:
-    eng: fda63f05-789c-4d33-ade8-88ba4da6723f
-    fra: 4abefe8d-40f8-4560-b125-fdd5e585e382
+    eng: f8ae4db4-8de1-4808-ae5e-6ad929dc2b25
+    fra: 653264c3-1091-440a-b4ed-8c41cb0b9bc3
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 6397084f-7614-4188-b1c3-15aebe2b0bae
+id: fb37d0d5-52b8-4992-9a73-3c1081d8844e
 schema_version: '3'
 ---
 data:
@@ -27,7 +27,7 @@ data:
   - content: Usually the term “maximum permissible errors” or “limits of error” are
       used, where there are two extreme values.
   - content: The term “tolerance” should not be used to designate ‘maximum permissible
-      error’. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      error’.
   terms:
   - type: expression
     normative_status: preferred
@@ -40,7 +40,7 @@ data:
     designation: limit of error
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: fda63f05-789c-4d33-ade8-88ba4da6723f
+id: f8ae4db4-8de1-4808-ae5e-6ad929dc2b25
 ---
 data:
   dates:
@@ -57,7 +57,7 @@ data:
   - content: Les termes « erreurs maximales tolérées » et « limites d'erreur » sont
       généralement utilisés lorsqu'il y a deux valeurs extrêmes.
   - content: Il convient de ne pas utiliser le terme « tolérance » pour désigner l'erreur
-      maximale tolérée. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      maximale tolérée.
   terms:
   - type: expression
     normative_status: preferred
@@ -67,4 +67,4 @@ data:
     designation: limite d’erreur, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 4abefe8d-40f8-4560-b125-fdd5e585e382
+id: 653264c3-1091-440a-b4ed-8c41cb0b9bc3

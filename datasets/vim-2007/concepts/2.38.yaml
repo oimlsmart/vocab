@@ -2,14 +2,14 @@
 data:
   identifier: '2.38'
   localized_concepts:
-    eng: 6f3439f1-6732-4edb-89b5-972c812f3c63
-    fra: 8df95534-6ef7-4723-8331-e9d68e98a824
+    eng: f67acdcd-1ceb-4221-ba0c-ef092353c049
+    fra: a99b5f7c-2046-43ab-b911-7b32a82c3f43
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: a5e4a332-8a9a-4d34-9534-19a7de5cc5bc
+id: '02905e69-1b53-43c3-92d8-54c4fe3abbb8'
 schema_version: '3'
 ---
 data:
@@ -30,7 +30,7 @@ data:
     designation: coverage factor
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6f3439f1-6732-4edb-89b5-972c812f3c63
+id: f67acdcd-1ceb-4221-ba0c-ef092353c049
 ---
 data:
   dates:
@@ -50,4 +50,4 @@ data:
     designation: facteur d'élargissement, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8df95534-6ef7-4723-8331-e9d68e98a824
+id: a99b5f7c-2046-43ab-b911-7b32a82c3f43

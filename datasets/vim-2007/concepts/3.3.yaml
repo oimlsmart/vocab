@@ -2,14 +2,14 @@
 data:
   identifier: '3.3'
   localized_concepts:
-    eng: 165dab30-1cbb-4de5-8fe6-1f84d79b991c
-    fra: ce6922f2-f420-48c6-8793-953aeae7bb0a
+    eng: da273398-714e-4a27-bc08-a577459c2183
+    fra: b96de3ea-ce17-467f-814a-4ff7fb8d3f75
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: fa88f9a6-24a4-4cb8-a7cc-289ffd644661
+id: '067986e5-cf4a-49cf-9983-d44f356f7e6b'
 schema_version: '3'
 ---
 data:
@@ -33,7 +33,7 @@ data:
     designation: indicating measuring instrument
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 165dab30-1cbb-4de5-8fe6-1f84d79b991c
+id: da273398-714e-4a27-bc08-a577459c2183
 ---
 data:
   dates:
@@ -41,9 +41,9 @@ data:
     type: accepted
   definition:
   - content: instrument de mesure qui fournit un signal de sortie porteur d'informations
-      sur la valeur de la grandeur mesurée EXEMPLES a) Voltmètre, b) micromètre à
-      vis, c) thermomètre, d) balance électronique.
-  examples: []
+      sur la valeur de la grandeur mesurée
+  examples:
+  - content: a) Voltmètre, b) micromètre à vis, c) thermomètre, d) balance électronique.
   id: 3.3-fra
   language_code: fra
   notes:
@@ -60,4 +60,4 @@ data:
     designation: appareil indicateur, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: ce6922f2-f420-48c6-8793-953aeae7bb0a
+id: b96de3ea-ce17-467f-814a-4ff7fb8d3f75

@@ -2,14 +2,14 @@
 data:
   identifier: '2.36'
   localized_concepts:
-    eng: a4d64d46-3cf8-464d-9519-1b557c1862db
-    fra: 26c89dc0-300b-4f72-8dab-5046491ddbfb
+    eng: 6826d71a-a961-43dc-93e7-c9e4ed151be5
+    fra: c03e918d-2b18-4296-b5f3-6578923869e0
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: 8626e5da-6b2d-4bc5-a124-bf97df9c6b43
+id: ff115a2a-2fb9-4e42-a2ad-8b12a7911671
 schema_version: '3'
 ---
 data:
@@ -35,7 +35,7 @@ data:
     designation: coverage interval
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: a4d64d46-3cf8-464d-9519-1b557c1862db
+id: 6826d71a-a961-43dc-93e7-c9e4ed151be5
 ---
 data:
   dates:
@@ -61,4 +61,4 @@ data:
     designation: intervalle élargi, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 26c89dc0-300b-4f72-8dab-5046491ddbfb
+id: c03e918d-2b18-4296-b5f3-6578923869e0

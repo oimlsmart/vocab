@@ -2,14 +2,14 @@
 data:
   identifier: '2.13'
   localized_concepts:
-    eng: f766c4f6-c01b-42e2-ae40-180753245cba
-    fra: 54fcfc8f-0494-497c-a321-72d6b9435ae8
+    eng: f002c82d-ec0e-46f5-8aee-8c054b3388d6
+    fra: dcd7ee93-c606-4adc-9615-ffad35ee6b4d
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 5db91c19-903b-4fd0-8465-f13707a5232b
+id: d8f00d4c-18d8-4934-aee8-36a28eab09e5
 schema_version: '3'
 ---
 data:
@@ -30,8 +30,7 @@ data:
       and the term measurement precision should not be used for ‘measurement accuracy’
       which, however, is related to both concepts.
   - content: "‘Measurement accuracy’ is sometimes understood as closeness of agreement
-      between measured quantity values that are being attributed to the measurand.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+      between measured quantity values that are being attributed to the measurand."
   terms:
   - type: expression
     normative_status: preferred
@@ -44,7 +43,7 @@ data:
     designation: accuracy
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: f766c4f6-c01b-42e2-ae40-180753245cba
+id: f002c82d-ec0e-46f5-8aee-8c054b3388d6
 ---
 data:
   dates:
@@ -64,7 +63,7 @@ data:
       la justesse de mesure et le terme « fidélité de mesure » pour « l'exactitude
       de mesure ». Celle-ci est toutefois liée aux concepts de justesse et de fidélité.
   - content: L'exactitude de mesure est quelquefois interprétée comme l'étroitesse
-      de l'accord entre les valeurs mesurées qui sont attribuées au mesurande. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      de l'accord entre les valeurs mesurées qui sont attribuées au mesurande.
   terms:
   - type: expression
     normative_status: preferred
@@ -74,4 +73,4 @@ data:
     designation: exactitude, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 54fcfc8f-0494-497c-a321-72d6b9435ae8
+id: dcd7ee93-c606-4adc-9615-ffad35ee6b4d

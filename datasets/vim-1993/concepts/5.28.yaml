@@ -1,0 +1,60 @@
+---
+data:
+  identifier: '5.28'
+  localized_concepts:
+    eng: 6d5e072a-512c-4727-bfb1-c6e1a2460a31
+    fra: 9bc377d1-38d1-46d8-bad5-4665539d5a60
+  domains:
+  - concept_id: section-5
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 0a7da0f0-a801-4d1d-8bf4-1959ea182820
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of a measuring instrument divided by a value specified for the
+      instrument NOTE The specified value is generally called the fiducial value,
+      and may be, for example, the span or the upper limit of the nominal range of
+      the measuring instrument.
+  examples: []
+  id: 5.28-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fiducial error (of a measuring instrument)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6d5e072a-512c-4727-bfb1-c6e1a2460a31
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'rapport de l''erreur d''un instrument de mesure à une valeur spécifiée
+      pour l''instrument NOTE La valeur spécifiée est généralement appelée valeur
+      conventionnelle et peut être, par exemple, l''intervalle de mesure ou la limite
+      supérieure du calibre de l''instrument de mesure. ., 6  ETALONS ln  science
+      and technology, the English word "standard" is used with two different meanings:
+      as a widely adopted written technical standard, specification,  technical  recommendation  or
+      similar document (in French "norme"} and also as  a  measurement  standard  (in  French
+      "étalon"). This Vocabulary is concerned solely with  the  second  meaning  and  the  qualifier
+      "measurement" is generally omitted for brevity.'
+  examples: []
+  id: 5.28-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur réduite conventionnelle (d'un instrument de mesure}, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9bc377d1-38d1-46d8-bad5-4665539d5a60

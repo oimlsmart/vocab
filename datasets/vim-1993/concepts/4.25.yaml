@@ -1,0 +1,51 @@
+---
+data:
+  identifier: '4.25'
+  localized_concepts:
+    eng: f2c11bb9-9b3d-4c81-9e0b-77ace05937bd
+    fra: 72e83668-95cb-4ce6-8e40-ce323ffb87e5
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: 3b841065-8f58-4242-83dc-f69221adb31a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: scale whose scale range does not include the value zero
+  examples: []
+  id: 4.25-eng
+  language_code: eng
+  notes:
+  - content: scale of a clinical thermometer.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suppressed-zero scale
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f2c11bb9-9b3d-4c81-9e0b-77ace05937bd
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: échelle dont l'étendue ne comporte pas la valeur zéro
+  examples: []
+  id: 4.25-fra
+  language_code: fra
+  notes:
+  - content: échelle d'un thermomètre médical.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle à zéro décalé, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 72e83668-95cb-4ce6-8e40-ce323ffb87e5

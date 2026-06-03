@@ -2,14 +2,14 @@
 data:
   identifier: '4.26'
   localized_concepts:
-    eng: 3145c84f-350c-49b2-9111-318accb2770d
-    fra: 4709a6fb-40ec-4a4c-b8bc-4fd16ed35ec1
+    eng: db6897b6-1696-423d-9119-fd7a0cf84c1f
+    fra: f57585c2-0e34-46ec-bc81-25cf27264609
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 0ebae445-1284-4bd4-938e-e2c7b8b38b39
+id: 94b88945-6242-45e2-8472-261960e9d0ce
 schema_version: '3'
 ---
 data:
@@ -27,7 +27,7 @@ data:
   - content: Usually the term “maximum permissible errors” or “limits of error” are
       used, where there are two extreme values.
   - content: The term “tolerance” should not be used to designate ‘maximum permissible
-      error’. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      error’.
   terms:
   - type: expression
     normative_status: preferred
@@ -40,7 +40,7 @@ data:
     designation: limit of error
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3145c84f-350c-49b2-9111-318accb2770d
+id: db6897b6-1696-423d-9119-fd7a0cf84c1f
 ---
 data:
   dates:
@@ -57,7 +57,7 @@ data:
   - content: Les termes « erreurs maximales tolérées » et « limites d'erreur » sont
       généralement utilisés lorsqu'il y a deux valeurs extrêmes.
   - content: Il convient de ne pas utiliser le terme « tolérance » pour désigner l'erreur
-      maximale tolérée. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      maximale tolérée.
   terms:
   - type: expression
     normative_status: preferred
@@ -67,4 +67,4 @@ data:
     designation: limite d’erreur, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 4709a6fb-40ec-4a4c-b8bc-4fd16ed35ec1
+id: f57585c2-0e34-46ec-bc81-25cf27264609

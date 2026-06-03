@@ -2,13 +2,14 @@
 data:
   identifier: '1.17'
   localized_concepts:
-    eng: d99ce7a4-fde5-45cd-92a7-daf180269bdf
+    eng: e83e6af7-2d2a-4c1e-a48a-ac619a77e528
+    fra: fe4246f7-ea7e-4e9d-9269-44ab122ba4b0
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 8a771675-e514-4c4f-acf5-7bb486631bf2
+id: ad412c13-e49d-4b38-88e8-48500be232ae
 schema_version: '3'
 ---
 data:
@@ -16,17 +17,37 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: sous-multiple d'une unité (de mesure), m unité de mesure plus petite
-      formée à partir d'une unité donnée selon des conventions d'échelonnement EXEMPLE
-      l'un des sous-multiples décimaux du mètre est le millimètre.
+  - content: smaller unit of measurement that is formed from a given unit according
+      to scaling conventions
   examples: []
   id: 1.17-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: one of the decimal submu1tiples of the metre is the millimetre.
   terms:
   - type: expression
     normative_status: preferred
-    designation: "( 1.16}"
+    designation: submultiple of a unit (of measurement)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: d99ce7a4-fde5-45cd-92a7-daf180269bdf
+id: e83e6af7-2d2a-4c1e-a48a-ac619a77e528
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unité de mesure plus petite formée à partir d'une unité donnée selon
+      des conventions d'échelonnement
+  examples: []
+  id: 1.17-fra
+  language_code: fra
+  notes:
+  - content: l'un des sous-multiples décimaux du mètre est le millimètre.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sous-multiple d'une unité (de mesure), m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: fe4246f7-ea7e-4e9d-9269-44ab122ba4b0

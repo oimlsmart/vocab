@@ -2,14 +2,14 @@
 data:
   identifier: '4.1'
   localized_concepts:
-    eng: e79dde71-e4db-430c-81c3-2a2335b472a1
-    fra: 24378768-3f89-435c-b463-3096301b53df
+    eng: 1c62993d-45e1-4849-8137-129e8923be4b
+    fra: afb0aa04-f555-402f-9091-0360e4e6da20
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: b0ee574a-b802-437e-aced-f2d01de24d39
+id: 7501fb0a-6943-49dc-b62e-3711542aa46d
 schema_version: '3'
 ---
 data:
@@ -35,7 +35,7 @@ data:
     designation: indication
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: e79dde71-e4db-430c-81c3-2a2335b472a1
+id: 1c62993d-45e1-4849-8137-129e8923be4b
 ---
 data:
   dates:
@@ -60,4 +60,4 @@ data:
     designation: indication, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 24378768-3f89-435c-b463-3096301b53df
+id: afb0aa04-f555-402f-9091-0360e4e6da20

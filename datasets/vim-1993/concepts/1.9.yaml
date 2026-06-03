@@ -2,13 +2,14 @@
 data:
   identifier: '1.9'
   localized_concepts:
-    eng: 3348ffcb-0125-4828-8004-ab8316434e25
+    eng: 3aa51697-494e-4efe-b1cd-b3f6fd9c3f5d
+    fra: 7d1f8782-9138-4324-82c1-33edab5e70f9
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 4d17bb7a-e50c-495a-b29f-01a83cc44e91
+id: 7ecc97bf-380b-4fc9-b15c-475a92ff5795
 schema_version: '3'
 ---
 data:
@@ -16,18 +17,39 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: système d'unités (de mesure), m ensemble des unités de base et des unités
-      dérivées, définies suivant les règles données, pour un système de grandeurs
-      donné EXEMPLES international d'unités, SI; système d'unités CGS. international
-      d'unités, SI; système d'unités CGS.
-  examples: []
+  - content: set of base units, together with denved units, defined in accordance
+      with given rules, for a given system of quantities
+  examples:
+  - content: International System of Units. SI; CGS system of units. International
+      System of Units. SI; CGS system of units.
   id: 1.9-eng
   language_code: eng
   notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "( 1.08)"
+    designation: system of units (of measurement}
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3348ffcb-0125-4828-8004-ab8316434e25
+id: 3aa51697-494e-4efe-b1cd-b3f6fd9c3f5d
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des unités de base et des unités dérivées, définies suivant
+      les règles données, pour un système de grandeurs donné
+  examples:
+  - content: international d'unités, SI; système d'unités CGS. international d'unités,
+      SI; système d'unités CGS.
+  id: 1.9-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système d'unités (de mesure), m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7d1f8782-9138-4324-82c1-33edab5e70f9

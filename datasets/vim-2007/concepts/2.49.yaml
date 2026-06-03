@@ -2,14 +2,14 @@
 data:
   identifier: '2.49'
   localized_concepts:
-    eng: c45b5f5b-49cc-46e7-91ac-5d21ac685c02
-    fra: c9d419c3-5a1d-4f57-92de-d7ae77ab13bb
+    eng: 1bace7fa-d721-4226-95d7-a01557861dc5
+    fra: 9d03b6bd-6d95-4b58-9d7c-d70215653387
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: d4c178da-68ff-48d7-948d-93ea2fcd6822
+id: 71b66da2-7768-4a19-b019-f933cf947d0d
 schema_version: '3'
 ---
 data:
@@ -30,14 +30,14 @@ data:
       an algorithm, yielding for input quantity values x1, … , xn a corresponding
       unique output quantity value y = f (x1, … , xn).
   - content: A measurement function is also used to calculate the measurement uncertainty
-      associated with the measured quantity value of Y. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      associated with the measured quantity value of Y.
   terms:
   - type: expression
     normative_status: preferred
     designation: measurement function
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: c45b5f5b-49cc-46e7-91ac-5d21ac685c02
+id: 1bace7fa-d721-4226-95d7-a01557861dc5
 ---
 data:
   dates:
@@ -57,11 +57,11 @@ data:
       symboliser un algorithme qui fournit, pour les valeurs d’entrée x1, … , xn,
       une valeur de sortie unique correspondante y = f (x1, … , xn).
   - content: On utilise aussi une fonction de mesure pour calculer l’incertitude de
-      mesure associée à la valeur mesurée de Y. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      mesure associée à la valeur mesurée de Y.
   terms:
   - type: expression
     normative_status: preferred
     designation: fonction de mesure, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: c9d419c3-5a1d-4f57-92de-d7ae77ab13bb
+id: 9d03b6bd-6d95-4b58-9d7c-d70215653387

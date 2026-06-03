@@ -2,13 +2,14 @@
 data:
   identifier: '2.4'
   localized_concepts:
-    eng: 44a53f93-27d4-4af9-a4e8-89966ab16d3e
+    eng: 480860be-dfda-487b-8174-80213a76699d
+    fra: 83393536-952a-471e-8bb8-41f3dd05d88d
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 86d1ba11-71ba-4ef6-9268-fa40ee56152a
+id: d5e883fc-b7ff-4fda-a131-0384edf72c60
 schema_version: '3'
 ---
 data:
@@ -16,23 +17,113 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: méthode de mesure, f succession  logique  des  opérations,  décrites
-      d'une manière générique, mises en œuvre lors de l'exécution de mesurages
+  - content: logical sequence of operations, described gen-erically, used in the performance
+      of measure-ments
   examples: []
   id: 2.4-eng
   language_code: eng
   notes:
-  - content: La méthode de mesure peut être qualifiée de diverses façons telles que·
-      méthode de substitution méthode différentielle méthode de zéro. ‌2.5 (2.07)
-      measurement procedure set of operations, described specifically, used 1n the  performance  of  particular  measurements
-      according to a given method
-  - content: A measurement procedure is usually recorded in a document  that  is  sometimes  ,tself  called  a
-      "measurement procedure"  (or a measurement method) and is usually 1n sufficient
-      detail to enable an operator to carry out a measurement without additional information.
+  - content: 'Methods of measurement may be qualif1ed 1n vanous ways such as: substitution
+      method differential method null method.'
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(2.06)"
+    designation: method of measurement
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 44a53f93-27d4-4af9-a4e8-89966ab16d3e
+id: 480860be-dfda-487b-8174-80213a76699d
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: linéaire, échelle  4.23 logarithmique, échelle  4.24  note longueur d'une
+      division d'échelle  4.21 longueur d'échelle  4. î 8 M matérialisée, mesure  4.2
+      et préambule du chapitre 4 matériau de référence (MR)  6.13 et préambule du
+      chapitre 4 matériau de référence certifié (MRC)  6.14 maximales, erreurs, tolérées
+      d'un instrument de mesure 5.21 meilleure estimation  1.20  note 1 mème, grandeurs
+      de, nature  1.1  note 2 mesurable, grandeur  1.1 mesurage  2.1 mesurage, répétabilité
+      des résultats de 3.6 mesurage, reproductibilité des résultats de 3.7 mesurage,
+      résultat d'un 3.1 mesurande 2.6 mesurande, valeur transformée d'un 2.9 mesure,
+      appareil de  4.1 et preambule du chap:tre 4 mesure, appareil de, à affichage
+      analogique  4.10 mesure, appareil de, à affichage numérique  4.11 mesure, appareil
+      de, afficheur  4.6 mesure, appareil de, enregistreur  4.7 mesure, appareil de,
+      indicateur  4.6 mesure, appareil de, intégrateur  4.9 mesure, appareil de, totalisateur  4.8
+      mesure, calibrage d'un instrument de  4.29 mesure, chaîne de  4.4 et préambule
+      du chapitre 4 mesure, dispositif de  préambule du cl,apitre 4 mesure, échelle
+      d'un appareil de  4.17 mesure, mode opératoire de  2.5 mesure, multiple d'une
+      unité de  1.16 mesure, principe de  2.3 mesure, signal de 2.8 mesure, sous-multiple
+      d'une unité de 1.17 mesure, symbole d'une unité de 1.8 mesure, système de 4.5
+      et préambule du chapitre 4 mesure, système d'unités de  1.9 mesure, transducteur
+      de  4.3 et préambule du chapitre 4 mesure, unité de  1.7 mesure, unité de, de
+      base  1.13 mesure, unité de, dérivée  1.14 mesure, unité de, dérivée cohérente  1.10
+      mesure, unité de, hors système  1.15 méthode différentielle  2 .4  note méthode
+      de mesure  2.4
+  examples: []
+  id: 2.4-fra
+  language_code: fra
+  notes:
+  - content: méthode de zéro  2.4  note métrologie  2.2 mobilité, seuil de  5.11 mode
+      opératoire  2.5  note mode opératoire de mesure  2.5 morte, zone  5.13 moyenne,
+      écart-type expérimental de la  3.8  note 2 moyenne, erreur de la  3.8  note
+      3 M R, matériau de référence  6.13 M RC, matériau de référence certifié 6.14
+      multiple d'une unité de mesure  1.16 N national, étalon 6.3
+  - content: 2 nominale, valeur  5.3 non-linéaire, échelle 4.24
+  - content: 1 et 4.7 note 1
+  - content: 2 numérique, appareil de mesure à affichage  4.11 numérique, valeur,
+      d'une grandeur  1.21 0
+  - content: opératoire, mode, de mesure 2.5 p
+  - content: 1 partie  préambule du chapitre 4 point de contrôle d'un instrument de
+      mesure, erreur au 5.22
+  - content: 2 primaire, étalon  6.4 principe de mesure  2.3 Q quadratique, échelle
+      4.24 note R raccordement aux étalons  6.10  note 3 raccordement aux étalons,
+      chaîne de  6.10  note 2 rapport d'étalonnage  6.11  note 3 réduite, erreur,
+      conventionnelle d'un instrument de mesure  5.28 référence, conditions de  5.7
+      référence, étalon de  6.6 référence, étendues de  5.7  note référence, matériau
+      de, (MR)  6.13 et préambule du chapitre 4 référence, matériau de, certifié (MRC)  6.14
+      référence, valeur de  1.20  note 1 référence, valeurs de  5.7  note réglage
+      d'un instrument de mesure 4.31 régulière, échelle 4.23 note relative, erreur  3.12
+      repérage, échelle de  1.22 repères  4.17 répétabilité des résultats de mesurage  3.6
+      répétabilité, conditions de  3.6  note 1 réponse  2.8  note et préambule du
+      chapitre 5 réponse, temps de  5.17 reproductibilité des résultats de mesurage
+      3.7 résolution d'un dispositif afficheur  5.12 résultat brut 3.3 résultat corrigé
+      3.4 résultat d'un mesurage 3.1 résultats, répétabilité des, de mesurage  3.6
+      résultats, reproductibilité des, de mesurage  3.7 s sans dimension, grandeur  1.6
+      secondaire, étalon 6.5
+  - content: 3 sensibilité 5.10
+  - content: '2'
+  - content: 1 seuil de mobilité  5.11 SI, Système international d'unités  1.12 signal
+      de mesure  2.8 sous-multiple d'une unité de mesure  1.17 stimulus  2.8  note
+      et préambule du chapitre 5 substitution, méthode de  2.4  note symboles de grandeurs  1.1  note
+      4 symbole d'une unité de mesure  1.8 systématique, erreur  3.14 système cohérent
+      d'unités de mesure  1.11 système de grandeurs  1.2 Système international d'unités
+      SI 1.12 système de mesure 4.5 et préambule du chapitre 4 système d'unités de
+      mesure 1.9 système, unité de mesure hors 1.15 T temps de réponse 5.17 tolérées,
+      erreurs maximales, d'un instrument de mesure  5.21 tolérées, limites d'erreur,
+      d'un instrument de mesure  5.21 totalisateur, appareil de mesure 4.8 traçabilité  6.10
+  - content: 1 transducteur de mesure  4.3 et préambule du chapitre 4 transfert, caractéristique
+      de  5.9
+  - content: transfert, étalon de  6.8 transformée, valeur, d'un mesurande  2.9 travail,
+      étalon de  6.7 u un, grandeur de dimension  1.6 unité de mesure  1.7 unité de
+      mesure dérivée cohérente  1.10 unité de mesure de base  1.13 unité de mesure
+      dérivée 1.14 unité de mesure hors système  1.15 unité de mesure, multiple d'une  1.16
+      unité de mesure, sous-multiple d'une  1.17 unité de mesure, symbole d'une  1.8
+      unités de mesure, système d' 1.9 unités de mesure, système cohérent d'  1.11
+      unités, Système international d', SI  1.12 V
+  - content: 2 valeur assignée  1.20  note 1 valeur conventionnelle 5.28 note valeur
+      conventionnellement vraie d'une grandeur  1.20 valeur convenue  1.20  note 1
+      valeur d'une division d'échelle  4.22 valeur d'une grandeur  1.18 valeur nominale
+      5.3 valeur numérique d'une grandeur  1.21 valeur de référence  1.20  note 1
+      valeur transformée d'un mesurande  2.9 valeur vraie d'une grandeur  1.19 valeurs
+      assignées  5.5  note valeurs de référence  5.7  note z zéro décalé, échelle
+      à 4.25 voyageur, étalon 6.9 vraie, valeur conventionnellement, d'une grandeur  1.20
+      vraie, valeur, d'une grandeur  1.19 zéro, erreur à, d'un instrument de mesure  5.23
+      zéro, méthode de  2.4  note zone morte 5.13 Metrology 1993                                                                 59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limites d'erreur tolérées d'un instrument de mesure 5.21
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 83393536-952a-471e-8bb8-41f3dd05d88d

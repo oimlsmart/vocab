@@ -2,14 +2,14 @@
 data:
   identifier: '5.1'
   localized_concepts:
-    eng: 6ea8c1fd-9991-42f9-9357-36a0d4370725
-    fra: 7ee4750e-3665-4c87-ba9c-8fd6f00136ed
+    eng: 7cce5246-33d1-47b9-9732-2317e9a24511
+    fra: 05670d19-50f6-4d46-880e-ae11a7a15d2a
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: efaf1f43-5975-45a6-9d4d-240852d2a75c
+id: b6560df3-2fb2-4864-b2d7-cf77942e7309
 schema_version: '3'
 ---
 data:
@@ -64,9 +64,8 @@ data:
       at least two different meanings: as a specification, technical recommendation,
       or similar normative document (in French “norme”) and as a measurement standard
       (in French “étalon”). This Vocabulary is concerned solely with the second meaning.'
-  - content: 'The term “measurement standard” is sometimes used to denote other metrological
-      tools, e.g. ‘software measurement standard’, see ISO 5436-2. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-      Chapitre 5 : Étalons'
+  - content: The term “measurement standard” is sometimes used to denote other metrological
+      tools, e.g. ‘software measurement standard’, see ISO 5436-2.
   terms:
   - type: expression
     normative_status: preferred
@@ -76,7 +75,7 @@ data:
     designation: etalon
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 6ea8c1fd-9991-42f9-9357-36a0d4370725
+id: 7cce5246-33d1-47b9-9732-2317e9a24511
 ---
 data:
   dates:
@@ -84,16 +83,16 @@ data:
     type: accepted
   definition:
   - content: réalisation de la définition d'une grandeur donnée, avec une valeur déterminée
-      et une incertitude de mesure associée, utilisée comme référence EXEMPLES a)
-      Étalon de masse de 1 kg avec une incertitude-type associée de 3 µg. b) Résistance
-      étalon de 100 Ω avec une incertitude-type associée de 1 µΩ c) Étalon de fréquence
-      à césium avec une incertitude type associée de 2 × 1015. d) Électrode de référence
-      à hydrogène avec une valeur associée de 7,072 et une incertitude type associée
-      de 0,006. e) Série de solutions de référence de cortisol dans du sérum humain,
-      dont chaque solution a une valeur certifiée avec une incertitude de mesure.
-      f) Matériau de référence fournissant des valeurs avec les incertitudes de mesure
-      associées pour la concentration en masse de dix protéines différentes.
-  examples: []
+      et une incertitude de mesure associée, utilisée comme référence
+  examples:
+  - content: a) Étalon de masse de 1 kg avec une incertitude-type associée de 3 µg.
+      b) Résistance étalon de 100 Ω avec une incertitude-type associée de 1 µΩ c)
+      Étalon de fréquence à césium avec une incertitude type associée de 2 × 1015.
+      d) Électrode de référence à hydrogène avec une valeur associée de 7,072 et une
+      incertitude type associée de 0,006. e) Série de solutions de référence de cortisol
+      dans du sérum humain, dont chaque solution a une valeur certifiée avec une incertitude
+      de mesure. f) Matériau de référence fournissant des valeurs avec les incertitudes
+      de mesure associées pour la concentration en masse de dix protéines différentes.
   id: 5.1-fra
   language_code: fra
   notes:
@@ -127,11 +126,11 @@ data:
       technique ou autre document normatif, et celle d''étalon (en anglais « measurement
       standard »). Seule la deuxième signification relève du présent Vocabulaire.'
   - content: Le terme « étalon » est parfois utilisé pour désigner d'autres outils
-      métrologiques, par exemple un étalon logiciel (voir l'ISO 5436-2). _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      métrologiques, par exemple un étalon logiciel (voir l'ISO 5436-2).
   terms:
   - type: expression
     normative_status: preferred
     designation: étalon, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 7ee4750e-3665-4c87-ba9c-8fd6f00136ed
+id: 05670d19-50f6-4d46-880e-ae11a7a15d2a

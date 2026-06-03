@@ -1,0 +1,62 @@
+---
+data:
+  identifier: '6.10'
+  localized_concepts:
+    eng: c4c9e352-17c0-4e87-90a9-adb4a2c7d18f
+    fra: '093a8ed7-484d-4a76-8a1a-98c6e5389c2c'
+  domains:
+  - concept_id: section-6
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: ac468073-e775-4245-8c6d-b43ec845dce3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: property of the result of a measurement or the value of a standard whereby
+      it can be related to stated  references,  usually  national  or  inter-national
+      standards, through an unbroken chain of comparisons all having stated uncertainties
+  examples: []
+  id: 6.10-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traceability
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: c4c9e352-17c0-4e87-90a9-adb4a2c7d18f
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: propriété du résultat d'un mesurage ou d'un étalon tel qu'il puisse être
+      relié à des références déterminées, généralement des étalons natio-naux ou internationaux,
+      par l'intermédiaire d'une chaîne ininterrompue  de comparaisons  ayant toutes
+      des incertitudes déterminées The concept is often traceable. by the adJective
+  examples: []
+  id: 6.10-fra
+  language_code: fra
+  notes:
+  - content: Ce concept est souvent exprimé par l'adjectif traçable. The  unbroken  chain  of  compar1sons  is  called  atraceability
+      chain. only to the French text.) The  unbroken  chain  of  compar1sons  is  called  a
+      traceability chain. only to the French text.) La chaîne ininterrompue de comparaisons
+      est appelée chaîne de raccordement aux étalons ou chaîne d'étalonnage. La manière
+      dont s'effectue la liaison aux étalons est appelée raccordement aux étalons.
+      La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement aux
+      étalons ou chaîne d'étalonnage. La manière dont s'effectue la liaison aux étalons
+      est appelée raccordement aux étalons. l\1e'.rology 1993                                                                   47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traçabilité, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: '093a8ed7-484d-4a76-8a1a-98c6e5389c2c'

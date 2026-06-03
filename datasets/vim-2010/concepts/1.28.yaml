@@ -2,14 +2,14 @@
 data:
   identifier: '1.28'
   localized_concepts:
-    eng: 3e55518f-4acf-492e-b5e2-f9ee81bbdbc1
-    fra: e92b8146-9f93-4e84-a267-ac6f06679c76
+    eng: dfbae583-50bb-4469-ac50-3b7055c11c68
+    fra: 35e96036-a2cb-4e49-9ea5-897686f3ea96
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: cacf44cb-88b8-455c-9e45-ea45c6d03af2
+id: 85878d34-d22e-460b-9943-f8556fe35491
 schema_version: '3'
 ---
 data:
@@ -34,18 +34,18 @@ data:
     designation: ordinal value scale
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 3e55518f-4acf-492e-b5e2-f9ee81bbdbc1
+id: dfbae583-50bb-4469-ac50-3b7055c11c68
 ---
 data:
   dates:
   - date: '2010-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: échelle de valeurs pour grandeurs ordinales EXEMPLES a) Échelle de dureté
-      C de Rockwell. b) Échelle des indices d'octane pour les carburants. Note Une
-      échelle ordinale peut être établie par des mesurages conformément à une procédure
-      de mesure.
-  examples: []
+  - content: échelle de valeurs pour grandeurs ordinales
+  examples:
+  - content: a) Échelle de dureté C de Rockwell. b) Échelle des indices d'octane pour
+      les carburants. Note Une échelle ordinale peut être établie par des mesurages
+      conformément à une procédure de mesure.
   id: 1.28-fra
   language_code: fra
   notes: []
@@ -58,4 +58,4 @@ data:
     designation: échelle de repérage, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: e92b8146-9f93-4e84-a267-ac6f06679c76
+id: 35e96036-a2cb-4e49-9ea5-897686f3ea96

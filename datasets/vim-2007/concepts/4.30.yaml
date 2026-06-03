@@ -2,14 +2,14 @@
 data:
   identifier: '4.30'
   localized_concepts:
-    eng: eb2640e0-d8ba-4d88-9267-5656704fae83
-    fra: 05da06d6-86a4-4b82-b5d9-118a8aed1962
+    eng: 4109cdf3-bcb1-466e-935c-35c62fc1837f
+    fra: a5d26220-08f7-4b28-8211-d640efbfeb86
   domains:
   - concept_id: section-4
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: a4786a1f-bd78-40c0-95b0-7ee64f5b3b34
+id: d69c6edc-02a3-4f72-91cd-e8640def6792
 schema_version: '3'
 ---
 data:
@@ -39,7 +39,7 @@ data:
     designation: calibration diagram
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: eb2640e0-d8ba-4d88-9267-5656704fae83
+id: 4109cdf3-bcb1-466e-935c-35c62fc1837f
 ---
 data:
   dates:
@@ -68,4 +68,4 @@ data:
     designation: diagramme d’étalonnage, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 05da06d6-86a4-4b82-b5d9-118a8aed1962
+id: a5d26220-08f7-4b28-8211-d640efbfeb86

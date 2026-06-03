@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '4.23'
+  localized_concepts:
+    eng: f8d3065a-1d49-4753-ae16-cc5dd0780cb3
+    fra: a164308d-7f2b-4548-92ae-cfc9d73e1faf
+  domains:
+  - concept_id: section-4
+    source: urn:jcgm:pub:200:1993
+    ref_type: domain
+status: valid
+id: b42145c8-97ed-4eed-adf3-4402409d5706
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: scale in which each scale spacing is related to the corresponding scale
+      interval by a coefficient of proportionality that is constant throughout the
+      scale
+  examples: []
+  id: 4.23-eng
+  language_code: eng
+  notes:
+  - content: A linear scale having constant scale intervals is called a regular scale.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linear scale
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f8d3065a-1d49-4753-ae16-cc5dd0780cb3
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: échelle dans laquelle la longueur et la valeur de chaque division sont
+      reliées par un coefficient de proportionnalité constant le long de l'échelle
+      NOTE Une échelle linéaire  dont les échelons  sont constants est appelée échelle
+      régulière.
+  examples: []
+  id: 4.23-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle linéaire, f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: a164308d-7f2b-4548-92ae-cfc9d73e1faf

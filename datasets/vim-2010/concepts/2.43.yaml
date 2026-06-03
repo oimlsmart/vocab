@@ -2,14 +2,14 @@
 data:
   identifier: '2.43'
   localized_concepts:
-    eng: 55a528f5-d0ad-44d0-9c77-023c4ad109e6
-    fra: 47aaed57-e8e6-453b-841a-d5bd6c1c03a4
+    eng: 9c56b311-c2e0-4096-8d2f-014c2cb598c3
+    fra: 66c814d9-164b-4604-bc07-bb3171f59b41
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: a25a2e1b-9a00-4b39-b122-5f92ba5919af
+id: 609b2384-5c22-4098-ac59-cc54c6379730
 schema_version: '3'
 ---
 data:
@@ -20,7 +20,7 @@ data:
   - content: metrological traceability to a unit metrological traceability where the
       reference is the definition of a measurement unit through its practical realization
       Note The expression “traceability to the SI” means metrological traceability
-      to a measurement unit of the International System of Units. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      to a measurement unit of the International System of Units.
   examples: []
   id: 2.43-eng
   language_code: eng
@@ -31,7 +31,7 @@ data:
     designation: metrological traceability to a measurement unit
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 55a528f5-d0ad-44d0-9c77-023c4ad109e6
+id: 9c56b311-c2e0-4096-8d2f-014c2cb598c3
 ---
 data:
   dates:
@@ -41,7 +41,7 @@ data:
   - content: traçabilité métrologique à une unité, f traçabilité métrologique où la
       référence est la définition d'une unité de mesure sous la forme de sa réalisation
       pratique Note L'expression « traçabilité au SI » signifie la traçabilité métrologique
-      à une unité de mesure du Système international d'unités. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      à une unité de mesure du Système international d'unités.
   examples: []
   id: 2.43-fra
   language_code: fra
@@ -52,4 +52,4 @@ data:
     designation: traçabilité métrologique à une unité de mesure, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 47aaed57-e8e6-453b-841a-d5bd6c1c03a4
+id: 66c814d9-164b-4604-bc07-bb3171f59b41

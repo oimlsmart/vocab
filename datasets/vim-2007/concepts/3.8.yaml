@@ -2,14 +2,14 @@
 data:
   identifier: '3.8'
   localized_concepts:
-    eng: 34a25ae3-4910-499a-8896-a307a9d16f83
-    fra: 5b1f2ebd-2520-423e-92a6-acae6a69a772
+    eng: 38d48ccf-549f-4d2f-962b-9c679f23d188
+    fra: '0960924b-e47e-42c4-bb09-98c41031034c'
   domains:
   - concept_id: section-3
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: b0d428bd-10bb-41f9-80c5-8ceee223f2e0
+id: 504882d0-3b75-4624-9788-46cbc7779660
 schema_version: '3'
 ---
 data:
@@ -34,7 +34,7 @@ data:
     designation: sensor
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 34a25ae3-4910-499a-8896-a307a9d16f83
+id: 38d48ccf-549f-4d2f-962b-9c679f23d188
 ---
 data:
   dates:
@@ -42,13 +42,13 @@ data:
     type: accepted
   definition:
   - content: élément d'un système de mesure qui est directement soumis à l'action
-      du phénomène, du corps ou de la substance portant la grandeur à mesurer EXEMPLES
-      a) Bobine sensible d'un thermomètre à résistance de platine, b) rotor d'un débitmètre
-      à turbine, c) tube de Bourdon d'un manomètre, d) flotteur d'un appareil de mesure
-      de niveau, e) récepteur photoélectrique d'un spectrophotomètre, f) cristal liquide
-      thermotrope dont la couleur change en fonction de la température. Note Dans
-      certains domaines, le terme « détecteur » est employé pour ce concept.
-  examples: []
+      du phénomène, du corps ou de la substance portant la grandeur à mesurer
+  examples:
+  - content: a) Bobine sensible d'un thermomètre à résistance de platine, b) rotor
+      d'un débitmètre à turbine, c) tube de Bourdon d'un manomètre, d) flotteur d'un
+      appareil de mesure de niveau, e) récepteur photoélectrique d'un spectrophotomètre,
+      f) cristal liquide thermotrope dont la couleur change en fonction de la température.
+      Note Dans certains domaines, le terme « détecteur » est employé pour ce concept.
   id: 3.8-fra
   language_code: fra
   notes: []
@@ -58,4 +58,4 @@ data:
     designation: capteur, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 5b1f2ebd-2520-423e-92a6-acae6a69a772
+id: '0960924b-e47e-42c4-bb09-98c41031034c'

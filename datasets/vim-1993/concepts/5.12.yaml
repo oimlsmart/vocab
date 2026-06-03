@@ -2,13 +2,14 @@
 data:
   identifier: '5.12'
   localized_concepts:
-    eng: f750c224-697c-4598-94fa-7b7970f873b1
+    eng: 8c04cb4c-846a-4b63-9783-501da8909b49
+    fra: 702fb9b8-d17c-478e-8924-3ab5a53f155e
   domains:
   - concept_id: section-5
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: 24dcabb8-a72f-4e25-a3e0-7a0a44b626c9
+id: 6bc99a7f-6e54-41e1-aafd-c6f96264cabb
 schema_version: '3'
 ---
 data:
@@ -16,11 +17,33 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: résolution (d'un dispositif afficheur), f la plus petite différence d'indication
-      d'un dispo-sitif afficheur qui peut être perçue de manière significative
+  - content: smallest difference between indications of a displaying  device  that  can  be  meaningfully
+      distinguished
   examples: []
   id: 5.12-eng
   language_code: eng
+  notes:
+  - content: For a digital displaying device, this is the change in the indication
+      when the least significant digit changes by one step. 2 This concept applies
+      also to a recording device.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution (of a displaying device)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8c04cb4c-846a-4b63-9783-501da8909b49
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: la plus petite différence d'indication d'un dispo-sitif afficheur qui
+      peut être perçue de manière significative
+  examples: []
+  id: 5.12-fra
+  language_code: fra
   notes:
   - content: Pour  un dispositif  afficheur  numérique,  différence d'indication qui
       correspond au changement d'une unité du chiffre le moins significatif. 2 Ce
@@ -28,7 +51,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(5.13)"
+    designation: résolution (d'un dispositif afficheur), f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f750c224-697c-4598-94fa-7b7970f873b1
+id: 702fb9b8-d17c-478e-8924-3ab5a53f155e

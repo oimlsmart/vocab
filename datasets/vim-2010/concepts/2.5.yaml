@@ -2,14 +2,14 @@
 data:
   identifier: '2.5'
   localized_concepts:
-    eng: a277aebe-62c4-40e2-9f3c-99f6c5ba3d37
-    fra: 44ea1964-1fc1-4ace-af24-f4c337dc38b4
+    eng: c5f770a0-3796-49a0-84ce-ee60ce7c86b5
+    fra: b1879f0f-4062-46b0-acb5-abe62ba2fc60
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 2445989b-2ec4-4493-bfe8-879367beac3e
+id: e9e400a6-6328-4347-a993-93e7052a2d4d
 schema_version: '3'
 ---
 data:
@@ -35,7 +35,7 @@ data:
     designation: method of measurement
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: a277aebe-62c4-40e2-9f3c-99f6c5ba3d37
+id: c5f770a0-3796-49a0-84ce-ee60ce7c86b5
 ---
 data:
   dates:
@@ -57,4 +57,4 @@ data:
     designation: méthode de mesure, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 44ea1964-1fc1-4ace-af24-f4c337dc38b4
+id: b1879f0f-4062-46b0-acb5-abe62ba2fc60

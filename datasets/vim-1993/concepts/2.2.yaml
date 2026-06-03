@@ -2,14 +2,14 @@
 data:
   identifier: '2.2'
   localized_concepts:
-    eng: bf77ac5c-61a0-4a0b-b624-81e4d0cb2811
-    fra: 2a5d26f7-9c62-491a-a1ae-077b0bf61883
+    eng: '028b8235-3ad6-4317-8365-bf84e36d361e'
+    fra: 9453b7fa-6e18-40dd-96c5-94b03de66df6
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: f893e074-9e64-480d-9bb8-6f939a7ae2a2
+id: 471514b3-1342-412d-b302-86719fb1ab2e
 schema_version: '3'
 ---
 data:
@@ -17,39 +17,37 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: science of measurement
+  - content: science of measurement NOTE Metrology 1ncludes ail aspects both theoret1oa1
+      and pr;,ctical  with  reference  to  measuremems, whatever their uncertainty,
+      and 1n whatever fields of science or technology they occur
   examples: []
   id: 2.2-eng
   language_code: eng
-  notes:
-  - content: Metrology 1ncludes ail aspects both theoret1oa1 and pr;,ctical  with  reference  to  measuremems,
-      whatever their uncertainty, and 1n whatever fields of science or technology
-      they occur
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: metrology
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: bf77ac5c-61a0-4a0b-b624-81e4d0cb2811
+id: '028b8235-3ad6-4317-8365-bf84e36d361e'
 ---
 data:
   dates:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: science de la mesure
+  - content: science de la mesure NOTE La métrologie embrasse tous les aspects aussi
+      bien théoriques que pratiques se rapportant aux mesurages, quelie que soit l'incertitude
+      de ceux-ci, aans quelque aoma1ne de la science et de la technologie que ce soit.
   examples: []
   id: 2.2-fra
   language_code: fra
-  notes:
-  - content: La métrologie embrasse tous les aspects aussi bien théoriques que pratiques
-      se rapportant aux mesurages, quelie que soit l'incertitude de ceux-ci, aans
-      quelque aoma1ne de la science et de la technologie que ce soit.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: métrologie, f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 2a5d26f7-9c62-491a-a1ae-077b0bf61883
+id: 9453b7fa-6e18-40dd-96c5-94b03de66df6

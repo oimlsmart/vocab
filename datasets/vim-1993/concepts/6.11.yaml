@@ -2,13 +2,14 @@
 data:
   identifier: '6.11'
   localized_concepts:
-    eng: f703b5df-f794-4eba-a278-16bc3ca800be
+    eng: 4167cb30-e71e-45ac-944f-0882db8dde48
+    fra: c30dc415-563d-40bd-8841-855accc9d7d5
   domains:
   - concept_id: section-6
     source: urn:jcgm:pub:200:1993
     ref_type: domain
 status: valid
-id: e5771c68-2d2f-4e55-a4dd-1a190fa83085
+id: b90aa33b-286b-4785-b0d0-d7a5e59bc79c
 schema_version: '3'
 ---
 data:
@@ -16,14 +17,43 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: étalonnage, m ensemble des opérations établissant, dans des conditions  spécifiées,  la  relation  entre  les
+  - content: set of operations that establish, under specified conditions, the relationship
+      between values of quantities indioated by a measuring instrument or measuring
+      system, or values represented by a material measure or a reference material,
+      and the oorresponding values realized by standards
+  examples: []
+  id: 6.11-eng
+  language_code: eng
+  notes:
+  - content: The  result  of  a  calibration  permits  either  the assignment of values
+      of rneasurands to the indications or the determination of corrections with respect
+      to indications. A calibration may also determine other metro!ogical properties
+      such as the effect of influence quantities. The result of a calibration may
+      be recorded in a document, sometimes called a calibration certificate or a calibration
+      report. A calibration may also determine other metro!ogical properties such
+      as the effect of influence quantities. The result of a calibration may be recorded
+      in a document, sometimes called a calibration certificate or a calibration report.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4167cb30-e71e-45ac-944f-0882db8dde48
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des opérations établissant, dans des conditions  spécifiées,  la  relation  entre  les
       valeurs de la grandeur indiquées par un appareil de mesure ou un système de
       mesure, ou les valeurs représentées par une mesure matéria-lisée ou par un matériau
       de référence, et les valeurs correspondantes de la grandeur réali-sées par des
       étalons
   examples: []
-  id: 6.11-eng
-  language_code: eng
+  id: 6.11-fra
+  language_code: fra
   notes:
   - content: Le résultat d un étalonnage permet soit d'attribuer aux 1ndicat1ons les
       valeurs correspondantes du mesurande, soit de déterminer les corrections à appliquer
@@ -39,7 +69,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(6.13)"
+    designation: étalonnage, m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: f703b5df-f794-4eba-a278-16bc3ca800be
+id: c30dc415-563d-40bd-8841-855accc9d7d5

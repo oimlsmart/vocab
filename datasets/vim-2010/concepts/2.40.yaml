@@ -2,14 +2,14 @@
 data:
   identifier: '2.40'
   localized_concepts:
-    eng: '018fc34c-b721-4ce7-b7d7-f43d39d177a5'
-    fra: 43ad0316-d611-469b-9110-cf7a559579fd
+    eng: 48039f0f-65d5-4eb1-a09e-be4cf1be3f5a
+    fra: dda66420-4f36-4885-9ce4-ca708dad2188
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 2398a9f8-16a2-450a-a65f-934ca7564d37
+id: b7e5a86c-130f-42ba-aa97-c052aaee33eb
 schema_version: '3'
 ---
 data:
@@ -33,14 +33,13 @@ data:
   - content: A comparison between two measurement standards may be viewed as a calibration
       if the comparison is used to check and, if necessary, correct the quantity value
       and measurement uncertainty attributed to one of the measurement standards.
-      _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   terms:
   - type: expression
     normative_status: preferred
     designation: calibration hierarchy
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: '018fc34c-b721-4ce7-b7d7-f43d39d177a5'
+id: 48039f0f-65d5-4eb1-a09e-be4cf1be3f5a
 ---
 data:
   dates:
@@ -62,11 +61,11 @@ data:
       ou un étalon.
   - content: Une comparaison entre deux étalons peut être considérée comme un étalonnage
       si elle sert à vérifier et, si nécessaire, à corriger la valeur et l'incertitude
-      attribuées à l'un des étalons. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      attribuées à l'un des étalons.
   terms:
   - type: expression
     normative_status: preferred
     designation: hiérarchie d'étalonnage, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 43ad0316-d611-469b-9110-cf7a559579fd
+id: dda66420-4f36-4885-9ce4-ca708dad2188

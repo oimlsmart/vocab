@@ -2,14 +2,14 @@
 data:
   identifier: '2.15'
   localized_concepts:
-    eng: b3f26d80-f7bf-42e8-8b67-5330133ff960
-    fra: c92b449c-29d3-4d9c-a515-5289e1c93ed7
+    eng: c92567e2-a50b-4ba5-9992-2a06775a47c4
+    fra: '08efadfd-1224-4499-9ce3-e721cb42190f'
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: 5207231d-6cc5-4068-a17c-ec0ca1adb151
+id: 6046ea92-e68c-43e7-a140-a9cd6ab9ef5b
 schema_version: '3'
 ---
 data:
@@ -33,7 +33,7 @@ data:
   - content: Measurement precision is used to define measurement repeatability, intermediate
       measurement precision, and measurement reproducibility.
   - content: Sometimes ‘measurement precision’ is erroneously used to mean measurement
-      accuracy. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      accuracy.
   terms:
   - type: expression
     normative_status: preferred
@@ -43,7 +43,7 @@ data:
     designation: precision
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: b3f26d80-f7bf-42e8-8b67-5330133ff960
+id: c92567e2-a50b-4ba5-9992-2a06775a47c4
 ---
 data:
   dates:
@@ -66,7 +66,7 @@ data:
   - content: La fidélité sert à définir la répétabilité de mesure, la fidélité intermédiaire
       de mesure et la reproductibilité de mesure.
   - content: Le terme « fidélité de mesure » est quelquefois utilisé improprement
-      pour désigner l’exactitude de mesure. _________________________________________________________________________________________________________________________________________________________________________________________________________________________
+      pour désigner l’exactitude de mesure.
   terms:
   - type: expression
     normative_status: preferred
@@ -76,4 +76,4 @@ data:
     designation: fidélité, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: c92b449c-29d3-4d9c-a515-5289e1c93ed7
+id: '08efadfd-1224-4499-9ce3-e721cb42190f'

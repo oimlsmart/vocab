@@ -36,7 +36,7 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 - `datasets/vim/` — Glossarist v3 dataset for VIM 2012 (144 concepts, current)
 - `datasets/vim-2010/` — Glossarist v3 dataset for VIM 2010 (143 concepts)
 - `datasets/vim-2007/` — Glossarist v3 dataset for VIM 2007 (143 concepts)
-- `datasets/vim-1993/` — Glossarist v3 dataset for VIM 1993 (87 concepts, OCR)
+- `datasets/vim-1993/` — Glossarist v3 dataset for VIM 1993 (120 concepts, OCR)
 - `about.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
 - `scripts/scrape_viml.rb` — Scraper for VIML 2022 dataset (from viml.oiml.info)
@@ -102,9 +102,9 @@ Four VIM editions are available as separate datasets:
 | 2012 (current) | `datasets/vim/` | 144 | Bilingual EN/FR, scraped from jcgm.bipm.org/vim |
 | 2010 | `datasets/vim-2010/` | 143 | Bilingual EN/FR, scraped from pdftotext |
 | 2007 | `datasets/vim-2007/` | 143 | Bilingual EN/FR, scraped from pdftotext |
-| 1993 | `datasets/vim-1993/` | 87 | Bilingual EN/FR (limited FR from OCR), OCR quality poor |
+| 1993 | `datasets/vim-1993/` | 120 | Bilingual EN/FR, OCR HTML (6 chapters, 5.29-5.33 do not exist) |
 
-VIM 2007/2010 share the same concept numbering (5 chapters). VIM 1993 has a different structure (6 chapters).
+VIM 2007/2010 share the same concept numbering (5 chapters, 143 concepts). VIM 1993 has 6 chapters with 120 concepts (1.1-1.22, 2.1-2.9, 3.1-3.16, 4.1-4.31, 5.1-5.28, 6.1-6.14).
 
 To update 2012: `ruby scripts/scrape_vim.rb` (fetch/build/about phases)
 To update 2007/2010: `ruby scripts/scrape_vim_pdf.rb EDITION` (2007 or 2010)

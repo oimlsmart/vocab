@@ -2,14 +2,14 @@
 data:
   identifier: '2.8'
   localized_concepts:
-    eng: ddb17523-ddf9-4212-b286-5ec52708bfb3
-    fra: 8f961b80-4e7e-4c37-b331-486900615665
+    eng: afabf59c-e167-414a-83b4-cde75f8992dd
+    fra: cb1e73da-87cc-4cf4-a76c-92ce0dd45715
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
     ref_type: domain
 status: valid
-id: b55e150c-1aa3-4f74-954e-5e876ca0f5e7
+id: 0073d8d8-6f4e-4721-9e16-14e263fc1991
 schema_version: '3'
 ---
 data:
@@ -40,7 +40,7 @@ data:
     designation: primary reference measurement procedure
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: ddb17523-ddf9-4212-b286-5ec52708bfb3
+id: afabf59c-e167-414a-83b4-cde75f8992dd
 ---
 data:
   dates:
@@ -49,12 +49,13 @@ data:
   definition:
   - content: procédure opératoire primaire, m procédure de mesure de référence utilisée
       pour obtenir un résultat de mesure sans relation avec un étalon d'une grandeur
-      de même nature EXEMPLE Le volume d'eau délivré par une pipette de 5 ml à 20
-      °C est mesuré en pesant l'eau délivrée par la pipette dans un bécher, en prenant
-      la différence entre la masse du bécher contenant l'eau et la masse du bécher
-      initialement vide, puis en corrigeant la différence de masse pour la température
-      réelle de l'eau par l'intermédiaire de la masse volumique.
-  examples: []
+      de même nature
+  examples:
+  - content: Le volume d'eau délivré par une pipette de 5 ml à 20 °C est mesuré en
+      pesant l'eau délivrée par la pipette dans un bécher, en prenant la différence
+      entre la masse du bécher contenant l'eau et la masse du bécher initialement
+      vide, puis en corrigeant la différence de masse pour la température réelle de
+      l'eau par l'intermédiaire de la masse volumique.
   id: 2.8-fra
   language_code: fra
   notes:
@@ -69,4 +70,4 @@ data:
     designation: procédure de mesure primaire, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 8f961b80-4e7e-4c37-b331-486900615665
+id: cb1e73da-87cc-4cf4-a76c-92ce0dd45715
