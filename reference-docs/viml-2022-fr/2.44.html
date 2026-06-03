@@ -1,0 +1,224 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+<link rel="stylesheet" href="../res/jquery.mobile.min.css" />
+<link rel="stylesheet" href="../res/style.css" type="text/css" />
+<script src="../res/jquery.js"></script>
+<script src="../res/jquery.mobile.min.js"></script>
+<script src="toc.js"></script>
+<script src="../res/script.js"></script>
+
+</head>
+<body>
+<div data-role="page">
+
+<div data-role="header" data-position="fixed" data-theme="a">
+<h2 class="lemmatitle"><div name="exalead-titre">[VIM3] 2.44 v&eacute;rification</div></h2>
+<a href="#leftpanel" data-role="button" class="menu ui-btn-left" data-icon="star">Table des mati&egrave;res</a>
+<a href="#navigation" data-rel="popup" class="menu ui-btn-right" data-icon="gear">Options</a>
+</div><!-- /header -->
+
+<div data-role="content">
+<div name="exalead">
+<p class="Definition">fourniture de preuves tangibles qu'une entit&eacute; donn&eacute;e satisfait &agrave; des exigences sp&eacute;cifi&eacute;es</p><div id="notes" data-role="collapsible" data-mini="true"><h3>Notes</h3><p class="NoteEx">EXEMPLE 1 Confirmation qu'un <span class="AnchorInNote"><a href="5.13.html" onmouseover="tooltip.show('mat&eacute;riau suffisamment homog&egrave;ne et stable en ce qui concerne des propri&eacute;t&eacute;s sp&eacute;cifi&eacute;es, qui a &eacute;t&eacute; pr&eacute;par&eacute; pour &ecirc;tre adapt&eacute; &agrave; son utilisation pr&eacute;vue pour un mesurage ou pour l\'examen de propri&eacute;t&eacute;s qualitatives');" onmouseout="tooltip.hide();">mat&eacute;riau de r&eacute;f&eacute;rence</a></span> donn&eacute; est bien, comme d&eacute;clar&eacute;, homog&egrave;ne pour la <span class="AnchorInNote"><a href="1.19.html" onmouseover="tooltip.show('ensemble d\'un nombre et d\'une r&eacute;f&eacute;rence constituant l\'expression quantitative d\'une grandeur');" onmouseout="tooltip.hide();">valeur</a></span> et la <span class="AnchorInNote"><a href="2.6.html" onmouseover="tooltip.show('description d&eacute;taill&eacute;e d\'un mesurage conform&eacute;ment &agrave; un ou plusieurs principes de mesure et &agrave; une m&eacute;thode de mesure donn&eacute;e, fond&eacute;e sur un mod&egrave;le de mesure et incluant tout calcul destin&eacute; &agrave; obtenir un r&eacute;sultat de mesure');" onmouseout="tooltip.hide();">proc&eacute;dure de mesure</a></span> concern&eacute;es jusqu'&agrave; des prises de mesure de masse 10 mg.</p><p class="NoteEx">EXEMPLE 2 Confirmation que des propri&eacute;t&eacute;s relatives aux performances ou des exigences l&eacute;gales sont satisfaites par un <span class="AnchorInNote"><a href="3.2.html" onmouseover="tooltip.show('ensemble d\'un ou plusieurs instruments de mesure et souvent d\'autres dispositifs, comprenant si n&eacute;cessaire r&eacute;actifs et alimentations, assembl&eacute;s et adapt&eacute;s pour fournir des informations destin&eacute;es &agrave; obtenir des valeurs mesur&eacute;es dans des intervalles sp&eacute;cifi&eacute;s pour des grandeurs de natures sp&eacute;cifi&eacute;es');" onmouseout="tooltip.hide();">syst&egrave;me de mesure</a></span>.</p><p class="NoteEx">EXEMPLE 3 Confirmation qu'une <span class="AnchorInNote"><a href="2.34.html" onmouseover="tooltip.show('incertitude de mesure sp&eacute;cifi&eacute;e comme une limite sup&eacute;rieure et choisie d\'apr&egrave;s les usages pr&eacute;vus des r&eacute;sultats de mesure');" onmouseout="tooltip.hide();">incertitude cible</a></span> peut &ecirc;tre atteinte.</p><p class="NoteEx">NOTE 1 S'il y a lieu, il convient de prendre en compte l'<span class="AnchorInNote"><a href="2.26.html" onmouseover="tooltip.show('param&egrave;tre non n&eacute;gatif qui caract&eacute;rise la dispersion des valeurs attribu&eacute;es &agrave; un mesurande, &agrave; partir des informations utilis&eacute;es');" onmouseout="tooltip.hide();">incertitude de mesure</a></span>.</p><p class="NoteEx">NOTE 2 L'entit&eacute; peut &ecirc;tre, par exemple, un processus, une proc&eacute;dure de mesure, un mat&eacute;riau, un compos&eacute; ou un syst&egrave;me de mesure.</p><p class="NoteEx">NOTE 3 Les exigences sp&eacute;cifi&eacute;es peuvent &ecirc;tre, par exemple, les sp&eacute;cifications d'un fabricant.</p><p class="NoteEx">NOTE 4 La v&eacute;rification en m&eacute;trologie l&eacute;gale, comme d&eacute;finie dans le VIML [53], et plus g&eacute;n&eacute;ralement en &eacute;valuation de la conformit&eacute;, comporte l'examen et le marquage et/ou la d&eacute;livrance d'un certificat de v&eacute;rification pour un syst&egrave;me de mesure.</p><p class="NoteEx">NOTE 5 Il convient de ne pas confondre la v&eacute;rification avec l'<span class="AnchorInNote"><a href="2.39.html" onmouseover="tooltip.show('op&eacute;ration qui, dans des conditions sp&eacute;cifi&eacute;es, &eacute;tablit en une premi&egrave;re &eacute;tape une relation entre les valeurs et les incertitudes de mesure associ&eacute;es qui sont fournies par des &eacute;talons et les indications correspondantes avec les incertitudes associ&eacute;es, puis utilise en une seconde &eacute;tape cette information pour &eacute;tablir une relation permettant d\'obtenir un r&eacute;sultat de mesure &agrave; partir d\'une indication');" onmouseout="tooltip.hide();">&eacute;talonnage</a></span>. Toute v&eacute;rification n'est pas une <span class="AnchorInNote"><a href="2.45.html" onmouseover="tooltip.show('v&eacute;rification, o&ugrave; les exigences sp&eacute;cifi&eacute;es sont ad&eacute;quates pour un usage d&eacute;termin&eacute;');" onmouseout="tooltip.hide();">validation</a></span>.</p><p class="NoteEx">NOTE 6 En chimie, la v&eacute;rification de l'identit&eacute; d'une entit&eacute;, ou celle d'une activit&eacute;, n&eacute;cessite une description de la structure ou des propri&eacute;t&eacute;s de cette entit&eacute; ou activit&eacute;.</p></div>
+<div id="annotations" data-role="collapsible" data-mini="true"><h3>Annotations</h3>
+<p class="Annotation">
+ANNOTATION (pour l'Exemple 1) (informative) [5 juin 2014] Une &laquo;prise de mesure&raquo; signifie ici un pr&eacute;l&egrave;vement de taille appropri&eacute;e effectu&eacute; sur le mat&eacute;riau de r&eacute;f&eacute;rence en vue de mesurer toute grandeur pr&eacute;sentant de l'int&eacute;r&ecirc;t.
+</p>
+</div>
+</div><!-- /exalead -->
+</div><!-- /content -->
+<div data-role="panel" id="leftpanel" data-position="left" data-display="reveal" data-theme="a">
+<a href="#" data-rel="close" class="ui-btn ui-btn-icon-notext ui-corner-all ui-icon-delete ui-nodisc-icon ui-alt-icon ui-btn-left"></a>
+<h3 align="center">Table des mati&egrave;res</h3>
+<form><input data-type="search" id="searchForCollapsibleSetChildren" data-filter-placeholder="Filter items..."></form>
+<div id="toc" data-role="collapsible-set" data-filter="true" data-children="> div, > div div ul li" data-inset="true" data-input="#searchForCollapsibleSetChildren"><h3>Sommaire</h3>
+<div data-role="collapsible" id="c1" data-mini="true">
+<h3>1 Grandeurs et unit&eacute;s</h3>
+<ul data-role="listview" data-inset="false">
+<li><a class="lemma" href="1.1.html">1.1 grandeur</a></li>
+<li><a class="lemma" href="1.2.html">1.2 nature de grandeur</a></li>
+<li><a class="lemma" href="1.3.html">1.3 syst&egrave;me de grandeurs</a></li>
+<li><a class="lemma" href="1.4.html">1.4 grandeur de base</a></li>
+<li><a class="lemma" href="1.5.html">1.5 grandeur d&eacute;riv&eacute;e</a></li>
+<li><a class="lemma" href="1.6.html">1.6 Syst&egrave;me international de grandeurs</a></li>
+<li><a class="lemma" href="1.7.html">1.7 dimension</a></li>
+<li><a class="lemma" href="1.8.html">1.8 grandeur sans dimension</a></li>
+<li><a class="lemma" href="1.9.html">1.9 unit&eacute; de mesure</a></li>
+<li><a class="lemma" href="1.10.html">1.10 unit&eacute; de base</a></li>
+<li><a class="lemma" href="1.11.html">1.11 unit&eacute; d&eacute;riv&eacute;e</a></li>
+<li><a class="lemma" href="1.12.html">1.12 unit&eacute; d&eacute;riv&eacute;e coh&eacute;rente</a></li>
+<li><a class="lemma" href="1.13.html">1.13 syst&egrave;me d'unit&eacute;s</a></li>
+<li><a class="lemma" href="1.14.html">1.14 syst&egrave;me coh&eacute;rent d'unit&eacute;s</a></li>
+<li><a class="lemma" href="1.15.html">1.15 unit&eacute; hors syst&egrave;me</a></li>
+<li><a class="lemma" href="1.16.html">1.16 Syst&egrave;me international d'unit&eacute;s</a></li>
+<li><a class="lemma" href="1.17.html">1.17 multiple d'une unit&eacute;</a></li>
+<li><a class="lemma" href="1.18.html">1.18 sous-multiple d'une unit&eacute;</a></li>
+<li><a class="lemma" href="1.19.html">1.19 valeur d'une grandeur</a></li>
+<li><a class="lemma" href="1.20.html">1.20 valeur num&eacute;rique</a></li>
+<li><a class="lemma" href="1.21.html">1.21 alg&egrave;bre des grandeurs</a></li>
+<li><a class="lemma" href="1.22.html">1.22 &eacute;quation aux grandeurs</a></li>
+<li><a class="lemma" href="1.23.html">1.23 &eacute;quation aux unit&eacute;s</a></li>
+<li><a class="lemma" href="1.24.html">1.24 facteur de conversion entre unit&eacute;s</a></li>
+<li><a class="lemma" href="1.25.html">1.25 &eacute;quation aux valeurs num&eacute;riques</a></li>
+<li><a class="lemma" href="1.26.html">1.26 grandeur ordinale</a></li>
+<li><a class="lemma" href="1.27.html">1.27 &eacute;chelle de valeurs</a></li>
+<li><a class="lemma" href="1.28.html">1.28 &eacute;chelle ordinale</a></li>
+<li><a class="lemma" href="1.29.html">1.29 &eacute;chelle de r&eacute;f&eacute;rence conventionnelle</a></li>
+<li><a class="lemma" href="1.30.html">1.30 propri&eacute;t&eacute; qualitative</a></li>
+</ul></div>
+<div data-role="collapsible" id="c2" data-mini="true">
+<h3>2 Mesurages</h3>
+<ul data-role="listview" data-inset="false">
+<li><a class="lemma" href="2.1.html">2.1 mesurage</a></li>
+<li><a class="lemma" href="2.2.html">2.2 m&eacute;trologie</a></li>
+<li><a class="lemma" href="2.3.html">2.3 mesurande</a></li>
+<li><a class="lemma" href="2.4.html">2.4 principe de mesure</a></li>
+<li><a class="lemma" href="2.5.html">2.5 m&eacute;thode de mesure</a></li>
+<li><a class="lemma" href="2.6.html">2.6 proc&eacute;dure de mesure</a></li>
+<li><a class="lemma" href="2.7.html">2.7 proc&eacute;dure de mesure de r&eacute;f&eacute;rence</a></li>
+<li><a class="lemma" href="2.8.html">2.8 proc&eacute;dure de mesure primaire</a></li>
+<li><a class="lemma" href="2.9.html">2.9 r&eacute;sultat de mesure</a></li>
+<li><a class="lemma" href="2.10.html">2.10 valeur mesur&eacute;e</a></li>
+<li><a class="lemma" href="2.11.html">2.11 valeur vraie</a></li>
+<li><a class="lemma" href="2.12.html">2.12 valeur conventionnelle</a></li>
+<li><a class="lemma" href="2.13.html">2.13 exactitude de mesure</a></li>
+<li><a class="lemma" href="2.14.html">2.14 justesse de mesure</a></li>
+<li><a class="lemma" href="2.15.html">2.15 fid&eacute;lit&eacute; de mesure</a></li>
+<li><a class="lemma" href="2.16.html">2.16 erreur de mesure</a></li>
+<li><a class="lemma" href="2.17.html">2.17 erreur syst&eacute;matique</a></li>
+<li><a class="lemma" href="2.18.html">2.18 biais de mesure</a></li>
+<li><a class="lemma" href="2.19.html">2.19 erreur al&eacute;atoire</a></li>
+<li><a class="lemma" href="2.20.html">2.20 condition de r&eacute;p&eacute;tabilit&eacute;</a></li>
+<li><a class="lemma" href="2.21.html">2.21 r&eacute;p&eacute;tabilit&eacute; de mesure</a></li>
+<li><a class="lemma" href="2.22.html">2.22 condition de fid&eacute;lit&eacute; interm&eacute;diaire</a></li>
+<li><a class="lemma" href="2.23.html">2.23 fid&eacute;lit&eacute; interm&eacute;diaire de mesure</a></li>
+<li><a class="lemma" href="2.24.html">2.24 condition de reproductibilit&eacute;</a></li>
+<li><a class="lemma" href="2.25.html">2.25 reproductibilit&eacute; de mesure</a></li>
+<li><a class="lemma" href="2.26.html">2.26 incertitude de mesure</a></li>
+<li><a class="lemma" href="2.27.html">2.27 incertitude d&eacute;finitionnelle</a></li>
+<li><a class="lemma" href="2.28.html">2.28 &eacute;valuation de type A de l'incertitude</a></li>
+<li><a class="lemma" href="2.29.html">2.29 &eacute;valuation de type B de l'incertitude</a></li>
+<li><a class="lemma" href="2.30.html">2.30 incertitude-type</a></li>
+<li><a class="lemma" href="2.31.html">2.31 incertitude-type compos&eacute;e</a></li>
+<li><a class="lemma" href="2.32.html">2.32 incertitude-type relative</a></li>
+<li><a class="lemma" href="2.33.html">2.33 bilan d'incertitude</a></li>
+<li><a class="lemma" href="2.34.html">2.34 incertitude cible</a></li>
+<li><a class="lemma" href="2.35.html">2.35 incertitude &eacute;largie</a></li>
+<li><a class="lemma" href="2.36.html">2.36 intervalle &eacute;largi</a></li>
+<li><a class="lemma" href="2.37.html">2.37 probabilit&eacute; de couverture</a></li>
+<li><a class="lemma" href="2.38.html">2.38 facteur d'&eacute;largissement</a></li>
+<li><a class="lemma" href="2.39.html">2.39 &eacute;talonnage</a></li>
+<li><a class="lemma" href="2.40.html">2.40 hi&eacute;rarchie d'&eacute;talonnage</a></li>
+<li><a class="lemma" href="2.41.html">2.41 tra&ccedil;abilit&eacute; m&eacute;trologique</a></li>
+<li><a class="lemma" href="2.42.html">2.42 cha&icirc;ne de tra&ccedil;abilit&eacute; m&eacute;trologique</a></li>
+<li><a class="lemma" href="2.43.html">2.43 tra&ccedil;abilit&eacute; m&eacute;trologique &agrave; une unit&eacute; de mesure</a></li>
+<li><a class="lemma" href="2.44.html">2.44 v&eacute;rification</a></li>
+<li><a class="lemma" href="2.45.html">2.45 validation</a></li>
+<li><a class="lemma" href="2.46.html">2.46 comparabilit&eacute; m&eacute;trologique</a></li>
+<li><a class="lemma" href="2.47.html">2.47 compatibilit&eacute; de mesure</a></li>
+<li><a class="lemma" href="2.48.html">2.48 mod&egrave;le de mesure</a></li>
+<li><a class="lemma" href="2.49.html">2.49 fonction de mesure</a></li>
+<li><a class="lemma" href="2.50.html">2.50 grandeur d'entr&eacute;e dans un mod&egrave;le de mesure</a></li>
+<li><a class="lemma" href="2.51.html">2.51 grandeur de sortie dans un mod&egrave;le de mesure</a></li>
+<li><a class="lemma" href="2.52.html">2.52 grandeur d'influence</a></li>
+<li><a class="lemma" href="2.53.html">2.53 correction</a></li>
+</ul></div>
+<div data-role="collapsible" id="c3" data-mini="true">
+<h3>3 Dispositifs de mesure</h3>
+<ul data-role="listview" data-inset="false">
+<li><a class="lemma" href="3.1.html">3.1 instrument de mesure</a></li>
+<li><a class="lemma" href="3.2.html">3.2 syst&egrave;me de mesure</a></li>
+<li><a class="lemma" href="3.3.html">3.3 appareil de mesure indicateur</a></li>
+<li><a class="lemma" href="3.4.html">3.4 appareil de mesure afficheur</a></li>
+<li><a class="lemma" href="3.5.html">3.5 &eacute;chelle d'un appareil de mesure afficheur</a></li>
+<li><a class="lemma" href="3.6.html">3.6 mesure mat&eacute;rialis&eacute;e</a></li>
+<li><a class="lemma" href="3.7.html">3.7 transducteur de mesure</a></li>
+<li><a class="lemma" href="3.8.html">3.8 capteur</a></li>
+<li><a class="lemma" href="3.9.html">3.9 d&eacute;tecteur</a></li>
+<li><a class="lemma" href="3.10.html">3.10 cha&icirc;ne de mesure</a></li>
+<li><a class="lemma" href="3.11.html">3.11 ajustage d'un syst&egrave;me de mesure</a></li>
+<li><a class="lemma" href="3.12.html">3.12 r&eacute;glage de z&eacute;ro</a></li>
+</ul></div>
+<div data-role="collapsible" id="c4" data-mini="true">
+<h3>4 Propri&eacute;t&eacute;s des dispositifs de mesure</h3>
+<ul data-role="listview" data-inset="false">
+<li><a class="lemma" href="4.1.html">4.1 indication</a></li>
+<li><a class="lemma" href="4.2.html">4.2 indication du blanc</a></li>
+<li><a class="lemma" href="4.3.html">4.3 intervalle des indications</a></li>
+<li><a class="lemma" href="4.4.html">4.4 intervalle nominal des indications</a></li>
+<li><a class="lemma" href="4.5.html">4.5 &eacute;tendue de mesure</a></li>
+<li><a class="lemma" href="4.6.html">4.6 valeur nominale</a></li>
+<li><a class="lemma" href="4.7.html">4.7 intervalle de mesure</a></li>
+<li><a class="lemma" href="4.8.html">4.8 condition de r&eacute;gime &eacute;tabli</a></li>
+<li><a class="lemma" href="4.9.html">4.9 condition assign&eacute;e de fonctionnement</a></li>
+<li><a class="lemma" href="4.10.html">4.10 condition limite de fonctionnement</a></li>
+<li><a class="lemma" href="4.11.html">4.11 condition de fonctionnement de r&eacute;f&eacute;rence</a></li>
+<li><a class="lemma" href="4.12.html">4.12 sensibilit&eacute;</a></li>
+<li><a class="lemma" href="4.13.html">4.13 s&eacute;lectivit&eacute;</a></li>
+<li><a class="lemma" href="4.14.html">4.14 r&eacute;solution</a></li>
+<li><a class="lemma" href="4.15.html">4.15 r&eacute;solution d'un dispositif afficheur</a></li>
+<li><a class="lemma" href="4.16.html">4.16 seuil de discrimination</a></li>
+<li><a class="lemma" href="4.17.html">4.17 zone morte</a></li>
+<li><a class="lemma" href="4.18.html">4.18 limite de d&eacute;tection</a></li>
+<li><a class="lemma" href="4.19.html">4.19 stabilit&eacute;</a></li>
+<li><a class="lemma" href="4.20.html">4.20 biais instrumental</a></li>
+<li><a class="lemma" href="4.21.html">4.21 d&eacute;rive instrumentale</a></li>
+<li><a class="lemma" href="4.22.html">4.22 variation due &agrave; une grandeur d'influence</a></li>
+<li><a class="lemma" href="4.23.html">4.23 temps de r&eacute;ponse &agrave; un &eacute;chelon</a></li>
+<li><a class="lemma" href="4.24.html">4.24 incertitude instrumentale</a></li>
+<li><a class="lemma" href="4.25.html">4.25 classe d'exactitude</a></li>
+<li><a class="lemma" href="4.26.html">4.26 erreur maximale tol&eacute;r&eacute;e</a></li>
+<li><a class="lemma" href="4.27.html">4.27 erreur au point de contr&ocirc;le</a></li>
+<li><a class="lemma" href="4.28.html">4.28 erreur &agrave; z&eacute;ro</a></li>
+<li><a class="lemma" href="4.29.html">4.29 incertitude de mesure &agrave; z&eacute;ro</a></li>
+<li><a class="lemma" href="4.30.html">4.30 diagramme d'&eacute;talonnage</a></li>
+<li><a class="lemma" href="4.31.html">4.31 courbe d'&eacute;talonnage</a></li>
+</ul></div>
+<div data-role="collapsible" id="c5" data-mini="true">
+<h3>5 &Eacute;talons</h3>
+<ul data-role="listview" data-inset="false">
+<li><a class="lemma" href="5.1.html">5.1 &eacute;talon</a></li>
+<li><a class="lemma" href="5.2.html">5.2 &eacute;talon international</a></li>
+<li><a class="lemma" href="5.3.html">5.3 &eacute;talon national</a></li>
+<li><a class="lemma" href="5.4.html">5.4 &eacute;talon primaire</a></li>
+<li><a class="lemma" href="5.5.html">5.5 &eacute;talon secondaire</a></li>
+<li><a class="lemma" href="5.6.html">5.6 &eacute;talon de r&eacute;f&eacute;rence</a></li>
+<li><a class="lemma" href="5.7.html">5.7 &eacute;talon de travail</a></li>
+<li><a class="lemma" href="5.8.html">5.8 &eacute;talon voyageur</a></li>
+<li><a class="lemma" href="5.9.html">5.9 dispositif de transfert</a></li>
+<li><a class="lemma" href="5.10.html">5.10 &eacute;talon intrins&egrave;que</a></li>
+<li><a class="lemma" href="5.11.html">5.11 conservation d'un &eacute;talon</a></li>
+<li><a class="lemma" href="5.12.html">5.12 . . .</a></li>
+<li><a class="lemma" href="5.13.html">5.13 mat&eacute;riau de r&eacute;f&eacute;rence</a></li>
+<li><a class="lemma" href="5.14.html">5.14 mat&eacute;riau de r&eacute;f&eacute;rence certifi&eacute;</a></li>
+<li><a class="lemma" href="5.15.html">5.15 commutabilit&eacute; d'un mat&eacute;riau de r&eacute;f&eacute;rence</a></li>
+<li><a class="lemma" href="5.16.html">5.16 donn&eacute;e de r&eacute;f&eacute;rence</a></li>
+<li><a class="lemma" href="5.17.html">5.17 donn&eacute;e de r&eacute;f&eacute;rence normalis&eacute;e</a></li>
+<li><a class="lemma" href="5.18.html">5.18 valeur de r&eacute;f&eacute;rence</a></li>
+</ul></div></div>
+</div><!-- /leftpanel -->
+<div data-role="footer" data-position="fixed">
+<div data-role="navbar">
+</div><!-- /navbar -->
+</div><!-- /footer -->
+
+<div data-role="popup" id="navigation">
+<ul data-role="listview" data-inset="true">
+<li><a href="index.html" data-role="button" data-icon="home">Accueil</a></li>
+<li><a href="info.html" data-role="button" data-icon="info">Pr&eacute;ambule</a></li>
+<li><a href="#leftpanel" data-role="button" data-icon="star">Table des mati&egrave;res</a></li>
+<li><a href="anaindex.html" data-role="button" data-icon="star">Index alphab&eacute;tique</a></li>
+<li><a href="annoindex.html" data-role="button" data-icon="star">Index des articles annot&eacute;s</a></li>
+<li><a href="javascript:prevPage();" data-role="button" data-icon="back">Page pr&eacute;c&eacute;dente (&lt;-)</a></li>
+<li><a href="javascript:nextPage();" data-role="button" data-icon="forward">Page suivante (-&gt;)</a></li>
+<li data-role="divider">Language selector</li>
+<li><a href="javascript:setLang('en');" data-role="button">English (e)</a></li>
+<li><a href="javascript:setLang('fr');" data-role="button">French (f)</a></li>
+</ul>
+</div>
+
+</div><!-- /page -->
+<script src="../res/pagescript.js"></script>
+</body>
+</html>
