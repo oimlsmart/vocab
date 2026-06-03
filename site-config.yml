@@ -25,12 +25,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/viml-2022
   ref: OIML V 1:2022
-  title: VIML — International Vocabulary of Legal Metrology
+  title: OIML V 1:2022
   description: Terminology definitions from the International Vocabulary of Legal
     Metrology (OIML V 1:2022)
   translations:
     fra:
-      title: VIML — Vocabulaire international de métrologie légale
+      title: OIML V 1:2022
       description: Définitions de terminologie du Vocabulaire international de métrologie
         légale (OIML V 1:2022)
   owner: OIML
@@ -53,12 +53,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/viml-2013
   ref: OIML V 1:2013
-  title: VIML (2013)
+  title: OIML V 1:2013
   description: Terminology definitions from the International Vocabulary of Legal
     Metrology (OIML V 1:2013)
   translations:
     fra:
-      title: VIML (2013)
+      title: OIML V 1:2013
       description: Définitions de terminologie du Vocabulaire international de métrologie
         légale (OIML V 1:2013)
   owner: OIML
@@ -82,12 +82,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/viml-2000
   ref: OIML V 1:2000
-  title: VIML (2000)
+  title: OIML V 1:2000
   description: Terminology definitions from the International Vocabulary of Legal
     Metrology (OIML V 1:2000)
   translations:
     fra:
-      title: VIML (2000)
+      title: OIML V 1:2000
       description: Définitions de terminologie du Vocabulaire international de métrologie
         légale (OIML V 1:2000)
   owner: OIML
@@ -111,12 +111,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/viml-1968
   ref: OIML V 1:1968
-  title: VIML (1968)
+  title: OIML V 1:1968
   description: Terminology definitions from the International Vocabulary of Legal
     Metrology (OIML V 1:1968)
   translations:
     fra:
-      title: VIML (1968)
+      title: OIML V 1:1968
       description: Définitions de terminologie du Vocabulaire international de métrologie
         légale (OIML V 1:1968)
   owner: OIML
@@ -138,12 +138,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim
   ref: JCGM 200:2012
-  title: VIM — International Vocabulary of Metrology
+  title: JCGM 200:2012
   description: Terminology definitions from the International Vocabulary of Metrology
     (JCGM 200:2012)
   translations:
     fra:
-      title: VIM — Vocabulaire international de métrologie
+      title: JCGM 200:2012
       description: Définitions de terminologie du Vocabulaire international de métrologie
         (JCGM 200:2012)
   owner: JCGM
@@ -167,12 +167,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim-2010
   ref: JCGM 200:2010
-  title: VIM (2010)
+  title: JCGM 200:2010
   description: Terminology definitions from the International Vocabulary of Metrology
     (JCGM 200:2010)
   translations:
     fra:
-      title: VIM (2010)
+      title: JCGM 200:2010
       description: Définitions de terminologie du Vocabulaire international de métrologie
         (JCGM 200:2010)
   owner: JCGM
@@ -197,12 +197,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim-2007
   ref: JCGM 200:2007
-  title: VIM (2007)
+  title: JCGM 200:2007
   description: Terminology definitions from the International Vocabulary of Metrology
     (JCGM 200:2007)
   translations:
     fra:
-      title: VIM (2007)
+      title: JCGM 200:2007
       description: Définitions de terminologie du Vocabulaire international de métrologie
         (JCGM 200:2007)
   owner: JCGM
@@ -227,12 +227,12 @@ datasets:
   sourceRepo: https://github.com/metanorma/oiml-viml
   localPath: datasets/vim-1993
   ref: ISO Guide 99:1993
-  title: VIM (1993)
+  title: ISO Guide 99:1993
   description: Terminology definitions from the International Vocabulary of Metrology
     (ISO Guide 99:1993)
   translations:
     fra:
-      title: VIM (1993)
+      title: ISO Guide 99:1993
       description: Définitions de terminologie du Vocabulaire international de métrologie
         (ISO Guide 99:1993)
   owner: JCGM

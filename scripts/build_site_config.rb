@@ -30,8 +30,8 @@ def build_edition_dataset(edition)
   ref = edition["ref"]
   deploy = edition["deploy"] || {}
   color = deploy["color"] || "#6B7280"
-  title = deploy["title"] || "VIML (#{year})"
-  title_fra = deploy["title_fra"] || title
+  title = ref
+  title_fra = ref
   languages = edition["languages"] || ["eng", "fra"]
   type = edition_type(edition)
 
