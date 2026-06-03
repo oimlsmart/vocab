@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-This is a deployment repository for the **VIML** (International Vocabulary of Legal Metrology, OIML V 1:2022) concept browser and the **VIM** (International Vocabulary of Metrology, JCGM 200:2012 / OIML V 2-200:2012) concept dataset. It uses the `@glossarist/concept-browser` npm package — a statically deployable Vue 3 SPA — to serve an interactive terminology browser on GitHub Pages.
+This is a deployment repository for the **VIML** (International Vocabulary of Legal Metrology) concept browser and the **VIM** (International Vocabulary of Metrology, JCGM 200:2012 / OIML V 2-200:2012) concept dataset. It uses the `@glossarist/concept-browser` npm package — a statically deployable Vue 3 SPA — to serve an interactive terminology browser on GitHub Pages.
 
 This is NOT a software project. It is a deployment configuration: site config, datasets, content pages, and CI.
 
@@ -14,9 +14,6 @@ This is NOT a software project. It is a deployment configuration: site config, d
 # Install concept-browser
 npm install --ignore-scripts @glossarist/concept-browser
 npm install --prefix node_modules/@glossarist/concept-browser sharp 2>/dev/null || true
-
-# Patch concept-browser (adds clickable concept mentions)
-bash scripts/patch-concept-browser.sh
 
 # Build the static site
 npx concept-browser build
@@ -29,37 +26,67 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 
 ## Key files
 
-- `site-config.yml` — All site configuration (branding, features, dataset source, base path, languages)
-- `datasets/viml/` — Glossarist v3 dataset for VIML (135 concept YAML files + `register.yaml`)
+- `site-config.yml` — All site configuration (branding, features, dataset source, base path, languages). Auto-generated from `editions.yml` by `scripts/build_site_config.rb`.
+- `editions.yml` — Single source of truth for all VIML editions (2022, 2013, 2000, 1968)
+- `supersession-map.yaml` — Cross-edition concept mapping for supersedes/superseded_by relations
+- `datasets/viml-2022/` — Glossarist v3 dataset for VIML 2022 (135 concept YAML files + `register.yaml`)
+- `datasets/viml-2013/` — Glossarist v3 dataset for VIML 2013 (109 concepts)
+- `datasets/viml-2000/` — Glossarist v3 dataset for VIML 2000 (45 concepts)
+- `datasets/viml-1968/` — Glossarist v3 dataset for VIML 1968 (OCR, needs manual review)
 - `datasets/vim/` — Glossarist v3 dataset for VIM (144 concept YAML files + `register.yaml`)
 - `about.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
-- `scripts/scrape_viml.rb` — Scraper for VIML dataset (from viml.oiml.info)
+- `scripts/scrape_viml.rb` — Scraper for VIML 2022 dataset (from viml.oiml.info)
+- `scripts/scrape_viml_2013.rb` — Scraper for VIML 2013 (Word HTML)
+- `scripts/scrape_viml_2000.rb` — Scraper for VIML 2000 (PDF HTML)
+- `scripts/scrape_viml_1968.rb` — Scraper for VIML 1968 (OCR HTML, French only)
+- `scripts/viml_edition_scraper.rb` — Shared scraper framework (EditionConfig, ConceptBuilder, DatasetWriter)
+- `scripts/build_supersessions.rb` — Injects supersedes/superseded_by relations from supersession-map.yaml
+- `scripts/build_site_config.rb` — Generates site-config.yml datasets from editions.yml
 - `scripts/scrape_vim.rb` — Scraper for VIM dataset (from jcgm.bipm.org/vim)
 - `scripts/audit_viml.rb` — VIML dataset validation script
 - `scripts/audit_vim.rb` — VIM dataset validation script
-- `scripts/patch-concept-browser.sh` — Patches concept-browser for clickable concept mentions
-- `patches/concept-browser/` — Patched source files for concept-browser
 
 ## Configuration conventions
 
 - `basePath: /oiml-viml/` — GitHub Pages subpath deployment. No `BASE_PATH` env var.
-- `localPath: datasets/viml` — Dataset source directory. No `DATASET_SOURCE_*` env var.
+- `localPath: datasets/viml-2022` — Dataset source directory. No `DATASET_SOURCE_*` env var.
 - `ref: "OIML V 1:2022"` — Publication reference shown in sidebar provenance.
 - All config is in `site-config.yml`. The CI uses only `GITHUB_TOKEN`.
 
 ## CI
 
 Push to `main` triggers `.github/workflows/build_deploy.yml`:
-1. Install `@glossarist/concept-browser` from npm (always released version, never git)
-2. Run `npx concept-browser build`
-3. Deploy `dist/` to GitHub Pages
+1. Generate `site-config.yml` from `editions.yml` (Ruby)
+2. Install `@glossarist/concept-browser` from npm (always released version, never git)
+3. Run `npx concept-browser build`
+4. Deploy `dist/` to GitHub Pages
+
+Note: Edition scrapers run locally, not in CI. Datasets are committed to the repo.
 
 ## Datasets
 
-### VIML (OIML V 1:2022)
+### VIML (multi-edition)
 
-The `datasets/viml/` directory contains 135 bilingual (English/French) concepts from OIML V 1:2022. Concepts are YAML files in Glossarist v3 format. To update: `ruby scripts/scrape_viml.rb`, commit changes to `datasets/viml/`, push to `main`.
+Four VIML editions are available as separate datasets:
+
+| Edition | Path | Concepts | Notes |
+|---------|------|----------|-------|
+| 2022 (current) | `datasets/viml-2022/` | 135 | Bilingual EN/FR, scraped from viml.oiml.info |
+| 2013 | `datasets/viml-2013/` | 109 | Bilingual EN/FR, scraped from Word HTML |
+| 2000 | `datasets/viml-2000/` | 45 | Bilingual EN/FR, scraped from PDF HTML |
+| 1968 | `datasets/viml-1968/` | ~30 (OCR artifacts) | French only, OCR quality poor — needs manual review |
+
+Cross-edition `supersedes`/`superseded_by` relations are generated by `scripts/build_supersessions.rb` from `supersession-map.yaml`.
+
+All edition metadata is in `editions.yml` — the single source of truth. Site config is generated by `scripts/build_site_config.rb`.
+
+Scrapers are run locally from the glossarist-ruby repo context:
+```sh
+cd /path/to/glossarist-ruby
+bundle exec ruby /path/to/oiml-viml/scripts/scrape_viml_2013.rb
+bundle exec ruby /path/to/oiml-viml/scripts/build_supersessions.rb
+```
 
 ### VIM (JCGM 200:2012 / OIML V 2-200:2012)
 

@@ -7,7 +7,7 @@
 require "nokogiri"
 require "yaml"
 
-CACHE_DIR = File.join(File.dirname(__FILE__), "..", ".vim-cache")
+CACHE_DIR = File.join(File.dirname(__FILE__), "..", "reference-docs")
 OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/vim")
 
 TERM_IDS = [
@@ -56,7 +56,7 @@ TERM_IDS.each do |tid|
   fra = localizations["fra"]
 
   # ── Parse cached HTML ──
-  en_html_path = File.join(CACHE_DIR, "en", "#{tid}.html")
+  en_html_path = File.join(CACHE_DIR, "vim-en", "#{tid}.html")
   unless File.exist?(en_html_path)
     issues << "#{tid}: no cached English HTML"
     next

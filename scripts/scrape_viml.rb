@@ -7,11 +7,13 @@
 # Phase 1: Download all HTML pages to disk (so we never re-scrape)
 # Phase 2: Parse cached HTML and build Glossarist v3 dataset
 #
+# Fetched pages are stored in reference-docs/ for persistence.
+#
 # Usage:
 #   bundle exec ruby scripts/scrape_viml.rb [COMMAND]
 #
 # Commands:
-#   fetch    — download all pages to .viml-cache/ (default if no command)
+#   fetch    — download all pages to reference-docs/ (default if no command)
 #   build    — parse cached HTML, build Glossarist dataset
 #   all      — fetch + build (default if cache is empty)
 
@@ -21,8 +23,8 @@ require "uri"
 require "fileutils"
 
 BASE_URL = "http://viml.oiml.info"
-CACHE_DIR = File.join(File.dirname(__FILE__), "..", ".viml-cache")
-OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/viml")
+LOCAL_CACHE_DIR = File.join(File.dirname(__FILE__), "..", "reference-docs")
+OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/viml-2022")
 
 DATASET_SOURCE = "urn:oiml:pub:v:1:2022"
 
@@ -55,7 +57,7 @@ LANGUAGES = %w[en fr].freeze
 # ═══════════════════════════════════════════════════════════════
 
 def cache_path(lang, term_id)
-  File.join(CACHE_DIR, lang, "#{term_id}.html")
+  File.join(LOCAL_CACHE_DIR, "viml-2022-#{lang}", "#{term_id}.html")
 end
 
 def cached?(lang, term_id)
@@ -63,8 +65,7 @@ def cached?(lang, term_id)
 end
 
 def fetch_all
-  FileUtils.mkdir_p(CACHE_DIR)
-  LANGUAGES.each { |l| FileUtils.mkdir_p(File.join(CACHE_DIR, l)) }
+  LANGUAGES.each { |l| FileUtils.mkdir_p(File.join(LOCAL_CACHE_DIR, "viml-2022-#{l}")) }
 
   total = TERM_IDS.size * LANGUAGES.size
   fetched = 0
