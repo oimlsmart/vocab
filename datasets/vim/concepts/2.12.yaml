@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.12'
   localized_concepts:
@@ -11,14 +10,19 @@ data:
 status: valid
 id: 93fe0aea-d7c1-43d7-88cb-8888f1c0ceb8
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.12'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity value,1.19}} attributed by agreement to a {{quantity,1.1}}
-      for a given purpose"
+  - content: '{{quantity value,1.19}} attributed by agreement to a {{quantity,1.1}}
+      for a given purpose'
   examples:
   - content: Standard acceleration of free fall (formerly called “standard acceleration
       due to gravity”), gn = 9.806 65 ms−2.
@@ -56,16 +60,20 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur,1.19}} attribuée à une {{grandeur,1.1}} par un accord pour
-      un usage donné"
+  - content: '{{valeur,1.19}} attribuée à une {{grandeur,1.1}} par un accord pour
+      un usage donné'
   examples: []
   id: 2.12-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Valeur conventionnelle de l'accélération due à la pesanteur ou accélération normale de la pesanteur, gn = 9,806 65 ms−2.
-      EXEMPLE 2 Valeur conventionnelle de la constante de Josephson, KJ-90 = 483 597,9 GHz V-1.
-      EXEMPLE 3 Valeur conventionnelle d'un étalon de masse donné, m = 100.003 47 g.
+  - content: 'EXEMPLE 1 Valeur conventionnelle de l''accélération due à la pesanteur
+      ou accélération normale de la pesanteur, gn = 9,806 65 ms−2.
+
+      EXEMPLE 2 Valeur conventionnelle de la constante de Josephson, KJ-90 = 483 597,9
+      GHz V-1.
+
+      EXEMPLE 3 Valeur conventionnelle d''un étalon de masse donné, m = 100.003 47
+      g.'
   - content: Le terme «valeur conventionnellement vraie» est quelquefois utilisé pour
       ce concept, mais son utilisation est déconseillée.
   - content: Une valeur conventionnelle est quelquefois une estimation d'une {{valeur

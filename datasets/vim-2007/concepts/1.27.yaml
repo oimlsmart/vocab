@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.27'
   localized_concepts:
@@ -11,6 +10,7 @@ data:
 status: valid
 id: 10c46eb5-a698-4928-9bba-7772c96e10a1
 schema_version: '3'
+related: []
 ---
 data:
   dates:
@@ -59,3 +59,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0a4ecf61-dd2d-4703-aa3c-fc820e5b44a3
+---

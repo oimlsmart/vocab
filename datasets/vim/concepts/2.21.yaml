@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.21'
   localized_concepts:
@@ -9,16 +8,21 @@ data:
     source: urn:jcgm:pub:200:2012
     ref_type: domain
 status: valid
-id: '088381cf-28ba-469b-a7a2-2b740d9fd904'
+id: 088381cf-28ba-469b-a7a2-2b740d9fd904
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.21'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement precision,2.15}} under a set of {{repeatability conditions
-      of measurement,2.20}}"
+  - content: '{{measurement precision,2.15}} under a set of {{repeatability conditions
+      of measurement,2.20}}'
   examples: []
   id: 2.21-eng
   language_code: eng
@@ -41,7 +45,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de répétabilité,2.20}}"
+  - content: '{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de répétabilité,2.20}}'
   examples: []
   id: 2.21-fra
   language_code: fra

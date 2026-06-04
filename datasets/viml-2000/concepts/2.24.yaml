@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.24'
   localized_concepts:
@@ -12,10 +11,10 @@ status: valid
 id: 9cc26498-3f1e-55b3-acad-9ab9c0c3b4af
 schema_version: '3'
 related:
-- type: superseded_by
+- type: supersedes
   ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '2.22'
+    source: urn:oiml:pub:v:1:1968
+    id: 2.7.1
 ---
 data:
   dates:
@@ -57,3 +56,4 @@ language_code: fra
 entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
 id: 0942bd17-9e02-5e1b-9bdf-a015c355ad87
+---

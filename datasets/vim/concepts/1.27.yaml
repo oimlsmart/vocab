@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.27'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 11bbd65f-bb89-4fce-8d9a-b93e8058ecbd
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '1.27'
 ---
 data:
   dates:
@@ -54,10 +58,11 @@ data:
   id: 1.27-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Échelle des températures Celsius.
+  - content: 'EXEMPLE 1 Échelle des températures Celsius.
+
       EXEMPLE 2 Échelle de temps.
-      EXEMPLE 3 Échelle de dureté C de Rockwell.
+
+      EXEMPLE 3 Échelle de dureté C de Rockwell.'
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.16'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 45e1064b-dd60-40e1-b4a8-5efec50b0547
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '5.16'
 ---
 data:
   dates:
@@ -28,8 +32,8 @@ data:
   notes:
   - content: In this definition ‘accuracy’ covers, for example, measurement accuracy
       and ‘accuracy of a nominal property value’.
-  - content: "“Data” is a plural form, “datum” is the singular. “Data” is commonly
-      used in the singular sense, instead of “datum”."
+  - content: “Data” is a plural form, “datum” is the singular. “Data” is commonly
+      used in the singular sense, instead of “datum”.
   terms:
   - type: expression
     normative_status: preferred

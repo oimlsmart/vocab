@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.6'
   localized_concepts:
@@ -11,15 +10,20 @@ data:
 status: valid
 id: 7970af91-b893-4bc8-a7aa-95bbe5defa16
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '1.6'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{system of quantities,1.3}} based on the seven {{base quantities,1.4}}:
+  - content: '{{system of quantities,1.3}} based on the seven {{base quantities,1.4}}:
       length, mass, time, electric current, thermodynamic temperature, amount of substance,
-      and luminous intensity"
+      and luminous intensity'
   examples: []
   id: 1.6-eng
   language_code: eng
@@ -44,9 +48,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{système de grandeurs,1.3}} fondé sur les sept {{grandeurs de base,1.4}}:
+  - content: '{{système de grandeurs,1.3}} fondé sur les sept {{grandeurs de base,1.4}}:
       longueur, masse, temps, courant électrique, température thermodynamique, quantité
-      de matière, intensité lumineuse"
+      de matière, intensité lumineuse'
   examples: []
   id: 1.6-fra
   language_code: fra

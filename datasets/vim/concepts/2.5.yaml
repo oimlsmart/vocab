@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.5'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: c5d2935e-99ff-4560-810e-99c033b2973f
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.5'
 ---
 data:
   dates:
@@ -23,15 +27,21 @@ data:
   id: 2.5-eng
   language_code: eng
   notes:
-  - content: |-
-      Measurement methods may be qualified in various ways such as:
+  - content: 'Measurement methods may be qualified in various ways such as:
+
       - substitution measurement method,
+
       - differential measurement method, and
+
       - null measurement method;
+
       or
+
       - direct measurement method, and
+
       - indirect measurement method.
-      See IEC 60050-300:2001.
+
+      See IEC 60050-300:2001.'
   - content: '[Annotation] The use of the terms "measurement method" and "measurement
       procedure" differs, for historical reasons, between different areas of metrology.
       In general, a measurement method delimits a broader category of operations than
@@ -62,24 +72,31 @@ data:
   id: 2.5-fra
   language_code: fra
   notes:
-  - content: |-
-      Les méthodes de mesure peuvent être qualifiées de diverses façons telles que:
+  - content: 'Les méthodes de mesure peuvent être qualifiées de diverses façons telles
+      que:
+
       - méthode de mesure par substitution,
+
       - méthode de mesure différentielle,
+
       - méthode de mesure par zéro;
+
       ou
+
       - méthode de mesure directe,
+
       - méthode de mesure indirecte.
-      Voir la CEI 60050-300:2001.
-  - content: "[Annotation] L'emploi des termes «méthode de mesure» et «procédure de
-      mesure» diffère, pour des raisons historiques, d'un domaine à l'autre de la
-      métrologie. En général, une méthode de mesure recouvre une plus grande catégorie
-      d'opérations qu'une procédure de mesure, qui nécessite un ensemble détaillé
-      d'instructions."
-  - content: "[Annotation] Les termes «méthode primaire», «méthode primaire de mesure»
+
+      Voir la CEI 60050-300:2001.'
+  - content: '[Annotation] L''emploi des termes «méthode de mesure» et «procédure
+      de mesure» diffère, pour des raisons historiques, d''un domaine à l''autre de
+      la métrologie. En général, une méthode de mesure recouvre une plus grande catégorie
+      d''opérations qu''une procédure de mesure, qui nécessite un ensemble détaillé
+      d''instructions.'
+  - content: '[Annotation] Les termes «méthode primaire», «méthode primaire de mesure»
       et «méthode de mesure primaire» sont généralement utilisés pour une méthode
-      servant à obtenir un résultat de mesure sans relation avec un étalon d'une grandeur
-      de même nature."
+      servant à obtenir un résultat de mesure sans relation avec un étalon d''une
+      grandeur de même nature.'
   terms:
   - type: expression
     normative_status: preferred

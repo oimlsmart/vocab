@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.13'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 86bf8f96-b3ad-4d41-9836-817cfe035ea7
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '5.13'
 ---
 data:
   dates:
@@ -21,14 +25,14 @@ data:
       properties, which has been established to be fit for its intended use in measurement
       or in examination of nominal properties
   examples:
-  - content: "(of reference materials embodying quantities) a) Water of stated purity,
+  - content: (of reference materials embodying quantities) a) Water of stated purity,
       the dynamic viscosity of which is used to calibrate viscometers. b) Human serum
       without an assigned quantity value for the amount-of-substance concentration
       of the inherent cholesterol, used only as a measurement precision control material.
-      c) Fish tissue containing a stated mass fraction of a dioxin, used as a calibrator."
-  - content: "(of reference materials embodying nominal properties) d) Color chart
+      c) Fish tissue containing a stated mass fraction of a dioxin, used as a calibrator.
+  - content: (of reference materials embodying nominal properties) d) Color chart
       indicating one or more specified colors. e) DNA compound containing a specified
-      nucleotide sequence. f) Urine containing 19-androstenedione."
+      nucleotide sequence. f) Urine containing 19-androstenedione.
   - content: a) Substance of known triple-point in a triple-point cell. b) Glass of
       known optical density in a transmission filter holder. c) Spheres of uniform
       size mounted on a microscope slide.
@@ -40,8 +44,8 @@ data:
   - content: Reference materials with or without assigned quantity values can be used
       for measurement precision control whereas only reference materials with assigned
       quantity values can be used for calibration or measurement trueness control.
-  - content: "‘Reference material’ comprises materials embodying quantities as well
-      as nominal properties."
+  - content: ‘Reference material’ comprises materials embodying quantities as well
+      as nominal properties.
   - content: A reference material is sometimes incorporated into a specially fabricated
       device.
   - content: Some reference materials have assigned quantity values that are metrologically
@@ -75,15 +79,15 @@ data:
       spécifiées, qui a été préparé pour être adapté à son utilisation prévue pour
       un mesurage ou pour l'examen de propriétés qualitatives
   examples:
-  - content: "(de matériaux de référence supports de grandeurs) a) Eau de pureté déterminée,
+  - content: (de matériaux de référence supports de grandeurs) a) Eau de pureté déterminée,
       dont la viscosité dynamique est utilisée pour l'étalonnage de viscosimètres.
       b) Sérum humain sans valeur assignée à la concentration de cholestérol intrinsèque,
       utilisé seulement pour le contrôle de la fidélité de mesure. c) Tissu de poisson
       contenant une fraction massique déterminée de dioxine, utilisé comme étalon
-      dans un étalonnage."
-  - content: "(de matériaux de référence supports de propriétés qualitatives) d) Nuancier
+      dans un étalonnage.
+  - content: (de matériaux de référence supports de propriétés qualitatives) d) Nuancier
       de couleurs indiquant une ou plusieurs couleurs spécifiées. e) ADN contenant
-      une séquence spécifiée de nucléotides. f) Urine contenant de la 19-androstènedione."
+      une séquence spécifiée de nucléotides. f) Urine contenant de la 19-androstènedione.
   - content: a) Substance dont le point triple est connu dans une cellule triple point.
       b) Verre de densité optique connue dans un support de filtre de transmission.
       c) Sphères à granulométrie uniforme montées sur une lame de microscope.

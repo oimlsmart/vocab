@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.14'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 0dd77f7e-6b83-4eb5-913b-007a758904c1
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:1993
+    id: '6.14'
 ---
 data:
   dates:
@@ -27,8 +31,8 @@ data:
   id: 5.14-eng
   language_code: eng
   notes:
-  - content: "‘Documentation’ is given in the form of a ‘certificate’, see ISO Guide
-      31:2000."
+  - content: ‘Documentation’ is given in the form of a ‘certificate’, see ISO Guide
+      31:2000.
   - content: Procedures for the production and certification of certified reference
       materials are given, e.g., in ISO Guides 34 and 35.
   - content: In this definition, “uncertainty” covers both ‘measurement uncertainty’
@@ -93,3 +97,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3bc4ab6a-8fba-48bb-837a-d5c8b00c02e3
+---

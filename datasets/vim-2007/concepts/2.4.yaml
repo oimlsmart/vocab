@@ -1,9 +1,8 @@
----
 data:
   identifier: '2.4'
   localized_concepts:
     eng: bb0190d2-51c0-4cdc-8f30-e686f24a71ca
-    fra: '0088114d-034b-4375-9a97-05b110b2735e'
+    fra: 0088114d-034b-4375-9a97-05b110b2735e
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2007
@@ -11,6 +10,11 @@ data:
 status: valid
 id: fe15f233-515e-40c3-b51e-afc5f5987931
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:1993
+    id: '2.3'
 ---
 data:
   dates:
@@ -59,4 +63,5 @@ data:
     designation: principe de mesure, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: '0088114d-034b-4375-9a97-05b110b2735e'
+id: 0088114d-034b-4375-9a97-05b110b2735e
+---

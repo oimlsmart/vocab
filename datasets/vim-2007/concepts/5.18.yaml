@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.18'
   localized_concepts:
@@ -11,6 +10,7 @@ data:
 status: valid
 id: ff857861-034c-4b3e-be2c-06fd2df90659
 schema_version: '3'
+related: []
 ---
 data:
   dates:
@@ -49,7 +49,7 @@ data:
   - content: valeur d'une grandeur servant de base de comparaison pour les valeurs
       de grandeurs de même nature
   examples:
-  - content: ", where the third concept might be ‘off-system measurement unit’. The
+  - content: ', where the third concept might be ‘off-system measurement unit’. The
       partitive relation (or part-whole relation) is also hierarchical and connects
       a comprehensive concept to two or more partitive concepts which fitted together
       constitute the parent concept. The diagrams show such relations as a rake or
@@ -81,7 +81,7 @@ data:
       Clause 4 around “metrological properties of a measuring instrument or measuring
       system” Figure A.11  Concept diagram for part of Clause 4 around “operating
       condition” Figure A.12  Concept diagram for part of Clause 5 around “measurement
-      standard” (“etalon”)"
+      standard” (“etalon”)'
   id: 5.18-fra
   language_code: fra
   notes:
@@ -116,3 +116,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: cbf17b15-da6e-47d7-b7b1-4cbc0c0ac133
+---

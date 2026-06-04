@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.13'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 6a3f01f5-33cc-4dec-b6dc-6c77dd5cdb39
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.13'
 ---
 data:
   dates:
@@ -29,8 +33,8 @@ data:
   - content: The term “measurement accuracy” should not be used for {{measurement
       trueness,2.14}} and the term “measurement precision” should not be used for
       'measurement accuracy', which, however, is related to both these concepts.
-  - content: "'Measurement accuracy' is sometimes understood as closeness of agreement
-      between measured quantity values that are being attributed to the measurand."
+  - content: '''Measurement accuracy'' is sometimes understood as closeness of agreement
+      between measured quantity values that are being attributed to the measurand.'
   - content: '[Annotation] Here "quantity value" can be replaced with "value" without
       ambiguity: "closeness of agreement between a measured value and a true value
       of a measurand".'
@@ -77,16 +81,16 @@ data:
       de mesure. Celle-ci est toutefois liée aux concepts de justesse et de fidélité.
   - content: L'exactitude de mesure est quelquefois interprétée comme l'étroitesse
       de l'accord entre les valeurs mesurées qui sont attribuées au mesurande.
-  - content: "[Annotation] Le terme «exactitude de mesure» a été utilisé historiquement
+  - content: '[Annotation] Le terme «exactitude de mesure» a été utilisé historiquement
       dans des sens liés mais légèrement différents. Une seule valeur mesurée est
-      quelquefois considérée comme exacte (comme dans le VIM3), lorsque l'erreur de
-      mesure est supposée petite. Dans d'autres cas, un ensemble de valeurs mesurées
+      quelquefois considérée comme exacte (comme dans le VIM3), lorsque l''erreur
+      de mesure est supposée petite. Dans d''autres cas, un ensemble de valeurs mesurées
       est considéré comme exact lorsque la justesse de mesure et la fidélité de mesure
       sont toutes deux supposées bonnes. Un instrument de mesure ou un système de
-      mesure est quelquefois considéré comme exact, en ce sens qu'il fournit des indications
-      exactes. Il faut donc faire attention à expliquer en quel sens le terme «exactitude
-      de mesure» est employé. Il n'existe en aucun cas de méthodologie établie pour
-      attribuer une valeur numérique à l'exactitude de mesure."
+      mesure est quelquefois considéré comme exact, en ce sens qu''il fournit des
+      indications exactes. Il faut donc faire attention à expliquer en quel sens le
+      terme «exactitude de mesure» est employé. Il n''existe en aucun cas de méthodologie
+      établie pour attribuer une valeur numérique à l''exactitude de mesure.'
   terms:
   - type: expression
     normative_status: preferred

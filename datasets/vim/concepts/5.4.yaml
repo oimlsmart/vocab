@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.4'
   localized_concepts:
@@ -11,14 +10,19 @@ data:
 status: valid
 id: ece558eb-00a2-42e3-ae63-f9d44f8897d8
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '5.4'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement standard,5.1}} established using a {{primary reference
-      measurement procedure,2.8}}, or created as an artifact, chosen by convention"
+  - content: '{{measurement standard,5.1}} established using a {{primary reference
+      measurement procedure,2.8}}, or created as an artifact, chosen by convention'
   examples:
   - content: Primary measurement standard of amount-of-substance concentration prepared
       by dissolving a known amount of substance of a chemical component to a known
@@ -50,18 +54,27 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{étalon,5.1}} établi à l'aide d'une {{procédure de mesure primaire,2.8}}
-      ou créé comme objet choisi par convention"
+  - content: '{{étalon,5.1}} établi à l''aide d''une {{procédure de mesure primaire,2.8}}
+      ou créé comme objet choisi par convention'
   examples: []
   id: 5.4-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Étalon primaire de concentration en quantité de matière préparé en dissolvant une quantité de matière connue d'une substance chimique dans un volume connu de solution.
-      EXEMPLE 2 Étalon primaire de pression fondé sur des {{mesurages,2.1}} séparés de force et d'aire.
-      EXEMPLE 3 Étalon primaire pour les mesurages du rapport molaire d'isotopes, préparé en mélangeant des quantités de matière connues d'isotopes spécifiés.
-      EXEMPLE 4 Étalon primaire de température thermodynamique constitué d'une cellule à point triple de l'eau.
-      EXEMPLE 5 Le prototype international du kilogramme en tant qu'objet choisi par convention.
+  - content: 'EXEMPLE 1 Étalon primaire de concentration en quantité de matière préparé
+      en dissolvant une quantité de matière connue d''une substance chimique dans
+      un volume connu de solution.
+
+      EXEMPLE 2 Étalon primaire de pression fondé sur des {{mesurages,2.1}} séparés
+      de force et d''aire.
+
+      EXEMPLE 3 Étalon primaire pour les mesurages du rapport molaire d''isotopes,
+      préparé en mélangeant des quantités de matière connues d''isotopes spécifiés.
+
+      EXEMPLE 4 Étalon primaire de température thermodynamique constitué d''une cellule
+      à point triple de l''eau.
+
+      EXEMPLE 5 Le prototype international du kilogramme en tant qu''objet choisi
+      par convention.'
   terms:
   - type: expression
     normative_status: preferred

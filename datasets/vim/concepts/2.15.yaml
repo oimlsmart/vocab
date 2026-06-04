@@ -1,8 +1,7 @@
----
 data:
   identifier: '2.15'
   localized_concepts:
-    eng: '0887a4cd-43c8-4867-bc43-6c6acb164bbd'
+    eng: 0887a4cd-43c8-4867-bc43-6c6acb164bbd
     fra: e113ae5f-426f-418f-b1af-c39fb1f4d53e
   domains:
   - concept_id: section-2
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 1a2d4f5e-de51-4494-9042-a481f6919b65
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.15'
 ---
 data:
   dates:
@@ -46,7 +50,7 @@ data:
     designation: precision
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: '0887a4cd-43c8-4867-bc43-6c6acb164bbd'
+id: 0887a4cd-43c8-4867-bc43-6c6acb164bbd
 ---
 data:
   dates:

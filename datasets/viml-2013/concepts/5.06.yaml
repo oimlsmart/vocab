@@ -12,10 +12,6 @@ status: valid
 id: 07572f0e-97aa-5bdc-a227-d5de2626adfb
 schema_version: '3'
 related:
-- type: superseded_by
-  ref:
-    source: urn:oiml:pub:v:1:2022
-    id: '5.06'
 ---
 data:
   dates:

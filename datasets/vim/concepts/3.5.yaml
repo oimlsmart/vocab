@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.5'
   localized_concepts:
@@ -15,7 +14,13 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: '0.13'
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '3.5'
 ---
+null
+...
 ---
 data:
   dates:
@@ -39,6 +44,8 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2c68c07a-43f8-4de3-84cc-ab4993d85fdf
 ---
+null
+...
 ---
 data:
   dates:

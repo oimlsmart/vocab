@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.17'
   localized_concepts:
@@ -11,14 +10,19 @@ data:
 status: valid
 id: bd7bea96-48e6-4fd6-bfa0-2cca3a686822
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '1.17'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement unit,1.9}} obtained by multiplying a given measurement
-      unit by an integer greater than one"
+  - content: '{{measurement unit,1.9}} obtained by multiplying a given measurement
+      unit by an integer greater than one'
   examples:
   - content: The kilometre is a decimal multiple of the metre.
   - content: The hour is a non-decimal multiple of the second.
@@ -27,21 +31,34 @@ data:
   notes:
   - content: SI prefixes for decimal multiples of SI {{base units,1.10}} and SI {{derived
       units,1.11}} are given in Note 5 of 1.16.
-  - content: |-
-      SI prefixes refer strictly to powers of 10, and should not be used for powers of 2. For example, 1 kilobit should not be used to represent 1 024 bits (210 bits), which is 1 kibibit.
+  - content: 'SI prefixes refer strictly to powers of 10, and should not be used for
+      powers of 2. For example, 1 kilobit should not be used to represent 1 024 bits
+      (210 bits), which is 1 kibibit.
+
       Prefixes for binary multiples are:
 
+
       |===
+
       | (210)8 | yobi yobi
+
       | (210)7 | zebi zébi
+
       | (210)6 | exbi exbi
+
       | (210)5 | pebi pébi
+
       | (210)4 | tebi tébi
+
       | (210)3 | gibi gibi
+
       | (210)2 | mebi mébi
+
       | (210)1 | kibi kibi
+
       |===
-      Source: IEC 80000-13.
+
+      Source: IEC 80000-13.'
   terms:
   - type: expression
     normative_status: preferred
@@ -55,32 +72,46 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{unité de mesure,1.9}} obtenue en multipliant une unité de mesure donnée
-      par un entier supérieur à un"
+  - content: '{{unité de mesure,1.9}} obtenue en multipliant une unité de mesure donnée
+      par un entier supérieur à un'
   examples: []
   id: 1.17-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Le kilomètre est un multiple décimal du mètre.
-      EXEMPLE 2 L'heure est un multiple non décimal de la seconde.
+  - content: 'EXEMPLE 1 Le kilomètre est un multiple décimal du mètre.
+
+      EXEMPLE 2 L''heure est un multiple non décimal de la seconde.'
   - content: Les préfixes SI pour les multiples décimaux des {{unités de base,1.10}}
       et des {{unités dérivées,1.11}} du {{SI,1.16}} sont donnés à la Note 5 de 1.16.
-  - content: |-
-      Les préfixes SI représentent strictement des puissances de 10 et il convient de ne pas les utiliser pour des puissances de 2. Par exemple, il convient de ne pas utiliser 1 kilobit pour représenter 1 024 bits (210 bits), qui est 1 kibibit.
+  - content: 'Les préfixes SI représentent strictement des puissances de 10 et il
+      convient de ne pas les utiliser pour des puissances de 2. Par exemple, il convient
+      de ne pas utiliser 1 kilobit pour représenter 1 024 bits (210 bits), qui est
+      1 kibibit.
+
       Les préfixes pour les multiples binaires sont:
 
+
       |===
+
       | (210)8 | yobi yobi
+
       | (210)7 | zebi zébi
+
       | (210)6 | exbi exbi
+
       | (210)5 | pebi pébi
+
       | (210)4 | tebi tébi
+
       | (210)3 | gibi gibi
+
       | (210)2 | mebi mébi
+
       | (210)1 | kibi kibi
+
       |===
-      Source: CEI 80000-13.
+
+      Source: CEI 80000-13.'
   terms:
   - type: expression
     normative_status: preferred

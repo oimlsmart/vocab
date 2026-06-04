@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.4'
   localized_concepts:
@@ -11,6 +10,7 @@ data:
 status: valid
 id: 428bcb97-acb9-49a3-95cc-eddfe4ebb4d5
 schema_version: '3'
+related: []
 ---
 data:
   dates:
@@ -21,7 +21,7 @@ data:
       obtainable with a particular setting of the controls of a measuring instrument
       or measuring system and used to designate that setting
   examples:
-  - content: ", “100 V to 200 V”."
+  - content: ', “100 V to 200 V”.'
   id: 4.4-eng
   language_code: eng
   notes:
@@ -68,3 +68,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a465d5b4-721e-4514-b946-175ebc3843d9
+---

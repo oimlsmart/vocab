@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.19'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: ab98fbd9-f9a9-43b7-9c14-83fb722393dc
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '4.19'
 ---
 data:
   dates:
@@ -49,10 +53,14 @@ data:
   id: 4.19-fra
   language_code: fra
   notes:
-  - content: |-
-      La stabilité d'un instrument de mesure peut être exprimée quantitativement de plusieurs façons.
-      EXEMPLE 1 Par la durée d'un intervalle de temps au cours duquel une propriété métrologique évolue d'une quantité donnée.
-      EXEMPLE 2 Par la variation d'une propriété au cours d'un intervalle de temps déterminé.
+  - content: 'La stabilité d''un instrument de mesure peut être exprimée quantitativement
+      de plusieurs façons.
+
+      EXEMPLE 1 Par la durée d''un intervalle de temps au cours duquel une propriété
+      métrologique évolue d''une quantité donnée.
+
+      EXEMPLE 2 Par la variation d''une propriété au cours d''un intervalle de temps
+      déterminé.'
   terms:
   - type: expression
     normative_status: preferred

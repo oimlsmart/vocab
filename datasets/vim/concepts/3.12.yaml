@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.12'
   localized_concepts:
@@ -11,15 +10,20 @@ data:
 status: valid
 id: a9293cbb-9810-4b38-8032-a7f9ddbf4a15
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '3.12'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{adjustment of a measuring system,3.11}} so that it provides a null
+  - content: '{{adjustment of a measuring system,3.11}} so that it provides a null
       {{indication,4.1}} corresponding to a zero {{value,1.19}} of a {{quantity,1.1}}
-      to be measured"
+      to be measured'
   examples: []
   id: 3.12-eng
   language_code: eng
@@ -40,9 +44,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{ajustage d'un système de mesure,3.11}} pour que le système fournisse
+  - content: '{{ajustage d''un système de mesure,3.11}} pour que le système fournisse
       une {{indication,4.1}} égale à zéro correspondant à une {{valeur,1.19}} égale
-      à zéro de la {{grandeur,1.1}} à mesurer"
+      à zéro de la {{grandeur,1.1}} à mesurer'
   examples: []
   id: 3.12-fra
   language_code: fra

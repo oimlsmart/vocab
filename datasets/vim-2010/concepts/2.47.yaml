@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.47'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 11282e56-5676-42aa-a396-4345fdc62676
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '2.47'
 ---
 data:
   dates:
@@ -55,8 +59,8 @@ data:
       la différence des valeurs mesurées pour toute paire de résultats de mesure est
       plus petite qu'un certain multiple choisi de l'incertitude-type de cette différence
   examples:
-  - content: ", l'incertitude de mesure évaluée est trop petite), soit la grandeur
-      mesurée a changé d'un mesurage à l'autre."
+  - content: ', l''incertitude de mesure évaluée est trop petite), soit la grandeur
+      mesurée a changé d''un mesurage à l''autre.'
   id: 2.47-fra
   language_code: fra
   notes:

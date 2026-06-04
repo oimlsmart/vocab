@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.10'
   localized_concepts:
@@ -11,14 +10,19 @@ data:
 status: valid
 id: 3155d0f5-a9d9-4943-9646-5aa3654e336b
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '5.10'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement standard,5.1}} based on an inherent and reproducible property
-      of a phenomenon or substance"
+  - content: '{{measurement standard,5.1}} based on an inherent and reproducible property
+      of a phenomenon or substance'
   examples:
   - content: Triple-point-of-water cell as an intrinsic measurement standard of thermodynamic
       temperature.
@@ -60,17 +64,23 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{étalon,5.1}} fondé sur une propriété intrinsèque et reproductible
-      d'un phénomène ou d'une substance"
+  - content: '{{étalon,5.1}} fondé sur une propriété intrinsèque et reproductible
+      d''un phénomène ou d''une substance'
   examples: []
   id: 5.10-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Étalon intrinsèque de température thermodynamique constitué d'une cellule à point triple de l'eau.
-      EXEMPLE 2 Étalon intrinsèque de différence de potentiel électrique fondé sur l'effet Josephson.
-      EXEMPLE 3 Étalon intrinsèque de résistance électrique fondé sur l'effet Hall quantique.
-      EXEMPLE 4 Étalon intrinsèque de conductivité électrique constitué d'un spécimen de cuivre.
+  - content: 'EXEMPLE 1 Étalon intrinsèque de température thermodynamique constitué
+      d''une cellule à point triple de l''eau.
+
+      EXEMPLE 2 Étalon intrinsèque de différence de potentiel électrique fondé sur
+      l''effet Josephson.
+
+      EXEMPLE 3 Étalon intrinsèque de résistance électrique fondé sur l''effet Hall
+      quantique.
+
+      EXEMPLE 4 Étalon intrinsèque de conductivité électrique constitué d''un spécimen
+      de cuivre.'
   - content: La {{valeur,1.19}} d'un étalon intrinsèque est assignée par consensus
       et n'a pas besoin d'être établie en le reliant à un autre étalon de même type.
       Son {{incertitude de mesure,2.26}} est déterminée en prenant en compte deux

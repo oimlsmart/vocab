@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.6'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: d7b682db-5182-4861-baeb-9c90fb390962
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '4.6'
 ---
 data:
   dates:
@@ -26,12 +30,12 @@ data:
       flask.
   - content: 0.1 mol/l as the nominal quantity value for amount-of-substance concentration
       of a solution of hydrogen chloride, HCl.
-  - content: "–20 °C as a maximum Celsius temperature for storage."
+  - content: –20 °C as a maximum Celsius temperature for storage.
   id: 4.6-eng
   language_code: eng
   notes:
-  - content: "“Nominal quantity value” and “nominal value” should not be used for
-      'nominal property value' (see 1.30, Note 2)."
+  - content: “Nominal quantity value” and “nominal value” should not be used for 'nominal
+      property value' (see 1.30, Note 2).
   terms:
   - type: expression
     normative_status: preferred
@@ -48,18 +52,21 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur,1.19}} arrondie ou approximative d'une {{grandeur,1.1}} caractéristique
-      d'un {{instrument de mesure,3.1}} ou d'un {{système de mesure,3.2}}, qui sert
-      de guide pour son utilisation appropriée"
+  - content: '{{valeur,1.19}} arrondie ou approximative d''une {{grandeur,1.1}} caractéristique
+      d''un {{instrument de mesure,3.1}} ou d''un {{système de mesure,3.2}}, qui sert
+      de guide pour son utilisation appropriée'
   examples: []
   id: 4.6-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 La valeur 100 Ω marquée sur une résistance étalon.
+  - content: 'EXEMPLE 1 La valeur 100 Ω marquée sur une résistance étalon.
+
       EXEMPLE 2 La valeur 1 000 ml marquée sur une fiole jaugée à un trait.
-      EXEMPLE 3 La valeur 0,1 mol/l de la concentration en quantité de matière d'une solution d'acide chlorhydrique, HCl.
-      EXEMPLE 4 La valeur –20 °C d'une température Celsius maximale de stockage.
+
+      EXEMPLE 3 La valeur 0,1 mol/l de la concentration en quantité de matière d''une
+      solution d''acide chlorhydrique, HCl.
+
+      EXEMPLE 4 La valeur –20 °C d''une température Celsius maximale de stockage.'
   - content: En anglais, il convient de ne pas utilizer «nominal quantity value» et
       «nominal value» pour la valeur d'une {{propriété qualitative,1.30}} (en anglais
       «nominal property value»).

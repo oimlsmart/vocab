@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.3'
   localized_concepts:
@@ -11,14 +10,19 @@ data:
 status: valid
 id: 883992b9-407f-4732-bd7d-fe9e4b5b1bb8
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '3.3'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measuring instrument,3.1}} providing an output signal carrying information
-      about the {{value,1.19}} of the {{quantity,1.1}} being measured"
+  - content: '{{measuring instrument,3.1}} providing an output signal carrying information
+      about the {{value,1.19}} of the {{quantity,1.1}} being measured'
   examples:
   - content: Voltmeter, micrometer, thermometer, electronic balance.
   id: 3.3-eng
@@ -40,8 +44,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{instrument de mesure,3.1}} qui fournit un signal de sortie porteur
-      d'informations sur la {{valeur,1.19}} de la {{grandeur,1.1}} mesurée"
+  - content: '{{instrument de mesure,3.1}} qui fournit un signal de sortie porteur
+      d''informations sur la {{valeur,1.19}} de la {{grandeur,1.1}} mesurée'
   examples: []
   id: 3.3-fra
   language_code: fra

@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.9'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 541cb049-a7fb-42b4-a31c-15ca13eba5a4
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.9'
 ---
 data:
   dates:
@@ -80,12 +84,12 @@ data:
       le résultat de mesure était défini comme une valeur attribuée à un mesurande
       et pouvait se référer à une {{indication,4.1}}, un résultat brut ou un résultat
       corrigé, selon le contexte.
-  - content: "[Annotation] Cette définition diffère de celle de la deuxième édition
+  - content: '[Annotation] Cette définition diffère de celle de la deuxième édition
       du VIM (VIM2) («valeur attribuée à un mesurande, obtenue par mesurage») pour
-      tenir compte de 3.1.2 dans le GUM («En général, le résultat d'un mesurage est
+      tenir compte de 3.1.2 dans le GUM («En général, le résultat d''un mesurage est
       seulement une approximation ou estimation de la valeur du mesurande et, de ce
-      fait, est seulement complet lorsqu'il est accompagné par une expression de l'incertitude
-      de cette estimation»)."
+      fait, est seulement complet lorsqu''il est accompagné par une expression de
+      l''incertitude de cette estimation»).'
   terms:
   - type: expression
     normative_status: preferred

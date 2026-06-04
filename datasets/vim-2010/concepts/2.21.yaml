@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.21'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: e0b22855-2f18-4d39-9708-348d73968578
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '2.21'
 ---
 data:
   dates:

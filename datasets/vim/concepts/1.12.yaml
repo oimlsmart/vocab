@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.12'
   localized_concepts:
@@ -11,15 +10,20 @@ data:
 status: valid
 id: adc58c33-666e-4360-aea5-a212ba1028d2
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '1.12'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{derived unit,1.11}} that, for a given {{system of quantities,1.3}}
+  - content: '{{derived unit,1.11}} that, for a given {{system of quantities,1.3}}
       and for a chosen set of {{base units,1.10}}, is a product of powers of base
-      units with no other proportionality factor than one"
+      units with no other proportionality factor than one'
   examples:
   - content: If the metre, the second, and the mole are base units, the metre per
       second is the coherent derived unit of velocity when velocity is defined by
@@ -54,20 +58,31 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{unité dérivée,1.11}} qui, pour un {{système de grandeurs,1.3}} donné
-      et pour un ensemble choisi d'{{unités de base,1.10}}, est un produit de puissances
-      des unités de base sans autre facteur de proportionnalité que le nombre un"
+  - content: '{{unité dérivée,1.11}} qui, pour un {{système de grandeurs,1.3}} donné
+      et pour un ensemble choisi d''{{unités de base,1.10}}, est un produit de puissances
+      des unités de base sans autre facteur de proportionnalité que le nombre un'
   examples: []
   id: 1.12-fra
   language_code: fra
   notes:
   - content: Une puissance d'une unité de base est l'unité munie d'un exposant.
-  - content: |-
-      La cohérence ne peut être déterminée que par rapport à un système de grandeurs particulier et un ensemble donné d'unités de base.
-      EXEMPLES Si le mètre, la seconde et la mole sont des unités de base, le mètre par seconde est l'unité dérivée cohérente de vitesse lorsque la vitesse est définie par l'{{équation aux grandeurs,1.22}}v = dr/dt, et la mole par mètre cube est l'unité dérivée cohérente de concentration en quantité de matière lorsque la concentration en quantité de matière est définie par l'équation aux grandeurs c= n/V. Le kilomètre par heure et le noeud, donnés comme exemples d'unités dérivées en 1.11, ne sont pas des unités dérivées cohérentes dans un tel système.
-  - content: |-
-      Une unité dérivée peut être cohérente par rapport à un système de grandeurs, mais non par rapport à un autre.
-      EXEMPLE Le centimètre par seconde est l'unité dérivée cohérente de vitesse dans le {{système d'unités,1.13}} CGS mais n'est pas une unité dérivée cohérente dans le {{SI,1.16}}.
+  - content: 'La cohérence ne peut être déterminée que par rapport à un système de
+      grandeurs particulier et un ensemble donné d''unités de base.
+
+      EXEMPLES Si le mètre, la seconde et la mole sont des unités de base, le mètre
+      par seconde est l''unité dérivée cohérente de vitesse lorsque la vitesse est
+      définie par l''{{équation aux grandeurs,1.22}}v = dr/dt, et la mole par mètre
+      cube est l''unité dérivée cohérente de concentration en quantité de matière
+      lorsque la concentration en quantité de matière est définie par l''équation
+      aux grandeurs c= n/V. Le kilomètre par heure et le noeud, donnés comme exemples
+      d''unités dérivées en 1.11, ne sont pas des unités dérivées cohérentes dans
+      un tel système.'
+  - content: 'Une unité dérivée peut être cohérente par rapport à un système de grandeurs,
+      mais non par rapport à un autre.
+
+      EXEMPLE Le centimètre par seconde est l''unité dérivée cohérente de vitesse
+      dans le {{système d''unités,1.13}} CGS mais n''est pas une unité dérivée cohérente
+      dans le {{SI,1.16}}.'
   - content: Dans tout système d'unités, l'unité dérivée cohérente de toute grandeur
       dérivée sans dimension est le nombre un, de symbole 1. Le nom et le symbole
       de l'{{unité de mesure,1.9}} un sont généralement omis.

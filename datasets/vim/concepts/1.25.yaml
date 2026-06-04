@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.25'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 65542742-19fb-447d-9480-99df55b98990
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '1.25'
 ---
 data:
   dates:
@@ -55,9 +59,14 @@ data:
   id: 1.25-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Pour les {{grandeurs,1.1}} données dans l'Exemple 1 de 1.22, {Q1} = ζ {Q2} {Q3}, où {Q1}, {Q2} et {Q3} représentent respectivement les valeurs numériques de Q1, Q2 et Q3 lorsqu'elles sont exprimées en {{unités de base,1.10}} ou en {{unités dérivées cohérentes,1.12}} ou les deux.
-      EXEMPLE 2 Pour l'équation de l'énergie cinétique d'une particule, T= (1/2) mv2, si m= 2 kg et v= 3 m/s, alors {T} = (1/2) ·2 · 32 est une équation aux valeurs numériques donnant la valeur numérique 9 pour Ten joules.
+  - content: 'EXEMPLE 1 Pour les {{grandeurs,1.1}} données dans l''Exemple 1 de 1.22,
+      {Q1} = ζ {Q2} {Q3}, où {Q1}, {Q2} et {Q3} représentent respectivement les valeurs
+      numériques de Q1, Q2 et Q3 lorsqu''elles sont exprimées en {{unités de base,1.10}}
+      ou en {{unités dérivées cohérentes,1.12}} ou les deux.
+
+      EXEMPLE 2 Pour l''équation de l''énergie cinétique d''une particule, T= (1/2)
+      mv2, si m= 2 kg et v= 3 m/s, alors {T} = (1/2) ·2 · 32 est une équation aux
+      valeurs numériques donnant la valeur numérique 9 pour Ten joules.'
   terms:
   - type: expression
     normative_status: preferred

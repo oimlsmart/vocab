@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.14'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: d7110926-6afd-4d68-80df-46f2581b0208
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '4.14'
 ---
 data:
   dates:

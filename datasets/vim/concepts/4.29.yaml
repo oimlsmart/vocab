@@ -1,8 +1,7 @@
----
 data:
   identifier: '4.29'
   localized_concepts:
-    eng: '08cc1843-f90b-4337-9547-5d23e43161d3'
+    eng: 08cc1843-f90b-4337-9547-5d23e43161d3
     fra: 2fd90cf1-b6c2-41e9-bbaf-d8932a749d95
   domains:
   - concept_id: section-4
@@ -11,14 +10,19 @@ data:
 status: valid
 id: 658d9eaa-6e08-4a9c-92e1-9d78d60f1683
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '4.29'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement uncertainty,2.26}} where the specified {{measured quantity
-      value,2.10}} is zero"
+  - content: '{{measurement uncertainty,2.26}} where the specified {{measured quantity
+      value,2.10}} is zero'
   examples: []
   id: 4.29-eng
   language_code: eng
@@ -38,15 +42,15 @@ data:
     designation: null measurement uncertainty
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: '08cc1843-f90b-4337-9547-5d23e43161d3'
+id: 08cc1843-f90b-4337-9547-5d23e43161d3
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{incertitude de mesure,2.26}} lorsque la {{valeur mesurée,2.10}} spécifiée
-      est nulle"
+  - content: '{{incertitude de mesure,2.26}} lorsque la {{valeur mesurée,2.10}} spécifiée
+      est nulle'
   examples: []
   id: 4.29-fra
   language_code: fra

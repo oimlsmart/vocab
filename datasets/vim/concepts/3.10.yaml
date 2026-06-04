@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.10'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: e7967f93-9844-4a6e-9380-f6beea8c3174
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '3.10'
 ---
 data:
   dates:
@@ -46,9 +50,11 @@ data:
   id: 3.10-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Chaîne de mesure électroacoustique comprenant un microphone, un atténuateur, un filtre, un amplificateur et un voltmètre.
-      EXEMPLE 2 Chaîne de mesure mécanique comprenant un tube de Bourdon, un système de leviers, deux roues dentées et un cadran mécanique.
+  - content: 'EXEMPLE 1 Chaîne de mesure électroacoustique comprenant un microphone,
+      un atténuateur, un filtre, un amplificateur et un voltmètre.
+
+      EXEMPLE 2 Chaîne de mesure mécanique comprenant un tube de Bourdon, un système
+      de leviers, deux roues dentées et un cadran mécanique.'
   terms:
   - type: expression
     normative_status: preferred

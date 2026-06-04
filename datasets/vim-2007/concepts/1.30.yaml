@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.30'
   localized_concepts:
@@ -11,6 +10,7 @@ data:
 status: valid
 id: d258a594-799a-4f73-9da1-7d9d2224204d
 schema_version: '3'
+related: []
 ---
 data:
   dates:
@@ -28,8 +28,8 @@ data:
   notes:
   - content: A nominal property has a value, which can be expressed in words, by alpha-numerical
       codes, or by other means.
-  - content: "'Nominal property value' is not to be confused with nominal quantity
-      value."
+  - content: '''Nominal property value'' is not to be confused with nominal quantity
+      value.'
   terms:
   - type: expression
     normative_status: preferred
@@ -66,3 +66,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9f6355be-87c9-4918-bbe4-f85781a4e57d
+---

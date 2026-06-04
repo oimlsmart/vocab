@@ -1,9 +1,8 @@
----
 data:
   identifier: '2.15'
   localized_concepts:
     eng: c92567e2-a50b-4ba5-9992-2a06775a47c4
-    fra: '08efadfd-1224-4499-9ce3-e721cb42190f'
+    fra: 08efadfd-1224-4499-9ce3-e721cb42190f
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 6046ea92-e68c-43e7-a140-a9cd6ab9ef5b
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '2.15'
 ---
 data:
   dates:
@@ -76,4 +80,4 @@ data:
     designation: fidélité, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: '08efadfd-1224-4499-9ce3-e721cb42190f'
+id: 08efadfd-1224-4499-9ce3-e721cb42190f

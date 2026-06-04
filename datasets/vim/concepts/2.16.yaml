@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.16'
   localized_concepts:
@@ -11,13 +10,18 @@ data:
 status: valid
 id: 3f003db0-3c3a-4147-8bd0-dbd695ccd28d
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.16'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measured quantity value,2.10}} minus a {{reference quantity value,5.18}}"
+  - content: '{{measured quantity value,2.10}} minus a {{reference quantity value,5.18}}'
   examples: []
   id: 2.16-eng
   language_code: eng
@@ -31,11 +35,11 @@ data:
       quantity value,2.11}} or a set of true quantity values of negligible range,
       in which case the measurement error is not known.
   - content: Measurement error should not be confused with production error or mistake.
-  - content: "[Annotation] Measurement error is sometimes understood as a quantity,
-      which has a value, rather than as a value of a quantity."
-  - content: "[Annotation] ANNOTATION (for Note 1) (informative) [5 June 2014] The
-      concept of 'measurement error' can be used either for a) or for b), but not
-      for both a) and b) simultaneously."
+  - content: '[Annotation] Measurement error is sometimes understood as a quantity,
+      which has a value, rather than as a value of a quantity.'
+  - content: '[Annotation] ANNOTATION (for Note 1) (informative) [5 June 2014] The
+      concept of ''measurement error'' can be used either for a) or for b), but not
+      for both a) and b) simultaneously.'
   terms:
   - type: expression
     normative_status: preferred
@@ -70,11 +74,11 @@ data:
       d'étendue négligeable, l'erreur étant alors inconnue.
   - content: Il convient de ne pas confondre l'erreur de mesure avec une erreur de
       production ou une erreur humaine.
-  - content: "[Annotation] Une erreur de mesure est quelquefois considérée comme une
-      grandeur ayant une valeur plutôt que comme une valeur d'une grandeur."
-  - content: "[Annotation] ANNOTATION (pour la Note 1) (informative) [5 juin 2014]
-      Le concept d'erreur de mesure peut être utilisé dans le cas a) ou dans le cas
-      b), mais pas dans les deux cas à la fois."
+  - content: '[Annotation] Une erreur de mesure est quelquefois considérée comme une
+      grandeur ayant une valeur plutôt que comme une valeur d''une grandeur.'
+  - content: '[Annotation] ANNOTATION (pour la Note 1) (informative) [5 juin 2014]
+      Le concept d''erreur de mesure peut être utilisé dans le cas a) ou dans le cas
+      b), mais pas dans les deux cas à la fois.'
   terms:
   - type: expression
     normative_status: preferred

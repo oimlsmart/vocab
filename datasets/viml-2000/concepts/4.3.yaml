@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.3'
   localized_concepts:
@@ -12,10 +11,10 @@ status: valid
 id: 5cffad29-f280-570c-973f-36f1299701bc
 schema_version: '3'
 related:
-- type: superseded_by
+- type: supersedes
   ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '4.07'
+    source: urn:oiml:pub:v:1:1968
+    id: 6.1.5
 ---
 data:
   dates:
@@ -56,3 +55,4 @@ language_code: fra
 entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
 id: fba95bea-65fb-5d66-8f8f-a73e3cd225b8
+---

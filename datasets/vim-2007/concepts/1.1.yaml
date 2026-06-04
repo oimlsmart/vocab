@@ -1,9 +1,8 @@
----
 data:
   identifier: '1.1'
   localized_concepts:
     eng: b3e6cd6c-1eea-4cc0-8b67-318ba945039e
-    fra: '09ff321b-338b-4f72-8a77-eb6a42027988'
+    fra: 09ff321b-338b-4f72-8a77-eb6a42027988
   domains:
   - concept_id: section-1
     source: urn:jcgm:pub:200:2007
@@ -11,6 +10,11 @@ data:
 status: valid
 id: e2534f2b-bdc7-4f73-928b-695b7777e657
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:1993
+    id: '1.1'
 ---
 data:
   dates:
@@ -20,8 +24,8 @@ data:
   - content: property of a phenomenon, body, or substance, where the property has
       a magnitude that can be expressed as a number and a reference
   examples:
-  - content: "“Plasma (Blood)Sodium ion; amount-of-substance concentration equal
-      to 143 mmol/l in a given person at a given time”."
+  - content: “Plasma (Blood)Sodium ion; amount-of-substance concentration equal to
+      143 mmol/l in a given person at a given time”.
   id: 1.1-eng
   language_code: eng
   notes:
@@ -66,8 +70,8 @@ data:
   - content: propriété d'un phénomène, d'un corps ou d'une substance, que l'on peut
       exprimer quantitativement sous forme d'un nombre et d'une référence
   examples:
-  - content: "« Plasma(Sang)—Ion sodium; concentration en quantité de matière égale
-      à 143 mmol/l chez une personne donnée à un instant donné »."
+  - content: « Plasma(Sang)—Ion sodium; concentration en quantité de matière égale
+      à 143 mmol/l chez une personne donnée à un instant donné ».
   id: 1.1-fra
   language_code: fra
   notes:
@@ -105,4 +109,5 @@ data:
     designation: grandeur, f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: '09ff321b-338b-4f72-8a77-eb6a42027988'
+id: 09ff321b-338b-4f72-8a77-eb6a42027988
+---

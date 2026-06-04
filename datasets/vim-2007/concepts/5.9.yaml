@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.9'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 521c904d-4271-49f1-9728-81234c364256
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:1993
+    id: '6.9'
 ---
 data:
   dates:
@@ -52,3 +56,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0471b82d-ff8d-471f-9642-c308092a6185
+---

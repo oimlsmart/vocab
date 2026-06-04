@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.12'
   localized_concepts:
@@ -11,6 +10,7 @@ data:
 status: valid
 id: eab86503-c956-41d1-9342-efe486e6aac2
 schema_version: '3'
+related: []
 ---
 data:
   dates:
@@ -45,7 +45,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "....."
+    designation: '.....'
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 442998e9-0a4e-4120-b28d-75b37951cefb
+---

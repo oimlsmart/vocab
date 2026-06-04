@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.5'
   localized_concepts:
@@ -9,8 +8,9 @@ data:
     source: urn:jcgm:pub:200:2007
     ref_type: domain
 status: valid
-id: '0299348c-a19d-4cdd-b7ed-6a6e09a3cd51'
+id: 0299348c-a19d-4cdd-b7ed-6a6e09a3cd51
 schema_version: '3'
+related: []
 ---
 data:
   dates:
@@ -59,3 +59,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 36e8f6c3-c302-43ea-90eb-e4ee1c3570e6
+---

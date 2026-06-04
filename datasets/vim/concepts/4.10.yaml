@@ -1,8 +1,7 @@
----
 data:
   identifier: '4.10'
   localized_concepts:
-    eng: '05196f4a-7ac4-4f22-a206-ea633e533d59'
+    eng: 05196f4a-7ac4-4f22-a206-ea633e533d59
     fra: 5b7d1805-9aff-42c3-ac7e-feac47e95de9
   domains:
   - concept_id: section-4
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 3ef71988-05da-4367-81c9-0723a5825d76
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '4.10'
 ---
 data:
   dates:
@@ -34,7 +38,7 @@ data:
     designation: limiting operating condition
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: '05196f4a-7ac4-4f22-a206-ea633e533d59'
+id: 05196f4a-7ac4-4f22-a206-ea633e533d59
 ---
 data:
   dates:

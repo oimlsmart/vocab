@@ -1,9 +1,8 @@
----
 data:
   identifier: '2.49'
   localized_concepts:
     eng: 0fafb385-ecd6-484d-9a3d-3e0b37758959
-    fra: '08b36937-c986-4ed1-876f-493ab6158761'
+    fra: 08b36937-c986-4ed1-876f-493ab6158761
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2010
@@ -11,6 +10,11 @@ data:
 status: valid
 id: b5b359f7-80d2-4ea9-8730-df90409f5724
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '2.49'
 ---
 data:
   dates:
@@ -64,4 +68,4 @@ data:
     designation: fonction de mesure, f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: '08b36937-c986-4ed1-876f-493ab6158761'
+id: 08b36937-c986-4ed1-876f-493ab6158761

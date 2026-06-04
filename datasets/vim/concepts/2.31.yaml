@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.31'
   localized_concepts:
@@ -11,15 +10,20 @@ data:
 status: valid
 id: 23d0e8c0-050b-4d54-9650-58d4b69ee3fe
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.31'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{standard measurement uncertainty,2.30}} that is obtained using the
+  - content: '{{standard measurement uncertainty,2.30}} that is obtained using the
       individual {{standard measurement uncertainties,2.30}} associated with the {{input
-      quantities in a measurement model,2.50}}"
+      quantities in a measurement model,2.50}}'
   examples: []
   id: 2.31-eng
   language_code: eng
@@ -47,8 +51,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{incertitude-type,2.30}} obtenue en utilisant les {{incertitudes-types,2.30}}
-      individuelles associées aux {{grandeurs d'entrée dans un modèle de mesure,2.50}}"
+  - content: '{{incertitude-type,2.30}} obtenue en utilisant les {{incertitudes-types,2.30}}
+      individuelles associées aux {{grandeurs d''entrée dans un modèle de mesure,2.50}}'
   examples: []
   id: 2.31-fra
   language_code: fra

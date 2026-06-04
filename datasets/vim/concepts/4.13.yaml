@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.13'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 34a5f1c9-91f2-4886-935c-6396d7c6da56
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '4.13'
 ---
 data:
   dates:
@@ -83,13 +87,29 @@ data:
   id: 4.13-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Aptitude d'un système de mesure comprenant un spectromètre de masse à mesurer le rapport des courants ioniques produits par deux composés spécifiés sans dépendre d'autres sources spécifiées de courant électrique.
-      EXEMPLE 2 Aptitude d'un système de mesure à mesurer la puissance d'une composante d'un signal à une fréquence donnée sans perturbation par des composantes du signal ou par d'autres signaux à d'autres fréquences.
-      EXEMPLE 3 Aptitude d'un récepteur à discerner un signal désiré de signaux non désirés, qui ont souvent des fréquences légèrement différentes de la fréquence du signal désiré.
-      EXEMPLE 4 Aptitude d'un système de mesure de rayonnement ionisant à répondre à un rayonnement particulier à mesurer en présence d'un rayonnement concomitant.
-      EXEMPLE 5 Aptitude d'un système de mesure à mesurer la concentration en quantité de matière de créatinine dans le plasma sanguin par une procédure de Jaffé sans être influencé par les concentrations de glucose, d'urate, de cétone et de protéines.
-      EXEMPLE 6 Aptitude d'un spectromètre de masse à mesurer les abondances en quantité de matière de l'isotope 28Si et de l'isotope 30Si dans du silicium provenant d'un dépôt géologique sans influence entre eux ou par l'isotope 29Si.
+  - content: 'EXEMPLE 1 Aptitude d''un système de mesure comprenant un spectromètre
+      de masse à mesurer le rapport des courants ioniques produits par deux composés
+      spécifiés sans dépendre d''autres sources spécifiées de courant électrique.
+
+      EXEMPLE 2 Aptitude d''un système de mesure à mesurer la puissance d''une composante
+      d''un signal à une fréquence donnée sans perturbation par des composantes du
+      signal ou par d''autres signaux à d''autres fréquences.
+
+      EXEMPLE 3 Aptitude d''un récepteur à discerner un signal désiré de signaux non
+      désirés, qui ont souvent des fréquences légèrement différentes de la fréquence
+      du signal désiré.
+
+      EXEMPLE 4 Aptitude d''un système de mesure de rayonnement ionisant à répondre
+      à un rayonnement particulier à mesurer en présence d''un rayonnement concomitant.
+
+      EXEMPLE 5 Aptitude d''un système de mesure à mesurer la concentration en quantité
+      de matière de créatinine dans le plasma sanguin par une procédure de Jaffé sans
+      être influencé par les concentrations de glucose, d''urate, de cétone et de
+      protéines.
+
+      EXEMPLE 6 Aptitude d''un spectromètre de masse à mesurer les abondances en quantité
+      de matière de l''isotope 28Si et de l''isotope 30Si dans du silicium provenant
+      d''un dépôt géologique sans influence entre eux ou par l''isotope 29Si.'
   - content: En physique, il y a souvent un seul mesurande; les autres grandeurs sont
       de même {{nature,1.2}} que le mesurande et sont appliquées à l'entrée du système
       de mesure.

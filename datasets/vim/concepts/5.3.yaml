@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.3'
   localized_concepts:
@@ -11,15 +10,20 @@ data:
 status: valid
 id: 0f965644-1ef9-4c1d-aebc-35c08ca62b95
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '5.3'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement standard,5.1}} recognized by national authority to serve
+  - content: '{{measurement standard,5.1}} recognized by national authority to serve
       in a state or economy as the basis for assigning {{quantity values,1.19}} to
-      other measurement standards for the {{kind of quantity,1.2}} concerned"
+      other measurement standards for the {{kind of quantity,1.2}} concerned'
   examples: []
   id: 5.3-eng
   language_code: eng
@@ -44,9 +48,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{étalon,5.1}} reconnu par une autorité nationale pour servir, dans
-      un état ou une économie, comme base à l'attribution de {{valeurs,1.19}} à d'autres
-      étalons de {{grandeurs,1.1}} de la même {{nature,1.2}}"
+  - content: '{{étalon,5.1}} reconnu par une autorité nationale pour servir, dans
+      un état ou une économie, comme base à l''attribution de {{valeurs,1.19}} à d''autres
+      étalons de {{grandeurs,1.1}} de la même {{nature,1.2}}'
   examples: []
   id: 5.3-fra
   language_code: fra

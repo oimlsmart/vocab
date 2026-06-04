@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.44'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 4b4472ea-9405-4aee-9691-9783a5d6d65f
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.44'
 ---
 data:
   dates:
@@ -64,10 +68,14 @@ data:
   id: 2.44-fra
   language_code: fra
   notes:
-  - content: |-
-      EXEMPLE 1 Confirmation qu'un {{matériau de référence,5.13}} donné est bien, comme déclaré, homogène pour la {{valeur,1.19}} et la {{procédure de mesure,2.6}} concernées jusqu'à des prises de mesure de masse 10 mg.
-      EXEMPLE 2 Confirmation que des propriétés relatives aux performances ou des exigences légales sont satisfaites par un {{système de mesure,3.2}}.
-      EXEMPLE 3 Confirmation qu'une {{incertitude cible,2.34}} peut être atteinte.
+  - content: 'EXEMPLE 1 Confirmation qu''un {{matériau de référence,5.13}} donné est
+      bien, comme déclaré, homogène pour la {{valeur,1.19}} et la {{procédure de mesure,2.6}}
+      concernées jusqu''à des prises de mesure de masse 10 mg.
+
+      EXEMPLE 2 Confirmation que des propriétés relatives aux performances ou des
+      exigences légales sont satisfaites par un {{système de mesure,3.2}}.
+
+      EXEMPLE 3 Confirmation qu''une {{incertitude cible,2.34}} peut être atteinte.'
   - content: S'il y a lieu, il convient de prendre en compte l'{{incertitude de mesure,2.26}}.
   - content: L'entité peut être, par exemple, un processus, une procédure de mesure,
       un matériau, un composé ou un système de mesure.
@@ -82,10 +90,10 @@ data:
   - content: En chimie, la vérification de l'identité d'une entité, ou celle d'une
       activité, nécessite une description de la structure ou des propriétés de cette
       entité ou activité.
-  - content: "[Annotation] ANNOTATION (pour l'Exemple 1) (informative) [5 juin 2014]
+  - content: '[Annotation] ANNOTATION (pour l''Exemple 1) (informative) [5 juin 2014]
       Une «prise de mesure» signifie ici un prélèvement de taille appropriée effectué
       sur le matériau de référence en vue de mesurer toute grandeur présentant de
-      l'intérêt."
+      l''intérêt.'
   terms:
   - type: expression
     normative_status: preferred

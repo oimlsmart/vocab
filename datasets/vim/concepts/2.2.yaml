@@ -1,9 +1,8 @@
----
 data:
   identifier: '2.2'
   localized_concepts:
     eng: f318170d-a908-40f2-aa04-a231d3d496ab
-    fra: '09b5e8e0-2fed-4ffe-9fed-0c5855f88d18'
+    fra: 09b5e8e0-2fed-4ffe-9fed-0c5855f88d18
   domains:
   - concept_id: section-2
     source: urn:jcgm:pub:200:2012
@@ -15,7 +14,13 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: '0.01'
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.2'
 ---
+null
+...
 ---
 data:
   dates:
@@ -37,6 +42,8 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: f318170d-a908-40f2-aa04-a231d3d496ab
 ---
+null
+...
 ---
 data:
   dates:
@@ -56,4 +63,4 @@ data:
     designation: métrologie
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: '09b5e8e0-2fed-4ffe-9fed-0c5855f88d18'
+id: 09b5e8e0-2fed-4ffe-9fed-0c5855f88d18

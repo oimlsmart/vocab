@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.3'
   localized_concepts:
@@ -11,13 +10,18 @@ data:
 status: valid
 id: a0229b29-bef9-4800-9eac-a4041e1c32f1
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.3'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity,1.1}} intended to be measured"
+  - content: '{{quantity,1.1}} intended to be measured'
   examples:
   - content: The potential difference between the terminals of a battery may decrease
       when using a voltmeter with a significant internal conductance to perform the
@@ -42,12 +46,12 @@ data:
   - content: In chemistry, “analyte”, or the name of a substance or compound, are
       terms sometimes used for 'measurand'. This usage is erroneous because these
       terms do not refer to quantities.
-  - content: "[Annotation] As Note 2 says, this definition differs from the definition
+  - content: '[Annotation] As Note 2 says, this definition differs from the definition
       in VIM2. The quantity that is being measured may not actually be the quantity
       that is intended to be measured. By making this distinction, it is often possible
       to include corrections in the measurement model such that the value of the quantity
       that is intended to be measured can be calculated on the basis of the value
-      of the quantity that is actually measured."
+      of the quantity that is actually measured.'
   terms:
   - type: expression
     normative_status: preferred
@@ -61,7 +65,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur,1.1}} que l'on veut mesurer"
+  - content: '{{grandeur,1.1}} que l''on veut mesurer'
   examples: []
   id: 2.3-fra
   language_code: fra
@@ -72,19 +76,28 @@ data:
       et les entités chimiques en jeu.
   - content: Dans la deuxième édition du VIM et dans la CEI 60050-300:2001, le mesurande
       est défini comme la «grandeur particulière soumise à mesurage».
-  - content: |-
-      Il se peut que le {{mesurage,2.1}}, incluant le {{système de mesure,3.2}} et les conditions sous lesquelles le mesurage est effectué, modifie le phénomène, le corps ou la substance de sorte que la grandeur mesurée peut différer du mesurande. Dans ce cas, une {{correction,2.53}} appropriée est nécessaire.
-      EXEMPLE 1 La différence de potentiel entre les bornes d'une batterie peut diminuer lorsqu'on la mesure en employant un voltmètre ayant une conductance interne importante. La différence de potentiel en circuit ouvert peut alors être calculée à partir des résistances internes de la batterie et du voltmètre.
-      EXEMPLE 2 La longueur d'une tige en équilibre avec la température ambiante de 23 °C sera différente de la longueur à la température spécifiée de 20 °C, qui est le mesurande. Dans ce cas, une correction est nécessaire.
+  - content: 'Il se peut que le {{mesurage,2.1}}, incluant le {{système de mesure,3.2}}
+      et les conditions sous lesquelles le mesurage est effectué, modifie le phénomène,
+      le corps ou la substance de sorte que la grandeur mesurée peut différer du mesurande.
+      Dans ce cas, une {{correction,2.53}} appropriée est nécessaire.
+
+      EXEMPLE 1 La différence de potentiel entre les bornes d''une batterie peut diminuer
+      lorsqu''on la mesure en employant un voltmètre ayant une conductance interne
+      importante. La différence de potentiel en circuit ouvert peut alors être calculée
+      à partir des résistances internes de la batterie et du voltmètre.
+
+      EXEMPLE 2 La longueur d''une tige en équilibre avec la température ambiante
+      de 23 °C sera différente de la longueur à la température spécifiée de 20 °C,
+      qui est le mesurande. Dans ce cas, une correction est nécessaire.'
   - content: En chimie, l'expression «substance à analyser», ou le nom d'une substance
       ou d'un composé, sont quelquefois utilisés à la place de «mesurande». Cet usage
       est erroné puisque ces termes ne désignent pas des grandeurs.
-  - content: "[Annotation] Comme indiqué dans la Note 2, cette définition diffère
+  - content: '[Annotation] Comme indiqué dans la Note 2, cette définition diffère
       de celle du VIM2. La grandeur qui est mesurée peut ne pas être effectivement
-      la grandeur que l'on veut mesurer. En faisant cette distinction, il est souvent
-      possible d'inclure dans le modèle de mesure des corrections qui permettent de
-      calculer la valeur de la grandeur que l'on veut mesurer à partir de la valeur
-      de la grandeur effectivement mesurée."
+      la grandeur que l''on veut mesurer. En faisant cette distinction, il est souvent
+      possible d''inclure dans le modèle de mesure des corrections qui permettent
+      de calculer la valeur de la grandeur que l''on veut mesurer à partir de la valeur
+      de la grandeur effectivement mesurée.'
   terms:
   - type: expression
     normative_status: preferred

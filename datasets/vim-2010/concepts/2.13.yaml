@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.13'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: d8f00d4c-18d8-4934-aee8-36a28eab09e5
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2007
+    id: '2.13'
 ---
 data:
   dates:
@@ -29,8 +33,8 @@ data:
   - content: The term “measurement accuracy” should not be used for measurement trueness
       and the term measurement precision should not be used for ‘measurement accuracy’
       which, however, is related to both concepts.
-  - content: "‘Measurement accuracy’ is sometimes understood as closeness of agreement
-      between measured quantity values that are being attributed to the measurand."
+  - content: ‘Measurement accuracy’ is sometimes understood as closeness of agreement
+      between measured quantity values that are being attributed to the measurand.
   terms:
   - type: expression
     normative_status: preferred

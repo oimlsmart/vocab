@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.8'
   localized_concepts:
@@ -11,14 +10,19 @@ data:
 status: valid
 id: 2c27e69f-9f64-4dad-b8a3-1eaf153b4f9b
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '1.8'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity,1.1}} for which all the exponents of the factors corresponding
-      to the {{base quantities,1.4}} in its {{quantity dimension,1.7}} are zero"
+  - content: '{{quantity,1.1}} for which all the exponents of the factors corresponding
+      to the {{base quantities,1.4}} in its {{quantity dimension,1.7}} are zero'
   examples:
   - content: Plane angle, solid angle, refractive index, relative permeability, mass
       fraction, friction factor, Mach number.
@@ -53,8 +57,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur,1.1}} pour laquelle tous les exposants des facteurs correspondant
-      aux {{grandeurs de base,1.4}} dans sa {{dimension,1.7}} sont nuls"
+  - content: '{{grandeur,1.1}} pour laquelle tous les exposants des facteurs correspondant
+      aux {{grandeurs de base,1.4}} dans sa {{dimension,1.7}} sont nuls'
   examples: []
   id: 1.8-fra
   language_code: fra
@@ -67,12 +71,15 @@ data:
   - content: Les {{unités de mesure,1.9}} et les {{valeurs,1.19}} des grandeurs sans
       dimension sont des nombres, mais ces grandeurs portent plus d'information qu'un
       nombre.
-  - content: |-
-      Certaines grandeurs sans dimension sont définies comme des rapports de deux grandeurs de même {{nature,1.2}}.
-      EXEMPLES Angle plan, angle solide, indice de réfraction, perméabilité relative, fraction massique, facteur de frottement, nombre de Mach.
-  - content: |-
-      Les nombres d'entités sont des grandeurs sans dimension.
-      EXEMPLES Nombre de tours dans une bobine, nombre de molécules dans un spécimen donné, dégénérescence des niveaux d'énergie d'un système quantique.
+  - content: 'Certaines grandeurs sans dimension sont définies comme des rapports
+      de deux grandeurs de même {{nature,1.2}}.
+
+      EXEMPLES Angle plan, angle solide, indice de réfraction, perméabilité relative,
+      fraction massique, facteur de frottement, nombre de Mach.'
+  - content: 'Les nombres d''entités sont des grandeurs sans dimension.
+
+      EXEMPLES Nombre de tours dans une bobine, nombre de molécules dans un spécimen
+      donné, dégénérescence des niveaux d''énergie d''un système quantique.'
   terms:
   - type: expression
     normative_status: preferred

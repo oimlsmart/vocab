@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.4'
   localized_concepts:
@@ -11,15 +10,20 @@ data:
 status: valid
 id: 62be355d-891d-4d20-adf6-d866469c7701
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '1.4'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity,1.1}} in a conventionally chosen subset of a given {{system
+  - content: '{{quantity,1.1}} in a conventionally chosen subset of a given {{system
       of quantities,1.3}}, where no subset quantity can be expressed in terms of the
-      others"
+      others'
   examples:
   - content: The set of base quantities in the {{International System of Quantities,1.6}}
       (ISQ) is given in 1.6.
@@ -29,8 +33,8 @@ data:
   - content: The subset mentioned in the definition is termed the “set of base quantities”.
   - content: Base quantities are referred to as being mutually independent since a
       base quantity cannot be expressed as a product of powers of the other base quantities.
-  - content: "'Number of entities' can be regarded as a base quantity in any system
-      of quantities."
+  - content: '''Number of entities'' can be regarded as a base quantity in any system
+      of quantities.'
   terms:
   - type: expression
     normative_status: preferred
@@ -44,16 +48,18 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur,1.1}} d'un sous-ensemble choisi par convention dans un {{système
-      de grandeurs,1.3}} donné de façon à ce qu'aucune grandeur du sous-ensemble ne
-      puisse être exprimée en fonction des autres"
+  - content: '{{grandeur,1.1}} d''un sous-ensemble choisi par convention dans un {{système
+      de grandeurs,1.3}} donné de façon à ce qu''aucune grandeur du sous-ensemble
+      ne puisse être exprimée en fonction des autres'
   examples: []
   id: 1.4-fra
   language_code: fra
   notes:
-  - content: |-
-      Le sous-ensemble mentionné dans la définition est appelé l'ensemble des grandeurs de base.
-      EXEMPLE L'ensemble des grandeurs de base du {{Système international de grandeurs,1.6}} (ISQ) est donné en 1.6.
+  - content: 'Le sous-ensemble mentionné dans la définition est appelé l''ensemble
+      des grandeurs de base.
+
+      EXEMPLE L''ensemble des grandeurs de base du {{Système international de grandeurs,1.6}}
+      (ISQ) est donné en 1.6.'
   - content: Les grandeurs de base sont considérées comme mutuellement indépendantes
       puisqu'une grandeur de base ne peut être exprimée par un produit de puissances
       des autres grandeurs de base.

@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.43'
   localized_concepts:
@@ -11,14 +10,19 @@ data:
 status: valid
 id: ebc0010f-cc22-4a63-ae72-9f6acfe92128
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.43'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{metrological traceability,2.41}} where the reference is the definition
-      of a {{measurement unit,1.9}} through its practical realization"
+  - content: '{{metrological traceability,2.41}} where the reference is the definition
+      of a {{measurement unit,1.9}} through its practical realization'
   examples: []
   id: 2.43-eng
   language_code: eng
@@ -41,8 +45,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{traçabilité métrologique,2.41}} où la référence est la définition
-      d'une {{unité de mesure,1.9}} sous la forme de sa réalisation pratique"
+  - content: '{{traçabilité métrologique,2.41}} où la référence est la définition
+      d''une {{unité de mesure,1.9}} sous la forme de sa réalisation pratique'
   examples: []
   id: 2.43-fra
   language_code: fra

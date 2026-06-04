@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.6'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 193a1668-bc89-472e-b00e-b738078d15e1
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.6'
 ---
 data:
   dates:
@@ -63,11 +67,11 @@ data:
   - content: Une procédure de mesure est quelquefois appelée en anglais standard operating
       procedure, abrégé en SOP. Le terme «mode opératoire de mesure» était employé
       en français dans la deuxième édition du VIM.
-  - content: "[Annotation] L'emploi des termes «méthode de mesure» et «procédure de
-      mesure» diffère, pour des raisons historiques, d'un domaine à l'autre de la
-      métrologie. En général, une méthode de mesure recouvre une plus grande catégorie
-      d'opérations qu'une procédure de mesure, qui nécessite un ensemble détaillé
-      d'instructions."
+  - content: '[Annotation] L''emploi des termes «méthode de mesure» et «procédure
+      de mesure» diffère, pour des raisons historiques, d''un domaine à l''autre de
+      la métrologie. En général, une méthode de mesure recouvre une plus grande catégorie
+      d''opérations qu''une procédure de mesure, qui nécessite un ensemble détaillé
+      d''instructions.'
   terms:
   - type: expression
     normative_status: preferred

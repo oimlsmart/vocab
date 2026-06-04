@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.16'
   localized_concepts:
@@ -11,6 +10,11 @@ data:
 status: valid
 id: 908c3305-6d2e-42e1-a43c-85eba280acbe
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:1993
+    id: '3.10'
 ---
 data:
   dates:
@@ -74,3 +78,4 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 31816dd9-e4d6-4f62-8a0c-9ecc53b3326e
+---

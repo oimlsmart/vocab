@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.11'
   localized_concepts:
@@ -11,13 +10,18 @@ data:
 status: valid
 id: 97698077-4627-4fa8-8080-b8876fccd8b2
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.11'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity value,1.19}} consistent with the definition of a {{quantity,1.1}}"
+  - content: '{{quantity value,1.19}} consistent with the definition of a {{quantity,1.1}}'
   examples: []
   id: 2.11-eng
   language_code: eng
@@ -40,10 +44,10 @@ data:
       documents, where the word “true” is considered to be redundant.
   - content: '[Annotation] Here "quantity value" can be replaced with "value" without
       ambiguity: "value consistent with the definition of a quantity".'
-  - content: "[Annotation] ANNOTATION (for Note 1) (informative) [5 June 2014]:  Two
+  - content: '[Annotation] ANNOTATION (for Note 1) (informative) [5 June 2014]:  Two
       reasons that the set of true values is unknowable are: 1) the measurement model
       used in a measurement may be incorrect, and 2) a mistake may be made in performing
-      the measurement."
+      the measurement.'
   terms:
   - type: expression
     normative_status: preferred
@@ -63,7 +67,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur d'une grandeur,1.19}} compatible avec la définition de la {{grandeur,1.1}}"
+  - content: '{{valeur d''une grandeur,1.19}} compatible avec la définition de la
+      {{grandeur,1.1}}'
   examples: []
   id: 2.11-fra
   language_code: fra
@@ -84,10 +89,10 @@ data:
       de mesure,2.26}}, on peut considérer que le mesurande a une valeur vraie par
       essence unique. C'est l'approche adoptée dans le GUM, où le mot «vraie» est
       considéré comme redondant.
-  - content: "[Annotation] ANNOTATION (pour la Note 1) (informative) [5 juin 2014]
-      Deux des raisons pour lesquelles l'ensemble des valeurs vraies est impossible
+  - content: '[Annotation] ANNOTATION (pour la Note 1) (informative) [5 juin 2014]
+      Deux des raisons pour lesquelles l''ensemble des valeurs vraies est impossible
       à connaître sont : 1) le modèle de mesure utilisé dans un mesurage peut être
-      incorrect ; 2) une erreur a pu être commise en effectuant le mesurage."
+      incorrect ; 2) une erreur a pu être commise en effectuant le mesurage.'
   terms:
   - type: expression
     normative_status: preferred

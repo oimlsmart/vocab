@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.45'
   localized_concepts:
@@ -11,18 +10,23 @@ data:
 status: valid
 id: a0a9e75a-63c2-47f7-9e1b-23c8396392d9
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:jcgm:pub:200:2010
+    id: '2.45'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{verification,2.44}}, where the specified requirements are adequate
-      for an intended use"
+  - content: '{{verification,2.44}}, where the specified requirements are adequate
+      for an intended use'
   examples:
-  - content: "{{Measurement procedure,2.6}}, ordinarily used for the {{measurement,2.1}}
+  - content: '{{Measurement procedure,2.6}}, ordinarily used for the {{measurement,2.1}}
       of mass concentration of nitrogen in water, may be validated also for measurement
-      of mass concentration of nitrogen in human serum."
+      of mass concentration of nitrogen in human serum.'
   id: 2.45-eng
   language_code: eng
   notes: []
@@ -39,8 +43,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{vérification,2.44}}, où les exigences spécifiées sont adéquates pour
-      un usage déterminé"
+  - content: '{{vérification,2.44}}, où les exigences spécifiées sont adéquates pour
+      un usage déterminé'
   examples: []
   id: 2.45-fra
   language_code: fra
