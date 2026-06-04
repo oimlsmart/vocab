@@ -1,53 +1,55 @@
+---
+schema_type: glossarist
 schema_version: '3'
-edition:
-  id: viml-2000
-  ref: OIML V 1:2000
-  year: 2000
-  urn_prefix: urn:oiml:pub:v:1:2000
-  status: superseded
-  supersedes: viml-1968
-concepts:
-- '1.1'
-- '1.2'
-- '1.3'
-- '2.1'
-- '2.2'
-- '2.3'
-- '2.4'
-- '2.5'
-- '2.6'
-- '2.7'
-- '2.8'
-- '2.9'
-- '2.10'
-- '2.11'
-- '2.12'
-- '2.13'
-- '2.14'
-- '2.15'
-- '2.16'
-- '2.17'
-- '2.18'
-- '2.19'
-- '2.20'
-- '2.21'
-- '2.22'
-- '2.23'
-- '2.24'
-- '3.1'
-- '3.2'
-- '3.3'
-- '3.4'
-- '3.5'
-- '3.6'
-- '3.7'
-- '3.8'
-- '3.9'
-- '3.10'
-- '4.1'
-- '4.2'
-- '4.3'
-- '4.4'
-- '4.5'
-- '4.6'
-- '4.7'
+
+id: viml-2000
+ref: "OIML V 1:2000"
+year: 2000
+urn: "urn:oiml:pub:v:1:2000"
+urnAliases:
+  - "urn:oiml:pub:v:1:2000*"
+status: superseded
+supersedes: viml-1968
+
+owner: OIML
+sourceRepo: https://github.com/metanorma/oiml-vocab
+tags:
+  - metrology
+  - legal
+  - oiml
+  - vocabulary
+
+languages:
+  - eng
+  - fra
+languageOrder:
+  - eng
+  - fra
+
+ordering: systematic
+
+description:
+  eng: "Superseded by the 2013 edition. 44 terms across 4 sections covering basic terms in legal metrology, activities, documents and marks, and units and measuring instruments."
+  fra: "Remplacée par l'édition 2013. 44 termes répartis en 4 sections couvrant les termes de base, les activités de métrologie légale, les documents et marques, et les unités et instruments de mesure."
+
+about:
+  eng: about-eng.md
+  fra: about-fra.md
+
+sections:
+  - id: "1"
+    names:
+      eng: "Basic terms in legal metrology"
+      fra: "Termes de base de métrologie légale"
+  - id: "2"
+    names:
+      eng: "Legal metrology activities"
+      fra: "Activités de métrologie légale"
+  - id: "3"
+    names:
+      eng: "Documents and marks within legal metrology"
+      fra: "Documents et marques en métrologie légale"
+  - id: "4"
+    names:
+      eng: "Units and measuring instruments"
+      fra: "Unités et instruments de mesure"

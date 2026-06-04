@@ -1,144 +1,71 @@
+---
+schema_type: glossarist
 schema_version: '3'
-edition:
-  id: viml-2013
-  ref: OIML V 1:2013
-  year: 2013
-  urn_prefix: urn:oiml:pub:v:1:2013
-  status: superseded
-  supersedes: viml-2000
-concepts:
-- '0.01'
-- '0.02'
-- '0.03'
-- '0.04'
-- '0.05'
-- '0.06'
-- '0.07'
-- '0.08'
-- '0.09'
-- '0.10'
-- '0.11'
-- '0.12'
-- '0.13'
-- '0.14'
-- '0.15'
-- '1.01'
-- '1.02'
-- '1.03'
-- '1.04'
-- '1.05'
-- '1.06'
-- '2.01'
-- '2.02'
-- '2.03'
-- '2.04'
-- '2.05'
-- '2.06'
-- '2.07'
-- '2.08'
-- '2.09'
-- '2.10'
-- '2.11'
-- '2.12'
-- '2.13'
-- '2.14'
-- '2.15'
-- '2.16'
-- '2.17'
-- '2.18'
-- '2.19'
-- '2.20'
-- '2.21'
-- '2.22'
-- '2.23'
-- '2.24'
-- '3.01'
-- '3.02'
-- '3.03'
-- '3.04'
-- '3.05'
-- '3.06'
-- '3.07'
-- '4.01'
-- '4.02'
-- '4.03'
-- '4.04'
-- '4.05'
-- '4.06'
-- '4.07'
-- '4.08'
-- '4.09'
-- '4.10'
-- '4.11'
-- '4.12'
-- '4.13'
-- '4.14'
-- '4.15'
-- '4.16'
-- '5.01'
-- '5.02'
-- '5.03'
-- '5.04'
-- '5.05'
-- '5.06'
-- '5.07'
-- '5.08'
-- '5.09'
-- '5.10'
-- '5.11'
-- '5.12'
-- '5.13'
-- '5.14'
-- '5.15'
-- '5.16'
-- '5.17'
-- '5.18'
-- '5.19'
-- '5.20'
-- '5.21'
-- '5.22'
-- '6.01'
-- '6.02'
-- '6.03'
-- '6.04'
-- '6.05'
-- '6.06'
-- '6.07'
-- '6.08'
-- A.1
-- A.2
-- A.3
-- A.4
-- A.5
-- A.6
-- A.7
-- A.8
-- A.9
-- A.10
-- A.11
-- A.12
-- A.13
-- A.14
-- A.15
-- A.16
-- A.17
-- A.18
-- A.19
-- A.20
-- A.21
-- A.22
-- A.23
-- A.24
-- A.25
-- A.26
-- A.27
-- A.28
-- A.29
-- A.30
-- A.31
-- A.32
-- A.33
-- A.34
-- A.35
-- A.36
-- A.37
+
+id: viml-2013
+ref: "OIML V 1:2013"
+year: 2013
+urn: "urn:oiml:pub:v:1:2013"
+urnAliases:
+  - "urn:oiml:pub:v:1:2013*"
+status: superseded
+supersedes: viml-2000
+
+owner: OIML
+sourceRepo: https://github.com/metanorma/oiml-vocab
+tags:
+  - metrology
+  - legal
+  - oiml
+  - vocabulary
+
+languages:
+  - eng
+  - fra
+languageOrder:
+  - eng
+  - fra
+
+ordering: systematic
+
+description:
+  eng: "Superseded by the 2022 edition. 135 terms across 8 sections covering basic concepts, legal metrology activities, documents and marks, instrument classification, construction and operation, software in legal metrology, and conformity assessment."
+  fra: "Remplacée par l'édition 2022. 135 termes répartis en 8 sections couvrant les concepts de base, les activités de métrologie légale, les documents et marques, la classification des instruments, la construction et le fonctionnement, les logiciels en métrologie légale et l'évaluation de la conformité."
+
+about:
+  eng: about-eng.md
+  fra: about-fra.md
+
+sections:
+  - id: "0"
+    names:
+      eng: "Basic terms"
+      fra: "Termes fondamentaux"
+  - id: "1"
+    names:
+      eng: "Metrology and its legal aspects"
+      fra: "Métrologie et ses aspects légaux"
+  - id: "2"
+    names:
+      eng: "Legal metrology activities"
+      fra: "Activités de métrologie légale"
+  - id: "3"
+    names:
+      eng: "Documents and marks within legal metrology"
+      fra: "Documents et marques en métrologie légale"
+  - id: "4"
+    names:
+      eng: "Classification of measuring instruments"
+      fra: "Classification des instruments de mesure"
+  - id: "5"
+    names:
+      eng: "Construction and operation of measuring instruments"
+      fra: "Construction et fonctionnement des instruments de mesure"
+  - id: "6"
+    names:
+      eng: "Software in legal metrology"
+      fra: "Logiciel en métrologie légale"
+  - id: "A"
+    names:
+      eng: "Terms relating to conformity assessment"
+      fra: "Termes relatifs à l'évaluation de la conformité"

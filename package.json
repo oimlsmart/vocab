@@ -5,6 +5,7 @@
     "build": "npx concept-browser build"
   },
   "dependencies": {
-    "@glossarist/concept-browser": "^0.7.17"
+    "@glossarist/concept-browser": "file:../../glossarist/concept-browser",
+    "glossarist": "file:../../glossarist/glossarist-js"
   }
 }
