@@ -1,0 +1,45 @@
+data:
+  identifier: '01153'
+  localized_concepts:
+    eng: 250c3f40-d83e-5e45-8ec5-4549666cb46c
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R098
+    ref_type: section
+status: valid
+id: e45efc8c-3bbb-5760-9a93-3d5ad26ce33f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the algebraic difference between the nominal value of the length of the
+      line measure and its conventional true value
+  examples: []
+  id: 01153-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error of a line measure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 250c3f40-d83e-5e45-8ec5-4549666cb46c

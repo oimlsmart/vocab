@@ -1,0 +1,47 @@
+data:
+  identifier: 01395
+  localized_concepts:
+    eng: 50be8246-dcdd-51ed-bd9e-d0253f9f341e
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.5.9
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: a182f528-004f-5db5-9298-24665dc80822
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: historical record (or continuous data file) of the instrument data, adjustments
+      and weighing operations. Checks can be made to ensure that adjustments and weighings
+      have been carried out in accordance with the appropriate parts of this Recommendation.
+      Every log entry has a unique time and date stamp
+  examples: []
+  id: 01395-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.5.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: audit trail
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 50be8246-dcdd-51ed-bd9e-d0253f9f341e

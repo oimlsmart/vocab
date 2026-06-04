@@ -1,0 +1,46 @@
+data:
+  identifier: '02050'
+  localized_concepts:
+    eng: bbcee05f-36d0-526c-bf54-a02b7b3f080c
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.10
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: fed7b88f-4381-5ac6-aa32-b999d5bda3eb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: numerical factor (single constant or coming from a mathematical (adapted
+      from VIM:2007, 2.53) function “f(q)”) by which the uncorrected result is multiplied
+      to compensate for the estimated systematic error
+  examples: []
+  id: 02050-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bbcee05f-36d0-526c-bf54-a02b7b3f080c

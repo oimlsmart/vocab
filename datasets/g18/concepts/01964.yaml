@@ -1,0 +1,46 @@
+data:
+  identifier: 01964
+  localized_concepts:
+    eng: 2326c687-5519-5c0e-a51c-53f9b3a56224
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.8
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 1721a465-7f55-5485-933b-ded2d0e6aeb3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: minimum and maximum internal gauge pressure that a gas meter can withstand,
+      within its rated operating conditions, without deterioration of its metrological
+      performance
+  examples: []
+  id: 01964-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum and maximum working pressure, pmin and pmax
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2326c687-5519-5c0e-a51c-53f9b3a56224

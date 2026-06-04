@@ -1,0 +1,46 @@
+data:
+  identifier: '02375'
+  localized_concepts:
+    eng: 587cb629-13c1-5264-9e70-410c357df752
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.40'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 7957f347-3e8e-533b-b960-217fd838ebdd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- - road vehicle, powered by a built-in engine, which is not rail borne,
+      and which is normally used for applications such as: carrying persons and/or
+      goods; towing vehicles used for the carriage of persons and/or goods'
+  examples: []
+  id: 02375-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.40'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: motor vehicle
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 587cb629-13c1-5264-9e70-410c357df752

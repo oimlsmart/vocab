@@ -1,0 +1,46 @@
+data:
+  identifier: '00136'
+  localized_concepts:
+    eng: 7505e416-e655-5aed-9445-fa1f9fd0edb0
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+    locality:
+      type: clause
+      reference_from: 1.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-D020
+    ref_type: section
+status: valid
+id: 2f40f3e9-1a30-55ff-b28d-15575134b33e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the attribute of a measuring instrument whereby, having fulfilled all
+      the administrative, metrological, and technical requirements of regulations,
+      it is officially recognized to be legal for use in approved applications
+  examples: []
+  id: 00136-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+      locality:
+        type: clause
+        reference_from: 1.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal character
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7505e416-e655-5aed-9445-fa1f9fd0edb0

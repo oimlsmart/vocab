@@ -1,0 +1,46 @@
+data:
+  identifier: '02153'
+  localized_concepts:
+    eng: 215baedf-2966-561d-8ecc-3ac813568603
+  sources:
+  - origin:
+      ref:
+        source: OIML D018:2008
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-D018
+    ref_type: section
+status: valid
+id: f09fdaed-d4ea-50c4-814a-89723fe1943c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reference material, accompanied by documentation issued by an (VIM:2007,
+      5.14) authoritative body and providing one or more specified property values
+      with associated uncertainties and traceabilities, using valid procedures
+  examples: []
+  id: 02153-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D018:2008
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certified reference material (CRM)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 215baedf-2966-561d-8ecc-3ac813568603

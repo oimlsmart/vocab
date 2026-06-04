@@ -1,0 +1,44 @@
+data:
+  identifier: '02066'
+  localized_concepts:
+    eng: 07baa003-9b0d-55d8-8064-a7edda552c8c
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.23
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 2d1ea970-79b2-5d4c-91ce-d41eac93a927
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: volume at metering conditions, volume at base conditions, mass or energy
+  examples: []
+  id: 02066-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.23
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: principal measurands
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 07baa003-9b0d-55d8-8064-a7edda552c8c

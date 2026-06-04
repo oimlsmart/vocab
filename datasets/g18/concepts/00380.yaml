@@ -1,0 +1,48 @@
+data:
+  identifier: 00380
+  localized_concepts:
+    eng: 30a4329b-336b-5ad8-b65a-afb780f8025c
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: f79bc177-8e8f-56e5-85d5-b9067a0ca54d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: number determined from a Rockwell hardness test, derived from the difference
+      in the indentation depths before and after application of the additional force
+      F1, while maintaining the preliminary test force F0. The difference in indentation
+      depths is measured as h (see Fig. 1) in mm. The calculation is dependent on
+      the specific combination of indenter type and the forces used
+  examples: []
+  id: 00380-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Rockwell hardness (value)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 30a4329b-336b-5ad8-b65a-afb780f8025c

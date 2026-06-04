@@ -1,0 +1,46 @@
+data:
+  identifier: '02160'
+  localized_concepts:
+    eng: b52bd8de-533f-59b1-9b68-b5f5c7ca05ab
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D030
+    ref_type: section
+status: valid
+id: da04cd2c-c3b8-578d-8f16-2df445f19c80
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-1 visual inspection of an instrument or device and relevant documentation
+      to ensure that some specified requirements are met'
+  examples: []
+  id: 02160-eng
+  notes:
+  - content: (OIML B 3)
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: examination
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b52bd8de-533f-59b1-9b68-b5f5c7ca05ab

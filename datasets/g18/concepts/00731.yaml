@@ -1,0 +1,45 @@
+data:
+  identifier: '00731'
+  localized_concepts:
+    eng: aee68a2b-4598-5579-8398-3a8d62ee6e12
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: a7bd1c57-9df3-5f5a-b7f6-f546a458fe01
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the load cell error and the load cell intrinsic error
+      (see 2.4.8)
+  examples: []
+  id: 00731-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: aee68a2b-4598-5579-8398-3a8d62ee6e12

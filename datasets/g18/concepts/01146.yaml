@@ -1,0 +1,47 @@
+data:
+  identifier: '01146'
+  localized_concepts:
+    eng: 64b2a731-298d-5ced-b12e-5659ed22177c
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.10
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 93dd83ab-8a4c-5add-b669-9b16eba7fd14
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the fittings of a tank and parts of the structure of the ship inside
+      the tank, the volume of which must be added to or subtracted from the capacity
+      of the tank in order to obtain the volume of liquid contained, when using the
+      geometric method of calibration
+  examples: []
+  id: 01146-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: deadwood
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 64b2a731-298d-5ced-b12e-5659ed22177c

@@ -1,0 +1,46 @@
+data:
+  identifier: 00148
+  localized_concepts:
+    eng: 8b907ce6-403b-55fe-877d-2a6346b20b5c
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: bd608268-2a31-54b7-a3a8-445f05884ea3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a reference material one or more properties of whose property values
+      are certified by a technically valid procedure, accompanied by or traceable
+      to a certificate or other documentation which is issued by a certifying body
+  examples: []
+  id: 00148-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certified reference material
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8b907ce6-403b-55fe-877d-2a6346b20b5c

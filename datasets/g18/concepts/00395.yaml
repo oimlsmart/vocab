@@ -1,0 +1,52 @@
+data:
+  identifier: 00395
+  localized_concepts:
+    eng: dde0b47f-05a9-5324-8033-c86dd9f55b28
+  sources:
+  - origin:
+      ref:
+        source: OIML R041:1981
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R041
+    ref_type: section
+status: valid
+id: 7a1d6f48-0480-5be4-a923-e8b33929b9df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the capacity corresponding to any scale mark is equal to the volume of
+      water, at the reference temperature, delivered by the buret burette at this
+      temperature when it is emptied from the zero mark pla to this scale mark, the
+      outflow being unrestricted until the sca meniscus is set on this scale mark,
+      no period being allowed for the m drainage of liquid adhering to the walls before
+      making the final setting
+  examples: []
+  id: 00395-eng
+  notes:
+  - content: The meniscus formed by the water in the te, must be so adjusted that
+      the horizontal ne passing through the upper edge of the le mark, is tangential
+      to the lowest point of eniscus when viewed in this plane.
+  sources:
+  - origin:
+      ref:
+        source: OIML R041:1981
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacity (of a burette)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dde0b47f-05a9-5324-8033-c86dd9f55b28

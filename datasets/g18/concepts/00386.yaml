@@ -1,0 +1,46 @@
+data:
+  identifier: 00386
+  localized_concepts:
+    eng: cc58016d-785f-5f83-9320-503d4c388894
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: ca5cc4e4-9e0e-57fe-95e7-86be5d4c3c63
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sequence of applying the test forces during the Rockwell hardness test.
+      The test cycle may be described by force variations with time as the indenter
+      penetrates the test sample
+  examples: []
+  id: 00386-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test cycle
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cc58016d-785f-5f83-9320-503d4c388894

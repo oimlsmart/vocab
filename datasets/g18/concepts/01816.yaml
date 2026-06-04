@@ -1,0 +1,45 @@
+data:
+  identifier: 01816
+  localized_concepts:
+    eng: cdad3e71-3fce-5273-b62a-582fd00c9d7c
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 98e3e137-8ce7-5c68-a637-afe308edcece
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of values between the minimum and maximum operating speeds at which
+      a vehicle may be weighed in motion
+  examples: []
+  id: 01816-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: range of operating speeds
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cdad3e71-3fce-5273-b62a-582fd00c9d7c

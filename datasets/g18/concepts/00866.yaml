@@ -1,0 +1,47 @@
+data:
+  identifier: 00866
+  localized_concepts:
+    eng: 7c644d3d-eae9-5219-8e5e-f86064ecee97
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 4.10.3
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 0ba0f5f4-a1cf-59d3-a82c-b705b1cdd93e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fault greater than the absolute value of the MPE which is not a transitory
+      fault
+  examples: []
+  id: 00866-eng
+  notes:
+  - content: 'Example: If the MPE is ± 2 %, then the significant fault is a fault
+      larger than 2 %.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 4.10.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7c644d3d-eae9-5219-8e5e-f86064ecee97

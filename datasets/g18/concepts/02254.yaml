@@ -1,0 +1,45 @@
+data:
+  identifier: '02254'
+  localized_concepts:
+    eng: e888c24b-d47a-5464-9d36-c7d2b5cc0131
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 989e85cd-d56e-5b06-8aa8-560e6b77523a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reference point in the upper part of the tank, under normal operating
+      conditions above the liquid level
+  examples: []
+  id: 02254-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference point top (RPT)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e888c24b-d47a-5464-9d36-c7d2b5cc0131

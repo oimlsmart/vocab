@@ -1,0 +1,44 @@
+data:
+  identifier: 01449
+  localized_concepts:
+    eng: 3db4ce17-0064-58c4-b1da-acecbab78b8c
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 221ab7a6-6d19-5d65-a4d4-ab8cc80d5315
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Mass divided by volume, given by the formula
+  examples: []
+  id: 01449-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: density of a body
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3db4ce17-0064-58c4-b1da-acecbab78b8c

@@ -1,0 +1,45 @@
+data:
+  identifier: 00979
+  localized_concepts:
+    eng: 445fac46-fee2-59bb-ae01-e306fabd9ba8
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 133cffe6-dbf1-580f-bc35-9747d4b7e9b4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of an instrument as determined prior to the performance
+      and span stability tests
+  examples: []
+  id: 00979-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 445fac46-fee2-59bb-ae01-e306fabd9ba8

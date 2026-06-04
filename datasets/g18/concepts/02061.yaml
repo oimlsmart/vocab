@@ -1,0 +1,50 @@
+data:
+  identifier: '02061'
+  localized_concepts:
+    eng: ea8ab5c1-799f-5dd9-a340-a27dc5a8e20a
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.18
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: f31aed1b-1c0d-54d3-a6c2-a30e82d895df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of electronic and/or paper records that provide for a complete The
+      required records may include volumes at examination of measured variables, parameter
+      settings and met calculation results to check the accuracy of a measurement
+      and and cal any necessary corrections spe ene and
+  examples: []
+  id: 02061-eng
+  notes:
+  - content: ering conditions, pressures, temperatures orific values, conversion equation
+      cification and parameters, volumes and rgy at base conditions, calibration datum,
+      alarm logs.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.18
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: audit trail
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ea8ab5c1-799f-5dd9-a340-a27dc5a8e20a

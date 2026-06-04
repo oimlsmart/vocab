@@ -1,0 +1,44 @@
+data:
+  identifier: '01552'
+  localized_concepts:
+    eng: 18fcaab9-8c07-5fe3-9bf7-dd4720f40917
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.d.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 0ccab208-965c-5bf9-ad97-b5d8945772f7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: price to pay corresponding to the minimum specified quantity deviation
+  examples: []
+  id: 01552-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.d.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum specified price deviation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 18fcaab9-8c07-5fe3-9bf7-dd4720f40917

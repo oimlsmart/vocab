@@ -1,0 +1,46 @@
+data:
+  identifier: '01127'
+  localized_concepts:
+    eng: 7db53b8d-d193-5238-92d5-aae150893aa6
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: 6d1412a7-9b05-5fab-a4e3-9188e6d2bd0a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: aperture on the instrument against which the lens or contact lens The
+      focimeter measures the vertex power is placed for measurement r s
+  examples: []
+  id: 01127-eng
+  notes:
+  - content: elative to the surface placed against the lens upport.
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lens support
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7db53b8d-d193-5238-92d5-aae150893aa6

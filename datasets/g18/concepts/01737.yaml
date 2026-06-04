@@ -1,0 +1,45 @@
+data:
+  identifier: '01737'
+  localized_concepts:
+    eng: 6f510749-4e87-5829-9ff2-36ada713fc65
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: 2.33.3
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 0315b410-4e73-51b0-b6da-7fe00aaacdca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test intended to verify whether the EUT is able to accomplish its intended
+      functions
+  examples: []
+  id: 01737-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: 2.33.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6f510749-4e87-5829-9ff2-36ada713fc65

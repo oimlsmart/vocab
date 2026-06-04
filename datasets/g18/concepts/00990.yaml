@@ -1,0 +1,45 @@
+data:
+  identifier: 00990
+  localized_concepts:
+    eng: 233e16cd-9dfb-5b94-90be-1f19640f4116
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.6.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 5db2edda-7869-5c37-86a8-c76c715e0900
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of specified values of influence factors fixed to ensure valid inter-comparison
+      of the results of measurements
+  examples: []
+  id: 00990-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.6.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 233e16cd-9dfb-5b94-90be-1f19640f4116

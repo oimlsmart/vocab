@@ -1,0 +1,45 @@
+data:
+  identifier: '00614'
+  localized_concepts:
+    eng: 24e8d86e-1440-5961-9e31-357bd04bfd5c
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.8.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: df71fe6d-439c-5333-baff-df31a0fe3bf6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero automatically without the intervention
+      of an operator
+  examples: []
+  id: 00614-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.8.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic zero setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 24e8d86e-1440-5961-9e31-357bd04bfd5c

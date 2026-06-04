@@ -1,0 +1,47 @@
+data:
+  identifier: 01929
+  localized_concepts:
+    eng: 001d9642-e530-52ef-8b43-0f625988a3a3
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 0c770cab-2923-56a9-a150-b12224adf085
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the gas meter which receives the output signals from the measuring
+      transducer(s) and, possibly, associated measuring instruments, transforms them
+      and, if appropriate, stores the results in memory until they are used. In addition,
+      the calculator may be capable of communicating both ways with ancillary devices
+  examples: []
+  id: 01929-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 001d9642-e530-52ef-8b43-0f625988a3a3

@@ -1,0 +1,45 @@
+data:
+  identifier: '00447'
+  localized_concepts:
+    eng: a95740e4-deee-5898-943a-415d004ac454
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.10
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 0a6d9836-cce5-53ba-b23c-1a74c748f79f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: average water pressure in the pipe measured upstream and downstream of
+      the water meter
+  examples: []
+  id: 00447-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working pressure, Pw
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a95740e4-deee-5898-943a-415d004ac454

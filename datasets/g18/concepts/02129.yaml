@@ -1,0 +1,46 @@
+data:
+  identifier: 02129
+  localized_concepts:
+    eng: 2665a2a0-5c7f-5d87-99b1-22ea986f202f
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 2421a462-595f-5854-95df-8f9ced37ad5b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of operations carried out on a measuring system so that it (VIM:2007,
+      3.11) provides prescribed indications corresponding to given values of a quantity
+      to be measured
+  examples: []
+  id: 02129-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2665a2a0-5c7f-5d87-99b1-22ea986f202f

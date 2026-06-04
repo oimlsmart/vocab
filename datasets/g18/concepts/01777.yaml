@@ -1,0 +1,47 @@
+data:
+  identifier: '01777'
+  localized_concepts:
+    eng: ac196aed-5170-55cf-9152-9802ca73d3b2
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: 08855a00-b97b-538d-bb3e-9ba1284c7d67
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: enlargement at the upper end of the capillary to provide protection against
+      possible bulb distension or breakage as a result of excessive liquid and gas
+      pressures when a thermometer is exposed to a temperature greater than its working
+      range
+  examples: []
+  id: 01777-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: expansion chamber
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ac196aed-5170-55cf-9152-9802ca73d3b2

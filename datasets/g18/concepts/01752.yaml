@@ -1,0 +1,46 @@
+data:
+  identifier: '01752'
+  localized_concepts:
+    eng: 74bd4ee5-ec1e-5d66-8aec-f3139ac3f25a
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+    locality:
+      type: clause
+      reference_from: '3.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R131
+    ref_type: section
+status: valid
+id: 16b70c99-01a3-5800-81d0-4d8bf850e942
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: property of the result of a measurement or value of a standard whereby
+      it can be related to stated references, usually national or international standards,
+      through an unbroken chain of comparisons all having stated uncertainties
+  examples: []
+  id: 01752-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+      locality:
+        type: clause
+        reference_from: '3.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traceability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 74bd4ee5-ec1e-5d66-8aec-f3139ac3f25a

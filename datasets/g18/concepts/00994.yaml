@@ -1,0 +1,49 @@
+data:
+  identifier: 00994
+  localized_concepts:
+    eng: 135d1a10-af9c-5372-a9fb-86c9156e517e
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R079
+    ref_type: section
+status: valid
+id: bff6b8c8-1bb8-5c42-b36b-7d0277eeb399
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the quantity of the identified product in the package exclusive of This
+      term relates to specifications on a wrappers and any other material packed with
+      such product pac con pro pro are pac
+  examples: []
+  id: 00994-eng
+  notes:
+  - content: kage and does not account for the actual tents in an individual package.
+      The cedures for determining whether a duction lot meets regulatory requirements
+      provided in OIML R 87 Net contents in kages
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: net quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 135d1a10-af9c-5372-a9fb-86c9156e517e

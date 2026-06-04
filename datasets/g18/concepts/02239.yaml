@@ -1,0 +1,45 @@
+data:
+  identifier: 02239
+  localized_concepts:
+    eng: caaadc88-bbad-5529-94af-8fc2cfd10a1a
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 57051db0-8d78-5aaa-8347-8dae6195e0d3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: material measure of length for measuring the liquid level
+  examples: []
+  id: 02239-eng
+  notes:
+  - content: See OIML Recommendation R 35-1 for general requirements.
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dipping tape
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: caaadc88-bbad-5529-94af-8fc2cfd10a1a

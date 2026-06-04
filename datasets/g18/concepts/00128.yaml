@@ -1,0 +1,45 @@
+data:
+  identifier: 00128
+  localized_concepts:
+    eng: 537ef70c-748a-5d00-a112-2a0a2e489d65
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: aea73762-2d39-503a-94f6-21c26beda623
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a change in a pattern that does or may alter some of its metrological
+      or technical characteristics, its ranges, or its applicability
+  examples: []
+  id: 00128-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: modification of a pattern
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 537ef70c-748a-5d00-a112-2a0a2e489d65

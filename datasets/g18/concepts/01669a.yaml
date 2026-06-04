@@ -1,0 +1,48 @@
+data:
+  identifier: 01669a
+  localized_concepts:
+    eng: 23b2912b-d79e-5109-a498-a802ba6cb1ac
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: c85a8c61-29c7-5812-ac5b-4572812c710f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the clearly marked mode in which the EBA can make measurements at the
+      rate normally expected in service and in which it shall meet the performance
+      requirements of this Recommendation
+  examples: []
+  id: 01669a-eng
+  notes:
+  - content: The measuring mode and the stand-by mode (3.7) are modes of normal operation
+      (3.6).
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring mode
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 23b2912b-d79e-5109-a498-a802ba6cb1ac

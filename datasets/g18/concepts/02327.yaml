@@ -1,0 +1,45 @@
+data:
+  identifier: '02327'
+  localized_concepts:
+    eng: c2d56a7e-7506-52c3-a3cf-17a498ea786d
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.29'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: be05f5be-dfaa-5b8e-b7a1-860e374ea5a7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme permitted value by the present Recommendation for the error of
+      indication
+  examples: []
+  id: 02327-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.29'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c2d56a7e-7506-52c3-a3cf-17a498ea786d

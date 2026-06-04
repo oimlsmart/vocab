@@ -1,0 +1,50 @@
+data:
+  identifier: '02177'
+  localized_concepts:
+    eng: 81da96dd-4d51-5ebd-b627-d5bb77730c9f
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.10
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 38e6e86f-0275-5e7e-ae1b-56665b7503a5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: data set containing the public key belonging to a measuring instrument
+      or a person plus a unique identification of the subject, e.g. serial number
+      of the measuring instrument or name or Personal Identification Number (PIN)
+      of the person. The data set is signed by a trustworthy institution with an electronic
+      signature. The assignment of a public key to a subject can be verified by using
+      the public key of the trustworthy institution and decrypting the signature of
+      the certificate
+  examples: []
+  id: 02177-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cryptographic certificate
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 81da96dd-4d51-5ebd-b627-d5bb77730c9f

@@ -1,0 +1,46 @@
+data:
+  identifier: 00084
+  localized_concepts:
+    eng: 4a96cbfd-f5d3-586d-825d-f0cba2bb8f07
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: f48b35dc-abba-51b6-bb31-71c03d67a391
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Definitive model of a measuring instrument or module (including a family
+      of instruments or modules) of which all of the elements affecting its metrological
+      properties are suitably defined
+  examples: []
+  id: 00084-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type of a measuring instruments or module
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4a96cbfd-f5d3-586d-825d-f0cba2bb8f07

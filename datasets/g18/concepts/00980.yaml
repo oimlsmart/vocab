@@ -1,0 +1,47 @@
+data:
+  identifier: 00980
+  localized_concepts:
+    eng: 53683d5e-8070-58ca-a2d8-89bc49358a48
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: d27c9884-5b67-5ecd-af22-26a0b6e139a9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum difference, positive or negative, allowed by regulation between
+      the indication of an instrument and the corresponding true value, as determined
+      by reference standard masses or standard weights, with the instrument being
+      at zero at no-load, in the reference position
+  examples: []
+  id: 00980-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error, mpe
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 53683d5e-8070-58ca-a2d8-89bc49358a48

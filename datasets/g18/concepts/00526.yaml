@@ -1,0 +1,45 @@
+data:
+  identifier: '00526'
+  localized_concepts:
+    eng: d0132418-119b-55e9-8006-80afc148f31b
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 5f647695-0c10-5d67-a17c-e6e034b7a9d6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V the error of a belt weigher, determined under reference conditions
+      IM:1993, 5.24]'
+  examples: []
+  id: 00526-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d0132418-119b-55e9-8006-80afc148f31b

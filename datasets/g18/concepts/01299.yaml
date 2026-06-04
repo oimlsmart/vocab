@@ -1,0 +1,45 @@
+data:
+  identifier: 01299
+  localized_concepts:
+    eng: b9405784-cc9e-5af1-937e-0a2eacc07be2
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 57c31de4-3da1-5af3-9dd8-f00062e95f48
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a span stability error greater than one half of the absolute value ofthe
+      maximum permissible error applicable to the load
+  examples: []
+  id: 01299-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum span stability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b9405784-cc9e-5af1-937e-0a2eacc07be2

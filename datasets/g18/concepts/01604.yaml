@@ -1,0 +1,46 @@
+data:
+  identifier: '01604'
+  localized_concepts:
+    eng: 1c3059ce-a300-555f-83c0-d359ae5073a0
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.u.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: f187852a-c7dc-5ccf-92ff-d39121deab9b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: estimate characterizing the range of values within which the true (see
+      also Annex B) value of an error lies, including components due to the standard
+      and its use, and components due to the verified or calibrated instrument itself
+  examples: []
+  id: 01604-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.u.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty of the determination of an error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1c3059ce-a300-555f-83c0-d359ae5073a0

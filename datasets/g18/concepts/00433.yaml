@@ -1,0 +1,45 @@
+data:
+  identifier: '00433'
+  localized_concepts:
+    eng: 2262f677-9a1f-598c-bda2-d48b1e7885fb
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.11
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 613d2e6b-193f-5669-b68c-008737ff7ab2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a capability of the water meter to maintain its performance characteristics
+      over a period of use dapted from OIML D 11]'
+  examples: []
+  id: 00433-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2262f677-9a1f-598c-bda2-d48b1e7885fb

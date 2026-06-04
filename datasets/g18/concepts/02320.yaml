@@ -1,0 +1,47 @@
+data:
+  identifier: '02320'
+  localized_concepts:
+    eng: ac635800-7bca-53f5-b87f-74a61294b324
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.22'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 11ab26d3-169d-5404-ac79-f97580625e2a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of specified values of influence factors fixed to ensure valid intercomparisons
+      of the results of measurements
+  examples: []
+  id: 02320-eng
+  notes:
+  - content: Reference conditions generally specify intervals of values for any influence
+      quantity.
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ac635800-7bca-53f5-b87f-74a61294b324

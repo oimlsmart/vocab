@@ -1,0 +1,45 @@
+data:
+  identifier: '01522'
+  localized_concepts:
+    eng: 678224d2-056b-5fca-96dd-6e5abae15329
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: 9e3ecc1c-7481-56d2-8990-a5e2182c1263
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: solution with an accurately known concentration of a sample element or
+      elements of interest used for testing and calibrating an instrument
+  examples: []
+  id: 01522-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference standard solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 678224d2-056b-5fca-96dd-6e5abae15329

@@ -1,0 +1,45 @@
+data:
+  identifier: '01705'
+  localized_concepts:
+    eng: 6b028ad4-1ae7-5929-bb10-174172d1b8c6
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: bf4833d2-1652-53e9-b301-caebe2ef7323
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: devices such as indicators that repeat the indication, ticket printers,
+      card readers, data input terminals, etc
+  examples: []
+  id: 01705-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: auxiliary devices
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6b028ad4-1ae7-5929-bb10-174172d1b8c6

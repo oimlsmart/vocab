@@ -1,0 +1,46 @@
+data:
+  identifier: '02200'
+  localized_concepts:
+    eng: be9521b4-338f-513d-bfe8-92f13f25435c
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.33
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 3f1d4a5d-ab53-5d41-9a37-01aebf404e93
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device intended to be used to make measurements, alone or in conjunction
+      with supplementary device(s)
+  examples: []
+  id: 02200-eng
+  notes:
+  - content: '[VIM:1993, 4.1]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.33
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: be9521b4-338f-513d-bfe8-92f13f25435c

@@ -1,0 +1,45 @@
+data:
+  identifier: 00972
+  localized_concepts:
+    eng: bbe359f7-9527-5082-a2fe-cc865469bbc6
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 9677531f-2ff7-595e-9b46-7b148f6f389f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: calculated sum or difference of more than one measured weight value and/or
+      calculated net value
+  examples: []
+  id: 00972-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculated weight value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bbe359f7-9527-5082-a2fe-cc865469bbc6

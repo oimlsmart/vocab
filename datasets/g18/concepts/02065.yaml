@@ -1,0 +1,45 @@
+data:
+  identifier: '02065'
+  localized_concepts:
+    eng: 5852b575-ec45-5f74-9c34-b025a62338b8
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.22
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: c4040f13-3c7b-56f3-b3d0-440c383900d2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: normal, average or typical conditions of use of a measuring system or
+      a device provided by the manufacturer
+  examples: []
+  id: 02065-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.22
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5852b575-ec45-5f74-9c34-b025a62338b8

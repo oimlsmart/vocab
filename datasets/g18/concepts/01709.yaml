@@ -1,0 +1,45 @@
+data:
+  identifier: 01709
+  localized_concepts:
+    eng: 378ba0f7-73d0-5816-b8d8-511c402cd2d7
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: dd254e10-335f-53c1-8a4f-b73c1cfdc9a6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a polyhedron having six faces that are parallel in pairs; each face is
+      a parallelogram and adjacent edges are perpendicular
+  examples: []
+  id: 01709-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rectangular box (rectangular parallelepiped)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 378ba0f7-73d0-5816-b8d8-511c402cd2d7

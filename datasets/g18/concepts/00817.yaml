@@ -1,0 +1,44 @@
+data:
+  identifier: 00817
+  localized_concepts:
+    eng: 865b24ab-38ca-5abb-ac8e-04b8674677e2
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.6.4
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: de07ce96-9d99-536d-b929-458ab42a3d16
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test to verify that the EUT is capable of maintaining its span stability
+  examples: []
+  id: 00817-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.6.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: span stability test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 865b24ab-38ca-5abb-ac8e-04b8674677e2

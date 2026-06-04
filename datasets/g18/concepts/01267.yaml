@@ -1,0 +1,45 @@
+data:
+  identifier: '01267'
+  localized_concepts:
+    eng: 23f21828-5530-5382-acda-1d64b19e2f5a
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: f0e8e97f-d4d9-5d5c-996f-c8cb056c1c70
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the part of the instrument that displays the value of a weighing result
+      in units of mass
+  examples: []
+  id: 01267-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 23f21828-5530-5382-acda-1d64b19e2f5a

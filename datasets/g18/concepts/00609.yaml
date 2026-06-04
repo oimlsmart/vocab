@@ -1,0 +1,44 @@
+data:
+  identifier: 00609
+  localized_concepts:
+    eng: e445e2a6-52c7-5baf-821f-d65edb336b65
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.6
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 41b942cd-eb1e-5cc0-9997-cb33d2b8e2d4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting an instrument to its reference position
+  examples: []
+  id: 00609-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: levelling device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e445e2a6-52c7-5baf-821f-d65edb336b65

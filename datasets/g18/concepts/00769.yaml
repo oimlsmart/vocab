@@ -1,0 +1,46 @@
+data:
+  identifier: 00769
+  localized_concepts:
+    eng: 1a8dfc56-6a68-5a32-ae76-05c87421aaa4
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.1.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: d2e60b91-0e56-52b5-83e0-619b2252e43d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which controls the cut-off of the final feed so that the average
+      mass of the fills corresponds to the preset value. This device may include an
+      adjustable compensation for the material inflight
+  examples: []
+  id: 00769-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.1.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: final feed cut-off device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1a8dfc56-6a68-5a32-ae76-05c87421aaa4

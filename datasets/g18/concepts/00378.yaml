@@ -1,0 +1,45 @@
+data:
+  identifier: 00378
+  localized_concepts:
+    eng: 9b5264cd-9842-5e58-870f-06a090b23e1e
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: 40d199c6-51de-5da5-a801-b246080192e0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of specified values of influence factors fixed to ensure valid intercomparison
+      of the results of measurements
+  examples: []
+  id: 00378-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9b5264cd-9842-5e58-870f-06a090b23e1e

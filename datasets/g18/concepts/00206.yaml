@@ -1,0 +1,47 @@
+data:
+  identifier: '00206'
+  localized_concepts:
+    eng: 731c4916-5ab5-50c6-82ec-b4b366378352
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.24'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 4a6fb5ba-0f31-55e6-b835-823fb6fc6df6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: form of metrological supervision aimed at establishing that the quality
+      systems of manufacturers, manufacturers’ representatives (in relation to conformity
+      assessment procedures) or authorized private bodies, as applicable, comply with
+      the regulatory or statutory requirements of a country or free trade area
+  examples: []
+  id: 00206-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.24'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quality system surveillance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 731c4916-5ab5-50c6-82ec-b4b366378352

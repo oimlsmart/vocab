@@ -1,0 +1,45 @@
+data:
+  identifier: '02366'
+  localized_concepts:
+    eng: 63fdf6aa-c9d8-5fdd-8cb6-fdab68f3d246
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.31'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 23b7ee3f-fd51-563b-ace6-1d9b3bbc3929
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any part of the software, including stored parameters, which has aninfluence
+      on the calculated, displayed, transmitted, or stored measurement result
+  examples: []
+  id: 02366-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.31'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant software
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 63fdf6aa-c9d8-5fdd-8cb6-fdab68f3d246

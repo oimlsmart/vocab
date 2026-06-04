@@ -1,0 +1,45 @@
+data:
+  identifier: 00478
+  localized_concepts:
+    eng: 355ba4a2-5236-5ebf-829f-fa4874236fb6
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 25d1aba9-1e12-59a2-b440-3a0817a4d0ad
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment of the equipment under test, after conditioning, in order that
+      the properties of the equipment under test may be stabilized before measurement
+  examples: []
+  id: 00478-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recovery
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 355ba4a2-5236-5ebf-829f-fa4874236fb6

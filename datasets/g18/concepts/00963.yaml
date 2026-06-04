@@ -1,0 +1,45 @@
+data:
+  identifier: 00963
+  localized_concepts:
+    eng: b5b9e224-846e-513f-8098-7dec778c5d6a
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 7c88bbdf-fda3-58f2-8359-bf90501298e6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (t value of metrologically controlled weights that balances the load
+      aking into account the reduction ratio of the load)
+  examples: []
+  id: 00963-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: balancing by weights
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b5b9e224-846e-513f-8098-7dec778c5d6a

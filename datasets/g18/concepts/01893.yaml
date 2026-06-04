@@ -1,0 +1,46 @@
+data:
+  identifier: 01893
+  localized_concepts:
+    eng: 6b0c16f6-ac6a-5451-b8a1-6c91b3594915
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 6369f08c-6380-56d8-82d4-1c0e3cc7229e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the output or display is indicated by an index and graduated scale, one
+      of which is fixed and the position of the other is a continuous function of
+      the particular quantity being measured
+  examples: []
+  id: 01893-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analogue indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6b0c16f6-ac6a-5451-b8a1-6c91b3594915

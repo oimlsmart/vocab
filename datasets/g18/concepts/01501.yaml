@@ -1,0 +1,45 @@
+data:
+  identifier: '01501'
+  localized_concepts:
+    eng: 534a4c78-5a0b-503b-b55c-d1a13c3aa2d2
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: b769ef5a-4ad4-5a9a-8dfa-a8f3e9bce95d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a record of the detector output signal versus time that has peaks corresponding
+      to components of a sample
+  examples: []
+  id: 01501-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromatogram
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 534a4c78-5a0b-503b-b55c-d1a13c3aa2d2

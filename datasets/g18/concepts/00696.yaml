@@ -1,0 +1,46 @@
+data:
+  identifier: 00696
+  localized_concepts:
+    eng: b30b1e65-b1be-5f48-b2b0-519bdb7081f3
+  sources:
+  - origin:
+      ref:
+        source: OIML R056:1981
+    locality:
+      type: clause
+      reference_from: '1.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R056
+    ref_type: section
+status: valid
+id: de6982e7-c183-5bf6-a7ed-a88c98a222e3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'solution having an electric conductivity (in the text : conductivity)
+      of known value, adopted as the standard measure for the calibration of conductance
+      cells'
+  examples: []
+  id: 00696-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R056:1981
+      locality:
+        type: clause
+        reference_from: '1.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard solution reproducing conductivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b30b1e65-b1be-5f48-b2b0-519bdb7081f3

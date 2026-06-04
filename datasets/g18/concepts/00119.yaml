@@ -1,0 +1,46 @@
+data:
+  identifier: 00119
+  localized_concepts:
+    eng: ef483d94-1665-5233-83c9-561fa00effd6
+  sources:
+  - origin:
+      ref:
+        source: OIML D016:1986
+    locality:
+      type: clause
+      reference_from: 1.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-D016
+    ref_type: section
+status: valid
+id: 1eaf9f74-5da8-51a6-b638-599151eec130
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any physical artifact, apparatus, or item used in making a measurement.
+      A « device » may be an active or passive measuring instrument (as in VML 6.1)
+      or a measurement standard (etalon)
+  examples: []
+  id: 00119-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D016:1986
+      locality:
+        type: clause
+        reference_from: 1.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ef483d94-1665-5233-83c9-561fa00effd6

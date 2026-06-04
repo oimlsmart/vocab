@@ -1,0 +1,44 @@
+data:
+  identifier: 01378
+  localized_concepts:
+    eng: 08b267cb-2943-5c85-864e-fb47edb39fa8
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 8f711f4b-83e0-5e2a-80f8-b48fedf04705
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication providing the weighing results in a digitized form
+  examples: []
+  id: 01378-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 08b267cb-2943-5c85-864e-fb47edb39fa8

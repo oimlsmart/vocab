@@ -1,0 +1,46 @@
+data:
+  identifier: '02202'
+  localized_concepts:
+    eng: 6df3456a-ca7a-5592-8110-b7d7d795ac4b
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.35
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 303c7f12-804f-5d4c-98c4-5e838d213baf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: network of arbitrary participants (electronic devices with arbitrary
+      functions). The number, identity and location of a participant can be dynamic
+      and unknown to the other participants (see also Closed network)
+  examples: []
+  id: 02202-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.35
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: open network
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6df3456a-ca7a-5592-8110-b7d7d795ac4b

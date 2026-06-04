@@ -1,0 +1,45 @@
+data:
+  identifier: 02097
+  localized_concepts:
+    eng: c5bbbb2b-7398-5dea-a75a-d1130fbdd993
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.3.6
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: c6b973f8-9d3b-5253-869f-9845ca182625
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the measuring equipment under test (EUT)
+      is capable of accomplishing its intended functions
+  examples: []
+  id: 02097-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.3.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c5bbbb2b-7398-5dea-a75a-d1130fbdd993

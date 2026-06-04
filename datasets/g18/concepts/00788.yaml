@@ -1,0 +1,45 @@
+data:
+  identifier: 00788
+  localized_concepts:
+    eng: 703a71d7-e53f-58bd-8e4a-e5cb4ba97fef
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.6
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 5ce305c8-1569-52a6-9dd0-ebb2bfb66b2e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: time taken to complete the last stage of delivery of the product to aload
+      receptor
+  examples: []
+  id: 00788-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: final feed time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 703a71d7-e53f-58bd-8e4a-e5cb4ba97fef

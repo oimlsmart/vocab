@@ -1,0 +1,45 @@
+data:
+  identifier: '00714'
+  localized_concepts:
+    eng: c45b44ed-35a0-5299-b88f-dc63d635987a
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 1c52061e-031d-511b-a4ae-b7c86d7a1de8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurable quantity into which a load cell converts the measured quantity
+      (mass)
+  examples: []
+  id: 00714-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load cell outpunt
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c45b44ed-35a0-5299-b88f-dc63d635987a

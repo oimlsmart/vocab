@@ -1,0 +1,50 @@
+data:
+  identifier: '01507'
+  localized_concepts:
+    eng: 21438b97-cf7c-5a7c-9281-c5e1a1e6d968
+  sources:
+  - origin:
+      ref:
+        source: OIML R114:1995
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R114
+    ref_type: section
+status: valid
+id: 9266a109-e3f1-51b5-a38d-d65fe3f71010
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a special-purpose temperature probe is a probe that incorporates An example
+      of a special-purpose temperature a temperature sensor and has also other functions
+      probe which contai primar chest within open e
+  examples: []
+  id: 01507-eng
+  notes:
+  - content: is an esophageal-stethoscope probe in a temperature sensor is loosely
+      ned within a plastic tube; however the y purpose of the probe is to transmit
+      cavity sounds through the air or gas the tube to a stethoscope attached to its
+      nd.
+  sources:
+  - origin:
+      ref:
+        source: OIML R114:1995
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: special purpose temperature probe
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 21438b97-cf7c-5a7c-9281-c5e1a1e6d968

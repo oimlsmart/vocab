@@ -1,0 +1,45 @@
+data:
+  identifier: 01598
+  localized_concepts:
+    eng: 8fa3950c-dbd0-5a44-af62-356daf2623e2
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.s.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: f748ca2e-2022-58ed-a7c3-bc94a22baf61
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating mode of a self-service arrangement in which the supplier is
+      present and controls the authorization for the delivery
+  examples: []
+  id: 01598-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.s.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: attended service mode
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8fa3950c-dbd0-5a44-af62-356daf2623e2

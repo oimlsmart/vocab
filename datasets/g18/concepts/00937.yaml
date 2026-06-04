@@ -1,0 +1,45 @@
+data:
+  identifier: 00937
+  localized_concepts:
+    eng: 40d16626-170d-5385-b57b-ffa8fb112857
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.8.6
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 004201f1-173c-594e-9f6d-b5879c4b7472
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sequence of readable characters of software that is inextricably linked
+      to the software (e.g. version number, checksum)
+  examples: []
+  id: 00937-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.8.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software identification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 40d16626-170d-5385-b57b-ffa8fb112857

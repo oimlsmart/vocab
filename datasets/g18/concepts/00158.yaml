@@ -1,0 +1,46 @@
+data:
+  identifier: 00158
+  localized_concepts:
+    eng: 1e41b659-a518-509b-9c8f-39493b55280f
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 84fc47ab-1fb2-5bcc-b240-0454add70c66
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a material or substance one or more properties of which are sufficiently
+      well established to be used for the calibration of an apparatus, the assessment
+      of a measurement method, or for assigning values to materials
+  examples: []
+  id: 00158-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference material
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1e41b659-a518-509b-9c8f-39493b55280f

@@ -1,0 +1,45 @@
+data:
+  identifier: '01714'
+  localized_concepts:
+    eng: 7b9284eb-7a59-50d0-91ce-8669a58663e4
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: ce80c9a0-174e-5e1c-96d1-e03edc971829
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the maximum measurable dimension for each axis as specified by the manufacturer
+      for the measuring instrument
+  examples: []
+  id: 01714-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum dimension (max)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7b9284eb-7a59-50d0-91ce-8669a58663e4

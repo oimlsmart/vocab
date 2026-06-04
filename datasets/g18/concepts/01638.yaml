@@ -1,0 +1,45 @@
+data:
+  identifier: 01638
+  localized_concepts:
+    eng: 7828eb34-f669-5637-9bbb-587b53f4b0ef
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.22.1
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 7f44ff1d-c893-53f9-8e37-7c1375a0b20b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the result of a measurement minus the (conventional) true value of the
+      measurand (VIM:1993, 3.10)
+  examples: []
+  id: 01638-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.22.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absolute error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7828eb34-f669-5637-9bbb-587b53f4b0ef

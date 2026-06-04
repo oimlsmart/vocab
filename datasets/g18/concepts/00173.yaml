@@ -1,0 +1,45 @@
+data:
+  identifier: '00173'
+  localized_concepts:
+    eng: 0a0ae457-2db0-5a69-b756-e68f25008487
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-D027
+    ref_type: section
+status: valid
+id: 20e98f45-3a3b-58a8-80e3-df0c2ef3fb26
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of quality management, focused on fulfilling quality requirements
+      [ISO 9000:2000, 3.2.10]
+  examples: []
+  id: 00173-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quality control
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a0ae457-2db0-5a69-b756-e68f25008487

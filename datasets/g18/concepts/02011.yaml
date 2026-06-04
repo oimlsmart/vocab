@@ -1,0 +1,44 @@
+data:
+  identifier: '02011'
+  localized_concepts:
+    eng: 9ff634a3-3d29-5b4d-ab17-7e0c4af38e08
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 75368b2b-21c2-5e7f-8f23-e8ffb99bc3bf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: result of a measurement minus the (conventional) true value of the measurand
+  examples: []
+  id: 02011-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absolute error of measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9ff634a3-3d29-5b4d-ab17-7e0c4af38e08

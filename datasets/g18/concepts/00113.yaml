@@ -1,0 +1,47 @@
+data:
+  identifier: '00113'
+  localized_concepts:
+    eng: 334450c6-c2e1-5a47-9cb5-16467dce3831
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.22'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 014a80d5-2648-5f81-a6cf-c047a1030f15
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: procedure by which one or more agreed-upon legal metrology experts assess,
+      against specified requirements, on site, the competence of the Testing Laboratory
+      or Laboratories designated by a participating Issuing Authority in the category
+      ofmeasuring instruments covered in a DoMC
+  examples: []
+  id: 00113-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peer assessment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 334450c6-c2e1-5a47-9cb5-16467dce3831

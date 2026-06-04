@@ -1,0 +1,45 @@
+data:
+  identifier: '01332'
+  localized_concepts:
+    eng: c2195aa1-cd29-59a2-adf6-dece286c485f
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 8ee6d95f-be2e-537b-b320-40e1e25fb780
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that calculates the sum of consecutive loads weighed and discharged
+      to bulk
+  examples: []
+  id: 01332-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: totalization device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c2195aa1-cd29-59a2-adf6-dece286c485f

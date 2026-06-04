@@ -1,0 +1,45 @@
+data:
+  identifier: 00596
+  localized_concepts:
+    eng: 9077796a-5c68-5f1e-a07b-c37590ce1c77
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.8.5
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 397ec626-ea67-5cb3-8d2f-5f676ba6a07b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ( internal memory storage of the instrument or external removable) storage
+      device used for keeping measurement data ready after completion of the measurement
+  examples: []
+  id: 00596-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.8.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data storage decvice
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9077796a-5c68-5f1e-a07b-c37590ce1c77

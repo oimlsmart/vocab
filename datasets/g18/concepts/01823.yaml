@@ -1,0 +1,45 @@
+data:
+  identifier: 01823
+  localized_concepts:
+    eng: d9c205b1-870f-53c0-98de-3f8abdda5eb4
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.4.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 5cbcce59-07c3-5859-8c21-982325730d2f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of an instrument as determined prior to performance tests
+      and durability evaluations
+  examples: []
+  id: 01823-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.4.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d9c205b1-870f-53c0-98de-3f8abdda5eb4

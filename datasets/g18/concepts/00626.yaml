@@ -1,0 +1,45 @@
+data:
+  identifier: '00626'
+  localized_concepts:
+    eng: 5d3e29b3-4249-5ea5-829c-75c05b908b74
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: ebe3f1a8-5c01-590c-8689-e5f0b45b7238
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum capacity of the additive tare device or the subtractive tare
+      device
+  examples: []
+  id: 00626-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum tare effect, T+, T–
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5d3e29b3-4249-5ea5-829c-75c05b908b74

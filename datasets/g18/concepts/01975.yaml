@@ -1,0 +1,47 @@
+data:
+  identifier: 01975
+  localized_concepts:
+    eng: c7492659-22e1-5d4c-8c87-243342a54a58
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 2cd8b32c-9404-56ce-a3b3-cd475e473a25
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gas meter equipped with electronic devices
+  examples: []
+  id: 01975-eng
+  notes:
+  - content: For the purposes of this Recommendation auxiliary equipment, as far as
+      it is subject to metrological control, is considered part of the gas meter,
+      unless the auxiliary equipment is approved and verified separately.
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic gas meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c7492659-22e1-5d4c-8c87-243342a54a58

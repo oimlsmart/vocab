@@ -1,0 +1,45 @@
+data:
+  identifier: 01900
+  localized_concepts:
+    eng: 0078a0b0-aed3-5e35-849b-56785d5396c3
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 170d1b8e-c6d7-567d-9165-c9f1b44f5a43
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest value that can be measured below which the indicated result
+      may be subject to excessive relative error
+  examples: []
+  id: 01900-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum area (Amin)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0078a0b0-aed3-5e35-849b-56785d5396c3

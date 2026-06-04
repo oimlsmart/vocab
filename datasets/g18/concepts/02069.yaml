@@ -1,0 +1,45 @@
+data:
+  identifier: 02069
+  localized_concepts:
+    eng: b3ec33e3-6d6b-5c66-bf23-a5b4501c12c9
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 4d335e46-3702-5d14-b63a-73af9de2fd91
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value attributed to a particular quantity and accepted, sometimes (VIM:2007,
+      2.12) by convention, as having an uncertainty appropriate for a given purpose
+  examples: []
+  id: 02069-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true value (of a quantity)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b3ec33e3-6d6b-5c66-bf23-a5b4501c12c9

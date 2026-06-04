@@ -1,0 +1,45 @@
+data:
+  identifier: 01820
+  localized_concepts:
+    eng: c51e9f29-8290-522f-b765-6519c1d16ec9
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: d9090630-550b-5f8b-ab09-7ea6c6d8d8f1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication in which the scale marks are a sequence of aligned figures
+      that do not permit interpolation to a fraction of the scale interval
+  examples: []
+  id: 01820-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c51e9f29-8290-522f-b765-6519c1d16ec9

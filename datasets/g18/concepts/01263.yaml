@@ -1,0 +1,45 @@
+data:
+  identifier: '01263'
+  localized_concepts:
+    eng: 3296183f-3ee5-50dd-8345-6f46904e9cc7
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: e08bf842-af24-5f16-a7a8-2efd1fbe4db4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the parts of the weigh zone that are not the load receptor nor part ofthe
+      load receptor
+  examples: []
+  id: 01263-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aprons
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3296183f-3ee5-50dd-8345-6f46904e9cc7

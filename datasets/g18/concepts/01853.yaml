@@ -1,0 +1,45 @@
+data:
+  identifier: 01853
+  localized_concepts:
+    eng: ab7da322-011e-5ba6-8eef-c5a8be7fcc2e
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 5a6370bb-9afd-559b-8d86-4dac4b1e4af3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: solution of known concentration of the analyte providing the independent
+      variable of the calibration function
+  examples: []
+  id: 01853-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration solution, standard solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ab7da322-011e-5ba6-8eef-c5a8be7fcc2e

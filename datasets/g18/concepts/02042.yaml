@@ -1,0 +1,46 @@
+data:
+  identifier: '02042'
+  localized_concepts:
+    eng: a7424757-47f2-5d5a-b59b-3ed461c7d796
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: c403168e-9526-5dc2-a803-13a22f504450
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that provides an output quantity having a determined relationship
+      to the input quantity
+  examples: []
+  id: 02042-eng
+  notes:
+  - content: (VIM:2007, 3.7)
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a7424757-47f2-5d5a-b59b-3ed461c7d796

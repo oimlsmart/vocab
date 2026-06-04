@@ -1,0 +1,44 @@
+data:
+  identifier: '01362'
+  localized_concepts:
+    eng: 1ccd77e5-ec4d-58f8-a9e8-cda7124e9acd
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: ce86c7ac-e3e8-5005-abbb-49e171a9180a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: largest discrete load that can be weighed automatically
+  examples: []
+  id: 01362-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum capacity, Max
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1ccd77e5-ec4d-58f8-a9e8-cda7124e9acd

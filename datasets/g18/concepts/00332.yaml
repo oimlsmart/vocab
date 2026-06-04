@@ -1,0 +1,44 @@
+data:
+  identifier: '00332'
+  localized_concepts:
+    eng: 3b8af809-585b-583a-b37a-70195ff92512
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-2
+    ref_type: section
+status: valid
+id: 6cdcbc7d-39b1-5d5d-9000-a92022c6fd36
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component that transforms pressure signals into electrical signals
+  examples: []
+  id: 00332-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electro-mechanical pressure transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3b8af809-585b-583a-b37a-70195ff92512

@@ -1,0 +1,45 @@
+data:
+  identifier: '01270'
+  localized_concepts:
+    eng: f1382a2b-e88f-5b35-8632-71ce6fc1edac
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.4.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 7bd833e3-2b53-5d84-b740-78ad0b76843a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a zero-setting device that operates automatically following a manual
+      command
+  examples: []
+  id: 01270-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.4.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f1382a2b-e88f-5b35-8632-71ce6fc1edac

@@ -1,0 +1,45 @@
+data:
+  identifier: '01647'
+  localized_concepts:
+    eng: ad539cc7-f651-50be-9cca-a4f9c6a0fc65
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.29.1
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: ff423b13-9b67-5e03-ac8e-8ab5820926f3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value within the rated operating conditions
+      of the measuring instrument specified in this Recommendation
+  examples: []
+  id: 01647-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.29.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ad539cc7-f651-50be-9cca-a4f9c6a0fc65

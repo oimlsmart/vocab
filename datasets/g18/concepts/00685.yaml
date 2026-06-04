@@ -1,0 +1,45 @@
+data:
+  identifier: 00685
+  localized_concepts:
+    eng: 0640794c-d1d1-5dec-b33d-a20c5c2fa9f6
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 87fe98a6-6524-5d04-9cd1-4afa68e2d947
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quotient of the increase in value of displacement of the reference point
+      and the corresponding increase in pressure
+  examples: []
+  id: 00685-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0640794c-d1d1-5dec-b33d-a20c5c2fa9f6

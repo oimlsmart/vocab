@@ -1,0 +1,45 @@
+data:
+  identifier: '01567'
+  localized_concepts:
+    eng: 8670a9fc-a39d-5f33-8b44-50d6f73abff2
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.f.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 9babca13-0216-55e3-b3de-eea6fe6e3334
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: element which, in an indicating device comprising several elements, carries
+      the graduated scale with the smallest scale interval
+  examples: []
+  id: 01567-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.f.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: first element of an indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8670a9fc-a39d-5f33-8b44-50d6f73abff2

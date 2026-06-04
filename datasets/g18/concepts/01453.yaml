@@ -1,0 +1,45 @@
+data:
+  identifier: '01453'
+  localized_concepts:
+    eng: c0785d39-46e4-5580-8ca2-2f58ec569aad
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.9.3
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 1c8611b6-d804-5499-a3bd-4d8c18ec1d92
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: force produced on magnetic or magnetically susceptible material byexternal
+      magnetic fields
+  examples: []
+  id: 01453-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.9.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnetic force (F1, F2, Fa, Fb, Fmax
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c0785d39-46e4-5580-8ca2-2f58ec569aad

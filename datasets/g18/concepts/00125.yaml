@@ -1,0 +1,45 @@
+data:
+  identifier: '00125'
+  localized_concepts:
+    eng: c619ee8c-0357-5c71-a492-4e36a5439304
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: bb429e67-1dec-59e4-b9dc-2eb3fd8a9203
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: taken together, all the documents, instruments, fees, etc. submitted
+      to the concerned legal metrology agency when approval of a pattern is requested
+  examples: []
+  id: 00125-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: request for pattern approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c619ee8c-0357-5c71-a492-4e36a5439304

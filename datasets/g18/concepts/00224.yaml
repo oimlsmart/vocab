@@ -1,0 +1,48 @@
+data:
+  identifier: '00224'
+  localized_concepts:
+    eng: 50d4686b-ee2d-5437-8d00-c0fad403a105
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 80920b0c-4f6b-504e-8506-e8b56cde9c20
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument intended to measure an electrical or non- For the
+      purpose of this Document, auxiliary electrical quantity using electronic means
+      and/or equipped with electronic devices
+  examples: []
+  id: 00224-eng
+  notes:
+  - content: equipment, provided that it is subject to metrological control, is considered
+      to be a par of the measuring instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 50d4686b-ee2d-5437-8d00-c0fad403a105

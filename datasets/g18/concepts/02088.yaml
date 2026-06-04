@@ -1,0 +1,48 @@
+data:
+  identifier: 02088
+  localized_concepts:
+    eng: fad62c84-d311-5cc6-a97b-963d1424aa8d
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.19
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: f3f654e5-a4ce-505b-bf05-d22165ae9b1e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any difference in performance of the metering module arising between
+      the calibration under ideal conditions and actual conditions of use. This difference
+      may be caused by different flow conditions due to velocity profile, perturbations,
+      or by different working regimes (pulsation, intermittent flow, alternating flow,
+      vibrations, etc.)
+  examples: []
+  id: 02088-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.19
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: installation effect
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fad62c84-d311-5cc6-a97b-963d1424aa8d

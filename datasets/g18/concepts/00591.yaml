@@ -1,0 +1,46 @@
+data:
+  identifier: 00591
+  localized_concepts:
+    eng: 6caf223d-8944-5604-accf-820824694202
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.7
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 4254cabe-0944-57f4-8c2e-2dada0a68d63
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (i either incorporated in the indicator housing or in the computer terminal
+      housing or realized as a display in a separate housing .e. terminal without
+      keys), e.g. for use in combination with a weighing module
+  examples: []
+  id: 00591-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital display
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6caf223d-8944-5604-accf-820824694202

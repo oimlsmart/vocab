@@ -1,0 +1,45 @@
+data:
+  identifier: '01475'
+  localized_concepts:
+    eng: d2dd341c-f029-57e0-b645-78d19c2f4d6a
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: 406fa34e-1aef-54f6-b46c-609210c1959d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the liquid (solvent) used to elute the sample components through and
+      from the column; it may consist of a single component or a mixture of components
+  examples: []
+  id: 01475-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobile phase
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d2dd341c-f029-57e0-b645-78d19c2f4d6a

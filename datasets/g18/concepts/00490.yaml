@@ -1,0 +1,45 @@
+data:
+  identifier: 00490
+  localized_concepts:
+    eng: f58d2f70-6c90-5257-a6ef-ba92210d06a5
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 7d83b27d-8220-5c0c-913d-def7f5a746b5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the rollers by means of which the conveyor belt is supported on afixed
+      frame
+  examples: []
+  id: 00490-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carrying rollers
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f58d2f70-6c90-5257-a6ef-ba92210d06a5

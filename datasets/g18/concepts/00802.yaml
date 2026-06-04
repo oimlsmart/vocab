@@ -1,0 +1,45 @@
+data:
+  identifier: 00802
+  localized_concepts:
+    eng: a4c34419-ee9d-5dc0-a496-2bad1e6340a2
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: b893f534-40ab-5dd6-aac9-a9ae0b9ab92b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum permissible deviation of each fill from the average value of
+      all the fills of a test sequence
+  examples: []
+  id: 00802-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible deviation of each fill (MPD)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a4c34419-ee9d-5dc0-a496-2bad1e6340a2

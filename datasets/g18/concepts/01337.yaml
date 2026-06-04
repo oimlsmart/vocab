@@ -1,0 +1,45 @@
+data:
+  identifier: '01337'
+  localized_concepts:
+    eng: dd635b98-c2fd-5122-b88e-a3df45a05024
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 3c1cd7dc-604e-54e2-987f-c316d4d48d9d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero automatically at the time the
+      instrument is switched on and before it is ready for use
+  examples: []
+  id: 01337-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dd635b98-c2fd-5122-b88e-a3df45a05024

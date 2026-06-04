@@ -1,0 +1,45 @@
+data:
+  identifier: 00855
+  localized_concepts:
+    eng: 46d6f4dc-e21d-5d4b-b964-abd88a08133a
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '4.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 7acff3a8-c10f-53ce-8b25-8b17dacd1804
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V conditions of use prescribed for testing the performance of a measuring
+      instrument or for intercomparison of results of measurements IM:1993, 5.7].'
+  examples: []
+  id: 00855-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '4.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 46d6f4dc-e21d-5d4b-b964-abd88a08133a

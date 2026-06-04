@@ -1,0 +1,48 @@
+data:
+  identifier: 01890
+  localized_concepts:
+    eng: 340d3f26-dbd9-5842-8f5e-fc5d444995e9
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: cf9cb37d-79f5-57e5-a2cf-8016889f7a70
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (e device employing electronic sub-assemblies and performing a specific
+      function. An electronic device is usually manufactured asa separate unit and
+      is capable of being independently tested .g. an instrument comprising of photocells
+      for detecting leather ora camera for image scanning and providing area measurement
+      with digital indication)
+  examples: []
+  id: 01890-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 340d3f26-dbd9-5842-8f5e-fc5d444995e9

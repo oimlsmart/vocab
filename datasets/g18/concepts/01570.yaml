@@ -1,0 +1,46 @@
+data:
+  identifier: '01570'
+  localized_concepts:
+    eng: e8f1bda6-b815-5d57-9e29-8d684bb79e67
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.g.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 6f2d3a12-79bc-58f9-a616-f72f4c11cd8b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device used to remove any air, gas, or vapor contained in the liquid.
+      There are several different types of gas elimination devices, including gas
+      separators, gas extractors, and special gas extractors
+  examples: []
+  id: 01570-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.g.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas elimination device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e8f1bda6-b815-5d57-9e29-8d684bb79e67

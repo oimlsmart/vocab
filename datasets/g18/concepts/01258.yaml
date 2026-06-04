@@ -1,0 +1,45 @@
+data:
+  identifier: 01258
+  localized_concepts:
+    eng: e17629ce-7700-56e2-a8a9-a8c65a50a901
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 03764755-36e3-5b05-9a50-91cf03505571
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a non-automatic weighing instrument used to determine the mass ofa reference
+      wagon
+  examples: []
+  id: 01258-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e17629ce-7700-56e2-a8a9-a8c65a50a901

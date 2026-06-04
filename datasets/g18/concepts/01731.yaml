@@ -1,0 +1,46 @@
+data:
+  identifier: '01731'
+  localized_concepts:
+    eng: c7f08e4d-2f03-5170-b6a0-44795f26450b
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.30'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 9a4117a1-a172-5e4c-b0d3-2982f11869fd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use giving the range of values of influence quantities
+      for which the metrological characteristics are intended to lie within the specified
+      maximum permissible errors
+  examples: []
+  id: 01731-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.30'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c7f08e4d-2f03-5170-b6a0-44795f26450b

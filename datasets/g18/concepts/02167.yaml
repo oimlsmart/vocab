@@ -1,0 +1,47 @@
+data:
+  identifier: '02167'
+  localized_concepts:
+    eng: 161a6a77-73d9-5ce5-8788-d1667f393909
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D030
+    ref_type: section
+status: valid
+id: f1d08028-9f0f-5955-a5ed-603c08c390cb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-1 report, issued by the OIML Issuing Authority, composed of the
+      OIML Evaluation Report and of the Additional Test Reports'
+  examples: []
+  id: 02167-eng
+  notes:
+  - content: Complete Evaluation Reports are issued under the Mutual Acceptance Arrangement
+      (MAA).
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Complete Evaluation Report
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 161a6a77-73d9-5ce5-8788-d1667f393909

@@ -1,0 +1,50 @@
+data:
+  identifier: '01020'
+  localized_concepts:
+    eng: ec6968b9-5599-5c4f-b1d8-45b8308b59b4
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 80e6c247-82ca-5a91-a1ee-114babc6e8ea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that automatically converts the volume measured at metering
+      conditions into a volume at base conditions or into a mass, by taking account
+      of the characteristics of the measured liquid (temperature, pressure, density,
+      relative density, etc.) using associated measuring instruments, or associated
+      values stored in a memory. The quotient of the volume at base conditions, or
+      of the mass, to the volume at metering conditions is referred to as the “conversion
+      factor”
+  examples: []
+  id: 01020-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conversion device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ec6968b9-5599-5c4f-b1d8-45b8308b59b4

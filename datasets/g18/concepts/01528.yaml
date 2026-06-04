@@ -1,0 +1,49 @@
+data:
+  identifier: 01528
+  localized_concepts:
+    eng: 9cc733ad-8ee0-5b5e-9e34-c34679e690fe
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 5762ead7-6fde-5329-abc4-f6ba5df022d8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'part or device, other than an ancillary device, required to ensure Main
+      additional devices are: correct measurement or intended to facilitate the measuring
+      operations, or which could in any way affect the measurement'
+  examples: []
+  id: 01528-eng
+  notes:
+  - content:  gas elimination device,  gas indicator,  sight glass,  filter, 
+      pump,  device used for the transfer point,  anti-swirl device,  branches
+      or bypasses,  valves, hoses.
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: additional device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9cc733ad-8ee0-5b5e-9e34-c34679e690fe

@@ -1,0 +1,47 @@
+data:
+  identifier: 00908
+  localized_concepts:
+    eng: 9bfbebc9-ae55-53ee-a114-039ec0e83a13
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 3b052e33-5dc1-53dd-80b3-f72ce0458d09
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: additional device which repeats or further processes the weighing result
+      and other primary indications
+  examples: []
+  id: 00908-eng
+  notes:
+  - content: 'Examples: Printer, secondary display, keyboard, terminal, data storage
+      device, personal computer.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peripheral device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9bfbebc9-ae55-53ee-a114-039ec0e83a13

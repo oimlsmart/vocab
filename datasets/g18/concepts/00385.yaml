@@ -1,0 +1,46 @@
+data:
+  identifier: 00385
+  localized_concepts:
+    eng: b64a00fe-b870-5110-81ff-9c6ea3a9ec52
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: cb62cc8a-f49c-54c6-a2c6-2490f10affda
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reference test block that has been certified by a primary national laboratory
+      for hardness standardization and assigned with a Rockwell hardness value that
+      is directly traceable to a country’s national hardness standards
+  examples: []
+  id: 00385-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary reference test block
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b64a00fe-b870-5110-81ff-9c6ea3a9ec52

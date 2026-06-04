@@ -1,0 +1,45 @@
+data:
+  identifier: '00423'
+  localized_concepts:
+    eng: bb3ad4ed-9eab-5de1-9008-c6754f7f1981
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: e71c88b2-6558-591c-a151-7f9ac2d81543
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: total volume of water passing through the water meter, disregarding the
+      time taken. This is the measurand
+  examples: []
+  id: 00423-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actual volume, Va
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bb3ad4ed-9eab-5de1-9008-c6754f7f1981

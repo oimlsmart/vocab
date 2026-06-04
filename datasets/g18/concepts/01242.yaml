@@ -1,0 +1,46 @@
+data:
+  identifier: '01242'
+  localized_concepts:
+    eng: 154a787e-3719-5740-b8ef-e5d27d073aa5
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.25
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 3b35eb40-9d24-5b30-9fa3-72acf85de2aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use, specifying the range of values of influence quantities
+      for which the metrological characteristics are intended to lie within the maximum
+      permissible errors [adapted from VIM:1993, 5.05]
+  examples: []
+  id: 01242-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.25
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 154a787e-3719-5740-b8ef-e5d27d073aa5

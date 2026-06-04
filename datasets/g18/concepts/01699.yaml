@@ -1,0 +1,45 @@
+data:
+  identifier: 01699
+  localized_concepts:
+    eng: 0a65da92-741d-5bed-9d56-192fab1359c4
+  sources:
+  - origin:
+      ref:
+        source: OIML R128:2000
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R128
+    ref_type: section
+status: valid
+id: 1696d259-5e9a-5975-8ecc-3697e8aaaf88
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the absorbed braking power is the mechanical input power of the ergometer
+      at the crankshaft and is measured and displayed by the test equipment
+  examples: []
+  id: 01699-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R128:2000
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorbed braking power
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a65da92-741d-5bed-9d56-192fab1359c4

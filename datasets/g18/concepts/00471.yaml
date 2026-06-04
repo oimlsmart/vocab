@@ -1,0 +1,45 @@
+data:
+  identifier: '00471'
+  localized_concepts:
+    eng: 8cecf45c-96b1-5279-8583-fcdebe81707d
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: c3d2b6df-ba51-514c-92d4-4039c5581980
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: meter which has separable measurement transducer (including flow or volume
+      sensor) and calculator (including indicating device)
+  examples: []
+  id: 00471-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: combined meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8cecf45c-96b1-5279-8583-fcdebe81707d

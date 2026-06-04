@@ -1,0 +1,45 @@
+data:
+  identifier: '01142'
+  localized_concepts:
+    eng: 5bdb5c6e-d01d-5a02-ba16-df0f6c92723c
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.6
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 48823f15-996e-541a-8f85-14fd628c8835
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the point on the vertical measurement axis, with reference to which the
+      ullage height is measured
+  examples: []
+  id: 01142-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upper reference point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5bdb5c6e-d01d-5a02-ba16-df0f6c92723c

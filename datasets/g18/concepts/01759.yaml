@@ -1,0 +1,46 @@
+data:
+  identifier: 01759
+  localized_concepts:
+    eng: d66d7bfc-9b76-5dc2-9a91-82080b71c17a
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: a1898aec-41dc-5350-a388-a732d019203c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: specified quantity of alanine in a defined physical form in which ionizing
+      radiation produces an identifiable EPR signal that can be related to absorbed
+      dose
+  examples: []
+  id: 01759-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: alanine dosimeter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d66d7bfc-9b76-5dc2-9a91-82080b71c17a

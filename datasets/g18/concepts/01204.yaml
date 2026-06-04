@@ -1,0 +1,45 @@
+data:
+  identifier: '01204'
+  localized_concepts:
+    eng: ad7796dc-a002-54c7-b374-309a633d0d6e
+  sources:
+  - origin:
+      ref:
+        source: OIML R101:1991
+    locality:
+      type: clause
+      reference_from: T.2
+    type: authoritative
+  domains:
+  - concept_id: section-R101
+    ref_type: section
+status: valid
+id: 4c5d2ae0-7785-5bd9-acc7-d0f1d51cc4a5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a pressure less than ambient pressure, the latter being considered as
+      the datum point
+  examples: []
+  id: 01204-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R101:1991
+      locality:
+        type: clause
+        reference_from: T.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vacuum
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ad7796dc-a002-54c7-b374-309a633d0d6e

@@ -1,0 +1,45 @@
+data:
+  identifier: 00780
+  localized_concepts:
+    eng: 3d7c3306-4864-510e-8a05-72214a2ffe1d
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 00462734-4ea0-50d7-8b85-e98284a3a322
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for automatically setting the indication to zero at the time the
+      filling instrument is switched on and before it is ready for use
+  examples: []
+  id: 00780-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3d7c3306-4864-510e-8a05-72214a2ffe1d

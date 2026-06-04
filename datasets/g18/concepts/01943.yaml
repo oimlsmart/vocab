@@ -1,0 +1,46 @@
+data:
+  identifier: 01943
+  localized_concepts:
+    eng: 6541617c-d0a7-5974-b644-5ab63317b6fc
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: d850ebfc-0274-5ad4-9531-74c54ff93b00
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'error of measurement divided by a true value of the measurand. The error
+      is expressed as a percentage, and is calculated by:'
+  examples: []
+  id: 01943-eng
+  notes:
+  - content: '[VIM:1993, 3.12 + note]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative error or error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6541617c-d0a7-5974-b644-5ab63317b6fc

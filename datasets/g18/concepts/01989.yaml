@@ -1,0 +1,48 @@
+data:
+  identifier: 01989
+  localized_concepts:
+    eng: 267cbb90-eba1-5fdf-ac78-286f269e527f
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 284543ed-f305-516a-8b0b-6f2ae91f4b6e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the meter which transforms the flow of the gas to be measured
+      into signals which are passed to the calculator. It may be autonomous or use
+      an external power source
+  examples: []
+  id: 01989-eng
+  notes:
+  - content: For the purposes of this Recommendation, the measurement transducer includes
+      the flow or quantity sensor.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 267cbb90-eba1-5fdf-ac78-286f269e527f

@@ -1,0 +1,45 @@
+data:
+  identifier: '02303'
+  localized_concepts:
+    eng: bdb60f31-10c3-5e92-9cda-af88c781fcd0
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 93d5fd7b-ebc4-5455-8150-5454622064c5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that provides an output quantity, having a determined relationship
+      to the input quantity
+  examples: []
+  id: 02303-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bdb60f31-10c3-5e92-9cda-af88c781fcd0

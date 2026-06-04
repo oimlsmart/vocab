@@ -1,0 +1,44 @@
+data:
+  identifier: '01515'
+  localized_concepts:
+    eng: 7ca82653-059a-51a6-bef6-56f253ec864e
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: 013fc09f-d5d1-5ec5-a518-332efa25f093
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: region of the plasma monitored during the measurement process
+  examples: []
+  id: 01515-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: observation zone
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7ca82653-059a-51a6-bef6-56f253ec864e

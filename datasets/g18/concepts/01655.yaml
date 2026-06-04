@@ -1,0 +1,44 @@
+data:
+  identifier: '01655'
+  localized_concepts:
+    eng: c4607d3e-9470-51e6-a32a-bec457d48ed2
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.34.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 9b208b20-0d4b-5c2b-87b7-27a866109c3f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an automatic checking facility operating at each measurement cycle
+  examples: []
+  id: 01655-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.34.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent automatic checking facility (Type P)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c4607d3e-9470-51e6-a32a-bec457d48ed2

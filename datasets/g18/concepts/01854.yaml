@@ -1,0 +1,46 @@
+data:
+  identifier: 01854
+  localized_concepts:
+    eng: 5d7a6133-90fb-5186-b710-f481da1de7c6
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: e592aaae-a51e-5106-b45f-cac02d195bfc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: solution used in an external quality assessment scheme. The assigned
+      reference value of absorbance of this solution is known to the external quality
+      assessment scheme organizer only
+  examples: []
+  id: 01854-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intercomparison solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5d7a6133-90fb-5186-b710-f481da1de7c6

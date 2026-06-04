@@ -1,0 +1,45 @@
+data:
+  identifier: '01143'
+  localized_concepts:
+    eng: 441b9529-7a1a-5dbd-ac2a-f6cbee0b041a
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.7
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: a7922c13-a9a3-5cfc-99c3-85d9235bb93b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the distance between the free surface of the liquid and the upper reference
+      point, measured along the vertical measurement axis
+  examples: []
+  id: 01143-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ullage height
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 441b9529-7a1a-5dbd-ac2a-f6cbee0b041a

@@ -1,0 +1,45 @@
+data:
+  identifier: 01837
+  localized_concepts:
+    eng: d9e992a1-d855-5162-bc9d-7b05569d0152
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.6.5
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: ff9c1599-731e-519d-b1e6-591d5fd205e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test to verify that the EUT is capable of maintaining its span stability
+      over a period of use
+  examples: []
+  id: 01837-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.6.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: span stability test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d9e992a1-d855-5162-bc9d-7b05569d0152

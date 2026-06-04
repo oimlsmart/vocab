@@ -1,0 +1,45 @@
+data:
+  identifier: '01072'
+  localized_concepts:
+    eng: c4197bce-8ce2-5214-acc7-f28a02e543d1
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R083
+    ref_type: section
+status: valid
+id: 203c1844-2b0e-5146-981e-f2ee751ede6b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range of concentrations of a component of interest in solution that can
+      be measured with a repeatability within specified limits
+  examples: []
+  id: 01072-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c4197bce-8ce2-5214-acc7-f28a02e543d1

@@ -1,0 +1,46 @@
+data:
+  identifier: 01874
+  localized_concepts:
+    eng: 1ee00aaa-240b-5412-90ac-9e7d2191b5ab
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.35'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 8aaea82c-9170-5c4d-9899-4524064cf5df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility that is incorporated in a measuring instrument which enables
+      the detection of and action upon significant durability errors
+  examples: []
+  id: 01874-eng
+  notes:
+  - content: '[OIML D 11, 3.19]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.35'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability protection facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1ee00aaa-240b-5412-90ac-9e7d2191b5ab

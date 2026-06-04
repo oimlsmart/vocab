@@ -1,0 +1,45 @@
+data:
+  identifier: 00683
+  localized_concepts:
+    eng: fc6dea7a-494a-58a8-997b-7581345dbbf8
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 3d8f2e0b-5b33-59e5-a935-9b956a7c7f41
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the values of displacement of the reference point
+      for a given value of pressure, obtained for decreasing and increasing pressures
+  examples: []
+  id: 00683-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hysteresis
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fc6dea7a-494a-58a8-997b-7581345dbbf8

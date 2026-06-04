@@ -1,0 +1,45 @@
+data:
+  identifier: 01838
+  localized_concepts:
+    eng: d2701b09-6465-5e9e-91f9-88209d73b525
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: dd0c0d09-a3d8-520b-9107-0bf0aee614f0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: loaded or unloaded vehicle that is recognized by the instrument as a
+      vehicle to be weighed
+  examples: []
+  id: 01838-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vehicle
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d2701b09-6465-5e9e-91f9-88209d73b525

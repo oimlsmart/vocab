@@ -1,0 +1,47 @@
+data:
+  identifier: '01331'
+  localized_concepts:
+    eng: fc6d6aae-6ee6-5458-9bc8-430a01d02669
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: b29cbe6a-128c-568f-aeff-b11dcd2bf394
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: electronic device that only performs digital functions and that provides
+      a digitized output or display.
+  examples: []
+  id: 01331-eng
+  notes:
+  - content: 'Examples: Printer, remote display, terminal, data storage device, personal
+      computer'
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fc6d6aae-6ee6-5458-9bc8-430a01d02669

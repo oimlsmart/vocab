@@ -1,0 +1,48 @@
+data:
+  identifier: '02211'
+  localized_concepts:
+    eng: c2508b5e-5218-5412-8cf5-983985ff987d
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.44
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 9121a3d1-2d3d-57d2-b380-05dc9ecc47ce
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: logic entities such as programs, subroutines, libraries, and objects
+      including their data domains that may be in relationship with other entities.
+      The software of measuring instruments, electronic devices or sub-assemblies
+      consists of one or more software modules
+  examples: []
+  id: 02211-eng
+  notes:
+  - content: '[similar IEC 61508-4:1998, 3.3.7]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.44
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software module
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c2508b5e-5218-5412-8cf5-983985ff987d

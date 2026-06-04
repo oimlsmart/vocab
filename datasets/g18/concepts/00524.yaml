@@ -1,0 +1,45 @@
+data:
+  identifier: '00524'
+  localized_concepts:
+    eng: 9b97a549-59a2-5bdc-a8bd-cf095dd39a88
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.9
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 3211d102-d64a-578b-aa13-ca0b62ad2f22
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the time between the moment that power is applied to a belt weigher and
+      the moment that the belt weigher is capable of complying with the requirements
+  examples: []
+  id: 00524-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: warm-up time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9b97a549-59a2-5bdc-a8bd-cf095dd39a88

@@ -1,0 +1,45 @@
+data:
+  identifier: '00603'
+  localized_concepts:
+    eng: 1df3cc8e-110b-5c45-84c7-6999ceb7b56d
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.9.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: d5a9b10e-cf4a-5cf9-803a-947bacf09400
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that temporarily changes the actual scale interval, d, to a value
+      less than the verification interval, e, following a manual command
+  examples: []
+  id: 00603-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.9.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extended indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1df3cc8e-110b-5c45-84c7-6999ceb7b56d

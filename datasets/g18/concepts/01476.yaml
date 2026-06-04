@@ -1,0 +1,46 @@
+data:
+  identifier: '01476'
+  localized_concepts:
+    eng: aa47cd70-de2d-5253-a3b6-071a2dd9bcd8
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: de3175b9-c49c-5e15-b366-5855be299931
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the active immobile material within the column attached to the solid
+      support or the solid support itself that delays the passage of sample components
+      by one of several possible processes or by a combination of such processes
+  examples: []
+  id: 01476-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stationary phase
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: aa47cd70-de2d-5253-a3b6-071a2dd9bcd8

@@ -1,0 +1,47 @@
+data:
+  identifier: 02186
+  localized_concepts:
+    eng: a37bb819-f20b-5d13-8d6a-a72e9ab7bf83
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.19
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: a036a7c3-93c7-5d1c-ac17-01401cd4e152
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: systematic examination and testing of the performance of one or [OIML
+      V 1:2000, 2.5] more specimens of an identified type (pattern) of measuring instruments
+      against documented requirements, the results of which are contained in the evaluation
+      report, in order to determine whether the type may be approved
+  examples: []
+  id: 02186-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.19
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type evaluation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a37bb819-f20b-5d13-8d6a-a72e9ab7bf83

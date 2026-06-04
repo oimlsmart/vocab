@@ -1,0 +1,45 @@
+data:
+  identifier: 01581
+  localized_concepts:
+    eng: ef0fa061-85af-5ed6-8088-e1aa516596a8
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.m.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 6bb5a4f4-a8a5-5a92-8bf1-d322e123fe36
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system comprising a meter for quantities (volume or mass) of liquids
+      and its ancillary devices and additional devices
+  examples: []
+  id: 01581-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.m.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ef0fa061-85af-5ed6-8088-e1aa516596a8

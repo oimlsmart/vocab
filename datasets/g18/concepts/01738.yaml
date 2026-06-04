@@ -1,0 +1,45 @@
+data:
+  identifier: 01738
+  localized_concepts:
+    eng: b00e72f5-3d20-5069-a951-339518122173
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: 2.33.4
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: de31dab3-878f-58c7-8be4-656a174e0928
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an object whose dimensions are verified by appropriate reference standards
+      and intended to verify the compliance of the EUT with certain metrological requirements
+  examples: []
+  id: 01738-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: 2.33.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test object
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b00e72f5-3d20-5069-a951-339518122173

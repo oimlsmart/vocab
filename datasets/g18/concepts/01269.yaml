@@ -1,0 +1,44 @@
+data:
+  identifier: 01269
+  localized_concepts:
+    eng: 195d16fc-b367-5b37-a120-00a8bde8b17a
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.4.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 39871a2c-f81b-51c7-b502-6ded7ef42f50
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a zero-setting device that must be operated manually
+  examples: []
+  id: 01269-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.4.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 195d16fc-b367-5b37-a120-00a8bde8b17a

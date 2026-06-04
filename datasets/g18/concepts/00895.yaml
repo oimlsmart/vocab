@@ -1,0 +1,46 @@
+data:
+  identifier: 00895
+  localized_concepts:
+    eng: f7ad2748-cb1c-53fd-835d-8ae7bd1e1e96
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: c705b46f-b6d3-5ba0-a2a6-d0e2bb7961fa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the instrument for measuring the mass of the load by means of
+      an equilibrium device for balancing the force coming from the load transmitting
+      device, and an indicating or printing device
+  examples: []
+  id: 00895-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load measuring device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f7ad2748-cb1c-53fd-835d-8ae7bd1e1e96

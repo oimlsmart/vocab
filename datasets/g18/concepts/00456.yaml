@@ -1,0 +1,45 @@
+data:
+  identifier: '00456'
+  localized_concepts:
+    eng: 9fe083e6-d223-5e07-8ff6-ecaadeea87cf
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.8
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: d154ce5d-ae60-58e2-92c6-cf8b19b6b3ba
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the water meter is able to maintain its
+      performance characteristics over a period of use
+  examples: []
+  id: 00456-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: endurance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9fe083e6-d223-5e07-8ff6-ecaadeea87cf

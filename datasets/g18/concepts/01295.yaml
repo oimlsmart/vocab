@@ -1,0 +1,45 @@
+data:
+  identifier: 01295
+  localized_concepts:
+    eng: e5e4af0e-18df-54bc-a9d8-7e6333515e0c
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 47173afb-4a95-55f8-9e89-aab230fb2869
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the intrinsic error of an instrument as determined prior to performance
+      tests and durability evaluations
+  examples: []
+  id: 01295-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e5e4af0e-18df-54bc-a9d8-7e6333515e0c

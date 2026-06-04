@@ -1,0 +1,48 @@
+data:
+  identifier: '00110'
+  localized_concepts:
+    eng: aeea8c11-7817-5c2e-b3cb-0dfa943a169d
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.19'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: a1664b2b-9eb2-56c4-a34c-708d25088353
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Do an National Issuing Authority and/or National Responsible Body of
+      Associates receive information from, but do OIML Corresponding Member that voluntarily
+      takes part in a not parti MC by indicating in writing its willingness to accept
+      and Particip utilize Test Reports
+  examples: []
+  id: 00110-eng
+  notes:
+  - content: cipate in, the Committee on ation Review.
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Associate
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: aeea8c11-7817-5c2e-b3cb-0dfa943a169d

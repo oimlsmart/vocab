@@ -1,0 +1,45 @@
+data:
+  identifier: '00162'
+  localized_concepts:
+    eng: ebd34560-ab24-5d93-a345-ec4d474cdfef
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.17'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: cd04ba5d-fabb-54cd-a3cb-fbd5305b1d37
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the property of a result of a measurement whereby it can be related to
+      appropriate standards through an unbroken chain of comparisons
+  examples: []
+  id: 00162-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traceability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ebd34560-ab24-5d93-a345-ec4d474cdfef

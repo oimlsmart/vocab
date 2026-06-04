@@ -1,0 +1,45 @@
+data:
+  identifier: '00463'
+  localized_concepts:
+    eng: 674c36d1-44d8-5188-b89a-c53bbe2bcab0
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.5.7
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 971272ed-8a5b-56f4-865e-cfd65dde7c57
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility operating at certain time intervals or per
+      fixed number of measurement cycles
+  examples: []
+  id: 00463-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.5.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermittent automatic checking facility (type I)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 674c36d1-44d8-5188-b89a-c53bbe2bcab0

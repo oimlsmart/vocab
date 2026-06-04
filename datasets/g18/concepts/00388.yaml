@@ -1,0 +1,46 @@
+data:
+  identifier: 00388
+  localized_concepts:
+    eng: 8145a492-55bd-52fb-b8a0-3e1619578317
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: eeb38ca4-8ea3-5326-a8ff-5e5298dfb7ac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: process for verifying that the hardness measuring performance of the
+      Rockwell hardness machine is within maximum permissible errors by conducting
+      hardness measurements using reference test blocks
+  examples: []
+  id: 00388-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indirect method (verification)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8145a492-55bd-52fb-b8a0-3e1619578317

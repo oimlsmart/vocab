@@ -1,0 +1,45 @@
+data:
+  identifier: 00519
+  localized_concepts:
+    eng: 03f43af3-11de-5bd0-9fbc-e5597a3368da
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 7ddbb487-9348-5205-902d-a5b0eb014c8b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the flowrate obtained with the maximum capacity of the weighing unit
+      and the maximum speed of the belt
+  examples: []
+  id: 00519-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum flowrate (Qmax)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 03f43af3-11de-5bd0-9fbc-e5597a3368da

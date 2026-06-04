@@ -1,0 +1,44 @@
+data:
+  identifier: '01046'
+  localized_concepts:
+    eng: 6f453d91-de09-5264-92e7-ed838d886fb5
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: 2b976566-4191-5376-9c9e-ac0f4be556d9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means by which a sample is introduced into the gas chromatographic column
+  examples: []
+  id: 01046-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: injection device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6f453d91-de09-5264-92e7-ed838d886fb5

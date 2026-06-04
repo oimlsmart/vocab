@@ -1,0 +1,45 @@
+data:
+  identifier: '00737'
+  localized_concepts:
+    eng: 6533df2f-953e-5fcd-90f3-e29bec5831c6
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.10
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: f26d7cf4-5a4b-5b4e-b815-41adda27edb2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: deviation of the increasing load cell signal output curve from a straight
+      line
+  examples: []
+  id: 00737-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-linearity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6533df2f-953e-5fcd-90f3-e29bec5831c6

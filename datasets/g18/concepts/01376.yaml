@@ -1,0 +1,44 @@
+data:
+  identifier: '01376'
+  localized_concepts:
+    eng: edbdc61b-5845-53af-833f-c7fdd04d67af
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 3a275283-f1ae-5e02-948c-79437bc78233
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indications, signals and symbols that are not primary indications
+  examples: []
+  id: 01376-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary indications
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: edbdc61b-5845-53af-833f-c7fdd04d67af

@@ -1,0 +1,46 @@
+data:
+  identifier: '00207'
+  localized_concepts:
+    eng: e42cbd65-43bb-500e-99db-a017371d5cff
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.25'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 6656f940-858b-55f6-a913-caab2afc54e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operational life cycle of a measuring instrument after its putting into
+      service, i.e. a measuring instrument in use, after repair, relocated, or rebuilt
+      that may be resold
+  examples: []
+  id: 00207-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: being in service (use)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e42cbd65-43bb-500e-99db-a017371d5cff

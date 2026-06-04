@@ -1,0 +1,46 @@
+data:
+  identifier: 01931
+  localized_concepts:
+    eng: 4422cdb7-9b4f-58e7-be5f-c5d3c6cf544c
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.8
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 64697c3f-99bd-509f-b660-f7ad7d66cd2b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device incorporated in the gas meter that only allows the error curve
+      to be shifted generally parallel to itself, with a view to bringing errors (of
+      indication) within the limits of the maximum permissible error (MPE)
+  examples: []
+  id: 01931-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustment device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4422cdb7-9b4f-58e7-be5f-c5d3c6cf544c

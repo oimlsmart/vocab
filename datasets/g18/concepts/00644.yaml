@@ -1,0 +1,46 @@
+data:
+  identifier: '00644'
+  localized_concepts:
+    eng: 8e864745-9580-5b48-a578-7d09b8e6f91f
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 9c5ff16b-c37a-5516-80ad-e0ea24c8d859
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the instrument weighs without the intervention of the operator and follows
+      a pre-determined program of automatic processes characteristic of the instrument.
+      The instrument may either weigh statically or dynamically in automatic operation
+  examples: []
+  id: 00644-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic operation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8e864745-9580-5b48-a578-7d09b8e6f91f

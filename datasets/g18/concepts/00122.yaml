@@ -1,0 +1,47 @@
+data:
+  identifier: '00122'
+  localized_concepts:
+    eng: 1bf068f6-b58b-5a2b-862e-25697db029d7
+  sources:
+  - origin:
+      ref:
+        source: OIML D016:1986
+    locality:
+      type: clause
+      reference_from: 1.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-D016
+    ref_type: section
+status: valid
+id: 0bb92824-2786-5fe8-ae62-9e119cf5b899
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a particular procedure used or requirement imposed to accomplish one
+      of the objectives of a service of legal metrology. Thus, pattern evaluation
+      may be one element of a metrological control system; periodic verification may
+      be another element, etc.
+  examples: []
+  id: 00122-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D016:1986
+      locality:
+        type: clause
+        reference_from: 1.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: element of a metrological control system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1bf068f6-b58b-5a2b-862e-25697db029d7

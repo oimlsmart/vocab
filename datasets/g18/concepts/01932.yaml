@@ -1,0 +1,45 @@
+data:
+  identifier: 01932
+  localized_concepts:
+    eng: 43e76ec9-20c3-5370-92ca-701e415888f8
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.9
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 21dfc212-5198-591d-8e64-e6705dfe795a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: e. device intended for correction of known errors as a function of g.
+      flowrate, Reynolds number (curve linearization), or pressure and/or temperature
+  examples: []
+  id: 01932-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 43e76ec9-20c3-5370-92ca-701e415888f8

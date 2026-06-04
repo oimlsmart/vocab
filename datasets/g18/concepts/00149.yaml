@@ -1,0 +1,47 @@
+data:
+  identifier: 00149
+  localized_concepts:
+    eng: 52368f85-17c2-5397-af8b-ed01752b85bf
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 7c532cf2-1254-509d-aa90-fc118577203b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: graphical plots of test results from the same or similar samples or processes
+      with respect to time or a sequence of such measurements, together with the limits
+      within which the measurement values are expected to lie, when the instrument
+      is in a state of statistical control
+  examples: []
+  id: 00149-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control charts for an instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 52368f85-17c2-5397-af8b-ed01752b85bf

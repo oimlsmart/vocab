@@ -1,0 +1,50 @@
+data:
+  identifier: 01198
+  localized_concepts:
+    eng: 586abeff-3e46-5788-9540-98e8ff72fabb
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R100
+    ref_type: section
+status: valid
+id: c111186d-c58a-5144-99e0-a7c8c63d1283
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the concentration of an element that provides a signal equivalent In
+      this Recommendation, this term refers to to three times the standard deviation
+      of the baseline noise as determined on a statistical basis. It is the minimum
+      quantity measured before it can be concluded that an element has been detected
+  examples: []
+  id: 01198-eng
+  notes:
+  - content: the determination of an element in a reference solution free of interferents.
+      The baseline noise is established by measuring the output signal of several
+      aliquots of a blank test solution.
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detection limit
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 586abeff-3e46-5788-9540-98e8ff72fabb

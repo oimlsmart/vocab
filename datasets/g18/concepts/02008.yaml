@@ -1,0 +1,47 @@
+data:
+  identifier: 02008
+  localized_concepts:
+    eng: 345e01df-cd93-5f93-8e24-0a894e1cd7d8
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 87be5289-a075-5ec8-989d-97bb49d72f33
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: type of payment in unattended service mode in which payment for the delivered
+      quantity is required after the delivery, but in which the transaction is not
+      settled when the customer leaves the site, following an implicit agreement with
+      the supplier
+  examples: []
+  id: 02008-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unattended post-payment (or delayed payment)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 345e01df-cd93-5f93-8e24-0a894e1cd7d8

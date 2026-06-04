@@ -1,0 +1,50 @@
+data:
+  identifier: 00782
+  localized_concepts:
+    eng: 7f4ee664-8340-5825-aef3-7c160c712fc4
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 57a7741d-7f32-598f-adb6-1d45e2160e7b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • • • • device for taring: without altering the weighing range for
+      net loads (additive tare device); or reducing the weighing range for net loads
+      (subtractive tare device). The tare device may function as: a nonautomatic device
+      (load balanced by the operator or tare preset by the operator); a semi-automatic
+      device (load balanced automatically following a single manual command); or an
+      automatic device (load balanced automatically without the intervention of an
+      operator)'
+  examples: []
+  id: 00782-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tare device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7f4ee664-8340-5825-aef3-7c160c712fc4

@@ -1,0 +1,45 @@
+data:
+  identifier: 01139
+  localized_concepts:
+    eng: 1c1b040e-7e4c-54f3-ac79-bf4a77ca4319
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.3
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: ef17dd2b-3732-5264-8cab-cd7f0327d4fc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an opening in the upper part of the tank to allow the height of the liquid
+      level in the tank to be measured
+  examples: []
+  id: 01139-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gauge hatch
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1c1b040e-7e4c-54f3-ac79-bf4a77ca4319

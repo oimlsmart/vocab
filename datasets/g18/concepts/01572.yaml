@@ -1,0 +1,46 @@
+data:
+  identifier: '01572'
+  localized_concepts:
+    eng: a4c2fe78-e512-541d-99ad-9248f53f40ca
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.g.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: be4f3150-f110-56d6-ac43-92dc695bd424
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gas elimination device used to extract air or gases accumulated in the
+      supply line of the meter in the form of pockets that are no more than slightly
+      mixed with the liquid
+  examples: []
+  id: 01572-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.g.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas extractor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a4c2fe78-e512-541d-99ad-9248f53f40ca

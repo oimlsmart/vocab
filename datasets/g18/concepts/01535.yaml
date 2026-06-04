@@ -1,0 +1,47 @@
+data:
+  identifier: '01535'
+  localized_concepts:
+    eng: 997ce213-8fef-5b77-91d5-ca0694ad001d
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.9
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 3b10dd4d-68fe-5b36-ac2b-7f6ce6bf7e0e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the associated measuring device that provides an output quantity
+      for the calculator, the correction device or the conversion device, and having
+      a determined relationship to the input quantity
+  examples: []
+  id: 01535-eng
+  notes:
+  - content: (See also T.t.1)
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: associated measuring transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 997ce213-8fef-5b77-91d5-ca0694ad001d

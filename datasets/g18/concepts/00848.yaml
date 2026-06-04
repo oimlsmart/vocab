@@ -1,0 +1,46 @@
+data:
+  identifier: 00848
+  localized_concepts:
+    eng: cf40d693-bed9-564b-b85c-4143250677e4
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 3.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: bb6123a0-3d36-541b-a701-2009abef72d1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a sub-assembly (for mounting with or without pockets), which senses the
+      temperatures of the heatconveying liquid at the flow and return of a heatexchange
+      circuit
+  examples: []
+  id: 00848-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 3.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temperature sensor pair
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cf40d693-bed9-564b-b85c-4143250677e4

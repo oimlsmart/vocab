@@ -1,0 +1,46 @@
+data:
+  identifier: '01503'
+  localized_concepts:
+    eng: 559c7253-5379-5af2-978f-8c8a82042a37
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 2fe4375e-ad83-5799-a077-79fd9464c81f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the set of operations that establishes, under specified conditions, the
+      relationship between values indicated by a measuring system and the corresponding
+      known values of the measurand
+  examples: []
+  id: 01503-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 559c7253-5379-5af2-978f-8c8a82042a37

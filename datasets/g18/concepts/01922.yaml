@@ -1,0 +1,45 @@
+data:
+  identifier: 01922
+  localized_concepts:
+    eng: fe8866cd-31ab-57db-a31b-105fe6a07e62
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.6.2
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: fc6cdb90-b1ea-56b4-ad28-6c2701a42d78
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test carried out on a complete measuring instrument or part of an instrument
+      in which any part of the measurement operation is simulated
+  examples: []
+  id: 01922-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.6.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simulation test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fe8866cd-31ab-57db-a31b-105fe6a07e62

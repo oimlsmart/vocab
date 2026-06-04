@@ -1,0 +1,46 @@
+data:
+  identifier: 00092
+  localized_concepts:
+    eng: 1ad64451-8b68-5e18-abbf-950482140ae8
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 75694a95-7cd2-52cb-bdee-b2cd94d0159f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: publication addressing categories of measuring instruments or devices
+      that includes metrological and technical performance requirements, a test procedure
+      for evaluating conformity to the requirements, and a Test Report Format
+  examples: []
+  id: 00092-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OIML Recommendation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1ad64451-8b68-5e18-abbf-950482140ae8

@@ -1,0 +1,44 @@
+data:
+  identifier: '00573'
+  localized_concepts:
+    eng: f1d769f7-eb05-5f22-8259-690f34ee4328
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.10
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 750f2b56-fc6a-509b-8393-4891a7979de5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of a quantity provided by a measuring instrument
+  examples: []
+  id: 00573-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication of an instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f1d769f7-eb05-5f22-8259-690f34ee4328

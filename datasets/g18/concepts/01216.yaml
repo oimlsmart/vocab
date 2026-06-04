@@ -1,0 +1,45 @@
+data:
+  identifier: '01216'
+  localized_concepts:
+    eng: 34fabb7e-4822-574a-8e5d-f6cb9624fa92
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.6
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 1cad6c9c-f907-521d-b77d-41c7262d91af
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the smallest quantity for which the measurement is metrologically acceptable
+      for the system
+  examples: []
+  id: 01216-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum measured quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 34fabb7e-4822-574a-8e5d-f6cb9624fa92

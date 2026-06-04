@@ -1,0 +1,45 @@
+data:
+  identifier: '01064'
+  localized_concepts:
+    eng: e56b7306-f696-5382-99f3-39409fc990bd
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R083
+    ref_type: section
+status: valid
+id: e6a38eb6-394c-5386-912d-f77386331fac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: carrier gas and the injected gaseous sample that enter and move through
+      the column
+  examples: []
+  id: 01064-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobile phase
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e56b7306-f696-5382-99f3-39409fc990bd

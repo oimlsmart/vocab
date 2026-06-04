@@ -1,0 +1,46 @@
+data:
+  identifier: 01329
+  localized_concepts:
+    eng: 032848a4-6e1c-5036-8438-7f95046fc843
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 32d82677-eed5-511f-b0a5-3f2607932cca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[ part of an electronic device employing electronic components and having
+      a recognizable function of its own OIML D 11: 2004, 3.3]'
+  examples: []
+  id: 01329-eng
+  notes:
+  - content: 'Examples: A/D converter, display.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic sub-assembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 032848a4-6e1c-5036-8438-7f95046fc843

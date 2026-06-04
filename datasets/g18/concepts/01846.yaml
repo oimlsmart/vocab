@@ -1,0 +1,49 @@
+data:
+  identifier: 01846
+  localized_concepts:
+    eng: fd3f85da-a674-5f5d-aa16-1ad2c35273f4
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 6714bc91-a32a-508c-a276-93130ac69085
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: amount of substance of the compound dissolved, divided by the volume
+      of the solution
+  examples: []
+  id: 01846-eng
+  notes:
+  - content: 1. Adapted from ISO 6286, Table 2, No. 21.
+  - content: '2.'
+  - content: 2. The coherent SI unit is the mole per cubi metre (mol/m3), but the
+      mole per litre (mol/ mol/L) or its subunits are often preferred.
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amount of substance concentration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fd3f85da-a674-5f5d-aa16-1ad2c35273f4

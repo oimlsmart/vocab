@@ -1,0 +1,45 @@
+data:
+  identifier: '00522'
+  localized_concepts:
+    eng: 57d07b5a-1f0f-5775-9e34-a350bbc763cb
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.7
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: b3f4d528-885d-5b07-9541-8f3ef8d24b4e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the quotient of the maximum capacity of the weighing unit and the weigh
+      length
+  examples: []
+  id: 00522-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum load per unit length of the belt
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 57d07b5a-1f0f-5775-9e34-a350bbc763cb

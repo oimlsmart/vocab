@@ -1,0 +1,45 @@
+data:
+  identifier: '00156'
+  localized_concepts:
+    eng: 25aaec55-22d2-5f11-803d-e5f11e8ce2db
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.11'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: a45e16ba-48c1-5a7d-a019-6569659e5be5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a measurement standard which has the highest metrological qualities in
+      a specific field
+  examples: []
+  id: 00156-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary standard
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 25aaec55-22d2-5f11-803d-e5f11e8ce2db

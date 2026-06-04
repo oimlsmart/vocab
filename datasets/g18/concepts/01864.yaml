@@ -1,0 +1,51 @@
+data:
+  identifier: 01864
+  localized_concepts:
+    eng: a3e53147-d827-5874-8af6-0c749285778d
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.25'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 2c0244e6-499d-5f06-a67f-e37d13f088c8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: catalytic activity of a component divided by the volume of the 1. The
+      derived coherent SI unit is the mole per original system
+  examples: []
+  id: 01864-eng
+  notes:
+  - content: second per cubic metre (mol/(s × m3)), also called kat/m
+  - content: 3. In laboratory medicine the mole per second per litre (mol/(s × L))
+      is also frequently used.
+  - content: 2. Throughout this Recommendation the “component” is an enzyme and the
+      “original system” can be, e.g., the plasma of a blood sample. [ISO/DIS 18153,
+      clause 3.3]
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: catalytic activity concentration; catalytic concentration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a3e53147-d827-5874-8af6-0c749285778d

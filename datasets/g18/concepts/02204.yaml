@@ -1,0 +1,44 @@
+data:
+  identifier: '02204'
+  localized_concepts:
+    eng: 6d662406-6064-5cd0-9109-1788fc62898a
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.37
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 20985b8a-e48c-5bb7-8a83-1da812c7932d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: source code or executable code
+  examples: []
+  id: 02204-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.37
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: program code
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6d662406-6064-5cd0-9109-1788fc62898a

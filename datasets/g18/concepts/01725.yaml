@@ -1,0 +1,47 @@
+data:
+  identifier: '01725'
+  localized_concepts:
+    eng: 04abd6fe-0fb6-51b1-98b9-f1c17f89d882
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.26'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: b04b74c1-56d0-5a3d-bb8b-5b97419889f6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the extreme values (positive and negative) of the error of indication
+      permitted by specifications, Recommendations, regulations etc. The absolute
+      value of the mpe is the same value without sign
+  examples: []
+  id: 01725-eng
+  notes:
+  - content: Adapted from VIM:1993, 5.21.
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible errors (mpe)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 04abd6fe-0fb6-51b1-98b9-f1c17f89d882

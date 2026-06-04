@@ -1,0 +1,44 @@
+data:
+  identifier: 00991
+  localized_concepts:
+    eng: c539a7b1-2417-5b35-87c0-473d8ae9fc43
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.6.4
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: a51b9503-7316-57e1-bae8-5053e56ecda6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: position of the instrument at which its operation is adjusted
+  examples: []
+  id: 00991-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.6.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference position
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c539a7b1-2417-5b35-87c0-473d8ae9fc43

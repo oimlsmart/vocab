@@ -1,0 +1,45 @@
+data:
+  identifier: 01942
+  localized_concepts:
+    eng: c4a8f35d-acd7-5cef-82fc-1ae2ad2a6960
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 30716669-d780-5447-91f8-0d2c68552d97
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indicated value of a quantity Yi minus a true value of a quantity
+  examples: []
+  id: 01942-eng
+  notes:
+  - content: '[VIM:1993, 3.10 + notes]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absolute error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c4a8f35d-acd7-5cef-82fc-1ae2ad2a6960

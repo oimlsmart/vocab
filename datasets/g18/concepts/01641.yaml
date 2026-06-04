@@ -1,0 +1,45 @@
+data:
+  identifier: '01641'
+  localized_concepts:
+    eng: 0248340a-3781-5aa5-8577-471c6d881cfb
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.24
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 4d4b4546-57d5-53d6-a20e-3f7e0b877749
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the intrinsic error of a measuring instrument as determined prior to
+      performance tests
+  examples: []
+  id: 01641-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.24
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0248340a-3781-5aa5-8577-471c6d881cfb

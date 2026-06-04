@@ -1,0 +1,46 @@
+data:
+  identifier: 01976
+  localized_concepts:
+    eng: c4348661-59b8-5cb2-a7a7-cd5bb0b53423
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: a0710978-37a7-531e-b660-06b990a1fe6e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device employing electronic sub-assemblies and performing a specific
+      function. Electronic devices are usually manufactured as separate units and
+      are capable of being tested independently
+  examples: []
+  id: 01976-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c4348661-59b8-5cb2-a7a7-cd5bb0b53423

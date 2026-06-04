@@ -1,0 +1,46 @@
+data:
+  identifier: 00959
+  localized_concepts:
+    eng: 7afaf988-7600-5f43-a99c-41c1124f1fdb
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 84cd3b16-a855-580a-b755-f07e7c4ca104
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of an instrument to provide results that agree one with the other
+      when the same load is deposited several times and in a practically identical
+      way on the load receptor under reasonably constant test conditions
+  examples: []
+  id: 00959-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7afaf988-7600-5f43-a99c-41c1124f1fdb

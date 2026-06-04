@@ -1,0 +1,46 @@
+data:
+  identifier: '02360'
+  localized_concepts:
+    eng: bd9af0a8-2e66-5ab5-9088-502dfceb3669
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.27'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: df4df431-10b7-5e98-866a-ff247ffa873a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the limits specified in this
+      Recommendation but outside the rated operating conditions ofthe instrument
+  examples: []
+  id: 02360-eng
+  notes:
+  - content: Adapted from OIML D 11:2004, 3.13.2.
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bd9af0a8-2e66-5ab5-9088-502dfceb3669

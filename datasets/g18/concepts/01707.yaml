@@ -1,0 +1,44 @@
+data:
+  identifier: '01707'
+  localized_concepts:
+    eng: d99fad2e-880c-56a6-9cd5-ba78ef1807b9
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 7d806a54-b067-522d-8a4f-d7b88320d432
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an instrument which does not require the intervention of an operator
+  examples: []
+  id: 01707-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d99fad2e-880c-56a6-9cd5-ba78ef1807b9

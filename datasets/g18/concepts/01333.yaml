@@ -1,0 +1,45 @@
+data:
+  identifier: '01333'
+  localized_concepts:
+    eng: d5142d45-8641-55df-b4ef-58b2bb1f8ea7
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 7150b09b-ab35-5ad1-9eb6-b1f5a188637f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero when there is no load on the
+      load receptor
+  examples: []
+  id: 01333-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d5142d45-8641-55df-b4ef-58b2bb1f8ea7

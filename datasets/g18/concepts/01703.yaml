@@ -1,0 +1,47 @@
+data:
+  identifier: '01703'
+  localized_concepts:
+    eng: ba670200-fccb-5b58-857d-a7a86f38f82f
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 086313a3-47c6-5a89-ae89-e5c7bc9d2112
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device which contains all the necessary information and receives all
+      the necessary signals from the measuring device to enable it to calculate the
+      volume or other associated quantities. It may also store information, provide
+      checking facilities for the information and communicate with auxiliary devices
+  examples: []
+  id: 01703-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: processor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ba670200-fccb-5b58-857d-a7a86f38f82f

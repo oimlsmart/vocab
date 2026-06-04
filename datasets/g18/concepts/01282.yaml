@@ -1,0 +1,45 @@
+data:
+  identifier: 01282
+  localized_concepts:
+    eng: b8d9df70-e819-571c-9c42-f91a98016f24
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: a3f5b1e5-ead9-5718-81d5-02729c8ef73d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the largest in-motion load that the installation is approved to weigh
+      for a particular site
+  examples: []
+  id: 01282-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum wagon weight
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b8d9df70-e819-571c-9c42-f91a98016f24

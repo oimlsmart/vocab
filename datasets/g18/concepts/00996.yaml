@@ -1,0 +1,45 @@
+data:
+  identifier: 00996
+  localized_concepts:
+    eng: a0406325-adea-515a-b66b-fd26fc4ac370
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R079
+    ref_type: section
+status: valid
+id: 440016e4-7f3d-5560-b5d9-9ead984b726e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the part of a package that is most likely to be displayed, presented,
+      shown or examined under normal and customary conditions of display
+  examples: []
+  id: 00996-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: principal display panel
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a0406325-adea-515a-b66b-fd26fc4ac370

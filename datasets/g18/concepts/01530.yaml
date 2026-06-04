@@ -1,0 +1,45 @@
+data:
+  identifier: '01530'
+  localized_concepts:
+    eng: 4cd5f41f-ca16-50ff-9c79-917a71242d38
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.4
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 47aa1f5f-599d-5432-b084-66fba9b5f1bc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mobile measuring system intended for refuelling aircraft, supplied from
+      hydrant pits
+  examples: []
+  id: 01530-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aircraft hydrant measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4cd5f41f-ca16-50ff-9c79-917a71242d38

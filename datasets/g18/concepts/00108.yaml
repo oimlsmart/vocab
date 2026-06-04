@@ -1,0 +1,47 @@
+data:
+  identifier: 00108
+  localized_concepts:
+    eng: 6ee76806-3dc8-5ece-a0a2-f7a8e701269c
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.17'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 90620832-c666-5812-b7c8-686bb1f14e37
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: attestation by Participants that they have achieved a voluntary mutual
+      arrangement with regard to type evaluation to accept and utilize Test Reports,
+      which include results of examinations and testing, issued by other Participants
+      for a specified category of measuring instrument
+  examples: []
+  id: 00108-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Declaration of Mutual Confidence (DoMC)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6ee76806-3dc8-5ece-a0a2-f7a8e701269c

@@ -1,0 +1,44 @@
+data:
+  identifier: '01273'
+  localized_concepts:
+    eng: 8121de45-ef77-569c-8ae7-711936acb2e3
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 097da846-5ac8-5204-9f21-e80af0ed9716
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing a wagon that is entirely supported on the load receptor(s)
+  examples: []
+  id: 01273-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: full draught weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8121de45-ef77-569c-8ae7-711936acb2e3

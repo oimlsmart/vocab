@@ -1,0 +1,45 @@
+data:
+  identifier: '00400'
+  localized_concepts:
+    eng: f2f883aa-7c79-54ab-802c-e567fc75b32d
+  sources:
+  - origin:
+      ref:
+        source: OIML R043:1981
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R043
+    ref_type: section
+status: valid
+id: 06e58eb5-82f4-5942-a3ae-9d651622693c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the nominal capacity of a standard graduated flask is the volume used
+      to designate the flask (see point 3.2.)
+  examples: []
+  id: 00400-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R043:1981
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f2f883aa-7c79-54ab-802c-e567fc75b32d

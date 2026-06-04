@@ -1,0 +1,45 @@
+data:
+  identifier: 01910
+  localized_concepts:
+    eng: 0fdce13c-145b-52a5-b575-56232bbe907e
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.7
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 28b9dd32-2dea-51dc-bfe7-9ee3276195cd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between a digital measuring result (indicated or printed)
+      and the value of that measuring result with an analogue indication
+  examples: []
+  id: 01910-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rounding error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0fdce13c-145b-52a5-b575-56232bbe907e

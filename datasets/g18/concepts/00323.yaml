@@ -1,0 +1,45 @@
+data:
+  identifier: '00323'
+  localized_concepts:
+    eng: eb7ba374-f770-543e-bb2f-0a35b797a171
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-2
+    ref_type: section
+status: valid
+id: 53d222d8-ae3b-5a4c-9c87-17d82c021723
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component of the sphygmomanometer, comprising a bladder and asleeve,
+      which is wrapped around the limb of the patient
+  examples: []
+  id: 00323-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cuff
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eb7ba374-f770-543e-bb2f-0a35b797a171

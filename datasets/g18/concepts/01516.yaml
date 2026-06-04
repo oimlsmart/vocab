@@ -1,0 +1,48 @@
+data:
+  identifier: '01516'
+  localized_concepts:
+    eng: 4d2767c8-89a6-516a-a324-bd9077e1da0b
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: e5a1cd26-cfca-5586-8b11-9ac90cbfc1d9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tube, wound around the outer quartz tube of the torch, through which
+      the r.f. energy is transmitted to the argon
+  examples: []
+  id: 01516-eng
+  notes:
+  - content: This coil is generally water-cooled, consists of 3 or 4 turns, and is
+      constructed of a copper tube that may be plated with silver or gold and is also
+      known as the load coil.
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radio frequency (r.f.) coil
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4d2767c8-89a6-516a-a324-bd9077e1da0b

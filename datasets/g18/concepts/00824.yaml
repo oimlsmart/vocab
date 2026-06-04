@@ -1,0 +1,46 @@
+data:
+  identifier: 00824
+  localized_concepts:
+    eng: 6fc31af7-86de-53ed-9325-88798612e04e
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R065
+    ref_type: section
+status: valid
+id: 2992be82-5645-5c96-955a-fbb009457588
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest difference between indicated values or smallest change of force
+      in the measuring range that can be observed or recorded and quantified at any
+      applied force
+  examples: []
+  id: 00824-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6fc31af7-86de-53ed-9325-88798612e04e

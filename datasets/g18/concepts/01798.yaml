@@ -1,0 +1,44 @@
+data:
+  identifier: 01798
+  localized_concepts:
+    eng: 54f249bd-ccbf-5b05-befd-8d4f85800bf6
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.2.4.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: e9800be4-95b5-5be0-9c16-ec50d3d7cc85
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: zero-setting device that must be operated manually
+  examples: []
+  id: 01798-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.2.4.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nonautomatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 54f249bd-ccbf-5b05-befd-8d4f85800bf6

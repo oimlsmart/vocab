@@ -1,0 +1,45 @@
+data:
+  identifier: '01025'
+  localized_concepts:
+    eng: ed331502-67bd-562f-beca-13b41da0b5d2
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 842cd1f6-10dd-5344-99e0-c4310c75af66
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the conditions of the volume of the liquid at the point of measurement.
+      For example, temperature and pressure
+  examples: []
+  id: 01025-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metering conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ed331502-67bd-562f-beca-13b41da0b5d2

@@ -1,0 +1,44 @@
+data:
+  identifier: '00363'
+  localized_concepts:
+    eng: 2b4dbe85-fc32-5b69-b83f-133db49ee770
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: 027377d7-b680-5834-ba03-280c9403565e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: length by which the measure is designated
+  examples: []
+  id: 00363-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal length
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2b4dbe85-fc32-5b69-b83f-133db49ee770

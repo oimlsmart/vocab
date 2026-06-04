@@ -1,0 +1,47 @@
+data:
+  identifier: '00107'
+  localized_concepts:
+    eng: 4cd3c762-54d0-510a-9db4-d6b36ff0a4c8
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: fc02feb3-b2de-5299-9c0a-f9370a5c592c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: framework agreement that commits Participants to accepting and utilizing
+      Test Reports issued by other Participants under a particular DoMC, after having
+      established mutual confidence among them through assessment of competence, and
+      to assume any legal responsibility once such reports have been accepted
+  examples: []
+  id: 00107-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Mutual Acceptance Arrangement (MAA)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4cd3c762-54d0-510a-9db4-d6b36ff0a4c8

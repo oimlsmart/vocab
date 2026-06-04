@@ -1,0 +1,47 @@
+data:
+  identifier: '01207'
+  localized_concepts:
+    eng: e28ced34-8182-5640-b1aa-a2604de41732
+  sources:
+  - origin:
+      ref:
+        source: OIML R101:1991
+    locality:
+      type: clause
+      reference_from: T.5
+    type: authoritative
+  domains:
+  - concept_id: section-R101
+    ref_type: section
+status: valid
+id: 1a69885b-6f5b-50b4-9dce-54ce5ae13b57
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'a pressure which varies in any way whatever, periodic or otherwise,
+      at speeds between: 1 % and 10 % of the upper limit of the measuring range per
+      second, for pressure gauges and vacuum gauges, 1 % and 10 % of the sunl of the
+      upper limits of the measuring ranges per second, for pressure-vacuum gauges'
+  examples: []
+  id: 01207-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R101:1991
+      locality:
+        type: clause
+        reference_from: T.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variable pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e28ced34-8182-5640-b1aa-a2604de41732

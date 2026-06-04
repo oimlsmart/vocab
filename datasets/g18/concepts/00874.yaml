@@ -1,0 +1,53 @@
+data:
+  identifier: 00874
+  localized_concepts:
+    eng: 95260b53-e22d-529e-9f25-3459a39b16db
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 4a140ba1-bd40-5560-8064-7cd715b7110e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument that serves to determine the mass of a body by using
+      the action of gravity on this body. The instrument may also be used to determine
+      other quantities, magnitudes, parameters or characteristics related to the determined
+      mass. According to its method of operation, a weighing instrument is classified
+      as an automatic weighing instrument or a non- automatic weighing instrument
+  examples: []
+  id: 00874-eng
+  notes:
+  - content: in this Recommendation “mass” (or “weight value”) is preferably used
+      in the sense of “conventional mass” or “conventional value of the result of
+      weighing in air” according to R 111 and D 28, whereas “weight” is preferably
+      used for an embodiment (i.e. material measure) of mass that is regulated in
+      regard to its physical and metrological characteristics.
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 95260b53-e22d-529e-9f25-3459a39b16db

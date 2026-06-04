@@ -1,0 +1,47 @@
+data:
+  identifier: '01117'
+  localized_concepts:
+    eng: 911e9255-b21a-5a00-a6e4-2f467d8c632c
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: 18dacd26-2dc4-55f0-a1f2-befae0dfcc2b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity of product in a prepackage declared on the label by the (1)
+      The symbol ‘Qn’ is used to designate the packager
+  examples: []
+  id: 01117-eng
+  notes:
+  - content: nominal quantity. (2) The nominal quantity must be declared in accordance
+      with OIML R 79.
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 911e9255-b21a-5a00-a6e4-2f467d8c632c

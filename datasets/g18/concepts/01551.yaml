@@ -1,0 +1,45 @@
+data:
+  identifier: '01551'
+  localized_concepts:
+    eng: c5303602-f09b-510d-9dbc-34323867e0a3
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.d.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: e0cf88b6-cc47-5f41-b1b8-4e32f0f254aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: absolute value of the maximum permissible error for the minimum measured
+      quantity
+  examples: []
+  id: 01551-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.d.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum specified quantity deviation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c5303602-f09b-510d-9dbc-34323867e0a3

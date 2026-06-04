@@ -1,0 +1,44 @@
+data:
+  identifier: '00155'
+  localized_concepts:
+    eng: a5dd7c10-51fd-5094-9511-1e1a381c38d4
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 2a1eafa6-74e1-59c6-bb47-aeba9c37c5c4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the distinct adaptation of a technique for a selected measurement purpose
+  examples: []
+  id: 00155-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: method
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a5dd7c10-51fd-5094-9511-1e1a381c38d4

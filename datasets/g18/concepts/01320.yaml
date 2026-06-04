@@ -1,0 +1,45 @@
+data:
+  identifier: '01320'
+  localized_concepts:
+    eng: b630aece-14c3-540d-8384-db5213e50a14
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 49515255-2aca-514d-806c-318e1f31ea00
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[ value attributed to a particular quantity and accepted, by convention,
+      as having an uncertainty appropriate for a given purpose VIM: 1993, 1.20]'
+  examples: []
+  id: 01320-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true value (of a quantity)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b630aece-14c3-540d-8384-db5213e50a14

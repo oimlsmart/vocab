@@ -1,0 +1,45 @@
+data:
+  identifier: '01523'
+  localized_concepts:
+    eng: 2796c194-3cc0-541a-9139-d3921a5fff83
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: 28ce5692-d19f-5300-b042-3572f17356e5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that responds to light signals passing through the exit slit of
+      the polychromator or scanning monochromator of the ICP system
+  examples: []
+  id: 01523-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detector
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2796c194-3cc0-541a-9139-d3921a5fff83

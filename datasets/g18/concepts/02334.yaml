@@ -1,0 +1,45 @@
+data:
+  identifier: '02334'
+  localized_concepts:
+    eng: 2188a1b7-990d-50c3-b8cd-ade61af81c48
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 9a400b8f-2288-5ef1-bb37-fc5829572f6a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that removes water from the exhaust gas sample to a level that
+      prevents condensation within the gas handling system downstream from its location
+  examples: []
+  id: 02334-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: water separator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2188a1b7-990d-50c3-b8cd-ade61af81c48

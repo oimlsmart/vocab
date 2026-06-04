@@ -1,0 +1,47 @@
+data:
+  identifier: '01345'
+  localized_concepts:
+    eng: 149d24b2-9899-5c8f-8486-e4f5ed9be632
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.7.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 0f6307bc-0643-521d-a60f-cbea0f220265
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: electronic device of an instrument that further processes the data, and
+      supplies the weighing result in a digital format via a digital interface without
+      displaying it. It may optionally have one or more keys (or mouse, touch-screen,
+      etc.) to operate the instrument
+  examples: []
+  id: 01345-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.7.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital data processing device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 149d24b2-9899-5c8f-8486-e4f5ed9be632

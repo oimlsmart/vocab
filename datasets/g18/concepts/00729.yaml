@@ -1,0 +1,47 @@
+data:
+  identifier: 00729
+  localized_concepts:
+    eng: 9021d686-9f64-520f-a37b-bc7c12a0c064
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 1e836f5e-f73a-5487-a00d-c2c4117c6912
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the value of a dimensionless fraction expressed as a decimal (for example,
+      0.7) used in determining mpe (see 2.4.9). It represents that apportionment of
+      a whole error (as may apply to a weighing instrument) which has been assigned
+      to the load cell alone
+  examples: []
+  id: 00729-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: apportionment factor (pLC)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9021d686-9f64-520f-a37b-bc7c12a0c064

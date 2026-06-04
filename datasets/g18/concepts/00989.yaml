@@ -1,0 +1,46 @@
+data:
+  identifier: 00989
+  localized_concepts:
+    eng: 72648785-dbfb-5665-b0d6-d97afe25e24f
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.6.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 53d49471-ebd6-568d-aaf3-647eefeb414a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V conditions of use, giving the range of values of influence quantities
+      for which the metrological characteristics are intended tolie within the specified
+      maximum permissible errors IM: 1993, 5.5]'
+  examples: []
+  id: 00989-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.6.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 72648785-dbfb-5665-b0d6-d97afe25e24f

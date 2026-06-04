@@ -1,0 +1,47 @@
+data:
+  identifier: 02094
+  localized_concepts:
+    eng: 46d7b21f-2d2b-57a1-bacf-affd3d4df65e
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 52fe8995-081c-5683-9d73-5a519d37bab8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity outside the specified rated operating conditions of
+      the measuring system
+  examples: []
+  id: 02094-eng
+  notes:
+  - content: An influence quantity is a disturbance if for that influence quantity
+      the rated operating conditions are not specified.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 46d7b21f-2d2b-57a1-bacf-affd3d4df65e

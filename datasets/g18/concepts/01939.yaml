@@ -1,0 +1,45 @@
+data:
+  identifier: 01939
+  localized_concepts:
+    eng: 21f48a48-c54d-578c-a964-fb13157802d4
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 06a72c02-b1c0-5a64-b2e5-2b16e5c7a854
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: volume of gas corresponding to one full revolution of the moving part(s)
+      inside the meter (working cycle)
+  examples: []
+  id: 01939-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cyclic volume of a gas meter (positive displacement gas meters only)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 21f48a48-c54d-578c-a964-fb13157802d4

@@ -1,0 +1,50 @@
+data:
+  identifier: 00932
+  localized_concepts:
+    eng: bab64eb0-0f98-5fbc-8c86-d9ccc86fb62c
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.8.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: f7f81c4e-2073-564a-ba0f-3e4cd0b7c522
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'programs, data, type-specific and device-specific parameters that Examples:
+      Final results of the measurement, belong to the measuring instrument or module,
+      and define or i.e. fulfil functions which are subject to legal control (inc
+      iden load been'
+  examples: []
+  id: 00932-eng
+  notes:
+  - content: gross, net and tare / preset tare value luding the decimal sign and the
+      unit), tification of the weighing range and the receptor (if several load receptors
+      have used), software identification.
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.8.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant software
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bab64eb0-0f98-5fbc-8c86-d9ccc86fb62c

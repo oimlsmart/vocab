@@ -1,0 +1,44 @@
+data:
+  identifier: 00881
+  localized_concepts:
+    eng: 27e55281-b66e-56f2-8fcb-01fc967e0eae
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: c51d6c67-a884-5216-8fbc-867c61a9f5ee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument equipped with electronic devices
+  examples: []
+  id: 00881-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 27e55281-b66e-56f2-8fcb-01fc967e0eae

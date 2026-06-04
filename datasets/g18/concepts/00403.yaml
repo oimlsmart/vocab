@@ -1,0 +1,45 @@
+data:
+  identifier: '00403'
+  localized_concepts:
+    eng: b053d07c-2256-59e2-8f5c-d734e96c148b
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R048
+    ref_type: section
+status: valid
+id: 4ea6f81b-d4f3-5cf6-8a0d-dea40e6b7625
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relationship between the values of the radiance temperature of the tungsten
+      ribbon and the values of the current in its circuit
+  examples: []
+  id: 00403-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration temperature characteristic of the lamp
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b053d07c-2256-59e2-8f5c-d734e96c148b

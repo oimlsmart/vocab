@@ -1,0 +1,44 @@
+data:
+  identifier: 01213b
+  localized_concepts:
+    eng: 4dc08a32-b9f2-53c7-99bb-3584653cc077
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.7.3
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 53a22f83-c2ba-5bed-b399-39fbf129341c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a number of coupled wagons whose totalized weight is to be obtained
+  examples: []
+  id: 01213b-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.7.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total train
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4dc08a32-b9f2-53c7-99bb-3584653cc077

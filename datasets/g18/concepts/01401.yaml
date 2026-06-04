@@ -1,0 +1,45 @@
+data:
+  identifier: '01401'
+  localized_concepts:
+    eng: 82d2749f-c49a-51b7-b58a-0d45cb95e7a0
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: c3833ce7-4ee5-505b-a703-2b68419a6622
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use prescribed for the instrument including types ofmaterial,
+      site and method of operation
+  examples: []
+  id: 01401-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normal weighing conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 82d2749f-c49a-51b7-b58a-0d45cb95e7a0

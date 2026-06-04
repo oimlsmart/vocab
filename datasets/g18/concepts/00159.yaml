@@ -1,0 +1,47 @@
+data:
+  identifier: 00159
+  localized_concepts:
+    eng: 2a4e6890-8af4-57a6-b5fd-11aee39d4f53
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: b0254d1f-5f68-5efc-921b-1b776e56585b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the closeness of the agreement between the results of successive measurements
+      of the same quantity of a pollutant carried out by the same instrument and under
+      the same conditions of use within a relatively short period of time. Repeatability
+      is synonymous with the term "precision" for an instrument
+  examples: []
+  id: 00159-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2a4e6890-8af4-57a6-b5fd-11aee39d4f53

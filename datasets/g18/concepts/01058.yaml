@@ -1,0 +1,45 @@
+data:
+  identifier: 01058
+  localized_concepts:
+    eng: 4bda5536-4e53-5ea0-8458-2bebc55e676a
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: 5a014142-fbb3-5dc8-83f1-dd3a87463357
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: record of the detector output signal versus time that has peaks corresponding
+      to specific components of the sample
+  examples: []
+  id: 01058-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromatogram
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4bda5536-4e53-5ea0-8458-2bebc55e676a

@@ -1,0 +1,45 @@
+data:
+  identifier: '00262'
+  localized_concepts:
+    eng: e32328f2-f2d8-51b7-b386-9e593a42ed04
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-D015
+    ref_type: section
+status: valid
+id: df744cf9-edbf-5078-bbe5-5d348417b5ad
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the verification of a new measuring instrument which has not been verified
+      previously [VML 2.4.2].
+  examples: []
+  id: 00262-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e32328f2-f2d8-51b7-b386-9e593a42ed04

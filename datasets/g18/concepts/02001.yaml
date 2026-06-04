@@ -1,0 +1,44 @@
+data:
+  identifier: '02001'
+  localized_concepts:
+    eng: 05f2c297-451b-5018-af2a-9c6354b3498f
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.13
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 1148f28d-055c-5c12-912e-74d87ec2ad77
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: point at which the gas is defined as being delivered
+  examples: []
+  id: 02001-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.13
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transfer point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 05f2c297-451b-5018-af2a-9c6354b3498f

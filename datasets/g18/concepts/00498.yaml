@@ -1,0 +1,47 @@
+data:
+  identifier: 00498
+  localized_concepts:
+    eng: 447127be-3909-558b-b9c4-6d5f333e315b
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.6
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: f2eb0abc-4085-5c34-bf18-34f213aaa4ee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • a device that uses information supplied by the weighing unit and
+      the displacement transducer to do either: an addition of partial loads, or an
+      integration of the product of the load per unit length and the speed of the
+      belt'
+  examples: []
+  id: 00498-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: totalization device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 447127be-3909-558b-b9c4-6d5f333e315b

@@ -1,0 +1,44 @@
+data:
+  identifier: 01559
+  localized_concepts:
+    eng: 7a89d355-d6a1-583c-b218-c84825751b2f
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.e.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: a3cdd547-b564-5baf-9f66-ff429c5d6891
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indicated quantity value minus the reference (true) quantity value
+  examples: []
+  id: 01559-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.e.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7a89d355-d6a1-583c-b218-c84825751b2f

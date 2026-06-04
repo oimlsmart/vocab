@@ -1,0 +1,46 @@
+data:
+  identifier: '02355'
+  localized_concepts:
+    eng: e82037b6-5d8d-5b74-b404-8943f1223c9b
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.22'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 713880b2-a82c-51cf-83ec-6c71fba15d1d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: factor product of a combined standard measurement uncertainty and a larger
+      than the number one
+  examples: []
+  id: 02355-eng
+  notes:
+  - content: (VIM:2007, 2.35)
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: expanded (measurement) uncertainty
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e82037b6-5d8d-5b74-b404-8943f1223c9b

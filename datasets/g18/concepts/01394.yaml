@@ -1,0 +1,45 @@
+data:
+  identifier: 01394
+  localized_concepts:
+    eng: 92fa8cc0-edfe-5acd-86c5-27d27d097704
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.5.8
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 0f18de36-33a8-5182-8a00-85527899ec48
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V extreme values of an error permitted by specifications, regulations,
+      etc. for a given instrument IM: 1993, 5.21]'
+  examples: []
+  id: 01394-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.5.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error, mpe
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 92fa8cc0-edfe-5acd-86c5-27d27d097704

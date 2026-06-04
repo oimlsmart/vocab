@@ -1,0 +1,44 @@
+data:
+  identifier: '02142'
+  localized_concepts:
+    eng: bf53deff-92fb-5c68-9ff3-f9e5ef989be8
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 5f5ce56e-d00d-52c5-90ab-8eb631c2d7b8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of measurement divided by the reference value of the measurand
+  examples: []
+  id: 02142-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bf53deff-92fb-5c68-9ff3-f9e5ef989be8

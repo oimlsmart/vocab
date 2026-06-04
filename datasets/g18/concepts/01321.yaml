@@ -1,0 +1,46 @@
+data:
+  identifier: '01321'
+  localized_concepts:
+    eng: cfd51639-7c8f-5010-8892-5fe831e4a148
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.1.7
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: dec97c2d-d46f-5e44-9974-1ba477bd1699
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legal entity designated or formally accepted by the government tobe responsible
+      for ascertaining that the automatic weighing instrument satisfies all or some
+      specific requirements of this Recommendation
+  examples: []
+  id: 01321-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.1.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cfd51639-7c8f-5010-8892-5fe831e4a148

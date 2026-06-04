@@ -1,0 +1,44 @@
+data:
+  identifier: '01544'
+  localized_concepts:
+    eng: d1e08dea-cd70-5630-8234-ecd1f08d538d
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.c.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 196f0160-a75f-5ca0-8f14-2fa1398a3780
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: checking facility that requires the intervention of an operator
+  examples: []
+  id: 01544-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.c.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic checking facility (type N)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d1e08dea-cd70-5630-8234-ecd1f08d538d

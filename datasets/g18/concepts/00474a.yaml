@@ -1,0 +1,47 @@
+data:
+  identifier: 00474a
+  localized_concepts:
+    eng: cd8394c4-9852-5ff4-8315-055940797300
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 0b9a659a-bc9c-5dd2-bfd5-8c849a26464e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the water meter (such as a disc, piston, wheel, turbine element,
+      or electromagnetic coil) that senses the flow rate or volume of water passing
+      through the meter
+  examples: []
+  id: 00474a-eng
+  notes:
+  - content: The measurement transducer includes the flow sensor or volume sensor.
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flow sensor or volume sensor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cd8394c4-9852-5ff4-8315-055940797300

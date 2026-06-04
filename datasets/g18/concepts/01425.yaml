@@ -1,0 +1,45 @@
+data:
+  identifier: '01425'
+  localized_concepts:
+    eng: 1258edef-aea6-55c5-b05a-3f95f54d560b
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: eceddec5-b33d-5fa4-b0ee-95e0790ca637
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the smallest change in the measured pressure that produces a perceptible
+      change in the response of the pressure balance
+  examples: []
+  id: 01425-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discrimination threshold
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1258edef-aea6-55c5-b05a-3f95f54d560b

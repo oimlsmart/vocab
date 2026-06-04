@@ -1,0 +1,49 @@
+data:
+  identifier: '01317'
+  localized_concepts:
+    eng: e1f0fa09-acd9-5cbf-b6c2-4f539623e4e5
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 7e0ad83f-01a9-547c-82dd-530cce6cb603
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic weighing instrument that weighs a bulk product by dividing
+      it into discrete loads, determining the mass of each screte load in sequence,
+      summing the weighing results and delivering the discrete loads to bulk
+  examples: []
+  id: 01317-eng
+  notes:
+  - content: In this Recommendation a discontinuous totalizing automatic weighing
+      instrument is called an “instrument”.
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discontinuous totalizing automatic weighing instrument (totalizing
+      hopper weigher) di
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e1f0fa09-acd9-5cbf-b6c2-4f539623e4e5

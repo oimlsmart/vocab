@@ -1,0 +1,44 @@
+data:
+  identifier: '01250'
+  localized_concepts:
+    eng: d0c7ddd2-8be7-527e-87c7-9b63c23ddbed
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.31
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 547ac92d-068c-5fb6-900a-f5db53546bd4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a checking facility that requires intervention of an operator
+  examples: []
+  id: 01250-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.31
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic checking facility (type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d0c7ddd2-8be7-527e-87c7-9b63c23ddbed

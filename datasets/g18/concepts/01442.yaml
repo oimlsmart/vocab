@@ -1,0 +1,52 @@
+data:
+  identifier: '01442'
+  localized_concepts:
+    eng: 1b56cb19-2735-50bc-93d8-8256e5992930
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: f68de2e9-08f4-5963-af62-7360d1c1fa05
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'instrument indicating apparent mass that is sensitive to the following
+      forces: gravity air buoyancy equal to the weight of the displaced air. vertical
+      component of the magnetic interaction between the weight and the balance and/or
+      the environment H and M are vectors; z is the vertical cartesian coordinate.
+      If magnetic effects are negligible, i.e. the permanent magnetization (M) of
+      the weight and the magnetic susceptibility (c) are sufficiently small, and the
+      balance is calibrated with reference weights of well known mass, the balance
+      can be used to indicate the conventional mass, mc, of a body under conventionally
+      chosen conditions'
+  examples: []
+  id: 01442-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: balance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1b56cb19-2735-50bc-93d8-8256e5992930

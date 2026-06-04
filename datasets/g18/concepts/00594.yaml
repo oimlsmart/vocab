@@ -1,0 +1,50 @@
+data:
+  identifier: 00594
+  localized_concepts:
+    eng: fe434558-d2b9-5935-a291-9dc92b9edf23
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.8.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 10f25fd7-3457-5f92-8fbe-6c51b6bf19c7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (u legally relevant parameter with a value that depends on the individual
+      instrument. Such parameters comprise calibration parameters (e.g. span adjustments
+      or corrections) and configuration parameters (e.g. maximum capacity, minimum
+      capacity, units of measurement, etc.). They are adjustable or selectable only
+      in a special operational mode of the instrument. They may be classified as those
+      that should be secured nalterable) and those that may be accessed (settable
+      parameters) by an authorized person
+  examples: []
+  id: 00594-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.8.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fe434558-d2b9-5935-a291-9dc92b9edf23

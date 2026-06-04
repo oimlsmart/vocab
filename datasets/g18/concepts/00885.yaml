@@ -1,0 +1,44 @@
+data:
+  identifier: 00885
+  localized_concepts:
+    eng: 7047bd5e-2353-5f52-a469-3b78fe0a4f49
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.10
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 402fff06-cec2-5f66-bc2d-157b3efb28bb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that is intended to be operated by the customer
+  examples: []
+  id: 00885-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-service instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7047bd5e-2353-5f52-a469-3b78fe0a4f49

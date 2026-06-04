@@ -1,0 +1,48 @@
+data:
+  identifier: '01720'
+  localized_concepts:
+    eng: 181d675b-534d-5f33-9355-893a2f73bc69
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.21'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 483ceaa5-a18b-535c-ba4f-b6b6f0a002b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device employing electronic sub-assemblies and performing a specific
+      function. An electronic device is usually manufactured as a separate unit and
+      is capable of being independently tested
+  examples: []
+  id: 01720-eng
+  notes:
+  - content: An electronic device as defined above, may be a complete measuring instrument
+      or part of a measuring instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 181d675b-534d-5f33-9355-893a2f73bc69

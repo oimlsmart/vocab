@@ -1,0 +1,45 @@
+data:
+  identifier: 01797
+  localized_concepts:
+    eng: 356b1cdb-3e6c-50f8-ac33-94885834137f
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 03818215-c027-5922-ba83-d5966a3976af
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means used to set the weight indicating device to zero when the load
+      receptor is empty
+  examples: []
+  id: 01797-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 356b1cdb-3e6c-50f8-ac33-94885834137f

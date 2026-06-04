@@ -1,0 +1,45 @@
+data:
+  identifier: '01254'
+  localized_concepts:
+    eng: 6d5fe495-3837-54a9-ade2-73a1dcd78aab
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 11a86ac8-1d38-54b1-b973-afcbb4a2a570
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument that serves to determine the mass of a load byusing
+      the action of gravity
+  examples: []
+  id: 01254-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6d5fe495-3837-54a9-ade2-73a1dcd78aab

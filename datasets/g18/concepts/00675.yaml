@@ -1,0 +1,45 @@
+data:
+  identifier: '00675'
+  localized_concepts:
+    eng: 7f147ed1-d3b4-517e-afa2-060c005d7743
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 91d62390-97b2-59a9-916a-17a67fb0a3d0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: pressure greater than nominal pressure, but at which the limit of elastic
+      deformation of the elastic sensing element is not exceeded
+  examples: []
+  id: 00675-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overload pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7f147ed1-d3b4-517e-afa2-060c005d7743

@@ -1,0 +1,45 @@
+data:
+  identifier: 00973
+  localized_concepts:
+    eng: ef87e168-b5c5-59fa-8285-cb34f88772d6
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: b6a47390-8ab6-563b-a9b9-841aaaa4149d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reading of the weighing result by simple juxtaposition of consecutive
+      figures giving the weighing result, without the need ofcalculation
+  examples: []
+  id: 00973-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reading by simple juxtaposition
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ef87e168-b5c5-59fa-8285-cb34f88772d6

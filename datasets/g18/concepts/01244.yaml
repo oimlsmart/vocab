@@ -1,0 +1,44 @@
+data:
+  identifier: '01244'
+  localized_concepts:
+    eng: eae22373-c52a-52f5-9a42-4c288bdf14d0
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.27
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 7263b700-147f-5a40-b3bb-8e1d7c839240
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the capability of the measuring system to accomplish the intended functions
+  examples: []
+  id: 01244-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.27
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eae22373-c52a-52f5-9a42-4c288bdf14d0

@@ -1,0 +1,53 @@
+data:
+  identifier: '02354'
+  localized_concepts:
+    eng: b449c4ce-7cbb-5a0a-a52a-cfa06c89d773
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.21'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: f98a0790-83ca-54cf-acec-39828ed21d0a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fault which has a magnitude greater than the magnitude of the maximum
+      permissible error on initial verification
+  examples: []
+  id: 02354-eng
+  notes:
+  - content: '1 The following faults are considered to be not significant: a) Fault
+      arising from simultaneous and mutually independent causes in the instrument
+      itself or in its checking facilities; b) Faults implying the impossibility to
+      perform any measurement; c) Transitory faults being momentary variations in
+      the indication, which cannot be interpreted, recorded or transmitted as a measurement
+      result; and d) Faults giving rise to variations in the measurement results that
+      are so large as to be noticed by all those interested in the measurement result.
+      2 Adapted from OIML D 11:2004, 3.10.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b449c4ce-7cbb-5a0a-a52a-cfa06c89d773

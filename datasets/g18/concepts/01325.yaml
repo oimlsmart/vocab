@@ -1,0 +1,45 @@
+data:
+  identifier: '01325'
+  localized_concepts:
+    eng: 24739362-96ea-54bf-b30e-9ac98622cbf1
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: f1f1f722-e8fd-57f9-8e52-a71a2cec9268
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the instrument for transmitting the force produced by the load
+      acting on the load receptor to the load-measuring device
+  examples: []
+  id: 01325-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load-transmitting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 24739362-96ea-54bf-b30e-9ac98622cbf1

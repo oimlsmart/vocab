@@ -1,0 +1,45 @@
+data:
+  identifier: '01272'
+  localized_concepts:
+    eng: e3259596-d221-5aa4-9ca5-7fe623c771b3
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 9b5bf1e1-5a6f-523f-b2cf-62c2a55df986
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the means to print the weight values of wagons weighed on the instrument
+      and/or a summation of those wagon weights
+  examples: []
+  id: 01272-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: printing device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e3259596-d221-5aa4-9ca5-7fe623c771b3

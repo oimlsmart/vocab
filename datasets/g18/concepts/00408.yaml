@@ -1,0 +1,45 @@
+data:
+  identifier: 00408
+  localized_concepts:
+    eng: 83178d17-c313-516f-8f5c-8def0d4c49b1
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R048
+    ref_type: section
+status: valid
+id: 776abcc2-17c3-552d-b3c9-12a90fb4e3e8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: temperature at which the socket (and terminals) of the lamp shall be
+      thermostated
+  examples: []
+  id: 00408-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal base temperature
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 83178d17-c313-516f-8f5c-8def0d4c49b1

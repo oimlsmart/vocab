@@ -1,0 +1,45 @@
+data:
+  identifier: '00442'
+  localized_concepts:
+    eng: 0fb1f171-11c2-5366-9e42-bfe68a14eba4
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 2474d362-91a0-5fdb-9249-c582e71caed6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: lowest flowrate at which the water meter is required to operate within
+      the maximum permissible error
+  examples: []
+  id: 00442-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum flowrate, Q1
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0fb1f171-11c2-5366-9e42-bfe68a14eba4

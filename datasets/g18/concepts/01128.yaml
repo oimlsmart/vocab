@@ -1,0 +1,47 @@
+data:
+  identifier: 01128
+  localized_concepts:
+    eng: 12e38b83-ce81-53ea-8452-31fbb648c60d
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: 1199d490-05ca-53d4-a044-49ce33fd9472
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: movable rail or bar used as the reference axis for spectacles during
+      measurement, which is aligned perpendicularly to the optical axis of the focimeter
+      and parallel to the 0° – 180° axis direction
+  examples: []
+  id: 01128-eng
+  notes:
+  - content: Also called the lens table or frame rest.
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjusting rail
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 12e38b83-ce81-53ea-8452-31fbb648c60d

@@ -1,0 +1,45 @@
+data:
+  identifier: '01711'
+  localized_concepts:
+    eng: b18a585a-54a3-575f-802d-c41276d4dfb7
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 41e5854e-03c2-5de2-8176-afadfcc9d19f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the length (L), width (W) or height (H), measured by the instrument,
+      of the smallest rectangular box which fully encloses the object
+  examples: []
+  id: 01711-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measured dimensions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b18a585a-54a3-575f-802d-c41276d4dfb7

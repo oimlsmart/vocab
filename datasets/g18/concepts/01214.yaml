@@ -1,0 +1,45 @@
+data:
+  identifier: '01214'
+  localized_concepts:
+    eng: 51d76a77-a207-5d8e-bc91-b018db906ad8
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.4
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 4be96722-7e6a-5ef9-af96-2eea7e3693e7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a measuring system intended for filling the tanks of motor vehicles authorized
+      for road traffic, pleasure boats, and small aircraft with liquid fuel
+  examples: []
+  id: 01214-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: motor fuel dispenser
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 51d76a77-a207-5d8e-bc91-b018db906ad8

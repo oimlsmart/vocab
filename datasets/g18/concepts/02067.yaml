@@ -1,0 +1,46 @@
+data:
+  identifier: '02067'
+  localized_concepts:
+    eng: c77f6a12-f2e1-5183-896d-a914ed82240c
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: e16093e0-3c5c-5cc1-919b-6817bee7b38a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication (displayed, printed or memorized) which is subject to Indications
+      other than primary indications are legal metrological control com ind
+  examples: []
+  id: 02067-eng
+  notes:
+  - content: monly referred to as secondary ications.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c77f6a12-f2e1-5183-896d-a914ed82240c

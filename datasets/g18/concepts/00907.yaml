@@ -1,0 +1,47 @@
+data:
+  identifier: 00907
+  localized_concepts:
+    eng: 343ac615-d763-566f-bdce-b1534b15c95c
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 55ce4cd2-5021-57b1-8084-f3b7bc2fbd4b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: electronic device that only performs digital functions and provides a
+      digitized output or display
+  examples: []
+  id: 00907-eng
+  notes:
+  - content: 'Examples: Printer, primary or secondary display, keyboard, terminal,
+      data storage device, personal computer.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 343ac615-d763-566f-bdce-b1534b15c95c

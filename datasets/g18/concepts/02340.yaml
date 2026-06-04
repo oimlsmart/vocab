@@ -1,0 +1,49 @@
+data:
+  identifier: '02340'
+  localized_concepts:
+    eng: 9b0b3cfb-ec2f-5477-b9ea-5a920a9399e7
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 1ee95382-d3cb-5d21-a0cb-c66a36edfa8f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility allowing the user to initiate an adjustment of the instrument
+      without having the possibility of influencing its magnitude, whether or not
+      the adjustment is automatically required
+  examples: []
+  id: 02340-eng
+  notes:
+  - content: For those instruments that require the values of the volume fractions
+      of the reference gas to be entered manually, the facility is considered to be
+      semi-automatic.
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-automatic adjustment facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9b0b3cfb-ec2f-5477-b9ea-5a920a9399e7

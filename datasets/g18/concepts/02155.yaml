@@ -1,0 +1,50 @@
+data:
+  identifier: '02155'
+  localized_concepts:
+    eng: 2969b651-fbbb-53ec-8997-7d7a6c248d1a
+  sources:
+  - origin:
+      ref:
+        source: OIML D029:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D029
+    ref_type: section
+status: valid
+id: 60c17fd7-73b4-5728-bc30-9a6a396ee21b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-2 decision of legal relevance, based on the evaluation report
+      that For the purpose of this Document, the “type the type of a measuring instrument
+      complies with the relevant statutory requirements and is suitable for use in
+      the regulated area in such a way that it is expected to provide reliable measurement
+      results over a defined period of time'
+  examples: []
+  id: 02155-eng
+  notes:
+  - content: approval” is named “type evaluation”. Consequently “Type evaluation”
+      in the sense of this Document includes examination, tests and decision.
+  sources:
+  - origin:
+      ref:
+        source: OIML D029:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2969b651-fbbb-53ec-8997-7d7a6c248d1a

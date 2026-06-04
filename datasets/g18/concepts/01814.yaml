@@ -1,0 +1,46 @@
+data:
+  identifier: 01814
+  localized_concepts:
+    eng: 378936ad-b4e5-573f-a06a-2bf47e618f96
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: a1009ab1-b07f-53f3-9ede-79212e148d7a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: greatest velocity of a vehicle that the instrument is designed to weigh
+      in motion and above which the weighing results may be subject to an excessive
+      relative error
+  examples: []
+  id: 01814-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum operating speed (vmax)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 378936ad-b4e5-573f-a06a-2bf47e618f96

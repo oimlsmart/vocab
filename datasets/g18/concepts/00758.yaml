@@ -1,0 +1,46 @@
+data:
+  identifier: 00758
+  localized_concepts:
+    eng: 64b83c2f-2f23-59b5-b5c9-04394f19240a
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.8.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: d92b5eab-09de-526b-9c30-bb0c5b98694a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic gravimetric filling instrument comprising one or more weighing
+      units and which computes an appropriate combination ofthe loads and combines
+      them to a fill
+  examples: []
+  id: 00758-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.8.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: associative (selective combination) weigher
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 64b83c2f-2f23-59b5-b5c9-04394f19240a

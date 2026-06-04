@@ -1,0 +1,46 @@
+data:
+  identifier: 00698
+  localized_concepts:
+    eng: 09310227-be0e-5eb8-b243-ce054f3b8f1e
+  sources:
+  - origin:
+      ref:
+        source: OIML R056:1981
+    locality:
+      type: clause
+      reference_from: 1.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R056
+    ref_type: section
+status: valid
+id: 12a837af-19b6-56b6-89b3-39ec41920f82
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: standard solution of which the conductivity is determined by means of
+      the comparison method. The constant of the cell is determined by means of an
+      indirect method, using primary standard solutions
+  examples: []
+  id: 00698-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R056:1981
+      locality:
+        type: clause
+        reference_from: 1.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary standard solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 09310227-be0e-5eb8-b243-ce054f3b8f1e

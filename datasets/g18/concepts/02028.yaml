@@ -1,0 +1,45 @@
+data:
+  identifier: 02028
+  localized_concepts:
+    eng: 2dd62cdc-c938-55b9-8490-837a023d062f
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.4.7
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 028f18f2-b286-534b-b16c-f71e9866bf97
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the meter or the measuring system is
+      able to maintain its performance characteristics over a period of use
+  examples: []
+  id: 02028-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.4.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: endurance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2dd62cdc-c938-55b9-8490-837a023d062f

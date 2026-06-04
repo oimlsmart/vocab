@@ -1,0 +1,47 @@
+data:
+  identifier: 01875
+  localized_concepts:
+    eng: 7decfbcf-0c70-5670-8273-e38ac63f3452
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.36'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 7d4cbd93-b109-575d-b3c6-f7018a5e22aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme value of an error permitted by specifications, regulations, etc.
+      for a given measuring instrument
+  examples: []
+  id: 01875-eng
+  notes:
+  - content: '[VIM, 5.21]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.36'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (of a measuring instrument); limits of
+      permissible error (of a measuring instrument)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7decfbcf-0c70-5670-8273-e38ac63f3452

@@ -1,0 +1,45 @@
+data:
+  identifier: '01633'
+  localized_concepts:
+    eng: 56da51e7-7dd4-531d-825f-22f65f660c89
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.17
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: e1d476d5-88b9-5c87-b1bb-e7ed06b8168b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the quantity of liquid equivalent to a zero signal from the measurement
+      transducer
+  examples: []
+  id: 01633-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.17
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 56da51e7-7dd4-531d-825f-22f65f660c89

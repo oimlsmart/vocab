@@ -1,0 +1,45 @@
+data:
+  identifier: 00248
+  localized_concepts:
+    eng: 70751cfc-bc6c-5e78-9661-d96c8f91b8db
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.19'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 376fbd62-d020-5732-b428-ea2e880a03df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility that is incorporated in a measuring instrument and which enables
+      significant durability errors to be detected and acted upon
+  examples: []
+  id: 00248-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability protection facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 70751cfc-bc6c-5e78-9661-d96c8f91b8db

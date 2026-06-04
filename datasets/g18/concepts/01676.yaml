@@ -1,0 +1,46 @@
+data:
+  identifier: '01676'
+  localized_concepts:
+    eng: 2d82b7bb-4c10-5924-b3a1-3a791e118cf3
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: a306a985-6bc0-5cf3-91fa-1aab82b3d345
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: specially prepared film that undergoes a change in optical absorbance
+      when exposed to ionizing radiation. This change in absorbance may be related
+      to absorbed dose in the surrounding material that is usually referenced as water
+  examples: []
+  id: 01676-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiochromic film dosimeter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2d82b7bb-4c10-5924-b3a1-3a791e118cf3

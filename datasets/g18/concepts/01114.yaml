@@ -1,0 +1,45 @@
+data:
+  identifier: '01114'
+  localized_concepts:
+    eng: dbdc5312-0f0f-52de-8037-78e076823ea1
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: 6dac79e6-529f-53ae-bbb4-11355312a6ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the actual quantity of product in a prepackage and
+      its nominal quantity
+  examples: []
+  id: 01114-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: individual prepackage error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dbdc5312-0f0f-52de-8037-78e076823ea1

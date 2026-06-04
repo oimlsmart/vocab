@@ -1,0 +1,44 @@
+data:
+  identifier: '01125'
+  localized_concepts:
+    eng: f5d099fc-2984-5408-8d70-3a2b8cc17516
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: 933ad2c6-105a-583f-a8af-19c7a7140958
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: focimeter with a continuous scale
+  examples: []
+  id: 01125-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analogue focimeter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f5d099fc-2984-5408-8d70-3a2b8cc17516

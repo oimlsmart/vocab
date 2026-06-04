@@ -1,0 +1,49 @@
+data:
+  identifier: 02308
+  localized_concepts:
+    eng: 9b5e2bb0-2c1e-5828-83fb-292faeb34cf2
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: ca6d465a-b4e2-526e-b4c3-b0f3430674f7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- - - facility incorporated in an electronic automatic level gauge that
+      “Acted upon” refers to any adequate response enables: by significant faults;
+      and/or pr incorrect functioning of a specific device of the ALG; and/or disturbed
+      communication between specific devices of the ALG tobe detected and acted upon'
+  examples: []
+  id: 02308-eng
+  notes:
+  - content: the ALG (luminous signal, acoustic signal, evention of the measurement
+      process, etc.).
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9b5e2bb0-2c1e-5828-83fb-292faeb34cf2

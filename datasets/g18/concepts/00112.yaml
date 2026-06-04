@@ -1,0 +1,45 @@
+data:
+  identifier: '00112'
+  localized_concepts:
+    eng: a3c2e479-95cb-5baa-8b51-047ce43aaa54
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.21'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: d9b02fa4-6d7a-518d-a733-9fae0f566767
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ( procedure by which an authoritative body gives formal recognition that
+      a body or person is competent to carry out specific tasks ISO/IEC Guide 2, 12.11)
+  examples: []
+  id: 00112-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accreditation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a3c2e479-95cb-5baa-8b51-047ce43aaa54

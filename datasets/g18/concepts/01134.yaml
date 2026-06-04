@@ -1,0 +1,46 @@
+data:
+  identifier: '01134'
+  localized_concepts:
+    eng: d450e658-f1c3-53c6-8d1c-68d5af8b1bbe
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: e6aaf38d-2ffd-5cf6-ab77-4e10c15dcdff
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: lens bringing a paraxial pencil of parallel rays to a single focus This
+      definition could also apply to single point
+  examples: []
+  id: 01134-eng
+  notes:
+  - content: vision aspheric lenses.
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spherical power lens
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d450e658-f1c3-53c6-8d1c-68d5af8b1bbe

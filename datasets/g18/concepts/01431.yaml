@@ -1,0 +1,46 @@
+data:
+  identifier: '01431'
+  localized_concepts:
+    eng: 3a47ec37-ff9c-5529-81b2-c447c88b7862
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 2b8dc967-318c-5727-9cfc-0eff02534c1c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a parameter associated with the result of a pressure measurement, that
+      characterizes the dispersion of the values that could reasonably be attributed
+      to the measured pressure
+  examples: []
+  id: 01431-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty of the pressure measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3a47ec37-ff9c-5529-81b2-c447c88b7862

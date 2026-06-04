@@ -1,0 +1,45 @@
+data:
+  identifier: 00629
+  localized_concepts:
+    eng: 82bb40ac-f34c-5253-bc94-e1c23f94c90f
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: cdfbcd73-9dc1-5e41-9865-e21f63d20243
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of the weight value of a load placed on an instrument after
+      operation of a tare device
+  examples: []
+  id: 00629-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: net value, NET or N
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 82bb40ac-f34c-5253-bc94-e1c23f94c90f

@@ -1,0 +1,49 @@
+data:
+  identifier: '00263'
+  localized_concepts:
+    eng: 2474a8cc-41b4-5ddb-9118-c54fd0c9e6b9
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-D015
+    ref_type: section
+status: valid
+id: 3f7bb592-4419-5590-8fc0-88c83c60b474
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'any verification of a measuring instrument which follows the initial
+      verification: mandatory periodic verification, verification after repair, or
+      verification made before the expiry of the period of validity of the periodical
+      verification made either : at the request of the user, or because for some reason
+      the stamp is no longer valid for the remainder of this period of validity [VML
+      2.4.3]'
+  examples: []
+  id: 00263-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: subsequent verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2474a8cc-41b4-5ddb-9118-c54fd0c9e6b9

@@ -1,0 +1,46 @@
+data:
+  identifier: '01217'
+  localized_concepts:
+    eng: 116d7534-9281-55b4-b853-8edfae44882c
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.7
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: d2c2fca3-7324-5998-b03b-2e16607900d6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the means used to select a quantity to be delivered and which automatically
+      stops the flow of the liquid after the measurement and delivery of the selected
+      quantity
+  examples: []
+  id: 01217-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: presetting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 116d7534-9281-55b4-b853-8edfae44882c

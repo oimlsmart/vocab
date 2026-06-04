@@ -1,0 +1,46 @@
+data:
+  identifier: 00819
+  localized_concepts:
+    eng: fa42f414-e59e-5619-b0ea-1ba8b65dfd34
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R065
+    ref_type: section
+status: valid
+id: 12380f66-4c46-551e-b667-936ff1d98767
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: material testing machine that is specifically designed to be moved from
+      place to place without major disassembly and adjustments to its performance
+      characteristics
+  examples: []
+  id: 00819-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: portable material testing machine
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fa42f414-e59e-5619-b0ea-1ba8b65dfd34

@@ -1,0 +1,45 @@
+data:
+  identifier: '00606'
+  localized_concepts:
+    eng: 70f37b5b-3dd2-538f-9cee-1ca96920018d
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 4a85ab4f-ba30-51ce-aa41-a5dfd3b6c1f1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range of weight values close to a set point outside which the weighing
+      results may be subject to excessive relative error
+  examples: []
+  id: 00606-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustment range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 70f37b5b-3dd2-538f-9cee-1ca96920018d

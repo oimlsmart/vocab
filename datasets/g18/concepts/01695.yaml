@@ -1,0 +1,46 @@
+data:
+  identifier: 01695
+  localized_concepts:
+    eng: 4ed3b24b-1e7c-5ad5-a1b0-c78e832a6b8f
+  sources:
+  - origin:
+      ref:
+        source: OIML R128:2000
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R128
+    ref_type: section
+status: valid
+id: 6bb1679f-6775-5e73-94bf-e5899f7652a5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the basic saddle position S is defined by the vertical distance CS from
+      the center C of the foot crank bearing to the surface of the saddle and by the
+      angle α (see Fig. 1)
+  examples: []
+  id: 01695-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R128:2000
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: basic saddle position S
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4ed3b24b-1e7c-5ad5-a1b0-c78e832a6b8f

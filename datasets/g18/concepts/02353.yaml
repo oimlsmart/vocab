@@ -1,0 +1,46 @@
+data:
+  identifier: '02353'
+  localized_concepts:
+    eng: 61ec355a-b9d8-5af1-b560-50c16af72dbf
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.20'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 523a2291-b04c-59c7-830d-ee960c10d245
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the error of indication and the intrinsic error ofthe
+      instrument
+  examples: []
+  id: 02353-eng
+  notes:
+  - content: (OIML D 11:2004, 3.9)
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 61ec355a-b9d8-5af1-b560-50c16af72dbf

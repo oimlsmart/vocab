@@ -1,0 +1,47 @@
+data:
+  identifier: 01588
+  localized_concepts:
+    eng: f3093495-b1a9-5e60-b5ce-a2d75632f0c7
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.p.4
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: a926aea0-69e6-5cd1-995e-3fe509489316
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring system which in principle is installed on a fixed pipeline
+      connecting two or more fixed tanks. Such a pipeline is characterized by a flowrate
+      of the liquid to be measured which, in general, either does not change or changes
+      little during a prolonged period
+  examples: []
+  id: 01588-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.p.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pipeline measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f3093495-b1a9-5e60-b5ce-a2d75632f0c7

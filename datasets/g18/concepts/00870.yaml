@@ -1,0 +1,44 @@
+data:
+  identifier: 00870
+  localized_concepts:
+    eng: 982747a0-b6cb-5c43-9ec9-31e7b17a893a
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '4.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 53b3ebec-00f0-5b8a-9bd9-4c00474b30a9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device employing electronic components and performing a specific function
+  examples: []
+  id: 00870-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '4.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 982747a0-b6cb-5c43-9ec9-31e7b17a893a

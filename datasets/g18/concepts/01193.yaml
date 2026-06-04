@@ -1,0 +1,44 @@
+data:
+  identifier: 01193
+  localized_concepts:
+    eng: 308522a7-9d49-5f3f-8408-5b5ed49a2465
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R100
+    ref_type: section
+status: valid
+id: 38805e84-6625-5724-a29d-35a588ccec74
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device for converting the analyte into an atomic vapor
+  examples: []
+  id: 01193-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: atomizer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 308522a7-9d49-5f3f-8408-5b5ed49a2465

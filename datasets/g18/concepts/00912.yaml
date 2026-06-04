@@ -1,0 +1,45 @@
+data:
+  identifier: 00912
+  localized_concepts:
+    eng: 19bc1692-0708-5ecc-a8be-f01e88dc528a
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: ed8f9072-a5a4-50d3-8c91-ba2bee097597
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: line or other mark on a displaying component corresponding to a specified
+      value of mass
+  examples: []
+  id: 00912-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale mark
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 19bc1692-0708-5ecc-a8be-f01e88dc528a

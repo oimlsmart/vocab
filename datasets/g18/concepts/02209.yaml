@@ -1,0 +1,46 @@
+data:
+  identifier: 02209
+  localized_concepts:
+    eng: 993dd66f-add4-52c6-90ea-d99080740af1
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.42
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: a609959f-62f7-5b59-b1d5-341baebc0c85
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sequence of readable characters (e.g. version number, checksum) that
+      is inextricably linked to the software or software module under consideration.
+      It can be checked on an instrument whilst in use
+  examples: []
+  id: 02209-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.42
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software identification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 993dd66f-add4-52c6-90ea-d99080740af1

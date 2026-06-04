@@ -1,0 +1,47 @@
+data:
+  identifier: '00126'
+  localized_concepts:
+    eng: 3481267d-f790-558f-b51b-a1fda6bc5e90
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: 17557d6b-1181-5166-a43e-8f035eee3ca9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the sequence of all the steps taken in the course of the evaluation and
+      approval or rejection of a pattern, starting with the submission of the request
+      for pattern approval and culminating in a certificate or notice of pattern approval
+      or rejection
+  examples: []
+  id: 00126-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pattern approval process
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3481267d-f790-558f-b51b-a1fda6bc5e90

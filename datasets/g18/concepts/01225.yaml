@@ -1,0 +1,47 @@
+data:
+  identifier: '01225'
+  localized_concepts:
+    eng: cd1f8f99-fefc-515f-b715-41c53f32372c
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.13.2
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 8c116142-a6cf-5b55-b42a-333deba0eb08
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that receives the output quantity from the transducer(s), checks
+      and transforms it and, if appropriate, memorizes the results until they are
+      used. In addition, the calculator may be capable of communicating both ways
+      with peripheral equipment
+  examples: []
+  id: 01225-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.13.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cd1f8f99-fefc-515f-b715-41c53f32372c

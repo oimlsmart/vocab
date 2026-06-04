@@ -1,0 +1,55 @@
+data:
+  identifier: 02089
+  localized_concepts:
+    eng: a578344f-0be9-59ae-8ba6-9bb5efffd34d
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.20
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 45249fbb-e3f6-5388-9284-60ccdbdd5881
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'weighted combination of errors of a meter or a metering module. When
+      the specified measuring range of a The WME is used to adjust the error curve
+      as close as possible meter to zero known The WME is calculated as follows: small
+      measu recom adjus range accor where: - n greater than or equal to 6 being the
+      number of measurements i performed at different flowrates Qi; - ki being the
+      weighting factors; - Ei being the error at the flowrate Qi. For each flowrate,
+      ki = Qi/Qmax, except for Qi = Qmax for which the weighting factor is equal to
+      0.4.'
+  examples: []
+  id: 02089-eng
+  notes:
+  - content: ing module including only one meter is beforehand and when this range
+      is er than the maximum specified ring range of the meter, it is mended to determine
+      the WME and t the meter over the actual operating only and update the markings
+      dingly.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.20
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighted mean error (WME)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a578344f-0be9-59ae-8ba6-9bb5efffd34d

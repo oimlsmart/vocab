@@ -1,0 +1,45 @@
+data:
+  identifier: '01555'
+  localized_concepts:
+    eng: 59dae0a8-027b-5019-b50d-c0da7c22f45e
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.d.4
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 2c53e79e-d18e-5b4f-aec0-8d8d1053ba00
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: capability of the electronic devices of a measuring system to keep their
+      performance characteristics over a period of use
+  examples: []
+  id: 01555-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.d.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability for electronic devices
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 59dae0a8-027b-5019-b50d-c0da7c22f45e

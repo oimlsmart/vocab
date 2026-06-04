@@ -1,0 +1,45 @@
+data:
+  identifier: '01537'
+  localized_concepts:
+    eng: 5027bac7-16a2-5f18-ac3a-b7a035c19760
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.11
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 4a51f78f-9f3e-5e8e-92da-497fe1e58a75
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: person that is allowed to perform specified activities on legally controlled
+      measuring systems or components, under applicable national laws
+  examples: []
+  id: 01537-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: authorized person
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5027bac7-16a2-5f18-ac3a-b7a035c19760

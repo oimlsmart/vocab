@@ -1,0 +1,46 @@
+data:
+  identifier: '00402'
+  localized_concepts:
+    eng: 965d3591-75cc-500b-9449-d4f03e7858bc
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R048
+    ref_type: section
+status: valid
+id: 9ec65b8c-bfc5-5511-9074-ec8101c645ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: minimum time period ranging from the moment of switching on a lamp to
+      the moment at which thermal equilibrium is reached, expressed in temperature
+      stability of the tungsten ribbon of a lamp
+  examples: []
+  id: 00402-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: time necessary to reach thermal equilibrium
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 965d3591-75cc-500b-9449-d4f03e7858bc

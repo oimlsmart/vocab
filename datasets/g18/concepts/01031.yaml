@@ -1,0 +1,48 @@
+data:
+  identifier: '01031'
+  localized_concepts:
+    eng: e025a8db-ef21-50d5-acc7-ae052a41497a
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.22'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: e67277a5-91d8-539b-85ba-ed14b524633e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an estimate characterizing the range of values within which the true
+      value of an error lies, including components due to the standard and its use,
+      and components due to the verified or calibrated instrument itself
+  examples: []
+  id: 01031-eng
+  notes:
+  - content: the components due to a meter verified or calibrated are notably linked
+      to the resolution of its indicating device and to the periodic variation.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty in the determination of an error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e025a8db-ef21-50d5-acc7-ae052a41497a

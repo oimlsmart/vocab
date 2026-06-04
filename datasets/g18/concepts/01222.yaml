@@ -1,0 +1,44 @@
+data:
+  identifier: '01222'
+  localized_concepts:
+    eng: ca35fced-baf5-5917-9700-0f1861372c2d
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.12
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 25d10505-b008-5394-ae75-5a8c61ed45ff
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a measuring system equipped with electronic devices
+  examples: []
+  id: 01222-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ca35fced-baf5-5917-9700-0f1861372c2d

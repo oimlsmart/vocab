@@ -1,0 +1,46 @@
+data:
+  identifier: '02371'
+  localized_concepts:
+    eng: adf641de-a2ce-5902-b512-7cb636b54d22
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.36'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 7479eaa1-0fdb-5ce5-a38c-63d56bc3711b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: type of instrument that is designed for hand-held transportation with
+      its standard accessories by one person, and that rests on a suitable surface
+      during use
+  examples: []
+  id: 02371-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.36'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hand-held instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: adf641de-a2ce-5902-b512-7cb636b54d22

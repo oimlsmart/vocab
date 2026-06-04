@@ -1,0 +1,47 @@
+data:
+  identifier: 02196
+  localized_concepts:
+    eng: 689d30f0-b7ef-5d52-887c-79aca174b754
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.29
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 2f8a6fb6-0baf-5bae-9ce1-944d9f2cd4e2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: software/hardware/data or part of the software/hardware/data of a measuring
+      instrument which interferes with properties regulated by legal metrology, e.g.
+      the accuracy of the measurement or the correct functioning of the measuring
+      instrument
+  examples: []
+  id: 02196-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.29
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevent
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 689d30f0-b7ef-5d52-887c-79aca174b754

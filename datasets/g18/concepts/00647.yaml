@@ -1,0 +1,46 @@
+data:
+  identifier: '00647'
+  localized_concepts:
+    eng: 2160790a-219e-5f39-8228-b3bf3c46c418
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: a619309f-a335-5ec0-a243-3a6933038d77
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'k For a given value of the measured mass, the quotient of the change
+      of the observed variable, l, and the corresponding change ofthe measured mass,
+      M: = l / M'
+  examples: []
+  id: 00647-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2160790a-219e-5f39-8228-b3bf3c46c418

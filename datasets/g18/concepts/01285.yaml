@@ -1,0 +1,44 @@
+data:
+  identifier: 01285
+  localized_concepts:
+    eng: f58f0150-0189-5de7-bb4d-389b54c323fc
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 8d0b3428-57bc-546a-b6d3-75ceaf715b2c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the scale interval used for static tests
+  examples: []
+  id: 01285-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval for stationary load
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f58f0150-0189-5de7-bb4d-389b54c323fc

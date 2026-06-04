@@ -1,0 +1,45 @@
+data:
+  identifier: 00368
+  localized_concepts:
+    eng: e94b06fc-d0e5-5902-bd2a-31ba5cca41ee
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: 0f88c013-bb7a-5c65-aaea-c699fe4a1a90
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: length measure which has the principal scale marks formed by two lines,
+      holes or marks
+  examples: []
+  id: 00368-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: line measure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e94b06fc-d0e5-5902-bd2a-31ba5cca41ee

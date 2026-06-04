@@ -1,0 +1,45 @@
+data:
+  identifier: '02333'
+  localized_concepts:
+    eng: 7d00d550-693d-5e34-af71-de0f2651c972
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 81f71b70-ccdb-5421-9724-6540ff2160d9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tube that is introduced into the exhaust tail pipe of a vehicle to take
+      gas samples
+  examples: []
+  id: 02333-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sampling probe
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7d00d550-693d-5e34-af71-de0f2651c972

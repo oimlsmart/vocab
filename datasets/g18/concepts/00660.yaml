@@ -1,0 +1,45 @@
+data:
+  identifier: '00660'
+  localized_concepts:
+    eng: 515a2f92-ee60-5ec4-ab96-3409f1afc2bf
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.3.7
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: d2eaaf4e-5e6f-5cc0-a15a-93043e7e6e96
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V extreme value of an error permitted by specifications, regulations,
+      etc. for a given instrument IM:1993, 5.21 ]'
+  examples: []
+  id: 00660-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.3.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error, MPE
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 515a2f92-ee60-5ec4-ab96-3409f1afc2bf

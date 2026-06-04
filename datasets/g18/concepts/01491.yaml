@@ -1,0 +1,45 @@
+data:
+  identifier: 01491
+  localized_concepts:
+    eng: cfb67195-0f38-53e3-83ce-028c9109fb69
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 8dfa1ed3-4727-5742-9483-8ecf926d7905
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the liquid or solid immobile material on a solid support that causes
+      separation of sample components through varying rates of adsorption and elution
+  examples: []
+  id: 01491-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stationary phase
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cfb67195-0f38-53e3-83ce-028c9109fb69

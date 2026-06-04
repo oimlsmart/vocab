@@ -1,0 +1,46 @@
+data:
+  identifier: '00711'
+  localized_concepts:
+    eng: ef8b6960-e676-5478-bf4e-e0affdba9dbb
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.2.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 910471c4-8d4e-588f-b4de-66e8cdc59952
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: all load cells within a family possessing identical metrological characteristics
+      (for example, class, nmax, temperature rating, etc.) l
+  examples: []
+  id: 00711-eng
+  notes:
+  - content: The examples provided are not intended to be imiting.
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.2.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load cell group
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ef8b6960-e676-5478-bf4e-e0affdba9dbb

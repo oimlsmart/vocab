@@ -1,0 +1,45 @@
+data:
+  identifier: '00531'
+  localized_concepts:
+    eng: 6485a199-2df3-5753-856e-dbb21ea9d594
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.6.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 001ed47c-1219-5c47-991c-27a01620623f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value within the specified rated operating
+      conditions of the belt weigher
+  examples: []
+  id: 00531-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.6.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6485a199-2df3-5753-856e-dbb21ea9d594

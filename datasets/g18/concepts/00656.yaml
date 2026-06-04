@@ -1,0 +1,45 @@
+data:
+  identifier: '00656'
+  localized_concepts:
+    eng: 5ffc45bb-76a9-5ac4-8400-3acbc63dd3d9
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: e9d13215-8cbe-5279-934c-0c1ba29e2555
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V error of an instrument, determined under reference conditions IM:1993
+      5.24]'
+  examples: []
+  id: 00656-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5ffc45bb-76a9-5ac4-8400-3acbc63dd3d9

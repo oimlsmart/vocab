@@ -1,0 +1,45 @@
+data:
+  identifier: '02214'
+  localized_concepts:
+    eng: c3cf585a-8075-5ef9-b935-086a7b51920c
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.47
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 7c06a573-90b1-5425-9f40-59a94582fa94
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: computer program written in a form (programming language) that is legible
+      and editable. Source code is compiled or interpreted into executable code
+  examples: []
+  id: 02214-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.47
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: source code
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c3cf585a-8075-5ef9-b935-086a7b51920c

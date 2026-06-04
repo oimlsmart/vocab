@@ -1,0 +1,45 @@
+data:
+  identifier: 01688
+  localized_concepts:
+    eng: 52d4330e-7247-5531-aa6c-ad0af51361df
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: 10106336-2768-554e-a92b-3f8e028f62bf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme values of an error permitted by specifications, regulations,
+      etc. for a given measuring instrument
+  examples: []
+  id: 01688-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible errors
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 52d4330e-7247-5531-aa6c-ad0af51361df

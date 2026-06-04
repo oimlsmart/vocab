@@ -1,0 +1,46 @@
+data:
+  identifier: '02161'
+  localized_concepts:
+    eng: 5fb0df8a-18b3-5aed-8c74-62e3fe1f57f8
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D030
+    ref_type: section
+status: valid
+id: 5fcdc920-1dd3-54aa-93b1-556723c409b4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-1 fulfilment by a measuring instrument type of metrological and
+      technical requirements as specified in the relevant Recommendation'
+  examples: []
+  id: 02161-eng
+  notes:
+  - content: (OIML B 3)
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5fb0df8a-18b3-5aed-8c74-62e3fe1f57f8

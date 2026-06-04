@@ -1,0 +1,44 @@
+data:
+  identifier: '02044'
+  localized_concepts:
+    eng: 61a6fd46-3c51-5452-b8e5-f392c06f0b0b
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 1463edf5-f09e-513d-aa8b-ea7f48763db1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of a measuring instrument that displays the measurement results
+  examples: []
+  id: 02044-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 61a6fd46-3c51-5452-b8e5-f392c06f0b0b

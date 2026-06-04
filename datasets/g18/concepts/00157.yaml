@@ -1,0 +1,44 @@
+data:
+  identifier: '00157'
+  localized_concepts:
+    eng: 79f39ae9-641e-51d9-b8bf-c57c5d2234a1
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 476c7dd6-b375-5643-8a48-24c5b1506518
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the set of written directions necessary to use a method effectively
+  examples: []
+  id: 00157-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procedure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 79f39ae9-641e-51d9-b8bf-c57c5d2234a1

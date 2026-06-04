@@ -1,0 +1,45 @@
+data:
+  identifier: '01063'
+  localized_concepts:
+    eng: b02fe601-1bb8-5e80-9d7b-63eeaaf452fe
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R083
+    ref_type: section
+status: valid
+id: 09ddda77-fa77-5284-bfa1-242f86514b99
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: phase in the column composed of active immobile materials, either liquid
+      or solid, that selectively absorbs or adsorbs sample components
+  examples: []
+  id: 01063-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stationary phase
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b02fe601-1bb8-5e80-9d7b-63eeaaf452fe

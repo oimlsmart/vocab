@@ -1,0 +1,44 @@
+data:
+  identifier: 02338
+  localized_concepts:
+    eng: a72c411c-2fbc-5af4-96ac-87313c95c4c2
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 0f246408-0949-5394-a17c-c309f0148394
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: adjustment employing only the means at the disposal of the user
+  examples: []
+  id: 02338-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user adjustment (of a measuring instrument)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a72c411c-2fbc-5af4-96ac-87313c95c4c2

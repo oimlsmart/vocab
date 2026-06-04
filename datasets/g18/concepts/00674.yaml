@@ -1,0 +1,44 @@
+data:
+  identifier: '00674'
+  localized_concepts:
+    eng: ed1453a5-9564-5998-8185-69d6900290a1
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 55da3028-04e8-5e9f-b27f-75373837c232
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum pressure specified for the given elastic sensing element
+  examples: []
+  id: 00674-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ed1453a5-9564-5998-8185-69d6900290a1

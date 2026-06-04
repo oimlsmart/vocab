@@ -1,0 +1,47 @@
+data:
+  identifier: '00115'
+  localized_concepts:
+    eng: f893ae9a-151e-5830-b999-f23533a7236a
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.24'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: c26e870d-85e5-56bd-8558-136635838a2f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a manufacturer and/or an authorized representative who submits an application
+      for type evaluation of a measuring instrument to an Issuing Authority participating
+      in a DoMC in order to receive Test Report and OIML Certificate for that instrument
+      type
+  examples: []
+  id: 00115-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.24'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Customer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f893ae9a-151e-5830-b999-f23533a7236a

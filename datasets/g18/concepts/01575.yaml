@@ -1,0 +1,45 @@
+data:
+  identifier: '01575'
+  localized_concepts:
+    eng: 1b4cc93b-1dea-51e4-aefe-8a151bf0bcd4
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.g.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: e4a09df3-9b65-57ad-b85c-648d9e723cc7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that allows easy detection of any air or gas bubbles that maybe
+      present in the liquid flow
+  examples: []
+  id: 01575-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.g.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas indicator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1b4cc93b-1dea-51e4-aefe-8a151bf0bcd4

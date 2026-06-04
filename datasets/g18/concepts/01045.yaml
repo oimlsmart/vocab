@@ -1,0 +1,48 @@
+data:
+  identifier: '01045'
+  localized_concepts:
+    eng: ca305b6d-83de-598e-aaec-988da45ef4fe
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: b21b56de-8301-52ae-ba2a-08fc638ae75d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gas introduced in order to transport a sample for analytical purposes.
+      In gas chromatography it is the gas which is passed continuously through the
+      column and whose passage promotes the elution of the components of the sample.
+      The carrier gas, together with the portions of the sample present in this phase,
+      constitute the mobile phase
+  examples: []
+  id: 01045-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carrier gas
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ca305b6d-83de-598e-aaec-988da45ef4fe

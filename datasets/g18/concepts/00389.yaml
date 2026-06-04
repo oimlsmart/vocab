@@ -1,0 +1,47 @@
+data:
+  identifier: 00389
+  localized_concepts:
+    eng: e4d1e55d-e143-5522-bdf0-300a2423acd9
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: db7c042e-d586-5862-a779-a36afa7cae3f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: closeness of the agreement between the results of successive measurements
+      on a uniform test sample when there is a relatively short time interval between
+      measurements carried out by the same observer using the same test procedures
+      at the same location under similar ambient conditions
+  examples: []
+  id: 00389-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e4d1e55d-e143-5522-bdf0-300a2423acd9

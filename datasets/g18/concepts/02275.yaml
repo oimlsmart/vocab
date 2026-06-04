@@ -1,0 +1,45 @@
+data:
+  identifier: '02275'
+  localized_concepts:
+    eng: 04ded4ed-26b0-51f9-ba32-cfb69659315a
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.36'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 3e7b1301-987a-5511-ae8c-5259bafdf86f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: loading of a measuring compartment from the top through the fill hole
+      cover opened for this purpose
+  examples: []
+  id: 02275-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.36'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: top loading
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 04ded4ed-26b0-51f9-ba32-cfb69659315a

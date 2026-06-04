@@ -1,0 +1,45 @@
+data:
+  identifier: 01691
+  localized_concepts:
+    eng: 5d8562f4-2cb1-506b-9d3e-47ba5c0efef3
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: cbb5003b-92cb-5135-a234-e6487ebe46cc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the producer of the radiochromic film dosimeter to be evaluated, unless
+      the term is otherwise specified
+  examples: []
+  id: 01691-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: manufacturer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5d8562f4-2cb1-506b-9d3e-47ba5c0efef3

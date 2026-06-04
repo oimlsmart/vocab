@@ -1,0 +1,47 @@
+data:
+  identifier: 00789
+  localized_concepts:
+    eng: b5b9d20c-265e-51bf-81fa-be5e670762db
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.7
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 2e166321-dfbe-5be4-a502-1cd6528d99bf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest discrete load that can be weighed automatically on the load
+      receptor of the filling instrument
+  examples: []
+  id: 00789-eng
+  notes:
+  - content: For filling instruments which effect the fill by one weighing cycle,
+      Min is equal to the rated minimum fill (Minfill).
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum capacity (Min)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b5b9d20c-265e-51bf-81fa-be5e670762db

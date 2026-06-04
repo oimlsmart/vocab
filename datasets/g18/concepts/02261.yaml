@@ -1,0 +1,46 @@
+data:
+  identifier: '02261'
+  localized_concepts:
+    eng: db583be6-3fd5-50cd-bb7d-2328bc24af92
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.22'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: b371d4df-93a1-54f8-b8fa-2797ca273075
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: internal device of the tank or compartment, e.g. a partition wall orobstacle
+      inside the tank, intended to damp the movement of liquid during transport and
+      to increase the mechanical stability ofthe tank
+  examples: []
+  id: 02261-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: baffle
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: db583be6-3fd5-50cd-bb7d-2328bc24af92

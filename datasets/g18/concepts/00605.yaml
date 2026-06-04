@@ -1,0 +1,45 @@
+data:
+  identifier: '00605'
+  localized_concepts:
+    eng: 6a56de0d-a243-5e84-af7e-2a560aaef465
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 0ec8a943-5ddd-5ade-8f95-dd8e5cca68c4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value expressed in units of mass preset by the operator by means ofthe
+      setting device in order to establish the limit between consecutive sub-groups
+  examples: []
+  id: 00605-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal set point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6a56de0d-a243-5e84-af7e-2a560aaef465

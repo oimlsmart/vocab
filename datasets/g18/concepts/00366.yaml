@@ -1,0 +1,46 @@
+data:
+  identifier: '00366'
+  localized_concepts:
+    eng: d9bdb136-7cf3-59cd-bdcf-3d7ba9a2aa9b
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: 57acf27d-9cae-564c-8cbd-e9f8aa4408b4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- - value expressed in units of length of: the difference between the
+      values corresponding to two consecutive scale marks, for analog indication;
+      or the difference between two consecutive indicated values, for digital indication'
+  examples: []
+  id: 00366-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d9bdb136-7cf3-59cd-bdcf-3d7ba9a2aa9b

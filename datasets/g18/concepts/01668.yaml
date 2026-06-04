@@ -1,0 +1,46 @@
+data:
+  identifier: 01668
+  localized_concepts:
+    eng: adfcb523-c702-5e82-bce3-aca9605af9fc
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: 72516d50-2895-5b97-abeb-f65abae50e31
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the mode of the EBA in which only certain circuits are energized in order
+      to conserve power and/or prolong component life, and to attain the measuring
+      mode more rapidly than would be possible if starting from the un-powered state
+  examples: []
+  id: 01668-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stand-by mode
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: adfcb523-c702-5e82-bce3-aca9605af9fc

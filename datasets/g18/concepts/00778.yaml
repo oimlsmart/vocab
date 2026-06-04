@@ -1,0 +1,45 @@
+data:
+  identifier: 00778
+  localized_concepts:
+    eng: 73929130-93de-5fc1-82e7-f1b674e6314a
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 66b3f13e-3201-5aa3-8be9-809ca62b40be
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for automatically setting the indication to zero following amanual
+      command
+  examples: []
+  id: 00778-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 73929130-93de-5fc1-82e7-f1b674e6314a

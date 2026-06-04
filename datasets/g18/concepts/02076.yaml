@@ -1,0 +1,45 @@
+data:
+  identifier: '02076'
+  localized_concepts:
+    eng: d56a30c9-6332-55c3-a6b4-f60ec31d7f0e
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.10
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 7eb94248-fc84-5f32-8ed0-4b72f205c2c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: flowrate equal to or greater than the smallest “minimum flowrate” of
+      the individual meters
+  examples: []
+  id: 02076-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum flowrate of the measuring system Qmin
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d56a30c9-6332-55c3-a6b4-f60ec31d7f0e

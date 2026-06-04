@@ -1,0 +1,45 @@
+data:
+  identifier: '00715'
+  localized_concepts:
+    eng: efcf8a44-f7c3-5d2c-925e-81faf8481948
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: eb61139b-d3df-5364-8771-5247eecc8548
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: load cell interval, expressed in units of mass, used in the test of the
+      load cell for accuracy classification
+  examples: []
+  id: 00715-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load cell verification interval (v)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: efcf8a44-f7c3-5d2c-925e-81faf8481948

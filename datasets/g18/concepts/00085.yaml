@@ -1,0 +1,47 @@
+data:
+  identifier: 00085
+  localized_concepts:
+    eng: dd7e7b2f-c70f-5c74-84f5-d81ca0716da1
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: ffeb838b-8c3f-5a2d-881f-37e2e1badf0d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: systematic examination and testing of the performance of one or more
+      specimens of an identified type (pattern) of measuring instrument against documented
+      requirements, the results of which are contained in an evaluation report, in
+      order to determine whether the type may be approved. (VIML 2.5)
+  examples: []
+  id: 00085-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type (pattern) evaluation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dd7e7b2f-c70f-5c74-84f5-d81ca0716da1

@@ -1,0 +1,46 @@
+data:
+  identifier: '00571'
+  localized_concepts:
+    eng: 3840306c-c3df-5aa9-9ae5-c72e91077559
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.8
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: c012dcfa-f714-5758-ac98-e66077582037
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V value attributed to a particular quantity (mass of a body) and accepted,
+      by convention, as having an uncertainty appropriate for a given purpose IM:1993,
+      1.20]'
+  examples: []
+  id: 00571-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true value (of a quantity)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3840306c-c3df-5aa9-9ae5-c72e91077559

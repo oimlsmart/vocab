@@ -1,0 +1,45 @@
+data:
+  identifier: '00503'
+  localized_concepts:
+    eng: 08240766-4b11-5794-8655-fcee4e8a6b1b
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.8.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: cc08e6b6-1586-543f-896a-f7b427f7f657
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device enabling zero totalization to be obtained over a whole number
+      of revolutions of the empty conveyor belt
+  examples: []
+  id: 00503-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.8.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 08240766-4b11-5794-8655-fcee4e8a6b1b

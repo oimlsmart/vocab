@@ -1,0 +1,49 @@
+data:
+  identifier: '01553'
+  localized_concepts:
+    eng: c8e2eb5c-f8f3-5d25-ab29-784e4316c4ad
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.d.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 4dda9406-7a01-55b3-90b4-efd2f3655da5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'sales transaction in which:  the measurement result serves as the basis
+      for the price to pay, and  at least one of the parties involved in the transaction
+      related to the measurement is a consumer or any other party requiring a similar
+      level of protection, and  all the parties in the transaction accept the measurement
+      result obtained at that time and place'
+  examples: []
+  id: 01553-eng
+  notes:
+  - content: (note in Annex B)
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.d.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct selling to the public
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c8e2eb5c-f8f3-5d25-ab29-784e4316c4ad

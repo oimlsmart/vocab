@@ -1,0 +1,45 @@
+data:
+  identifier: '02336'
+  localized_concepts:
+    eng: 7bc83139-d3f6-59c8-b05c-a97bcb6fc399
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: b00ff9ac-7e60-5953-bf7f-a9bf68d99706
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: all instrument components, from the sampling probe to the gas sample
+      outlet, through which the exhaust gas sample is conveyed by the pump
+  examples: []
+  id: 02336-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas handling system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7bc83139-d3f6-59c8-b05c-a97bcb6fc399

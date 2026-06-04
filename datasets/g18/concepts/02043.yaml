@@ -1,0 +1,53 @@
+data:
+  identifier: '02043'
+  localized_concepts:
+    eng: 28334179-8a8f-553a-b74f-eaee4b83efb7
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 8817175e-ccb7-5cfd-87b7-83a86cac2e14
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the measuring system that receives the output signals from the
+      flow measuring device(s) or from another calculator and possibly from the associated
+      measuring instruments, transforms them, and, if appropriate, stores the results
+      in memory until they are used. In addition, the calculator may be capable of
+      transmitting and receiving data from peripheral equipment
+  examples: []
+  id: 02043-eng
+  notes:
+  - content: A measuring system may have one, two or more calculators, for instance
+      a mechanical calculator to produce the volume at metering conditions and which
+      transmits the value to a mechanical indicating device, an electronic calculator
+      which also calculates the volume at metering conditions, associated with an
+      electronic indicating device, and another one to calculate the converted value.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 28334179-8a8f-553a-b74f-eaee4b83efb7

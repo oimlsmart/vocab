@@ -1,0 +1,46 @@
+data:
+  identifier: 01718
+  localized_concepts:
+    eng: 366e8c4e-ee58-57db-b90f-e8bb3503cf83
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.19'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 09afa299-a156-581a-a00b-b78fa50ac21d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between two consecutive indicated values of the dimensions
+      for each range in each axis
+  examples: []
+  id: 01718-eng
+  notes:
+  - content: Adapted from VIM:1993, 4.22
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval (d)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 366e8c4e-ee58-57db-b90f-e8bb3503cf83

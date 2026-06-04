@@ -1,0 +1,51 @@
+data:
+  identifier: '01235'
+  localized_concepts:
+    eng: 41fc6ef9-b0dd-5f77-a241-34fe4f9ef71d
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.20
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: bbd6ba98-dd8f-5477-9cba-3cedfed965c5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'for masses equal to or greater than the minimum measured quantity, a
+      fault greater than one-fifth of the absolute value of the maximum permissible
+      error for the measured quantity. The following are not considered as significant
+      faults: – faults arising from simultaneous and mutually independent causes in
+      the measuring instrument itself or in its checking facilities, – transitory
+      faults being momentary variations in the indication, which cannot be interpreted,
+      memorized or transmitted as a measurement result, – faults implying the impossibility
+      to perform any measurement'
+  examples: []
+  id: 01235-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.20
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 41fc6ef9-b0dd-5f77-a241-34fe4f9ef71d

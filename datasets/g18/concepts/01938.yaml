@@ -1,0 +1,44 @@
+data:
+  identifier: 01938
+  localized_concepts:
+    eng: fbdf2020-121e-5669-a0de-4c99d79326e4
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 7e065876-2f81-5f43-aa41-5d8a4feac8be
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value Yi of a quantity, as indicated by the meter
+  examples: []
+  id: 01938-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicated value (of a quantity)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fbdf2020-121e-5669-a0de-4c99d79326e4

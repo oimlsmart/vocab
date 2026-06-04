@@ -1,0 +1,44 @@
+data:
+  identifier: '00752'
+  localized_concepts:
+    eng: 146adb16-19a7-5046-9e10-45ab09559719
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 7412483e-c575-56d8-ae7a-ccee270e4efc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: one load, or more loads combined, that make up the predetermined mass
+  examples: []
+  id: 00752-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fill
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 146adb16-19a7-5046-9e10-45ab09559719

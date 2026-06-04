@@ -1,0 +1,45 @@
+data:
+  identifier: '02026'
+  localized_concepts:
+    eng: e57c62f9-7221-5305-a1b7-0508fea0b042
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 3f74c66f-0b34-5de7-aa52-70c8f085f0b3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of specified values for influence factors that are fixed to ensure
+      valid intercomparison of results of measurements
+  examples: []
+  id: 02026-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e57c62f9-7221-5305-a1b7-0508fea0b042

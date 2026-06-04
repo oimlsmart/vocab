@@ -1,0 +1,47 @@
+data:
+  identifier: '00101'
+  localized_concepts:
+    eng: 7002ad60-e920-5e23-b18b-c662bdfaf21b
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: 3.10 3
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 5a79f297-0f09-59c2-bd10-7084229d51a8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: . certifying body or person in an OIML Member State or Corresponding
+      Member that is responsible for national type approval and that issues Type Approval
+      Certificates (see VIML 2) for specific categories of measuring instruments on
+      the basis ofexamination and testing under its own control
+  examples: []
+  id: 00101-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: 3.10 3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Issuing Authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7002ad60-e920-5e23-b18b-c662bdfaf21b

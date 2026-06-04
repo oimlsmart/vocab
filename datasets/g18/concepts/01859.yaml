@@ -1,0 +1,50 @@
+data:
+  identifier: 01859
+  localized_concepts:
+    eng: bc0d9422-cece-5505-8a3d-bb662c7cedc4
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.20'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: d9e5156f-0726-5e53-b5f6-3a152286cccc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: function proportional to the product of the relative spectral distribution
+      of the radiant energy, the relative spectral transmittance of all optical parts
+      and the relative spectral sensitivity of the detector
+  examples: []
+  id: 01859-eng
+  notes:
+  - content: 1. Adapted from [5], clause
+  - content: '5.'
+  - content: 2. The relative instrumental spectral function generally has different
+      values for each particular wavelength.
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative instrumental spectral function; detected radiant power spectrum
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bc0d9422-cece-5505-8a3d-bb662c7cedc4

@@ -1,0 +1,45 @@
+data:
+  identifier: 01485
+  localized_concepts:
+    eng: 4003f45e-86e5-5bc3-9a50-bed863326a50
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: 8fdfe24b-ef04-5a90-bc9d-4ab54a922401
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a record of the detector output signal versus time that has specific
+      peaks associated with measured components of a sample
+  examples: []
+  id: 01485-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromatogram
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4003f45e-86e5-5bc3-9a50-bed863326a50

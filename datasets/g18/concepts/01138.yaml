@@ -1,0 +1,45 @@
+data:
+  identifier: 01138
+  localized_concepts:
+    eng: d7405d20-9dca-5781-91a4-6af523cdd6dc
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.2
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 26d714cf-3f6b-5034-8e09-4d4f6ce10644
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the maximum volume of liquid the tank may contain up to overflowing under
+      rated operating conditions, at reference temperature
+  examples: []
+  id: 01138-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d7405d20-9dca-5781-91a4-6af523cdd6dc

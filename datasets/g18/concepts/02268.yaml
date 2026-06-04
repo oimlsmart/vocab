@@ -1,0 +1,46 @@
+data:
+  identifier: 02268
+  localized_concepts:
+    eng: 2457ed67-ed14-5376-95f5-c27b18065b59
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.29'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 7dd052c6-cbc8-576f-9c0d-0c2d527d58a3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mechanical device (usually in the form of a tube with holes) intended
+      to minimize or eliminate the effect of surface waves on the level measurement
+      and to protect the level sensor against mechanical damage
+  examples: []
+  id: 02268-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.29'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: damping tube
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2457ed67-ed14-5376-95f5-c27b18065b59

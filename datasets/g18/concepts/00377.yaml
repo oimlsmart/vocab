@@ -1,0 +1,46 @@
+data:
+  identifier: '00377'
+  localized_concepts:
+    eng: 3046eef8-0305-533b-bbe0-c48dcf38b7e6
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: 6e982f4d-3de1-577a-88b9-22641cde84ea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use, giving the range of values of influence quantities
+      for which the metrological characteristics are intended tolie within the specified
+      maximum permissible errors
+  examples: []
+  id: 00377-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3046eef8-0305-533b-bbe0-c48dcf38b7e6

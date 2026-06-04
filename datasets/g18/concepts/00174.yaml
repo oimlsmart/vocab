@@ -1,0 +1,47 @@
+data:
+  identifier: '00174'
+  localized_concepts:
+    eng: e0d2ee62-c48b-56ae-b64d-3fbea7ff413c
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-D027
+    ref_type: section
+status: valid
+id: b57c6ec5-5102-5f6c-b2be-0f3d627aa96a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document specifying the quality management system of an organization
+      [ISO 9000:2000, 3.7.4]
+  examples: []
+  id: 00174-eng
+  notes:
+  - content: Quality manuals can vary in detail and format to suit the size and complexity
+      of an individual organization.
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quality manual
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e0d2ee62-c48b-56ae-b64d-3fbea7ff413c

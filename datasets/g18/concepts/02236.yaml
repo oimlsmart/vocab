@@ -1,0 +1,48 @@
+data:
+  identifier: '02236'
+  localized_concepts:
+    eng: 1e4e83b8-8347-5d5d-aa89-05499f34fa58
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: c5cd5863-9009-5895-9217-2edd2b7b6f54
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tank fittings, structure, piping and other equipment which affects the
+      capacity of a tank. Deadwood is referred to as “positive deadwood” when the
+      capacity of the fitting adds to the effective capacity of the tank, or “negative
+      deadwood” when the volume of the fitting displaces liquid and reduces the effective
+      capacity
+  examples: []
+  id: 02236-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: deadwood
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1e4e83b8-8347-5d5d-aa89-05499f34fa58

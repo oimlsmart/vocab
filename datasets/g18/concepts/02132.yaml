@@ -1,0 +1,48 @@
+data:
+  identifier: '02132'
+  localized_concepts:
+    eng: 0d8cf283-63c2-55de-9296-6237135de1dc
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: 2.7.3
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: edbd7c5a-b400-54a7-957e-90001c5d6071
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means allowing the user to adjust the gas analytical system without having
+      the possibility of changing the input measurement signal, whether the automatic
+      adjustment is required or not
+  examples: []
+  id: 02132-eng
+  notes:
+  - content: For those gas analytical systems that require the calibration gas mixture
+      to be entered manually, the adjustment means are considered to be semi-automatic.
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: 2.7.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-automatic adjustment means
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0d8cf283-63c2-55de-9296-6237135de1dc

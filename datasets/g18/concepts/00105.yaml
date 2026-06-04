@@ -1,0 +1,46 @@
+data:
+  identifier: '00105'
+  localized_concepts:
+    eng: 5fa4a760-0b91-55d9-b236-23bccaf81862
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 5fda69df-9274-5f38-b1f4-dc2ba859388d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ( act of carrying out technical operations that consists of determining
+      the metrological and technical characteristics of an instrument according to
+      specified procedures. ISO/IEC Guide 2, 13.1)
+  examples: []
+  id: 00105-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: testing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5fa4a760-0b91-55d9-b236-23bccaf81862

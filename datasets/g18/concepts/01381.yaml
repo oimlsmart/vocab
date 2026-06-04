@@ -1,0 +1,46 @@
+data:
+  identifier: 01381
+  localized_concepts:
+    eng: f7d548ff-07f7-5afb-950c-d21cf271e997
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: f0c4c72d-6296-595d-b9fb-b89d9634d378
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: totalization indicating device that indicates the sum of the weight values
+      of all consecutive loads weighed and discharged tobulk. This device is not resettable
+      to zero by the user
+  examples: []
+  id: 01381-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: principal totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f7d548ff-07f7-5afb-950c-d21cf271e997

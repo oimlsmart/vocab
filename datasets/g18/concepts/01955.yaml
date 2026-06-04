@@ -1,0 +1,49 @@
+data:
+  identifier: 01955
+  localized_concepts:
+    eng: f400f564-2e99-55ad-b943-77625d230fcc
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.19
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 7510ce86-f0c8-5f0d-b3b3-49e3f4e5f5b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest difference between indications of an indicating device that
+      can be meaningfully distinguished
+  examples: []
+  id: 01955-eng
+  notes:
+  - content: 1. For a digital device, this is the change in the indication when the
+      least significant digit changes by one step. For an analogue device, this is
+      half the difference between subsequent scale marks.
+  - content: 2. (VIM:1993, 5.12)
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.19
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution (of an indicating device)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f400f564-2e99-55ad-b943-77625d230fcc

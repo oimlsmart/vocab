@@ -1,0 +1,44 @@
+data:
+  identifier: 00804
+  localized_concepts:
+    eng: b971f224-58d0-5617-b0c7-4bb6d72e06e9
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: f67f1052-f30d-52fd-a9f7-cbfeaa29468e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum permissible error for influence quantity values
+  examples: []
+  id: 00804-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error for influence factor tests
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b971f224-58d0-5617-b0c7-4bb6d72e06e9

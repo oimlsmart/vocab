@@ -1,0 +1,50 @@
+data:
+  identifier: '01351'
+  localized_concepts:
+    eng: 03a0357b-ca99-5e0d-9baa-e979dba473dc
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.7.7.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: b0df9987-d4b6-513f-a968-08eee2de36b2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legally relevant parameter with a value that depends on the individual
+      instrument. Device specific parameters comprise calibration parameters (e.g.
+      span adjustments or other adjustments or corrections) and configuration parameters
+      (e.g. maximum capacity, minimum capacity, units of measurement, etc.). They
+      are adjustable or selectable only in a special operational mode of the instrument.
+      Device specific parameters may be classified as those that should be secured
+      (unalterable) and those that may be accessed (settable) by an authorized person
+  examples: []
+  id: 01351-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.7.7.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device-specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 03a0357b-ca99-5e0d-9baa-e979dba473dc

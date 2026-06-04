@@ -1,0 +1,45 @@
+data:
+  identifier: 00814
+  localized_concepts:
+    eng: f6d571e7-0996-5737-934f-ae50ac08777a
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.6.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 36743e64-5c99-5f2a-8db7-ffd99584c0f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test carried out on a complete filling instrument using the type of material
+      which it is intended to weigh
+  examples: []
+  id: 00814-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.6.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f6d571e7-0996-5737-934f-ae50ac08777a

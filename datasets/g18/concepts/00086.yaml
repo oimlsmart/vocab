@@ -1,0 +1,45 @@
+data:
+  identifier: 00086
+  localized_concepts:
+    eng: 8ba42ce0-7d48-5ac1-b4bd-57150c56b175
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: 283f8b53-35c8-5729-97a7-bcd486e05bdb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (official) visual inspection of an instrument or device and relevant
+      documentation to ensure that some specified requirements are met
+  examples: []
+  id: 00086-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: examination
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8ba42ce0-7d48-5ac1-b4bd-57150c56b175

@@ -1,0 +1,47 @@
+data:
+  identifier: '01477'
+  localized_concepts:
+    eng: 4f4a400e-97e8-5421-984a-0a108be32485
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: 49852795-9214-5904-8326-79fad10868e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the material within the column to which the stationary phase is bonded
+      (together comprising the packing material) and through which the mobile phase
+      flows. Ideally this material is inert. It may be characterized by the particle
+      diameter dp measured in μm
+  examples: []
+  id: 01477-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: solid support
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4f4a400e-97e8-5421-984a-0a108be32485

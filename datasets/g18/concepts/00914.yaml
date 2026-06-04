@@ -1,0 +1,45 @@
+data:
+  identifier: 00914
+  localized_concepts:
+    eng: 2dbb4d51-8404-57b5-bf98-4f0dfe8cd9f1
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: d02cd535-e257-5616-92d6-3f97dc3e01bf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device connected to the displaying component and sub-dividing the scale
+      of an instrument, without special adjustment
+  examples: []
+  id: 00914-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device for interpolation of reading (vernier or nonius)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2dbb4d51-8404-57b5-bf98-4f0dfe8cd9f1

@@ -1,0 +1,45 @@
+data:
+  identifier: 01678
+  localized_concepts:
+    eng: 510fbb55-98f7-557c-aaa7-0a88f9356c24
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: e7f2a0c1-d0c2-583a-a466-d7b31bd026a0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: wavelength used in a read-out instrument for measuring the optical absorbance
+      of a radiochromic film dosimeter
+  examples: []
+  id: 01678-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analysis wavelength
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 510fbb55-98f7-557c-aaa7-0a88f9356c24

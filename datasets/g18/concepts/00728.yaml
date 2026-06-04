@@ -1,0 +1,45 @@
+data:
+  identifier: 00728
+  localized_concepts:
+    eng: 62e4ceb7-7cf3-50fb-967f-e05317fc8e1d
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 70f5eb9e-2afa-5cb3-94bd-e1fb5bb0f428
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: change in load cell output occurring with time while under constant load
+      and with all environmental conditions and other variables also remaining constant
+  examples: []
+  id: 00728-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: creep
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 62e4ceb7-7cf3-50fb-967f-e05317fc8e1d

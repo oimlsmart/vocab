@@ -1,0 +1,51 @@
+data:
+  identifier: 00398
+  localized_concepts:
+    eng: 5f0f0844-6d8f-526b-a267-c18772549002
+  sources:
+  - origin:
+      ref:
+        source: OIML R043:1981
+    locality:
+      type: clause
+      reference_from: 2.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R043
+    ref_type: section
+status: valid
+id: 96ad4b1b-602b-530d-a496-cc4ef6569919
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the capacity « contained » in a standard graduated flask, corresponding
+      to a scale mark (designated capacity « In »), is equal to the volume of water
+      which the flask contains at the reference temperature, when filled to this scale
+      mark
+  examples: []
+  id: 00398-eng
+  notes:
+  - content: The expression « filled to this scale mark », means that the meniscus
+      formed by the water in the neck of the flask, is so adjusted that th horizontal
+      plane passing through the upper edge of the scale mark, is tangential to the
+      lowest point of the meniscus, when viewed in this plane.
+  sources:
+  - origin:
+      ref:
+        source: OIML R043:1981
+      locality:
+        type: clause
+        reference_from: 2.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacity (contained in a standard graduated flask)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5f0f0844-6d8f-526b-a267-c18772549002

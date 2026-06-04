@@ -1,0 +1,44 @@
+data:
+  identifier: '02342'
+  localized_concepts:
+    eng: 20464210-c625-5ec2-a18c-677a3050681f
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 135f8d83-1f5e-5abf-9cd8-a3e7311037ac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility to set the indication of the instrument to zero
+  examples: []
+  id: 02342-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero-setting facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 20464210-c625-5ec2-a18c-677a3050681f

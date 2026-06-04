@@ -1,0 +1,45 @@
+data:
+  identifier: '00765'
+  localized_concepts:
+    eng: 9927d3c7-13ce-50e0-8a04-3e909519e807
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 29f08635-ee93-5d48-9311-a399cd5a12ab
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that controls the operation of the feeding process. The device
+      may incorporate software functions
+  examples: []
+  id: 00765-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9927d3c7-13ce-50e0-8a04-3e909519e807

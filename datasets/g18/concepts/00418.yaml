@@ -1,0 +1,50 @@
+data:
+  identifier: 00418
+  localized_concepts:
+    eng: 778cc090-35f3-5bd9-9626-b3415dbab2d0
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.8 T
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 875ad14c-3a63-51b3-8155-46f80b36f550
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '( ( ( ( ( ( ( ( device intended to perform a particular function, directly
+      involved in elaborating, transmitting or displaying measurement to results.
+      nat he main ancillary devices are: a) zero setting device; b) price indicating
+      device; c) repeating indicating device; d) printing device; e) memory device;
+      f) tariff control device; g) pre-setting device; and h) self service device'
+  examples: []
+  id: 00418-eng
+  notes:
+  - content: An ancillary device may or may not be subject legal metrological control
+      according to ional regulations.
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.8 T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ancillary device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 778cc090-35f3-5bd9-9626-b3415dbab2d0

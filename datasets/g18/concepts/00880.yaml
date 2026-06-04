@@ -1,0 +1,45 @@
+data:
+  identifier: 00880
+  localized_concepts:
+    eng: e1bcce6e-49b3-52d9-b271-f626bd2dd301
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 307d3f16-21a3-530f-ac73-45d3d2e0ad77
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument in which the position of equilibrium is obtained entirely
+      by the operator
+  examples: []
+  id: 00880-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-self-indicating instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e1bcce6e-49b3-52d9-b271-f626bd2dd301

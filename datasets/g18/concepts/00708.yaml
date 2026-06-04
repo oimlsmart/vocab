@@ -1,0 +1,45 @@
+data:
+  identifier: 00708
+  localized_concepts:
+    eng: b645de82-b6e1-5354-8212-314906364f2f
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 649c5a00-a149-57b1-ae62-bd39f19a671a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class of load cells that are subject to the same conditions of accuracy
+      [Adapted from VIM:1993, 5.19]
+  examples: []
+  id: 00708-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b645de82-b6e1-5354-8212-314906364f2f

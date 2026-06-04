@@ -1,0 +1,45 @@
+data:
+  identifier: '00467'
+  localized_concepts:
+    eng: 539b7a13-c18f-5c4c-b6e6-44749ba7db41
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 106be9a7-5831-5fe4-83aa-11296c9c0abf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: type of water meter fitted into a closed conduit by means of the meter
+      end connections (either threaded or flanged) provided
+  examples: []
+  id: 00467-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: in-line meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 539b7a13-c18f-5c4c-b6e6-44749ba7db41

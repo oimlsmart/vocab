@@ -1,0 +1,44 @@
+data:
+  identifier: '01370'
+  localized_concepts:
+    eng: 88d92c59-c651-5568-a985-6cfc3d5d9966
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.8
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 43c443b4-484d-59d7-b34b-9ad9ea8cf966
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: static weighing mode for test purposes
+  examples: []
+  id: 01370-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic (static) operation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 88d92c59-c651-5568-a985-6cfc3d5d9966

@@ -1,0 +1,45 @@
+data:
+  identifier: '00404'
+  localized_concepts:
+    eng: 9999879c-c431-52a2-a3a1-bf82165a3032
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R048
+    ref_type: section
+status: valid
+id: e814b39e-d984-5e06-a1ef-e83444d6d47a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ratio of a small change in the current in the lamp circuit to the corresponding
+      change in its radiance temperature
+  examples: []
+  id: 00404-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: slope of the calibration characteristic
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9999879c-c431-52a2-a3a1-bf82165a3032

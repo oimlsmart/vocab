@@ -1,0 +1,44 @@
+data:
+  identifier: '00241'
+  localized_concepts:
+    eng: a9855769-204b-5e1c-81f9-224e6c65cf0f
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: f4d9b76e-c6a7-50de-b308-47301f41b65f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of a measuring instrument to accomplish its intended functions
+  examples: []
+  id: 00241-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a9855769-204b-5e1c-81f9-224e6c65cf0f

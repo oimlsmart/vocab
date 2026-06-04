@@ -1,0 +1,45 @@
+data:
+  identifier: '01773'
+  localized_concepts:
+    eng: 8981e664-943b-5dcc-a544-487101bb570d
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 3f00aba8-becf-51ae-8894-b9e8ef834f2b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: producer of the PMMA dosimeter to be evaluated unless the term is otherwise
+      specified
+  examples: []
+  id: 01773-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: manufacturer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8981e664-943b-5dcc-a544-487101bb570d

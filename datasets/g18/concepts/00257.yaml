@@ -1,0 +1,45 @@
+data:
+  identifier: '00257'
+  localized_concepts:
+    eng: e2f2fb72-05f4-535d-8384-a100301fc7e3
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.24'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 26db74f5-2026-59ea-9a70-745feb743826
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'battery that is intended to power specific functions of an instrument
+      in the absence of the primary power supply. Example: to preserve stored data'
+  examples: []
+  id: 00257-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.24'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: back-up battery
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e2f2fb72-05f4-535d-8384-a100301fc7e3

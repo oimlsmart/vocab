@@ -1,0 +1,46 @@
+data:
+  identifier: '00453'
+  localized_concepts:
+    eng: 6b2013cf-ed32-5fb8-b33c-7438aa2522ed
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: fac9149b-33a8-57a5-b666-696d0d543a46
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a set of reference values, or reference ranges of influence quantities,
+      prescribed for testing the performance of a water meter, or for the intercomparison
+      of the results of measurements dapted from VIM:1993, 5.7].'
+  examples: []
+  id: 00453-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6b2013cf-ed32-5fb8-b33c-7438aa2522ed

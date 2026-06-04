@@ -1,0 +1,45 @@
+data:
+  identifier: 01584
+  localized_concepts:
+    eng: 9281ee4b-6509-5030-b298-d2b5f55497aa
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.p.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 7d4404bb-e2f7-538e-bcca-ef64058fc2eb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: type of payment requiring payment for a certain quantity of liquid before
+      the delivery commences
+  examples: []
+  id: 01584-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.p.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pre-payment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9281ee4b-6509-5030-b298-d2b5f55497aa

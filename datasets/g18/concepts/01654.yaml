@@ -1,0 +1,44 @@
+data:
+  identifier: '01654'
+  localized_concepts:
+    eng: 281dc85a-92f4-59d8-81c0-519df544afb8
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.34.1
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 22e3d675-4cde-5084-84b9-b1fa1aa69ec2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a checking facility operating without the intervention of an operator
+  examples: []
+  id: 01654-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.34.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 281dc85a-92f4-59d8-81c0-519df544afb8

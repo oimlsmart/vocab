@@ -1,0 +1,45 @@
+data:
+  identifier: '00121'
+  localized_concepts:
+    eng: d4a56fd4-41e6-5e60-9dfa-f283765e9271
+  sources:
+  - origin:
+      ref:
+        source: OIML D016:1986
+    locality:
+      type: clause
+      reference_from: 1.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-D016
+    ref_type: section
+status: valid
+id: b4822900-e50f-5786-9211-86cc07b05c0a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any single factor that can affect the measurement result, for example,
+      the instrument, the operator, and the procedure
+  examples: []
+  id: 00121-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D016:1986
+      locality:
+        type: clause
+        reference_from: 1.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: element of a measurement process
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d4a56fd4-41e6-5e60-9dfa-f283765e9271

@@ -1,0 +1,45 @@
+data:
+  identifier: '02321'
+  localized_concepts:
+    eng: 785d47a6-a7e9-500a-a535-df33778b1276
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.23'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: f2b9df3e-0c3f-5c79-87c5-a64b08153e18
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: AL quantity which is not the subject of the measurement but which influences
+      the value of the measurand or the indication of the G
+  examples: []
+  id: 02321-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 785d47a6-a7e9-500a-a535-df33778b1276

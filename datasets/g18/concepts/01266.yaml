@@ -1,0 +1,45 @@
+data:
+  identifier: '01266'
+  localized_concepts:
+    eng: 4d2ce2bd-42c2-5202-bae0-334c9eef5e06
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: d3d805ab-e437-580d-a32d-bd137522f4fe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the smallest physical entity that uses electron or hole conduction insemiconductors,
+      gases, or in a vacuum
+  examples: []
+  id: 01266-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic component
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4d2ce2bd-42c2-5202-bae0-334c9eef5e06

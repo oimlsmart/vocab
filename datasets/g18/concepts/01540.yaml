@@ -1,0 +1,47 @@
+data:
+  identifier: '01540'
+  localized_concepts:
+    eng: adb3ba7b-75ac-530f-aa51-a6ef126a49d1
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.c.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: d92366b5-61f3-5b8a-850a-77c82ccaf33e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'facility incorporated in a measuring system which:  checks for the
+      presence of a necessary device,  enables an incorrectness in the generation,
+      transmission, processing and/or indication of a measurement data to be detected
+      and acted upon, and  enables significant faults to be detected and acted upon'
+  examples: []
+  id: 01540-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.c.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: adb3ba7b-75ac-530f-aa51-a6ef126a49d1

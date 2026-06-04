@@ -1,0 +1,47 @@
+data:
+  identifier: '02305'
+  localized_concepts:
+    eng: c15ffd6c-1a30-5f37-b65a-95d24e25f2f9
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: a7711aba-be99-57be-bed3-0b3c656d9c54
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the ALG that receives the output signals from the transducer
+      and, if applicable, from ancillary devices and/or other devices, processes them
+      and, if appropriate, stores the results in memory until they are used. In addition,
+      the calculator may be capable of communicating both ways with other devices
+  examples: []
+  id: 02305-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c15ffd6c-1a30-5f37-b65a-95d24e25f2f9

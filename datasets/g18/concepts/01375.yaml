@@ -1,0 +1,45 @@
+data:
+  identifier: '01375'
+  localized_concepts:
+    eng: 7a4250a3-d8b1-5374-a0c7-28c57a58923a
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 67fdf0d1-1663-53f5-af15-305943f80187
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indications, signals and symbols that are subject to the requirements
+      of this Recommendation
+  examples: []
+  id: 01375-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary indications
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7a4250a3-d8b1-5374-a0c7-28c57a58923a

@@ -1,0 +1,45 @@
+data:
+  identifier: 00927
+  localized_concepts:
+    eng: b8643d65-3b65-5272-bc32-d0b424724693
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: b24bd031-93f9-5df1-a4b6-0b86cf70d2f1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tare device that stores the tare value and that is capable of displaying
+      or printing it whether or not the instrument is loaded
+  examples: []
+  id: 00927-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tare weighing device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b8643d65-3b65-5272-bc32-d0b424724693

@@ -1,0 +1,46 @@
+data:
+  identifier: 00483
+  localized_concepts:
+    eng: f47ca35f-26bd-527e-9dba-c3033ad6e643
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 66c56294-c620-5612-86eb-117b4539a81a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the method used to determine the mass of the product used as the test
+      load during material tests. This will generally involve the use of a weighing
+      instrument, referred to as the control instrument
+  examples: []
+  id: 00483-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control method
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f47ca35f-26bd-527e-9dba-c3033ad6e643

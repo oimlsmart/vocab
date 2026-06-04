@@ -1,0 +1,47 @@
+data:
+  identifier: 01284
+  localized_concepts:
+    eng: e47c9384-910f-5384-89ef-43d8467b508c
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 63bb1b0a-8e23-5f3b-9dc8-08f9096f917e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • a value expressed in units of mass for weighing-in-motion that is
+      the difference between: the values corresponding to two consecutive scale marks
+      for analogue indication, or two consecutive indicated or printed values for
+      digital indication'
+  examples: []
+  id: 01284-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval (d)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e47c9384-910f-5384-89ef-43d8467b508c

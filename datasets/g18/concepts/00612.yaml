@@ -1,0 +1,44 @@
+data:
+  identifier: '00612'
+  localized_concepts:
+    eng: 1ee8a809-1057-5ef0-8fe9-76eaa1b18272
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.8.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 9903ee1b-b8ad-59d7-9af1-d1130ece6766
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero by an operator
+  examples: []
+  id: 00612-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.8.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic zero setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1ee8a809-1057-5ef0-8fe9-76eaa1b18272

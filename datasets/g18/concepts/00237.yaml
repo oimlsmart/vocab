@@ -1,0 +1,45 @@
+data:
+  identifier: '00237'
+  localized_concepts:
+    eng: 9fd29844-92dd-57ca-9b5b-c01de2187aa2
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: 3.13.1
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: a22b0ef8-9577-52df-b42d-cb34039afec9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the rated operating conditions
+      of a measuring instrument specified in the relevant Recommendation
+  examples: []
+  id: 00237-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: 3.13.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9fd29844-92dd-57ca-9b5b-c01de2187aa2

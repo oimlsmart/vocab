@@ -1,0 +1,45 @@
+data:
+  identifier: '00337'
+  localized_concepts:
+    eng: 37a692e5-f8e3-5d75-b13e-5db263e67e6a
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+    locality:
+      type: clause
+      reference_from: '2.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-2
+    ref_type: section
+status: valid
+id: 8f2ca84e-f0d5-5ce5-aa3d-67f1a8e03f76
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valve for controlled linearizing exhaust of the pneumatic system during
+      measurement
+  examples: []
+  id: 00337-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-linearizing deflation valve
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 37a692e5-f8e3-5d75-b13e-5db263e67e6a

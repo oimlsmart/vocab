@@ -1,0 +1,46 @@
+data:
+  identifier: 00480
+  localized_concepts:
+    eng: 4415a833-6359-5efd-ad9f-14cfd6495b60
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: ba665879-9942-5eb6-b36c-80e614b0dd2b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an instrument that weighs without the intervention of an operator and
+      follows a predetermined program of automatic processes characteristic of the
+      instrument
+  examples: []
+  id: 00480-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic weighing instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4415a833-6359-5efd-ad9f-14cfd6495b60

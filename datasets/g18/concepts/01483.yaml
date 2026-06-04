@@ -1,0 +1,47 @@
+data:
+  identifier: 01483
+  localized_concepts:
+    eng: f72a3639-6113-52ae-82fb-1776f3e300af
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: c2a9e311-0b24-52d8-b33c-6af05f26cf02
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the range of concentrations or mass flow rates of a sample component
+      over which a change in sample amount produces a measurable change in the detector
+      signal output. Its value is the ratio of the upper limit of detection to the
+      detection limit
+  examples: []
+  id: 01483-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dynamic range of a detector
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f72a3639-6113-52ae-82fb-1776f3e300af

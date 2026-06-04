@@ -1,0 +1,45 @@
+data:
+  identifier: 02348a
+  localized_concepts:
+    eng: 2db24afe-abcb-565f-a440-0d2e7631a9da
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 4b60c6b7-bd3f-5c7b-a9ad-9ecbd9d0b8e3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity value attributed by agreement to a quantity for a given purpose
+  examples: []
+  id: 02348a-eng
+  notes:
+  - content: (VIM:2007, 2.12)
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true quantity value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2db24afe-abcb-565f-a440-0d2e7631a9da

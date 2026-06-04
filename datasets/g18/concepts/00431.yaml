@@ -1,0 +1,45 @@
+data:
+  identifier: '00431'
+  localized_concepts:
+    eng: 839f7ee8-26ed-5f00-983d-178e054592a3
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.9
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: af8c3367-62d0-51bd-b1a3-a6863e63da68
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a difference between the error (of indication) and the intrinsic error
+      of a water meter dapted from OIML D 11 ]'
+  examples: []
+  id: 00431-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 839f7ee8-26ed-5f00-983d-178e054592a3

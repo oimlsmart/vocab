@@ -1,0 +1,44 @@
+data:
+  identifier: '02310'
+  localized_concepts:
+    eng: 99410fb1-cede-5171-a4a1-d72b9ea1e0a5
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 030a4acd-51f9-5e56-b04c-6b07363e5de4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility that operates at each measurement cycle
+  examples: []
+  id: 02310-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent automatic checking facility (type P)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 99410fb1-cede-5171-a4a1-d72b9ea1e0a5

@@ -1,0 +1,51 @@
+data:
+  identifier: '00225'
+  localized_concepts:
+    eng: 8d808ff8-4607-5fc3-8c40-261ed165e856
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: c27deb1f-7e1c-5a46-b8b0-e32b608897a9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device employing electronic sub-assemblies and performing a specific
+      function. Electronic devices are usually manufactured as mea separate units
+      and are capable of being tested independently sca mea ind (2) the Pub sys
+  examples: []
+  id: 00225-eng
+  notes:
+  - content: '(1) An electronic device may be a complete suring instrument (for example:
+      counter le, electricity meter) or a part of a suring instrument (for example:
+      printer, icator). An electronic device can be a module in sense that this term
+      is used in OIML lication B 3 “The OIML Certificate tem for Measuring Instruments”
+      [2].'
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8d808ff8-4607-5fc3-8c40-261ed165e856

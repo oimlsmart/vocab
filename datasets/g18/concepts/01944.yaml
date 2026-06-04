@@ -1,0 +1,46 @@
+data:
+  identifier: 01944
+  localized_concepts:
+    eng: dd4b0aae-02e8-5241-9345-65cea3f049d7
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.8
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: b6b41654-9b69-5fdd-b976-a8973b0c5042
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'the weighted mean error (WME) is calculated as follows: where: • Qi/Qmax
+      is a weighting factor; • ei is the error at the flowrate Qi; • at Qi > 0.9·Qmax
+      a weighting factor of 0.4 shall be used instead of 1.'
+  examples: []
+  id: 01944-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighted mean error (WME)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dd4b0aae-02e8-5241-9345-65cea3f049d7

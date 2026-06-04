@@ -1,0 +1,45 @@
+data:
+  identifier: '01013'
+  localized_concepts:
+    eng: 1dde5c3d-58c3-50c8-8f32-ed2431474194
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: b4435c05-bd26-51d3-84c9-aa63bc12e6fe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system that is comprised of the meter itself and all the ancillary devices
+      and other equipment assembled to carry out the specified measurement task
+  examples: []
+  id: 01013-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1dde5c3d-58c3-50c8-8f32-ed2431474194

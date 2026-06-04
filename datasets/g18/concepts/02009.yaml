@@ -1,0 +1,45 @@
+data:
+  identifier: 02009
+  localized_concepts:
+    eng: 7c24284a-7d40-5dd8-91da-e3a60865366a
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.2.8
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: e6cd081c-ac33-5e6e-aef7-985ddd569087
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operation that brings the measuring system into a condition suitable
+      for the commencement of the delivery
+  examples: []
+  id: 02009-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.2.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: authorization of a measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7c24284a-7d40-5dd8-91da-e3a60865366a

@@ -1,0 +1,48 @@
+data:
+  identifier: 02192
+  localized_concepts:
+    eng: 17d140b2-2d78-5206-b29d-74431c98dac6
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.25
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: eabaeab0-f8ec-5bce-9cb7-648e9bb4b7e2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (mathematical) function which maps values from a large (possibly very
+      large) domain into a smaller range. A “good” hash function is such that the
+      results of applying the function to a (large) set of values in the domain will
+      be evenly distributed (and apparently at random) over the range
+  examples: []
+  id: 02192-eng
+  notes:
+  - content: '[ISO/IEC 9594-8:2001]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.25
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hash function
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 17d140b2-2d78-5206-b29d-74431c98dac6

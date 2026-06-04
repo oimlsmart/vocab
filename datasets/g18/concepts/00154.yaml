@@ -1,0 +1,46 @@
+data:
+  identifier: '00154'
+  localized_concepts:
+    eng: d03abf55-7352-56b0-bfae-d37ea4ba45f2
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 924fb9ec-b3ab-5c62-9aad-3e19199ac486
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the range of concentrations over which the output signal of the instrument
+      is proportional to the concentration of the substance to within a specified
+      percentage, for example ± 5-10 %.
+  examples: []
+  id: 00154-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linear range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d03abf55-7352-56b0-bfae-d37ea4ba45f2

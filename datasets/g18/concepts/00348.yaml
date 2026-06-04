@@ -1,0 +1,46 @@
+data:
+  identifier: 00348
+  localized_concepts:
+    eng: 5e0099a7-dd90-501e-8d76-b829eda7b25e
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 0a0fc3ad-a414-592e-b839-3d6688d80d0c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: electronic, optical, radio or other hardware and software connection
+      means that enables information to be automatically passed between several measuring
+      instruments or devices or between several different software modules
+  examples: []
+  id: 00348-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interface
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5e0099a7-dd90-501e-8d76-b829eda7b25e

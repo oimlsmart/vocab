@@ -1,0 +1,45 @@
+data:
+  identifier: '00726'
+  localized_concepts:
+    eng: 45e85ce2-a157-582e-ac8d-ae8a639ad00d
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.15
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 3ba6d921-22e5-5ca0-8e56-1d884a17401d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum load that can be applied without producing a permanent shift
+      in the performance characteristics beyond those specified
+  examples: []
+  id: 00726-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: safe load limit (Elim)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 45e85ce2-a157-582e-ac8d-ae8a639ad00d

@@ -1,0 +1,45 @@
+data:
+  identifier: '00637'
+  localized_concepts:
+    eng: c3b3baa8-361e-58b2-83ae-b6290f5946f1
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: c19b8a2b-692a-5dc8-8f0c-f4867a333e86
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value, expressed in units of mass, used for the classification and verification
+      of an instrument
+  examples: []
+  id: 00637-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification scale interval, e
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c3b3baa8-361e-58b2-83ae-b6290f5946f1

@@ -1,0 +1,46 @@
+data:
+  identifier: 00872
+  localized_concepts:
+    eng: 48207426-a260-5e60-a6bf-08359e56826b
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '4.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 0e67684d-30bc-5ce9-9870-186f738c87b7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ( depth of immersion in a thermostatic bath with a temperature of 80
+      ± 5) °C at an ambient temperature of (25 ± 5) °C, beyond which deeper immersion
+      changes the output value by an amount corresponding to less than 0.1 K
+  examples: []
+  id: 00872-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '4.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum immersion depth of a temperature sensor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 48207426-a260-5e60-a6bf-08359e56826b

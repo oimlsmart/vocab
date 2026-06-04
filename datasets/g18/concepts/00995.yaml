@@ -1,0 +1,50 @@
+data:
+  identifier: 00995
+  localized_concepts:
+    eng: 1ec9d8f6-0780-5aaa-a1be-dd331ca3f3e8
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R079
+    ref_type: section
+status: valid
+id: 80c4b5dd-ea03-54a1-8c03-e79076664c01
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any written, printed, or graphic matter affixed to, applied to, attached
+      to, blown into, formed or molded into, embossed on, or appearing upon a package
+      containing any product for purposes of branding, identifying, or giving any
+      information with respect to the product or to the contents of the package; however,
+      an inspector’s tag or other non-promotional text affixed to or appearing on
+      a product shall not be deemed to be a label that requires the label information
+      prescribed by this Recommendation
+  examples: []
+  id: 00995-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: label
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1ec9d8f6-0780-5aaa-a1be-dd331ca3f3e8

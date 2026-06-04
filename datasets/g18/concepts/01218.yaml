@@ -1,0 +1,45 @@
+data:
+  identifier: 01218
+  localized_concepts:
+    eng: 922d9e3b-4afa-5bc5-88e4-0568f5895727
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.8
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 40a65e21-b479-50a3-9548-533c5febcc18
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a system in which the discharge hose is completely drained following
+      the mechanical operation involved in each delivery
+  examples: []
+  id: 01218-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dry hose type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 922d9e3b-4afa-5bc5-88e4-0568f5895727

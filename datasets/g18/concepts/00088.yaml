@@ -1,0 +1,45 @@
+data:
+  identifier: 00088
+  localized_concepts:
+    eng: d541501a-220e-5cb0-856e-0b79212023ca
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: 2cb019a8-8f9b-55db-8503-e6d719910767
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: voluntary system for issuing, registering, and using OIML Certificates
+      of Conformity
+  examples: []
+  id: 00088-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OIML certificate system for measuring instruments
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d541501a-220e-5cb0-856e-0b79212023ca

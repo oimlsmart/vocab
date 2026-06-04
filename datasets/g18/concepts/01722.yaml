@@ -1,0 +1,45 @@
+data:
+  identifier: '01722'
+  localized_concepts:
+    eng: e196e0d9-3ca0-59ba-bf1e-ae3a9a1777dc
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.23'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: ae32669b-c756-57a9-a255-3fc437818251
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the indication of a measuring instrument minus the true value of VIM:1993,
+      5.20. the corresponding input quantity
+  examples: []
+  id: 01722-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error of indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e196e0d9-3ca0-59ba-bf1e-ae3a9a1777dc

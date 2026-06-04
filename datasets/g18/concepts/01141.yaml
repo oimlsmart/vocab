@@ -1,0 +1,47 @@
+data:
+  identifier: '01141'
+  localized_concepts:
+    eng: 52a98602-9dbd-5510-b580-1c7a9b4593a1
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.5
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 4d68670d-70fe-57ed-932e-7fe2037d3d5d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the intersection of the vertical measurement axis with the upper surface
+      of the dip plate, or with the bottom surface of the tank if a dip plate is not
+      provided. It constitutes the origin for the measurement of liquid levels (zero
+      reference for innage height)
+  examples: []
+  id: 01141-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dipping datum point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 52a98602-9dbd-5510-b580-1c7a9b4593a1

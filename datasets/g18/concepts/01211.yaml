@@ -1,0 +1,46 @@
+data:
+  identifier: '01211'
+  localized_concepts:
+    eng: bcdce49d-1a4e-567d-8b5c-bee735dd461d
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.1
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 0cd76ab2-2b6c-5227-a4eb-b6f2c9b9f1ef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a measuring instrument that determines the mass of a quantity of flowing
+      liquid without the use of any auxiliary device or data on the physical properties
+      of the liquid
+  examples: []
+  id: 01211-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct mass flow instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bcdce49d-1a4e-567d-8b5c-bee735dd461d

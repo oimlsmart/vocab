@@ -1,0 +1,48 @@
+data:
+  identifier: 01459
+  localized_concepts:
+    eng: abb1e018-c294-5c9d-8dac-53ff62f81578
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: b42e4e69-664e-5b0c-880a-ec880abb5b68
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'in t samp parameter that describes the assessed roughness profile of
+      a le. The letter R is indicative of the type of assessed profile, his case R
+      for roughness profile. The assessed profile of a le can be in terms of different
+      profile types: a roughness ile or R-parameter, primary profile or P-parameter,
+      a ness profile or W-parameter'
+  examples: []
+  id: 01459-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: roughness parameter or R-parameter samp prof wavi
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: abb1e018-c294-5c9d-8dac-53ff62f81578

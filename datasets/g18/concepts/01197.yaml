@@ -1,0 +1,47 @@
+data:
+  identifier: 01197
+  localized_concepts:
+    eng: 9c5fa993-54b6-55c4-9417-d3e4562a6c6a
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R100
+    ref_type: section
+status: valid
+id: c4cde8c0-8147-556f-8942-c86b4bf0462a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the concentration/mass of the element being determined needed to produce
+      a signal of 0.0044 absorbance which is equivalent to a 1 % decrease in transmitted
+      radiation
+  examples: []
+  id: 01197-eng
+  notes:
+  - content: Sensitivity has historically been used for this term.
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: characteristic concentration, characteristic mass
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9c5fa993-54b6-55c4-9417-d3e4562a6c6a

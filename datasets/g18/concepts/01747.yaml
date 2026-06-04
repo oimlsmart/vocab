@@ -1,0 +1,46 @@
+data:
+  identifier: '01747'
+  localized_concepts:
+    eng: dcbd859e-5408-5acd-bc55-88509a5e377e
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R131
+    ref_type: section
+status: valid
+id: 726af3fa-662e-53ed-a8b6-c1ce6e47c437
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quotient of dē by dm, where dē is the incremental mean energy imparted
+      by ionizing radiation to a quantity of matter of mass dm. The unit for absorbed
+      dose is the gray (Gy), where 1 Gy = 1 J/kg
+  examples: []
+  id: 01747-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorbed dose, D
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dcbd859e-5408-5acd-bc55-88509a5e377e

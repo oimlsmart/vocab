@@ -1,0 +1,46 @@
+data:
+  identifier: 02197
+  localized_concepts:
+    eng: 203bb763-cf8e-538b-92cb-9596408c6f54
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.30
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: ba661fde-1f00-595b-bbe6-b6b891b81bbd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'parameter of a measuring instrument, electronic device, or a sub- assembly
+      subject to legal control. The following types of legally relevant parameters
+      can be distinguished: type-specific parameters and device-specific parameters'
+  examples: []
+  id: 02197-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.30
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 203bb763-cf8e-538b-92cb-9596408c6f54

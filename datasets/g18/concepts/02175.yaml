@@ -1,0 +1,45 @@
+data:
+  identifier: '02175'
+  localized_concepts:
+    eng: 1b71f817-728e-5f2e-b3ef-a25887747e85
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.8
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 0136b6cc-95a0-5128-8b4c-5b4037af8390
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: exchange of information between two or more units (e.g. software modules,
+      electronic devices, subassemblies, etc.) according to specific rules.
+  examples: []
+  id: 02175-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: communication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1b71f817-728e-5f2e-b3ef-a25887747e85

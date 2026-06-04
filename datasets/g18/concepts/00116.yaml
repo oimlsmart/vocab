@@ -1,0 +1,45 @@
+data:
+  identifier: '00116'
+  localized_concepts:
+    eng: 25bd3447-5b20-5880-9f0b-778674ada4c7
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.25'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 128179dc-651c-5e04-a51d-fb80a17a908c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Issuing Authority or National Responsible Body that applies to bea Participant
+      in a particular DoMC
+  examples: []
+  id: 00116-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Applicant
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 25bd3447-5b20-5880-9f0b-778674ada4c7

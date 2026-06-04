@@ -1,0 +1,47 @@
+data:
+  identifier: '00572'
+  localized_concepts:
+    eng: e04a71a6-4fd8-5a44-b454-647e11d4d7e3
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.9
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 434c2821-087a-5186-a5df-dc9bc4f6622e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legal entity (i.e. the verification, and/or Issuing Authority) designated
+      or formally accepted by the government to be responsible for ascertaining that
+      the automatic weighing instrument satisfies all or some specific requirements
+      of this Recommendation
+  examples: []
+  id: 00572-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e04a71a6-4fd8-5a44-b454-647e11d4d7e3

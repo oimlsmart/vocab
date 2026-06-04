@@ -1,0 +1,48 @@
+data:
+  identifier: '01246'
+  localized_concepts:
+    eng: 7cdfeef1-ad88-5a68-bb3c-4f9c61e8db0c
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.29
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 89fd6b65-3d8d-578f-8081-5d0396f53bb6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a facility that is incorporated in a measuring system and enables The
+      checking of a transmission device aims at significant faults to be detected
+      and acted upon
+  examples: []
+  id: 01246-eng
+  notes:
+  - content: verifying that all information that is transmitted (and only that information)
+      is fully received by the receiving equipment.
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.29
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7cdfeef1-ad88-5a68-bb3c-4f9c61e8db0c

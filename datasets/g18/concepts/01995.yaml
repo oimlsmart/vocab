@@ -1,0 +1,45 @@
+data:
+  identifier: 01995
+  localized_concepts:
+    eng: 94e92860-dc5b-50b8-872a-65f263a7ab99
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.7
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 9ccc6fb1-e3d8-5254-817a-21a8744deabc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system which comprises the meter itself and all the ancillary devices
+      and additional devices
+  examples: []
+  id: 01995-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 94e92860-dc5b-50b8-872a-65f263a7ab99

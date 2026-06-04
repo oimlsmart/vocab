@@ -1,0 +1,47 @@
+data:
+  identifier: '02240'
+  localized_concepts:
+    eng: cd277d63-e719-5160-95a9-73a62738e334
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: ec79ef66-b310-50c2-990b-62b5de80e311
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: container, suitable for use as a volume measuring device for liquids,
+      fixed on a truck (or on a railcar) or detachably connected tank. toit, which
+      may be subdivided into several measuring compartments
+  examples: []
+  id: 02240-eng
+  notes:
+  - content: Hereafter referred to as measuring tank or
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transportable measuring tank
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cd277d63-e719-5160-95a9-73a62738e334

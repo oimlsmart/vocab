@@ -1,0 +1,46 @@
+data:
+  identifier: '01471'
+  localized_concepts:
+    eng: 0c209ff7-894b-5049-890e-8888849a19ca
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.19'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 82f1bc74-70a0-558c-b938-c7ed2e135a8e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'material measure of mass, regulated in regard to its physical and metrological
+      characteristics: shape, dimensions, material, surface quality, nominal value,
+      density, magnetic properties and maximum permissible error'
+  examples: []
+  id: 01471-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weight
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0c209ff7-894b-5049-890e-8888849a19ca

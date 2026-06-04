@@ -1,0 +1,47 @@
+data:
+  identifier: '01467'
+  localized_concepts:
+    eng: 7081b065-3a6b-5590-8e1b-74919c281484
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.17.2
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 927b8560-0356-5122-a8bb-16a7e7df4fe6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: process of making a decision by a responsible body, based on a review
+      of a type evaluation test report for the type of weights or weight set and professional
+      judgment, that the type is in conformity with the mandatory requirements of
+      this Recommendation for legal applications
+  examples: []
+  id: 01467-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.17.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7081b065-3a6b-5590-8e1b-74919c281484

@@ -1,0 +1,46 @@
+data:
+  identifier: 00080
+  localized_concepts:
+    eng: 124d581a-180e-5480-b839-52a03d0260c0
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: 4c0d3a57-c79a-52ba-b527-cde3495e7a83
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: identification or classification of instruments according to unique metrological
+      and technical characteristics that may include the measured quantity, the measuring
+      range, and the principle or method of measurement
+  examples: []
+  id: 00080-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: category of instruments
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 124d581a-180e-5480-b839-52a03d0260c0

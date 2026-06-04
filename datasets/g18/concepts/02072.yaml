@@ -1,0 +1,45 @@
+data:
+  identifier: '02072'
+  localized_concepts:
+    eng: 61a3493a-408e-5e4c-abdc-ce337238a0e6
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 7bfaf3c5-7e47-572a-be2c-c0b5404d246b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme values permitted by this Recommendation for an error
+  examples: []
+  id: 02072-eng
+  notes:
+  - content: (adapted from VIM:2007, 4.26)
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (mpe)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 61a3493a-408e-5e4c-abdc-ce337238a0e6

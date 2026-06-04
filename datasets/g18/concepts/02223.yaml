@@ -1,0 +1,49 @@
+data:
+  identifier: '02223'
+  localized_concepts:
+    eng: d7921471-e0d1-5cc5-861f-07b613fb40b9
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.56
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 4364dab9-7167-5bee-ba2f-a7d007c355da
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'confirmation by examination and provision of objective evidence (i.e.
+      information that can be proved true, based on facts 4: obtained from observations,
+      measurement, test, etc.) that the particular requirements for the specific intended
+      use are fulfilled. In the present case the related requirements are those of
+      this Document'
+  examples: []
+  id: 02223-eng
+  notes:
+  - content: '[derived from ISO/IEC 14598 and IEC 61508- 1998]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.56
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: validation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d7921471-e0d1-5cc5-861f-07b613fb40b9

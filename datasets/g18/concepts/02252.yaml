@@ -1,0 +1,45 @@
+data:
+  identifier: '02252'
+  localized_concepts:
+    eng: eadcd752-0030-5b8a-ab78-d8671e033a84
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: c2691439-b970-583e-a951-9deae0358541
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: level of the surface of the liquid, or the vapor/liquid interface in
+      the tank
+  examples: []
+  id: 02252-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: liquid level
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eadcd752-0030-5b8a-ab78-d8671e033a84

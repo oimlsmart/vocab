@@ -1,0 +1,47 @@
+data:
+  identifier: 02059
+  localized_concepts:
+    eng: 76462ed6-e81e-5ba5-9ddb-ac49ef81776c
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.16
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 413d601b-0833-5699-96c8-b2987660f53f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: individual calorific value or a combination of calorific values that
+      is considered to be, according to the constitution of the measuring system,
+      the most appropriate calorific value to be associated with the metered quantity
+      in order to calculate the energy
+  examples: []
+  id: 02059-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.16
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: representative calorific value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 76462ed6-e81e-5ba5-9ddb-ac49ef81776c

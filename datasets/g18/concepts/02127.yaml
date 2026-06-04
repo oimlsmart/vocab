@@ -1,0 +1,46 @@
+data:
+  identifier: '02127'
+  localized_concepts:
+    eng: 47b58c9a-3037-568e-b572-ff910bd0cd17
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 2c43ab22-42b8-50bf-9b7d-4f2d6e84f50e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement signal functionally related to the measurand – the volume
+      fraction of a component to be measured, which enters the input of a measuring
+      instrument, a measuring channel or a separate converter component
+  examples: []
+  id: 02127-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: input measurement signal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 47b58c9a-3037-568e-b572-ff910bd0cd17

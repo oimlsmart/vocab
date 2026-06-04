@@ -1,0 +1,45 @@
+data:
+  identifier: 00882
+  localized_concepts:
+    eng: 9be2ea35-98f8-5495-ae0a-673b703b4b5e
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 346c0980-07ea-5fc3-968c-faadd14cee7e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that indicates the price to pay by means of price charts or
+      scales related to a range of unit prices
+  examples: []
+  id: 00882-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument with price scales
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9be2ea35-98f8-5495-ae0a-673b703b4b5e

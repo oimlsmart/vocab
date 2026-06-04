@@ -1,0 +1,45 @@
+data:
+  identifier: '01421'
+  localized_concepts:
+    eng: 40c5ff97-a178-5917-b2af-c3ce7868e3d7
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 5761c032-2a3b-56e5-a029-33f7ca105fba
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the area determined for a given piston-cylinder assembly which is used
+      in the conversion equation for the calculation of the measured pressure
+  examples: []
+  id: 01421-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effective area
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 40c5ff97-a178-5917-b2af-c3ce7868e3d7

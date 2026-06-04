@@ -1,0 +1,45 @@
+data:
+  identifier: 00977
+  localized_concepts:
+    eng: 3eea1cec-7faf-5441-9fe9-e6f8d8d9c4e3
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 2b0dab76-d12b-5c6a-ac65-9b5e3e05df3d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a indication of an instrument minus the (conventional) true value ofthe
+      corresponding mass dapted from VIM:1993, 1993, 3.10]'
+  examples: []
+  id: 00977-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3eea1cec-7faf-5441-9fe9-e6f8d8d9c4e3

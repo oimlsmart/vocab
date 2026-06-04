@@ -1,0 +1,45 @@
+data:
+  identifier: 00876
+  localized_concepts:
+    eng: feaf8f30-4740-5859-a029-88c888dbe0cc
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 028bd42f-6e86-5626-abfd-797c3161c8c6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument allowing the direct reading of the complete or partial weighing
+      result
+  examples: []
+  id: 00876-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: graduated instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: feaf8f30-4740-5859-a029-88c888dbe0cc

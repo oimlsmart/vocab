@@ -1,0 +1,44 @@
+data:
+  identifier: 02288
+  localized_concepts:
+    eng: 79c660a0-3559-58d4-9464-73d4701282ba
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.49'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: e9976387-19f8-51b9-b335-73b0efc70167
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fault greater than the value specified in 5.7.1.4.
+  examples: []
+  id: 02288-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.49'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 79c660a0-3559-58d4-9464-73d4701282ba

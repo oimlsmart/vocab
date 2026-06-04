@@ -1,0 +1,45 @@
+data:
+  identifier: '02120'
+  localized_concepts:
+    eng: 3946840e-653b-58bd-ba5f-2cb239eb8b5a
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+    locality:
+      type: clause
+      reference_from: 2.4(annex 6)
+    type: authoritative
+  domains:
+  - concept_id: section-R142
+    ref_type: section
+status: valid
+id: aeb385d8-283e-5c74-902e-ddf91f00ae64
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: parameter characterizing the dispersion of the quantity values being
+      attributed to a measurand, based on the information used
+  examples: []
+  id: 02120-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+      locality:
+        type: clause
+        reference_from: 2.4(annex 6)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty of measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3946840e-653b-58bd-ba5f-2cb239eb8b5a

@@ -1,0 +1,45 @@
+data:
+  identifier: '01521'
+  localized_concepts:
+    eng: 542c4d63-8b2c-5be2-a269-95ba7e023830
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: 02ddbf03-f249-5e66-a785-5d4786ba261a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: solution that is prepared in the same way as the sample solution but
+      does not contain the element or elements to be determined
+  examples: []
+  id: 01521-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blank test solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 542c4d63-8b2c-5be2-a269-95ba7e023830

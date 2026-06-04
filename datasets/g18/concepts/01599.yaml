@@ -1,0 +1,46 @@
+data:
+  identifier: 01599
+  localized_concepts:
+    eng: d1207d31-2a37-5f43-bb77-746ac745ead0
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.s.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 098b4441-5a1c-5204-8259-405a717cb900
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating mode of a self-service arrangement in which the self- service
+      device controls the authorization for the delivery, based onan action of the
+      customer
+  examples: []
+  id: 01599-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.s.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unattended service mode
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d1207d31-2a37-5f43-bb77-746ac745ead0

@@ -1,0 +1,44 @@
+data:
+  identifier: '00313'
+  localized_concepts:
+    eng: 074e1ba4-04e7-57a0-8d18-c58ca8739ff7
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-1
+    ref_type: section
+status: valid
+id: 2981aef4-0fcc-5ebf-b5de-00eb5cf56597
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: essentially inelastic part of the cuff that encloses the bladder
+  examples: []
+  id: 00313-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sleeve
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 074e1ba4-04e7-57a0-8d18-c58ca8739ff7

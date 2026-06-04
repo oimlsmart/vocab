@@ -1,0 +1,44 @@
+data:
+  identifier: '00321'
+  localized_concepts:
+    eng: 40040e84-a9bc-55ba-ae33-b853a2b2ea16
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-2
+    ref_type: section
+status: valid
+id: fba3ccb8-1a8b-5930-9fac-464193cd18e0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: inflatable component of the cuff
+  examples: []
+  id: 00321-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bladder
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 40040e84-a9bc-55ba-ae33-b853a2b2ea16

@@ -1,0 +1,46 @@
+data:
+  identifier: 00957
+  localized_concepts:
+    eng: ce888941-0374-59c9-93c3-1d57d3a69239
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 593c6951-4e03-5bf2-90dd-154d70dc7821
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: for a given value of the measured mass, the quotient of the change, Δl,
+      of the observed variable, l, and the corresponding change, Δm, of the measured
+      mass, m
+  examples: []
+  id: 00957-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ce888941-0374-59c9-93c3-1d57d3a69239

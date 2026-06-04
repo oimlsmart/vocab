@@ -1,0 +1,44 @@
+data:
+  identifier: 01488
+  localized_concepts:
+    eng: a9f774a0-6407-561e-92e7-effc97cf46a9
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 7df1a17b-7129-5454-a0dc-2209cf85eb10
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the means of introducing a sample into the column
+  examples: []
+  id: 01488-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: injection device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a9f774a0-6407-561e-92e7-effc97cf46a9

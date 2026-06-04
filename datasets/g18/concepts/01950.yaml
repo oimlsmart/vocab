@@ -1,0 +1,45 @@
+data:
+  identifier: 01950
+  localized_concepts:
+    eng: 44fb076b-8ab5-588e-b281-b8a34c86bc47
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.14
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 9c2cf094-df89-527c-ab51-30ae8b2e7dd4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of the gas (temperature, pressure and gas composition) at
+      which the quantity of gas is measured
+  examples: []
+  id: 01950-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 44fb076b-8ab5-588e-b281-b8a34c86bc47

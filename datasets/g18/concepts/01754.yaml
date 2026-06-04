@@ -1,0 +1,45 @@
+data:
+  identifier: '01754'
+  localized_concepts:
+    eng: 354a1ea4-d748-5ed4-82e2-bbd075360fac
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R131
+    ref_type: section
+status: valid
+id: a734eb39-2098-5eee-b062-8fb20a35c43a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme values of an error permitted by specifications, regulations,
+      etc. for a given measuring instrument
+  examples: []
+  id: 01754-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible errors
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 354a1ea4-d748-5ed4-82e2-bbd075360fac

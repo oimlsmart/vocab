@@ -1,0 +1,45 @@
+data:
+  identifier: '00312'
+  localized_concepts:
+    eng: 231b9996-2e66-5045-b049-9a8dca9b0531
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-1
+    ref_type: section
+status: valid
+id: 5b553632-81cf-5414-bad1-61ed99cf490f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system that includes all pressurized and pressure controlling parts such
+      as cuff, tubing, connectors, valves, transducer and pump
+  examples: []
+  id: 00312-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pneumatic system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 231b9996-2e66-5045-b049-9a8dca9b0531

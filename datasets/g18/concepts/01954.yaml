@@ -1,0 +1,44 @@
+data:
+  identifier: 01954
+  localized_concepts:
+    eng: 00b31e38-5cea-5c83-bd64-de2157b1f705
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.18
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: d497d486-66b6-53b0-a485-d0a6d62b149b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device to enable precise reading of the measured gas quantity
+  examples: []
+  id: 01954-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.18
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test element of an indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 00b31e38-5cea-5c83-bd64-de2157b1f705

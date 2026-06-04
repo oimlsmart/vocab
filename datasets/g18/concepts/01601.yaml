@@ -1,0 +1,46 @@
+data:
+  identifier: '01601'
+  localized_concepts:
+    eng: 27fb16cd-2757-5682-b31f-d7fa34dde63d
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.s.6
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: f5101753-9c88-560a-a4e5-2f8ac1a2c4d0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for checking, before start-up and after shut-down, that all orpart
+      of the measuring system is either filled completely with liquid (full hose measuring
+      systems) or completely empty of liquid (empty hose measuring system)
+  examples: []
+  id: 01601-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.s.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sight glass
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 27fb16cd-2757-5682-b31f-d7fa34dde63d

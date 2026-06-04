@@ -1,0 +1,45 @@
+data:
+  identifier: '00145'
+  localized_concepts:
+    eng: 0acd901b-9416-5fb7-8edb-93a4bb48d823
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+    locality:
+      type: clause
+      reference_from: 1.2.11
+    type: authoritative
+  domains:
+  - concept_id: section-D020
+    ref_type: section
+status: valid
+id: cbc65af9-335c-5142-bb23-14cdd2f0fd55
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a non-governmental organization that calibrates, tests, repairs, or maintains
+      instruments
+  examples: []
+  id: 00145-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+      locality:
+        type: clause
+        reference_from: 1.2.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: service organization
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0acd901b-9416-5fb7-8edb-93a4bb48d823

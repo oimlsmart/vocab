@@ -1,0 +1,47 @@
+data:
+  identifier: '02222'
+  localized_concepts:
+    eng: 238742e9-d96f-5ab0-b997-1b06233446d2
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.55
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: bd442c2e-0c2b-523d-bfa5-775e493ae0f7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: interface that enables information to be interchanged between a human
+      and the measuring instrument or its hardware or software components, e.g. switches,
+      keyboard, mouse, display, monitor, printer, touch-screen, software window on
+      a screen including the software that generates it
+  examples: []
+  id: 02222-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.55
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user interface
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 238742e9-d96f-5ab0-b997-1b06233446d2

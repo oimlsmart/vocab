@@ -1,0 +1,46 @@
+data:
+  identifier: '01440'
+  localized_concepts:
+    eng: 84e06eb7-5056-56a6-9507-c56d3a69f60e
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.6.2
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 790c4b7f-36d5-5621-8ae3-c1d92ea22570
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the vertical level, with respect to a clearly defined part of the support
+      column or the base of a pressure balance, to which a measured pressure is related
+      when the piston is at a specific operating level
+  examples: []
+  id: 01440-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.6.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pressure reference level
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 84e06eb7-5056-56a6-9507-c56d3a69f60e

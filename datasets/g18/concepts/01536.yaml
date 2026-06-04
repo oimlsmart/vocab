@@ -1,0 +1,45 @@
+data:
+  identifier: '01536'
+  localized_concepts:
+    eng: 0093ac2a-b58f-5012-9cf5-791648b64688
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.10
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 563ef000-59d1-56ef-81b9-a0cae0455cea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operation that brings the measuring system into a condition suitable
+      for the commencement of the delivery
+  examples: []
+  id: 01536-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: authorization of a measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0093ac2a-b58f-5012-9cf5-791648b64688

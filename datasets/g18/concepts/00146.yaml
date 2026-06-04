@@ -1,0 +1,45 @@
+data:
+  identifier: '00146'
+  localized_concepts:
+    eng: 9436e0e9-135f-5ba1-8e7f-0359fc64d933
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 01a46adf-c728-57a5-87ea-f65257994b6a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the closeness of the agreement between the result of a measurement and
+      the conventional true value of the measurand
+  examples: []
+  id: 00146-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9436e0e9-135f-5ba1-8e7f-0359fc64d933

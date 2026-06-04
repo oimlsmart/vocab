@@ -1,0 +1,47 @@
+data:
+  identifier: '00346'
+  localized_concepts:
+    eng: 04e228b9-665b-54bf-a00b-28ca23390d5a
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 343276fd-bb97-5db8-96d9-6359be10d8a0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: non-resettable counter device that increments each time device- specific
+      parameters (2.2.8.3) are changed. The reference number of the counter at the
+      time of initial or subsequent verification is fixed and secured by appropriate
+      hardware or software means
+  examples: []
+  id: 00346-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: event-counter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 04e228b9-665b-54bf-a00b-28ca23390d5a

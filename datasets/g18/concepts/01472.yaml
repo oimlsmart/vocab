@@ -1,0 +1,46 @@
+data:
+  identifier: '01472'
+  localized_concepts:
+    eng: 2b6b675a-593b-5e85-aa31-1a2266886fd7
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.20'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 05b0c446-5a86-580e-a043-78f7a1db0766
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'gravitational force with which the body is attracted by the earth. The
+      word weight denotes a quantity of the same nature as a force: the weight of
+      a body is the product of its mass and the acceleration due to gravity'
+  examples: []
+  id: 01472-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weight of a body (Fg)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2b6b675a-593b-5e85-aa31-1a2266886fd7

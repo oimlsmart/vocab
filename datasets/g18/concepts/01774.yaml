@@ -1,0 +1,45 @@
+data:
+  identifier: '01774'
+  localized_concepts:
+    eng: bb79e26d-8e2c-5d39-98f2-d67e6357d478
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: 9405d41e-6f1b-519c-9428-3f690db8bb83
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tube containing the capillary through which the thermometric liquid moves
+      with a change of temperature
+  examples: []
+  id: 01774-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stem
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bb79e26d-8e2c-5d39-98f2-d67e6357d478

@@ -1,0 +1,46 @@
+data:
+  identifier: '01133'
+  localized_concepts:
+    eng: 46d44da7-4cdf-57d0-8c25-99a9d9aac9b9
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: 0493fcb4-bfb4-582f-b565-9e5a4d6fe5a4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: deviation of a ray of light through a specific point on a lens
+  examples: []
+  id: 01133-eng
+  notes:
+  - content: The unit for expressing prismatic power is the centimetre per metre (cm/m).
+      The name for this unit is the “prism dioptre”, for which th symbol is D.
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prismatic power
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 46d44da7-4cdf-57d0-8c25-99a9d9aac9b9

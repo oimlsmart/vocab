@@ -1,0 +1,46 @@
+data:
+  identifier: '00421'
+  localized_concepts:
+    eng: 4cd7a953-6183-5d70-9a4b-5b0e858a1bc9
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.11
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 8612bddf-0527-51c5-894b-715d40ede5fb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instruments connected to the calculator, the correction device or the
+      conversion device, for measuring certain quantities which are characteristic
+      of water, with a view to making a correction and/or a conversion
+  examples: []
+  id: 00421-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: associated measuring instruments
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4cd7a953-6183-5d70-9a4b-5b0e858a1bc9

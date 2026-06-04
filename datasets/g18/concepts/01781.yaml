@@ -1,0 +1,45 @@
+data:
+  identifier: 01781
+  localized_concepts:
+    eng: 8dabf308-ae66-54c7-a2fd-b21ca4685154
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: f64aceaf-a150-5569-8936-914f187b0285
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of values of temperature for which the error of the thermometer is
+      intended to lie within specified limits
+  examples: []
+  id: 01781-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring (working) temperature range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8dabf308-ae66-54c7-a2fd-b21ca4685154

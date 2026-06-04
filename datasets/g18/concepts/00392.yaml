@@ -1,0 +1,45 @@
+data:
+  identifier: 00392
+  localized_concepts:
+    eng: e4669ded-5c54-50c1-aa12-f84dbf1e698f
+  sources:
+  - origin:
+      ref:
+        source: OIML R040:1981
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R040
+    ref_type: section
+status: valid
+id: c251a666-10f8-564b-8569-ed8aeba18fcd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nominal capacity is the maximum numbered value of the scale of volumes
+      shown on the pipette
+  examples: []
+  id: 00392-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R040:1981
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e4669ded-5c54-50c1-aa12-f84dbf1e698f

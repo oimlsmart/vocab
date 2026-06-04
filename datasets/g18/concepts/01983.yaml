@@ -1,0 +1,48 @@
+data:
+  identifier: 01983
+  localized_concepts:
+    eng: f430e701-ab42-549f-bb35-75eba12d4860
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R138
+    ref_type: section
+status: valid
+id: ba9a9fdc-9ac7-53b5-bbda-d8bc7d64264e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'for measuring container bottles and casks: contained volume of water
+      at a reference temperature with an uncertainty appropriate for the given purpose.
+      For capacity serving measures: delivered volume of water at a reference temperature
+      with an uncertainty appropriate for the given purpose. This volume is measured
+      after prior wetting of the interior of the vessel and draining for 30 seconds'
+  examples: []
+  id: 01983-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f430e701-ab42-549f-bb35-75eba12d4860

@@ -1,0 +1,45 @@
+data:
+  identifier: 00087
+  localized_concepts:
+    eng: 065d1771-e119-59e3-9ec8-6d2afc3fd37f
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.9'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: 2b772ccc-c161-52b7-bc89-eb660df667c3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fulfilment by a measuring instrument type of metrological and technical
+      requirements as specified in the relevant Recommendation
+  examples: []
+  id: 00087-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 065d1771-e119-59e3-9ec8-6d2afc3fd37f

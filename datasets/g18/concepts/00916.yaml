@@ -1,0 +1,45 @@
+data:
+  identifier: 00916
+  localized_concepts:
+    eng: 779411b8-63e2-5016-a2f2-a3cf56cce70f
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 5d66aae6-bf4f-54d3-84f3-39a6ac81b8fb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: digital indicating device of which the last figure after the decimal
+      sign is clearly differentiated from other figures
+  examples: []
+  id: 00916-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device with a differentiated scale division
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 779411b8-63e2-5016-a2f2-a3cf56cce70f

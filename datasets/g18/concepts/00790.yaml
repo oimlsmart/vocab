@@ -1,0 +1,45 @@
+data:
+  identifier: 00790
+  localized_concepts:
+    eng: 7dee038e-c427-5aeb-ac8e-495d3014ac6f
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.8
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: def9ac31-5762-5569-969a-c97fe0d4848c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: largest discrete load that can be weighed automatically on the load receptor
+      of the filling instrument
+  examples: []
+  id: 00790-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum capacity (Max)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7dee038e-c427-5aeb-ac8e-495d3014ac6f

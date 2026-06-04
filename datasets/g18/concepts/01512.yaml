@@ -1,0 +1,47 @@
+data:
+  identifier: '01512'
+  localized_concepts:
+    eng: 8d18d16f-5d76-55c9-9397-093f542fa693
+  sources:
+  - origin:
+      ref:
+        source: OIML R115:1995
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R115
+    ref_type: section
+status: valid
+id: 8af4af39-b096-5383-9287-ab68d70f9d1b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a maximum device is the component of a thermometer that monitors over
+      a specified time the temperature measured by a probe in contact with a body
+      cavity or tissue, after which it indicates the maximum temperature and maintains
+      the indication until reset by the user
+  examples: []
+  id: 01512-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R115:1995
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8d18d16f-5d76-55c9-9397-093f542fa693

@@ -1,0 +1,46 @@
+data:
+  identifier: 01887
+  localized_concepts:
+    eng: 9ac06190-376b-56a7-8802-001c1f8b5a02
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.8
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: c455503d-f847-56c9-8682-57385b70fd1b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: wear-resistant and dimensionally stable flexible material (e.g. rubber
+      or reinforced rubber) of at least 1 mm thickness and of circular or irregular
+      form
+  examples: []
+  id: 01887-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: template
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9ac06190-376b-56a7-8802-001c1f8b5a02

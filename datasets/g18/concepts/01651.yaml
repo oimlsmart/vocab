@@ -1,0 +1,47 @@
+data:
+  identifier: '01651'
+  localized_concepts:
+    eng: 9e89f199-523d-5c6b-b7b3-b06d253915bd
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.32
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: abebb499-631b-53ea-b937-a514c4ba005f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the specified conditions to which a measured quantity is converted, e.g.
+      base temperature and base pressure
+  examples: []
+  id: 01651-eng
+  notes:
+  - content: The values chosen as base conditions should preferably be 15 °C or 20
+      °C and 101 325 Pa.
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.32
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9e89f199-523d-5c6b-b7b3-b06d253915bd

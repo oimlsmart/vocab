@@ -1,0 +1,45 @@
+data:
+  identifier: '01673'
+  localized_concepts:
+    eng: 76f409cd-d8e8-58c8-b838-dfe3acc84f53
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: 58e95b19-2699-5ccb-b009-6b3920a18b10
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the change in the indication which occurs during a stated period of time
+      at a given mass concentration of ethanol in air
+  examples: []
+  id: 01673-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: drift
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 76f409cd-d8e8-58c8-b838-dfe3acc84f53

@@ -1,0 +1,45 @@
+data:
+  identifier: '00150'
+  localized_concepts:
+    eng: e2a92ad8-2b39-59e8-8bbb-0834c3283b49
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 63aba9ca-b8df-59bf-9e9a-e7a2a9069378
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a value of quantity which, for a given purpose, may be substituted for
+      the true value
+  examples: []
+  id: 00150-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e2a92ad8-2b39-59e8-8bbb-0834c3283b49

@@ -1,0 +1,46 @@
+data:
+  identifier: 01769
+  localized_concepts:
+    eng: 2668d8ce-7af2-554c-a859-796bb706418a
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 8cd03f84-d7cd-55f2-bbe8-b16516935dbd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: closeness of agreement between the results of successive measurements
+      of the same sample carried out under the same conditions and within a relatively
+      short period of time.
+  examples: []
+  id: 01769-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2668d8ce-7af2-554c-a859-796bb706418a

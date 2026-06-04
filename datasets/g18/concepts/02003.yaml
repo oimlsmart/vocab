@@ -1,0 +1,49 @@
+data:
+  identifier: '02003'
+  localized_concepts:
+    eng: 1cca51b0-f79c-5915-864d-bc57ed19e914
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: a25dc7f9-2273-5364-b5cb-9a1ad85e14dd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: specific device that is part of a self-service arrangement and which
+      allows one or more measuring systems to perform in this self-service arrangement
+  examples: []
+  id: 02003-eng
+  notes:
+  - content: 1. The self-service device includes all the elements and constituents
+      that are mandatory so that a measuring system performs in a self- service arrangement.
+  - content: 2. The arrangement is made of a self-service device and connected measuring
+      systems.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-service device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1cca51b0-f79c-5915-864d-bc57ed19e914

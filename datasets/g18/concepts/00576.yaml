@@ -1,0 +1,46 @@
+data:
+  identifier: '00576'
+  localized_concepts:
+    eng: f8ce9886-17f9-53f2-9ac8-55ca59a58622
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.11
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 20a5bf28-464d-5624-bef6-7859bb719c18
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any device, module, part, component, function or software of a weighing
+      instrument that influences the weighing result or any other primary indication
+      is considered as metrologically relevant
+  examples: []
+  id: 00576-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrologically relevant
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f8ce9886-17f9-53f2-9ac8-55ca59a58622

@@ -1,0 +1,45 @@
+data:
+  identifier: '00455'
+  localized_concepts:
+    eng: 6711ee05-a906-5511-95a6-3c63a477bd5c
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.7
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 0c08e3bd-d251-5ac5-b383-b02ebf9c701b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the water meter (equipment under test,
+      EUT) is capable of accomplishing its intended functions
+  examples: []
+  id: 00455-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6711ee05-a906-5511-95a6-3c63a477bd5c

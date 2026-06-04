@@ -1,0 +1,45 @@
+data:
+  identifier: 01108
+  localized_concepts:
+    eng: dfafa3d1-5ba6-56a4-8e95-71019c407ef9
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: e967d5f4-5e9d-54f7-875d-47d7ec6b6319
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: actual quantity of product that a prepackage in fact contains as determined
+      by measurements made by legal metrology officials
+  examples: []
+  id: 01108-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actual quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dfafa3d1-5ba6-56a4-8e95-71019c407ef9

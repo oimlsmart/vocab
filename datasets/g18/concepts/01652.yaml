@@ -1,0 +1,44 @@
+data:
+  identifier: '01652'
+  localized_concepts:
+    eng: 3e9a1206-926a-5ebd-9f96-02b25a3de89b
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.33
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 84a643d5-3c7a-514b-b1eb-bf643de076f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the ability of the measuring instrument to accomplish its intended functions
+  examples: []
+  id: 01652-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.33
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3e9a1206-926a-5ebd-9f96-02b25a3de89b

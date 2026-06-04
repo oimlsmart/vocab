@@ -1,0 +1,45 @@
+data:
+  identifier: '00132'
+  localized_concepts:
+    eng: 55a423a7-a29a-58ab-af76-0191f80e7722
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.8
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: 86ffbc60-ed14-55b5-94df-d0a571acb29e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a laboratory which measures, examines, tests, calibrates or otherwise
+      determines the characteristics or performance of materials or products
+  examples: []
+  id: 00132-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: testing laboratory
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 55a423a7-a29a-58ab-af76-0191f80e7722

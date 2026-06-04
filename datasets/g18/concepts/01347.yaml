@@ -1,0 +1,45 @@
+data:
+  identifier: '01347'
+  localized_concepts:
+    eng: dc909818-cd9a-5f8c-b504-403fb7e2d756
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.7.6
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 9691ee3f-e114-59cc-a987-a85039e31aec
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: terminal without keys that can be used for the primary indications or
+      for their repetition
+  examples: []
+  id: 01347-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.7.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: remote display
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dc909818-cd9a-5f8c-b504-403fb7e2d756

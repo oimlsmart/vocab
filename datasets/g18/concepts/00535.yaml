@@ -1,0 +1,45 @@
+data:
+  identifier: '00535'
+  localized_concepts:
+    eng: f472cc69-9048-5dc0-945d-c9e9c3c74e84
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 9e718469-c6fe-5fcd-ba50-231246b9bc09
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test carried out on a complete belt weigher using the type of material
+      that it is intended to weigh
+  examples: []
+  id: 00535-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f472cc69-9048-5dc0-945d-c9e9c3c74e84

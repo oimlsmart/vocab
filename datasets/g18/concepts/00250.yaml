@@ -1,0 +1,44 @@
+data:
+  identifier: '00250'
+  localized_concepts:
+    eng: ab7f0625-baa1-5a87-95d9-b062ce980c60
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: 3.20.1
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 210e74f7-e675-55a6-9d23-80c88f14560e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: detailed description of the test operations
+  examples: []
+  id: 00250-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: 3.20.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test procedure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ab7f0625-baa1-5a87-95d9-b062ce980c60

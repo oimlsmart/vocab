@@ -1,0 +1,45 @@
+data:
+  identifier: '01144'
+  localized_concepts:
+    eng: 186f961f-9b5d-50d9-8077-3259c53bc8f9
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.8
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 77826ffe-b0f2-5f15-aca8-b39c38868a06
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the distance between the dipping datum point and the free surface of
+      the liquid, measured along the vertical measurement axis
+  examples: []
+  id: 01144-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: innage height
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 186f961f-9b5d-50d9-8077-3259c53bc8f9

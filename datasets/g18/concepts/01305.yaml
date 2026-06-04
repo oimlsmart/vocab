@@ -1,0 +1,45 @@
+data:
+  identifier: '01305'
+  localized_concepts:
+    eng: 962b7643-8c45-5597-b364-537390291e94
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: dfdd973b-64db-5c0a-adc3-d2832be7c0da
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a set of specified values of influence factors fixed to ensure valid
+      intercomparison of the results of measurements
+  examples: []
+  id: 01305-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 962b7643-8c45-5597-b364-537390291e94

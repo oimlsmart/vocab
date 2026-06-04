@@ -1,0 +1,48 @@
+data:
+  identifier: '01014'
+  localized_concepts:
+    eng: 2d82a337-3dd4-5db2-8c05-ec7035a0e16b
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 9fc3c2c0-52ae-5bc9-910e-cf8d68644b07
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an instrument designed to measure continuously, memorize and display
+      the quantity that passes through the measurement transducer
+  examples: []
+  id: 01014-eng
+  notes:
+  - content: a meter includes at least a measurement transducer, a calculator (including
+      adjustment or correction devices if present), a conversio device (if necessary),
+      and an indicating device.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2d82a337-3dd4-5db2-8c05-ec7035a0e16b

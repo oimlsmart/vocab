@@ -1,0 +1,44 @@
+data:
+  identifier: '01710'
+  localized_concepts:
+    eng: bc1f9c68-6f34-53d9-9d44-c7382a6385d0
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 9b5f615e-2680-544e-822f-89bcef5d63a5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any object other than a rectangular box
+  examples: []
+  id: 01710-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: irregular shaped object
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bc1f9c68-6f34-53d9-9d44-c7382a6385d0

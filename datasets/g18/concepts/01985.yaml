@@ -1,0 +1,44 @@
+data:
+  identifier: 01985
+  localized_concepts:
+    eng: aeed23d6-c4cf-5d47-91d7-5a3c7db83e0a
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R138
+    ref_type: section
+status: valid
+id: 3b6d147e-6198-5cef-bda0-25e132f86df2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: empty volume remaining in a container after it is filled
+  examples: []
+  id: 01985-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ullage (or headspace)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: aeed23d6-c4cf-5d47-91d7-5a3c7db83e0a

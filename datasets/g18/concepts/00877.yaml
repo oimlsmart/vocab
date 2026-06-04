@@ -1,0 +1,44 @@
+data:
+  identifier: 00877
+  localized_concepts:
+    eng: 6de7aaeb-d340-5894-bff0-68eef190ffb6
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 80813ccf-8d73-5b51-b34d-9916c11485a1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument not fitted with a scale numbered in units of mass
+  examples: []
+  id: 00877-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-graduated instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6de7aaeb-d340-5894-bff0-68eef190ffb6

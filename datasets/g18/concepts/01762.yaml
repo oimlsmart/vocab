@@ -1,0 +1,46 @@
+data:
+  identifier: '01762'
+  localized_concepts:
+    eng: d50888f1-4b7f-51b3-89e4-2a22caa8c48c
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 2fddca28-938d-5f85-b2cd-d835e113df08
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity of dosimeters made from a specific mass of material having a
+      uniform composition, fabricated in a single production run under controlled
+      and consistent conditions, and assigned a unique identification code
+  examples: []
+  id: 01762-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dosimeter batch
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d50888f1-4b7f-51b3-89e4-2a22caa8c48c

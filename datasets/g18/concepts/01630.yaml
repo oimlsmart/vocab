@@ -1,0 +1,48 @@
+data:
+  identifier: '01630'
+  localized_concepts:
+    eng: 986211c5-007b-555e-8c59-998306250867
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.14
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 4b3fa7c0-aa52-5a2c-aebe-ada29df40e8a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the gross mass is the mass of the liquid determined by the measuring
+      instrument (measured mass) as well as the mass of the liquid below the transducer
+      and includes water and sediment entrained in the liquid. It does not include
+      the mass of vapor above the liquid, the mass of the floating roof (if fitted),
+      nor the mass of the free bottom sediment and water
+  examples: []
+  id: 01630-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gross mass
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 986211c5-007b-555e-8c59-998306250867

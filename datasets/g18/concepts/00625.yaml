@@ -1,0 +1,44 @@
+data:
+  identifier: '00625'
+  localized_concepts:
+    eng: b7794b5c-8199-56fa-b618-578a8e273c66
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 290d20b2-ee78-55ec-abf6-34a2862af878
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range between the minimum and maximum capacities
+  examples: []
+  id: 00625-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b7794b5c-8199-56fa-b618-578a8e273c66

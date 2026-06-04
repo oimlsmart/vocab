@@ -1,0 +1,45 @@
+data:
+  identifier: '00716'
+  localized_concepts:
+    eng: 48a49912-dd1e-5fb9-b228-6bc5f4720b92
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 9cab0cdf-f8ad-5ec3-beb0-42e166a1ebb8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: largest value of a quantity (mass) which may be applied to a load cell
+      without exceeding the mpe (see 2.4.9).
+  examples: []
+  id: 00716-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum capacity (Emax)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 48a49912-dd1e-5fb9-b228-6bc5f4720b92

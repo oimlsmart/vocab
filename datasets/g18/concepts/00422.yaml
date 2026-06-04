@@ -1,0 +1,45 @@
+data:
+  identifier: '00422'
+  localized_concepts:
+    eng: a46a4bcf-ab6f-5164-98c5-79def0524302
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.12
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: ea461e79-0014-591c-916a-9a738725cb9a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: meter permanently installed and only used for deliveries from one supplier
+      to one customer
+  examples: []
+  id: 00422-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meter for two constant partners
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a46a4bcf-ab6f-5164-98c5-79def0524302

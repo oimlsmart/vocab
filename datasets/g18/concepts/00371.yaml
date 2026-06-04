@@ -1,0 +1,46 @@
+data:
+  identifier: '00371'
+  localized_concepts:
+    eng: c47740b1-91ca-5e04-8b49-c771ad3c659a
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: 79eb0c5e-d7e5-5efe-87b9-ad16223529b2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the measure which displays the measurement result either continuously
+      or on demand. An electronic indicating device shall comprise of a sensor, transducer,
+      calculator and indicator
+  examples: []
+  id: 00371-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c47740b1-91ca-5e04-8b49-c771ad3c659a

@@ -1,0 +1,45 @@
+data:
+  identifier: 00967
+  localized_concepts:
+    eng: b814d8b4-a481-5da5-91a6-cef6194cffff
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 0b558278-5694-5476-bcd8-e155b1082802
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of the weight value of a load on an instrument, with notare
+      or preset tare device in operation
+  examples: []
+  id: 00967-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gross value, G or B
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b814d8b4-a481-5da5-91a6-cef6194cffff

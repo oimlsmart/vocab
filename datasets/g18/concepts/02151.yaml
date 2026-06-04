@@ -1,0 +1,47 @@
+data:
+  identifier: '02151'
+  localized_concepts:
+    eng: e4179c05-437e-5d68-a73d-31a74934f1f5
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.25'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 3d267c7b-7078-5909-b2ff-ea15a1b74392
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: stable gas mixture of known SO2 concentration (volume fraction) used
+      for periodic calibration and adjustment of the gas analyzer, as well as for
+      tests of its metrological characteristics for compliance with the requirements
+      of normative documents
+  examples: []
+  id: 02151-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration gas mixture (CGM)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e4179c05-437e-5d68-a73d-31a74934f1f5

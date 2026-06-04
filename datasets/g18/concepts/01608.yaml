@@ -1,0 +1,46 @@
+data:
+  identifier: 01608
+  localized_concepts:
+    eng: 756aec04-2f8b-5711-ae3a-cb569d0e375e
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-R124
+    ref_type: section
+status: valid
+id: 1738ee9b-7662-5e59-b4fb-47839732919d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (V a quantity which is not the subject of the measurement but which influences
+      the value of the measurand or the indication of the measuring instrument IM:1993,
+      clause 2.7 or D 11 clause T.12)
+  examples: []
+  id: 01608-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 756aec04-2f8b-5711-ae3a-cb569d0e375e

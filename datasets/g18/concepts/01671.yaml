@@ -1,0 +1,46 @@
+data:
+  identifier: '01671'
+  localized_concepts:
+    eng: d56fa688-a378-56f6-bda4-584ef24b7770
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: a38a5569-b5ad-5ff8-8b26-c889d1dc4474
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device for adjusting the EBA by a procedure other than that specified
+      in 3.9, notably by the simulation of the effects of the passage of a standard
+      mixture of gases as described in 3.9
+  examples: []
+  id: 01671-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device for adjustment by simulation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d56fa688-a378-56f6-bda4-584ef24b7770

@@ -1,0 +1,44 @@
+data:
+  identifier: 01149
+  localized_concepts:
+    eng: 57ee2b47-90e1-526f-b838-2324eedd3afa
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.13
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 26a4582f-cc4d-5a02-839e-b5148a51945c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the range of volumes between the dead stock and the total capacity
+  examples: []
+  id: 01149-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.13
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: graduated zone
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 57ee2b47-90e1-526f-b838-2324eedd3afa

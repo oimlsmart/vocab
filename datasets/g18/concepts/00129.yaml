@@ -1,0 +1,45 @@
+data:
+  identifier: 00129
+  localized_concepts:
+    eng: 353b50f2-5bf8-5341-b6b9-735eef9c32c5
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: 865cb620-03e4-5269-81fc-9403ab7cd161
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: with reference to a given pattern, a pattern which has been subjected
+      to modification
+  examples: []
+  id: 00129-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: modified pattern
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 353b50f2-5bf8-5341-b6b9-735eef9c32c5

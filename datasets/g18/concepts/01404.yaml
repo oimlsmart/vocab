@@ -1,0 +1,45 @@
+data:
+  identifier: '01404'
+  localized_concepts:
+    eng: a851bfc0-e925-50ac-87f1-3fc35dd2123c
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.6.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: e6e3f53a-af50-5831-aa89-d9d779772fa7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[O test to verify whether the equipment under test (EUT) is capable
+      ofaccomplishing its intended functions IML D 11: 2004, 3.20.3]'
+  examples: []
+  id: 01404-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.6.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a851bfc0-e925-50ac-87f1-3fc35dd2123c

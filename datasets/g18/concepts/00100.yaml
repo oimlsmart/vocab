@@ -1,0 +1,52 @@
+data:
+  identifier: '00100'
+  localized_concepts:
+    eng: 6631a2ba-ed42-505f-889a-5c59cfcde1a5
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 211e3c3a-88ce-5ec0-931d-052bfc10bd23
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: in the present publication, “Test Report” means a report comprised of
+      the OIML Test Report (see 3.8) and, when applicable, a complementary Test Report
+      containing test results for any agreed upon additional requirements
+  examples: []
+  id: 00100-eng
+  notes:
+  - content: (1) The Test Report gives the results of the examinations and testing
+      carried out during type evaluation on an identified sample or samples of a given
+      type and a conclusion as to whether the sample(s) meet the specified requirements.
+      (2) The Test Report constitutes the evaluation report referred to in 3.
+  - content: 4. (3) The complementary Test Report may be validated by a letter from
+      the OIML Issuing Authority.
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Test Report
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6631a2ba-ed42-505f-889a-5c59cfcde1a5

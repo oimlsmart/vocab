@@ -1,0 +1,45 @@
+data:
+  identifier: '01265'
+  localized_concepts:
+    eng: f8419a7c-c361-5b44-9b3e-ae17d43db3e0
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: f9c223d6-c1d6-5bb5-a2f2-460cd1d38962
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a part of an electronic device comprised of electronic components and
+      having a recognizable function of its own
+  examples: []
+  id: 01265-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic subassembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f8419a7c-c361-5b44-9b3e-ae17d43db3e0

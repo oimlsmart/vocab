@@ -1,0 +1,48 @@
+data:
+  identifier: '01573'
+  localized_concepts:
+    eng: 72357dfb-1dae-50af-a8e9-dba13257e76e
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.g.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: effd3ed9-fef1-5791-9941-f63918888a38
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gas elimination device that, like the gas separator but under less stringent
+      operating conditions, continuously separates any air or gases contained in the
+      liquid, and which automatically stops the flow of liquid if there is a risk
+      of air or gases, accumulated in the form of pockets no more than slightly mixed
+      with the liquid, entering the meter
+  examples: []
+  id: 01573-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.g.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: special gas extractor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 72357dfb-1dae-50af-a8e9-dba13257e76e

@@ -1,0 +1,49 @@
+data:
+  identifier: '02137'
+  localized_concepts:
+    eng: 70d55452-b73c-51ae-9964-dc2b70752354
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 27bd3f72-3839-58de-9240-a5c53a4a82a6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: time between the instant at which power is applied to a gas analytical
+      system and the instant at which the system is capable of complying with the
+      metrological requirements
+  examples: []
+  id: 02137-eng
+  notes:
+  - content: For a gas analyzer this is the time between the instant at which power
+      is applied to it and th instant at which the measurement result of the volume
+      fraction, a CGM being supplied to the input, is within the permissible limits.
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: warm-up time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 70d55452-b73c-51ae-9964-dc2b70752354

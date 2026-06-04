@@ -1,0 +1,45 @@
+data:
+  identifier: 00815
+  localized_concepts:
+    eng: 24b25f0f-20a6-5aa5-b71b-f295b5d99f4e
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.6.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: c53dc74f-c67b-529c-b247-f931a76e46a0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test carried out on a complete filling instrument or part of a filling
+      instrument in which any part of the weighing operation is simulated
+  examples: []
+  id: 00815-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.6.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simulation test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 24b25f0f-20a6-5aa5-b71b-f295b5d99f4e

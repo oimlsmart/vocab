@@ -1,0 +1,47 @@
+data:
+  identifier: 00528
+  localized_concepts:
+    eng: 65725c80-c067-5e4e-a067-b62d84512e29
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 6a8cd572-dcc0-5511-a283-f3db29037a5f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between the error of indication and the intrinsic error
+      of a belt weigher
+  examples: []
+  id: 00528-eng
+  notes:
+  - content: Principally, a fault is the result of an undesired change of data contained
+      in or flowing through an electronic instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 65725c80-c067-5e4e-a067-b62d84512e29

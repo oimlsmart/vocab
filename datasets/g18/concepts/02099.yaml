@@ -1,0 +1,49 @@
+data:
+  identifier: 02099
+  localized_concepts:
+    eng: d967bbc6-ead5-581e-9b4e-bc9a7326f543
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: f9846591-31b5-59d3-ad9d-48c60a114116
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device employing electronic sub-assemblies and performing a specific
+      function. Electronic devices are usually manufactured as t separate units and
+      are capable of being tested independently 2 e c
+  examples: []
+  id: 02099-eng
+  notes:
+  - content: 1. The electronic parts of CVDDs are not ested separately. . A measuring
+      system including at least one lectronic device subject to legal control is alled
+      an electronic measuring system.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d967bbc6-ead5-581e-9b4e-bc9a7326f543

@@ -1,0 +1,45 @@
+data:
+  identifier: 00784
+  localized_concepts:
+    eng: 66281f00-1cf3-5f5e-a1d0-64ed568fb2df
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 8e4f87b3-baf8-53d7-8919-ee03e66caa85
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mass equal to the mean of ten of the largest particles or pieces of the
+      product taken from one or more fills
+  examples: []
+  id: 00784-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference particle mass of a product
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 66281f00-1cf3-5f5e-a1d0-64ed568fb2df

@@ -1,0 +1,47 @@
+data:
+  identifier: 01979
+  localized_concepts:
+    eng: b9e6a22b-f6df-50f3-8d37-944a0990ff6e
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R138
+    ref_type: section
+status: valid
+id: a012eb87-6ae9-5dbe-a3a8-a256c3e512ba
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'measures which are filled as required and used for the retail sale of
+      drinks sold by volume. They are divided into two categories: transfer measures
+      used solely for decanting specific volumes of beverages and drinking measures
+      used also for the consumption of specific volumes of beverages'
+  examples: []
+  id: 01979-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacity serving measures
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b9e6a22b-f6df-50f3-8d37-944a0990ff6e

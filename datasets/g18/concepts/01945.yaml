@@ -1,0 +1,44 @@
+data:
+  identifier: 01945
+  localized_concepts:
+    eng: 33f994a7-c021-50b9-bde2-b4fad8f181d7
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.9
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: dda3cf07-71d6-5d1f-8c9b-d514c401e54f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error determined under reference conditions
+  examples: []
+  id: 01945-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 33f994a7-c021-50b9-bde2-b4fad8f181d7

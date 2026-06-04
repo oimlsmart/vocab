@@ -1,0 +1,44 @@
+data:
+  identifier: '02107'
+  localized_concepts:
+    eng: 8d5ac99e-b07c-5cca-9555-dd568a0f56ba
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R141
+    ref_type: section
+status: valid
+id: b00395de-f9a4-58b3-8f58-cd7aba58fe0b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: radiator that complies with a black body model (BB)
+  examples: []
+  id: 02107-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard radiator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8d5ac99e-b07c-5cca-9555-dd568a0f56ba

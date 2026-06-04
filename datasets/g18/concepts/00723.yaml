@@ -1,0 +1,45 @@
+data:
+  identifier: '00723'
+  localized_concepts:
+    eng: 56874d30-f7af-568b-90a2-f22567b907f7
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.12
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: cbe830cf-6be5-5da9-b850-460ec76b87ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: number of load cell verification intervals into which the load cell measuring
+      range is divided
+  examples: []
+  id: 00723-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: number of load cell verification intervals (n)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 56874d30-f7af-568b-90a2-f22567b907f7

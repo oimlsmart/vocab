@@ -1,0 +1,45 @@
+data:
+  identifier: 01639
+  localized_concepts:
+    eng: 52698b5b-78c0-57e6-974a-888a5df15698
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.22.2
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: f3f15ff3-d16a-5fe3-8a16-0a484d7a00a5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: The absolute error of measurement divided by the conventional true value
+      of the measurand (VIM:1993, 3.12)
+  examples: []
+  id: 01639-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.22.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 52698b5b-78c0-57e6-974a-888a5df15698

@@ -1,0 +1,45 @@
+data:
+  identifier: '00664'
+  localized_concepts:
+    eng: c7d33d3e-8ae1-585f-8053-49384c3f90b0
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: d1d52ccc-79bc-5161-8519-d39e7e8dacfc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V quantity that is not the measurand but that affects the result of
+      the measurement IM:1993, 2.7]]'
+  examples: []
+  id: 00664-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c7d33d3e-8ae1-585f-8053-49384c3f90b0

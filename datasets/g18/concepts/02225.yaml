@@ -1,0 +1,46 @@
+data:
+  identifier: '02225'
+  localized_concepts:
+    eng: 7b58b568-4168-56b9-a0be-6531ba57c473
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 9f2680a7-3080-5c9b-910e-e2b95052d709
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of operations carried out to establish, under specified conditions,
+      the relationship between the liquid level in the tank and the volume of that
+      liquid
+  examples: []
+  id: 02225-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7b58b568-4168-56b9-a0be-6531ba57c473

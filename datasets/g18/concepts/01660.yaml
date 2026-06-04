@@ -1,0 +1,44 @@
+data:
+  identifier: '01660'
+  localized_concepts:
+    eng: 23e12801-fff7-532f-aa6b-5189a64ec2e3
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.35.2
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 6e3d2474-e877-5929-9828-04c0e510dbaf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a description of a series of tests for certain types of equipment
+  examples: []
+  id: 01660-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.35.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test program
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 23e12801-fff7-532f-aa6b-5189a64ec2e3

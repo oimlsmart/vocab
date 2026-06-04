@@ -1,0 +1,47 @@
+data:
+  identifier: '01760'
+  localized_concepts:
+    eng: 5ea49110-dee8-5540-a792-b94f8d1b61ae
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 064c0c30-dc99-5f52-a703-9c921c73080c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measurement of resonant absorption of electromagnetic energy, resulting
+      from the transition of unpaired electrons between different energy levels, upon
+      application of usually microwave frequency energy to a paramagnetic substance
+      in the presence of a magnetic field
+  examples: []
+  id: 01760-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: EPR spectroscopy
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5ea49110-dee8-5540-a792-b94f8d1b61ae

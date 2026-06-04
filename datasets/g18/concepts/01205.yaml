@@ -1,0 +1,47 @@
+data:
+  identifier: '01205'
+  localized_concepts:
+    eng: c221d3b3-c80a-5afa-a2aa-0cbdf295faf9
+  sources:
+  - origin:
+      ref:
+        source: OIML R101:1991
+    locality:
+      type: clause
+      reference_from: T.3
+    type: authoritative
+  domains:
+  - concept_id: section-R101
+    ref_type: section
+status: valid
+id: cb1ca984-8b86-5f01-aee9-5e97a6d0b876
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the pressure of the environment of the instrument, at the place and time
+      of the measurements. The ambient pressure may be atmospheric pressure, or it
+      may have a value near to that of the atmospheric pressure when measurements
+      are carried out in an enclosed, sealed space
+  examples: []
+  id: 01205-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R101:1991
+      locality:
+        type: clause
+        reference_from: T.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ambient pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c221d3b3-c80a-5afa-a2aa-0cbdf295faf9

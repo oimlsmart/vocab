@@ -1,0 +1,47 @@
+data:
+  identifier: '00775'
+  localized_concepts:
+    eng: d616a76e-053e-540e-9382-760754c46833
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: d3cd9a16-8bed-50c0-bee2-8038c2966d29
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'part of the load measuring device that displays the value of a weighing
+      result in units of mass and which may additionally display: The difference between
+      the mass of a load and a reference value; and/or The value of the fill(s) and/or
+      related quantities or parameters of a number of consecutive weighings'
+  examples: []
+  id: 00775-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device (of a weighing instrument)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d616a76e-053e-540e-9382-760754c46833

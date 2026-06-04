@@ -1,0 +1,45 @@
+data:
+  identifier: 00249
+  localized_concepts:
+    eng: 196c8ce7-2a1e-55b1-a407-b6dda4c2d48d
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.20'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: ffb5ace4-d4d1-567b-9357-4d34add70e63
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: series of operations intended to verify the compliance of the equipment
+      under test (EUT) with specified requirements
+  examples: []
+  id: 00249-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 196c8ce7-2a1e-55b1-a407-b6dda4c2d48d

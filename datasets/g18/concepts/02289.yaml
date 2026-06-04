@@ -1,0 +1,46 @@
+data:
+  identifier: 02289
+  localized_concepts:
+    eng: 8d239007-feef-5e8e-969b-db289c09014a
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.50'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 3aa7a918-f555-5008-8333-775eb39cdf50
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use giving the range of values of influence quantities
+      for which the specified metrological characteristics of ameasuring instrument
+      are intended to lie within given limits
+  examples: []
+  id: 02289-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.50'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8d239007-feef-5e8e-969b-db289c09014a

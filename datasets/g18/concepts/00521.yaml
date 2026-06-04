@@ -1,0 +1,45 @@
+data:
+  identifier: '00521'
+  localized_concepts:
+    eng: 0320a67b-8b8b-5bcc-91c5-2532ecc67a32
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 5db0e969-17e2-54a1-b0c8-a4af810b6f81
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the quantity, in units of mass, below which a totalization may be subject
+      to excessive relative errors
+  examples: []
+  id: 00521-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum totalized load (Σmin)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0320a67b-8b8b-5bcc-91c5-2532ecc67a32

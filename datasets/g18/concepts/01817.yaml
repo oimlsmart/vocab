@@ -1,0 +1,46 @@
+data:
+  identifier: 01817
+  localized_concepts:
+    eng: c9fc6fa1-767e-55d9-a910-956b4f365a7c
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 0a292eae-fcbc-5648-a135-5c7eb9a363b7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum speed at which a vehicle can travel on the weigh zone without
+      producing a permanent shift in the performance characteristics of a weighing
+      instrument beyond those specified
+  examples: []
+  id: 01817-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum transit speed
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c9fc6fa1-767e-55d9-a910-956b4f365a7c

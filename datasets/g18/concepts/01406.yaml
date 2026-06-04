@@ -1,0 +1,47 @@
+data:
+  identifier: '01406'
+  localized_concepts:
+    eng: 58b037fa-b3f8-540e-90e9-70c3adc12ca5
+  sources:
+  - origin:
+      ref:
+        source: OIML R108:1993
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R108
+    ref_type: section
+status: valid
+id: f04a6a34-8573-5cfa-92be-9767a1f3ea3a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: refractometers are instruments for measuring the refractive index. If
+      they are provided with appropriate scales, they are used to determine the content
+      of sugar in liquids, in which case the relation between the mass fraction and
+      the refractive index shall have been specified (see 3)
+  examples: []
+  id: 01406-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R108:1993
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: refractometer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 58b037fa-b3f8-540e-90e9-70c3adc12ca5

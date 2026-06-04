@@ -1,0 +1,46 @@
+data:
+  identifier: 00439
+  localized_concepts:
+    eng: 5ecc2c20-7695-5b72-9b11-dc07f7a335a5
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 258e087d-dab7-5573-8584-d1de1fd99bc6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: m3 highest flowrate within the rated operating conditions, at which the
+      water meter is required to operate in a satisfactory manner within the maximum
+      permissible error. Flowrate is expressed in /h in this Recommendation
+  examples: []
+  id: 00439-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent flowrate, Q3
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5ecc2c20-7695-5b72-9b11-dc07f7a335a5

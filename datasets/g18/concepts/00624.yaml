@@ -1,0 +1,45 @@
+data:
+  identifier: '00624'
+  localized_concepts:
+    eng: 55abc6a7-112d-59ea-8c42-876f56af00b1
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 92b6837b-2faa-5fac-8273-35adcf8a8aa1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of the load below which the weighing result may be subject to an
+      excessive relative error
+  examples: []
+  id: 00624-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum capacity, Min
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 55abc6a7-112d-59ea-8c42-876f56af00b1

@@ -1,0 +1,45 @@
+data:
+  identifier: '02226'
+  localized_concepts:
+    eng: c8ff1646-9c3f-5203-bc8a-d8179bd3fb81
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 54ca966b-71d0-50d7-8382-68115b80a32a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: rounded value of the maximum volume of liquid that a tank may contain
+      under normal conditions of use
+  examples: []
+  id: 02226-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c8ff1646-9c3f-5203-bc8a-d8179bd3fb81

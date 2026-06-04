@@ -1,0 +1,45 @@
+data:
+  identifier: 00971
+  localized_concepts:
+    eng: ad696aae-da49-525c-8ccb-c2fb33ee2c29
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 98a05b72-ecd6-5bd1-9917-ed285b9ab236
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of the difference between a measured weight value (gross ornet)
+      and a preset tare value
+  examples: []
+  id: 00971-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculated net value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ad696aae-da49-525c-8ccb-c2fb33ee2c29

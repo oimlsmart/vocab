@@ -1,0 +1,52 @@
+data:
+  identifier: 00982
+  localized_concepts:
+    eng: 5330cfd9-5409-5d54-80e9-23504be5da36
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.5.6
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 6ba88317-b11f-5dd2-a7a7-1cd667e62d8a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- - - - fault greater than e. For a multi-interval instrument, the value
+      of e The following are not considered to be significant faults, even is th when
+      they exceed e: range faults arising from simultaneous and mutually independent
+      causes in the instrument; faults implying the impossibility to perform any measurement;
+      faults being so serious that they are bound to be noticed by all those interested
+      in the result of measurement; or transitory faults, being momentary variations
+      in the indication which cannot be interpreted, memorized or transmitted as a
+      measuring result'
+  examples: []
+  id: 00982-eng
+  notes:
+  - content: at appropriate to the partial weighing .
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.5.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5330cfd9-5409-5d54-80e9-23504be5da36

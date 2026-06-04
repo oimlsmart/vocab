@@ -1,0 +1,45 @@
+data:
+  identifier: 01490
+  localized_concepts:
+    eng: d539dcf5-75a6-5623-9a3c-3ef3e0b6f101
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 184abc85-6f9a-553a-84c1-6c13011569cd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the carrier gas used to elute the sample components through and from
+      the column
+  examples: []
+  id: 01490-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobile phase
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d539dcf5-75a6-5623-9a3c-3ef3e0b6f101

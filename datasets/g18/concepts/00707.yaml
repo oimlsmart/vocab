@@ -1,0 +1,45 @@
+data:
+  identifier: '00707'
+  localized_concepts:
+    eng: b78f26dd-3d45-5048-8893-50fae459c68e
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: d75628da-b67c-5210-8308-89e2252792c8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test to verify whether the load cell under test is capable of performing
+      its intended functions
+  examples: []
+  id: 00707-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b78f26dd-3d45-5048-8893-50fae459c68e

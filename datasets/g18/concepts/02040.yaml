@@ -1,0 +1,46 @@
+data:
+  identifier: '02040'
+  localized_concepts:
+    eng: 2c629693-cea4-542e-a4f2-e6dafa8f9616
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 3be719b3-a795-5bbe-ad42-b5e04d7df75b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the meter that converts the volume or mass flow of the gas to
+      be measured into signals for the calculator. It includes the sensor and the
+      measuring transducer
+  examples: []
+  id: 02040-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flow measuring device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2c629693-cea4-542e-a4f2-e6dafa8f9616

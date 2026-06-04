@@ -1,0 +1,46 @@
+data:
+  identifier: '02017'
+  localized_concepts:
+    eng: 0232764a-6eee-5022-84c4-530e37de52b2
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.8
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 91f30c23-6d08-5d23-bbf9-156f7df47329
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'for the purposes of this Recommendation: difference between the largest
+      and the smallest results of successive measurements of the same quantity carried
+      out under the same conditions'
+  examples: []
+  id: 02017-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0232764a-6eee-5022-84c4-530e37de52b2

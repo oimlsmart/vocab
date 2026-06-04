@@ -1,0 +1,46 @@
+data:
+  identifier: '00745'
+  localized_concepts:
+    eng: 62ccf9de-6025-5bc8-8fd2-fc638f602d0e
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 25923e02-3423-5f54-9dd2-4564afb42f25
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity that is not the measurand but that affects the result of the
+      measurement. [VIM:1993, 2.7] (For example, temperature or humidity level at
+      the instant the measurements on the load cell are being observed or recorded.)
+  examples: []
+  id: 00745-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 62ccf9de-6025-5bc8-8fd2-fc638f602d0e

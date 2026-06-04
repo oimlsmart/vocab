@@ -1,0 +1,48 @@
+data:
+  identifier: '01350'
+  localized_concepts:
+    eng: 3cec3245-a1d2-57bc-a828-0e041b475a5d
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.7.7.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: a43ecc3f-4b00-56ce-83b7-2a1c85a22089
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legally relevant parameter with a value that depends on the type ofinstrument
+      only Type-specific parameters are part of the legally relevant software. They
+      are fixed at type approval of the instrument.
+  examples: []
+  id: 01350-eng
+  notes:
+  - content: 'Examples: Parameters used for weight value calculation, stability analysis
+      or price calculation and rounding, software identification.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.7.7.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type-specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3cec3245-a1d2-57bc-a828-0e041b475a5d

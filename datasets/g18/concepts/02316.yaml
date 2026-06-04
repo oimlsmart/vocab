@@ -1,0 +1,44 @@
+data:
+  identifier: '02316'
+  localized_concepts:
+    eng: 38c67a4f-cc8e-59da-b0c7-6c2b889b3ea9
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.18'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 0ebffd6a-e906-571e-9abe-cbc549220ffc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the distance between the dipping datum point and the zero point of ALG
+  examples: []
+  id: 02316-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gauge reference length
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 38c67a4f-cc8e-59da-b0c7-6c2b889b3ea9

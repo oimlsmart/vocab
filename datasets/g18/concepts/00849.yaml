@@ -1,0 +1,45 @@
+data:
+  identifier: 00849
+  localized_concepts:
+    eng: 344009e3-63dc-52d4-8c35-f8a666fc6320
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 3.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: ba7c4cbb-c22c-50b1-920d-58e529b8e68e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a sub-assembly which receives signals from the flow sensor and the temperature
+      sensors and calculates and indicates the quantity ofheat exchanged
+  examples: []
+  id: 00849-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 3.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 344009e3-63dc-52d4-8c35-f8a666fc6320

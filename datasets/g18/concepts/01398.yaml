@@ -1,0 +1,46 @@
+data:
+  identifier: 01398
+  localized_concepts:
+    eng: f1ab1a62-10f9-5c17-a251-5878f36b298f
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.5.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: e8a8d3b9-2476-551f-a73d-765243fe4a9e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[O influence quantity having a value within the limits specified in
+      this Recommendation but outside the specified rated operating conditions of
+      the instrument IML D 11: 2004, 3.13.2]'
+  examples: []
+  id: 01398-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.5.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f1ab1a62-10f9-5c17-a251-5878f36b298f

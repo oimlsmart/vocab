@@ -1,0 +1,45 @@
+data:
+  identifier: 01778
+  localized_concepts:
+    eng: 790ef4ae-23dd-5e25-8f69-4ea34783a6db
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: 459f83a9-da0b-505a-a6d8-f6358ae7b76b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: scale graduated in appropriate units, covering the working temperature
+      range of the thermometer
+  examples: []
+  id: 01778-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: main scale
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 790ef4ae-23dd-5e25-8f69-4ea34783a6db

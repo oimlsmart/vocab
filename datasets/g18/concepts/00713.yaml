@@ -1,0 +1,46 @@
+data:
+  identifier: '00713'
+  localized_concepts:
+    eng: 12c95a27-64f5-56af-8648-3c5bb85488d3
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 215f2d7d-f4ed-5e49-9b0b-70e1edd5f0ad
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range of values of the measured quantity (mass) for which the result
+      of measurement should not be affected by an error exceeding the maximum permissible
+      error (mpe) (see 2.4.9)
+  examples: []
+  id: 00713-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load cell measuring range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 12c95a27-64f5-56af-8648-3c5bb85488d3

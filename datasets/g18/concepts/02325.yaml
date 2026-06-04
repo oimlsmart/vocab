@@ -1,0 +1,45 @@
+data:
+  identifier: '02325'
+  localized_concepts:
+    eng: dd91a889-9b22-533f-aa6f-2377aad253a0
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.27'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 62752d51-4031-59c0-a319-638bc87c0c15
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of the ALG to maintain its performance characteristics over a
+      period of use
+  examples: []
+  id: 02325-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dd91a889-9b22-533f-aa6f-2377aad253a0

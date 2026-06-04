@@ -1,0 +1,49 @@
+data:
+  identifier: '01026'
+  localized_concepts:
+    eng: 0f2381c3-84c2-571e-a7b7-c14442e3a713
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: c9382ef5-048e-570d-b797-8023633d2601
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the specified conditions of temperature and pressure to which the measured
+      volume is converted
+  examples: []
+  id: 01026-eng
+  notes:
+  - content: Although the term “reference conditions” is often used instead of “base
+      conditions”, metering and base conditions (that refer only to the volume of
+      the liquid to be measured or indicated), should not be confused with the “rated
+      operating conditions” and “reference conditions” that apply to influence quantities.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0f2381c3-84c2-571e-a7b7-c14442e3a713

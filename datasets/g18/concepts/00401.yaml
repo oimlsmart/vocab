@@ -1,0 +1,45 @@
+data:
+  identifier: '00401'
+  localized_concepts:
+    eng: feaa1170-02be-5459-bba4-536e2dbc248e
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R048
+    ref_type: section
+status: valid
+id: 2b2304f4-5470-57d9-966d-34856048863b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: temperature of a black body which has a radiance equal to the radiance
+      of the object at a particular wavelength or narrow wavelength band
+  examples: []
+  id: 00401-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance temperature
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: feaa1170-02be-5459-bba4-536e2dbc248e

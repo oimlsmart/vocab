@@ -1,0 +1,44 @@
+data:
+  identifier: 02081
+  localized_concepts:
+    eng: 2fecab71-4f8f-589f-9b25-4c7323eb88aa
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.15
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 6c3eaff9-0f14-5bbc-b491-251c5a4b64f9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error as determined prior to all performance tests
+  examples: []
+  id: 02081-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2fecab71-4f8f-589f-9b25-4c7323eb88aa

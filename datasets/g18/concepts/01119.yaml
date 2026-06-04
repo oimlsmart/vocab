@@ -1,0 +1,44 @@
+data:
+  identifier: 01119
+  localized_concepts:
+    eng: 6b15cf1a-65d0-5e8e-8508-1c88b62c0475
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: fd5b6e0f-df01-54b6-91ed-6bd8cc64c6b2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: combination of a product and the packing material in which it is prepacked
+  examples: []
+  id: 01119-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prepackage
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6b15cf1a-65d0-5e8e-8508-1c88b62c0475

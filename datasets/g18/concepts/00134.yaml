@@ -1,0 +1,44 @@
+data:
+  identifier: '00134'
+  localized_concepts:
+    eng: b6da8f01-e5ba-5b42-bfb6-5fd196683fca
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.10
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: dea7b4a9-a36c-5547-acc9-d14c5e0dd811
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a testing laboratory to which accreditation has been granted
+  examples: []
+  id: 00134-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accredited laboratory
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b6da8f01-e5ba-5b42-bfb6-5fd196683fca

@@ -1,0 +1,45 @@
+data:
+  identifier: '02060'
+  localized_concepts:
+    eng: 9cafeb24-cc5f-5357-8d7f-ecd1c8d75ffb
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.17
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: d28ba174-6f91-5291-bf17-fe2e91f688c1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: associated measuring instrument for obtaining the calorific value of
+      gas
+  examples: []
+  id: 02060-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.17
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calorific value determining device (CVDD)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9cafeb24-cc5f-5357-8d7f-ecd1c8d75ffb

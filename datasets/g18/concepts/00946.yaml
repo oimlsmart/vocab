@@ -1,0 +1,45 @@
+data:
+  identifier: 00946
+  localized_concepts:
+    eng: 037e6f3a-8fdb-5d2e-9ca4-7ee0bee34667
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.7
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: f179bea6-3e6e-53cb-9e98-e4332258f82f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum static load that can be carried by the instrument without permanently
+      altering its metrological qualities
+  examples: []
+  id: 00946-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum safe load (Lim)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 037e6f3a-8fdb-5d2e-9ca4-7ee0bee34667

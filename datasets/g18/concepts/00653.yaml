@@ -1,0 +1,47 @@
+data:
+  identifier: '00653'
+  localized_concepts:
+    eng: d6154e36-f01a-5cf2-8e52-5c20454eeaa9
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 270e3684-32fb-5121-a9f4-2cdeb6f58073
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: on an instrument with analog indication, this is equal to the standard
+      deviation of the same indication, the reading of which iscarried out under normal
+      conditions of use by several observers. It is customary to make at least ten
+      readings of the result
+  examples: []
+  id: 00653-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overall inaccuracy of reading
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d6154e36-f01a-5cf2-8e52-5c20454eeaa9

@@ -1,0 +1,45 @@
+data:
+  identifier: 01283
+  localized_concepts:
+    eng: 7de03ff4-7bd3-526c-880d-3e5827b252e1
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: f962d4d0-e55b-57a2-b434-f33a744961a8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the wagon weight below which a weighing-in-motion result may be subject
+      to an excessive relative error
+  examples: []
+  id: 01283-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum wagon weight
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7de03ff4-7bd3-526c-880d-3e5827b252e1

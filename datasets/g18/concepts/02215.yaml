@@ -1,0 +1,46 @@
+data:
+  identifier: '02215'
+  localized_concepts:
+    eng: 8a98afbb-b49c-57a7-a317-63537e7a6a1a
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.48
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 8cc68f4e-10af-5994-b582-a3d9ff11063a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: storage used for keeping measurement data ready after completion of the
+      measurement for later legally relevant purposes (e.g. the conclusion of a commercial
+      transaction)
+  examples: []
+  id: 02215-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.48
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: storage device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8a98afbb-b49c-57a7-a317-63537e7a6a1a

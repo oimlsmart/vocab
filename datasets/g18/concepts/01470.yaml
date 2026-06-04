@@ -1,0 +1,52 @@
+data:
+  identifier: '01470'
+  localized_concepts:
+    eng: ca70446d-198b-5841-a930-cdb26a0d9fd5
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.18.2
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: bc1eafb1-c30d-5b8e-b94a-e7d667052c40
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: series of tests and visual examinations, also carried out by an official
+      of the legal metrology service (inspector), to ascertain whether the weights
+      or weight set, having been in use for some time since the previous verification,
+      continues to conform to, or again conforms to, regulations and maintains its
+      metrological characteristics within the required limits. If the weights or weight
+      set passes all tests and examinations, its legal character is either confirmed,
+      or re-established by its acceptance as evidenced by stamping and/or the issuing
+      of a certificate of verification. When sampling is used to verify a population
+      of weights, all elements in the population will be deemed verified
+  examples: []
+  id: 01470-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.18.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: subsequent verification or in-service inspection
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ca70446d-198b-5841-a930-cdb26a0d9fd5

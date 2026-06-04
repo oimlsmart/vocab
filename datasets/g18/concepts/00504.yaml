@@ -1,0 +1,45 @@
+data:
+  identifier: '00504'
+  localized_concepts:
+    eng: 97391688-d9db-5583-b4b9-c6881ff314ac
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.8.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: bbb41b9e-dd3b-5b0a-9f5f-f4f1ca6cba60
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a zero-setting device that requires observation and adjustment by the
+      operator.
+  examples: []
+  id: 00504-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.8.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 97391688-d9db-5583-b4b9-c6881ff314ac

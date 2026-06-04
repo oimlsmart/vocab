@@ -1,0 +1,47 @@
+data:
+  identifier: 00845
+  localized_concepts:
+    eng: f46b6b01-2e84-5011-b179-e9f4803f0f64
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 4d44854b-a98b-5180-97c9-b084f6585bf6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a heat meter - often called a “compact” instrument - which for the purpose
+      of type approval and verification, can be treated as a combined instrument as
+      defined in 3.2. However, after verification, its subassemblies shall be treated
+      as inseparable
+  examples: []
+  id: 00845-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hybrid instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f46b6b01-2e84-5011-b179-e9f4803f0f64

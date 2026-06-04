@@ -1,0 +1,44 @@
+data:
+  identifier: 01418
+  localized_concepts:
+    eng: 3f7ae05a-51ec-5175-8fb0-4ade6ce1faaa
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.1.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: c9664c6f-ca8a-5307-9d1d-f878086cb5c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the maximum pressure to be measured
+  examples: []
+  id: 01418-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.1.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upper limit of measuring range (Pmax)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3f7ae05a-51ec-5175-8fb0-4ade6ce1faaa

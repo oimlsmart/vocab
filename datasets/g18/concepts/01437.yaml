@@ -1,0 +1,46 @@
+data:
+  identifier: '01437'
+  localized_concepts:
+    eng: 374433e5-bbef-501e-914e-c8b4a670d024
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 5901026a-b120-5f8f-b356-e3117fc7694f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the conditions of use of a pressure balance for which its metrological
+      characteristics are intended to meet the requirements concerning maximum permissible
+      errors
+  examples: []
+  id: 01437-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 374433e5-bbef-501e-914e-c8b4a670d024

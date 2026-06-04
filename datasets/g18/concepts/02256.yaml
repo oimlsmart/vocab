@@ -1,0 +1,46 @@
+data:
+  identifier: '02256'
+  localized_concepts:
+    eng: 904b6633-1466-5501-8f37-9a03518242a6
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: dadb3fa9-1c10-54ad-ba86-076c66698ed1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: distance, measured along the vertical measurement axis, between the reference
+      point top and the reference point bottom
+  examples: []
+  id: 02256-eng
+  notes:
+  - content: (see figure 1)
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference height (H)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 904b6633-1466-5501-8f37-9a03518242a6

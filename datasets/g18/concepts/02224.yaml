@@ -1,0 +1,50 @@
+data:
+  identifier: '02224'
+  localized_concepts:
+    eng: ccc213fa-915b-56b7-a3cc-55202b198f7d
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.57
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: f5f8237d-ad6d-59ed-a8f3-f3dc4a2526a4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: procedure (other than type approval) that includes the examination and
+      marking and/or issuing of a verification certificate that ascertains and confirms
+      that the measuring instrument complies with the statutory requirements
+  examples: []
+  id: 02224-eng
+  notes:
+  - content: 1. Different definition from other Standards e.g. ISO/IEC 14598, clause
+      4.23 or IEC 61508-4, clause 3.8.
+  - content: '1.'
+  - content: '2. [OIML V 1: 2000, 2.13]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.57
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ccc213fa-915b-56b7-a3cc-55202b198f7d

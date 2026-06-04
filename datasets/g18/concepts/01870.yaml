@@ -1,0 +1,47 @@
+data:
+  identifier: 01870
+  localized_concepts:
+    eng: 6ed52c49-3fdd-520d-9008-74cfeb0cddc0
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.31'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: e26c415b-3d56-5bb3-80c6-64e1f65a21c5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility incorporated in a measuring instrument which enables [Adapted
+      from OIML D 11, 3.18 and 3.18.1] significant faults to be detected and acted
+      upon and which operates on each measurement cycle without the intervention of
+      the operator
+  examples: []
+  id: 01870-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.31'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent automatic checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6ed52c49-3fdd-520d-9008-74cfeb0cddc0

@@ -1,0 +1,47 @@
+data:
+  identifier: '00353'
+  localized_concepts:
+    eng: 50bad8b4-70c4-5b5d-a227-7e186eb534d0
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.8.3
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 5f0f1460-222c-537a-b893-4b3dd92249c9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legally relevant parameter that depends on the individual taximeter.
+      Such parameters comprise adjustment and configuration parameters. They are adjustable
+      or selectable only in a service mode of the taximeter and may be classified
+      as those that should be secured and those that may be accessed (settable parameters)
+  examples: []
+  id: 00353-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.8.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device-specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 50bad8b4-70c4-5b5d-a227-7e186eb534d0

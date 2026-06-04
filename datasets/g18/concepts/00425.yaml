@@ -1,0 +1,45 @@
+data:
+  identifier: '00425'
+  localized_concepts:
+    eng: 291e8fc7-fc7d-5149-90a1-0c1756f5482a
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 607df70c-7655-5163-a5bf-a552a2fb6cab
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication (displayed, printed or memorized) which is subject to legal
+      metrological control
+  examples: []
+  id: 00425-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 291e8fc7-fc7d-5149-90a1-0c1756f5482a

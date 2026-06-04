@@ -1,0 +1,45 @@
+data:
+  identifier: 01590
+  localized_concepts:
+    eng: 8cd24dd9-b4f1-5428-b34b-9ff0c8356abf
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.p.6
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 2b791b59-aca2-59c3-9376-a1471c823333
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: one or more indications (displayed, printed or memorized) that are subject
+      to legal metrology control
+  examples: []
+  id: 01590-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.p.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary indications
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8cd24dd9-b4f1-5428-b34b-9ff0c8356abf

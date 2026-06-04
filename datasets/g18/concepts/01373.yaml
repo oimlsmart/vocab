@@ -1,0 +1,48 @@
+data:
+  identifier: '01373'
+  localized_concepts:
+    eng: 643c8d55-723f-5714-ab95-7d76b1d8f561
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.11
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 2da00b37-90db-5b61-93a9-c0e4457e7383
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[O facility, operating without the intervention of an operator, which
+      An automatic checking facility performs isincorporated in an instrument and
+      which enables significant sec faults to be detected and acted upon IML D 11:
+      2004, 3.18 and 3.18.1]'
+  examples: []
+  id: 01373-eng
+  notes:
+  - content: uring and monitoring activities.
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 643c8d55-723f-5714-ab95-7d76b1d8f561

@@ -1,0 +1,48 @@
+data:
+  identifier: '00515'
+  localized_concepts:
+    eng: ce551873-d3f0-525b-8825-35ca4e075291
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: d9739a9a-d306-5efb-98da-7f5be96774b8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the value, expressed in units of mass, of the difference between two
+      consecutive indicated values, for general and partial totalization devices,
+      with the instrument in a special mode for testing purposes. Where such a special
+      mode is not available, the scale interval for testing is equal to the totalization
+      scale interval
+  examples: []
+  id: 00515-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval for testing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ce551873-d3f0-525b-8825-35ca4e075291

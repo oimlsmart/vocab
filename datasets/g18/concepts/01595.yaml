@@ -1,0 +1,45 @@
+data:
+  identifier: 01595
+  localized_concepts:
+    eng: de059c53-7907-59ef-872d-7cc4449e8517
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.s.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: b1093182-cf94-5a45-b465-1369b00eaaa3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement that allows the customer to use a measuring system toobtain
+      liquid without a second party intervention
+  examples: []
+  id: 01595-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.s.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-service arrangement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: de059c53-7907-59ef-872d-7cc4449e8517

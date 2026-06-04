@@ -1,0 +1,45 @@
+data:
+  identifier: '01215'
+  localized_concepts:
+    eng: a9da81c8-00d3-5bb7-bbdf-a0c0ec188eca
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.5
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 5ed03ad1-c739-5d5f-89f1-e1b659d00811
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a measuring transaction during which both the buyer and the seller (or
+      their agents) are present when the quantity is being determined
+  examples: []
+  id: 01215-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct sale
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a9da81c8-00d3-5bb7-bbdf-a0c0ec188eca

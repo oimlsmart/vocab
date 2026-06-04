@@ -1,0 +1,44 @@
+data:
+  identifier: 01822
+  localized_concepts:
+    eng: 8c15abf2-24dc-5c16-8cb3-edaa55f3ec4a
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.4.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: ffa98d41-2c9b-59cd-a5f0-18f6d3a6c7c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of an instrument under reference conditions
+  examples: []
+  id: 01822-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.4.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8c15abf2-24dc-5c16-8cb3-edaa55f3ec4a

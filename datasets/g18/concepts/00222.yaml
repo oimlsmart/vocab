@@ -1,0 +1,46 @@
+data:
+  identifier: '00222'
+  localized_concepts:
+    eng: f2f7858a-663a-55d4-86c1-db62c7d0c90d
+  sources:
+  - origin:
+      ref:
+        source: OIML D008:2004
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-D008
+    ref_type: section
+status: valid
+id: 3e169a45-cebc-5d89-917d-d6a97bf23116
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: formal approval performed by the national (legal) metrology body (depending
+      on national legislation), that the metrological and technical characteristics
+      of a standard meet the statutory requirements for its intended use
+  examples: []
+  id: 00222-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D008:2004
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recognition of a standard
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f2f7858a-663a-55d4-86c1-db62c7d0c90d

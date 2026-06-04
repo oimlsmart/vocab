@@ -1,0 +1,46 @@
+data:
+  identifier: '02041'
+  localized_concepts:
+    eng: 8e528ff5-aef6-5665-8060-1c914db82e0b
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 941d2509-08ab-5ab6-8021-b1dbf39b5982
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: element of a measuring instrument or measuring chain that is directly
+      affected by the measurand
+  examples: []
+  id: 02041-eng
+  notes:
+  - content: (VIM:2007, 3.8)
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8e528ff5-aef6-5665-8060-1c914db82e0b

@@ -1,0 +1,46 @@
+data:
+  identifier: 02068
+  localized_concepts:
+    eng: ddf704bb-99f4-569d-a9c3-f106399dd05e
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: b00e7ac9-b277-5045-804f-be0e9e1a2b83
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: parameter, associated with the result of a measurement, that characterizes
+      the dispersion of the values that could reasonably be attributed to the measurand
+  examples: []
+  id: 02068-eng
+  notes:
+  - content: (adapted from VIM:2007, 2.26)
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty of measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ddf704bb-99f4-569d-a9c3-f106399dd05e

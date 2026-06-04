@@ -1,0 +1,46 @@
+data:
+  identifier: 01679
+  localized_concepts:
+    eng: 285e4b03-ea08-52d8-a9d4-16e09543ea38
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: 3b4e51c9-24a9-5b52-a9a1-39fbf0e419aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'change in measured optical absorbance at the analysis wavelength(s)
+      determined as the absolute difference between the pre-irradiation absorbance,
+      A0, and the post-irradiation absorbance, A, as follows:'
+  examples: []
+  id: 01679-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: net absorbance, ΔA
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 285e4b03-ea08-52d8-a9d4-16e09543ea38

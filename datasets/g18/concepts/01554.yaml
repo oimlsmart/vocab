@@ -1,0 +1,47 @@
+data:
+  identifier: '01554'
+  localized_concepts:
+    eng: 2308c7e8-48bd-5a05-9885-fa6661933bf0
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.d.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 3734ec22-2274-599c-8868-e6b0b7a4c7cf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value outside the specified rated operating
+      conditions of the measuring system. (For electronic measuring systems only)
+      Ifthe rated operating conditions are not specified for an influence quantity,
+      it is a disturbance
+  examples: []
+  id: 01554-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.d.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2308c7e8-48bd-5a05-9885-fa6661933bf0

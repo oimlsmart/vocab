@@ -1,0 +1,45 @@
+data:
+  identifier: 00691
+  localized_concepts:
+    eng: 9f38aeaa-af18-587e-9aed-326b682a0330
+  sources:
+  - origin:
+      ref:
+        source: OIML R055:1981
+    locality:
+      type: clause
+      reference_from: '1.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R055
+    ref_type: section
+status: valid
+id: 2885ae81-1d2b-5dcc-a342-6d80e86e0738
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument designed to indicate the distance covered by the vehicle following
+      a totalisation of vehicle wheel revolutions
+  examples: []
+  id: 00691-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R055:1981
+      locality:
+        type: clause
+        reference_from: '1.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: odometer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9f38aeaa-af18-587e-9aed-326b682a0330

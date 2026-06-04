@@ -1,0 +1,47 @@
+data:
+  identifier: 02128
+  localized_concepts:
+    eng: f91592ff-bc4b-5461-b61d-804c09822f5b
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 79535adc-1235-5d6a-8284-6a45b2c28af9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: all components of the gas analytical system, from the sampling probe
+      to the tube of the gas sample outlet, through which the gas samples, including
+      the Calibration Gas Mixture (hereafter termed “CGM”) and the zero gas, are conveyed
+      by the pump
+  examples: []
+  id: 02128-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas handling system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f91592ff-bc4b-5461-b61d-804c09822f5b

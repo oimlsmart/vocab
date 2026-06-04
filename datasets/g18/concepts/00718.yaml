@@ -1,0 +1,46 @@
+data:
+  identifier: 00718
+  localized_concepts:
+    eng: 61adfec5-8767-5cfd-a9fc-0704db5a9a65
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.7
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 9ff0cee9-4d30-56ab-a4b7-489ecb739afd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum number of load cell verification intervals into which the load
+      cell measuring range may be divided for which the result of measurement shall
+      not be affected by an error exceeding the mpe (see 2.4.9)
+  examples: []
+  id: 00718-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum number of load cell verification intervals (nmax)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 61adfec5-8767-5cfd-a9fc-0704db5a9a65

@@ -1,0 +1,46 @@
+data:
+  identifier: '02146'
+  localized_concepts:
+    eng: 42185eff-b3fd-52b8-b522-cad4b00478e5
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.20'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 8ab82b5a-af4c-51c0-b01d-02b2644ba88e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the limits specified in (OIML
+      D 11:2004, 13.2) this Recommendation but outside the specified rated operating
+      conditions of a measuring instrument
+  examples: []
+  id: 02146-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 42185eff-b3fd-52b8-b522-cad4b00478e5

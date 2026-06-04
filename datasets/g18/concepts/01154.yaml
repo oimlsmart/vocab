@@ -1,0 +1,45 @@
+data:
+  identifier: '01154'
+  localized_concepts:
+    eng: 5694d587-8fd5-532a-ba04-e8d635643ca7
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R098
+    ref_type: section
+status: valid
+id: 3f9a73eb-9ead-5bf4-a6eb-3975336bf89e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the scale marks whose distance apart represents the total length or the
+      most important length of the line measure
+  examples: []
+  id: 01154-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: main scale marks
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5694d587-8fd5-532a-ba04-e8d635643ca7

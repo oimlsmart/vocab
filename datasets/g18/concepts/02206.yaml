@@ -1,0 +1,44 @@
+data:
+  identifier: '02206'
+  localized_concepts:
+    eng: f1d82eb7-7a1c-5f0d-a74d-a2034aab496b
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.39
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 6d45b836-93af-57ce-af61-78fab7a767b5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: to prevent unauthorized access to the device’s hardware or software part
+  examples: []
+  id: 02206-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.39
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: securing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f1d82eb7-7a1c-5f0d-a74d-a2034aab496b

@@ -1,0 +1,45 @@
+data:
+  identifier: '00221'
+  localized_concepts:
+    eng: 4414e808-e67a-5696-9387-912d37980ed9
+  sources:
+  - origin:
+      ref:
+        source: OIML D008:2004
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-D008
+    ref_type: section
+status: valid
+id: 3c11003a-9ce6-539d-a7a2-6e6bf978744b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of documents concerning the choice, recognition, use and conservation
+      of a particular standard
+  examples: []
+  id: 00221-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D008:2004
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: documentation for a standard
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4414e808-e67a-5696-9387-912d37980ed9

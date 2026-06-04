@@ -1,0 +1,45 @@
+data:
+  identifier: '01662'
+  localized_concepts:
+    eng: 0816d429-aa7a-5c8d-9a57-29fad41b8a5c
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: df521005-dd64-5f4a-ac86-bf49d91aa3da
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an instrument which measures the mass concentration of ethanol by analyzing
+      deep lung air, usable for evidential purposes
+  examples: []
+  id: 01662-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: evidential breath analyzer (EBA)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0816d429-aa7a-5c8d-9a57-29fad41b8a5c

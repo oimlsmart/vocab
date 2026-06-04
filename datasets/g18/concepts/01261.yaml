@@ -1,0 +1,46 @@
+data:
+  identifier: '01261'
+  localized_concepts:
+    eng: 652d0604-9eca-5e83-a582-e6a494beea93
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: a7efbd9c-6efa-54ff-945e-d6f248330673
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the part of the weigh zone that is intended to receive the load and which
+      realizes a change in the balance of the instrument when a load is placed upon
+      it
+  examples: []
+  id: 01261-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load receptor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 652d0604-9eca-5e83-a582-e6a494beea93

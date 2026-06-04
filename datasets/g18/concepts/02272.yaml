@@ -1,0 +1,46 @@
+data:
+  identifier: '02272'
+  localized_concepts:
+    eng: c6bc0820-b822-52e0-ac98-cf917c7fe038
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.33'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 4d129b17-dbca-5681-ae42-20959f6c8900
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: collecting line connected via valves to the outlets of the measuring
+      compartments and allowing delivery from any one or several compartments via
+      common pipework
+  examples: []
+  id: 02272-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.33'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: collector (manifold)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c6bc0820-b822-52e0-ac98-cf917c7fe038

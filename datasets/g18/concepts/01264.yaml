@@ -1,0 +1,46 @@
+data:
+  identifier: '01264'
+  localized_concepts:
+    eng: 60c693ea-6c1a-5c41-a768-b4f28bf2f6c7
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: e71ee889-08ef-56e6-9a3c-7ccfcab9db13
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device comprised of electronic subassemblies and performing aspecific
+      function. An electronic device is usually manufactured as a separate unit and
+      is capable of being independently tested
+  examples: []
+  id: 01264-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 60c693ea-6c1a-5c41-a768-b4f28bf2f6c7

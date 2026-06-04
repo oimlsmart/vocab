@@ -1,0 +1,46 @@
+data:
+  identifier: '00476'
+  localized_concepts:
+    eng: 42f67665-3c60-560b-b64c-855c29cf8032
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: badcaf22-2562-52db-b822-2d6e5dd101e7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment of the equipment under test, with the object of eliminating
+      or partially counteracting the effects of its previous history. Where called
+      for, this is the first process in the test procedure
+  examples: []
+  id: 00476-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pre-conditioning
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 42f67665-3c60-560b-b64c-855c29cf8032

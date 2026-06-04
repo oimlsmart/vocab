@@ -1,0 +1,45 @@
+data:
+  identifier: '02231'
+  localized_concepts:
+    eng: fd3259f3-e140-504c-b10b-a7f009f49c96
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 33898e83-ee13-527a-9ab0-fe664cad324c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: point located on the vertical measurement axis, with reference to which
+      the ullage is measured
+  examples: []
+  id: 02231-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upper reference point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fd3259f3-e140-504c-b10b-a7f009f49c96

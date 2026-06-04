@@ -1,0 +1,45 @@
+data:
+  identifier: '02317'
+  localized_concepts:
+    eng: 5915e0f0-6866-5e59-a058-55b6560251ec
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.19'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 34786688-5d30-5d22-af01-bdce257e370c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vertical distance between the dipping datum point and the liquid The
+      term “innage” is synonymous. level
+  examples: []
+  id: 02317-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dip
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5915e0f0-6866-5e59-a058-55b6560251ec

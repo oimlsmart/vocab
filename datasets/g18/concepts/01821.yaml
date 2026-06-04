@@ -1,0 +1,45 @@
+data:
+  identifier: 01821
+  localized_concepts:
+    eng: cd610067-45dd-5183-a5ec-0826d7bc1fa2
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.4.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 8ff8643a-f513-5412-a94a-921479e906d3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of an instrument minus the (conventional) true value of the
+      mass
+  examples: []
+  id: 01821-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.4.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cd610067-45dd-5183-a5ec-0826d7bc1fa2

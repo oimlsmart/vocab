@@ -1,0 +1,46 @@
+data:
+  identifier: '01343'
+  localized_concepts:
+    eng: 67319de6-423e-5c85-914f-a78a6c6337b0
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.7.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 9ecfada9-cc49-5025-9c9b-805cd2686346
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: to electronic device of an instrument that may perform the analog- -digital
+      conversion of the output signal of the load cell, and that further processes
+      the data, and displays the weighing result inunits of mass
+  examples: []
+  id: 01343-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.7.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 67319de6-423e-5c85-914f-a78a6c6337b0

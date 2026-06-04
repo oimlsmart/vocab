@@ -1,0 +1,46 @@
+data:
+  identifier: '01756'
+  localized_concepts:
+    eng: 26a39845-86cc-5ded-ae7e-b50968776d21
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+    locality:
+      type: clause
+      reference_from: '3.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R131
+    ref_type: section
+status: valid
+id: f3249809-0ec2-5bc8-9008-e5b0fd42aac2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: organization or agency in a particular country that is responsible for
+      determining whether the dosimetry system meets the performance requirements
+      designated by law or regulations
+  examples: []
+  id: 01756-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+      locality:
+        type: clause
+        reference_from: '3.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: national responsible body
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 26a39845-86cc-5ded-ae7e-b50968776d21

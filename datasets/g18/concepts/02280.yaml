@@ -1,0 +1,45 @@
+data:
+  identifier: 02280
+  localized_concepts:
+    eng: 9c0b0429-4796-51f6-9d42-959e99233994
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.41'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 1751d5c9-bb1b-54bf-9c50-14896887348d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'specified conditions under which the measured volume of liquid isconverted
+      (example: temperature, density, pressure).'
+  examples: []
+  id: 02280-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.41'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9c0b0429-4796-51f6-9d42-959e99233994

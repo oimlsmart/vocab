@@ -1,0 +1,46 @@
+data:
+  identifier: '01436'
+  localized_concepts:
+    eng: d569c835-c480-5614-9629-1e7a46b8aa80
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.4.8
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: f3bbfed6-aa41-5770-bcbd-1d82d6ba5f72
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: for a pressure balance tested by comparison against a standard pressure
+      balance, the minimum change in load that results in a detectable change in the
+      equilibrium of both the tested and the standard pressure balances
+  examples: []
+  id: 01436-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.4.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cross float sensitivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d569c835-c480-5614-9629-1e7a46b8aa80

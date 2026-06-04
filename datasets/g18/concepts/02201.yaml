@@ -1,0 +1,50 @@
+data:
+  identifier: '02201'
+  localized_concepts:
+    eng: 1e0c3ed8-ec7d-5856-b6f1-672cfce5d721
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.34
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: b35265a8-4ae7-5b9f-b8c5-e53778094fe7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a non-interruptible measurement is a cumulative continuous measuring
+      process with no definite end. The measuring process cannot be stopped and continued
+      again by a user or operator without inadmissibly disturbing the measurement
+      or the supply with goods or energy. If the cumulative measurement of a quantity
+      of a substance can be stopped easily and rapidly during normal operation – not
+      only in case of emergency – without falsifying the measurement result, it is
+      called interruptible.
+  examples: []
+  id: 02201-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.34
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-interruptible / interruptible measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1e0c3ed8-ec7d-5856-b6f1-672cfce5d721

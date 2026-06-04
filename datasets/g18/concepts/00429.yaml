@@ -1,0 +1,45 @@
+data:
+  identifier: 00429
+  localized_concepts:
+    eng: dd429787-f21f-5fc1-a8d7-621d7afe680c
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 4cb3f176-694c-53ba-9c81-88b89a01d30e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a error (of indication) of a water meter determined under reference
+      conditions dapted from VIM:1993, 5.24]'
+  examples: []
+  id: 00429-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dd429787-f21f-5fc1-a8d7-621d7afe680c

@@ -1,0 +1,46 @@
+data:
+  identifier: '02304'
+  localized_concepts:
+    eng: f95bd2ef-e8ee-5109-bbc7-bb3833d4a6d2
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 44d46658-8f67-5d4a-b833-e37f1b8ceba5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sensor that measures a relevant property of the liquid and/or the medium
+      above the liquid level for the purpose of applying a correction to the liquid
+      level measurement
+  examples: []
+  id: 02304-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction sensor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f95bd2ef-e8ee-5109-bbc7-bb3833d4a6d2

@@ -1,0 +1,47 @@
+data:
+  identifier: 02218
+  localized_concepts:
+    eng: 8a74c4ab-e35b-582b-986d-6d0b8f601ff4
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.51
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 90645e8c-6470-53d3-92b9-ebb459681069
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unique monotonically increasing time value, e.g. in seconds or a date
+      and time string denoting the date and/or time at which a certain event or fault
+      occurred. This data is presented in a consistent format, allowing for easy comparison
+      of two different records and tracking progress over time
+  examples: []
+  id: 02218-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.51
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: time stamp
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8a74c4ab-e35b-582b-986d-6d0b8f601ff4

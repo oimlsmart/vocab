@@ -1,0 +1,47 @@
+data:
+  identifier: 01683
+  localized_concepts:
+    eng: 7ebb4e54-7f2a-5b69-95df-1cfbf009c315
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: 86b46ba4-c9e5-59ea-9989-7a529fd2e494
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: combination of an ionizing radiation source and associated instrumentation
+      that provide uniform and reproducible absorbed dose, or absorbed dose rates,
+      at specified locations within a specific material. The absorbed dose shall be
+      traceable to national or international standards.
+  examples: []
+  id: 01683-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7ebb4e54-7f2a-5b69-95df-1cfbf009c315

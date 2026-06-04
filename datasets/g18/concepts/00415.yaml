@@ -1,0 +1,47 @@
+data:
+  identifier: '00415'
+  localized_concepts:
+    eng: e2b80ddc-6b72-53cf-b06a-08eeee2f658e
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 2f17d3db-30ff-519e-a955-4ee4ce40d7a3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the meter which displays the measurement results either continuously
+      or on demand
+  examples: []
+  id: 00415-eng
+  notes:
+  - content: A printing device which provides an indication at the end of the measurement
+      is not an indicating device.
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e2b80ddc-6b72-53cf-b06a-08eeee2f658e

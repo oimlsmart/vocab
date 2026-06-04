@@ -1,0 +1,46 @@
+data:
+  identifier: '00161'
+  localized_concepts:
+    eng: e8861678-1357-5f7a-9bbc-56d037d959c5
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: b775e71d-feb1-5e8f-b6a4-91a9116014f6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a means for determining whether the results of measurements using a method,
+      instrument or process over a relatively long time interval are within specified
+      limits established by taking into account the uncertainty and error of measurement
+  examples: []
+  id: 00161-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: statistical control (of measurement)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e8861678-1357-5f7a-9bbc-56d037d959c5

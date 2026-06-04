@@ -1,0 +1,45 @@
+data:
+  identifier: '01121'
+  localized_concepts:
+    eng: 1178b8b4-ea51-5f1a-8e47-5f21ba1b7b20
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: 9f2dd0ea-2e38-5da1-837f-749d97351abc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sample prepackages are chosen randomly (i.e. they all have the same probability
+      to be included in the sample).
+  examples: []
+  id: 01121-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: random sampling
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1178b8b4-ea51-5f1a-8e47-5f21ba1b7b20

@@ -1,0 +1,46 @@
+data:
+  identifier: 00568
+  localized_concepts:
+    eng: 2d6de002-c978-5956-8239-2080e3b3f99a
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: a13c15ec-29f2-5f63-bd04-b53210e04d35
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument which assigns a weighing result to a predetermined range of
+      mass to determine a tariff or toll
+  examples: []
+  id: 00568-eng
+  notes:
+  - content: 'Examples: postal scales, garbage weighers.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grading instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2d6de002-c978-5956-8239-2080e3b3f99a

@@ -1,0 +1,48 @@
+data:
+  identifier: '02242'
+  localized_concepts:
+    eng: 6a869fae-d4a9-5804-ae34-d4e03286cdb4
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 9bf93011-95f7-50b5-989f-2296253603ba
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device intended to perform a particular function, directly involved in
+      elaborating, transmitting or displaying measurement - z results - r - p - m
+      - p - c
+  examples: []
+  id: 02242-eng
+  notes:
+  - content: 'Examples of ancillary devices: ero setting device; epeating indicating
+      device; rinting device; emory device; rice indicating device; onversion device.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ancillary device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6a869fae-d4a9-5804-ae34-d4e03286cdb4

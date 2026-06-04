@@ -1,0 +1,48 @@
+data:
+  identifier: '01366'
+  localized_concepts:
+    eng: 0e3304e9-f47c-55c8-9433-f2864731a3ff
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 2b49457f-859f-594b-9d67-13a776b730e7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weight value that is achieved when an automatic operation is ended and
+      the instrument is completely at rest and balanced, with no disturbances affecting
+      the indication
+  examples: []
+  id: 01366-eng
+  notes:
+  - content: This definition is only applicable to static weighing and not to dynamic
+      weighing.
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: final weight value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0e3304e9-f47c-55c8-9433-f2864731a3ff

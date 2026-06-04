@@ -1,0 +1,45 @@
+data:
+  identifier: '01723'
+  localized_concepts:
+    eng: 64b9cb87-e78a-55a3-aa35-def9896675b3
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.24'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 5f770631-befe-598d-bf73-3e63d21c310d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the error of a measuring instrument determined under reference VIM:1993,
+      5.24. conditions
+  examples: []
+  id: 01723-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.24'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 64b9cb87-e78a-55a3-aa35-def9896675b3

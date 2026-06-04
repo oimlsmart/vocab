@@ -1,0 +1,46 @@
+data:
+  identifier: 01780
+  localized_concepts:
+    eng: b2b106be-9ce4-5d2c-9893-b2107129b3e2
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: 8cb33b14-9773-57e8-ae0f-a4358415befe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: temperature usually at a physical phase transition, such as the ice point
+      or triple point of water, at which a thermometer is checked for changes in bulb
+      volume and for separation of the liquid in the capillary
+  examples: []
+  id: 01780-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b2b106be-9ce4-5d2c-9893-b2107129b3e2

@@ -1,0 +1,45 @@
+data:
+  identifier: 00983
+  localized_concepts:
+    eng: 0734d2ed-33f7-5e36-b748-1be350509fff
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.5.7
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 8567b8e5-1ae6-5660-9586-1b56f4312bf1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the intrinsic error over a period of use and the initial
+      intrinsic error of an instrument
+  examples: []
+  id: 00983-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.5.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0734d2ed-33f7-5e36-b748-1be350509fff

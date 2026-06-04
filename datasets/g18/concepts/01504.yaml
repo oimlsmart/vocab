@@ -1,0 +1,48 @@
+data:
+  identifier: '01504'
+  localized_concepts:
+    eng: 39913432-b222-54a9-b870-b04f4a2d449a
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 0fa6e1ef-78d3-5ca5-ab30-fd437820b4d3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the closeness of agreement between results of successive measurements
+      of the same measurand carried out under the same the m conditions and within
+      a relatively short period of time measu envir
+  examples: []
+  id: 01504-eng
+  notes:
+  - content: 'The same conditions include the following: ethod of measurement, the
+      operator, the ring instrument, the location, and the onmental conditions.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 39913432-b222-54a9-b870-b04f4a2d449a

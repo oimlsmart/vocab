@@ -1,0 +1,45 @@
+data:
+  identifier: '01220'
+  localized_concepts:
+    eng: c27788ef-c61e-597f-9986-6ef00169baa6
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.10
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 38a5bd06-c189-5059-aa89-baa7d3149385
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the highest flow rate at which the measuring system is required to meet
+      the applicable maximum permissible errors
+  examples: []
+  id: 01220-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum flow rate
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c27788ef-c61e-597f-9986-6ef00169baa6

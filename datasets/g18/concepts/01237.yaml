@@ -1,0 +1,49 @@
+data:
+  identifier: '01237'
+  localized_concepts:
+    eng: 924e2527-8700-5c7a-9613-297efafa3668
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.22
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 4adaa43c-ee53-52a6-9a04-7ddfbe4dd5e2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'for masses equal to or greater than the minimum measured quantity, a
+      durability error greater than one-fifth of the absolute value of the maximum
+      permissible error for the measured quantity. Durability errors are not considered
+      as significant when: – the indication cannot be interpreted, memorized or transmitted
+      as a measurement result, – the indication is such that it is impossible to perform
+      any measurement'
+  examples: []
+  id: 01237-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.22
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant durability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 924e2527-8700-5c7a-9613-297efafa3668

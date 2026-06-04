@@ -1,0 +1,45 @@
+data:
+  identifier: 01967
+  localized_concepts:
+    eng: 3daa2332-b83e-54af-bb80-cb0bed700779
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: dd34df31-70f9-5e1b-afc6-f01669f01aff
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity that is not the measurand but which affects the result of (VIM:1993,
+      2.7) the measurement
+  examples: []
+  id: 01967-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3daa2332-b83e-54af-bb80-cb0bed700779

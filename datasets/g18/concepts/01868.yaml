@@ -1,0 +1,46 @@
+data:
+  identifier: 01868
+  localized_concepts:
+    eng: a93a4e0a-414f-5351-a2a3-5fa675c5c807
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.29'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 58fd8c4a-9031-5950-a9d9-04527a5b3032
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the error and the intrinsic error of a measuring instrument
+      (here a spectrophotometer)
+  examples: []
+  id: 01868-eng
+  notes:
+  - content: '[OIML D 11, 3.9]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.29'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a93a4e0a-414f-5351-a2a3-5fa675c5c807

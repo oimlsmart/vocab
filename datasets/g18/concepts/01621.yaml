@@ -1,0 +1,48 @@
+data:
+  identifier: '01621'
+  localized_concepts:
+    eng: 9fd7ffb2-6778-52b9-9ba1-383b1b5d82bc
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.7
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 25fc1496-8d75-54b8-a325-7ec2c6760ad6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device which contains all the necessary information and receives all
+      the necessary signals from the transducers thus enabling it to calculate the
+      mass contained in the tank as well as other quantities. It may also store information,
+      provide checking facilities for the information and communicate with ancillary
+      devices
+  examples: []
+  id: 01621-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: processor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9fd7ffb2-6778-52b9-9ba1-383b1b5d82bc

@@ -1,0 +1,52 @@
+data:
+  identifier: '02277'
+  localized_concepts:
+    eng: 5bd332a4-994d-546a-9c45-6aa1cf32b914
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.38'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: a7ee4e48-a735-5eea-8df2-d468417ce4e0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: delivery of liquid products from one or several measuring compartments
+      to a recipient
+  examples: []
+  id: 02277-eng
+  notes:
+  - content: 'The transaction can also be a receipt (e.g. a milk collecting truck).
+      A transaction is settle when the parties interested in the transaction have
+      made their agreement known (explicitly or implicitly) as regards the amount
+      of the transaction. This may be a payment, signing a credit card voucher, signing
+      a delivery order, etc. The parties interested in a transaction may be the parties
+      themselves or their representatives (for example: the employee in a filling
+      station the driver of a tanker).'
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.38'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transaction
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5bd332a4-994d-546a-9c45-6aa1cf32b914

@@ -1,0 +1,45 @@
+data:
+  identifier: 01729
+  localized_concepts:
+    eng: bd4890fa-53b2-5dfe-8116-7c3744daddae
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: 2.29.1
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: f33ba225-ed4e-5c9e-b32e-e81c12dc976f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value within the rated operating conditions
+      of the measuring instrument, specified in this Recommendation
+  examples: []
+  id: 01729-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: 2.29.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bd4890fa-53b2-5dfe-8116-7c3744daddae

@@ -1,0 +1,44 @@
+data:
+  identifier: 01583
+  localized_concepts:
+    eng: 35a326d2-d3f6-5611-a9d6-efbb3d944e85
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.p.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 71ce0830-99d3-5768-9774-f650308d61aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: monetary compensation in exchange for the delivered quantity of liquid
+  examples: []
+  id: 01583-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.p.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: payment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 35a326d2-d3f6-5611-a9d6-efbb3d944e85

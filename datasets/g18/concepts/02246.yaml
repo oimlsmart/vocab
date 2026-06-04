@@ -1,0 +1,45 @@
+data:
+  identifier: '02246'
+  localized_concepts:
+    eng: aad3ac88-765b-5bec-b9bb-28672a80d868
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 2c6f35df-f156-56ff-bc15-4ff847901778
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum volume of liquid which a tank or compartment may contain up to
+      overflowing, under rated operating conditions and atreference temperature
+  examples: []
+  id: 02246-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: aad3ac88-765b-5bec-b9bb-28672a80d868

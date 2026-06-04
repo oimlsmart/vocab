@@ -1,0 +1,45 @@
+data:
+  identifier: '01231'
+  localized_concepts:
+    eng: cc0fa628-fb05-5245-bb48-8f0bb5d17924
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.16
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: a4f25908-dd2a-5b99-88f8-da1796e24fc5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the indication of a measuring system minus the (conventional) true value
+      of the measure [VIM:1993, 5.24]
+  examples: []
+  id: 01231-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.16
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cc0fa628-fb05-5245-bb48-8f0bb5d17924

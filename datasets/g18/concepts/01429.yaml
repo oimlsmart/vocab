@@ -1,0 +1,45 @@
+data:
+  identifier: 01429
+  localized_concepts:
+    eng: 0044b156-56bf-5581-913a-3a8e497421bb
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 8c32d337-1252-5281-ad2a-3a37755aecdf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a pressure value that is perfectly consistent with the definition of
+      pressure
+  examples: []
+  id: 01429-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: true value of pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0044b156-56bf-5581-913a-3a8e497421bb

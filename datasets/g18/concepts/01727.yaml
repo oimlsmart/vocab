@@ -1,0 +1,52 @@
+data:
+  identifier: '01727'
+  localized_concepts:
+    eng: d7c07fcf-41e4-5aa6-aa5f-eb751a4fdf3a
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.28'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: e755f576-3c90-5da3-a292-2275e7976c0c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'a fault greater than one scale interval (d). The following faults are
+      not considered to be significant, even when they exceed the value defined above:
+      (a) faults arising from simultaneous and mutually independent causes in the
+      measuring instrument itself; (b) faults implying the impossibility to perform
+      any measurement; (c) transitory faults being momentary variations in the indication,
+      which cannot be interpreted, memorized or transmitted as a measurement result;
+      and (d) faults giving rise to variations in the measurement result so serious
+      that they are bound to be noticed by all those interested in the result of the
+      measurement.'
+  examples: []
+  id: 01727-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.28'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d7c07fcf-41e4-5aa6-aa5f-eb751a4fdf3a

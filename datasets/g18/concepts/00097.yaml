@@ -1,0 +1,45 @@
+data:
+  identifier: 00097
+  localized_concepts:
+    eng: 1a366652-a2ca-5f47-86ff-e975d35f7366
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 1221a939-efc2-50e1-89bf-cbc467afc524
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (I fulfilment by the measuring instrument type of specified requirements
+      SO/IEC Guide 2, 12.1)
+  examples: []
+  id: 00097-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1a366652-a2ca-5f47-86ff-e975d35f7366

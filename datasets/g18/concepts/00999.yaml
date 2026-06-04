@@ -1,0 +1,45 @@
+data:
+  identifier: 00999
+  localized_concepts:
+    eng: 6d706407-d1f3-5c86-a1f0-4f3d70c13104
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R079
+    ref_type: section
+status: valid
+id: cf9a9d43-adc9-5918-b649-2f8a567018e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any package intended solely for industrial or institutional use or for
+      wholesale distribution
+  examples: []
+  id: 00999-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-consumer package
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6d706407-d1f3-5c86-a1f0-4f3d70c13104

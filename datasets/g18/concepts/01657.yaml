@@ -1,0 +1,44 @@
+data:
+  identifier: '01657'
+  localized_concepts:
+    eng: d0aa1437-f9be-5faa-bbae-bb223a675aa2
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.34.2
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: a3b043fc-5d9e-511c-b9aa-dcb3b398311a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a checking facility which requires the intervention of an operator
+  examples: []
+  id: 01657-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.34.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nonautomatic checking facility (Type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d0aa1437-f9be-5faa-bbae-bb223a675aa2

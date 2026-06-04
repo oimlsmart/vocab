@@ -1,0 +1,45 @@
+data:
+  identifier: 00942
+  localized_concepts:
+    eng: 6c892805-f21e-5ac0-be7b-3753de37db81
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: a69b1178-8969-5c5f-b962-a1bb1f0460b6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing capacity within which equilibrium is obtained without the intervention
+      of an operator
+  examples: []
+  id: 00942-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-indication capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6c892805-f21e-5ac0-be7b-3753de37db81

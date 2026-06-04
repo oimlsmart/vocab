@@ -1,0 +1,47 @@
+data:
+  identifier: 01970
+  localized_concepts:
+    eng: 03edae83-8b12-5f4c-b5b7-bd7ed8af916c
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 6afcb923-d12d-5eaa-be3b-dba584475b72
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme conditions, including flowrate, temperature, pressure, humidity
+      and electromagnetic interference that a gas meter is required to withstand without
+      damage. When it is subsequently operated within its rated operating conditions,
+      it must do so within the limits of its maximum permissible error
+  examples: []
+  id: 01970-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overload conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 03edae83-8b12-5f4c-b5b7-bd7ed8af916c

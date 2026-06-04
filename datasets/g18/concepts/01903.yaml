@@ -1,0 +1,44 @@
+data:
+  identifier: 01903
+  localized_concepts:
+    eng: 1343d488-7807-58d6-a79f-dc34b71ee91b
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: a084ce06-4d0b-5d7d-a26b-2eca6ae1a455
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range in which the maximum and minimum areas are intended to lie
+  examples: []
+  id: 01903-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1343d488-7807-58d6-a79f-dc34b71ee91b

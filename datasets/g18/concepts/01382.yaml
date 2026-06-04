@@ -1,0 +1,46 @@
+data:
+  identifier: 01382
+  localized_concepts:
+    eng: 8096b3d1-93b4-5063-9295-a02b14fa69c7
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 0e17c3e5-c221-59da-a1ca-f0aab0711ac2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: totalization indicating device that indicates the sum of the weight values
+      of a limited number of consecutive loads delivered to bulk. This device is resettable
+      to zero by the user
+  examples: []
+  id: 01382-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: partial totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8096b3d1-93b4-5063-9295-a02b14fa69c7

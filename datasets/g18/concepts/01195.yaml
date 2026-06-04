@@ -1,0 +1,46 @@
+data:
+  identifier: 01195
+  localized_concepts:
+    eng: deb874e5-2d4c-5065-9520-a650cbf1a731
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+    locality:
+      type: clause
+      reference_from: 3.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R100
+    ref_type: section
+status: valid
+id: 7939ec8c-2f70-5ab1-aacc-64b6ab5a99cf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a solution that contains all the chemicals except for the element to
+      be determined in the same concentration as required for the preparation of a
+      reference standard solution of that element
+  examples: []
+  id: 01195-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+      locality:
+        type: clause
+        reference_from: 3.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blank test solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: deb874e5-2d4c-5065-9520-a650cbf1a731

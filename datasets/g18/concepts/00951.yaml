@@ -1,0 +1,45 @@
+data:
+  identifier: 00951
+  localized_concepts:
+    eng: f52c0852-3a19-57fe-8158-de9fe1279436
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 54090a27-cc9b-5dc6-a624-a54e7cc2088d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'quotient of the maximum capacity and the verification scale interval:
+      n = Max / e'
+  examples: []
+  id: 00951-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: number of verification scale intervals, n
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f52c0852-3a19-57fe-8158-de9fe1279436

@@ -1,0 +1,45 @@
+data:
+  identifier: '01042'
+  localized_concepts:
+    eng: 9b2b923b-3558-5d79-86e3-db76082acc2c
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.33'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 7fd5559a-67d4-5b4e-9f55-344090aa75a4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test to verify that the measuring system under test (EUT) is capable
+      of accomplishing its intended functions
+  examples: []
+  id: 01042-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.33'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9b2b923b-3558-5d79-86e3-db76082acc2c

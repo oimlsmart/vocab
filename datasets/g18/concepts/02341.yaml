@@ -1,0 +1,45 @@
+data:
+  identifier: '02341'
+  localized_concepts:
+    eng: c5f6739e-4376-5055-b934-a31cfde7e728
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 9abe466c-9d7b-5883-80ea-4bd4d47636fc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility performing the adjustment of the instrument as programmed without
+      the intervention of the user, to initiate the adjustment or its magnitude
+  examples: []
+  id: 02341-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic adjustment facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c5f6739e-4376-5055-b934-a31cfde7e728

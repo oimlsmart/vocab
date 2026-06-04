@@ -1,0 +1,45 @@
+data:
+  identifier: '01511'
+  localized_concepts:
+    eng: 64745a98-4699-5252-bed8-70e2826a0d8b
+  sources:
+  - origin:
+      ref:
+        source: OIML R115:1995
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R115
+    ref_type: section
+status: valid
+id: c9e882b6-be44-5eb1-8915-b6bfbaf53daa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an indicating unit is the component of a thermometer that processes the
+      output signal of the temperature sensor and displays the measured temperature
+  examples: []
+  id: 01511-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R115:1995
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating unit
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 64745a98-4699-5252-bed8-70e2826a0d8b

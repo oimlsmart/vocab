@@ -1,0 +1,45 @@
+data:
+  identifier: '00200'
+  localized_concepts:
+    eng: 57f9e81a-a3b2-5039-ab05-6069252ae909
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.18'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: ab642079-52be-5c01-a390-212b14222ab7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any business designated by the manufacturer to act on its behalf for
+      specified tasks
+  examples: []
+  id: 00200-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: manufacturer’s representative
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 57f9e81a-a3b2-5039-ab05-6069252ae909

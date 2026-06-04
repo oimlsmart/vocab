@@ -1,0 +1,45 @@
+data:
+  identifier: 01728
+  localized_concepts:
+    eng: 8efbc8f0-ea9b-52d1-a8f6-fc6dca6c75fe
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.29'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 29b15a27-04ad-5cbc-917a-004a5b595790
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a quantity that is not the measurand but that affects the result of the
+      measurement
+  examples: []
+  id: 01728-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.29'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8efbc8f0-ea9b-52d1-a8f6-fc6dca6c75fe

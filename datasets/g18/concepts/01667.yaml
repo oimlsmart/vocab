@@ -1,0 +1,45 @@
+data:
+  identifier: '01667'
+  localized_concepts:
+    eng: 098e9962-b87c-53a8-aefa-21014f317f70
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: 9d765ac9-f71a-5a6a-bc08-666a7c2edb06
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the mode of usage which corresponds to the program of operations specified
+      for EBA’s in service
+  examples: []
+  id: 01667-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normal operation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 098e9962-b87c-53a8-aefa-21014f317f70

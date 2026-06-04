@@ -1,0 +1,45 @@
+data:
+  identifier: 00719
+  localized_concepts:
+    eng: ebf4bb7f-6680-5a4e-a50c-5fa029d375a5
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.8
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 42f2354a-a7e8-50a9-a7aa-50a7b4b8a881
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest value of a quantity (mass) which may be applied to a load cell
+      without exceeding the mpe (see 2.4.9)
+  examples: []
+  id: 00719-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum dead load (Emin)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ebf4bb7f-6680-5a4e-a50c-5fa029d375a5

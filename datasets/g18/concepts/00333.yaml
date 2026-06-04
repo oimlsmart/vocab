@@ -1,0 +1,53 @@
+data:
+  identifier: '00333'
+  localized_concepts:
+    eng: dd7c0388-0aa9-5379-ba27-f3e265203e68
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-2
+    ref_type: section
+status: valid
+id: 51fa0e75-fa18-5894-b260-4241696b40a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: method, wherein a cuff is placed on the limb and the pressure in During
+      the inflation and deflation of the cuff the cuff is increased until the blood
+      flow in the artery is smal interrupted and then the pressure in the cuff is
+      slowly reduced the pres incr stor pres With and math algo meas
+  examples: []
+  id: 00333-eng
+  notes:
+  - content: l pressure changes (oscillations) occur in cuff as a result of the arterial
+      blood sure pulses. These oscillations, which first ease and then decrease, are
+      detected and ed together with the corresponding cuff sure values in the measurement
+      system. these stored values the systolic, diastolic mean arterial blood pressure
+      values can be ematically derived using an appropriate rithm. It is possible
+      to carry out the urement during the inflation phase.
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: oscillometric method
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dd7c0388-0aa9-5379-ba27-f3e265203e68

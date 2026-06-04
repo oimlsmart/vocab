@@ -1,0 +1,45 @@
+data:
+  identifier: '00574'
+  localized_concepts:
+    eng: d1c7a496-37fe-5c0e-9850-1c4bbe0d5466
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.10.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 228b0b33-5f36-51aa-9742-83a9c3ddbc1f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indications, signals and symbols that are subject to the requirements
+      of this Recommendation
+  examples: []
+  id: 00574-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.10.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary indications
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d1c7a496-37fe-5c0e-9850-1c4bbe0d5466

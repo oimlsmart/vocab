@@ -1,0 +1,45 @@
+data:
+  identifier: 00997
+  localized_concepts:
+    eng: a7af1c50-75c9-5dbe-9f93-58176c123cfd
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R079
+    ref_type: section
+status: valid
+id: 3dc60227-e5c4-5316-a654-609adb0c030e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: both singular and plural, as the case demands, including individuals,
+      partnerships, corporations, companies, societies and associations
+  examples: []
+  id: 00997-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: person(s)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a7af1c50-75c9-5dbe-9f93-58176c123cfd

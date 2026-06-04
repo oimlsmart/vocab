@@ -1,0 +1,50 @@
+data:
+  identifier: '00226'
+  localized_concepts:
+    eng: 1f5577f4-a7df-525a-8f75-eea3e9259f1e
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 86f32820-2b97-55c4-9bc7-c0218651f4e8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'part of an electronic device, employing electronic components OIML B
+      3 [2] contains the following and having a recognizable function of its own.
+      Examples: amplifiers, comparators, power converters'
+  examples: []
+  id: 00226-eng
+  notes:
+  - content: 'definition of a “module”: Identifiable part of measuring instrument
+      or of a family of measuring instruments that performs a specific function or
+      functions and that can be separately evaluated according to prescribed metrological
+      and technical performance requirements in the relevant Recommendation.'
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic subassembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1f5577f4-a7df-525a-8f75-eea3e9259f1e

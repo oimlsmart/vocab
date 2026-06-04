@@ -1,0 +1,45 @@
+data:
+  identifier: 01779
+  localized_concepts:
+    eng: 0a34fb1f-7563-5673-8939-a6d2bb10b2b4
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: 919d8279-cc48-51bb-a44e-0e5d8ae35c93
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: short, optional scale, either at the lower end or the upper of the thermometer,
+      that contains a reference point, usually the ice point (0 °C)
+  examples: []
+  id: 01779-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: auxiliary scale
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a34fb1f-7563-5673-8939-a6d2bb10b2b4

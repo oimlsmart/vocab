@@ -1,0 +1,47 @@
+data:
+  identifier: 00384
+  localized_concepts:
+    eng: 9c285048-4dd4-5102-915e-5084409681f1
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: 69219ad8-b470-5053-a2ba-d55707b26632
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: hardness test block that has been certified to have a Rockwell hardness
+      value that is traceable to a specific Rockwell hardness standard. Reference
+      test blocks are used for the indirect verification and the daily verification
+      of Rockwell hardness machines
+  examples: []
+  id: 00384-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference test block
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9c285048-4dd4-5102-915e-5084409681f1

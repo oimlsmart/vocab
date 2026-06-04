@@ -1,0 +1,50 @@
+data:
+  identifier: 00886
+  localized_concepts:
+    eng: 3b736e0c-202c-565d-9a48-d6abd8f94611
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.11
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 4facb7c2-4dbc-5f4d-9643-90e6e490f94c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: non-automatic weighing instrument mounted on or incorporated (1) A vehicle-mounted
+      instrument is a into a vehicle complet mounted for tha mounted (2) A v parts
+      o instrum patient chair w
+  examples: []
+  id: 00886-eng
+  notes:
+  - content: 'e weighing instrument which is firmly on a vehicle, and which is designed
+      t special purpose. Example: Postal scale on a vehicle (mobile post office).
+      ehicle-incorporated instrument uses f the vehicle for the weighing ent. Examples:
+      Garbage weighers, lifters, pallet lifters, fork lifters, whee eighers.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mobile instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3b736e0c-202c-565d-9a48-d6abd8f94611

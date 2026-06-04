@@ -1,0 +1,45 @@
+data:
+  identifier: '00354'
+  localized_concepts:
+    eng: 0afcfb83-e975-59b6-b0ad-5cd4288b0af2
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.8.4
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 5614bd06-a019-56c1-8a64-a5af027db7d6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sequence of readable characters of software, and that is inextricably
+      linked to the software (e.g. version number, checksum)
+  examples: []
+  id: 00354-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.8.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software identification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0afcfb83-e975-59b6-b0ad-5cd4288b0af2

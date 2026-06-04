@@ -1,0 +1,44 @@
+data:
+  identifier: 00943
+  localized_concepts:
+    eng: b3a1c188-fe36-5efb-a212-02b3cb4499fb
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: c79cec55-fc4f-543e-be53-428398f9a2a6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range between the minimum and maximum capacities
+  examples: []
+  id: 00943-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b3a1c188-fe36-5efb-a212-02b3cb4499fb

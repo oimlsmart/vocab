@@ -1,0 +1,44 @@
+data:
+  identifier: 02188
+  localized_concepts:
+    eng: b8b1037f-bfc0-5b81-aa0b-c016d754291a
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.21
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: a68e553e-f1dc-5ec2-9c19-00eee8e452dc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: non resettable counter that increments each time an event occurs
+  examples: []
+  id: 02188-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.21
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: event counter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b8b1037f-bfc0-5b81-aa0b-c016d754291a

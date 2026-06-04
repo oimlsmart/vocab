@@ -1,0 +1,52 @@
+data:
+  identifier: '01645'
+  localized_concepts:
+    eng: ae352190-e875-5ffb-9067-8b3cf32486c0
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.28
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: ee4b9a11-ae69-5bb2-981c-7c8377215fc2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'a fault greater than the absolute value of the maximum permissible error
+      for the minimum quantity. The following faults are not considered to be significant,
+      even when they exceed the value defined above: (a) faults arising from simultaneous
+      and mutually independent causes in the measuring instrument itself or in its
+      checking facilities; (b) faults implying the impossibility to perform any measurement;
+      (c) transitory faults being momentary variations in the indication, which cannot
+      be interpreted, memorized or transmitted as a measurement result; and (d) faults
+      giving rise to variations in the measurement result which are so serious that
+      they are bound to be noticed by all those interested in the measurement result.'
+  examples: []
+  id: 01645-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.28
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ae352190-e875-5ffb-9067-8b3cf32486c0

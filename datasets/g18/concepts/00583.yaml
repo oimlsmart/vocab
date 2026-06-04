@@ -1,0 +1,44 @@
+data:
+  identifier: 00583
+  localized_concepts:
+    eng: ed240716-d9c7-53b4-8a56-1b5227b6c3fe
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 33eeac78-2475-558d-b312-728f467cb7b2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device providing the weighing result in visual form
+  examples: []
+  id: 00583-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: displaying device (of a weighing instrument)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ed240716-d9c7-53b4-8a56-1b5227b6c3fe

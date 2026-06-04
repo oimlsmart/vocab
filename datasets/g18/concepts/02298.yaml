@@ -1,0 +1,45 @@
+data:
+  identifier: 02298
+  localized_concepts:
+    eng: 19a67e4d-dd89-5fcf-a4de-6fccf40f5035
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.59'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: cffef902-50d0-5c14-95e6-e1e1f944c042
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility that operates at certain time intervals orper
+      fixed number of measurement cycles
+  examples: []
+  id: 02298-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.59'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermittent automatic checking facility (type I)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 19a67e4d-dd89-5fcf-a4de-6fccf40f5035

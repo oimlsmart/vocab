@@ -1,0 +1,52 @@
+data:
+  identifier: '00710'
+  localized_concepts:
+    eng: 87bbde45-3370-53e3-a2f9-d1b45a05b9b0
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: a2450135-3ccd-5322-9169-e4f9b9dd13bf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'for the purposes of type evaluation/pattern approval, a load cell The
+      examples provided are not intended to be family consists of load cells that
+      are of: li - the same material or combination of materials (for example, mild
+      steel, stainless steel or aluminum); - the same design of the measurement technique
+      (for example, strain gauges bonded to metal); - the same method of construction
+      (for example, shape, sealing of strain gauges, mounting method, manufacturing
+      method); - the same set of specifications (for example, output rating, input
+      impedance, supply voltage, cable details); and - one or more load cell groups'
+  examples: []
+  id: 00710-eng
+  notes:
+  - content: miting.
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load cell family
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 87bbde45-3370-53e3-a2f9-d1b45a05b9b0

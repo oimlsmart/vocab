@@ -1,0 +1,44 @@
+data:
+  identifier: '02071'
+  localized_concepts:
+    eng: 83396e71-8886-5dfd-9782-e379b7c38812
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 79b033ac-29a4-5dbf-9899-1426e5108240
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of measurement divided by a true value of the measurand
+  examples: []
+  id: 02071-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 83396e71-8886-5dfd-9782-e379b7c38812

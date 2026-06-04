@@ -1,0 +1,47 @@
+data:
+  identifier: 00309
+  localized_concepts:
+    eng: 8384d245-5f9d-571e-87b8-9cc30cd9bd9d
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-1
+    ref_type: section
+status: valid
+id: 78967504-4305-502b-8d60-ed03aa828248
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: minimum value of the arterial blood pressure as a result of relaxation
+      of the systemic ventricle
+  examples: []
+  id: 00309-eng
+  notes:
+  - content: Because of hydrostatic effects, this value should be measured with the
+      cuff at the heart level.
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diastolic blood pressure (value)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8384d245-5f9d-571e-87b8-9cc30cd9bd9d

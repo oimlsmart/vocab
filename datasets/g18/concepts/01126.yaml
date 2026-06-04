@@ -1,0 +1,45 @@
+data:
+  identifier: '01126'
+  localized_concepts:
+    eng: 6856ab32-f021-5576-a390-87a09f3115e4
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: 9c2622f5-208b-5ebb-81de-5c037af299a6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: focimeter which displays measured values rounded to the nearest incremental
+      value
+  examples: []
+  id: 01126-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital focimeter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6856ab32-f021-5576-a390-87a09f3115e4

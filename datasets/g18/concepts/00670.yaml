@@ -1,0 +1,45 @@
+data:
+  identifier: '00670'
+  localized_concepts:
+    eng: 4b80118c-fccf-5137-8592-8a2b3b732e3d
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.6.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 4823a5d6-97fb-540b-a7a2-1702848789a3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test carried out on a complete instrument or part of an instrument inwhich
+      any part of the weighing operation is simulated
+  examples: []
+  id: 00670-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.6.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simulation test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4b80118c-fccf-5137-8592-8a2b3b732e3d

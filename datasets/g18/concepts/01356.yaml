@@ -1,0 +1,49 @@
+data:
+  identifier: '01356'
+  localized_concepts:
+    eng: 12b53a08-ba42-5e5b-94df-67521407851a
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.11
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 60c742c6-15a2-5a03-9a46-f1f921b9177d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'interface (hardware and/or software) which only allows the introduction
+      of such data into the data processing device of an instrument, which cannot:
+       display data which are not clearly defined and which could be taken as being
+      a weighing result;  falsify displayed, processed or stored weighing results
+      or primary indications; or  adjust the instrument or change any adjustment
+      factor, except releasing an adjustment procedure with incorporated devices'
+  examples: []
+  id: 01356-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: protective interface
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 12b53a08-ba42-5e5b-94df-67521407851a

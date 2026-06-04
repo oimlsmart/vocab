@@ -1,0 +1,45 @@
+data:
+  identifier: 01892
+  localized_concepts:
+    eng: 3f0bd416-3fc3-562b-8f51-108390940d07
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: b1fa7192-a41f-51c1-a322-ef15d3b7e28e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the measuring device that displays the value of a measuring result
+      in units of area
+  examples: []
+  id: 01892-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3f0bd416-3fc3-562b-8f51-108390940d07

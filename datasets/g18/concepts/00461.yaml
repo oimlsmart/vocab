@@ -1,0 +1,44 @@
+data:
+  identifier: '00461'
+  localized_concepts:
+    eng: ad28d03a-2a4a-507f-a817-4cf194003dd2
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.5.5
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 9ca76109-d1ea-56ef-8383-c053ac6c03b5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: checking facility operating without the intervention of an operator
+  examples: []
+  id: 00461-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.5.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ad28d03a-2a4a-507f-a817-4cf194003dd2

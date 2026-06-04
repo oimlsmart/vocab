@@ -1,0 +1,46 @@
+data:
+  identifier: '00264'
+  localized_concepts:
+    eng: b6f6bdae-bf64-5d98-9a18-ac8da3c779c7
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-D015
+    ref_type: section
+status: valid
+id: a18aa27a-b351-537e-af4e-466f02921ca0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a subsequent verification of a measuring instrument for which the full
+      examination of the instrument, as for initial verification, is required [VML
+      2.4.4].
+  examples: []
+  id: 00264-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complete verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b6f6bdae-bf64-5d98-9a18-ac8da3c779c7

@@ -1,0 +1,46 @@
+data:
+  identifier: 01958
+  localized_concepts:
+    eng: 583df1aa-0d1c-5663-8a36-7c17262aa9d5
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: bc8d0eae-f6d1-51a2-8eb1-f69eded5989b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: highest flowrate at which a gas meter is required to operate within the
+      limits of its maximum permissible error, whilst operated within its rated operating
+      conditions
+  examples: []
+  id: 01958-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum flowrate, Qmax
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 583df1aa-0d1c-5663-8a36-7c17262aa9d5

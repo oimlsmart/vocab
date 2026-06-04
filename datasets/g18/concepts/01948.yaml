@@ -1,0 +1,46 @@
+data:
+  identifier: 01948
+  localized_concepts:
+    eng: dd57fadf-e5ff-5619-955c-74eec7110c03
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.12
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 4b2ba464-6908-5524-b463-6496905501d2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class of measuring instrument that meets certain metrological requirements
+      that are intended to maintain errors within specified limits
+  examples: []
+  id: 01948-eng
+  notes:
+  - content: '[VIM:1993, 5.19]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dd57fadf-e5ff-5619-955c-74eec7110c03

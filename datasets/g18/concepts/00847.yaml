@@ -1,0 +1,46 @@
+data:
+  identifier: 00847
+  localized_concepts:
+    eng: 96b6bcf0-0ff6-5133-81c0-c401c28aad05
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 3.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: ec1987ee-205b-5cf0-b507-5d8f33000b5c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a sub-assembly through which the heat-conveying liquid flows, ateither
+      the flow or return of a heatexchange circuit, and which emits a signal, which
+      is a function of the volume or the mass or the volumetric or mass flow rate
+  examples: []
+  id: 00847-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 3.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flow sensor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 96b6bcf0-0ff6-5133-81c0-c401c28aad05

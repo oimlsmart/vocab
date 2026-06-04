@@ -1,0 +1,47 @@
+data:
+  identifier: 01497
+  localized_concepts:
+    eng: a020d2e1-deb8-52fa-a17a-264c6cce1f1c
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 7191ae2f-f9d9-5a13-9deb-f9f8da71a8ef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the range of mass flow rates or concentrations of the sample component
+      of interest in the carrier gas over which the sensitivity of a detector remains
+      constant within specified limits and is expressed as the ratio of its upper
+      limit to the detection limit
+  examples: []
+  id: 01497-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linear range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a020d2e1-deb8-52fa-a17a-264c6cce1f1c

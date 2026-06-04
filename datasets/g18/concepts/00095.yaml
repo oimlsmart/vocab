@@ -1,0 +1,47 @@
+data:
+  identifier: 00095
+  localized_concepts:
+    eng: 0ca66eb6-ace6-504c-9d17-5a4e24ff9bae
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 51b65410-b4d9-559f-a30a-ab5a1de6d0bc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (V systematic examination and testing of the performance of one or more
+      specimens of an identified type of measuring instrument against documented requirements,
+      the results of which are contained in an evaluation report, in order to determine
+      whether the type may be approved IML 2.5)
+  examples: []
+  id: 00095-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type evaluation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0ca66eb6-ace6-504c-9d17-5a4e24ff9bae

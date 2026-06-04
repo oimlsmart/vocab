@@ -1,0 +1,45 @@
+data:
+  identifier: '01151'
+  localized_concepts:
+    eng: 591a8268-4ebb-53fb-90c6-44daba5b9e0a
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R098
+    ref_type: section
+status: valid
+id: d0c3a39f-d9bc-5746-8bb5-ae3f289f7f21
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a measure representing one or several values of length determined by
+      the shortest distance between the centers of two scale marks
+  examples: []
+  id: 01151-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: line measure of length
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 591a8268-4ebb-53fb-90c6-44daba5b9e0a

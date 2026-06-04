@@ -1,0 +1,46 @@
+data:
+  identifier: '00357'
+  localized_concepts:
+    eng: 08024617-73f9-57d9-9a7b-5c2c97796211
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.8.7
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: ca89164e-4e6f-5901-8f8d-3e68a9c212fe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: storage on the instrument or external storage device used for keeping
+      measurement data ready after completion of the measurement for subsequent legally
+      relevant purposes
+  examples: []
+  id: 00357-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.8.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data storage device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 08024617-73f9-57d9-9a7b-5c2c97796211

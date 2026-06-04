@@ -1,0 +1,51 @@
+data:
+  identifier: 02369
+  localized_concepts:
+    eng: 33c519eb-efd6-5a32-969c-8b7ed857f1de
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.34'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: f2f8776d-cfa0-5e9b-a23e-897bde8bac63
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gas mixture of sufficient stability and homogeneity whose composition
+      is properly established for use in various performance tests
+  examples: []
+  id: 02369-eng
+  notes:
+  - content: 1. Adapted from ISO 7504, 4.1 (calibration gas mixture) and 4.1.1 (reference
+      gas mixture) and “VIM”, 5.13 (reference material) and 5.14 (certified reference
+      material);
+  - content: 2. In the referent ISO Standards, the expression “calibration gas” is
+      generally used;
+  - content: 3. See also Annex B.
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.34'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference gas
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 33c519eb-efd6-5a32-969c-8b7ed857f1de

@@ -1,0 +1,46 @@
+data:
+  identifier: 00098
+  localized_concepts:
+    eng: d321d80d-06ba-549e-872c-d53c6b6d707f
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 82011902-261f-523c-ab51-284cd10925e8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document issued by an OIML Issuing Authority indicating that the identified
+      measuring instrument type is in conformity with the requirements of the applicable
+      OIML Recommendation
+  examples: []
+  id: 00098-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OIML Certificate of Conformity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d321d80d-06ba-549e-872c-d53c6b6d707f

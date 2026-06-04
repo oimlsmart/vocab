@@ -1,0 +1,45 @@
+data:
+  identifier: '02323'
+  localized_concepts:
+    eng: d580b798-86e5-5c8e-bec5-e63cf62231af
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.25'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 94a3a443-9087-56e0-9a4e-460f447faf1e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within specified limits, but outside
+      the specified rated operating conditions of the ALG
+  examples: []
+  id: 02323-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.25'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d580b798-86e5-5c8e-bec5-e63cf62231af

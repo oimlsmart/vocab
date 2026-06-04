@@ -1,0 +1,49 @@
+data:
+  identifier: '00133'
+  localized_concepts:
+    eng: a06a7e40-9dc7-5172-a324-0d927ef8933b
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.9
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: bae8cc29-cce4-5357-8497-35f454194d76
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a formal recognition that a testing laboratory is competent to carry
+      out specific tests or specific types of tests.
+  examples: []
+  id: 00133-eng
+  notes:
+  - content: The genetic term «accreditation» can cover the recognition of both the
+      technical competence and the impartiality of a testing laboratory or only its
+      technical competence. Accreditation is normally awarded following successful
+      laboratory assessment and is followed by appropriate monitoring.
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: laboratory accreditation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a06a7e40-9dc7-5172-a324-0d927ef8933b

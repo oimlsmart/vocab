@@ -1,0 +1,45 @@
+data:
+  identifier: 02198
+  localized_concepts:
+    eng: 626b4273-1480-5dfd-9968-4a29503a8eee
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.31
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 33274e0e-65aa-5a14-b109-5f6fb70abae7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of all software modules of a measuring instrument, electronic device,
+      or sub-assembly that is legally relevant
+  examples: []
+  id: 02198-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.31
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant software part
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 626b4273-1480-5dfd-9968-4a29503a8eee

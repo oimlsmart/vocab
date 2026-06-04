@@ -1,0 +1,50 @@
+data:
+  identifier: 01499
+  localized_concepts:
+    eng: d3e8e086-d69c-5a20-b529-99b5fe1cca3f
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 8c7b7759-4887-5c4b-8fbe-d816b995f7d4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'the output signal of a detector per unit mass of eluted sample components
+      of interest and is either one of the following categories: 3.12.1 Concentration-dependent
+      detector Expressed in A · mL · g–1 or V · mL · g–1, and by the equation: where
+      S = sensitivity P = the integrated peak area (A · s or V · s) F = the carrier
+      gas flow rate (mL · s–1) M = mass of the sample in the carrier gas (g) 3.12.2
+      Mass-flow-rate-dependent detector Expressed in A · s · g–1 or V · s · g–1, and
+      by the equation: where the symbols are the same as those defined in 3.12.1.'
+  examples: []
+  id: 01499-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d3e8e086-d69c-5a20-b529-99b5fe1cca3f

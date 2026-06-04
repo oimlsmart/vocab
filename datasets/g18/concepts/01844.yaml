@@ -1,0 +1,48 @@
+data:
+  identifier: 01844
+  localized_concepts:
+    eng: d1ef431d-0b8c-5868-b666-d6ad06490eb6
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 39179a26-b869-5de3-9ae1-c0046fd67a10
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: logarithm to base ten of the reciprocal of the transmittance
+  examples: []
+  id: 01844-eng
+  notes:
+  - content: 1. ISO 6286, Table 1, No.
+  - content: '5.'
+  - content: 2. Absorbance has the dimension one and is expressed with the derived
+      coherent SI unit one (1).
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorbance (A = lg(1/τ))
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d1ef431d-0b8c-5868-b666-d6ad06490eb6

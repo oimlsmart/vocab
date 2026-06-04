@@ -1,0 +1,47 @@
+data:
+  identifier: '02152'
+  localized_concepts:
+    eng: 5326874b-7dfc-506c-b6b5-8880bc5471dd
+  sources:
+  - origin:
+      ref:
+        source: OIML D018:2008
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-D018
+    ref_type: section
+status: valid
+id: 8dc1a423-5c3d-54a3-a133-5dceb38e0923
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: material, sufficiently homogeneous and stable with reference to specified
+      properties, which has been established to be fit for its intended use in measurement
+      or in examination of nominal properties
+  examples: []
+  id: 02152-eng
+  notes:
+  - content: (VIM:2007, 5.13)
+  sources:
+  - origin:
+      ref:
+        source: OIML D018:2008
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference material (RM)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5326874b-7dfc-506c-b6b5-8880bc5471dd

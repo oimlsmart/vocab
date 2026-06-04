@@ -1,0 +1,45 @@
+data:
+  identifier: '00356'
+  localized_concepts:
+    eng: 21077fbf-7ad8-59bc-b41a-27dad44d1148
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.8.6
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 2ac39f74-5d65-5ac7-94ed-1d991b0bbca4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: software in measuring devices can be divided into a legally relevant
+      part and a legally irrelevant part. These parts communicate via an interface
+  examples: []
+  id: 00356-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.8.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software separation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 21077fbf-7ad8-59bc-b41a-27dad44d1148

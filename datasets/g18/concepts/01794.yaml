@@ -1,0 +1,45 @@
+data:
+  identifier: 01794
+  localized_concepts:
+    eng: d19d4c2c-af52-5f70-9013-4c1bbdda9a53
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 119e45c4-7ed2-54f2-b2ba-b153908013e0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of an electronic device comprized of electronic components and having
+      a recognizable function of its own
+  examples: []
+  id: 01794-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic sub-assembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d19d4c2c-af52-5f70-9013-4c1bbdda9a53

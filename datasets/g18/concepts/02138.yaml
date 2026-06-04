@@ -1,0 +1,46 @@
+data:
+  identifier: 02138
+  localized_concepts:
+    eng: 9dadd8c9-bb1b-5f43-ae64-f3905595bc1b
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 16b6f624-f5b6-54a0-a949-2142bcc92984
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: time interval between the instant of a stepwise concentration change
+      of the substance (SO2) being measured and the instant at which the signal reaches
+      90 % of its stable value
+  examples: []
+  id: 02138-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: response time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9dadd8c9-bb1b-5f43-ae64-f3905595bc1b

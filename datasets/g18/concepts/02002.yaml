@@ -1,0 +1,45 @@
+data:
+  identifier: '02002'
+  localized_concepts:
+    eng: bf226c03-cd52-5f6e-bcb3-12e22ba7097e
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 228d31be-3a29-5fc6-8e67-1f87dd349d70
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement that allows the customer to use a measuring system for the
+      purpose of obtaining gas for his own purchase
+  examples: []
+  id: 02002-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-service arrangement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bf226c03-cd52-5f6e-bcb3-12e22ba7097e

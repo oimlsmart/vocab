@@ -1,0 +1,45 @@
+data:
+  identifier: '01262'
+  localized_concepts:
+    eng: c80672bf-30be-528b-b868-8d65ebcdeb22
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 6f119746-6710-5e9b-83a9-e49f007543a0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: two or more load receptors placed in series that are used as a single
+      load receptor for full draught weighing
+  examples: []
+  id: 01262-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multiple load receptors
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c80672bf-30be-528b-b868-8d65ebcdeb22

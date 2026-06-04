@@ -1,0 +1,45 @@
+data:
+  identifier: 00940
+  localized_concepts:
+    eng: 1da4932b-9298-50fb-acae-37db4887d5e6
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: ea63ce66-1fac-55e2-8673-3f9cd44c8355
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum weighing capacity, not taking into account the additive tare
+      capacity
+  examples: []
+  id: 00940-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum capacity (Max)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1da4932b-9298-50fb-acae-37db4887d5e6

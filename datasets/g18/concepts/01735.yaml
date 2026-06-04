@@ -1,0 +1,44 @@
+data:
+  identifier: '01735'
+  localized_concepts:
+    eng: c6a3a7a2-e34b-59df-aaaa-585612b09f94
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: 2.33.1
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 9c2b9783-50de-5193-a889-dd630a6830c5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a detailed description of the tests
+  examples: []
+  id: 01735-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: 2.33.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test procedure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c6a3a7a2-e34b-59df-aaaa-585612b09f94

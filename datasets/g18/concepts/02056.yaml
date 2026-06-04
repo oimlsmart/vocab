@@ -1,0 +1,45 @@
+data:
+  identifier: '02056'
+  localized_concepts:
+    eng: e2a85000-ac2c-50ff-b2ed-8c9d84bc298c
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.13
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: b03105db-bfbf-5e60-8513-18621e6f649d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of the gas at which the quantity is measured at the point
+      of measurement (temperature and pressure of the measured gas)
+  examples: []
+  id: 02056-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.13
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metering conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e2a85000-ac2c-50ff-b2ed-8c9d84bc298c

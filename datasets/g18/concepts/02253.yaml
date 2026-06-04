@@ -1,0 +1,45 @@
+data:
+  identifier: '02253'
+  localized_concepts:
+    eng: eae2a287-ce84-516b-81da-9d861167d99e
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: b864c71d-8d3f-5060-b423-327633287f7e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: point clearly identified on the vertical measurement axis, with reference
+      to which the liquid level is measured
+  examples: []
+  id: 02253-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eae2a287-ce84-516b-81da-9d861167d99e

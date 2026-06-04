@@ -1,0 +1,46 @@
+data:
+  identifier: '01466'
+  localized_concepts:
+    eng: e43b50bf-3950-5553-a4e5-7fe3a37a378a
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.17.1
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 05937abb-defe-55e9-9b33-fc3d9fbf3e6d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: systematic examination and testing of the performance of a type ofweights
+      or weight sets against the documented requirements ofthis Recommendation, the
+      results of which are contained in a test report
+  examples: []
+  id: 01466-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.17.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type evaluation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e43b50bf-3950-5553-a4e5-7fe3a37a378a

@@ -1,0 +1,48 @@
+data:
+  identifier: 00199
+  localized_concepts:
+    eng: 3b1a5756-9616-56fa-ba31-cc4dd0a742e8
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.17'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 0997bc63-21d0-56ff-88f2-3d3f1cd4e7eb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: business responsible for designing and manufacturing a measuring instrument
+      or a pre-packaged product with a view to produ placing it lawfully on the market
+      nationally or within a free trade area, on its own behalf
+  examples: []
+  id: 00199-eng
+  notes:
+  - content: The instrument or other product can be ced by another business but it
+      shall be placed on the market by and under the full responsibility of the manufacturer.
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: manufacturer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3b1a5756-9616-56fa-ba31-cc4dd0a742e8

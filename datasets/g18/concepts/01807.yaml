@@ -1,0 +1,44 @@
+data:
+  identifier: 01807
+  localized_concepts:
+    eng: 1b0d1184-3d33-5b21-b7e0-b163ffbaca32
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 074b9eba-64f3-5a33-877b-b31eb82d6b8a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing of vehicles or test loads that are stationary
+  examples: []
+  id: 01807-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: static weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1b0d1184-3d33-5b21-b7e0-b163ffbaca32

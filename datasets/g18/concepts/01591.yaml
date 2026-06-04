@@ -1,0 +1,44 @@
+data:
+  identifier: 01591
+  localized_concepts:
+    eng: c9db69ff-ca4c-53a9-9523-767fd66b823e
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.p.7
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 04911994-a66c-5737-aa2c-d3330fc0ae26
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which causes the liquid to flow through suction or pressure
+  examples: []
+  id: 01591-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.p.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pump
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c9db69ff-ca4c-53a9-9523-767fd66b823e

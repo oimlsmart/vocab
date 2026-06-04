@@ -1,0 +1,46 @@
+data:
+  identifier: '01520'
+  localized_concepts:
+    eng: 106d2689-aeb0-540f-ac8e-4c36b694624b
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: 5b35a382-c46f-5b69-91b6-89e152dd1ac4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: flow of argon gas between the outer and intermediate tubes of an ICP
+      torch at a rate depending on the torch design to maintain the plasma in the
+      center of the torch and to prevent overheating the tube
+  examples: []
+  id: 01520-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coolant flow
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 106d2689-aeb0-540f-ac8e-4c36b694624b

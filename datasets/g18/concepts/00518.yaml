@@ -1,0 +1,45 @@
+data:
+  identifier: 00518
+  localized_concepts:
+    eng: f2279b17-0fcc-5f31-ad7d-c10af635716d
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 11f1910e-cdc3-5bb5-9b7e-3bb0c7add219
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the maximum instantaneous net load that the weighing unit is intended
+      to weigh on the portion of the conveyor belt representing the weigh length
+  examples: []
+  id: 00518-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum capacity (Max)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f2279b17-0fcc-5f31-ad7d-c10af635716d

@@ -1,0 +1,44 @@
+data:
+  identifier: '01664'
+  localized_concepts:
+    eng: 8d8ad5e9-1a8f-578a-81c8-c0382480571c
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: 4b542d8e-2f43-5f6f-873a-f0645d088074
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an EBA that may be used within or outside a building
+  examples: []
+  id: 01664-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: portable evidential breath analyzer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8d8ad5e9-1a8f-578a-81c8-c0382480571c

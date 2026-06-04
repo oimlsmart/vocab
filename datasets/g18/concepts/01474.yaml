@@ -1,0 +1,45 @@
+data:
+  identifier: '01474'
+  localized_concepts:
+    eng: 7d980a17-99ff-58ae-a1a7-a5328d4ac8be
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: 48498f88-f326-5978-9d11-c9e9850f9f2b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a tube that contains the stationary phase through which the mobile phase
+      flows
+  examples: []
+  id: 01474-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: column
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7d980a17-99ff-58ae-a1a7-a5328d4ac8be

@@ -1,0 +1,50 @@
+data:
+  identifier: '00631'
+  localized_concepts:
+    eng: d299dd67-b3a8-54a3-96e4-1f5fb1d4a4f2
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 8f4bc91c-1159-5c3d-a936-8294ae0fb877
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: numerical value, representing a weight value, that is introduced into
+      the instrument. It is a predetermined tare value that is used for one or several
+      weighings
+  examples: []
+  id: 00631-eng
+  notes:
+  - content: '(1) “Introduced” includes procedures such as: keying in, recalling from
+      a data storage, or inserting via an interface. (2) “Predetermined” means that
+      a tare value is determined once and is applied to other weighings without determining
+      the individual tare values.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preset tare value, PT
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d299dd67-b3a8-54a3-96e4-1f5fb1d4a4f2
