@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.9
+  localized_concepts:
+    eng: b2b730c3-e6e6-550f-bb14-1a402a9e4239
+    fra: 21b3311b-34aa-55d6-b63e-61e9b8d16fd5
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: d0f8ae1d-3e3e-5b1f-a6f0-aee7441b6862
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.9
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: provision of a sample of the object of conformity assessment, according
+      to a procedure
+  examples: []
+  id: A.9-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '4.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sampling
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: b2b730c3-e6e6-550f-bb14-1a402a9e4239
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: prélèvement d'un échantillon de l'objet de l'évaluation de la conformité,
+      selon une procédure
+  examples: []
+  id: A.9-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '4.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échantillonnage
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 21b3311b-34aa-55d6-b63e-61e9b8d16fd5

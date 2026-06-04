@@ -2,27 +2,21 @@
 data:
   identifier: '5.4'
   localized_concepts:
-    fra: f78b5bff-2696-57ec-b002-e30b260c1017
+    fra: a71fe0f0-c273-52df-b248-b8cfe666270d
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 9e386964-3089-5ff1-ad19-76036e008af1
+id: a3ad13aa-4a5c-5441-934f-9d6a75bd5ad1
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: Résultat d'un mesw11,ge 5.4246, Réversibilité d'un Jnstrumont de mesurage
-      9.7sSchéma de principeSchérn a. de structure. . . ..................................................
-      , ....... .Schéma d''ane hlérarchlo des lnslramonls de mesurage ................................Sènsibilît6
-      d'un instrument de mesurage............................................ .Se'!'Vlce
-      national do métrologlo légale ..............................................
-      .Seuil do démarrage d'un compteur.......................................:.........
-      .
+  definition: []
   examples: []
   id: 5.4-fra
   notes: []
@@ -30,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 2241>.
-  language_code: fra
-  entry_status: valid
+    designation: RÉSULTAT D'UN MESURAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f78b5bff-2696-57ec-b002-e30b260c1017
+id: a71fe0f0-c273-52df-b248-b8cfe666270d

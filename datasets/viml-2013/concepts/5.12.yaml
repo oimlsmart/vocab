@@ -2,14 +2,14 @@
 data:
   identifier: '5.12'
   localized_concepts:
-    eng: 5ae7f25c-911b-5cb7-9571-2e88c11bef55
-    fra: 786b8cf7-891e-5815-9f80-d1153f088107
+    eng: 31be9e19-fb6d-55ea-aca1-19a9248e3aba
+    fra: 2418134a-a222-5efd-9e2c-b487d3e31db6
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 9c75efcc-a1b8-5bd9-abf0-30f11611feb2
+id: 420f3277-7a9a-5d95-9eff-c0e9f5a91456
 schema_version: '3'
 related:
 - type: superseded_by
@@ -37,26 +37,32 @@ data:
   - type: expression
     normative_status: preferred
     designation: fault
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 5ae7f25c-911b-5cb7-9571-2e88c11bef55
+id: 31be9e19-fb6d-55ea-aca1-19a9248e3aba
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: limite
+  - content: différence entre l'erreur d'indication et l'erreur intrinsèque d'un instrument
+      de mesure
   examples: []
   id: 5.12-fra
-  notes: []
+  notes:
+  - content: Principalement, une faute est le résultat d’une modification non désirée
+      des données contenues dans ou transitant par un instrument de mesure électronique.
+  - content: Il découle de la définition qu’une “faute” est une valeur numérique exprimée,
+      soit en unité de mesure, soit en valeur relative, par exemple sous forme d’un
+      pourcentage.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
     designation: défaut
-  language_code: fra
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 786b8cf7-891e-5815-9f80-d1153f088107
+id: 2418134a-a222-5efd-9e2c-b487d3e31db6

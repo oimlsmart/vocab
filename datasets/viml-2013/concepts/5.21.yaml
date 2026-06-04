@@ -2,14 +2,14 @@
 data:
   identifier: '5.21'
   localized_concepts:
-    eng: 6be61633-a4e0-586d-9a76-f73a7efe4524
-    fra: 8a8f2b26-adce-50aa-bbb9-ef5bfc94112b
+    eng: 0af5f8aa-587b-597f-8c90-c2b7a6874a20
+    fra: 02465a98-45db-5f9b-b9f4-9ca3e768b97f
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: d3da6c0a-ba4d-5468-88de-0e9f27c4259e
+id: 84ef4a5c-7212-5d57-881e-3d15fb4669b0
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: test test intended to verify whether the EUT is able to accomplish its
-      intended functions
+  - content: test intended to verify whether the EUT is able to accomplish its intended
+      functions
   examples: []
   id: 5.21-eng
   notes: []
@@ -31,17 +31,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: performance
-  language_code: eng
-  entry_status: valid
+    designation: performance test
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 6be61633-a4e0-586d-9a76-f73a7efe4524
+id: 0af5f8aa-587b-597f-8c90-c2b7a6874a20
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: essai permettant de vérifier si l'ESE est capable de remplir les fonctions
+      pour lesquelles il est prévu
   examples: []
   id: 5.21-fra
   notes: []
@@ -49,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalonnage
-  language_code: fra
-  entry_status: valid
+    designation: essai de performance
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 8a8f2b26-adce-50aa-bbb9-ef5bfc94112b
+id: 02465a98-45db-5f9b-b9f4-9ca3e768b97f

@@ -3,7 +3,7 @@ data:
   identifier: A.5
   localized_concepts:
     eng: 40945cf9-f0f3-52d1-9828-3116883753d8
-    fra: '082f6d1e-cded-523f-b1b4-b26660666075'
+    fra: 082f6d1e-cded-523f-b1b4-b26660666075
   domains:
   - concept_id: section-A
     source: urn:oiml:pub:v:1:2022
@@ -21,6 +21,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.4
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.5
 status: valid
 id: ee457e01-f2df-53ac-93bb-d27a3bbd387e
 schema_version: '3'
@@ -98,4 +102,4 @@ data:
   language_code: fra
   entry_status: valid
 date_accepted: '2022-01-01T00:00:00+00:00'
-id: '082f6d1e-cded-523f-b1b4-b26660666075'
+id: 082f6d1e-cded-523f-b1b4-b26660666075

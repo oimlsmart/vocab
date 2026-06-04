@@ -2,14 +2,14 @@
 data:
   identifier: '6.05'
   localized_concepts:
-    eng: 8d3c049f-47c5-525b-8dba-bd906092968a
-    fra: 778e106e-0a29-59c7-b32d-ea74a83aebc4
+    eng: 22a5d9ae-6817-56c4-a9e1-970d1bd9edfd
+    fra: acf482ef-89de-581c-9be3-6fcb7785bddb
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 9fe417d1-ca83-58bb-b9e2-c5aca37ffd22
+id: ff89026d-3ff8-5663-81f2-cce99745fb8e
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: trail continuous data file containing a time stamped information record
-      of events, e.g. changes in the values of the parameters of a device or software
+  - content: continuous data file containing a time stamped information record of
+      events, e.g. changes in the values of the parameters of a device or software
       updates, or other activities that are legally relevant and which may influence
       the metrological characteristics
   examples: []
@@ -33,18 +33,21 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: audit
-  language_code: eng
-  entry_status: valid
+    designation: audit trail
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 8d3c049f-47c5-525b-8dba-bd906092968a
+id: 22a5d9ae-6817-56c4-a9e1-970d1bd9edfd
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de métrologie légale
+  - content: fichier continu de données contenant un enregistrement horodaté des événements
+      tels les modifications des valeurs des paramètres d’un dispositif, les mises
+      à jour de logiciel, ou toute autre activité à caractère métrologique, susceptibles
+      d’influencer les caractéristiques métrologiques
   examples: []
   id: 6.05-fra
   notes: []
@@ -52,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: réglementation
-  language_code: fra
-  entry_status: valid
+    designation: registre des événements
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 778e106e-0a29-59c7-b32d-ea74a83aebc4
+id: acf482ef-89de-581c-9be3-6fcb7785bddb

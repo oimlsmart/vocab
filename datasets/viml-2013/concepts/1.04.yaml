@@ -2,14 +2,14 @@
 data:
   identifier: '1.04'
   localized_concepts:
-    eng: 07602bd7-f376-55ec-8531-6d37a78214aa
-    fra: 5dd2d9d9-1f8f-54bd-9fca-2e223997e3b9
+    eng: ef7c4379-00bb-514b-b890-264b10903400
+    fra: 31b64081-8a75-5717-a5cf-b0af9d41fca3
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 8a3e864a-6ce5-5667-bb85-71e30013dd6d
+id: 0bfc0a52-3b8c-554e-a21c-a0e5fd7d1d82
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,9 +22,9 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: responsible body organization or agency at the national level or in a
-      nation, responsible for developing and/or enforcing laws or regulations regarding
-      legal metrological control
+  - content: organization or agency at the national level or in a nation, responsible
+      for developing and/or enforcing laws or regulations regarding legal metrological
+      control
   examples: []
   id: 1.04-eng
   notes: []
@@ -32,18 +32,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: national
-  language_code: eng
-  entry_status: valid
+    designation: national responsible body
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 07602bd7-f376-55ec-8531-6d37a78214aa
+id: ef7c4379-00bb-514b-b890-264b10903400
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: paramètre à caractère légal
+  - content: organisation ou agence responsable au niveau national du développement
+      et/ou de l’application des lois ou réglementations se rapportant au contrôle
+      de métrologie légale
   examples: []
   id: 1.04-fra
   notes: []
@@ -51,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: P
-  language_code: fra
-  entry_status: valid
+    designation: organisme national responsable
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 5dd2d9d9-1f8f-54bd-9fca-2e223997e3b9
+id: 31b64081-8a75-5717-a5cf-b0af9d41fca3

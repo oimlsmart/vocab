@@ -2,26 +2,52 @@
 data:
   identifier: '2.20'
   localized_concepts:
-    fra: 84e35402-9153-5406-a1c3-1427eff97423
+    eng: 3605e2b7-ee65-5a88-b832-940ce020b245
+    fra: c1b58e9e-8f59-5b75-bff2-f6f152793100
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 3a6aa886-b09e-5ced-a2fd-32dfbd333671
+id: 040629e4-6466-57a2-b768-ebb99a837afa
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.20'
+    id: '2.17'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’une approbation de type
+  - content: legal decision taken by a party, either voluntarily or based on a bi-
+      or multilateral arrangement whereby a verification certificate issued and/or
+      a verification mark applied by another party is recognized as complying with
+      relevant requirements
+  examples: []
+  id: 2.20-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recognition of verification
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 3605e2b7-ee65-5a88-b832-940ce020b245
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision légale prise par une partie, volontairement ou sur la base d’un
+      arrangement bi- ou multi-latéral, selon laquelle un certificat de vérification
+      délivré et/ou une marque de vérification apposée par une autre partie est reconnu
+      comme satisfaisant aux exigences applicables
   examples: []
   id: 2.20-fra
   notes: []
@@ -29,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: reconnaissance
-  language_code: fra
-  entry_status: valid
+    designation: reconnaissance de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 84e35402-9153-5406-a1c3-1427eff97423
+id: c1b58e9e-8f59-5b75-bff2-f6f152793100

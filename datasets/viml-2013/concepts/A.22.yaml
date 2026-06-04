@@ -1,0 +1,74 @@
+---
+data:
+  identifier: A.22
+  localized_concepts:
+    eng: 898ae493-23cc-5cb1-b99e-1c739b491023
+    fra: 42a9510c-2d19-5357-ab20-9017e641e072
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 63b60eb5-6fa8-58ae-83c7-eb3d9c2f1ab0
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.22
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: request by the provider of the object of conformity assessment to the
+      conformity assessment body or accreditation body for reconsideration by that
+      body of a decision it has made relating to that object
+  examples: []
+  id: A.22-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '6.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appeal
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 898ae493-23cc-5cb1-b99e-1c739b491023
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: demande adressée par le fournisseur de l'objet de l'évaluation de la
+      conformité à l'organisme de l'évaluation de la conformité ou à l'organisme d'accréditation
+      que cet organisme reconsidère une décision déjà prise relative à cet objet
+  examples: []
+  id: A.22-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '6.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appel
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 42a9510c-2d19-5357-ab20-9017e641e072

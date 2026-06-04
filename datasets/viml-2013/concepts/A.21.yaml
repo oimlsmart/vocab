@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.21
+  localized_concepts:
+    eng: 5f9255ce-b535-51ab-b55d-7a8f77fd9372
+    fra: fdbd4cae-2f20-56fb-ac87-f2c1e0b5f8eb
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: b989a5a4-218a-5229-91dc-4accfc51aade
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.21
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: temporary invalidation of the statement of conformity for all or part
+      of the specified scope of attestation
+  examples: []
+  id: A.21-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '6.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspension
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 5f9255ce-b535-51ab-b55d-7a8f77fd9372
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: invalidation temporaire de l'affirmation de conformité pour tout ou partie
+      de la portée de l'attestation spécifiée
+  examples: []
+  id: A.21-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '6.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspension
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: fdbd4cae-2f20-56fb-ac87-f2c1e0b5f8eb

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.6.7
+  localized_concepts:
+    fra: d0dbad07-0c95-59dd-b5b3-016565577c9d
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 07bcaae5-5116-5f6e-8516-9f38a224e946
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.6.7-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UNITÉ DE MESURE MULTIPLE / SOUS-MULTIPLE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: d0dbad07-0c95-59dd-b5b3-016565577c9d

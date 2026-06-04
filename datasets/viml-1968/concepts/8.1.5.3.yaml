@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.1.5.3
+  localized_concepts:
+    fra: 5b6bb143-8c81-52a8-bd1a-e31e5392e02c
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: bad6954e-8cd2-5576-9606-75710cc9dc7a
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.1.5.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR ABSOLUE APPARENTE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5b6bb143-8c81-52a8-bd1a-e31e5392e02c

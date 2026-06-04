@@ -2,16 +2,20 @@
 data:
   identifier: '4.14'
   localized_concepts:
-    eng: e9f4852c-0019-5521-9ac5-e7016f041c27
-    fra: d33a2b64-4c31-56aa-89f7-511e1d9784b0
+    eng: 957ba2a2-56a3-5f1a-b406-c448efaf4e39
+    fra: f1779ccc-efc6-506e-94f5-47c32313de7b
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: cd314709-1808-5328-a73a-818579b4d4e7
+id: 1131a362-6fd3-5ddf-8224-0192b6360c08
 schema_version: '3'
 related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.4'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -22,8 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: instrument acceptable for verification measuring instrument of an approved
-      type, or one that meets statutory requirements and may be exempt from type approval
+  - content: measuring instrument of an approved type, or one that meets statutory
+      requirements and may be exempt from type approval
   examples: []
   id: 4.14-eng
   notes: []
@@ -31,18 +35,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: measuring
-  language_code: eng
-  entry_status: valid
+    designation: measuring instrument acceptable for verification
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: e9f4852c-0019-5521-9ac5-e7016f041c27
+id: 957ba2a2-56a3-5f1a-b406-c448efaf4e39
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: logiciel
+  - content: instrument de mesure d’un type approuvé, ou qui satisfait aux spécifications
+      réglementaires et peut être exempté de l’approbation de type
   examples: []
   id: 4.14-fra
   notes: []
@@ -50,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: interface
-  language_code: fra
-  entry_status: valid
+    designation: instrument de mesure présentable à la vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: d33a2b64-4c31-56aa-89f7-511e1d9784b0
+id: f1779ccc-efc6-506e-94f5-47c32313de7b

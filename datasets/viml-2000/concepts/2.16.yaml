@@ -2,35 +2,66 @@
 data:
   identifier: '2.16'
   localized_concepts:
-    fra: ea0c8d56-56ff-5d71-86f6-f3b50b1c3dae
+    eng: cb262ce7-0db1-5eb4-a161-8b862aae765a
+    fra: 40322e2b-a8f4-5721-8e1f-6382f5e9dc6a
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: cc840d7a-53e3-51d7-ba73-bfbf2d59c898
+id: e6e78319-e560-5945-9298-5aac08137474
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.16'
+    id: '2.13'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: volontaire
+  - content: 'any verification of a measuring instrument after a previous verification
+      and including: - mandatory periodic verification, - verification after repair'
   examples: []
-  id: 2.16-fra
-  notes: []
+  id: 2.16-eng
+  notes:
+  - content: Subsequent verification of a measuring instrument may be carried out
+      before expiry of the period of validity of a previous verification either at
+      the request of the user (owner) or when its verification is declared to be no
+      longer valid.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
-  language_code: fra
-  entry_status: valid
+    designation: subsequent verification
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: ea0c8d56-56ff-5d71-86f6-f3b50b1c3dae
+id: cb262ce7-0db1-5eb4-a161-8b862aae765a
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'toute vérification d’un instrument de mesure qui suit une vérification
+      précédente, y compris: - la vérification périodique obligatoire, - la vérification
+      après réparation'
+  examples: []
+  id: 2.16-fra
+  notes:
+  - content: La vérification ultérieure d’un instrument de mesure peut être effectuée
+      avant l’expiration de la période de validité de la vérification précédente soit
+      à la demande de l’utilisateur (propriétaire) soit quand sa vérification est
+      déclarée comme n’étant plus valable.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vérification ultérieure
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 40322e2b-a8f4-5721-8e1f-6382f5e9dc6a

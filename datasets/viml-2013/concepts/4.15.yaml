@@ -2,16 +2,20 @@
 data:
   identifier: '4.15'
   localized_concepts:
-    eng: 911f81d5-18a0-582c-a5a7-22776f3ab90f
-    fra: 593432e6-bf9f-5f66-871c-92d2f43f0a84
+    eng: 6650a442-63fb-512d-8356-19a0d3d954ec
+    fra: dfadd860-941c-58cf-9159-ee9cd5073635
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 878ad28a-05b5-5c6b-8f9b-73c9ee804321
+id: 9bbfdbf9-0b0d-5028-89b0-42fb4a936d44
 schema_version: '3'
 related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.7'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -22,8 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: equipment equipment that meets the statutory requirements and that is
-      used for verification
+  - content: equipment that meets the statutory requirements and that is used for
+      verification
   examples: []
   id: 4.15-eng
   notes: []
@@ -31,18 +35,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: verification
-  language_code: eng
-  entry_status: valid
+    designation: verification equipment
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 911f81d5-18a0-582c-a5a7-22776f3ab90f
+id: 6650a442-63fb-512d-8356-19a0d3d954ec
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: soumis à l'essai
+  - content: équipement satisfaisant aux exigences réglementaires et utilisé pour
+      la vérification
   examples: []
   id: 4.15-fra
   notes: []
@@ -50,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: équipement
-  language_code: fra
-  entry_status: valid
+    designation: équipement de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 593432e6-bf9f-5f66-871c-92d2f43f0a84
+id: dfadd860-941c-58cf-9159-ee9cd5073635

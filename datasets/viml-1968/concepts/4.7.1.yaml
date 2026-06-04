@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.7.1
+  localized_concepts:
+    fra: 120c4566-9dc0-5f62-acfe-cbcd841fa1b3
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: dcf11cc2-2cda-504a-98fc-4e0ee47e58ea
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.7.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: SYSTÈME COHÉRENT D'UNITÉS DE MESURE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 120c4566-9dc0-5f62-acfe-cbcd841fa1b3

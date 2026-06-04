@@ -2,14 +2,14 @@
 data:
   identifier: '5.11'
   localized_concepts:
-    eng: 9c4e61cc-9274-5f85-a59f-4c4db48bb7a8
-    fra: a713519a-ad3e-5aa0-9780-602062d76c0a
+    eng: ff2e537e-a878-5149-ada9-351bfb1dc386
+    fra: 55572a11-b9aa-5f82-9cb9-f94cedf095a5
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 45c154c0-e9d3-5e66-bb78-7427aa4fe71a
+id: c7fe65b1-a65b-5cd5-a374-13a44df08e5b
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: intrinsic error intrinsic error of a measuring instrument as determined
-      prior to performance tests and durability evaluations
+  - content: intrinsic error of a measuring instrument as determined prior to performance
+      tests and durability evaluations
   examples: []
   id: 5.11-eng
   notes: []
@@ -31,18 +31,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: initial
-  language_code: eng
-  entry_status: valid
+    designation: initial intrinsic error
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 9c4e61cc-9274-5f85-a59f-4c4db48bb7a8
+id: ff2e537e-a878-5149-ada9-351bfb1dc386
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: maximale tolérée
+  - content: erreur intrinsèque d'un instrument de mesure telle qu'elle est déterminée
+      avant les essais de performance et les évaluations de durabilité
   examples: []
   id: 5.11-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur
-  language_code: fra
-  entry_status: valid
+    designation: erreur intrinsèque initiale
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: a713519a-ad3e-5aa0-9780-602062d76c0a
+id: 55572a11-b9aa-5f82-9cb9-f94cedf095a5

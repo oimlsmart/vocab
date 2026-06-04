@@ -2,26 +2,49 @@
 data:
   identifier: '3.5'
   localized_concepts:
-    fra: c6301dea-7e5b-5847-89f2-b9e56ebbedaa
+    eng: 8a2cbaf1-ec00-5e03-ac9e-1eb93b97ccaa
+    fra: 6d34f644-6f6a-535b-9b23-721598257359
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: c7ec525b-3b6e-5d25-a23f-655273dc341c
+id: 3c2c28c5-5fb5-5a41-9758-db31d3b71e11
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '3.05'
+    id: '3.03'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’approbation de type
+  - content: document stating that a measuring instrument was found not to comply
+      or no longer to comply with the relevant statutory requirements 3 DOCUMENTS
+      ET MARQUES EN MÉTROLOGIE LÉGALE
+  examples: []
+  id: 3.5-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rejection notice
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 8a2cbaf1-ec00-5e03-ac9e-1eb93b97ccaa
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document indiquant qu’un instrument de mesure a été jugé comme ne satisfaisant
+      pas ou plus aux exigences réglemen-taires applicables
   examples: []
   id: 3.5-fra
   notes: []
@@ -29,8 +52,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Ccertificat
-  language_code: fra
-  entry_status: valid
+    designation: bulletin de refus
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: c6301dea-7e5b-5847-89f2-b9e56ebbedaa
+id: 6d34f644-6f6a-535b-9b23-721598257359

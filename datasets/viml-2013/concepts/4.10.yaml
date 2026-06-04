@@ -2,14 +2,14 @@
 data:
   identifier: '4.10'
   localized_concepts:
-    eng: 565621a1-8bbf-5ecb-8bae-1d364baef989
-    fra: 3dd6dfce-64ab-5c9c-afc7-a7c0d890b12a
+    eng: b05b2995-9665-5909-a0c9-da07b776a001
+    fra: e0bd362c-725f-5e7c-b061-c2efb831172a
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: eeb289e5-fc22-5841-a576-7065bd87813f
+id: bcb08827-ffd6-5e98-b5ff-9f757c0fface
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: relevant parameter parameter of a measuring instrument, (electronic)
-      device, sub-assembly, software or a module subject to legal control
+  - content: parameter of a measuring instrument, (electronic) device, sub-assembly,
+      software or a module subject to legal control
   examples: []
   id: 4.10-eng
   notes:
@@ -33,27 +33,30 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: legally
-  language_code: eng
-  entry_status: valid
+    designation: legally relevant parameter
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 565621a1-8bbf-5ecb-8bae-1d364baef989
+id: b05b2995-9665-5909-a0c9-da07b776a001
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: spécifique au type
+  - content: paramètre d’un instrument de mesure, d’un dispositif (électronique),
+      d’un sous-ensemble, d’un logiciel ou d’un module, soumis au contrôle légal
   examples: []
   id: 4.10-fra
-  notes: []
+  notes:
+  - content: 'Les types suivants de paramètres à caractère légal peuvent être distingués
+      : paramètres spécifiques au type et paramètres spécifiques individuels.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: paramètre
-  language_code: fra
-  entry_status: valid
+    designation: paramètre à caractère légal
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3dd6dfce-64ab-5c9c-afc7-a7c0d890b12a
+id: e0bd362c-725f-5e7c-b061-c2efb831172a

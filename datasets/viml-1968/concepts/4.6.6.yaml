@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.6.6
+  localized_concepts:
+    fra: 0c927262-42a9-59fc-a3e8-92d40725c070
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: a0d56b94-92ec-57d7-b870-4d3f67246f65
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.6.6-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UNITÉ DE MESURE HORS-SYSTÈME
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 0c927262-42a9-59fc-a3e8-92d40725c070

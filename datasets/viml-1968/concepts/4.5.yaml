@@ -2,22 +2,21 @@
 data:
   identifier: '4.5'
   localized_concepts:
-    fra: 9836e6c3-0356-5dfc-99bc-0baeb325f0b9
+    fra: 612d3ee1-063d-5f67-bae9-4bf5c7c67fd8
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: b5aca132-c339-5e77-9dab-b70f42c9497c
+id: 44df9fc5-5b93-5772-b3d4-a584d0df0418
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: "....................................................................
-      ,..."
+  definition: []
   examples: []
   id: 4.5-fra
   notes: []
@@ -25,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 179.Éclrnlon
-  language_code: fra
-  entry_status: valid
+    designation: ÉCHELLE (DE REPÉRAGE) D'UNE GRANDEUR
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9836e6c3-0356-5dfc-99bc-0baeb325f0b9
+id: 612d3ee1-063d-5f67-bae9-4bf5c7c67fd8

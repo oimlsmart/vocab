@@ -2,22 +2,21 @@
 data:
   identifier: '2.8'
   localized_concepts:
-    fra: ad536864-81be-5017-b93b-ebaed99d0c00
+    fra: af2ee6f9-dd0b-5cca-a280-c8ef428aedab
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: fef3ed66-fdf0-5d63-bd2b-0d39f5db51cb
+id: 7cba8fa7-b2fc-532e-8ebe-36754dff72a7
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: à mesurer ....................... , . . . . . . . . . . . . . . . . .
-      . . . . . . . . . . . . . . . . . . . . .
+  definition: []
   examples: []
   id: 2.8-fra
   notes: []
@@ -25,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 3166.Grandelll'
-  language_code: fra
-  entry_status: valid
+    designation: POINÇONNAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ad536864-81be-5017-b93b-ebaed99d0c00
+id: af2ee6f9-dd0b-5cca-a280-c8ef428aedab

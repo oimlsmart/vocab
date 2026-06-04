@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.1.9
+  localized_concepts:
+    fra: c1d0a9fd-d7bd-5bb0-a169-744f35b9681f
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 054248ff-f2aa-5a00-92af-46634b013eea
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.1.9-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IMPRÉCISION DE MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c1d0a9fd-d7bd-5bb0-a169-744f35b9681f

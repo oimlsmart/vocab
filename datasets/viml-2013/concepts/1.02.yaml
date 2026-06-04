@@ -2,16 +2,20 @@
 data:
   identifier: '1.02'
   localized_concepts:
-    eng: b02072d9-350e-501d-b4d1-8fccf7dfea5b
-    fra: 56095519-ddf7-5af9-bf6c-f5b646610eca
+    eng: c60d4a9d-7695-5511-837e-d32f21e6a593
+    fra: bdf78e76-8727-5276-8659-35bf5465c023
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: f28bee25-747a-5a4a-82b8-013bd7a233f4
+id: 145ea9cd-b7ab-57dc-90ce-bde6da0671b6
 schema_version: '3'
 related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '3.1'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -22,40 +26,46 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: on metrology legal acts and secondary legislation that provide the statutory
-      structure to metrology
+  - content: legal acts and secondary legislation that provide the statutory structure
+      to metrology
   examples: []
   id: 1.02-eng
   notes:
   - content: Legal acts and secondary legislation in particular specify the legal
-      units of measurement, prescribe • requirements with respect to the properties
-      of measuring instruments, • accuracy of measurement in cases specified by law,
-      • a system of legal control of measuring instruments, and • metrological supervision.
+      units of measurement, prescribe requirements with respect to the properties
+      of measuring instruments, accuracy of measurement in cases specified by law,
+      a system of legal control of measuring instruments, and metrological supervision.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: law
-  language_code: eng
-  entry_status: valid
+    designation: law on metrology
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b02072d9-350e-501d-b4d1-8fccf7dfea5b
+id: c60d4a9d-7695-5511-837e-d32f21e6a593
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: marquage
+  - content: actes légaux et réglementaires pris pour application de ces lois, qui
+      donnent la structure légale à la métrologie
   examples: []
   id: 1.02-fra
-  notes: []
+  notes:
+  - content: Les actes légaux et la réglementation induite définissent, en particulier,
+      les unités de mesure légales et prescrivent les exigences relatives aux caractéristiques
+      des instruments de mesure, l’exactitude de mesurage, lorsqu’elle est définie
+      par voie légale, un système de contrôle légal des instru­ments de mesure, et
+      la surveillance métrologique.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: M
-  language_code: fra
-  entry_status: valid
+    designation: loi de métrologie
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 56095519-ddf7-5af9-bf6c-f5b646610eca
+id: bdf78e76-8727-5276-8659-35bf5465c023

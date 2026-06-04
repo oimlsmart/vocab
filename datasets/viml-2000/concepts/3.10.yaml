@@ -2,21 +2,48 @@
 data:
   identifier: '3.10'
   localized_concepts:
-    fra: b9457933-d3a6-5c80-a090-02645ece886b
+    eng: f8a49b2f-9c37-5691-9bb8-3af6c72879d3
+    fra: 2633597f-3707-5611-a416-483706cafdd0
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 5ba3bfd4-c0b0-562d-b9ea-0f5efb5dd512
+id: 4b085d31-9464-5d89-8c03-9789476c1be4
 schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '3.07'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de refus
+  - content: mark applied to a measuring instrument certifying its con-formity to
+      the approved type
+  examples: []
+  id: 3.10-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approval mark
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: f8a49b2f-9c37-5691-9bb8-3af6c72879d3
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: marque appliquée à un instrument de mesure pour certifier qu’il est conforme
+      à un type approuvé UNITS AND MEASURING INSTRUMENTS
   examples: []
   id: 3.10-fra
   notes: []
@@ -24,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: marque
-  language_code: fra
-  entry_status: valid
+    designation: marque d’approbation de type
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: b9457933-d3a6-5c80-a090-02645ece886b
+id: 2633597f-3707-5611-a416-483706cafdd0

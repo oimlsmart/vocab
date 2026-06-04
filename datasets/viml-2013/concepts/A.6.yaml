@@ -1,0 +1,61 @@
+---
+data:
+  identifier: A.6
+  localized_concepts:
+    eng: 66eeab13-0076-5a66-b5fc-04f7af5b15df
+    fra: c03cbf06-1de6-5115-ad41-48a77fa9aadd
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 153ab984-0153-5cad-8aaf-e0548a019641
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.6
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: need or expectation that is stated
+  examples: []
+  id: A.6-eng
+  notes:
+  - content: Specified requirements may be stated in normative documents such as regulations,
+      standards and technical specifications. [ISO/IEC 17000:2004, 3.1]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specified requirement
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 66eeab13-0076-5a66-b5fc-04f7af5b15df
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: besoin ou attente formulé
+  examples: []
+  id: A.6-fra
+  notes:
+  - content: Les exigences spécifiées peuvent être formulées dans des documents normatifs
+      tels que les règlements, les normes et les spécifications techniques. [ISO/CEI
+      17000:2004, 3.1]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exigence spécifiée
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c03cbf06-1de6-5115-ad41-48a77fa9aadd

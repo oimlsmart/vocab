@@ -2,20 +2,20 @@
 data:
   identifier: '2.09'
   localized_concepts:
-    eng: d6456dd0-09c7-5a9f-9027-6a748dd8c3b0
-    fra: 718b74d0-256c-544f-93a1-dfa4c0b670b1
+    eng: c901f4f8-a99d-5cdd-9193-254608ddb305
+    fra: 250ddc9e-1a9b-5850-a6ee-2a5f930919be
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: d8abee30-5d02-573f-b601-15f37822a687
+id: 1e08b49c-a061-5e83-a0bd-620c31fc245d
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.9'
+    id: '2.13'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,38 +26,40 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of a measuring instrument conformity assessment procedure (other than
-      type evaluation) which results in the affixing of a verification mark and/or
-      issuing of a verification certificate
+  - content: conformity assessment procedure (other than type evaluation) which results
+      in the affixing of a verification mark and/or issuing of a verification certificate
   examples: []
   id: 2.09-eng
   notes:
-  - content: See also OIML V2-200:2012,
+  - content: See also OIML V2-200:2012, 2.44.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: verification
-  language_code: eng
-  entry_status: valid
+    designation: verification of a measuring instrument
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: d6456dd0-09c7-5a9f-9027-6a748dd8c3b0
+id: c901f4f8-a99d-5cdd-9193-254608ddb305
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: par échantillonnage
+  - content: d’un instrument de mesure procédure d’évaluation de la conformité (autre
+      que l’approbation de type) qui conduit à l’apposition d’une marque de vérification
+      et/ou à la délivrance d’un certificat de vérification
   examples: []
   id: 2.09-fra
-  notes: []
+  notes:
+  - content: Voir aussi OIML V2-200:2012, 2.44.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
     designation: vérification
-  language_code: fra
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 718b74d0-256c-544f-93a1-dfa4c0b670b1
+id: 250ddc9e-1a9b-5850-a6ee-2a5f930919be

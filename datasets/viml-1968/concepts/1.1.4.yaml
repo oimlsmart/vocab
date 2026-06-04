@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 1.1.4
+  localized_concepts:
+    fra: 8f6ff2d0-8c13-5470-a393-ae2fb9d2a91a
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 33d5018d-b87e-557c-92ab-040436cf249b
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 1.1.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: BUREAU RÉGIONAL DE VÉRIFICATION
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 8f6ff2d0-8c13-5470-a393-ae2fb9d2a91a

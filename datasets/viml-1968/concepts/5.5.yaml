@@ -2,23 +2,21 @@
 data:
   identifier: '5.5'
   localized_concepts:
-    fra: 9be3496e-6b9d-50e6-818f-e9e370d648d5
+    fra: a09eb79d-46ee-56b8-9709-3c5d7e7e4059
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 0ac730be-883a-5832-a57a-aa048183f0ff
+id: 7c0f088e-a960-5c18-8e75-960782390579
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: brut d'un mesurage ......................................., . . . . .
-      . . . . . . . . . li.4.1Ré8Ultat corrigé d'un mesurage ......................,
-      , ........................ ,
+  definition: []
   examples: []
   id: 5.5-fra
   notes: []
@@ -26,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 1Résultat
-  language_code: fra
-  entry_status: valid
+    designation: RÉPÉTABILITÉ DES MESURAGES
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9be3496e-6b9d-50e6-818f-e9e370d648d5
+id: a09eb79d-46ee-56b8-9709-3c5d7e7e4059

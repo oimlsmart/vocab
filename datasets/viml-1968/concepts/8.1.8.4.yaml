@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.1.8.4
+  localized_concepts:
+    fra: 9225603f-123c-5fc6-8999-125ab6f07f74
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 000aaace-5b71-56c3-82c8-20980574ff5c
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.1.8.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: INCERTITUDE DE LA MOYENNE ARITHMÉTIQUE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 9225603f-123c-5fc6-8999-125ab6f07f74

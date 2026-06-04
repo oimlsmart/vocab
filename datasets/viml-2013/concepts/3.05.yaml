@@ -2,20 +2,20 @@
 data:
   identifier: '3.05'
   localized_concepts:
-    eng: 9ce7dbd1-f951-5d1b-bce9-660a3467cd7b
-    fra: 8dbf9948-0370-57be-a83e-2e31c3a755be
+    eng: eb8861cb-0199-525c-8928-18529ff38418
+    fra: 63488c95-a647-5bbc-bc57-f962fd702ec6
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: fe26d4ef-e4b3-526d-a49f-03ec706cef52
+id: 70f82ed7-718e-53bc-a3d1-a9dd8b22090a
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '3.5'
+    id: '3.8'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -25,7 +25,10 @@ data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: mark applied to a measuring instrument in a conspicuous manner to indicate
+      that the measuring instrument does not comply with the statutory requirements
+      and that obliterates the previously applied verification mark
   examples: []
   id: 3.05-eng
   notes: []
@@ -33,18 +36,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ","
-  language_code: eng
-  entry_status: valid
+    designation: rejection mark
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 9ce7dbd1-f951-5d1b-bce9-660a3467cd7b
+id: eb8861cb-0199-525c-8928-18529ff38418
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de scellement
+  - content: marque apposée sur un instrument de mesure de manière apparente pour
+      indiquer que l’instrument de mesure ne satisfait pas aux exigences réglementaires
+      et pour oblitérer la marque de vérification préalablement appliquée
   examples: []
   id: 3.05-fra
   notes: []
@@ -52,8 +57,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: marque
-  language_code: fra
-  entry_status: valid
+    designation: marque de refus
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 8dbf9948-0370-57be-a83e-2e31c3a755be
+id: 63488c95-a647-5bbc-bc57-f962fd702ec6

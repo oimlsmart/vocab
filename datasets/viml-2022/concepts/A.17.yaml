@@ -21,6 +21,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.15
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.17
 status: valid
 id: b046c69a-8724-5a34-9491-06e490cc311a
 schema_version: '3'
@@ -56,7 +60,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{attestation,A.15}}  par  première partie"
+  - content: '{{attestation,A.15}}  par  première partie'
   examples: []
   id: A.17-fra
   notes: []

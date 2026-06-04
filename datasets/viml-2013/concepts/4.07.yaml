@@ -2,20 +2,20 @@
 data:
   identifier: '4.07'
   localized_concepts:
-    eng: 63494f57-5784-5d79-89a6-99b235b4475f
-    fra: 246bb691-d106-5bfc-9145-a384ee906f85
+    eng: 27527572-8006-5cee-8294-caf161a379b8
+    fra: b2d9d6d0-b7cc-5a4a-aea8-420697c4edba
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: f1d2d80a-af07-575e-be2a-3f9eadb7fbf3
+id: cdd21093-8309-560b-8295-405f8ecc6bca
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '4.7'
+    id: '4.3'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,8 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: controlled measuring instrument measuring instrument required to conform
-      to prescribed requirements, in particular legal metrological requirements
+  - content: measuring instrument required to conform to prescribed requirements,
+      in particular legal metrological requirements
   examples: []
   id: 4.07-eng
   notes: []
@@ -35,18 +35,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: legally
-  language_code: eng
-  entry_status: valid
+    designation: legally controlled measuring instrument
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 63494f57-5784-5d79-89a6-99b235b4475f
+id: 27527572-8006-5cee-8294-caf161a379b8
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de mesure présentable à la vérification
+  - content: instrument de mesure soumis aux exigences prescrites, en particulier
+      les exigences de métrologie légale
   examples: []
   id: 4.07-fra
   notes: []
@@ -54,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: instrument
-  language_code: fra
-  entry_status: valid
+    designation: instrument de mesure légalement contrôlé
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 246bb691-d106-5bfc-9145-a384ee906f85
+id: b2d9d6d0-b7cc-5a4a-aea8-420697c4edba

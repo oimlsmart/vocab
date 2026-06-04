@@ -2,20 +2,20 @@
 data:
   identifier: '2.10'
   localized_concepts:
-    eng: 7c524d80-4c61-58a2-ba94-051d24cd4ce3
-    fra: 6f83868f-b5f9-5ce4-aac6-c35fede42b5e
+    eng: b8b1b783-5ccc-56f3-87c1-7dd78fb08724
+    fra: 8640e00e-6c53-5d58-a203-f7b396f71f3b
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: f1b217f4-557d-558f-97e1-b97768476ac1
+id: cd89d87e-6e00-59b3-95c2-44fc735597f1
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.10'
+    id: '2.12'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,7 +26,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: examination examination of a measuring instrument either to partial requirements
+  - content: examination of a measuring instrument either to partial requirements
       or before certain elements of the measuring instrument are installed as part
       of the verification procedure
   examples: []
@@ -36,18 +36,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: preliminary
-  language_code: eng
-  entry_status: valid
+    designation: preliminary examination
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 7c524d80-4c61-58a2-ba94-051d24cd4ce3
+id: b8b1b783-5ccc-56f3-87c1-7dd78fb08724
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d'un type approuvé
+  - content: examen d’un instrument de mesure, soit par rapport à une partie des exigences,
+      soit avant que certains éléments de l’instrument de mesure soient assemblés,
+      dans le cadre d’une procédure de vérification
   examples: []
   id: 2.10-fra
   notes: []
@@ -55,8 +57,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: exemplaire
-  language_code: fra
-  entry_status: valid
+    designation: examen préliminaire
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 6f83868f-b5f9-5ce4-aac6-c35fede42b5e
+id: 8640e00e-6c53-5d58-a203-f7b396f71f3b

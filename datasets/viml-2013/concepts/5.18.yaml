@@ -2,14 +2,14 @@
 data:
   identifier: '5.18'
   localized_concepts:
-    eng: 7067727b-c31c-5cff-8cbd-5a0486432faa
-    fra: 81845dd0-f491-584d-896c-cb0823e59f68
+    eng: 8889f217-c0fb-5fb8-9fce-b7ac167b1a23
+    fra: b87c72fd-dbd4-552f-9bd6-5e1b2816aadf
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: eea4b3fa-779b-5545-a396-4c1636a00f82
+id: a5c980e9-6907-5c5b-9b33-168b9c550aac
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: factor influence quantity having a value which ranges within the rated
-      operating conditions of a measuring instrument
+  - content: influence quantity having a value which ranges within the rated operating
+      conditions of a measuring instrument
   examples: []
   id: 5.18-eng
   notes:
@@ -35,27 +35,32 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: influence
-  language_code: eng
-  entry_status: valid
+    designation: influence factor
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 7067727b-c31c-5cff-8cbd-5a0486432faa
+id: 8889f217-c0fb-5fb8-9fce-b7ac167b1a23
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de modules
+  - content: grandeur d'influence dont la valeur se situe dans les conditions assignées
+      de fonctionnement d’un instrument de mesure
   examples: []
   id: 5.18-fra
-  notes: []
+  notes:
+  - content: 1 Les conditions assignées de fonctionnement doivent être conformes aux
+      exigences applicables spécifiées dans la Recommandation applicable.
+  - content: 2 Le changement d’indication dû à un facteur d’influence est une erreur
+      et non un défaut.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: famille
-  language_code: fra
-  entry_status: valid
+    designation: facteur d'influence
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 81845dd0-f491-584d-896c-cb0823e59f68
+id: b87c72fd-dbd4-552f-9bd6-5e1b2816aadf

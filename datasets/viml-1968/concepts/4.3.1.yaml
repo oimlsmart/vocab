@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.3.1
+  localized_concepts:
+    fra: 5418e4f2-0292-52c0-b582-3b2c74b20f28
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 0f2d423e-3e59-5002-a320-3ea41eec793b
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.3.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GRANDEUR DE BASE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5418e4f2-0292-52c0-b582-3b2c74b20f28

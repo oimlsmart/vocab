@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.37
+  localized_concepts:
+    eng: 1e1d2493-b2a8-5b8d-95e7-96957b2dc9a0
+    fra: 701c861f-9dcc-5df7-b808-e50d0404c691
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 671ca6a0-6e45-5752-9081-9d9761a7fe60
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.37
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement whereby more than two parties recognize or accept one another's
+      conformity assessment results
+  examples: []
+  id: A.37-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multilateral arrangement
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 1e1d2493-b2a8-5b8d-95e7-96957b2dc9a0
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement selon lequel chacune des parties reconnaît ou accepte les
+      résultats de l'évaluation de la conformité obtenus par les unes et par les autres
+  examples: []
+  id: A.37-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arrangement multilatéral
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 701c861f-9dcc-5df7-b808-e50d0404c691

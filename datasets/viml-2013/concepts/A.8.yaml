@@ -1,0 +1,75 @@
+---
+data:
+  identifier: A.8
+  localized_concepts:
+    eng: 2edd80d6-98f2-5b0c-b693-4bdb8b17190e
+    fra: 6cf725b4-7564-5373-845b-907fb828506a
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 090d81d8-585e-58b5-8a52-8e1a6209fb1e
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.8
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: certification system related to specified products , to which the same
+      specified requirements, specific rules and procedures apply
+  examples: []
+  id: A.8-eng
+  notes:
+  - content: 1 Adapted from ISO/IEC 17000:2004, definition 2.8.
+  - content: 2 A “certification system” is a “conformity assessment system”, which
+      is defined in ISO/IEC 17000:2004, definition 2.7.
+  - content: 3 The rules, procedures and management for implementing product, process
+      and service certification are stipulated by the certification scheme.
+  - content: 4 General guidance for the development of schemes is given in ISO/IEC
+      17067, in combination with ISO/IEC Guide 28 and ISO/IEC Guide 53. [ISO/IEC 17065:2013,
+      3.9]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certification scheme
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 2edd80d6-98f2-5b0c-b693-4bdb8b17190e
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: système de certification de produit appliqué à des produits auxquels
+      s'appliquent les mêmes exigences spécifiées, règles spécifiques et procédures
+  examples: []
+  id: A.8-fra
+  notes:
+  - content: 1 Adapté d’ISO/CEI 17000:2004, définition 2.8.
+  - content: 2 Un « système de certification » est un « système d’évaluation de la
+      conformité » selon ISO/CEI 17000:2004, définition 2.7.
+  - content: Les règles, procédures et le management utilisés pour procéder à la certification
+      de produits, de procédés ou de services sont spécifiées par le système particulier
+      de certification.
+  - content: ISO/CEI 17067, en combinaison avec ISO/CEI Guide 28 et ISO/CEI Guide
+      53 constituent des guides généraux pour la mise en place de systèmes particuliers.
+      [ISO/CEI 17065 :2013, 3.9]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système particulier de certification
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 6cf725b4-7564-5373-845b-907fb828506a

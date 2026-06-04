@@ -2,20 +2,20 @@
 data:
   identifier: '2.17'
   localized_concepts:
-    eng: 8d9d5e19-47ee-5002-a23f-628da1af5dd2
-    fra: 496333a9-4952-592c-a81b-60eb0131fc44
+    eng: b1de547c-b383-5256-b3fb-9572a8d21ad6
+    fra: 45fd9dbd-f6ac-5810-bcc6-d118fd5fe68b
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: a0a3f5c3-94e8-568a-904f-f3ed6cd27a90
+id: bb41bfd2-504f-510e-ab26-658b87f7b18d
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.17'
+    id: '2.20'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,11 +26,11 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of verification legal decision taken by a party, either voluntarily or
-      based on a bi- or multilateral arrangement whereby a verification certificate
-      issued and/or a verification mark applied by another party is recognized as
-      complying with relevant requirements, without issuing a new verification certificate
-      and/or affixing a new verification mark
+  - content: legal decision taken by a party, either voluntarily or based on a bi-
+      or multilateral arrangement whereby a verification certificate issued and/or
+      a verification mark applied by another party is recognized as complying with
+      relevant requirements, without issuing a new verification certificate and/or
+      affixing a new verification mark
   examples: []
   id: 2.17-eng
   notes: []
@@ -38,18 +38,22 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: recognition
-  language_code: eng
-  entry_status: valid
+    designation: recognition of verification
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 8d9d5e19-47ee-5002-a23f-628da1af5dd2
+id: b1de547c-b383-5256-b3fb-9572a8d21ad6
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d'un instrument de mesure
+  - content: décision légale prise par une partie, volontairement ou sur la base d’un
+      accord bi- ou multilatéral, selon laquelle un certificat de vérification délivré
+      et / ou une marque de vérification apposée par une autre partie est reconnu
+      comme satisfaisant aux exigences applicables, sans délivrance d’un nouveau certificat
+      de vérification et/ou sans apposition d’une nouvelle marque de vérification
   examples: []
   id: 2.17-fra
   notes: []
@@ -57,8 +61,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: refus
-  language_code: fra
-  entry_status: valid
+    designation: reconnaissance de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 496333a9-4952-592c-a81b-60eb0131fc44
+id: 45fd9dbd-f6ac-5810-bcc6-d118fd5fe68b

@@ -6,12 +6,12 @@ basePath: "/oiml-viml/"
 title: OIML Vocabularies
 subtitle: International Vocabularies of Metrology
 description: Terminology from the International Vocabularies of Metrology published
-  by OIML and JCGM
+  by OIML
 translations:
   fra:
     subtitle: Vocabulaires internationaux de métrologie
     description: Terminologie des Vocabulaires internationaux de métrologie publiés
-      par l'OIML et le JCGM
+      par l'OIML
 uiLanguages:
 - code: eng
   label: English
@@ -57,16 +57,16 @@ datasets:
   localPath: datasets/viml-2013
   ref: OIML V 1:2013
   title: OIML V 1:2013
-  description: Superseded by the 2022 edition. 109 terms across 7 sections covering
+  description: Superseded by the 2022 edition. 135 terms across 8 sections covering
     basic concepts, legal metrology activities, documents and marks, instrument classification,
-    construction and operation, and software in legal metrology.
+    construction and operation, software in legal metrology, and conformity assessment.
   translations:
     fra:
       title: OIML V 1:2013
-      description: Remplacée par l'édition 2022. 109 termes répartis en 7 sections
+      description: Remplacée par l'édition 2022. 135 termes répartis en 8 sections
         couvrant les concepts de base, les activités de métrologie légale, les documents
         et marques, la classification des instruments, la construction et le fonctionnement,
-        et les logiciels en métrologie légale.
+        les logiciels en métrologie légale et l'évaluation de la conformité.
   owner: OIML
   color: "#6B7280"
   tags:
@@ -89,13 +89,13 @@ datasets:
   localPath: datasets/viml-2000
   ref: OIML V 1:2000
   title: OIML V 1:2000
-  description: Superseded by the 2013 edition. 45 terms across 4 sections covering
+  description: Superseded by the 2013 edition. 44 terms across 4 sections covering
     basic terms in legal metrology, activities, documents and marks, and units and
     measuring instruments.
   translations:
     fra:
       title: OIML V 1:2000
-      description: Remplacée par l'édition 2013. 45 termes répartis en 4 sections
+      description: Remplacée par l'édition 2013. 44 termes répartis en 4 sections
         couvrant les termes de base, les activités de métrologie légale, les documents
         et marques, et les unités et instruments de mesure.
   owner: OIML
@@ -120,14 +120,18 @@ datasets:
   localPath: datasets/viml-1968
   ref: OIML V 1:1968
   title: OIML V 1:1968
-  description: Première édition, en français uniquement. Environ 30 termes définissant
-    les concepts fondamentaux répartis en 7 sections. Jeu de données issu d'une OCR
-    contenant des erreurs typographiques.
+  description: Première édition, en français uniquement. 210 termes répartis en 9
+    sections couvrant la métrologie, la métrologie légale, les activités, les documents
+    et marques, les grandeurs et unités, les mesurages, les instruments de mesure
+    et les étalons, la construction des instruments, et les erreurs. Jeu de données
+    issu d'une OCR contenant des erreurs typographiques.
   translations:
     eng:
       title: OIML V 1:1968
-      description: First edition, French only. Approximately 30 terms defining fundamental
-        concepts across 7 sections. OCR-derived dataset containing typographical errors.
+      description: First edition, French only. 210 terms across 9 sections covering
+        metrology, legal metrology, activities, documents and marks, quantities and
+        units, measurements, measuring instruments and standards, instrument construction,
+        and errors. OCR-derived dataset containing typographical errors.
   owner: OIML
   color: "#D1D5DB"
   tags:
@@ -316,7 +320,7 @@ pages:
       source: about-fra.md
 defaults:
   language: eng
-copyright: OIML / JCGM
+copyright: OIML
 datasetGroups:
 - id: viml
   label: VIML — International Vocabulary of Legal Metrology

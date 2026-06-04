@@ -2,14 +2,14 @@
 data:
   identifier: '6.06'
   localized_concepts:
-    eng: c33dc181-d987-5e53-a5a2-3e872725043f
-    fra: 9976d707-ab87-57fe-bb0d-ec93a4e7cbe9
+    eng: 463e376c-3a88-5ea7-b445-0b3cc5576cd7
+    fra: 365601da-f134-5f0d-8c59-ad58093e938b
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 4ead02b4-f8af-54a6-942c-f98c4ba34ecc
+id: a4133c79-5385-5735-b7fe-e24c3e11d11f
 schema_version: '3'
 related:
 - type: superseded_by
@@ -32,17 +32,18 @@ data:
   - type: expression
     normative_status: preferred
     designation: event
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: c33dc181-d987-5e53-a5a2-3e872725043f
+id: 463e376c-3a88-5ea7-b445-0b3cc5576cd7
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: préliminaire
+  - content: action par laquelle est effectuée toute modification d’un paramètre d’instrument
+      de mesure, de son facteur d’ajustage ou la mise à jour d’un module logiciel
   examples: []
   id: 6.06-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: examen
-  language_code: fra
-  entry_status: valid
+    designation: événement
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 9976d707-ab87-57fe-bb0d-ec93a4e7cbe9
+id: 365601da-f134-5f0d-8c59-ad58093e938b

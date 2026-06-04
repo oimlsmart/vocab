@@ -1,0 +1,74 @@
+---
+data:
+  identifier: A.1
+  localized_concepts:
+    eng: 9bfde430-7d47-567f-84ac-5f3eb9fbced5
+    fra: 3d54acb1-7032-58bf-a31c-83bfdbe94f52
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 6d27b987-13bc-5490-894b-1236dc425604
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.1
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: demonstration that specified requirements relating to a product, process,
+      system, person or body are fulfilled
+  examples: []
+  id: A.1-eng
+  notes:
+  - content: The subject field of conformity assessment includes activities defined
+      in ISO/IEC 17000, such as testing, inspection and certification, as well as
+      the accreditation of conformity assessment bodies.
+  - content: The expression “object of conformity assessment” or “object” is used
+      in ISO/IEC 17000 to encompass any particular material, product, installation,
+      process, system, person or body to which conformity assessment is applied. A
+      service is covered by the definition of a product. [ISO/IEC 17000:2004, 2.1]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 9bfde430-7d47-567f-84ac-5f3eb9fbced5
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: démonstration que des exigences spécifiées relatives à un produit, processus,
+      système, personne ou organisme sont respectées
+  examples: []
+  id: A.1-fra
+  notes:
+  - content: Le domaine de l'évaluation de la conformité comprend des activités définies
+      ailleurs dans la norme ISO/CEI 17000 telles que les essais, l'inspection et
+      la certification, de même que l'accréditation des organismes d'évaluation de
+      la conformité.
+  - content: L'expression « objet de l'évaluation de la conformité » ou « objet »
+      est utilisée dans la norme ISO/CEI 17000 pour désigner le matériau, le produit,
+      l'installation, le processus, le système, la personne ou l'organisme particulier
+      auquel l'évaluation de la conformité est appliquée. Le service est couvert par
+      la définition de produit. [ISO/CEI 17000:2004, 2.1]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de la conformité
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 3d54acb1-7032-58bf-a31c-83bfdbe94f52

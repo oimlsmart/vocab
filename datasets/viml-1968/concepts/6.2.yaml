@@ -2,22 +2,21 @@
 data:
   identifier: '6.2'
   localized_concepts:
-    fra: 6efcac1c-8ffc-5176-ad5c-d15b9862aac3
+    fra: 3d1ef819-eaef-5ecd-b697-e340bf4da0f8
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: d235920c-f2d6-5d09-9f10-137a24231e6c
+id: 1b442a78-623e-50bf-b566-61fbd29d02e5
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: de mesurage par comparaison ............................................
-      .
+  definition: []
   examples: []
   id: 6.2-fra
   notes: []
@@ -25,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "'..l201.Méthode"
-  language_code: fra
-  entry_status: valid
+    designation: INSTALLATION DE MESURAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 6efcac1c-8ffc-5176-ad5c-d15b9862aac3
+id: 3d1ef819-eaef-5ecd-b697-e340bf4da0f8

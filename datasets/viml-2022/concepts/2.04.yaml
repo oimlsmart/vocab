@@ -30,14 +30,14 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{conformity assessment,A.1}} procedure on one or more specimens of
+  - content: '{{conformity assessment,A.1}} procedure on one or more specimens of
       an identified type (pattern) of {{measuring instruments,0.10}} which results
-      in an evaluation report and / or an evaluation certificate"
+      in an evaluation report and / or an evaluation certificate'
   examples: []
   id: 2.04-eng
   notes:
-  - content: "“Pattern” is used in legal metrology with the same meaning as “type”;
-      in the entries below, only “type” is used."
+  - content: “Pattern” is used in legal metrology with the same meaning as “type”;
+      in the entries below, only “type” is used.
   sources: []
   terms:
   - type: expression
@@ -59,8 +59,8 @@ data:
   examples: []
   id: 2.04-fra
   notes:
-  - content: "«Modèle» est utilisé en métrologie légale avec la même signification
-      que «type»; dans les définitions ci-après, seul «type» est utilisé."
+  - content: «Modèle» est utilisé en métrologie légale avec la même signification
+      que «type»; dans les définitions ci-après, seul «type» est utilisé.
   sources: []
   terms:
   - type: expression

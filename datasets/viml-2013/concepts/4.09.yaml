@@ -2,16 +2,20 @@
 data:
   identifier: '4.09'
   localized_concepts:
-    eng: 60d94e00-8652-53a4-8bb3-1d47247b5d2d
-    fra: 5068db61-73a2-5739-a79b-15af624d985c
+    eng: bc99e240-1515-5d7a-9015-5063aeac3717
+    fra: be06d440-0796-5b2e-89cf-a1b64ce04c1f
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 83ef93dd-603b-53fa-a065-7ae9479cada1
+id: 8f3389ce-fe89-5a17-9c43-42e2f94f286b
 schema_version: '3'
 related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '4.6'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -22,9 +26,9 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of an approved type measuring instrument of an approved type, which on
-      its own or together with suitable documentation, serves as a reference e.g.
-      for checking conformity of instruments with the approved type
+  - content: measuring instrument of an approved type, which on its own or together
+      with suitable documentation, serves as a reference e.g. for checking conformity
+      of instruments with the approved type
   examples: []
   id: 4.09-eng
   notes: []
@@ -32,18 +36,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: specimen
-  language_code: eng
-  entry_status: valid
+    designation: specimen of an approved type
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 60d94e00-8652-53a4-8bb3-1d47247b5d2d
+id: bc99e240-1515-5d7a-9015-5063aeac3717
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: spécifiée A.6 F facteur d'influence
+  - content: d’un type approuvé instrument de mesure d’un type approuvé qui, seul
+      ou avec une documentation appropriée, sert de référence, par exemple, pour vérifier
+      la conformité d’instruments au type approuvé
   examples: []
   id: 4.09-fra
   notes: []
@@ -51,8 +57,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: exigence
-  language_code: fra
-  entry_status: valid
+    designation: exemplaire
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 5068db61-73a2-5739-a79b-15af624d985c
+id: be06d440-0796-5b2e-89cf-a1b64ce04c1f

@@ -2,26 +2,50 @@
 data:
   identifier: '2.12'
   localized_concepts:
-    fra: 6a23f94f-32a0-5196-b298-486a93bc2f8e
+    eng: 7bd72aac-12af-5fbc-bfad-26d354ae764d
+    fra: 7867e10e-8a55-542a-b3dd-6d972470c7d7
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 01322536-b7e3-5071-a813-5cf0881e3bf0
+id: 7860b19a-d51b-571e-961b-1f3a5e57015e
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.12'
+    id: '2.10'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un type approuvé
+  - content: partial examination of certain elements of a measuring instrument of
+      which verification will be completed at the place of installation or an examination
+      carried out before certain elements of the measuring instrument are fitted
+  examples: []
+  id: 2.12-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preliminary examination
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 7bd72aac-12af-5fbc-bfad-26d354ae764d
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examen partiel de certains éléments d’un instrument de mesure dont la
+      vérification sera complétée sur le lieu d’installation ou examen effectué avant
+      que certains éléments de l’instrument de mesure soient assemblés
   examples: []
   id: 2.12-fra
   notes: []
@@ -29,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: exemplaire
-  language_code: fra
-  entry_status: valid
+    designation: examen préliminaire
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 6a23f94f-32a0-5196-b298-486a93bc2f8e
+id: 7867e10e-8a55-542a-b3dd-6d972470c7d7

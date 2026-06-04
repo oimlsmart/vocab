@@ -1,0 +1,74 @@
+---
+data:
+  identifier: A.28
+  localized_concepts:
+    eng: c58f5493-c57d-5b99-911e-6fdcab708aa8
+    fra: eed19fee-5a83-52b5-8298-9cf71d598acc
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: f8681113-7d6e-50ed-baf7-0d2146d9d004
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.28
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment accorded to products or processes originating in other countries
+      that is no less favorable than that accorded to like products or processes of
+      national origin, in a comparable situation
+  examples: []
+  id: A.28-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: national treatment
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c58f5493-c57d-5b99-911e-6fdcab708aa8
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: traitement accordé aux produits ou aux processus provenant d'autres pays
+      qui n'est pas moins favorable que celui accordé à des produits ou processus
+      similaires d'origine nationale, dans une situation comparable
+  examples: []
+  id: A.28-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traitement national
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: eed19fee-5a83-52b5-8298-9cf71d598acc

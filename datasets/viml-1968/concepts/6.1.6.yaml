@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 6.1.6
+  localized_concepts:
+    fra: fe638ef2-cb74-5b75-8214-6f95465f7bad
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: fbce3279-b6de-58bc-92b3-8dd99864f95c
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 6.1.6-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: TRANSDUCTEUR DE MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: fe638ef2-cb74-5b75-8214-6f95465f7bad

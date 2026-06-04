@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 2.4.1
+  localized_concepts:
+    fra: 38c4ea84-e9fb-50cb-9ee2-ec6a015f19e1
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 3830ca83-a287-5b61-9e6a-4d39689cf00d
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.4.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: VÉRIFICATION PAR ÉCHANTILLONNAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 38c4ea84-e9fb-50cb-9ee2-ec6a015f19e1

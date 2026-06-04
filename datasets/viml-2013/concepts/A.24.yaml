@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.24
+  localized_concepts:
+    eng: 878ff823-0427-50e7-ab49-62d8f394956f
+    fra: a421b98d-897a-5ced-9041-8905cb203286
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 65083a99-313d-521d-b8f2-baaaeee807bb
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.24
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: bodies that are signatories to the agreement on which an arrangement
+      is based
+  examples: []
+  id: A.24-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: agreement group
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 878ff823-0427-50e7-ab49-62d8f394956f
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instances qui sont signataires de l'accord sur lequel l'arrangement est
+      fondé
+  examples: []
+  id: A.24-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: groupe d'accord
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a421b98d-897a-5ced-9041-8905cb203286

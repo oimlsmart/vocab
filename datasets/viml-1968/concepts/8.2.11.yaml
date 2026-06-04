@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.2.11
+  localized_concepts:
+    fra: b7f5bc26-c2b1-579e-a746-a02b49c32d82
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 88433fa1-56b9-5491-b293-ae160abeba10
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.2.11-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: COEFFICIENT DE TEMPÉRATURE D'UN INSTRUMENT DE MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: b7f5bc26-c2b1-579e-a746-a02b49c32d82

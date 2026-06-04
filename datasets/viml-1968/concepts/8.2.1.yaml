@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.2.1
+  localized_concepts:
+    fra: 24eaabc0-78d4-5843-8159-ba35571bad6a
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 3a8e65f5-2be9-5f31-ba21-7016f3376d5b
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.2.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR INSTRUMENTALE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 24eaabc0-78d4-5843-8159-ba35571bad6a

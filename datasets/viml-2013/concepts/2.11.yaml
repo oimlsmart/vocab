@@ -2,20 +2,20 @@
 data:
   identifier: '2.11'
   localized_concepts:
-    eng: d987422f-7c3a-58ac-b5e0-9c0f24f86a51
-    fra: ad96167f-601f-5118-8b26-74bd4c4c4d0e
+    eng: b52bc76e-9b8d-5673-9c85-2f1c781c7418
+    fra: 4d28d2ed-ba93-5f53-a951-36a38ad80366
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: bb967492-a6ce-5917-9ac5-10c0db322004
+id: bb9005ed-2dd0-57f9-b43b-173fd8504ea7
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.11'
+    id: '2.14'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,9 +26,9 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: by sampling verification of a homogeneous batch of measuring instruments
-      based on the results of examination of a statistically appropriate number of
-      specimens selected at random from an identified lot
+  - content: verification of a homogeneous batch of measuring instruments based on
+      the results of examination of a statistically appropriate number of specimens
+      selected at random from an identified lot
   examples: []
   id: 2.11-eng
   notes: []
@@ -36,18 +36,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: verification
-  language_code: eng
-  entry_status: valid
+    designation: verification by sampling
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: d987422f-7c3a-58ac-b5e0-9c0f24f86a51
+id: b52bc76e-9b8d-5673-9c85-2f1c781c7418
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: périodique (obligatoire)
+  - content: vérification d’un lot homogène d’instruments de mesure basée sur l’examen
+      d’un nombre statistiquement approprié d’exemplaires pris au hasard dans un lot
+      identifié
   examples: []
   id: 2.11-fra
   notes: []
@@ -55,8 +57,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
-  language_code: fra
-  entry_status: valid
+    designation: vérification par échantillonnage
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: ad96167f-601f-5118-8b26-74bd4c4c4d0e
+id: 4d28d2ed-ba93-5f53-a951-36a38ad80366

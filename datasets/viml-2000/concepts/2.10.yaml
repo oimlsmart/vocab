@@ -2,35 +2,63 @@
 data:
   identifier: '2.10'
   localized_concepts:
-    fra: 853bcc95-4177-52a8-9568-99151517b3cd
+    eng: 692fb2d6-a4d5-5a02-8bf5-5c4d64159a49
+    fra: 037d5c80-2225-577d-8743-cce0af6868ff
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: ed7eb42b-c172-5c30-8682-fed714e27eea
+id: 8f84d977-132d-59c9-bf6d-b745d2df9338
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.10'
+    id: '2.08'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: métrologique
+  - content: decision canceling a type approval
   examples: []
-  id: 2.10-fra
-  notes: []
+  id: 2.10-eng
+  notes:
+  - content: 'The withdrawal is justified in case of: alterations of the type, circumstances
+      that affect metrological durability and/or reliability, effects altering the
+      metrological performance of the instru-ment required by law and coming to light
+      only after the official type approval was granted.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: Ssurveillance
-  language_code: fra
-  entry_status: valid
+    designation: withdrawal of type approval
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 853bcc95-4177-52a8-9568-99151517b3cd
+id: 692fb2d6-a4d5-5a02-8bf5-5c4d64159a49
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision annulant une approbation de type
+  examples: []
+  id: 2.10-fra
+  notes:
+  - content: 'Le retrait est justifié dans les cas suivants: modification du type,
+      circonstances qui affectent la durabilité et/ou la fiabilité métrologique, effets
+      altérant les performances métrologiques de l’instru-ment exigées par la loi
+      et révélés seulement après que l’approbation de type officielle a été octroyée.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retrait d’une approbation de type
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 037d5c80-2225-577d-8743-cce0af6868ff

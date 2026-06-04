@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.6.2
+  localized_concepts:
+    fra: 88e1a063-df7f-5dcf-a2a5-5e31030197a8
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 87e4e2c6-f3b7-5430-a6ec-57b885af9118
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.6.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: COURBE DE CORRECTION D'UN INSTRUMENT DE MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 88e1a063-df7f-5dcf-a2a5-5e31030197a8

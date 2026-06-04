@@ -2,21 +2,21 @@
 data:
   identifier: '1.1'
   localized_concepts:
-    fra: 0757cda2-a275-5fdb-859f-c25db8ba6730
+    fra: ca2ca16e-b864-52d8-846f-7e3f0729fe0c
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 043b57cf-d11b-5f16-bdb5-ba7ea0f712aa
+id: 4a06b90c-c497-5478-b140-512d17f902ef
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: relatlvo à la véti!îcatîon de certaln6 instruments de mesurage , . .
+  definition: []
   examples: []
   id: 1.1-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ":l171.Tnrtructlon"
-  language_code: fra
-  entry_status: valid
+    designation: SERVICE NATIONAL DE MÉTROLOGIE LÉGALE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 0757cda2-a275-5fdb-859f-c25db8ba6730
+id: ca2ca16e-b864-52d8-846f-7e3f0729fe0c

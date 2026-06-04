@@ -2,20 +2,20 @@
 data:
   identifier: '2.08'
   localized_concepts:
-    eng: 3dc56f7c-6204-5481-aff8-f5d4a3714ed6
-    fra: 02533d4b-c7c3-51b4-adab-0e1a00af9950
+    eng: eafc8c92-dd62-571a-8e71-ae0ee93f08cc
+    fra: 29e0df17-cc4f-514f-8d9e-bf2fdc8c48d6
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: e98aa653-c56c-58f7-8d48-06730d19564c
+id: 5a57c78d-5956-5c7a-b548-90196e1e42f5
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.8'
+    id: '2.10'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,40 +26,46 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of a type approval decision of legal relevance canceling a type approval
+  - content: decision of legal relevance canceling a type approval
   examples: []
   id: 2.08-eng
   notes:
-  - content: The withdrawal is justified in case of • alterations of the type, • modification
-      of its vital parts, • circumstances that affect metrological durability and/
-      or reliability, • effects altering the metrological performance of the instrument
+  - content: The withdrawal is justified in case of alterations of the type, modification
+      of its vital parts, circumstances that affect metrological durability and/ or
+      reliability, effects altering the metrological performance of the instrument
       required by law and coming to light only after the official type approval was
       granted.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: withdrawal
-  language_code: eng
-  entry_status: valid
+    designation: withdrawal of a type approval
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3dc56f7c-6204-5481-aff8-f5d4a3714ed6
+id: eafc8c92-dd62-571a-8e71-ae0ee93f08cc
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: scellement
+  - content: d’une approbation de type décision de portée légale annulant une approbation
+      de type
   examples: []
   id: 2.08-fra
-  notes: []
+  notes:
+  - content: 'Le retrait est justifié dans les cas suivants : modification du type
+      ; modification de ses parties essentielles ; circonstances qui affectent la
+      durabilité et/ou la fiabilité métrologique ; effets altérant les performances
+      métrologiques de l’instrument exigées par la loi et révélés seulement après
+      que l’approbation de type officielle a été accordée.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: revue A.14 S
-  language_code: fra
-  entry_status: valid
+    designation: retrait
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 02533d4b-c7c3-51b4-adab-0e1a00af9950
+id: 29e0df17-cc4f-514f-8d9e-bf2fdc8c48d6

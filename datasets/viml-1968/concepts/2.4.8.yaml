@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 2.4.8
+  localized_concepts:
+    fra: 859541af-b088-5624-98a5-56c154e7a39e
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 6e77005b-352b-5eab-b20f-2bd8d0196ce3
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.4.8-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: VÉRIFICATION OBLIGATOIRE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 859541af-b088-5624-98a5-56c154e7a39e

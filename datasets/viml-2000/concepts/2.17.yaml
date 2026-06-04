@@ -2,26 +2,48 @@
 data:
   identifier: '2.17'
   localized_concepts:
-    fra: 693057f3-9ad5-5e6c-ab62-46e8f2e1585e
+    eng: 1fdca8c0-ddf8-57d4-b9d7-9ae4f19d6ec8
+    fra: c35fa461-0c03-53ba-8eda-03f024c48575
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: ed9e2b61-a8d0-53ac-b39d-3e1bc43d6a29
+id: 62ca3b88-b181-512c-b144-6f7e275a1528
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.17'
+    id: '2.14'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: primitive
+  - content: subsequent verification of a measuring instrument, carried out periodically
+      at specified intervals according to the procedure laid down by the regulations
+  examples: []
+  id: 2.17-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mandatory periodic verification
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 1fdca8c0-ddf8-57d4-b9d7-9ae4f19d6ec8
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vérification ultérieure d’un instrument de mesure effectuée périodiquement
+      à des intervalles spécifiés selon une procédure fixée par la réglementation
   examples: []
   id: 2.17-fra
   notes: []
@@ -29,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
-  language_code: fra
-  entry_status: valid
+    designation: vérification périodique obligatoire
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 693057f3-9ad5-5e6c-ab62-46e8f2e1585e
+id: c35fa461-0c03-53ba-8eda-03f024c48575

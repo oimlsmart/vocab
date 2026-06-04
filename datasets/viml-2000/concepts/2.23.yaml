@@ -2,35 +2,61 @@
 data:
   identifier: '2.23'
   localized_concepts:
-    fra: 872e8459-be8a-571b-b97b-9169f5337704
+    eng: d4ffaedb-ddd1-5388-9df5-3abf66772085
+    fra: c0822eea-dae3-5039-af9d-4759f3424e5a
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: c614236c-a9f6-5c3c-840e-fee567520459
+id: 9b88ab8b-ce75-55ce-ac01-8606a6dc7a0a
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.23'
+    id: '2.19'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’approbation de type
+  - content: affixing of one or more of the marks as described in 3.7, 3.8, 3.9 and
+      3.10
   examples: []
-  id: 2.23-fra
-  notes: []
+  id: 2.23-eng
+  notes:
+  - content: Verification and sealing marks may be combined.
+  - content: The manufacturer may be authorized to apply other marks.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: marque
-  language_code: fra
-  entry_status: valid
+    designation: marking
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 872e8459-be8a-571b-b97b-9169f5337704
+id: d4ffaedb-ddd1-5388-9df5-3abf66772085
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: apposition d’une ou de plusieurs marques telles que décrites en 3.7,
+      3.8, 3.9 et 3.10
+  examples: []
+  id: 2.23-fra
+  notes:
+  - content: Les marques de vérification et de scellement peuvent être combinées.
+      Le fabricant peut être autorisé à apposer d’autres marques.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marquage
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: c0822eea-dae3-5039-af9d-4759f3424e5a

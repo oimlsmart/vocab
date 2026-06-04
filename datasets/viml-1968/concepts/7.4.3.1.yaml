@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 7.4.3.1
+  localized_concepts:
+    fra: 38afd4e3-d7d2-5a42-bb69-221b37489e3d
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: bf24a39a-30cb-522e-8fe9-007ce465130c
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.4.3.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LONGUEUR DE L'ÉCHELON
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 38afd4e3-d7d2-5a42-bb69-221b37489e3d

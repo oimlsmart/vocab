@@ -2,20 +2,20 @@
 data:
   identifier: '2.05'
   localized_concepts:
-    eng: aa04c3ac-13f5-5565-a2ce-759edd6286ff
-    fra: a6fe3b6c-45a4-5863-baa7-4b9842044ed3
+    eng: f67bb40d-d233-571c-9c2b-9d6ff4d70ba1
+    fra: eccbf2b4-8afa-5f1d-8cad-926500b17ca5
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 8728ed99-8126-5583-a8cf-ccd9bf80734c
+id: c8377841-9da0-59d0-a45d-298da3d91d6e
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.5'
+    id: '2.6'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,10 +26,9 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: approval decision of legal relevance, based on the review of the type
-      evaluation report, that the type of a measuring instrument complies with the
-      relevant statutory requirements and results in the issuance of the type approval
-      certificate
+  - content: decision of legal relevance, based on the review of the type evaluation
+      report, that the type of a measuring instrument complies with the relevant statutory
+      requirements and results in the issuance of the type approval certificate
   examples: []
   id: 2.05-eng
   notes:
@@ -38,27 +37,30 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: type
-  language_code: eng
-  entry_status: valid
+    designation: type approval
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: aa04c3ac-13f5-5565-a2ce-759edd6286ff
+id: f67bb40d-d233-571c-9c2b-9d6ff4d70ba1
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de type d’effet limité
+  - content: décision de portée légale, basée sur la revue du rapport d’évaluation,
+      selon laquelle le type d’instrument de mesure satisfait aux exigences réglementaires
+      applicables et conduit à la délivrance du certificat d’approbation de type
   examples: []
   id: 2.05-fra
-  notes: []
+  notes:
+  - content: Voir aussi A.25
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: approbation
-  language_code: fra
-  entry_status: valid
+    designation: approbation de type
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: a6fe3b6c-45a4-5863-baa7-4b9842044ed3
+id: eccbf2b4-8afa-5f1d-8cad-926500b17ca5

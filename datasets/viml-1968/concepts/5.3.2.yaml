@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 5.3.2
+  localized_concepts:
+    fra: 61e48aa3-9cfb-5529-b1df-8a09718416c8
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: bf8c5baf-4994-5d64-911e-b36ef57ea65f
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 5.3.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OBSERVATION (DE L'INDICATION)
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 61e48aa3-9cfb-5529-b1df-8a09718416c8

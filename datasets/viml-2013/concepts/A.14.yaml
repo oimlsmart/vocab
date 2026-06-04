@@ -1,0 +1,75 @@
+---
+data:
+  identifier: A.14
+  localized_concepts:
+    eng: 57a4bf30-06a8-51f4-8be4-8fc5d4829783
+    fra: 63c3122b-16a4-5b19-86db-5a9f1a8a3a92
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: f8a762e8-b586-526c-8073-2ba93bbf5fa5
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.14
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: verification of the suitability, adequacy and effectiveness of selection
+      and determination activities, and the results of these activities, with regard
+      to fulfillment of specified requirements by an object of conformity assessment
+  examples: []
+  id: A.14-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: review
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 57a4bf30-06a8-51f4-8be4-8fc5d4829783
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vérification de la pertinence, de l'adéquation et de l'efficacité des
+      activités de sélection et de détermination et de leurs résultats en ce qui concerne
+      la satisfaction, par un objet de l'évaluation de la conformité, d'exigences
+      spécifiées
+  examples: []
+  id: A.14-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: revue
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 63c3122b-16a4-5b19-86db-5a9f1a8a3a92

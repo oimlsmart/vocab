@@ -2,20 +2,20 @@
 data:
   identifier: '3.06'
   localized_concepts:
-    eng: 16f29a2e-5e5a-5f1f-8d44-e832e00a1fc5
-    fra: 8e97505f-b2f7-5118-868a-55c4a66bf85d
+    eng: cd3f46d9-c00b-53af-9c98-5de289da46bc
+    fra: 3b633f55-1b07-55b3-8dad-cb80ee664c63
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: c2b5fef4-95c4-5636-875b-31fff7697155
+id: b6a23a03-adcc-5f0f-8747-8e7299c1f515
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '3.6'
+    id: '3.9'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,7 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: and
+  - content: mark intended to protect the measuring instrument against any unauthorized
+      modification, readjustment, removal of parts, etc.
   examples: []
   id: 3.06-eng
   notes: []
@@ -34,18 +35,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ","
-  language_code: eng
-  entry_status: valid
+    designation: sealing mark
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 16f29a2e-5e5a-5f1f-8d44-e832e00a1fc5
+id: cd3f46d9-c00b-53af-9c98-5de289da46bc
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de vérification
+  - content: marque destinée à protéger l’instrument de mesure contre toute intervention
+      non autorisée, notamment une modification, un réajustement, une suppression
+      de composants, etc.
   examples: []
   id: 3.06-fra
   notes: []
@@ -53,8 +56,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: marque
-  language_code: fra
-  entry_status: valid
+    designation: marque de scellement
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 8e97505f-b2f7-5118-868a-55c4a66bf85d
+id: 3b633f55-1b07-55b3-8dad-cb80ee664c63

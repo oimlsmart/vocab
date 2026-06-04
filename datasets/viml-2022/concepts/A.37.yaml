@@ -2,7 +2,7 @@
 data:
   identifier: A.37
   localized_concepts:
-    eng: '08ccf727-9c71-5ea9-9218-64ba4c5c37e0'
+    eng: 08ccf727-9c71-5ea9-9218-64ba4c5c37e0
     fra: eb1b7aa0-3253-5c73-8ef9-1dcab99957d9
   domains:
   - concept_id: section-A
@@ -21,6 +21,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.1
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.37
 status: valid
 id: 418956a3-14a2-55b5-ae79-8faf984342de
 schema_version: '3'
@@ -53,7 +57,7 @@ data:
   language_code: eng
   entry_status: valid
 date_accepted: '2022-01-01T00:00:00+00:00'
-id: '08ccf727-9c71-5ea9-9218-64ba4c5c37e0'
+id: 08ccf727-9c71-5ea9-9218-64ba4c5c37e0
 ---
 data:
   dates:

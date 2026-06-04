@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.16
+  localized_concepts:
+    eng: 2cc83217-eb18-58e5-9043-01997f0aa9dc
+    fra: a5712b40-b2d1-593a-8d38-a248cc54b09a
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 3b34aa8c-c97b-5535-ab82-05930caa66ec
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.16
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range or characteristics of objects of conformity assessment covered
+      by attestation
+  examples: []
+  id: A.16-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scope of attestation
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 2cc83217-eb18-58e5-9043-01997f0aa9dc
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: étendue ou caractéristiques des objets de l'évaluation de la conformité
+      couverts par l'attestation
+  examples: []
+  id: A.16-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: portée de l'attestation
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a5712b40-b2d1-593a-8d38-a248cc54b09a

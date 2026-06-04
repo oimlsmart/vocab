@@ -2,14 +2,15 @@
 data:
   identifier: '7.4'
   localized_concepts:
-    fra: bbbcb41c-53b3-55f0-bd63-6bad12b97f1b
+    fra: 8f5e2af2-0bdc-5401-a338-5842fbf24311
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: f72068e7-2260-5ab4-b1fe-aaf3d52fdd1f
+id: 508d9e20-713a-5a9a-ba75-8018cb355bc9
 schema_version: '3'
+
 ---
 data:
   dates:
@@ -23,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "."
-  language_code: fra
-  entry_status: valid
+    designation: ÉCHELLE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: bbbcb41c-53b3-55f0-bd63-6bad12b97f1b
+id: 8f5e2af2-0bdc-5401-a338-5842fbf24311

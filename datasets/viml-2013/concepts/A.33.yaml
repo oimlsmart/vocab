@@ -1,0 +1,73 @@
+---
+data:
+  identifier: A.33
+  localized_concepts:
+    eng: d3fd35d4-f5bb-5fd2-8166-1ee1e6943ec5
+    fra: 74befffb-9bdd-5c6f-a3ef-a1315b231d33
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: aac51452-d2e5-551a-99e4-bd250ac8de54
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.33
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: recognition of conformity assessment results acknowledgement of the validity
+      of a conformity assessment result provided by another person or body
+  examples: []
+  id: A.33-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recognition
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d3fd35d4-f5bb-5fd2-8166-1ee1e6943ec5
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reconnaissance de résultats d'évaluation de la conformité reconnaissance
+      de la validité d'un résultat d'évaluation de la conformité fourni par une autre
+      personne ou par un autre organisme
+  examples: []
+  id: A.33-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/ CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reconnaissance
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 74befffb-9bdd-5c6f-a3ef-a1315b231d33

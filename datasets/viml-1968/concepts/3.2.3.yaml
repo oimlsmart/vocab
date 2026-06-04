@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.2.3
+  localized_concepts:
+    fra: 0dadf442-f943-51de-aed1-59608655c150
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 0e0b3f53-50c8-5fe9-b635-79c0f3be2b0a
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 3.2.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: MARQUE DU BUREAU
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 0dadf442-f943-51de-aed1-59608655c150

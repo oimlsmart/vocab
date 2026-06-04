@@ -1,0 +1,68 @@
+---
+data:
+  identifier: A.26
+  localized_concepts:
+    eng: 3992b122-7697-5e25-8538-0982a9eb47cb
+    fra: 8a9b9e12-5e3f-59d5-b459-4086db4320cf
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: eddb8e32-1237-5347-a871-c4ebd4f4157a
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.26
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relationship between two parties where both have the same rights and
+      obligations towards each other
+  examples: []
+  id: A.26-eng
+  notes:
+  - content: Reciprocity can exist within a multilateral arrangement comprising a
+      network of bilateral reciprocal relationships.
+  - content: Although rights and obligations are the same, opportunities emanating
+      from them can differ; this can lead to unequal relationships between parties
+      [ISO/IEC 17000:2004, 7.11]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reciprocity
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 3992b122-7697-5e25-8538-0982a9eb47cb
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relation entre deux parties où les deux ont les mêmes droits et obligations
+      l'une vers l'autre
+  examples: []
+  id: A.26-fra
+  notes:
+  - content: La réciprocité peut exister au sein d'un arrangement multilatéral comprenant
+      un réseau de relations bilatérales réciproques.
+  - content: Bien que les droits et les obligations soient les mêmes, les possibilités
+      offertes peuvent être différentes; il peut en découler des relations inégales
+      entre les parties. [ISO/CEI 17000:2004, 7.11]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réciprocité
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 8a9b9e12-5e3f-59d5-b459-4086db4320cf

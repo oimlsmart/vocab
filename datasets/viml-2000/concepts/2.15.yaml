@@ -2,26 +2,46 @@
 data:
   identifier: '2.15'
   localized_concepts:
-    fra: 28f88185-b80a-5c1a-af26-4a96bfd019f7
+    eng: e9a68b04-ca69-54ec-b9b7-e3d025a0e97f
+    fra: 4670e24f-7c28-5367-b7d6-efd4aa50707e
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: b9dc8237-7ae1-5ae1-9c8e-8a9f481ef0e8
+id: 2afc1518-4a59-50d8-8247-75abf6d3d39a
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.15'
+    id: '2.12'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ultérieure
+  - content: verification of a measuring instrument which has not been verified previously
+  examples: []
+  id: 2.15-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial verification
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: e9a68b04-ca69-54ec-b9b7-e3d025a0e97f
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vérification d’un instrument de mesure qui n’a pas été vérifié auparavant
   examples: []
   id: 2.15-fra
   notes: []
@@ -29,8 +49,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
-  language_code: fra
-  entry_status: valid
+    designation: vérification primitive
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 28f88185-b80a-5c1a-af26-4a96bfd019f7
+id: 4670e24f-7c28-5367-b7d6-efd4aa50707e

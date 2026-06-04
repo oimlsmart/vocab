@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '7.5'
+  localized_concepts:
+    fra: 5cf76e4b-f887-5a08-a20c-84809b5dcfa2
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 48824f1c-d664-5c99-b3a2-5fd6cc7ac5a5
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CADRAN
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5cf76e4b-f887-5a08-a20c-84809b5dcfa2

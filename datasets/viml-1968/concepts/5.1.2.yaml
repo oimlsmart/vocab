@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 5.1.2
+  localized_concepts:
+    fra: 7680a078-c4a5-5af6-a6c1-4c30687b9372
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: acaea569-452a-5310-97e4-e24cd5a9aa2e
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 5.1.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: PROCESSUS DE MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 7680a078-c4a5-5af6-a6c1-4c30687b9372

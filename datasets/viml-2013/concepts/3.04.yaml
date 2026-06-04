@@ -2,20 +2,20 @@
 data:
   identifier: '3.04'
   localized_concepts:
-    eng: d1fb86b6-42cc-515e-99eb-94b959cc066a
-    fra: 6c084764-c4c0-5f06-8e36-9ffc93120518
+    eng: 25991050-aac0-5846-bf4f-af85b0782806
+    fra: 58927420-c086-5356-9122-4e6a9e15a3f0
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 258563b7-8b57-5abc-a11b-d3eab52077a1
+id: 3949245c-e617-523f-92af-c1f6fc196aac
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '3.4'
+    id: '3.7'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,7 +26,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mark mark applied to a measuring instrument in a conspicuous manner certifying
+  - content: mark applied to a measuring instrument in a conspicuous manner certifying
       that the verification of the measuring instrument was carried out and compliance
       with statutory requirements was confirmed
   examples: []
@@ -38,26 +38,32 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: verification
-  language_code: eng
-  entry_status: valid
+    designation: verification mark
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: d1fb86b6-42cc-515e-99eb-94b959cc066a
+id: 25991050-aac0-5846-bf4f-af85b0782806
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: marque apposée sur un instrument de mesure de manière apparente certifiant
+      que la vérification de l’instrument de mesure a été effectuée et que la conformité
+      aux exigences réglementaires à été constatée
   examples: []
   id: 3.04-fra
-  notes: []
+  notes:
+  - content: La marque de vérification peut identifier l’organisme responsable de
+      la vérification et/ou indiquer l’année ou la date de vérification ou sa date
+      d’expiration.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: métrologie
-  language_code: fra
-  entry_status: valid
+    designation: marque de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 6c084764-c4c0-5f06-8e36-9ffc93120518
+id: 58927420-c086-5356-9122-4e6a9e15a3f0

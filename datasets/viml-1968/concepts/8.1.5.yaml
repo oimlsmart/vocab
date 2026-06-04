@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.1.5
+  localized_concepts:
+    fra: ea018b90-1062-5f59-8e41-bf50cedaae35
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: b0d9b669-038b-559d-83da-b811ca778c52
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.1.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR ABSOLUE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: ea018b90-1062-5f59-8e41-bf50cedaae35

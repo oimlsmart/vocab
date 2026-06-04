@@ -29,6 +29,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.1
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.19
 status: valid
 id: 00bf1a8c-d970-5285-8b30-7525c1ee62b2
 schema_version: '3'
@@ -66,10 +70,10 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{attestation,A.15}}  par  tierce partie, portant sur un {{organisme
-      d'évaluation de la conformité,A.2}} constituant une reconnaissance formelle
+  - content: '{{attestation,A.15}}  par  tierce partie, portant sur un {{organisme
+      d''évaluation de la conformité,A.2}} constituant une reconnaissance formelle
       de la compétence, de l’impartialité et de la cohérence de la réalisation d’activités
-      spécifiques d'{{évaluation de la conformité,A.1}}"
+      spécifiques d''{{évaluation de la conformité,A.1}}'
   examples: []
   id: A.19-fra
   notes: []

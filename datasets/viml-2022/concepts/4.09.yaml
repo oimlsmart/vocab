@@ -2,7 +2,7 @@
 data:
   identifier: '4.09'
   localized_concepts:
-    eng: '097e87d0-1858-5d53-b338-e2d3686827d6'
+    eng: 097e87d0-1858-5d53-b338-e2d3686827d6
     fra: 911810ab-fdf1-5748-b4b8-5a49a5e504cf
   domains:
   - concept_id: section-4
@@ -26,9 +26,9 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measuring instrument,0.10}} of an approved type, which on its own
+  - content: '{{measuring instrument,0.10}} of an approved type, which on its own
       or together with suitable documentation, serves as a reference e.g. for checking
-      conformity of instruments with the approved type"
+      conformity of instruments with the approved type'
   examples: []
   id: 4.09-eng
   notes: []
@@ -40,16 +40,16 @@ data:
   language_code: eng
   entry_status: valid
 date_accepted: '2022-01-01T00:00:00+00:00'
-id: '097e87d0-1858-5d53-b338-e2d3686827d6'
+id: 097e87d0-1858-5d53-b338-e2d3686827d6
 ---
 data:
   dates:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{instrument de mesure,0.10}} d'un type approuvé qui, seul ou avec une
-      documentation appropriée, sert de référence, par exemple, pour vérifier la conformité
-      d'instruments au type approuvé"
+  - content: '{{instrument de mesure,0.10}} d''un type approuvé qui, seul ou avec
+      une documentation appropriée, sert de référence, par exemple, pour vérifier
+      la conformité d''instruments au type approuvé'
   examples: []
   id: 4.09-fra
   notes: []

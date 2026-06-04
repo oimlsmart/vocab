@@ -2,13 +2,14 @@
 data:
   identifier: '4.2'
   localized_concepts:
-    fra: 5a753986-a93f-5ca9-99cc-c520a9afbf30
+    eng: 6afd8d8d-cea5-572a-ab9d-e36aa9fa30f4
+    fra: c0b49b9b-bbaf-559a-b25b-8245235caee6
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 4a0799c6-ffaf-59f2-9768-8b2362f7c908
+id: 856caa2a-e7a4-5751-9e78-57b1aba5a3f6
 schema_version: '3'
 related:
 - type: superseded_by
@@ -21,17 +22,51 @@ data:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de base de métrologie légale Ch 1termes de base et généraux de métrologie
-      Ch 0type approuvé
+  - content: the coherent system of units adopted and recommended by the General Conference
+      on Weights and Measures (CGPM)
   examples: []
-  id: 4.2-fra
+  id: 4.2-eng
   notes: []
-  sources: []
+  sources:
+  - origin:
+      ref:
+        source: VIM
+      locality:
+        type: clause
+        reference_from: '1.12'
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: Ttermes
-  language_code: fra
-  entry_status: valid
+    designation: International System of Units, SI
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 5a753986-a93f-5ca9-99cc-c520a9afbf30
+id: 6afd8d8d-cea5-572a-ab9d-e36aa9fa30f4
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: système cohérent d’unités adopté et recommandé par la Conférence générale
+      des poids et mesures (CGPM)
+  examples: []
+  id: 4.2-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: VIM
+      locality:
+        type: clause
+        reference_from: '1.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Système international d’unités, SI
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: c0b49b9b-bbaf-559a-b25b-8245235caee6

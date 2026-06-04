@@ -2,20 +2,20 @@
 data:
   identifier: '3.01'
   localized_concepts:
-    eng: 8a395406-1711-50cc-9d18-ffbd349977f2
-    fra: 7f5588bc-2ee6-59f8-85e3-12db169e45f2
+    eng: 59e4a1f4-1645-5ca2-8948-15ae2c6658dd
+    fra: a7cc851a-de3c-5d75-8599-a5663655c184
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: b343f4b8-ecc0-5257-8f89-a6be918a9a53
+id: c39d5c3d-681b-52f9-b3ba-61ad65494f2b
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '3.1'
+    id: '3.2'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,8 +26,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: approval certificate document certifying that type approval has been
-      granted
+  - content: document certifying that type approval has been granted
   examples: []
   id: 3.01-eng
   notes: []
@@ -35,18 +34,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: type
-  language_code: eng
-  entry_status: valid
+    designation: type approval certificate
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 8a395406-1711-50cc-9d18-ffbd349977f2
+id: 59e4a1f4-1645-5ca2-8948-15ae2c6658dd
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de vérification
+  - content: d’approbation de type document certifiant que l’approbation de type a
+      été accordée
   examples: []
   id: 3.01-fra
   notes: []
@@ -55,7 +55,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: certificat
-  language_code: fra
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 7f5588bc-2ee6-59f8-85e3-12db169e45f2
+id: a7cc851a-de3c-5d75-8599-a5663655c184

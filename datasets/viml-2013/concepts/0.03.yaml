@@ -2,22 +2,14 @@
 data:
   identifier: '0.03'
   localized_concepts:
-    eng: b095d5a5-00b7-528d-b536-07ec785a333d
-    fra: 4f001ff3-c88e-5c03-909b-c57dde1653a6
+    eng: a7a72b77-5e2e-5c30-b3ad-04c71fa5440a
+    fra: 557ed1dc-cc15-594f-8b0e-4370f40246d6
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
-  sources:
-  - origin:
-      ref:
-        source: OIML V2-200:2012
-      locality:
-        type: clause
-        reference_from: '4.1'
-    type: authoritative
 status: valid
-id: fbb19c07-835e-52bb-be14-3af90746e485
+id: ebda688b-d1ff-527e-890b-30a80b09051e
 schema_version: '3'
 related:
 - type: superseded_by
@@ -40,39 +32,41 @@ data:
       outputs, a code pattern for code outputs, or an assigned quantity value for
       material measures.
   - content: An indication and a corresponding value of the quantity being measured
-      are not necessarily values of quantities of the same kind.
-  sources:
-  - origin:
-      ref:
-        source: OIML V2-200:2012
-      locality:
-        type: clause
-        reference_from: '4.1'
-    type: authoritative
+      are not necessarily values of quantities of the same kind. [OIML V2-200:2012,
+      4.1]
+  sources: []
   terms:
   - type: expression
     normative_status: preferred
     designation: indication
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b095d5a5-00b7-528d-b536-07ec785a333d
+id: a7a72b77-5e2e-5c30-b3ad-04c71fa5440a
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: primaire
+  - content: valeur fournie par un instrument de mesure ou un système de mesure
   examples: []
   id: 0.03-fra
-  notes: []
+  notes:
+  - content: Une indication peut être présentée sous forme visuelle ou acoustique
+      ou peut être transférée à un autre dispositif. Elle est souvent donnée par la
+      position d'un pointeur sur un affichage pour les sorties analogiques, par un
+      nombre affiché ou imprimé pour les sorties numériques, par une configuration
+      codée pour les sorties codées, ou par la valeur assignée pour les mesures matérialisées.
+  - content: Une indication et la valeur de la grandeur mesurée correspondante ne
+      sont pas nécessairement des valeurs de grandeurs de même nature. [OIML V2-200:2012
+      , 4.1]
   sources: []
   terms:
   - type: expression
     normative_status: preferred
     designation: indication
-  language_code: fra
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 4f001ff3-c88e-5c03-909b-c57dde1653a6
+id: 557ed1dc-cc15-594f-8b0e-4370f40246d6

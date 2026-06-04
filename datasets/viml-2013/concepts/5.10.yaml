@@ -2,14 +2,14 @@
 data:
   identifier: '5.10'
   localized_concepts:
-    eng: 6ac050ca-b17a-5853-ad52-c2425aa8a60e
-    fra: '023159c1-5af1-537d-b5c6-75c3d9985959'
+    eng: a526adcc-db98-5cbf-a21d-cd55329d6306
+    fra: e020f1c6-d49b-5a40-9068-d0b23fe04003
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 1417f0ac-d25f-50e2-b724-58fe434577ff
+id: b610e11d-2d29-574f-add8-0d7073bde4e4
 schema_version: '3'
 related:
 - type: superseded_by
@@ -33,18 +33,20 @@ data:
   - type: expression
     normative_status: preferred
     designation: terminal
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 6ac050ca-b17a-5853-ad52-c2425aa8a60e
+id: a526adcc-db98-5cbf-a21d-cd55329d6306
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: égal A.27 traitement égal et national A.29 traitement national A.28 transducteur
-      de mesure
+  - content: dispositif numérique ayant une ou plusieurs clés (ou souris, écran tactile,
+      etc.) permettant de faire fonctionner un instrument, et un afficheur permettant
+      de transmettre les résultats de mesurage à travers l’interface numérique ou
+      un dispositif analogique d’élaboration des données
   examples: []
   id: 5.10-fra
   notes: []
@@ -52,8 +54,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: traitement
-  language_code: fra
-  entry_status: valid
+    designation: terminal
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: '023159c1-5af1-537d-b5c6-75c3d9985959'
+id: e020f1c6-d49b-5a40-9068-d0b23fe04003

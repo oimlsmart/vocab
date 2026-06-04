@@ -2,20 +2,20 @@
 data:
   identifier: '2.19'
   localized_concepts:
-    eng: 3819a1e1-d4f7-5d12-8aea-225c06e85dad
-    fra: c4c8c422-f334-5be0-a653-5b1972ca77fb
+    eng: 8a1ff8f0-5a03-56af-8886-cdf0ec4c28e3
+    fra: 38581ceb-a0bb-5de5-a3e6-08c1f28b081f
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: a0c1a340-461b-5991-aaec-14f2fbbec5fd
+id: ebf00d85-872d-5052-832c-463b694a3161
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.19'
+    id: '2.23'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -31,32 +31,38 @@ data:
   id: 2.19-eng
   notes:
   - content: 'Examples of marks include: verification, rejection, sealing and type
-      approval marks (as described in'
+      approval marks (as described in 3.05, 3.06, and 3.07).'
+  - content: Verification and sealing marks may be combined.
+  - content: The manufacturer may be authorized to apply other marks.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
     designation: marking
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3819a1e1-d4f7-5d12-8aea-225c06e85dad
+id: 8a1ff8f0-5a03-56af-8886-cdf0ec4c28e3
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d'approbation de type
+  - content: apposition d’une ou de plusieurs marques
   examples: []
-  id: 2.19-fra
-  notes: []
+  id: 2.19-eng
+  notes:
+  - content: 'Exemples : marques de vérification, de refus, de scellement ou d’approbation
+      de type ( telles que définies en 3.05, 3.06 and 3.07).'
+  - content: Les marques de vérification et de scellement peuvent être combinées.
+  - content: Le fabricant peut être autorisé à apposer d’autres marques.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: marque
-  language_code: fra
-  entry_status: valid
+    designation: marquage
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: c4c8c422-f334-5be0-a653-5b1972ca77fb
+id: 38581ceb-a0bb-5de5-a3e6-08c1f28b081f

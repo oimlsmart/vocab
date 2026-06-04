@@ -2,14 +2,14 @@
 data:
   identifier: '5.15'
   localized_concepts:
-    eng: fef86cbf-02be-56b1-b8ea-a4cea844cecf
-    fra: 0df36459-6e13-5367-9036-63ea6a683d10
+    eng: fde5040f-df29-59a6-88d1-6289245208c1
+    fra: 241f48b7-c693-5d7a-aa0a-0228c01e22b6
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 36a65ac4-3ab9-5877-aa6a-df2d96ccd635
+id: 63ef8eb1-aff0-5648-8f1c-9e439d95e36d
 schema_version: '3'
 related:
 - type: superseded_by
@@ -32,17 +32,18 @@ data:
   - type: expression
     normative_status: preferred
     designation: durability
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: fef86cbf-02be-56b1-b8ea-a4cea844cecf
+id: fde5040f-df29-59a6-88d1-6289245208c1
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: échantillonnage A.9 échelle
+  - content: aptitude d’un instrument de mesure à conserver ses caractéristiques de
+      performance après une période d’utilisation
   examples: []
   id: 5.15-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: E
-  language_code: fra
-  entry_status: valid
+    designation: durabilité
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 0df36459-6e13-5367-9036-63ea6a683d10
+id: 241f48b7-c693-5d7a-aa0a-0228c01e22b6

@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.30
+  localized_concepts:
+    eng: 129c9d6b-bb8f-57a7-975e-6e94b7be44ee
+    fra: f2f645ff-5859-5d9c-aa13-b39877538f04
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: d06740de-8450-53cf-9254-ef3655ab8f6a
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.30
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: governmental authorization of a conformity a s s essment body to perform
+      specified assessment activities
+  examples: []
+  id: A.30-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: designation
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 129c9d6b-bb8f-57a7-975e-6e94b7be44ee
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nomination par une instance gouvernementale d'un organisme d'évaluation
+      de la conformité pour réaliser des activités d'évaluation de la conformité spécifiées
+  examples: []
+  id: A.30-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: désignation
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: f2f645ff-5859-5d9c-aa13-b39877538f04

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.6.2
+  localized_concepts:
+    fra: 2f379e89-5138-56f6-8645-f7cd7cd08fd1
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 4306c5df-875b-5a62-b50d-b12a05b93db0
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.6.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UNITÉ DE MESURE LÉGALE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 2f379e89-5138-56f6-8645-f7cd7cd08fd1

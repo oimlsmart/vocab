@@ -2,31 +2,21 @@
 data:
   identifier: '6.1'
   localized_concepts:
-    fra: 83d10438-5fa9-55e0-8af0-63fa872fe86c
+    fra: c2d0bc10-494d-5022-b101-d271e53f84e8
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
-related:
-- type: see
-  ref:
-    source: urn:oiml:pub:v:1:1968
-    id: '4.6'
 status: valid
-id: eb5f027f-d49e-54c2-a80b-46ec55a97b37
+id: 5ae2b407-5089-5c99-a2ff-8e05cf282f44
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: de mesure..................................................................4.6272.Unité
-      de mesure cohérente. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-      . . . . . . . . . . . . . . . . . . . . . . . . . . . .4.6,5273 .Unité de mesure
-      de base . . ........,...............................................4,6,327-t
-      .Unité de mesure déri�e . . . . . . . . . . . . . . . . . . . . . . . . . .
-      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  definition: []
   examples: []
   id: 6.1-fra
   notes: []
@@ -34,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 7uArlicle271.Unlté
-  language_code: fra
-  entry_status: valid
+    designation: INSTRUMENTS DE MESURAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 83d10438-5fa9-55e0-8af0-63fa872fe86c
+id: c2d0bc10-494d-5022-b101-d271e53f84e8

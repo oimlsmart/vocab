@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 1.1.5
+  localized_concepts:
+    fra: 94104f29-1a36-5718-bc9d-192ee4d03561
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: baaebd62-b79b-5f5b-af14-0ea2be0c4890
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 1.1.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: BUREAU LOCAL DE VÉRIFICATION
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 94104f29-1a36-5718-bc9d-192ee4d03561

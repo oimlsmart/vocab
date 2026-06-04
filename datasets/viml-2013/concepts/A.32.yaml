@@ -1,0 +1,74 @@
+---
+data:
+  identifier: A.32
+  localized_concepts:
+    eng: 0e48e469-7e73-5607-b65c-ea9e4af7ebdc
+    fra: 862eba4e-f95f-5964-90b4-b831c2b15b25
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 07de34c3-aa53-5bc4-a4b6-a1a721d40a6f
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.32
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: equivalence of conformity assessment results sufficiency of different
+      conformity assessment results to provide the same level of assurance of conformity
+      with regard to the same specified requirements
+  examples: []
+  id: A.32-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalence
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 0e48e469-7e73-5607-b65c-ea9e4af7ebdc
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: équivalence de résultats d'évaluation de la conformité relation entre
+      différents résultats d'évaluation de la conformité suffisante pour fournir le
+      même niveau d'assurance de la conformité quant aux mêmes exigences spécifiées
+  examples: []
+  id: A.32-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équivalence
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 862eba4e-f95f-5964-90b4-b831c2b15b25

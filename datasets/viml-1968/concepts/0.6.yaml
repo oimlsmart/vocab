@@ -2,76 +2,21 @@
 data:
   identifier: '0.6'
   localized_concepts:
-    fra: e560744d-00dd-556c-888a-e34504998972
+    fra: 28fd9199-31a2-523d-9032-5b84707966aa
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: c29657bf-38ad-5f31-9d99-9d44b8112599
+id: d5bc3a9f-d0eb-5752-9343-3c66b519d476
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: 'LIÊGALEPartie de la métrologie se rapportant aux unités de mesure, aux
-      méthode� de mesu-irage et aux instruments de mesurage en ce qui concerne les
-      exigences techniques et juridiques réglementées qui ont pour but d''assurer
-      la garantie publique du point de vue de la sécurité et de la précision convenable
-      des mesurages.CHAPITRE 1ORGANISMES ET SERVICES SE RAPPORTANT A LA MÉTROLOGIE
-      LÉGALEPréambuleA. La métrologie légale, dans chaque État moderne, est dirigée
-      par un Organisme national qui, dans ce Vocabulaire, est appelé << Service national
-      de métrologie légale" 1,.La constitution de ce Service est souvent différente
-      d''un pays à l''autre.Toutefois, comme il est fréquemment nécessaire d''utiliser
-      dans les Recommanda-tions de l''Organisation Internationale de Métrologie Légale
-      des expressions qui s''y rap-portent et comme évidemment ces expressions doivent
-      être uniformes, le Vocabulaire comprend dans le présent Chapitre une série de
-      termes relatüs à un Service, fictif, mais ce-pendant assez proche des organismes
-      existants.Naturellement, certains des organes prévus dans ce Service fictif
-      peuvent ne pas exister, en partie ou complètement, au sein des Services réels
-      et inversement ces derniers peuvent en comporter davantage.Le schéma ainsi présenté
-      pourrait être éventuellement utilisé avec profit lors de la création de nouveaux
-      Services.B. L''organisation contemporaine de la métrologie comprend, en plus
-      des Services nationaux de métrologie légale, nombre d''Organismes internationaux
-      dont le but final est le maintien de l''uniformité des mesures dans le monde
-      entier.La métrologie légale est surtout intéressée par les deux Organisations
-      ci-après :ORGANrSATION INTERNATIONALE DES POIDS ET MESURESinstituée par la �
-      Convention internationale du Mètre» - Paris, 1875, et comprenant :a - la Conférence
-      Générale des Poids et Mesures qui a pour buts :d''élaborer et de provoquer les
-      décisions nécessaires à la propagation et au perfeclionnement d''un système
-      international d''unités et d''étalons de mesure:de sanctionner les résultats
-      de nouvelles déterminations métrologiques fonda-mentales et les diverses ré.solutions
-      scientifiques de portée internationale concernant la métrologie.-5-2b - le Comité
-      International des Poids et Mesuresplacé sous l''autorité de la Conférence Générale
-      et qui a pour buts :de diriger et de surveiller les travaux du Bureau International
-      des Poids et Mesures;d''instituer la coopération des laboratoires nationaux
-      de métrologie pour l''exécution des travaux métrologiques que la Conférence
-      Générale décide de faire exécuter en commun par les États membres de l''Organisation;de
-      diriger ces travaux et d''en coordonner les résultats;de veiller à la conservation
-      des f:talons internationaux.c - le Bureau International des Poids et Mesures
-      - B.I.P.M.fonctionnant sous la surveillance du Comité International et qui a
-      pour buts :d''établir les étalons fondamentaux et les échelles des principales
-      grandeurs physiques;de conserver les Étalons prototypes internationaux;d''effectuer
-      les comparaisons des étalons nationaux tels que ceux de longueur, de masse,
-      de température, d''électricité, de photométrie et des radiations ionisantes;d''assurer
-      la coordination des techniques de mesurages correspondantes;d''exécuter et de
-      coordonner les détermînations relatives aux constantes physiques fondamentales.ORGANISATION
-      INTERNATIONALE DE MÉTROLOGIE Ll�GALE - OIMLinstituée par la « Convention internationale
-      de Métrologie légale » - Paris, 1955 et qui a pour buts principaux :de déterminer
-      les principes généraux de la métrologie légale,d''étudier dans un but d''unification
-      les problèmes de caractère législatif et réglemen-taire de métrologie légale
-      dont la solution est d''intérêt international,d''établir un projet de loi et
-      de règlement types sur les instruments de mesurage et leur utilisation,d''élaborer
-      un projet d''organisation matérielle d''un service type de vérification et de
-      contrôle des instruments de mesurage,de fixer les caractéristiques et les qualités
-      nécessaires et suffisantes que doivent présenter les instruments de mesurage
-      pour qu''ils soient approuvés par les États-membres et pour que leur emploi
-      puisse être recommandé sur le plan international.L''Organisation Internationale
-      de Métrologie Légale comprend : la Conférence Internationale de Métrologie Légale,le
-      Comité International de 1\-:(étrologie Légale,le Bureau International de Métrologie
-      Légale - BIML.'
+  definition: []
   examples: []
   id: 0.6-fra
   notes: []
@@ -79,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: M�TROLOGIE
-  language_code: fra
-  entry_status: valid
+    designation: MÉTROLOGIE LÉGALE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e560744d-00dd-556c-888a-e34504998972
+id: 28fd9199-31a2-523d-9032-5b84707966aa

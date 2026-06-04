@@ -2,14 +2,14 @@
 data:
   identifier: '6.08'
   localized_concepts:
-    eng: 64417b3a-2e95-59c6-bc6d-5074827795f6
-    fra: 43e2d2dc-2499-531e-b0bf-121fee2c4693
+    eng: f4727d67-50d3-5f24-83a8-ad8392ed2721
+    fra: 6c2e9a30-69dc-5d38-b270-9241a61f130b
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 3e9cdd8e-7e8b-5b18-b46a-421ef4d178f4
+id: edb33c69-bd45-5e3d-8053-d6ca09b33c78
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,10 +22,10 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: interface interface that enables information to be interchanged between
-      the operator and the measuring instrument or its hardware or software components,
-      e.g. switches, keyboard, mouse, display, monitor, printer, touch-screen, software
-      window on a screen including the software that generates it
+  - content: interface that enables information to be interchanged between the operator
+      and the measuring instrument or its hardware or software components, e.g. switches,
+      keyboard, mouse, display, monitor, printer, touch-screen, software window on
+      a screen including the software that generates it
   examples: []
   id: 6.08-eng
   notes: []
@@ -33,18 +33,23 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: user
-  language_code: eng
-  entry_status: valid
+    designation: user interface
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 64417b3a-2e95-59c6-bc6d-5074827795f6
+id: f4727d67-50d3-5f24-83a8-ad8392ed2721
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: limite d'erreur
+  - content: interface permettant l’échange d’informations entre l’utilisateur et
+      l’instrument de mesure, ses composants matériels ou sa partie logicielle comme
+      un bouton, un clavier, une souris, un écran, un moniteur, une imprimante, un
+      écran tactile, une fenêtre logicielle sur un écran, y compris le logiciel permettant
+      de la générer Annex A Terms relating to conformity assessment (Normative) Annexe
+      A Termes relatifs à l'évaluation de la conformité (Normative)
   examples: []
   id: 6.08-fra
   notes: []
@@ -52,8 +57,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: L
-  language_code: fra
-  entry_status: valid
+    designation: interface utilisateur
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 43e2d2dc-2499-531e-b0bf-121fee2c4693
+id: 6c2e9a30-69dc-5d38-b270-9241a61f130b

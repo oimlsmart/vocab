@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.2.3
+  localized_concepts:
+    fra: 8f4ff11d-11b1-552b-a6e8-3aec23289990
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 81841012-0b8d-5479-8739-14f9a9dd1c03
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.2.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR D'UN APPAREIL MESUREUR
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 8f4ff11d-11b1-552b-a6e8-3aec23289990

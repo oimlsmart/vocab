@@ -1,0 +1,75 @@
+---
+data:
+  identifier: A.29
+  localized_concepts:
+    eng: 241b0529-1cdf-522c-9720-cf55154082f4
+    fra: 78be8c2a-3336-5b34-a939-8f8f52aa48d9
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 35a6a782-2aee-5336-aa36-9f93d9ee3bcf
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.29
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment accorded to products or processes originating in other countries
+      that is no less favorable than that accorded to like products or processes of
+      national origin, or originating in any other country, in a comparable situation
+  examples: []
+  id: A.29-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equal and national treatment
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 241b0529-1cdf-522c-9720-cf55154082f4
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: traitement accordé aux produits ou aux processus provenant d'autres pays
+      qui n'est pas moins favorable que celui accordé à des produits ou processus
+      similaires, d'origine nationale ou provenant de tout autre pays, dans une situation
+      comparable
+  examples: []
+  id: A.29-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traitement égal et national
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 78be8c2a-3336-5b34-a939-8f8f52aa48d9

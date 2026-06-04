@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.1.4.1
+  localized_concepts:
+    fra: ebd988a7-cc15-5158-a6d1-8d02d93fa03d
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 3b8949bf-76c4-56b1-be2a-30a0cddece08
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.1.4.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR PARTIELLE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: ebd988a7-cc15-5158-a6d1-8d02d93fa03d

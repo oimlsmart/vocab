@@ -25,6 +25,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.24
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.13
 status: valid
 id: a4388dc4-bfbb-57d8-acc8-add364c673c0
 schema_version: '3'
@@ -39,8 +43,8 @@ data:
   examples: []
   id: A.13-eng
   notes:
-  - content: "“Candidates” are included for the situation where a new group is being
-      formed, at which time there would be no bodies in the group."
+  - content: “Candidates” are included for the situation where a new group is being
+      formed, at which time there would be no bodies in the group.
   - content: The term “peer assessment” is sometimes referred to as “peer evaluation”.
   sources:
   - origin:

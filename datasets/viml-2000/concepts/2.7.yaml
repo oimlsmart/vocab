@@ -2,26 +2,52 @@
 data:
   identifier: '2.7'
   localized_concepts:
-    fra: c742185f-e066-587e-b5dd-0a1087767d09
+    eng: f4db06fe-b258-50f0-8373-59147a057fe1
+    fra: 0df6eae5-64d3-5616-9d93-c3ef9d116619
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 75e7d755-9c91-5deb-882c-c80aa29dc3cf
+id: 2d42a3d5-fbe2-5579-9a56-4b037f161004
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.07'
+    id: '2.06'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: métrologique
+  - content: 'approval of a type of measuring instrument that is linked with one or
+      more specific restrictions such as: the period of validity, number of instruments
+      covered by the approval, obligation to notify the competent authorities of the
+      place of installation of each instrument, use of the instrument'
+  examples: []
+  id: 2.7-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approval with limited effect
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: f4db06fe-b258-50f0-8373-59147a057fe1
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'approbation d’un type d’instrument de mesure associée à une ou plusieurs
+      restrictions telles que: la période de validité, le nombre d’instruments couverts
+      par l’approbation, l’obligation de notifier aux autorités compétentes le lieu
+      d’installation de chaque instrument, l’utilisation de l’instrument'
   examples: []
   id: 2.7-fra
   notes: []
@@ -29,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: assurance
-  language_code: fra
-  entry_status: valid
+    designation: approbation de type d’effet limité
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: c742185f-e066-587e-b5dd-0a1087767d09
+id: 0df6eae5-64d3-5616-9d93-c3ef9d116619

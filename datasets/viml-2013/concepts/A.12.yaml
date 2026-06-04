@@ -1,0 +1,67 @@
+---
+data:
+  identifier: A.12
+  localized_concepts:
+    eng: 80492a3b-a1ac-54fd-92d9-2a1415167706
+    fra: e712c447-2717-5e9b-b976-85e51d24c746
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 05568396-b592-5e9d-b7c8-498960d4413d
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.12
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: systematic, independent, documented process for obtaining records, statements
+      of fact or other relevant information and assessing them objectively to determine
+      the extent to which specified requirements are fulfilled
+  examples: []
+  id: A.12-eng
+  notes:
+  - content: Whilst “audit” applies to management systems, “assessment” applies to
+      conformity assessment bodies as well as more generally. [ISO/IEC 17000:2004,
+      4.4]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: audit
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 80492a3b-a1ac-54fd-92d9-2a1415167706
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: processus systématique, indépendant et documenté, permettant d'obtenir
+      des enregistrements, des énoncés de faits ou d'autres informations pertinentes,
+      et de les évaluer de manière objective pour déterminer dans quelle mesure les
+      exigences spécifiées sont respectées
+  examples: []
+  id: A.12-fra
+  notes:
+  - content: Alors que le terme « audit » s'applique aux systèmes de management, «
+      évaluation » s'applique aux organismes d'évaluation de la conformité et s'utilise
+      aussi d'une façon plus générale. [ISO/CEI 17000:2004, 4.4]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: audit
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: e712c447-2717-5e9b-b976-85e51d24c746

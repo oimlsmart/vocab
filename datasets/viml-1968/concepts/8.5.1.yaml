@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.5.1
+  localized_concepts:
+    fra: a2d070da-44b5-5800-96e9-f08a6defc8ed
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 36844324-12ba-5f1e-841c-bdda5f86a589
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.5.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR DE LECTURE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: a2d070da-44b5-5800-96e9-f08a6defc8ed

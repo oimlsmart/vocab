@@ -2,14 +2,14 @@
 data:
   identifier: '5.22'
   localized_concepts:
-    eng: 61ab87de-6e2c-5115-b797-6fd02a1607ba
-    fra: ecaaf1ec-1466-540c-a02b-badfd5d1d7f0
+    eng: 2290033a-d69b-50f1-ac7f-cf4d72ce92ce
+    fra: bf3802d8-e472-5b6a-a23a-4e1e06c20b3c
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 18477564-8b3f-5427-b3b4-5773006e357e
+id: e5cfddc7-7486-5d36-94c0-4422dc75f262
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: test test intended to verify whether the EUT is able to maintain its
-      performance characteristics over a period of use
+  - content: test intended to verify whether the EUT is able to maintain its performance
+      characteristics over a period of use
   examples: []
   id: 5.22-eng
   notes: []
@@ -31,18 +31,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: durability
-  language_code: eng
-  entry_status: valid
+    designation: durability test
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 61ab87de-6e2c-5115-b797-6fd02a1607ba
+id: 2290033a-d69b-50f1-ac7f-cf4d72ce92ce
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de performance
+  - content: essai permettant de vérifier si l'ESE est capable de conserver ses caractéristiques
+      de performance après un certain temps d’utilisation 6. Software in legal metrology
+      6. Logiciels en métrologie légale
   examples: []
   id: 5.22-fra
   notes: []
@@ -50,8 +52,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: essai
-  language_code: fra
-  entry_status: valid
+    designation: essai de durabilité
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: ecaaf1ec-1466-540c-a02b-badfd5d1d7f0
+id: bf3802d8-e472-5b6a-a23a-4e1e06c20b3c

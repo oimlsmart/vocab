@@ -2,20 +2,20 @@
 data:
   identifier: '2.22'
   localized_concepts:
-    eng: e8e02d51-a93d-59da-bc2f-9b5b868b9294
-    fra: 4721d6ea-deca-5892-b88c-3634534df4e7
+    eng: 591b2ab5-6e01-5d35-87de-ed621f377e05
+    fra: 2905baa1-76c7-5b0a-8288-3f74809d7d9a
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 59ca5458-e09a-5e88-9b6b-bf63340a0ef7
+id: ff875340-70f7-50c0-aba7-c3f20ebd7dbb
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.22'
+    id: '2.24'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,9 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of a verification mark cancellation of the verification mark when it
-      has been found that the measuring instrument no longer complies with the statutory
-      requirements
+  - content: cancellation of the verification mark when it has been found that the
+      measuring instrument no longer complies with the statutory requirements
   examples: []
   id: 2.22-eng
   notes: []
@@ -36,19 +35,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: obliteration
-  language_code: eng
-  entry_status: valid
+    designation: obliteration of a verification mark
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: e8e02d51-a93d-59da-bc2f-9b5b868b9294
+id: 591b2ab5-6e01-5d35-87de-ed621f377e05
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d'accréditation A.3 organisme d'évaluation de la conformité A.2 organisme
-      national responsable
+  - content: d’une marque de vérification annulation de la marque de vérification
+      quand il a été constaté que l’instrument de mesure ne satisfait plus aux exigences
+      réglementaires
   examples: []
   id: 2.22-fra
   notes: []
@@ -56,8 +56,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: organisme
-  language_code: fra
-  entry_status: valid
+    designation: oblitération
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 4721d6ea-deca-5892-b88c-3634534df4e7
+id: 2905baa1-76c7-5b0a-8288-3f74809d7d9a

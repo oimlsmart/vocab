@@ -1,0 +1,65 @@
+---
+data:
+  identifier: A.11
+  localized_concepts:
+    eng: 7b2f0d26-cc32-5d6c-a7ee-8524983317aa
+    fra: 65e69673-179a-5194-92ea-a73f78058f04
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 0807d723-e693-5b9d-9b8d-e106593b6214
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.11
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examination of a product design, product, process or installation and
+      determination of its conformity with specific requirements or, on the basis
+      of professional judgment, with general requirements
+  examples: []
+  id: A.11-eng
+  notes:
+  - content: Inspection of a process may include inspection of persons, facilities,
+      technology and methodology. [ISO/IEC 17000:2004, 4.3]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 7b2f0d26-cc32-5d6c-a7ee-8524983317aa
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examen de la conception d'un produit, d'un produit, d'un processus ou
+      d'une installation et détermination de leur conformité à des exigences spécifiques
+      ou, sur la base d'un jugement professionnel, à des exigences générales
+  examples: []
+  id: A.11-fra
+  notes:
+  - content: L'inspection d'un processus peut comprendre l'inspection du personnel,
+      des installations, de la technologie et de la méthodologie. [ISO/CEI 17000:2004,
+      4.3]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 65e69673-179a-5194-92ea-a73f78058f04

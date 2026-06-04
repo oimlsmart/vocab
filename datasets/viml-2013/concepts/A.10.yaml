@@ -1,0 +1,62 @@
+---
+data:
+  identifier: A.10
+  localized_concepts:
+    eng: 8b5f4fac-716c-5145-ba1a-f07707a8b26a
+    fra: d731df55-d884-5a1d-b81e-c5c2a5a8c622
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: c994b23c-a581-59a1-863a-4258f6a14258
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.10
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: determination of one or more characteristics of an object of conformity
+      assessment, according to a procedure
+  examples: []
+  id: A.10-eng
+  notes:
+  - content: “Testing” typically applies to materials, products or processes. [ISO/IEC
+      17000:2004, 4.2]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: testing
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 8b5f4fac-716c-5145-ba1a-f07707a8b26a
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: détermination d'une ou de plusieurs caractéristiques d'un objet de l'évaluation
+      de la conformité, selon une procédure
+  examples: []
+  id: A.10-fra
+  notes:
+  - content: Le terme « essai » s'applique typiquement aux matériaux, produits ou
+      processus. [ISO/CEI 17000:2004, 4.2]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: essai
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d731df55-d884-5a1d-b81e-c5c2a5a8c622

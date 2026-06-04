@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.6.4
+  localized_concepts:
+    fra: 5941de09-f626-5a87-927e-76b1e8f1bf46
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 73130a61-ec2a-5fcb-b355-e542aa11a122
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.6.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UNITÉ DE MESURE DÉRIVÉE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5941de09-f626-5a87-927e-76b1e8f1bf46

@@ -2,14 +2,14 @@
 data:
   identifier: '5.02'
   localized_concepts:
-    eng: 9c75584a-4583-52fb-a143-38c3875bca5d
-    fra: e357e568-cb58-5c93-b703-45df1cbc66eb
+    eng: 29034262-323b-56e4-9049-da9ca4fc0780
+    fra: 4f006fcb-e504-55c8-b651-f1c316117523
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: a5187660-3441-55dd-99a8-ae019c92bf1c
+id: 2ab1faa1-1d12-5bd3-8b1a-97238aac091c
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: scale interval value, expressed in an appropriate unit, used for the
-      classification and verification of an instrument
+  - content: value, expressed in an appropriate unit, used for the classification
+      and verification of an instrument
   examples: []
   id: 5.02-eng
   notes: []
@@ -31,18 +31,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: verification
-  language_code: eng
-  entry_status: valid
+    designation: verification scale interval
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 9c75584a-4583-52fb-a143-38c3875bca5d
+id: 29034262-323b-56e4-9049-da9ca4fc0780
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de vérification
+  - content: valeur, exprimée dans une unité appropriée, utilisée pour la classification
+      et la vérification d’un instrument
   examples: []
   id: 5.02-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: équipement
-  language_code: fra
-  entry_status: valid
+    designation: échelon de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: e357e568-cb58-5c93-b703-45df1cbc66eb
+id: 4f006fcb-e504-55c8-b651-f1c316117523

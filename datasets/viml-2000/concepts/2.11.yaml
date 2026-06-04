@@ -2,35 +2,61 @@
 data:
   identifier: '2.11'
   localized_concepts:
-    fra: 96eca861-2973-55c5-b4e9-265ac3e782cd
+    eng: c78ce5a5-b3d5-5784-b05e-833e58164992
+    fra: 83279918-ca76-5dd9-b91f-47f14a9b082b
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: ed3ccc41-9f29-52fb-92cb-29610c265059
+id: 1d980cbd-ac30-5304-a212-c0e1e972158b
 schema_version: '3'
-related:
-- type: superseded_by
-  ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '2.11'
+related: []
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of a measurement standard
+  - content: testing and evaluation of measuring instruments to ascertain whether
+      or not a single instrument, an instrument lot or a production series of instruments
+      comply with all statutory requirements applicable to this instrument type
   examples: []
-  id: 2.11-fra
-  notes: []
+  id: 2.11-eng
+  notes:
+  - content: 'Conformity assessment does not only concern metrological requirements
+      but also requirements relating to: safety, EMC, software identification, ease
+      of use, marking, etc.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: Ddocumentation
-  language_code: fra
-  entry_status: valid
+    designation: conformity assessment of a measuring instrument
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 96eca861-2973-55c5-b4e9-265ac3e782cd
+id: c78ce5a5-b3d5-5784-b05e-833e58164992
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: essai et évaluation d’instruments de mesure visant à s’assurer qu’un
+      instrument individuel, un lot d’instruments ou une production en série d’instruments
+      satisfont ou non à toutes les exigences réglementaires applicables au type d’instrument
+  examples: []
+  id: 2.11-fra
+  notes:
+  - content: 'L’évaluation de conformité ne concerne pas seulement les exigences métrologiques
+      mais aussi des exigences relatives à: la sécurité, la compatibilité électromagnétique,
+      l’identification des logiciels, la facilité d’utilisation, le marquage, etc.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de conformité d’un instrument de mesure
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 83279918-ca76-5dd9-b91f-47f14a9b082b

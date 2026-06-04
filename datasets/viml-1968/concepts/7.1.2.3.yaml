@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 7.1.2.3
+  localized_concepts:
+    fra: b80fcad8-a036-5a46-9464-34ee2ebc0cb2
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: e23e0c40-5d5e-57e4-9bf5-f6bdd7adab24
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.1.2.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: EXEMPLAIRE TÉMOIN D'UN MODÈLE APPROUVÉ
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: b80fcad8-a036-5a46-9464-34ee2ebc0cb2

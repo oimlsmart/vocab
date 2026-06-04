@@ -2,14 +2,14 @@
 data:
   identifier: '6.01'
   localized_concepts:
-    eng: 448a843a-e40b-5763-94cc-66b5c4efd10c
-    fra: b57a15fb-c9fd-5ce1-a98d-d7dbca87a869
+    eng: e6493031-f9b7-5064-864c-95aaf018d2aa
+    fra: bdf1d997-af8d-5ded-a33d-6529fea1b5d0
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 0aa73cea-6ce2-5c7d-94c3-1869a86f087e
+id: 61f567b6-9f51-5d74-ab27-593f5a9ee49f
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,9 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: identification sequence of readable characters (e.g. version number,
-      checksum) that is inextricably linked to the software or software module under
-      consideration
+  - content: sequence of readable characters (e.g. version number, checksum) that
+      is inextricably linked to the software or software module under consideration
   examples: []
   id: 6.01-eng
   notes:
@@ -33,26 +32,29 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: software
-  language_code: eng
-  entry_status: valid
+    designation: software identification
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 448a843a-e40b-5763-94cc-66b5c4efd10c
+id: e6493031-f9b7-5064-864c-95aaf018d2aa
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: séquence de caractères lisibles (par exemple un numéro de version, une
+      somme de contrôle) inextricablement liée au logiciel ou module de logiciel considéré
   examples: []
   id: 6.01-fra
-  notes: []
+  notes:
+  - content: Elle peut être vérifiée sur un instrument en service.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: indication
-  language_code: fra
-  entry_status: valid
+    designation: identification du logiciel
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b57a15fb-c9fd-5ce1-a98d-d7dbca87a869
+id: bdf1d997-af8d-5ded-a33d-6529fea1b5d0

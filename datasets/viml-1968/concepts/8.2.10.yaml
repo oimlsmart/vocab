@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.2.10
+  localized_concepts:
+    fra: 89d4dc2d-8339-5592-aa62-aa67f45ec8da
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 42857b05-bc38-5ab7-a0ac-3f6b663c9293
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.2.10-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR DUE À LA TEMPÉRATURE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 89d4dc2d-8339-5592-aa62-aa67f45ec8da

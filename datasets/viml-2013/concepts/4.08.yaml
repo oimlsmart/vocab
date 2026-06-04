@@ -2,14 +2,14 @@
 data:
   identifier: '4.08'
   localized_concepts:
-    eng: b765bd86-de94-5bc7-9acd-7d2afd5f317e
-    fra: 153a7c8d-2c66-5bc1-b828-24005da0b21d
+    eng: e4bad04d-35fe-57be-8b44-e84974d472ee
+    fra: 95648f34-cfc4-543e-b063-ce782bc59f10
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: d3a5d1d9-24ea-5ce6-b51f-b18553f13176
+id: c451f6d9-88dd-565f-9990-14ef926ae7e5
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: relevant attribute of a part of a measuring instrument, a device or software
-      subject to legal control
+  - content: attribute of a part of a measuring instrument, a device or software subject
+      to legal control
   examples: []
   id: 4.08-eng
   notes: []
@@ -31,18 +31,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: legally
-  language_code: eng
-  entry_status: valid
+    designation: legally relevant
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b765bd86-de94-5bc7-9acd-7d2afd5f317e
+id: e4bad04d-35fe-57be-8b44-e84974d472ee
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: métrologique
+  - content: attribut d’une partie d’un instrument de mesure, d’un dispositif ou d’un
+      logiciel soumise au contrôle légal
   examples: []
   id: 4.08-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: caractère
-  language_code: fra
-  entry_status: valid
+    designation: caractère légal
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 153a7c8d-2c66-5bc1-b828-24005da0b21d
+id: 95648f34-cfc4-543e-b063-ce782bc59f10

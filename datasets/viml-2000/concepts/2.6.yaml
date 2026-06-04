@@ -2,26 +2,52 @@
 data:
   identifier: '2.6'
   localized_concepts:
-    fra: c693ecb5-37d0-58b9-b4c4-90938a253c0d
+    eng: b2cdecb6-62d0-5b3c-bc3b-af5d1e64cd12
+    fra: ad2935ad-b909-5b92-b19c-947a453de3b4
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 329e49b3-ce3b-5aba-9df6-e13d77eb1b88
+id: 018fc937-c296-5b1e-b16b-6c62e78e013a
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.06'
+    id: '2.05'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de type d’effet limité
+  - content: decision of legal relevance, based on the evaluation report, that the
+      type of a measuring instrument complies with the relevant statutory requirements
+      and is suitable for use in the regulated area in such a way that it is expected
+      to provide reliable measurement results over a defined period of time
+  examples: []
+  id: 2.6-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approval
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: b2cdecb6-62d0-5b3c-bc3b-af5d1e64cd12
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision de portée légale, basée sur le rapport d’évaluation, selon laquelle
+      le type d’instrument de mesure satisfait aux exigences réglementaires applicables
+      et peut être utilisé dans le domaine réglementé en donnant des résultats de
+      mesure fiables tout au long d’une période de temps définie
   examples: []
   id: 2.6-fra
   notes: []
@@ -29,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: approbation
-  language_code: fra
-  entry_status: valid
+    designation: approbation de type
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: c693ecb5-37d0-58b9-b4c4-90938a253c0d
+id: ad2935ad-b909-5b92-b19c-947a453de3b4

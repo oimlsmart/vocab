@@ -2,14 +2,15 @@
 data:
   identifier: '5.1'
   localized_concepts:
-    fra: e55e5065-1c3c-5843-a7be-b8aa6dceae03
+    fra: 901c572b-852d-535c-a394-903ca79b0c2b
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 24480819-dfb0-50d1-ae04-67411e62265f
+id: b2f8c746-b1c4-5ef3-8adc-7c968fb1ce32
 schema_version: '3'
+
 ---
 data:
   dates:
@@ -23,7 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-  language_code: fra
-  entry_status: valid
+    designation: MESURAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e55e5065-1c3c-5843-a7be-b8aa6dceae03
+id: 901c572b-852d-535c-a394-903ca79b0c2b

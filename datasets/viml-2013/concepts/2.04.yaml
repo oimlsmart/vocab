@@ -2,20 +2,20 @@
 data:
   identifier: '2.04'
   localized_concepts:
-    eng: cbaf9ba0-cf41-5b42-a1cf-72be594a0477
-    fra: 9386ecc8-9b4e-5873-9cd3-bbcd4def931d
+    eng: e5a7c93b-b317-52b9-b46f-a30646520b8f
+    fra: 3af7f0cd-86a4-54d6-af82-6b4feec16ff3
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 721bf3b8-e29a-5a37-a07b-daba3c0b622a
+id: c3e65543-6593-5d14-b784-f314461dfad0
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.4'
+    id: '2.5'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,39 +26,46 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "(pattern) evaluation conformity assessment procedure on one or more
-      specimens of an identified type (pattern) of measuring instruments which results
-      in an evaluation report and / or an evaluation certificate"
+  - content: conformity assessment procedure on one or more specimens of an identified
+      type (pattern) of measuring instruments which results in an evaluation report
+      and / or an evaluation certificate
   examples: []
   id: 2.04-eng
   notes:
-  - content: "“Pattern” is used in legal metrology with the same meaning as “type”;
-      in the entries below, only “type” is used."
+  - content: “Pattern” is used in legal metrology with the same meaning as “type”;
+      in the entries below, only “type” is used.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: type
-  language_code: eng
-  entry_status: valid
+    designation: type (pattern) evaluation
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: cbaf9ba0-cf41-5b42-a1cf-72be594a0477
+id: e5a7c93b-b317-52b9-b46f-a30646520b8f
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: par des pairs A.13 événement
+  - content: procédure d’évaluation de la conformité d’un ou plusieurs exemplaires
+      d’un type (modèle) identifié d’instrument de mesure conduisant à l’établissement
+      d’un rapport d’évaluation et/ou d’un certificat d’évaluation
   examples: []
   id: 2.04-fra
-  notes: []
+  notes:
+  - content: « Modèle » est utilisé en métrologie légale avec la même signification
+      que « type »; dans les définitions ci-après, seul « type » est utilisé.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: évaluation
-  language_code: fra
-  entry_status: valid
+    designation: évaluation de type
+  - type: expression
+    normative_status: admitted
+    designation: modèle
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 9386ecc8-9b4e-5873-9cd3-bbcd4def931d
+id: 3af7f0cd-86a4-54d6-af82-6b4feec16ff3

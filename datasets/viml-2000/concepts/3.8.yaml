@@ -2,21 +2,50 @@
 data:
   identifier: '3.8'
   localized_concepts:
-    fra: '088cc007-aedc-53ef-a941-40551ab68078'
+    eng: f3b82d85-74f8-5be8-bd3a-9f60c10a6c49
+    fra: 7450249e-4608-5086-904c-dbe06953987c
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: e35f407c-2a9f-5e85-886d-4782eeb987ea
+id: 45f351e9-47f5-567d-aaf9-045b59cd0699
 schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: '3.05'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de scellement
+  - content: mark applied to a measuring instrument in a conspicuous manner to indicate
+      that the measuring instrument does not comply with the statutory requirements
+      and obliterating the previously applied verification mark
+  examples: []
+  id: 3.8-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rejection mark
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: f3b82d85-74f8-5be8-bd3a-9f60c10a6c49
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: marque appliquée à un instrument de mesure de manière apparente pour
+      indiquer que l’instrument de mesure ne satisfait pas aux exigences réglementaires
+      et pour oblitérer la marque de vérification déjà appliquée
   examples: []
   id: 3.8-fra
   notes: []
@@ -24,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: marque
-  language_code: fra
-  entry_status: valid
+    designation: marque de refus
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: '088cc007-aedc-53ef-a941-40551ab68078'
+id: 7450249e-4608-5086-904c-dbe06953987c

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 5.2.5.1.2
+  localized_concepts:
+    fra: f3bba5b4-bc9a-5239-9ff9-718d033128bf
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: b19d2a80-e8e4-5178-9e1f-dfea43ffa23b
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 5.2.5.1.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: MÉTHODE DE MESURAGE PAR TRANSPOSITION
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: f3bba5b4-bc9a-5239-9ff9-718d033128bf

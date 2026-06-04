@@ -2,14 +2,14 @@
 data:
   identifier: '6.07'
   localized_concepts:
-    eng: 475e1cee-c616-5275-82b1-d520d7fede1f
-    fra: ede085e8-21b9-5c2f-a04b-02dacdbf76ea
+    eng: 80734a4f-d3c4-5904-9f9f-3b2a98a80b11
+    fra: 8c168d0f-01fe-5497-b6e6-fcb86980f482
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 0327c0d2-a41d-5917-8f98-28a20a167e2a
+id: 810dbd8f-0c80-5801-b3cd-fe9ed2789670
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,9 +22,9 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device device used for storing measurement data after completion of the
-      measurement and keeping it available for later legally relevant purposes (e.g.
-      the conclusion of a commercial transaction)
+  - content: device used for storing measurement data after completion of the measurement
+      and keeping it available for later legally relevant purposes (e.g. the conclusion
+      of a commercial transaction)
   examples: []
   id: 6.07-eng
   notes: []
@@ -32,18 +32,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: storage
-  language_code: eng
-  entry_status: valid
+    designation: storage device
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 475e1cee-c616-5275-82b1-d520d7fede1f
+id: 80734a4f-d3c4-5904-9f9f-3b2a98a80b11
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: indicateur
+  - content: dispositif permettant de mémoriser les données après la réalisation du
+      mesurage et de les conserver accessibles à des fins ultérieures à caractère
+      métrologique (par exemple, la conclusion d’une transaction commerciale)
   examples: []
   id: 6.07-fra
   notes: []
@@ -51,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: dispositif
-  language_code: fra
-  entry_status: valid
+    designation: dispositif de mémorisation
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: ede085e8-21b9-5c2f-a04b-02dacdbf76ea
+id: 8c168d0f-01fe-5497-b6e6-fcb86980f482

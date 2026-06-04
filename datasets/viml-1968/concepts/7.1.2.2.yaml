@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 7.1.2.2
+  localized_concepts:
+    fra: a3a5bf01-a818-5b1f-a4c9-9ed9837ea349
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: ce36666a-1db1-5e7a-b0f2-0de13bd10b69
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.1.2.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: MODÈLE APPROUVÉ
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: a3a5bf01-a818-5b1f-a4c9-9ed9837ea349

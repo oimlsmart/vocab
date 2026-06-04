@@ -2,26 +2,46 @@
 data:
   identifier: '3.2'
   localized_concepts:
-    fra: 4bdfc40b-07fd-5ba8-a654-582906cf070e
+    eng: 87e034cd-fbf4-5625-9e63-843f534d59dd
+    fra: 31c9277e-89db-564e-9b17-438df5cc303c
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: '0180e20c-090d-573b-b006-d49d60be1001'
+id: e206d530-640c-5a79-8bd5-ff9a38ad6e95
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '3.02'
+    id: '3.01'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de vérification
+  - content: document certifying that type approval has been granted
+  examples: []
+  id: 3.2-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approval certificate
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 87e034cd-fbf4-5625-9e63-843f534d59dd
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document certifiant que l’approbation de type a été octroyée
   examples: []
   id: 3.2-fra
   notes: []
@@ -29,8 +49,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: certificat
-  language_code: fra
-  entry_status: valid
+    designation: certificat d’approbation de type
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 4bdfc40b-07fd-5ba8-a654-582906cf070e
+id: 31c9277e-89db-564e-9b17-438df5cc303c

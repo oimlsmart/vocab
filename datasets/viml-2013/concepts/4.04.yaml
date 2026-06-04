@@ -2,20 +2,16 @@
 data:
   identifier: '4.04'
   localized_concepts:
-    eng: 8bbc8bba-1dcf-543a-8edd-7c92f4d4cff6
-    fra: b53bfb02-7af3-5f61-a614-f187d3fd9719
+    eng: 0385c1fb-51d0-57e9-b4a8-aea37fd80ff4
+    fra: dc5ced7f-2500-5c65-83fb-80068bbc1b66
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: deca0d21-4637-5efb-9650-9c285907f04c
+id: 3026b15e-3e87-5bea-9554-97946cb65146
 schema_version: '3'
 related:
-- type: supersedes
-  ref:
-    source: urn:oiml:pub:v:1:2000
-    id: '4.4'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -40,17 +36,23 @@ data:
   - type: expression
     normative_status: preferred
     designation: module
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 8bbc8bba-1dcf-543a-8edd-7c92f4d4cff6
+id: 0385c1fb-51d0-57e9-b4a8-aea37fd80ff4
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: nombre d'échelons de vérification
+  - content: 'partie identifiable d’un instrument de mesure ou d’une famille d’instruments
+      de mesure ayant une ou plusieurs fonctions spécifiques et qui peut être évaluée
+      séparément, en application des exigences de performances métrologiques et techniques
+      fixées dans la Recommandation applicable Exemple Les modules typiques d’un instrument
+      de pesage sont : le module de pesage, la cellule de pesage, l’indicateur, le
+      dispositif analogique ou numérique d’élaboration des données, le terminal ou
+      l’afficheur principal.'
   examples: []
   id: 4.04-fra
   notes: []
@@ -58,8 +60,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "N"
-  language_code: fra
-  entry_status: valid
+    designation: module
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b53bfb02-7af3-5f61-a614-f187d3fd9719
+id: dc5ced7f-2500-5c65-83fb-80068bbc1b66

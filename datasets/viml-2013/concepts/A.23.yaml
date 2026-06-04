@@ -1,0 +1,75 @@
+---
+data:
+  identifier: A.23
+  localized_concepts:
+    eng: 75805077-b3d5-5981-a267-7fc01b953549
+    fra: a06bc0cc-487e-5596-a7c1-2fa37f253251
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: d9414264-bd6c-55dd-a560-7a74b2c2dcbc
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.23
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression of dissatisfaction, other than appeal, by any person or organization
+      to a conformity assessment body or accreditation body, relating to the activities
+      of that body, where a response is expected
+  examples: []
+  id: A.23-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '6.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complaint
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 75805077-b3d5-5981-a267-7fc01b953549
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression de mécontentement, autre qu'un appel, émise par une personne
+      ou une organisation à un organisme d'évaluation de la conformité ou à un organisme
+      d'accréditation relative aux activités de cet organisme, à laquelle une réponse
+      est attendue
+  examples: []
+  id: A.23-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '6.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plainte
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a06bc0cc-487e-5596-a7c1-2fa37f253251

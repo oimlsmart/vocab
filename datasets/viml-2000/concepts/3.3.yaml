@@ -2,26 +2,48 @@
 data:
   identifier: '3.3'
   localized_concepts:
-    fra: 774a6cce-41d9-5d08-802e-1cc44bd13dda
+    eng: e07b4595-9acc-5f5c-9bb6-11f4f2e82868
+    fra: 13e3e1af-1d2c-5487-9c7f-9d3c6290dab0
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: d46d0277-e028-57bf-b59c-549fe67cd980
+id: 9247802a-7495-5d4c-b338-b09595e15a72
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '3.03'
+    id: '3.02'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’expertise métrologique
+  - content: document certifying that the verification of the measuring instrument
+      was carried out with a satisfactory result
+  examples: []
+  id: 3.3-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification certificate
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: e07b4595-9acc-5f5c-9bb6-11f4f2e82868
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document certifiant que la vérification d’un instrument de mesure a été
+      effectuée avec un résultat satisfaisant
   examples: []
   id: 3.3-fra
   notes: []
@@ -29,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: certificat
-  language_code: fra
-  entry_status: valid
+    designation: certificat de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 774a6cce-41d9-5d08-802e-1cc44bd13dda
+id: 13e3e1af-1d2c-5487-9c7f-9d3c6290dab0

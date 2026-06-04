@@ -2,30 +2,42 @@
 data:
   identifier: '2.18'
   localized_concepts:
-    fra: 6f34e4aa-51b2-5503-9364-abbb77a68c74
+    eng: 70d2e113-08fe-5626-ad19-d77f02e4aa20
+    fra: 21da7783-c313-5150-9285-e2926fa00e30
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 3cfa497e-ad15-5c9e-a284-7261f5b58e69
+id: de8a9cd6-8db1-5641-9247-d4c690146707
 schema_version: '3'
-related:
-- type: superseded_by
-  ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '2.18'
+related: []
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'page Page blancheImprimé en France / Printed in France GRANDE IMPRIMERIE
-      DE TROYESBlank page Page blancheBlank page Page blancheOIML Secretariat: B UREAU
-      I NTERNATIONAL DE M ÉTROLOGIE L ÉGALE (BIML) 11, R ue T urgot – 75009 Paris
-      – F rance TEL : 33 (0)1 48 78 12 82 – 33 (0)1 42 85 27 11 FA X : 33 (0)1 42
-      82 17 27 E - MAIL : biml@oiml.org INTERNET: www.oiml.org'
+  - content: any verification which does not result from the application of obligation
+  examples: []
+  id: 2.18-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: voluntary verification
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 70d2e113-08fe-5626-ad19-d77f02e4aa20
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: toute vérification qui ne résulte pas de l’application d’une obligation
   examples: []
   id: 2.18-fra
   notes: []
@@ -33,8 +45,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Blank
-  language_code: fra
-  entry_status: valid
+    designation: vérification volontaire
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 6f34e4aa-51b2-5503-9364-abbb77a68c74
+id: 21da7783-c313-5150-9285-e2926fa00e30

@@ -2,14 +2,14 @@
 data:
   identifier: '6.02'
   localized_concepts:
-    eng: 2551d71c-a198-5382-a7fc-45c5f3a3fd3b
-    fra: 1a5aa9d5-dcb7-5b21-b6ef-30a390cd6371
+    eng: 16d17bd7-e657-5ccf-b1fc-7523ac6f0f79
+    fra: d8fbbda7-49d6-5183-9f7f-733a56463496
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 0db9abe8-16db-5e21-b578-fc9cd73bfd45
+id: b4aabccc-9df6-5ef1-b709-46a3e19605c1
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: separation separation of the software in measuring instruments, which
-      can be divided into a legally relevant part and a legally non-relevant part
+  - content: separation of the software in measuring instruments, which can be divided
+      into a legally relevant part and a legally non-relevant part
   examples: []
   id: 6.02-eng
   notes:
@@ -32,27 +32,29 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: software
-  language_code: eng
-  entry_status: valid
+    designation: software separation
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 2551d71c-a198-5382-a7fc-45c5f3a3fd3b
+id: 16d17bd7-e657-5ccf-b1fc-7523ac6f0f79
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: surveillance métrologique
+  - content: séparation du logiciel d’un instrument de mesure, qui peut être divisé
+      en une partie à caractère légal et une partie n’ayant pas de caractère légal
   examples: []
   id: 6.02-fra
-  notes: []
+  notes:
+  - content: Ces parties communiquent par une interface logicielle.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: surveillance A.20
-  language_code: fra
-  entry_status: valid
+    designation: séparation du logiciel
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 1a5aa9d5-dcb7-5b21-b6ef-30a390cd6371
+id: d8fbbda7-49d6-5183-9f7f-733a56463496

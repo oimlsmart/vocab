@@ -2,22 +2,21 @@
 data:
   identifier: '8.6'
   localized_concepts:
-    fra: 12cd13e5-ceee-59d6-94d1-b8770377d063
+    fra: fb0c7bad-3598-5879-87c6-19c2b900994c
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 2f5d1bbc-04d1-581e-bd96-83e274896f96
+id: ad64a3b2-2d60-51e7-ab63-425b692c135f
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: de corredlon d'un instmment de mesurage ...................................
-      .
+  definition: []
   examples: []
   id: 8.6-fra
   notes: []
@@ -25,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: l56.Courbe
-  language_code: fra
-  entry_status: valid
+    designation: COURBE D'ERREURS D'UN INSTRUMENT DE MESURAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 12cd13e5-ceee-59d6-94d1-b8770377d063
+id: fb0c7bad-3598-5879-87c6-19c2b900994c

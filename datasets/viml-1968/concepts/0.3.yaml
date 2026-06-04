@@ -2,14 +2,15 @@
 data:
   identifier: '0.3'
   localized_concepts:
-    fra: bb7172f0-e374-58f1-93e8-86b9b0cc7957
+    fra: d45792ee-8c95-53eb-a8e5-2cec08909763
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 6b6a98cb-10b7-5f0a-8980-57ae3649fd2b
+id: efaaa608-ce4b-5bb1-84df-3c95a8fa3765
 schema_version: '3'
+
 ---
 data:
   dates:
@@ -23,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: '0.'
-  language_code: fra
-  entry_status: valid
+    designation: MÉTROLOGIE APPLIQUÉE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: bb7172f0-e374-58f1-93e8-86b9b0cc7957
+id: d45792ee-8c95-53eb-a8e5-2cec08909763

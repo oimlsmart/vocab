@@ -2,26 +2,52 @@
 data:
   identifier: '2.9'
   localized_concepts:
-    fra: 31d601f1-9559-59fa-85fb-81817f24e105
+    eng: 15d8c2c9-c7be-50ed-8934-eafef4e94cea
+    fra: f8d2bee8-8ce0-550a-8deb-22d33c35ded7
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 36d6e6b7-2431-5cb8-9d2e-96f2b4c016d6
+id: b40d3194-23c8-51a3-8ec7-46c0ffc27d63
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.09'
+    id: '2.07'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un instrument de mesure
+  - content: legal decision taken by a party either voluntarily or based on a bi-
+      or multilateral arrangement whereby a type approved by another party is recognized
+      as complying with the relevant regulatory requirements, without issuing a new
+      type approval certificate
+  examples: []
+  id: 2.9-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recognition of type approval
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 15d8c2c9-c7be-50ed-8934-eafef4e94cea
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision légale prise par une partie, volontairement ou sur la base d’un
+      arrangement bi- ou multi-latéral, selon laquelle un type approuvé par une autre
+      partie est reconnu comme satisfaisant aux exigences réglementaires applicables
+      sans délivrance d’un nouveau certificat d’approbation de type
   examples: []
   id: 2.9-fra
   notes: []
@@ -29,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: refus
-  language_code: fra
-  entry_status: valid
+    designation: reconnaissance d’une approbation de type
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 31d601f1-9559-59fa-85fb-81817f24e105
+id: f8d2bee8-8ce0-550a-8deb-22d33c35ded7

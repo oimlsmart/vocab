@@ -2,14 +2,14 @@
 data:
   identifier: '6.04'
   localized_concepts:
-    eng: 3f8bdf63-2401-5ae7-86d2-9903cd1ad31e
-    fra: 50966aa7-f6df-5b03-9e08-d9e2fdbf3b03
+    eng: 4a421de4-3150-50e4-8b82-73c8911244b8
+    fra: 1e0ab264-12d7-5d5c-879c-9bc306070ff0
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: a548c5ac-2db8-5b66-8f53-71a8c67467a3
+id: e890b847-e927-5bdf-9c4e-1a95d9f50032
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: protection protection of measuring instrument software or data domain
-      by a hardware or software implemented seal
+  - content: protection of measuring instrument software or data domain by a hardware
+      or software implemented seal
   examples: []
   id: 6.04-eng
   notes:
@@ -33,28 +33,30 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: software
-  language_code: eng
-  entry_status: valid
+    designation: software protection
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3f8bdf63-2401-5ae7-86d2-9903cd1ad31e
+id: 4a421de4-3150-50e4-8b82-73c8911244b8
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: réciprocité A.26 reconnaissance A.33 reconnaissance d'approbation de
-      type
+  - content: protection du logiciel d’un instrument de mesure ou du domaine de données
+      par la mise en œuvre d’un scellement mécanique ou électronique
   examples: []
   id: 6.04-fra
-  notes: []
+  notes:
+  - content: Le scellement doit être retiré, endommagé ou brisé pour permettre l’accès
+      à la modification du logiciel.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: R
-  language_code: fra
-  entry_status: valid
+    designation: protection du logiciel
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 50966aa7-f6df-5b03-9e08-d9e2fdbf3b03
+id: 1e0ab264-12d7-5d5c-879c-9bc306070ff0

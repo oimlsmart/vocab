@@ -2,35 +2,68 @@
 data:
   identifier: '2.5'
   localized_concepts:
-    fra: b8600f69-b088-5f07-b841-7043095d2839
+    eng: fe880604-27f2-5727-b8af-4c2d5cb7b090
+    fra: 925e6402-9e98-5366-9216-f60f6c72b67b
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: b52941e9-2393-57a1-af76-b79c061a8b6f
+id: 6b043954-6901-5a9f-97a7-afa23eb42eca
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.05'
+    id: '2.04'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de conformité au type approuvé
+  - content: systematic examination and testing of the performance of one or more
+      specimens of an identified type (pattern) of measuring instruments against documented
+      requirements, the results of which are contained in the evaluation report, in
+      order to determine whether the type may be approved
   examples: []
-  id: 2.5-fra
-  notes: []
+  id: 2.5-eng
+  notes:
+  - content: “Pattern” is used in legal metrology with the same meaning as “type”;
+      in the entries below, only “type” is used.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: examen
-  language_code: fra
-  entry_status: valid
+    designation: type evaluation
+  - type: expression
+    normative_status: admitted
+    designation: type (pattern) evaluation
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: b8600f69-b088-5f07-b841-7043095d2839
+id: fe880604-27f2-5727-b8af-4c2d5cb7b090
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: examen et essai systématiques des performances d’un ou de plusieurs exemplaires
+      d’un type (modèle) identifié d’instrument de mesure par rapport à des exigences
+      documentées et dont le résultat est contenu dans un rapport d’évaluation afin
+      de déterminer si le type peut être approuvé
+  examples: []
+  id: 2.5-fra
+  notes:
+  - content: “Modèle” est utilisé en métrologie légale avec la même signification
+      que “type”; dans les entrées ci-après, seul “type” est utilisé.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de type (modèle)
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 925e6402-9e98-5366-9216-f60f6c72b67b

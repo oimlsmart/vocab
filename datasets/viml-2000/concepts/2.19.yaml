@@ -2,26 +2,50 @@
 data:
   identifier: '2.19'
   localized_concepts:
-    fra: b9b0c19b-42cd-5d53-b194-dcceb427aa71
+    eng: 467e4745-146e-5799-a322-8058e9047532
+    fra: 06bbc1fb-947c-535b-a1af-8a404f7af030
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 4bbbb10a-9cfd-55ae-bba5-4ed5f9d77040
+id: 170dcd87-eeef-5b8f-9607-23ad6618bd8f
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.19'
+    id: '2.15'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’une approbation de type
+  - content: decision that a measuring instrument does not comply with statutory requirements
+      for verification and prohibiting its use for applications requiring mandatory
+      verification
+  examples: []
+  id: 2.19-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rejection of a measuring instrument
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 467e4745-146e-5799-a322-8058e9047532
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: décision spécifiant qu’un instrument de mesure ne satisfait pas aux exigences
+      réglementaires de vérification et interdisant son utilisation pour les applications
+      exigeant une vérification obligatoire
   examples: []
   id: 2.19-fra
   notes: []
@@ -29,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: retrait
-  language_code: fra
-  entry_status: valid
+    designation: refus d’un instrument de mesure
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: b9b0c19b-42cd-5d53-b194-dcceb427aa71
+id: 06bbc1fb-947c-535b-a1af-8a404f7af030

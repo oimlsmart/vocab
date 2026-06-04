@@ -2,13 +2,14 @@
 data:
   identifier: '1.1'
   localized_concepts:
-    fra: 680c170d-d277-56fd-be3c-9474449eae4d
+    eng: faea3464-0c55-53de-bcb3-8999a3a07be9
+    fra: d6984f3e-1dd4-5c3f-9861-374a40e46a78
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 128f6883-7764-589b-93b3-f795634737ca
+id: 93a012df-7b4a-5d37-9a77-ed48ae6c3c10
 schema_version: '3'
 related:
 - type: superseded_by
@@ -21,16 +22,49 @@ data:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: légale
+  - content: science of measurement
+  examples: []
+  id: 1.1-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: VIM
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrology
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: faea3464-0c55-53de-bcb3-8999a3a07be9
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: science de la mesure
   examples: []
   id: 1.1-fra
   notes: []
-  sources: []
+  sources:
+  - origin:
+      ref:
+        source: VIM
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: métrologie
-  language_code: fra
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 680c170d-d277-56fd-be3c-9474449eae4d
+id: d6984f3e-1dd4-5c3f-9861-374a40e46a78

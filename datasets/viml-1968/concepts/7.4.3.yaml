@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 7.4.3
+  localized_concepts:
+    fra: 04beb222-1a40-5270-b4a4-1553009f4d91
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: b09e6635-3dc0-5d3d-8ec7-3cd1453ef476
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.4.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ÉCHELON
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 04beb222-1a40-5270-b4a4-1553009f4d91

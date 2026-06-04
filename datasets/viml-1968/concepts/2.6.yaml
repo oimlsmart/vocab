@@ -2,31 +2,21 @@
 data:
   identifier: '2.6'
   localized_concepts:
-    fra: 85584bc1-9e64-5c2b-84cf-c46716c7fef9
+    fra: d4586405-dad2-546e-ac06-42fa2e66aa94
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
-related:
-- type: see
-  ref:
-    source: urn:oiml:pub:v:1:1968
-    id: '2.4'
 status: valid
-id: 88185183-74c1-5118-afc2-717a323a2bc9
+id: 8349ffc4-3e7a-565b-b10c-d9e5b799fb0f
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: "...... , . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2.42Q3.Vérification
-      complète . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-      . . . . . . . . . . . . . . . . . . . . . . . . . . .2.4,4204.Vérification cx:ceptlonncllo
-      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-      . . . . . . . . . . . . . . . . . ."
+  definition: []
   examples: []
   id: 2.6-fra
   notes: []
@@ -34,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 1,1202.Vérification
-  language_code: fra
-  entry_status: valid
+    designation: EXPERTISE MÉTROLOGIQUE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 85584bc1-9e64-5c2b-84cf-c46716c7fef9
+id: d4586405-dad2-546e-ac06-42fa2e66aa94

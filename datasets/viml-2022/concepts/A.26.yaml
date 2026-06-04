@@ -19,6 +19,11 @@ data:
 status: valid
 id: e3a11145-bde2-5fca-999e-0271420d9208
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.26
 ---
 data:
   dates:

@@ -1,0 +1,73 @@
+---
+data:
+  identifier: A.34
+  localized_concepts:
+    eng: 24026e7e-d057-51d9-a6fd-5f3e26316922
+    fra: 27096282-cade-5353-ab2c-e732295e217c
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: e6b5283d-a460-54b7-8160-90a11f42a15e
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.34
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: acceptance of conformity assessment use of a conformity assessment result
+      provided by another person or body
+  examples: []
+  id: A.34-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: acceptance
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 24026e7e-d057-51d9-a6fd-5f3e26316922
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: acceptation de résultats d'évaluation de la conformité utilisation d'un
+      résultat d'évaluation de la conformité fourni par une autre personne ou par
+      un autre organisme
+  examples: []
+  id: A.34-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: acceptation
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 27096282-cade-5353-ab2c-e732295e217c

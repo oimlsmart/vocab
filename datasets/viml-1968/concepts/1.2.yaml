@@ -2,14 +2,15 @@
 data:
   identifier: '1.2'
   localized_concepts:
-    fra: f1d49509-60e6-5510-82b8-7cb603449b10
+    fra: 3def00b8-7a6a-5516-b747-ec842fbc2f0f
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: f145cd6c-1a30-5bb3-9c4e-3907f8293e06
+id: 7da0bc26-604d-53f7-87e7-c45dc57fa2a7
 schema_version: '3'
+
 ---
 data:
   dates:
@@ -23,7 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-  language_code: fra
-  entry_status: valid
+    designation: AGENTS DE VÉRIFICATION
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f1d49509-60e6-5510-82b8-7cb603449b10
+id: 3def00b8-7a6a-5516-b747-ec842fbc2f0f

@@ -25,6 +25,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.1
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.14
 status: valid
 id: 3240f187-38fe-565f-8bb4-8dabf18d6605
 schema_version: '3'

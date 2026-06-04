@@ -1,0 +1,70 @@
+---
+data:
+  identifier: A.7
+  localized_concepts:
+    eng: b3f0a187-3d13-54b1-827d-4a25c1b3e4d1
+    fra: 0684ca0e-f0e8-54f3-b960-bf46aa28436d
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 6515dafa-efcb-5424-87c5-2895843246e9
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.7
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: specified way to carry out an activity or a process
+  examples: []
+  id: A.7-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procedure
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: b3f0a187-3d13-54b1-827d-4a25c1b3e4d1
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: manière spécifiée d'effectuer une activité ou un processus
+  examples: []
+  id: A.7-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000 :2004
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procédure
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 0684ca0e-f0e8-54f3-b960-bf46aa28436d

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.1.8.1
+  localized_concepts:
+    fra: 356d02c5-0928-5fa3-ab9f-04b3d1735cfa
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: b10cf5a7-dd24-58b7-8277-5fbb01e94e33
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.1.8.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREURS LIMITES D'UN SEUL MESURAGE DANS UNE SÉRIE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 356d02c5-0928-5fa3-ab9f-04b3d1735cfa

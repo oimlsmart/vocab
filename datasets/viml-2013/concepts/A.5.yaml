@@ -1,0 +1,65 @@
+---
+data:
+  identifier: A.5
+  localized_concepts:
+    eng: f1ee30d0-4c01-5721-876b-56ca9cc507ac
+    fra: 677484ff-ceac-5b15-903d-ee15600b4c68
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 2a1140a3-fa09-5818-98de-6abd24a7d9c0
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.5
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conformity assessment program conformity assessment system related to
+      specified objects of conformity assessment, to which the same specified requirements,
+      specific rules and procedures apply
+  examples: []
+  id: A.5-eng
+  notes:
+  - content: Conformity assessment schemes may be operated at international, regional,
+      national or sub-national level. [ISO/IEC 17000:2004, 2. 8 ]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment scheme
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: f1ee30d0-4c01-5721-876b-56ca9cc507ac
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: programme d'évaluation de la conformité système d'évaluation de la conformité
+      appliqué à des objets de l'évaluation de la conformité spécifiés auxquels s'appliquent
+      les mêmes exigences spécifiées, règles et procédures
+  examples: []
+  id: A.5-fra
+  notes:
+  - content: Les systèmes particuliers d'évaluation de la conformité peuvent s'opérer
+      aux niveaux international, régional, national ou infranational. [ISO/CEI 17000:2004,
+      2.8 ]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système particulier d'évaluation de la conformité
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 677484ff-ceac-5b15-903d-ee15600b4c68

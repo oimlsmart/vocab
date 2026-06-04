@@ -21,6 +21,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.15
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.21
 status: valid
 id: 3f9f4bf6-32ef-5b50-a5a2-576e2bd34c00
 schema_version: '3'
@@ -35,11 +39,11 @@ data:
   examples: []
   id: A.21-eng
   notes:
-  - content: "EXAMPLE 1:\tThe issuing body suspends the statement of conformity because
-      the specified requirements are no longer fulfilled.\nEXAMPLE 2:\tThe client
-      of the issuing body voluntarily requests suspension of the statement of conformity.\nEXAMPLE
-      3:\tThe issuing body suspends the statement of conformity because it temporarily
-      ceases to perform that type of conformity assessment activity."
+  - content: "EXAMPLE 1:\tThe issuing body suspends the statement of conformity because\
+      \ the specified requirements are no longer fulfilled.\nEXAMPLE 2:\tThe client\
+      \ of the issuing body voluntarily requests suspension of the statement of conformity.\n\
+      EXAMPLE 3:\tThe issuing body suspends the statement of conformity because it\
+      \ temporarily ceases to perform that type of conformity assessment activity."
   sources:
   - origin:
       ref:
@@ -68,12 +72,12 @@ data:
   examples: []
   id: A.21-fra
   notes:
-  - content: "EXAMPLE 1: \t L’organisme qui délivre l’affirmation de conformité la
-      suspend, car les exigences spécifiées ne sont plus respectées.\nEXAMPLE 2: \t
-      Le client de l’organisme qui délivre l’affirmation de conformité demande volontairement
-      sa suspension.\nEXAMPLE 3: \t L’organisme qui délivre l’affirmation de conformité
-      suspend cette dernière, car il cesse temporairement de réaliser ce type d’activité
-      d’évaluation de la conformité."
+  - content: "EXAMPLE 1: \t L’organisme qui délivre l’affirmation de conformité la\
+      \ suspend, car les exigences spécifiées ne sont plus respectées.\nEXAMPLE 2:\
+      \ \t Le client de l’organisme qui délivre l’affirmation de conformité demande\
+      \ volontairement sa suspension.\nEXAMPLE 3: \t L’organisme qui délivre l’affirmation\
+      \ de conformité suspend cette dernière, car il cesse temporairement de réaliser\
+      \ ce type d’activité d’évaluation de la conformité."
   sources:
   - origin:
       ref:

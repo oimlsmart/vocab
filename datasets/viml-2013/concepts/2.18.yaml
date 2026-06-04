@@ -2,20 +2,20 @@
 data:
   identifier: '2.18'
   localized_concepts:
-    eng: 3a73ec3d-e064-5e00-83c3-0f93eeac852d
-    fra: 36548b54-a700-5969-8bcd-5d071c65907a
+    eng: 048ff314-aeba-53e2-8aec-3ed782b2363d
+    fra: 448efc6e-7423-51c7-99c2-bd1d1eba528e
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: a258c62b-1bb2-59a9-8dee-5060e9a5e620
+id: 24d111d8-323a-54e7-9762-4bc65128fc27
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.18'
+    id: '2.22'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,9 +26,9 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: by sampling inspection of a homogeneous batch of measuring instruments
-      based on the results of evaluation of a statistically appropriate number of
-      specimens selected at random from an identified lot
+  - content: inspection of a homogeneous batch of measuring instruments based on the
+      results of evaluation of a statistically appropriate number of specimens selected
+      at random from an identified lot
   examples: []
   id: 2.18-eng
   notes:
@@ -41,27 +41,34 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: inspection
-  language_code: eng
-  entry_status: valid
+    designation: inspection by sampling
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3a73ec3d-e064-5e00-83c3-0f93eeac852d
+id: 048ff314-aeba-53e2-8aec-3ed782b2363d
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de contrôle
+  - content: inspection d’un lot homogène d’instruments de mesure basée sur les résultats
+      de l’évaluation d’un nombre statistiquement approprié d’exemplaires pris au
+      hasard dans un lot identifié
   examples: []
   id: 2.18-fra
-  notes: []
+  notes:
+  - content: Les conditions dans lesquelles les instruments concernés ont été utilisés
+      (par exemple, la qualité de l’eau pour des compteurs d’eau) peuvent être considérées
+      au titre des paramètres caractérisant l’homogénéité du lot.
+  - content: 'ISO 3534-2 donne la définition suivante : « 4.1.6 contrôle par échantillonnage
+      contrôle des individus sélectionnés dans le groupe considéré »'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: instrument
-  language_code: fra
-  entry_status: valid
+    designation: inspection par échantillonnage
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 36548b54-a700-5969-8bcd-5d071c65907a
+id: 448efc6e-7423-51c7-99c2-bd1d1eba528e

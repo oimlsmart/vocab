@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 7.4.2
+  localized_concepts:
+    fra: 424cf7e2-27f0-50bb-9df3-ffa2c1c20fe5
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: ce231218-09d8-5c83-ba26-d8fcdeb91c93
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.4.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ZONE DE L'ÉCHELLE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 424cf7e2-27f0-50bb-9df3-ffa2c1c20fe5

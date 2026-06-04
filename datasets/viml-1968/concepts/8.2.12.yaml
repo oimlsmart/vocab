@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.2.12
+  localized_concepts:
+    fra: 7ab5e800-3bbd-5b47-ba3b-558dccd408ae
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: fc6c686f-a7e4-502c-ab66-41305ff300db
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.2.12-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ERREUR DUE AU FROTTEMENT
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 7ab5e800-3bbd-5b47-ba3b-558dccd408ae

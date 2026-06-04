@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.1.5.2
+  localized_concepts:
+    fra: 88f91361-3e99-5f4b-b862-392b791b6d32
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 7ab2608c-0a55-5a78-a3a6-a6ba6f761d5e
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.1.5.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: VALEUR ABSOLUE DE L'ERREUR
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 88f91361-3e99-5f4b-b862-392b791b6d32

@@ -1,0 +1,60 @@
+---
+data:
+  identifier: A.2
+  localized_concepts:
+    eng: 1d0d975a-e1d5-589c-a051-82979dc05136
+    fra: d709c805-7580-553d-a70c-f59e0d4e56a3
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 8f46ce83-ff80-5532-a061-202112e80a5c
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.2
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: body that performs conformity assessment services
+  examples: []
+  id: A.2-eng
+  notes:
+  - content: An accreditation body is not a conformity assessment body. [ISO/IEC 17000:2004,
+      2.5]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment body
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 1d0d975a-e1d5-589c-a051-82979dc05136
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: organisme qui fournit des services d'évaluation de la conformité
+  examples: []
+  id: A.2-fra
+  notes:
+  - content: Un organisme d'accréditation n'est pas un organisme d'évaluation de la
+      conformité. [ISO/CEI 17000:2004, 2.5]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: organisme d'évaluation de la conformité
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d709c805-7580-553d-a70c-f59e0d4e56a3

@@ -2,26 +2,48 @@
 data:
   identifier: '2.4'
   localized_concepts:
-    fra: fd216751-dd63-59ae-a5b9-c7c81c479f9e
+    eng: ead24fa1-a7a8-5066-afc0-d1f877ca537c
+    fra: 1d7f3dfb-a594-5034-9bbb-6c597f0e406c
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: ae01ed19-2305-5570-9f3f-bd7fe664316b
+id: a1bc35b6-58c9-5f03-ab1b-62ce05f4850d
 schema_version: '3'
-related:
-- type: superseded_by
-  ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '2.04'
+related: []
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un instrument de mesure
+  - content: all the operations for the purpose of examining and demonstrating, e.g.
+      to testify in a court of law, the condition of a measuring instrument and to
+      determine its metrological properties, amongst others by reference to the relevant
+      statutory requirements 2 ACTIVITÉS DE MÉTROLOGIE LÉGALE
+  examples: []
+  id: 2.4-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological expertise
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: ead24fa1-a7a8-5066-afc0-d1f877ca537c
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des opérations visant à examiner et à démontrer, par exemple
+      en vue d’un témoignage auprès d’une cour de justice, l’état d’un instrument
+      de mesure et à déterminer ses caractéristiques métrologiques, entre autres par
+      référence aux exigences réglementaires applicables
   examples: []
   id: 2.4-fra
   notes: []
@@ -29,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Iinspection
-  language_code: fra
-  entry_status: valid
+    designation: expertise métrologique
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: fd216751-dd63-59ae-a5b9-c7c81c479f9e
+id: 1d7f3dfb-a594-5034-9bbb-6c597f0e406c

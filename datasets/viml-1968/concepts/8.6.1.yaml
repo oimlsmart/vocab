@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.6.1
+  localized_concepts:
+    fra: 52df694e-e81c-5377-a6cc-f5377cd531e7
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: d73bcdb8-c058-54e5-bf38-866e0bc2fcfb
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 8.6.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: COURBE D'ÉTALONNAGE D'UN INSTRUMENT DE MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 52df694e-e81c-5377-a6cc-f5377cd531e7

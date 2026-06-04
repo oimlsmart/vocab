@@ -2,14 +2,14 @@
 data:
   identifier: '5.04'
   localized_concepts:
-    eng: 5806b085-dfd3-585c-b017-ad7b6ae0bcbe
-    fra: 3b4641c9-ae19-54a9-9742-b04749473734
+    eng: 02f27f5e-f484-5a12-8764-ee809eb970de
+    fra: bc893d06-9437-5060-b133-3c12cf2507a6
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 490a4213-33ff-553c-b235-2d6832416ecb
+id: 652da78e-5aec-5c6e-ad5e-838c251e8a62
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device part of the measuring instrument which displays the measurement
-      results either continuously or on demand
+  - content: part of the measuring instrument which displays the measurement results
+      either continuously or on demand
   examples: []
   id: 5.04-eng
   notes:
@@ -33,26 +33,30 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: indicating
-  language_code: eng
-  entry_status: valid
+    designation: indicating device
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 5806b085-dfd3-585c-b017-ad7b6ae0bcbe
+id: 02f27f5e-f484-5a12-8764-ee809eb970de
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: partie de l’instrument de mesure qui affiche les résultats de mesurages,
+      soit de façon continue, soit sur demande.
   examples: []
   id: 5.04-fra
-  notes: []
+  notes:
+  - content: Un dispositif d'impression ne constitue pas un dispositif indicateur,
+      bien qu’une valeur imprimée soit une indication.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: durabilité
-  language_code: fra
-  entry_status: valid
+    designation: dispositif indicateur
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3b4641c9-ae19-54a9-9742-b04749473734
+id: bc893d06-9437-5060-b133-3c12cf2507a6

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.2.7
+  localized_concepts:
+    fra: 22b1d2d2-4d8d-5533-ad34-82232ef78f1c
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: b3257f3c-31c7-5bb0-b3a6-71a2a094ce25
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 3.2.7-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: MARQUE D'APPROBATION DE MODÈLE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 22b1d2d2-4d8d-5533-ad34-82232ef78f1c

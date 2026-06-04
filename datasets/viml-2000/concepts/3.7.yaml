@@ -2,34 +2,62 @@
 data:
   identifier: '3.7'
   localized_concepts:
-    fra: 02512122-3679-5d5f-b877-3beb133d1cf1
+    eng: e5316e95-d144-5134-ae12-24fd36d32741
+    fra: fde024dd-9321-53e2-a86b-10320bff2568
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: f2012f28-48f5-5c20-a6f3-b30bf99a6578
+id: 2a1ba93b-73fe-5bbd-8886-4e61480cdd7f
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '3.07'
+    id: '3.04'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: mark applied to a measuring instrument certifying that the verification
+      of the measuring instrument was carried out with satisfactory results
   examples: []
-  id: 3.7-fra
-  notes: []
+  id: 3.7-eng
+  notes:
+  - content: The verification mark may identify the body responsible for verification
+      and/or indicate the year or date of verification or its expiry date.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: métrologie
-  language_code: fra
-  entry_status: valid
+    designation: verification mark
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 02512122-3679-5d5f-b877-3beb133d1cf1
+id: e5316e95-d144-5134-ae12-24fd36d32741
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: marque appliquée sur un instrument de mesure certifiant que la vérification
+      de l’instrument de mesure a été effectuée avec des résultats satisfaisants
+  examples: []
+  id: 3.7-fra
+  notes:
+  - content: La marque de vérification peut identifier l’organisme responsable de
+      la vérification et/ou indiquer l’année ou la date de vérification ou sa date
+      d’expiration.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: marque de vérification
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: fde024dd-9321-53e2-a86b-10320bff2568

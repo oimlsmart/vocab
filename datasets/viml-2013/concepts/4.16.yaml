@@ -2,14 +2,14 @@
 data:
   identifier: '4.16'
   localized_concepts:
-    eng: 1fc64e29-410d-5ac1-bdb1-ae1897351a52
-    fra: 4ae209d4-28bd-5f8e-9eb3-f84fba65f3fb
+    eng: 779fb720-4799-5f9a-9a42-fed74416e4e2
+    fra: d5189059-f1ed-5b66-8792-fc7bf3e52573
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 8d9cddce-182e-5c26-8f66-9724950a6e83
+id: 517adb74-5a66-597b-b715-88acfe52a43f
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: under test sub-assembly, combination of subassemblies or complete measuring
-      instrument subject to a test
+  - content: sub-assembly, combination of subassemblies or complete measuring instrument
+      subject to a test
   examples: []
   id: 4.16-eng
   notes:
@@ -32,27 +32,30 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: equipment
-  language_code: eng
-  entry_status: valid
+    designation: equipment under test
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 1fc64e29-410d-5ac1-bdb1-ae1897351a52
+id: 779fb720-4799-5f9a-9a42-fed74416e4e2
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: équivalence de résultats d'évaluation de la conformité A.32 erreur (d'indication)
+  - content: s oumis à l’essai sous-ensemble, combinaison de sous-ensembles ou instrument
+      de mesure complet soumis à un essai
   examples: []
   id: 4.16-fra
-  notes: []
+  notes:
+  - content: 'Abréviation : ESE. 5. Construction and operation of measuring instruments
+      5. Construction et fonctionnement des instruments de mesure'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: équivalence A.32
-  language_code: fra
-  entry_status: valid
+    designation: équipement
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 4ae209d4-28bd-5f8e-9eb3-f84fba65f3fb
+id: d5189059-f1ed-5b66-8792-fc7bf3e52573

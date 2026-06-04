@@ -1,0 +1,73 @@
+---
+data:
+  identifier: A.13
+  localized_concepts:
+    eng: 78bebd4e-c148-50c3-8429-26efeddd3924
+    fra: f293cec0-9480-5ea7-80d4-e29179c62861
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 13f0468d-d323-5b53-9b3e-06294a712978
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.13
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: assessment of a body against specified requirements by representatives
+      of other bodies in, or candidates for, an agreement group
+  examples: []
+  id: A.13-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '4.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peer assessment
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 78bebd4e-c148-50c3-8429-26efeddd3924
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: évaluation d'un organisme, par rapport à des exigences spécifiées, par
+      des représentants d'autres organismes faisant partie d'un groupe d'accord, ou
+      ayant posé leurs candidatures pour ce groupe d'accord
+  examples: []
+  id: A.13-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '4.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation par des pairs
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: f293cec0-9480-5ea7-80d4-e29179c62861

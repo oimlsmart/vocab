@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 5.3.3
+  localized_concepts:
+    fra: bb1bed5a-a524-5973-872a-60d5b1fc2f8b
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: ec904b89-c442-566a-9719-58411f276306
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 5.3.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: VALEUR NOMINALE TOTALE D'UNE MESURE MATÉRIALISÉE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: bb1bed5a-a524-5973-872a-60d5b1fc2f8b

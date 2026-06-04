@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.3.3
+  localized_concepts:
+    fra: 5b551ac1-b9a1-5f73-b9ea-d1f350fd8ecb
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: a0fc092a-d279-5234-a653-3cc5a7c8e8b0
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.3.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: DIMENSION D'UNE GRANDEUR
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5b551ac1-b9a1-5f73-b9ea-d1f350fd8ecb

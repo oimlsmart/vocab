@@ -34,12 +34,16 @@ data:
   examples: []
   id: 2.08-eng
   notes:
-  - content: |-
-      The withdrawal is justified in case of
+  - content: 'The withdrawal is justified in case of
+
       — alterations of the type,
+
       — modification of its vital parts,
+
       — circumstances that affect metrological {{durability,5.15}} and/ or reliability,
-      — effects altering the metrological performance of the instrument required by law and coming to light only after the official {{type approval,2.05}} was granted.
+
+      — effects altering the metrological performance of the instrument required by
+      law and coming to light only after the official {{type approval,2.05}} was granted.'
   sources: []
   terms:
   - type: expression
@@ -59,12 +63,18 @@ data:
   examples: []
   id: 2.08-fra
   notes:
-  - content: |-
-      Le retrait est justifié dans les cas suivants :
+  - content: 'Le retrait est justifié dans les cas suivants :
+
       — modification du type ;
+
       — modification de ses parties essentielles ;
-      — circonstances qui affectent la {{durabilité,5.15}} et/ou la fiabilité métrologique ;
-      — effets altérant les performances métrologiques de l'instrument exigées par la loi et révélés seulement après que l'{{approbation de type,2.05}} officielle a été accordée.
+
+      — circonstances qui affectent la {{durabilité,5.15}} et/ou la fiabilité métrologique
+      ;
+
+      — effets altérant les performances métrologiques de l''instrument exigées par
+      la loi et révélés seulement après que l''{{approbation de type,2.05}} officielle
+      a été accordée.'
   sources: []
   terms:
   - type: expression

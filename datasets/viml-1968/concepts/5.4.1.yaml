@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 5.4.1
+  localized_concepts:
+    fra: f071b170-1a87-56a8-9985-856c32c68632
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 16928f01-e585-5494-b09d-4149cf885082
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 5.4.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: RÉSULTAT BRUT D'UN MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: f071b170-1a87-56a8-9985-856c32c68632

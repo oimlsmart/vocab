@@ -1,0 +1,70 @@
+---
+data:
+  identifier: A.17
+  localized_concepts:
+    eng: a622ac7f-813c-539d-bc04-a02f0f239e64
+    fra: e27754d2-af68-5775-9f13-705b9dee57ab
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 698112b9-36c2-51eb-a56e-6799ea517127
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.17
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (of conformity) first-party attestation
+  examples: []
+  id: A.17-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: declaration
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: a622ac7f-813c-539d-bc04-a02f0f239e64
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (de conformité) attestation réalisée par une première partie
+  examples: []
+  id: A.17-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: déclaration
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: e27754d2-af68-5775-9f13-705b9dee57ab

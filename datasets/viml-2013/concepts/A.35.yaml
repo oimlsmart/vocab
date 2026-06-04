@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.35
+  localized_concepts:
+    eng: 4749c84a-de02-5ec9-8d8d-255a988a70a3
+    fra: c7b7e22c-6720-57ce-96b7-4fefd8972e74
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: f402a6b3-8101-5e10-86b6-541434b7fb20
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.35
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement whereby one party recognizes or accepts the conformity assessment
+      results of another party
+  examples: []
+  id: A.35-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unilateral arrangement
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4749c84a-de02-5ec9-8d8d-255a988a70a3
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: arrangement selon lequel une partie reconnaît ou accepte les résultats
+      de l'évaluation de la conformité obtenus par une autre partie
+  examples: []
+  id: A.35-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arrangement unilatéral
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c7b7e22c-6720-57ce-96b7-4fefd8972e74

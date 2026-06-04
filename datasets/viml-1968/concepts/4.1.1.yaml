@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.1.1
+  localized_concepts:
+    fra: 9a11c602-c6ca-5477-9b1f-d66820f1d6bb
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: bd30e004-802a-5cf0-bedd-9e8bb9f04caf
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.1.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GRANDEUR À MESURER
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 9a11c602-c6ca-5477-9b1f-d66820f1d6bb

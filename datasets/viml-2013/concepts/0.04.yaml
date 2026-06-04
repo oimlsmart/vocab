@@ -2,14 +2,14 @@
 data:
   identifier: '0.04'
   localized_concepts:
-    eng: 6433746e-1581-5fac-a35a-b32551749a8c
-    fra: 6152b037-aec3-5ee6-966a-691199624c65
+    eng: f65b0e25-e0d5-53b1-82b6-5073a9237bbc
+    fra: 8779aa9d-d0a5-50a0-97ed-355cd6917e24
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: c5955f64-15b2-588b-a420-786646bd4774
+id: 28d9cc0a-c6a6-5b42-8cb1-80838ce17f52
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,37 +22,39 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of indication indication minus a reference quantity value
+  - content: indication minus a reference quantity value
   examples: []
   id: 0.04-eng
   notes:
   - content: This reference value is sometimes referred to as a (conventional) true
-      quantity value. See, however, also OIML V2-200:2012,
+      quantity value. See, however, also OIML V2-200:2012, 2.12, Note 1).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: error
-  language_code: eng
-  entry_status: valid
+    designation: error of indication
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 6433746e-1581-5fac-a35a-b32551749a8c
+id: f65b0e25-e0d5-53b1-82b6-5073a9237bbc
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de durabilité
+  - content: d’indication indication moins une valeur de référence
   examples: []
   id: 0.04-fra
-  notes: []
+  notes:
+  - content: Cette valeur de référence est parfois considérée comme une valeur (convention­nellement)
+      vraie. Voir toutefois également OIML V2-200:2012, 2.12, Note 1).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
     designation: erreur
-  language_code: fra
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 6152b037-aec3-5ee6-966a-691199624c65
+id: 8779aa9d-d0a5-50a0-97ed-355cd6917e24

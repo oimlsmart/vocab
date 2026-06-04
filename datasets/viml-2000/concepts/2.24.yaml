@@ -2,26 +2,49 @@
 data:
   identifier: '2.24'
   localized_concepts:
-    fra: bd56c1f7-d4b2-561d-a496-2d2a084f54ca
+    eng: e9549ae6-870f-5b95-8125-85a6ebe7f880
+    fra: 0942bd17-9e02-5e1b-9bdf-a015c355ad87
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: a53e84e8-0ba6-5f74-868e-4a361aa3fd4b
+id: 9cc26498-3f1e-55b3-acad-9ab9c0c3b4af
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.24'
+    id: '2.22'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de vérification
+  - content: cancellation of the verification mark when it has been found that the
+      measuring instrument no longer complies with the statutory requirements
+  examples: []
+  id: 2.24-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obliteration of a verification mark
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: e9549ae6-870f-5b95-8125-85a6ebe7f880
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: annulation de la marque de vérification quand il a été constaté que l’instrument
+      de mesure ne satisfait plus aux exigences réglementaires Blank page Page blanche
+      DOCUMENTS AND MARKS WITHIN LEGAL METROLOGY
   examples: []
   id: 2.24-fra
   notes: []
@@ -29,8 +52,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Rreconnaissance
-  language_code: fra
-  entry_status: valid
+    designation: oblitération d’une marque de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: bd56c1f7-d4b2-561d-a496-2d2a084f54ca
+id: 0942bd17-9e02-5e1b-9bdf-a015c355ad87

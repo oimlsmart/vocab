@@ -2,14 +2,14 @@
 data:
   identifier: '1.05'
   localized_concepts:
-    eng: b7a433a2-a769-56e5-a42f-427e58eee510
-    fra: e81ac0d0-58ef-5c09-b828-46b4d985e33d
+    eng: 804cfa7f-d6c4-576b-8709-514af58ff880
+    fra: e4d6748e-4cb1-5bab-b17e-ac05a6171e50
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: e06f1aef-3f5f-5026-a8df-a0234ed20c3b
+id: 697b04ef-85f1-59a5-9f0e-0fe97e728ccb
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,7 +22,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: authority legal entity designated by law or by the government to be responsible
+  - content: legal entity designated by law or by the government to be responsible
       for specified legal metrology activities
   examples: []
   id: 1.05-eng
@@ -34,27 +34,31 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: metrological
-  language_code: eng
-  entry_status: valid
+    designation: metrological authority
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b7a433a2-a769-56e5-a42f-427e58eee510
+id: 804cfa7f-d6c4-576b-8709-514af58ff880
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de désignation A.31 B bulletin de refus
+  - content: entité légale désignée par la loi ou le gouvernement pour assurer la
+      responsabilité d’activités spécifiées de métrologie légale
   examples: []
   id: 1.05-fra
-  notes: []
+  notes:
+  - content: L’entité légale peut être un organisme d’état central ou local, ou un
+      organisme n’appartenant pas à l’état désigné par l’état.
+  - content: La responsabilité peut comprendre l’approbation de type, par exemple.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: autorité
-  language_code: fra
-  entry_status: valid
+    designation: autorité de métrologie
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: e81ac0d0-58ef-5c09-b828-46b4d985e33d
+id: e4d6748e-4cb1-5bab-b17e-ac05a6171e50

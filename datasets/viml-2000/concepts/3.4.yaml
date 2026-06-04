@@ -2,26 +2,47 @@
 data:
   identifier: '3.4'
   localized_concepts:
-    fra: 8d46db39-016b-5b66-a672-015cea15dee1
+    eng: 097eea5a-447e-5a03-9e78-c538a331356a
+    fra: 248a041e-090a-597b-8978-09de423b8260
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 585da864-d280-57da-9706-369031f47d66
+id: 40ec4f15-8fe7-5f12-867c-5dd5e355e34e
 schema_version: '3'
-related:
-- type: superseded_by
-  ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '3.04'
+
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de métrologie légale
+  - content: document issued by an authorized institution and registered by it, stating
+      the conditions under which the metrological expertise took place and reporting
+      the investigation made and the results obtained
+  examples: []
+  id: 3.4-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological expertise certificate
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 097eea5a-447e-5a03-9e78-c538a331356a
+
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document délivré par une institution autorisée et enregistré par elle,
+      indiquant les conditions dans lesquelles l’expertise métrologique a pris place
+      et faisant rapport des recherches effectuées et des résultats obtenus
   examples: []
   id: 3.4-fra
   notes: []
@@ -29,8 +50,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: contrôle
-  language_code: fra
-  entry_status: valid
+    designation: certificat d’expertise métrologique
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 8d46db39-016b-5b66-a672-015cea15dee1
+id: 248a041e-090a-597b-8978-09de423b8260

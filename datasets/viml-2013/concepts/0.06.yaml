@@ -2,14 +2,14 @@
 data:
   identifier: '0.06'
   localized_concepts:
-    eng: 0a8d32e7-1827-5d90-b0d1-8e54f8ed9711
-    fra: 20619859-b89f-59b8-b209-805380737a44
+    eng: 99b71e7a-e3f1-5c25-bcd7-b3d198c8b96f
+    fra: 196a2896-9c3b-5474-9a29-9333a011508c
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 3a608c34-360a-5ae8-ba2a-49407edfaa25
+id: 74e8cdb4-9856-5ed5-a39d-bf8c1fa2f6d9
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,7 +22,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: error error of indication, determined under reference conditions
+  - content: error of indication, determined under reference conditions
   examples: []
   id: 0.06-eng
   notes: []
@@ -30,18 +30,18 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: intrinsic
-  language_code: eng
-  entry_status: valid
+    designation: intrinsic error
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 0a8d32e7-1827-5d90-b0d1-8e54f8ed9711
+id: 99b71e7a-e3f1-5c25-bcd7-b3d198c8b96f
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: intrinsèque initiale
+  - content: erreur d’indication déterminée dans les conditions de référence
   examples: []
   id: 0.06-fra
   notes: []
@@ -49,8 +49,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur
-  language_code: fra
-  entry_status: valid
+    designation: erreur intrinsèque
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 20619859-b89f-59b8-b209-805380737a44
+id: 196a2896-9c3b-5474-9a29-9333a011508c

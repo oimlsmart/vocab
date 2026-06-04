@@ -2,14 +2,14 @@
 data:
   identifier: '0.15'
   localized_concepts:
-    eng: a1e00183-b1b0-54f4-b7d5-cc97aefba814
-    fra: d4e3c476-23bf-5d28-9b18-ea51cb919924
+    eng: 50cf00dd-b45c-58e9-8539-d23308a0d97b
+    fra: ba4644df-675b-5c46-9974-bfb46173b5ff
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: ed075fca-748f-5b54-8600-88b6e5b7d1b6
+id: dfbd2cf0-4d07-5c3b-92c6-406c1cb3d605
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,44 +22,53 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of a measuring system adjustment set of operations carried out on a measuring
-      system so that it provides prescribed indications corresponding to given values
-      of a quantity to be measured
+  - content: adjustment set of operations carried out on a measuring system so that
+      it provides prescribed indications corresponding to given values of a quantity
+      to be measured
   examples: []
   id: 0.15-eng
   notes:
   - content: Types of adjustment of a measuring system include zero adjustment of
-      a measuring system, offset adjustment, and span adjustment (sometimes called
+      a measuring system , offset adjustment, and span adjustment (sometimes called
       gain adjustment).
-  - content: Adjustment of a measuring system should not be confused with calibration,
-      which is a prerequisite for adjustment.
+  - content: Adjustment of a measuring system should not be confused with calibration
+      , which is a prerequisite for adjustment.
   - content: After an adjustment of a measuring system, the measuring system must
-      usually be recalibrated. [OIML V2-200:2012,
+      usually be recalibrated. [OIML V2-200:2012, 3.11]
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: adjustment
-  language_code: eng
-  entry_status: valid
+    designation: adjustment of a measuring system
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: a1e00183-b1b0-54f4-b7d5-cc97aefba814
+id: 50cf00dd-b45c-58e9-8539-d23308a0d97b
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de mesure
+  - content: ajustage ensemble d'opérations réalisées sur un système de mesure pour
+      qu'il fournisse des indications prescrites correspondant à des valeurs données
+      des grandeurs à mesurer
   examples: []
   id: 0.15-fra
-  notes: []
+  notes:
+  - content: Divers types d'ajustage d'un système de mesure sont le réglage de zéro,
+      le réglage de décalage, le réglage d'étendue (appelé aussi réglage de gain).
+  - content: Il convient de ne pas confondre l'ajustage d'un système de mesure avec
+      son étalonnage, qui est un pré­alable à l'ajustage.
+  - content: Après un ajustage d'un système de mesure, le système demande généralement
+      à être réétalonné. [OIML V2-200:2012, 3.11] 1. Metrology and its legal aspects
+      1. Aspects légaux de la métrologie
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil
-  language_code: fra
-  entry_status: valid
+    designation: ajustage d'un système de mesure
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: d4e3c476-23bf-5d28-9b18-ea51cb919924
+id: ba4644df-675b-5c46-9974-bfb46173b5ff

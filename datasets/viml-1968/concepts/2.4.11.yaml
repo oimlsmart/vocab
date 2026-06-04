@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 2.4.11
+  localized_concepts:
+    fra: c9f8b55f-a51f-569e-8ef3-49aa16e554b3
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 7f83ee6f-9e45-5b86-9d21-b2b9353faab6
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.4.11-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: PERTE DE VALIDITÉ DE LA VÉRIFICATION
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c9f8b55f-a51f-569e-8ef3-49aa16e554b3

@@ -2,14 +2,14 @@
 data:
   identifier: '0.05'
   localized_concepts:
-    eng: 0cd34f31-a5b2-5431-bea4-9941962090cb
-    fra: 7a415ccd-4176-5d56-80ea-b7d8f20639e5
+    eng: 83998cf8-acd9-5267-8efd-448ef8693cd0
+    fra: 18ec863c-efd9-5a81-a6ca-0be7ec68f7c6
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 66d35926-4679-5ae7-826c-dd97ccbdd8af
+id: e619da8d-1c5b-5461-b4f9-ed0b6d890164
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,42 +22,51 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: permissible measurement error maximum permissible error limit of error
-      extreme value of measurement error, with respect to a known reference quantity
-      value, permitted by specifications or regulations for a given measurement, measuring
-      instrument, or measuring system
+  - content: maximum permissible error limit of error extreme value of measurement
+      error, with respect to a known reference quantity value, permitted by specifications
+      or regulations for a given measurement, measuring instrument, or measuring system
   examples: []
   id: 0.05-eng
   notes:
   - content: Usually the term “maximum permissible errors” or “limits of error” are
       used, where there are two extreme values.
   - content: The term “tolerance” should not be used to designate ‘maximum permissible
-      error’. [OIML V2-200:2012,
+      error’. [OIML V2-200:2012, 4.26]
+  - content: Usually the term “maximum permissible error” is abbreviated to “MPE”,
+      or “mpe”.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: maximum
-  language_code: eng
-  entry_status: valid
+    designation: maximum permissible measurement error
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 0cd34f31-a5b2-5431-bea4-9941962090cb
+id: 83998cf8-acd9-5267-8efd-448ef8693cd0
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de métrologie
+  - content: limite d'erreur valeur extrême de l'erreur de mesure, par rapport à une
+      valeur de référence connue, qui est tolérée par les spécifications ou règlements
+      pour un mesurage, un instrument de mesure ou un système de mesure donné
   examples: []
   id: 0.05-fra
-  notes: []
+  notes:
+  - content: Les termes «erreurs maximales tolérées» ou «limites d'erreur» sont généralement
+      utilisés lorsqu'il y a deux valeurs extrêmes.
+  - content: Il convient de ne pas utiliser le terme « tolérance » pour désigner l'erreur
+      maximale tolérée. [OIML V2-200:2012, 4.26]
+  - content: L’expression « erreur maximale tolérée » est couramment représentée sous
+      une forme abrégée « MPE » ou « mpe ».
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: loi
-  language_code: fra
-  entry_status: valid
+    designation: erreur maximale tolérée
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 7a415ccd-4176-5d56-80ea-b7d8f20639e5
+id: 18ec863c-efd9-5a81-a6ca-0be7ec68f7c6

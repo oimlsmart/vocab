@@ -2,14 +2,14 @@
 data:
   identifier: '5.14'
   localized_concepts:
-    eng: 15ef85e8-b687-5541-a296-fa502c190e95
-    fra: 1c149d48-74f6-59b0-b031-978a8d109023
+    eng: 94130041-d34f-5a1d-84c5-18921e3503a6
+    fra: 3f8ad4bf-1669-5971-8ee7-2ba8c2f1251a
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: ef9bf7bc-7e4e-5185-8311-aefa9b4c2056
+id: b02d85d6-dd89-5729-b661-ba53b8d5258f
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,46 +22,58 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: fault fault exceeding the applicable fault limit value
+  - content: fault exceeding the applicable fault limit value
   examples: []
   id: 5.14-eng
   notes:
   - content: 'For particular types of measuring instruments some faults exceeding
       the fault limit may not be considered a significant fault; the applicable Recommendation
       shall state when such exception applies. For example, the occurrence of one
-      or some of the following faults may be acceptable: • faults arising from simultaneous
+      or some of the following faults may be acceptable: faults arising from simultaneous
       and mutually independent causes originating in a measuring instrument or in
-      its checking facilities; • faults implying the impossibility to perform any
-      measurement; • transitory faults being momentary variations in the indication,
-      which cannot be interpreted, memorized or transmitted as a measurement result;
-      • faults giving rise to variations in the measurement result that are serious
-      enough to be noticed by all those interested in the measurement result; the
-      applicable Recommendation may specify the nature of these variations.'
+      its checking facilities ; faults implying the impossibility to perform any measurement
+      ; transitory faults being momentary variations in the indication, which cannot
+      be interpreted, memorized or transmitted as a measurement result ; faults giving
+      rise to variations in the measurement result that are serious enough to be noticed
+      by all those interested in the measurement result; the applicable Recommendation
+      may specify the nature of these variations.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: significant
-  language_code: eng
-  entry_status: valid
+    designation: significant fault
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 15ef85e8-b687-5541-a296-fa502c190e95
+id: 94130041-d34f-5a1d-84c5-18921e3503a6
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: dispositif complémentaire
+  - content: défaut plus grand que le défaut limite applicable
   examples: []
   id: 5.14-fra
-  notes: []
+  notes:
+  - content: 'Pour des types d’instruments de mesure donnés, des défauts plus grands
+      que le défaut limite peuvent ne pas être considérés comme significatifs ; la
+      Recommandation applicable doit indiquer lorsque de telles exceptions s’appliquent.
+      Par exemple, l’apparition d’un ou plusieurs des défauts suivants peut être acceptable
+      : défauts provenant de causes simultanées et mutuellement indépendantes (par
+      exemple champs électromagnétiques et décharges) dans un instrument ou dans ses
+      systèmes de contrôle ; défauts rendant impossible l''accomplisse­ment de toute
+      mesure ; défauts transitoires provenant de variations momentanées de l''indication,
+      qui ne peuvent être interprétées, mises en mémoire ou transmises comme un résultat
+      de mesure ; défauts provoquant des variations du résultat de mesurage suffisamment
+      importantes pour être identifiées par tous ceux intéressés par le résultat du
+      mesurage ; la Recommandation applicable peut spécifier la nature de ces variations.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: désignation A.30
-  language_code: fra
-  entry_status: valid
+    designation: défaut significatif
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 1c149d48-74f6-59b0-b031-978a8d109023
+id: 3f8ad4bf-1669-5971-8ee7-2ba8c2f1251a

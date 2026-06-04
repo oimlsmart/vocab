@@ -2,26 +2,49 @@
 data:
   identifier: '4.5'
   localized_concepts:
-    fra: f55caf35-9e35-5c2d-8008-d18bdcba0ad9
+    eng: 367e37c0-deb8-5869-9d82-c02493d4fe99
+    fra: cfad67ab-15b2-5c5b-a82d-e27fc0e0b6e2
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: b761dd43-fb9e-5c69-87e1-d0f8bf5c83b6
+id: fde976f4-3e9e-597b-be67-3114ebfad99a
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '4.05'
+    id: '4.13'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: et instruments de mesure Ch 4unités légales (de mesure)
+  - content: definitive model or family of measuring instruments permitted for legal
+      use, the decision being confirmed by the issuing of a type approval certificate
+  examples: []
+  id: 4.5-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: approved type
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 367e37c0-deb8-5869-9d82-c02493d4fe99
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: modèle définitif ou famille d’instruments de mesure dont l’utilisation
+      est légalement permise, la décision étant confir-mée par la délivrance d’un
+      certificat d’approbation de type
   examples: []
   id: 4.5-fra
   notes: []
@@ -29,8 +52,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Uunités
-  language_code: fra
-  entry_status: valid
+    designation: type approuvé
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: f55caf35-9e35-5c2d-8008-d18bdcba0ad9
+id: cfad67ab-15b2-5c5b-a82d-e27fc0e0b6e2

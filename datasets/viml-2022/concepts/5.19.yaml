@@ -34,9 +34,9 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{influence quantity,0.07}} having a value within the limits specified
+  - content: '{{influence quantity,0.07}} having a value within the limits specified
       in the relevant Recommendation, but outside the specified {{rated operating
-      conditions,0.08}} of a {{measuring instrument,0.10}}"
+      conditions,0.08}} of a {{measuring instrument,0.10}}'
   examples: []
   id: 5.19-eng
   notes: []
@@ -55,9 +55,9 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur d'influence,0.07}} dont la valeur se situe dans les limites
+  - content: '{{grandeur d''influence,0.07}} dont la valeur se situe dans les limites
       spécifiées dans la Recommandation applicable, mais en dehors des {{conditions
-      assignées de fonctionnement,0.08}} d'un {{instrument de mesure,0.10}}"
+      assignées de fonctionnement,0.08}} d''un {{instrument de mesure,0.10}}'
   examples: []
   id: 5.19-fra
   notes: []

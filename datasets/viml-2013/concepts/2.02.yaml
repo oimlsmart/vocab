@@ -2,14 +2,14 @@
 data:
   identifier: '2.02'
   localized_concepts:
-    eng: 5728bc5c-0ccb-5c37-ad0d-c905a36db3c8
-    fra: 0bf4fe0e-095b-56ac-8f64-cc3e5be156db
+    eng: c2858372-cbb5-5aac-bb07-2b999f1bddfc
+    fra: fc03e575-2a72-5f26-bc5d-3c042d73e28d
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 15c92efe-bc53-5441-a428-98b3aca06714
+id: 222b5ca2-ead0-5682-85fb-7511e95227b2
 schema_version: '3'
 related:
 - type: supersedes
@@ -26,9 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: control of measuring instruments generic term used to globally designate
-      legal operations to which measuring instruments may be subjected, e.g. type
-      approval, verification, etc.
+  - content: generic term used to globally designate legal operations to which measuring
+      instruments may be subjected, e.g. type approval, verification, etc.
   examples: []
   id: 2.02-eng
   notes: []
@@ -36,18 +35,20 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: legal
-  language_code: eng
-  entry_status: valid
+    designation: legal control of measuring instruments
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 5728bc5c-0ccb-5c37-ad0d-c905a36db3c8
+id: c2858372-cbb5-5aac-bb07-2b999f1bddfc
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: déclaration A.17 défaut
+  - content: terme générique utilisé pour désigner globalement les opérations légales
+      auxquelles des instruments de mesure peuvent être soumis, par exemple l’approbation
+      de type, la vérification, etc.
   examples: []
   id: 2.02-fra
   notes: []
@@ -55,8 +56,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: D
-  language_code: fra
-  entry_status: valid
+    designation: contrôle légal des instruments de mesure
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 0bf4fe0e-095b-56ac-8f64-cc3e5be156db
+id: fc03e575-2a72-5f26-bc5d-3c042d73e28d

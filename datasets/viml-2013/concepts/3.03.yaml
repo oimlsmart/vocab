@@ -2,20 +2,20 @@
 data:
   identifier: '3.03'
   localized_concepts:
-    eng: c8faa607-6e45-5eb6-a3d0-0562b8b12dd5
-    fra: 99bdf5c9-53e7-528b-8c86-5a4001a22b9b
+    eng: cb445176-b5a1-57a2-8214-6bd616a71f24
+    fra: f27ba2c3-a4e6-56f4-a57d-970325b13194
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: ec69f260-8cae-5289-aaa1-afcd70a643d7
+id: 790504b4-8cd2-594b-a662-feae5dd9aeee
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '3.3'
+    id: '3.5'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,8 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: notice document stating that a measuring instrument was found not to
-      comply or no longer to comply with the relevant statutory requirements
+  - content: document stating that a measuring instrument was found not to comply
+      or no longer to comply with the relevant statutory requirements
   examples: []
   id: 3.03-eng
   notes: []
@@ -35,18 +35,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: rejection
-  language_code: eng
-  entry_status: valid
+    designation: rejection notice
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: c8faa607-6e45-5eb6-a3d0-0562b8b12dd5
+id: cb445176-b5a1-57a2-8214-6bd616a71f24
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: caractère légal
+  - content: document indiquant qu’un instrument de mesure a été jugé comme ne satisfaisant
+      pas ou ne satisfaisant plus aux exigences réglementaires applicables
   examples: []
   id: 3.03-fra
   notes: []
@@ -54,8 +55,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: C
-  language_code: fra
-  entry_status: valid
+    designation: bulletin de refus
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 99bdf5c9-53e7-528b-8c86-5a4001a22b9b
+id: f27ba2c3-a4e6-56f4-a57d-970325b13194

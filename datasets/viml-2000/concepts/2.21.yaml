@@ -2,35 +2,61 @@
 data:
   identifier: '2.21'
   localized_concepts:
-    fra: 7dd76f28-5722-5280-9e81-a061084d96bc
+    eng: b2b6f4d6-b769-5897-a4a7-62eb57d76753
+    fra: 5ef0af06-6f90-558a-b76b-08df3d8ef335
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 67c4b391-cafa-5ab4-9be3-1d364e251278
+id: a9fdeb40-87f7-5330-b5e4-1fec244e8438
 schema_version: '3'
-related:
-- type: superseded_by
-  ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '2.21'
+related: []
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: par échantillonnage
+  - content: 'examination of a measuring instrument to ascertain all or some of the
+      following: - verification mark and/or certificate is valid, - no sealing marks
+      are damaged, - after verification the instrument suffered no obvious modification,
+      - its errors do not exceed the maximum permissible in-service errors'
   examples: []
-  id: 2.21-fra
-  notes: []
+  id: 2.21-eng
+  notes:
+  - content: Inspection of a measuring instrument may be done only after verification.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: inspection
-  language_code: fra
-  entry_status: valid
+    designation: inspection of a measuring instrument
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 7dd76f28-5722-5280-9e81-a061084d96bc
+id: b2b6f4d6-b769-5897-a4a7-62eb57d76753
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'examen d’un instrument de mesure visant à s’assurer d’un ou plusieurs
+      des éléments suivants: - la marque de vérification et/ou le certificat est valide,
+      - aucune marque de scellement n’a été endommagée, - après vérification, l’instrument
+      n’a pas subi de modifica-tions évidentes, - ses erreurs ne dépassent pas les
+      erreurs maximales tolérées en service'
+  examples: []
+  id: 2.21-fra
+  notes:
+  - content: L’inspection d’un instrument de mesure ne peut être effectuée qu’après
+      la vérification.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection d’un instrument de mesure
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 5ef0af06-6f90-558a-b76b-08df3d8ef335

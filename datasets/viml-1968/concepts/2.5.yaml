@@ -2,14 +2,15 @@
 data:
   identifier: '2.5'
   localized_concepts:
-    fra: e16f8fcb-8b3c-55af-bc8b-a14270886a55
+    fra: b65bafdd-8670-5f89-b55e-d046cb09f60c
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 85f4a963-0bd9-5d8e-a79e-2a0031fb14cd
+id: a2e115a9-176d-5712-a005-e9a7c4fa03f8
 schema_version: '3'
+
 ---
 data:
   dates:
@@ -23,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: '2.'
-  language_code: fra
-  entry_status: valid
+    designation: ÉTALONNAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e16f8fcb-8b3c-55af-bc8b-a14270886a55
+id: b65bafdd-8670-5f89-b55e-d046cb09f60c

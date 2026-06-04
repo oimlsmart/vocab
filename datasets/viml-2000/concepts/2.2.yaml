@@ -2,13 +2,14 @@
 data:
   identifier: '2.2'
   localized_concepts:
-    fra: 1aa4509a-2aad-5ead-b131-2a4fbe75b016
+    eng: e0b3ac86-7bae-59a5-8d14-32c66a2a80bc
+    fra: 636a6a80-8244-5639-a469-e329ff58047f
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: c07f813d-d99c-59f0-922e-4453fb5eb995
+id: 82e58c1f-5904-5469-bd38-632348925b18
 schema_version: '3'
 related:
 - type: superseded_by
@@ -21,7 +22,29 @@ data:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un étalon de mesure
+  - content: generic term used to globally designate legal operations to which measuring
+      instruments may be subjected, e.g. type approval, verification, etc.
+  examples: []
+  id: 2.2-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal control of measuring instruments
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: e0b3ac86-7bae-59a5-8d14-32c66a2a80bc
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: terme générique utilisé pour désigner globalement les opérations légales
+      auxquelles des instruments de mesure peuvent être soumis, par exemple l’approbation
+      de type, la vérification, etc.
   examples: []
   id: 2.2-fra
   notes: []
@@ -29,8 +52,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Ddocumentation
-  language_code: fra
-  entry_status: valid
+    designation: contrôle légal des instruments de mesure
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 1aa4509a-2aad-5ead-b131-2a4fbe75b016
+id: 636a6a80-8244-5639-a469-e329ff58047f

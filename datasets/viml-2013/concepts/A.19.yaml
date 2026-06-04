@@ -1,0 +1,75 @@
+---
+data:
+  identifier: A.19
+  localized_concepts:
+    eng: 6fc6a744-4591-5791-bac2-5c18d437910f
+    fra: c6609673-cf0a-57e6-a3af-5f65c5b35d39
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 68e089a3-adab-576f-9aa6-8daf86b17121
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.19
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: third-party attestation related to a conformity assessment body conveying
+      formal demonstration of its competence to carry out specific conformity assessment
+      tasks
+  examples: []
+  id: A.19-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accreditation
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 6fc6a744-4591-5791-bac2-5c18d437910f
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: attestation délivrée par une tierce partie, ayant rapport à un organisme
+      d'évaluation de la conformité, constituant une reconnaissance formelle de la
+      compétence de ce dernier à réaliser des activités spécifiques d'évaluation de
+      la conformité
+  examples: []
+  id: A.19-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accréditation
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c6609673-cf0a-57e6-a3af-5f65c5b35d39

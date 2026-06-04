@@ -2,14 +2,14 @@
 data:
   identifier: '5.16'
   localized_concepts:
-    eng: 2e06b879-78cd-5678-b54d-7de77c56a3fe
-    fra: 99eb76c1-af38-59d4-9bb6-403331e4e082
+    eng: a7959a3c-3599-5b1b-8c3b-44821c7b0cf9
+    fra: b6419cdc-cef7-5565-8d83-6a94d4365b7e
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 00a22582-3f3f-5d70-a7dc-a7f31b2ac7e8
+id: ddf33264-e0a1-5b3a-9b4c-a398f367fc63
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: error difference between the intrinsic error after a period of use and
-      the initial intrinsic error of a measuring instrument
+  - content: difference between the intrinsic error after a period of use and the
+      initial intrinsic error of a measuring instrument
   examples: []
   id: 5.16-eng
   notes: []
@@ -31,18 +31,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: durability
-  language_code: eng
-  entry_status: valid
+    designation: durability error
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 2e06b879-78cd-5678-b54d-7de77c56a3fe
+id: a7959a3c-3599-5b1b-8c3b-44821c7b0cf9
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de durabilité significative
+  - content: différence entre l'erreur intrinsèque après un certain temps d’utilisation
+      et l'erreur intrinsèque initiale d'un instrument de mesure
   examples: []
   id: 5.16-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur
-  language_code: fra
-  entry_status: valid
+    designation: erreur de durabilité
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 99eb76c1-af38-59d4-9bb6-403331e4e082
+id: b6419cdc-cef7-5565-8d83-6a94d4365b7e

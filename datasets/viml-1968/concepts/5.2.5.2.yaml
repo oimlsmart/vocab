@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 5.2.5.2
+  localized_concepts:
+    fra: 7e361e8c-30f9-5170-b48f-67e27779569b
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 87b6e89d-001f-5596-a593-65f8355d83b6
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 5.2.5.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: MÉTHODE DE MESURAGE PAR ZÉRO
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 7e361e8c-30f9-5170-b48f-67e27779569b

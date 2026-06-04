@@ -1,0 +1,74 @@
+---
+data:
+  identifier: A.27
+  localized_concepts:
+    eng: 1c12ea0a-522e-581d-a467-741cc217bdd1
+    fra: ba3e48bd-a92f-5703-a0ce-322b99b9969c
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 53e1a100-5efc-530f-a4f8-a8739d442708
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.27
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: treatment accorded to products or processes from one supplier that is
+      no less favorable than that accorded to like products or processes from any
+      other supplier, in a comparable situation
+  examples: []
+  id: A.27-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equal treatment
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 1c12ea0a-522e-581d-a467-741cc217bdd1
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: traitement accordé aux produits ou aux processus d'un fournisseur, qui
+      n'est pas moins favorable que celui accordé à des produits ou à des processus
+      similaires de tout autre fournisseur, dans une situation comparable
+  examples: []
+  id: A.27-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traitement égal
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: ba3e48bd-a92f-5703-a0ce-322b99b9969c

@@ -2,13 +2,14 @@
 data:
   identifier: '2.1'
   localized_concepts:
-    fra: f56e20b6-e99f-5086-8676-2487519ba6d6
+    eng: bff564f1-cfee-562d-8a76-a93cb1ed0dbc
+    fra: d013b1fc-11c0-5e14-8e70-f78f78050f3b
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 29c66a30-a0a1-59c0-b2a6-bb70ae69917b
+id: cf1337f0-6624-565d-b8c7-28685ea72c0f
 schema_version: '3'
 related:
 - type: superseded_by
@@ -21,16 +22,41 @@ data:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: légal des instruments de mesure
+  - content: the whole of legal metrology activities which contribute to metrological
+      assurance
   examples: []
-  id: 2.1-fra
-  notes: []
+  id: 2.1-eng
+  notes:
+  - content: 'Legal metrological control includes: legal control of measuring instruments,
+      metrological supervision, metrological expertise.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: contrôle
-  language_code: fra
-  entry_status: valid
+    designation: legal metrological control
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: f56e20b6-e99f-5086-8676-2487519ba6d6
+id: bff564f1-cfee-562d-8a76-a93cb1ed0dbc
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des activités de métrologie légale qui contribuent à l’assurance
+      métrologique
+  examples: []
+  id: 2.1-fra
+  notes:
+  - content: 'Le contrôle de métrologie légale inclut: le contrôle légal des instruments
+      de mesure, la surveillance métrologique, l’expertise métrologique.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrôle de métrologie légale
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: d013b1fc-11c0-5e14-8e70-f78f78050f3b

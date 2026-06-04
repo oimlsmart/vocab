@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 2.4.6
+  localized_concepts:
+    fra: e10ed812-1629-55e0-89ca-e73c768085bf
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: b3dd9ddc-6fec-51c5-9118-fb889e8df8d6
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.4.6-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: VÉRIFICATION PÉRIODIQUE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: e10ed812-1629-55e0-89ca-e73c768085bf

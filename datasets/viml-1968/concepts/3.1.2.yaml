@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 3.1.2
+  localized_concepts:
+    fra: cc79342f-faca-5470-b10c-61de37ad049c
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: f0830364-0f59-5b12-bb14-dffac99d7b87
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 3.1.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: PRESCRIPTIONS RELATIVES À L'APPROBATION DES MODÈLES
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: cc79342f-faca-5470-b10c-61de37ad049c

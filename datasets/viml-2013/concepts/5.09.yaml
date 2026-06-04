@@ -2,14 +2,14 @@
 data:
   identifier: '5.09'
   localized_concepts:
-    eng: 817717a0-484f-5fc2-a4ac-95eca629b03f
-    fra: 67046265-bae0-58b2-bbdd-9967fedcf7f2
+    eng: 475da562-6b0a-5298-aa73-613557844267
+    fra: 99305e50-dae9-5e4b-b2c5-9ff9ef25499e
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 37c68e83-aa02-5655-bbcb-ed747d6db490
+id: 5ddcfae8-1ecc-5fc2-a42d-d01a8a0bcb58
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,41 +22,45 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: measuring instrument instrument for the measurement of a quantity, other
-      than the measurand, the value of which is used to correct or convert a measurement
-      result
+  - content: instrument for the measurement of a quantity, other than the measurand,
+      the value of which is used to correct or convert a measurement result
   examples: []
   id: 5.09-eng
   notes:
   - content: Typically, an associated measuring instrument is connected to a device
-      (correction device, conversion device, calculator) that is part of a measuring
+      ( correction device, conversion device, calculator) that is part of a measuring
       instrument and that changes (corrects, converts) the measurement result to obtain
       a value for the measurand under specified conditions.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: associated
-  language_code: eng
-  entry_status: valid
+    designation: associated measuring instrument
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 817717a0-484f-5fc2-a4ac-95eca629b03f
+id: 475da562-6b0a-5298-aa73-613557844267
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de mesure légalement contrôlé
+  - content: instrument utilisé pour mesurer une grandeur autre que le mesurande,
+      dont la valeur est utilisée pour corriger ou convertir un résultat de mesure
   examples: []
   id: 5.09-fra
-  notes: []
+  notes:
+  - content: En général, un instrument de mesure associé est relié à un dispositif
+      (dispositif de correction, dispositif de conversion, calculateur), faisant partie
+      de l’instrument de mesure, permettant de modifier (corriger, convertir) le résultat
+      de mesure afin d’obtenir une valeur du mesurande dans des conditions spécifiées.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: instrument
-  language_code: fra
-  entry_status: valid
+    designation: instrument de mesure associé
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 67046265-bae0-58b2-bbdd-9967fedcf7f2
+id: 99305e50-dae9-5e4b-b2c5-9ff9ef25499e

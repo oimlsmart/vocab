@@ -2,14 +2,14 @@
 data:
   identifier: '5.05'
   localized_concepts:
-    eng: 980821b8-7659-51cd-9c29-92a4efc8c033
-    fra: 5bb7f9b0-00bd-578d-aa83-4eadc09ec24b
+    eng: 29f088e1-45dd-5b6d-a4e1-4c92bf83af4c
+    fra: e9ea8e70-bf4d-5f44-8ef5-e79b9fb89ca8
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 61d2f19f-2b06-5d66-8265-3d19241cc2c9
+id: 23d48409-60bd-543d-87b6-e0b4869e9cc2
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: indication indication (displayed, printed or memorized) subject to legal
-      metrological control
+  - content: indication (displayed, printed or memorized) subject to legal metrological
+      control
   examples: []
   id: 5.05-eng
   notes: []
@@ -31,18 +31,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: primary
-  language_code: eng
-  entry_status: valid
+    designation: primary indication
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 980821b8-7659-51cd-9c29-92a4efc8c033
+id: 29f088e1-45dd-5b6d-a4e1-4c92bf83af4c
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: inspection par échantillonnage
+  - content: indication (affichée, imprimée ou mémorisée) soumise au contrôle métrologique
+      légal
   examples: []
   id: 5.05-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: inspection A.11
-  language_code: fra
-  entry_status: valid
+    designation: indication primaire
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 5bb7f9b0-00bd-578d-aa83-4eadc09ec24b
+id: e9ea8e70-bf4d-5f44-8ef5-e79b9fb89ca8

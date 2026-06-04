@@ -2,27 +2,47 @@
 data:
   identifier: '3.6'
   localized_concepts:
-    fra: de43a08a-403a-58a6-9f6f-13a574dbf9eb
+    eng: 60005e27-2e7f-5dfe-b7be-0c180ac12716
+    fra: fbbe7e8f-2bcb-5767-8bbd-909fc8931020
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 5e2c3eed-bb64-5dac-949f-f786970d5373
+id: 14f3242b-8e67-589c-9a3f-6b01657a5222
 schema_version: '3'
-related:
-- type: superseded_by
-  ref:
-    source: urn:oiml:pub:v:1:2013
-    id: '3.06'
+
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: et marques en métrologie légale Ch 3Eéquipement de vérification 4.7évaluation
-      de conformité d’un instrument de mesure 2.11évaluation de type (modèle)
+  - content: all the documents attached to or associated with a measurement standard
+      describing its technical and metrological characteristics and indicating the
+      conditions and methods of its conservation, maintenance and use
+  examples: []
+  id: 3.6-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: documentation of a measurement standard
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 60005e27-2e7f-5dfe-b7be-0c180ac12716
+
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des documents attachés ou associés à un étalon de mesure décrivant
+      ses caractéristiques techniques et métro-logiques et indiquant les conditions
+      et méthodes de sa conservation, de son entretien et de son utilisation
   examples: []
   id: 3.6-fra
   notes: []
@@ -30,8 +50,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: documents
-  language_code: fra
-  entry_status: valid
+    designation: documentation d’un étalon de mesure
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: de43a08a-403a-58a6-9f6f-13a574dbf9eb
+id: fbbe7e8f-2bcb-5767-8bbd-909fc8931020

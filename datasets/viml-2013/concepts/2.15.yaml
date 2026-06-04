@@ -2,20 +2,20 @@
 data:
   identifier: '2.15'
   localized_concepts:
-    eng: 1bc263a0-47cb-5511-89ea-5e4597910ee2
-    fra: 41d35708-aa11-54d0-b40a-2dde610a7d53
+    eng: ab791734-7754-51be-b835-37ff4c925d64
+    fra: 1bb1a364-823a-5eab-aea2-e80cff621e11
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 2b1a02a7-2bab-5f76-9201-ef08d8b8f9fd
+id: 56c96080-620e-5a3e-b23d-032438a339c1
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.15'
+    id: '2.19'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,10 +26,9 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of a measuring instrument disqualification of a measuring instrument
-      decision of legal relevance that a measuring instrument does not comply with
-      statutory requirements for verification and prohibiting its use for applications
-      requiring mandatory verification
+  - content: disqualification of a measuring instrument decision of legal relevance
+      that a measuring instrument does not comply with statutory requirements for
+      verification and prohibiting its use for applications requiring mandatory verification
   examples: []
   id: 2.15-eng
   notes: []
@@ -37,18 +36,21 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: rejection
-  language_code: eng
-  entry_status: valid
+    designation: rejection of a measuring instrument
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 1bc263a0-47cb-5511-89ea-5e4597910ee2
+id: ab791734-7754-51be-b835-37ff4c925d64
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: des événements
+  - content: d’un instrument de mesure décision de portée légale spécifiant qu’un
+      instrument de mesure ne satisfait pas aux exigences réglementaires de vérification
+      et interdisant son utilisation pour les applications exigeant une vérification
+      obligatoire
   examples: []
   id: 2.15-fra
   notes: []
@@ -56,8 +58,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: registre
-  language_code: fra
-  entry_status: valid
+    designation: refus
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 41d35708-aa11-54d0-b40a-2dde610a7d53
+id: 1bb1a364-823a-5eab-aea2-e80cff621e11

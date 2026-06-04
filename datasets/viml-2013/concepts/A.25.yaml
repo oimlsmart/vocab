@@ -1,0 +1,72 @@
+---
+data:
+  identifier: A.25
+  localized_concepts:
+    eng: 6ec906c1-f2b4-5ce4-8592-a2f81fcc0a89
+    fra: fe30ecf6-276f-5515-80e5-1136ef5bb238
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 64872403-f42a-540b-b495-74a92b18bd8a
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.25
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: permission for a product or process to be marketed or used for stated
+      purposes or under stated conditions
+  examples: []
+  id: A.25-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: approval
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 6ec906c1-f2b4-5ce4-8592-a2f81fcc0a89
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: autorisation accordée pour pouvoir commercialiser ou utiliser un produit
+      ou un processus à des fins ou dans des conditions définies
+  examples: []
+  id: A.25-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/CEI 17000:2004
+      locality:
+        type: clause
+        reference_from: '7.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: homologation
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: fe30ecf6-276f-5515-80e5-1136ef5bb238

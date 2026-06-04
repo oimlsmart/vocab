@@ -2,13 +2,14 @@
 data:
   identifier: '2.3'
   localized_concepts:
-    fra: c965626c-835d-5074-a97f-4912012a28ff
+    eng: 3d13cda2-6ce6-5641-896d-fd86a9351994
+    fra: 6b87154f-cfee-5167-a208-4b2fcf63f655
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 3af4a1d2-52bc-5a20-8cfc-170804290a9f
+id: e8427906-97aa-59c4-8860-fc48fb3785a5
 schema_version: '3'
 related:
 - type: superseded_by
@@ -21,16 +22,45 @@ data:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: international d’unités, SI
+  - content: control exercised in respect of the manufacture, import, installation,
+      use, maintenance and repair of measuring instruments, performed in order to
+      check that they are used correctly as regards the observance of metrology laws
+      and regulations
   examples: []
-  id: 2.3-fra
-  notes: []
+  id: 2.3-eng
+  notes:
+  - content: Metrological supervision includes checking the correctness of quantities
+      indicated on and contained in pre-packages.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: Système
-  language_code: fra
-  entry_status: valid
+    designation: metrological supervision
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: c965626c-835d-5074-a97f-4912012a28ff
+id: 3d13cda2-6ce6-5641-896d-fd86a9351994
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: contrôle s’appliquant à la fabrication, l’importation, l’instal-lation,
+      l’utilisation, la maintenance et la réparation des instruments de mesure, effectué
+      afin de vérifier s’ils sont utilisés de manière correcte vis-à-vis de l’observation
+      des lois et règlements de métrologie
+  examples: []
+  id: 2.3-fra
+  notes:
+  - content: La surveillance métrologique comprend le contrôle de la correction des
+      quantités indiquées sur et contenues dans les préemballages.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surveillance métrologique
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 6b87154f-cfee-5167-a208-4b2fcf63f655

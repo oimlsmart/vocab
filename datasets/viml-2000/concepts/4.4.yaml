@@ -2,26 +2,49 @@
 data:
   identifier: '4.4'
   localized_concepts:
-    fra: 15a315ea-df47-56ae-9f93-2cc221606e2b
+    eng: b91c04fb-0d5e-55de-b9cc-a5fc741f72a4
+    fra: a78cbe9c-55e5-57e2-bf85-800dac1d854d
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: b8101ef5-b0ae-5d19-ac8f-f7109d22f97b
+id: 3e60d161-9b24-55a0-a0ae-88928a2ac5d1
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '4.04'
+    id: '4.14'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de mesure légalement contrôlé
+  - content: measuring instrument of an approved type, or one that meets relevant
+      specifications and may be exempt from type approval 4 UNITÉS ET INSTRUMENTS
+      DE MESURE
+  examples: []
+  id: 4.4-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring instrument acceptable for verification
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: b91c04fb-0d5e-55de-b9cc-a5fc741f72a4
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument de mesure d’un type approuvé, ou qui satisfait aux spécifications
+      applicables et peut être exempté de l’approbation de type
   examples: []
   id: 4.4-fra
   notes: []
@@ -29,8 +52,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: instrument
-  language_code: fra
-  entry_status: valid
+    designation: instrument de mesure acceptable pour la vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 15a315ea-df47-56ae-9f93-2cc221606e2b
+id: a78cbe9c-55e5-57e2-bf85-800dac1d854d

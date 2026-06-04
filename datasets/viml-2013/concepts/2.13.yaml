@@ -2,20 +2,20 @@
 data:
   identifier: '2.13'
   localized_concepts:
-    eng: 3f6e23b2-83a0-5aa2-96d0-ac78f1cdfceb
-    fra: fa457782-595e-5a5e-9a96-4b4aa811a017
+    eng: 9c4bcd96-8e94-5599-90cc-f3a441e1d02d
+    fra: 123c7ba2-4d35-52de-aa7d-4d48d64081cd
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: cb993939-036c-53eb-8467-15761d3a5990
+id: 510258c5-0250-5004-a546-04da73dbf3f7
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.13'
+    id: '2.16'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,13 +26,12 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: verification verification of a measuring instrument after a previous
-      verification
+  - content: verification of a measuring instrument after a previous verification
   examples: []
   id: 2.13-eng
   notes:
-  - content: Subsequent verification includes • mandatory periodic verification, •
-      verification after repair, and • voluntary verification.
+  - content: Subsequent verification includes mandatory periodic verification, verification
+      after repair, and voluntary verification.
   - content: Subsequent verification of a measuring instrument may be carried out
       before expiry of the period of validity of a previous verification either at
       the request of the user (owner) or when its verification is declared to be no
@@ -41,29 +40,33 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: subsequent
-  language_code: eng
-  entry_status: valid
+    designation: subsequent verification
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3f6e23b2-83a0-5aa2-96d0-ac78f1cdfceb
+id: 9c4bcd96-8e94-5599-90cc-f3a441e1d02d
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: to the expression of uncertainty in measurement, see OIML publication
-      G 1-100. 1 Guide pour l’expression de l’incertitude de mesure, voir publication
-      OIML G 1-100.
+  - content: vérification d’un instrument de mesure qui suit une vérification précédente
   examples: []
   id: 2.13-fra
-  notes: []
+  notes:
+  - content: 'Exemples de vérifications ultérieures : vérification périodique obligatoire
+      ; vérification après réparation ; vérification volontaire.'
+  - content: 2 La vérification ultérieure d’un instrument de mesure peut être effectuée
+      avant l’expiration de la période de validité d’une vérification précédente,
+      soit à la demande de l’utilisateur (propriétaire), soit quand sa vérification
+      est déclarée comme n’étant plus valable.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "[1] Guide"
-  language_code: fra
-  entry_status: valid
+    designation: vérification ultérieure
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: fa457782-595e-5a5e-9a96-4b4aa811a017
+id: 123c7ba2-4d35-52de-aa7d-4d48d64081cd

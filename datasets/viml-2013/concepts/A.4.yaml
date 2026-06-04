@@ -1,0 +1,61 @@
+---
+data:
+  identifier: A.4
+  localized_concepts:
+    eng: 6b8c74af-228e-588a-af63-3f653afa6122
+    fra: 10715bbe-02e1-5e58-ae92-43947024d182
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: f2c5fea3-6ecc-5422-b32e-c1d53024215a
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.4
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: rules, procedures and management for carrying out conformity assessment
+  examples: []
+  id: A.4-eng
+  notes:
+  - content: Conformity assessment systems may be operated at international, regional,
+      national or sub-national level. [ISO/IEC 17000:2004, 2.7]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment system
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 6b8c74af-228e-588a-af63-3f653afa6122
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: règles, procédures et management utilisés pour procéder à l'évaluation
+      de la conformité
+  examples: []
+  id: A.4-fra
+  notes:
+  - content: Les systèmes d'évaluation de la conformité peuvent s'opérer aux niveaux
+      international, régional, national ou infranational. [ISO/CEI 17000:2004, 2.7]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système d'évaluation de la conformité
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 10715bbe-02e1-5e58-ae92-43947024d182

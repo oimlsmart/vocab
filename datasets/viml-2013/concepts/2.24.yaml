@@ -2,20 +2,16 @@
 data:
   identifier: '2.24'
   localized_concepts:
-    eng: 1b7cc6fd-3fb1-5a89-9734-dc34fd582c30
-    fra: d37cf6e3-9dad-586c-892e-61d0b7736a34
+    eng: 1ac32a3f-b22b-54ad-b605-6910c1ce1e96
+    fra: 4d1e70b3-9565-57da-9ad6-b38aa0afc1c1
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: b82bb8ad-e900-5d05-bb95-db903154d416
+id: ebc40c97-4ae8-511b-b868-90b555e8dcba
 schema_version: '3'
 related:
-- type: supersedes
-  ref:
-    source: urn:oiml:pub:v:1:2000
-    id: '2.24'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,8 +22,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: on the market the first making available of a measuring instrument or
-      a prepackage on the market
+  - content: the first making available of a measuring instrument or a prepackage
+      on the market
   examples: []
   id: 2.24-eng
   notes:
@@ -37,26 +33,31 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: placing
-  language_code: eng
-  entry_status: valid
+    designation: placing on the market
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 1b7cc6fd-3fb1-5a89-9734-dc34fd582c30
+id: 1ac32a3f-b22b-54ad-b605-6910c1ce1e96
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: mise à disposition pour la première fois sur le marché d’un instrument
+      de mesure ou d’un préemballage
   examples: []
   id: 2.24-fra
-  notes: []
+  notes:
+  - content: Il peut s’agir du marché d’un seul pays ou d’un groupe de pays (région).
+      3. Documents and marks within legal metrology 3. Documents et marques en métrologie
+      légale
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: module
-  language_code: fra
-  entry_status: valid
+    designation: mise sur le marché
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: d37cf6e3-9dad-586c-892e-61d0b7736a34
+id: 4d1e70b3-9565-57da-9ad6-b38aa0afc1c1

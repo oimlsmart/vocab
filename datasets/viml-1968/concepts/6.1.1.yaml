@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 6.1.1
+  localized_concepts:
+    fra: b3f81c18-32a4-5b7b-a980-7b204429a19c
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 10c5206a-4ec7-55d6-b37f-e99df1269233
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 6.1.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: MESURE MATÉRIALISÉE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: b3f81c18-32a4-5b7b-a980-7b204429a19c

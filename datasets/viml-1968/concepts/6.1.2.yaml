@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 6.1.2
+  localized_concepts:
+    fra: c22e5734-55e9-527c-8655-f54ee20e8881
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: f746b56a-15ab-57dd-ad2d-3b3d86e006ee
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 6.1.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: APPAREIL MESUREUR
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c22e5734-55e9-527c-8655-f54ee20e8881

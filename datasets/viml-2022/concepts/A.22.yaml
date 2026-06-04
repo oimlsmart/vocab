@@ -29,8 +29,12 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2022
     id: A.3
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2013
+    id: A.22
 status: valid
-id: '08977df5-4eb3-5c8e-b6d7-fe3bfb5f5db9'
+id: 08977df5-4eb3-5c8e-b6d7-fe3bfb5f5db9
 schema_version: '3'
 ---
 data:

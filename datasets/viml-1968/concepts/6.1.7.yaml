@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 6.1.7
+  localized_concepts:
+    fra: 321dc224-4fb5-51d0-af81-66ce88d82d34
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: d155f971-db05-536b-bde6-79e574a0184f
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 6.1.7-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: DISPOSITIF AUXILIAIRE DE MESURAGE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 321dc224-4fb5-51d0-af81-66ce88d82d34

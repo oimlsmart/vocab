@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 2.4.5
+  localized_concepts:
+    fra: 4de78601-26d4-5c02-83df-52ecf52144f8
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 22ef7af9-97f3-5f05-9e1a-afa04383ba22
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 2.4.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: VÉRIFICATION SIMPLIFIÉE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 4de78601-26d4-5c02-83df-52ecf52144f8

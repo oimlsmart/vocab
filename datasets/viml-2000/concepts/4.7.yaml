@@ -2,26 +2,48 @@
 data:
   identifier: '4.7'
   localized_concepts:
-    fra: 70b45210-bc00-5219-a47b-75919140a9f6
+    eng: 667b759b-3f40-5a9e-b253-554da10463cc
+    fra: 890f0153-615f-5701-80a4-bb46e2840c4c
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: c8259b29-13f8-5595-b311-9d21d7a5d6a9
+id: e849c241-e81d-5929-9e0e-8c9f3abff796
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '4.07'
+    id: '4.15'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mark
+  - content: equipment that meets the statutory requirements and that is used for
+      verification
+  examples: []
+  id: 4.7-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification equipment
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 667b759b-3f40-5a9e-b253-554da10463cc
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: équipement satisfaisant aux exigences réglementaires et utilisé pour
+      la vérification
   examples: []
   id: 4.7-fra
   notes: []
@@ -29,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: verification
-  language_code: fra
-  entry_status: valid
+    designation: équipement de vérification
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 70b45210-bc00-5219-a47b-75919140a9f6
+id: 890f0153-615f-5701-80a4-bb46e2840c4c

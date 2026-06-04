@@ -1,0 +1,66 @@
+---
+data:
+  identifier: A.18
+  localized_concepts:
+    eng: d3766a6e-2d7f-588d-8a2e-07204d221533
+    fra: 1580fd62-50d3-559c-a9a0-36d2f36a2bc9
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 45e647cc-ff1f-56ca-81a2-08f6c1804fb8
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.18
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: third-party attestation related to products, processes, systems or persons
+  examples: []
+  id: A.18-eng
+  notes:
+  - content: Certification of a management system is sometimes also called registration.
+  - content: Certification is applicable to all objects of conformity assessment except
+      for conformity assessment bodies themselves, to which accreditation is applicable.
+      [ISO/IEC 17000:2004, 5.5]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certification
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: d3766a6e-2d7f-588d-8a2e-07204d221533
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: attestation réalisée par une tierce partie, relative à des produits,
+      des processus, des systèmes ou des personnes
+  examples: []
+  id: A.18-fra
+  notes:
+  - content: La certification d'un système de management est parfois désignée également
+      sous le nom d'enregistrement.
+  - content: Le concept de certification recouvre tous les objets de l'évaluation
+      de la conformité, excepté les organismes d'évaluation de la conformité proprement
+      dits, auxquels l'accréditation est applicable. [ISO/CEI 17000:2004, 5.5]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certification
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 1580fd62-50d3-559c-a9a0-36d2f36a2bc9

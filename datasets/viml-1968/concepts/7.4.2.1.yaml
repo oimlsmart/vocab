@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 7.4.2.1
+  localized_concepts:
+    fra: c30ae530-b7d6-5e74-b6b2-8ddcd8bb7787
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 5d0192c7-87b3-5744-8a39-380d06b6f951
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.4.2.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ÉTENDUE DE L'ÉCHELLE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c30ae530-b7d6-5e74-b6b2-8ddcd8bb7787

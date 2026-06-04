@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.2.1.1
+  localized_concepts:
+    fra: 0893dfe6-7dc1-5527-b156-4d07aff11f4c
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: d0490da9-b9f1-516b-8531-6b7d856fb825
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.2.1.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: VALEUR CONVENTIONNELLEMENT VRAIE D'UNE GRANDEUR
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 0893dfe6-7dc1-5527-b156-4d07aff11f4c

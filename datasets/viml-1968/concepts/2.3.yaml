@@ -2,22 +2,21 @@
 data:
   identifier: '2.3'
   localized_concepts:
-    fra: 77a8e025-5582-54bd-ba73-1af93ebb4300
+    fra: 0346a13c-b76b-5966-99e0-3025c26ebadc
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: f102fbbf-949b-580c-966f-d4194ece40f5
+id: 9be9bf85-ab6e-585a-9329-3bb51fb0d336
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: t.tmoin d'un modèle approuvé.................................... , ......
-      .
+  definition: []
   examples: []
   id: 2.3-fra
   notes: []
@@ -25,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 2161.Exemplaire
-  language_code: fra
-  entry_status: valid
+    designation: EXAMEN D'UN INSTRUMENT DE MESURAGE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 77a8e025-5582-54bd-ba73-1af93ebb4300
+id: 0346a13c-b76b-5966-99e0-3025c26ebadc

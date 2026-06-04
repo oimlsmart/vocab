@@ -2,14 +2,14 @@
 data:
   identifier: '5.13'
   localized_concepts:
-    eng: b68ad8a7-2c2e-5896-a3a4-342fee1cbe79
-    fra: a4c4c52a-98f2-563d-889b-45032c600fbd
+    eng: 4c218ccc-6268-5e4b-977d-d3e659cfe79e
+    fra: 14a7be89-660d-5bfa-b070-0e9e7d37e35c
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: a1431506-a17c-5166-a697-9fc44c32de78
+id: cd84a2cc-06dc-5fb9-b947-ff36de76cad5
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,7 +22,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: limit value specified in the applicable Recommenda­tion delimiting non-significant
+  - content: value specified in the applicable Recommenda­tion delimiting non-significant
       faults
   examples: []
   id: 5.13-eng
@@ -31,18 +31,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: fault
-  language_code: eng
-  entry_status: valid
+    designation: fault limit
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b68ad8a7-2c2e-5896-a3a4-342fee1cbe79
+id: 4c218ccc-6268-5e4b-977d-d3e659cfe79e
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: significatif
+  - content: valeur spécifiée dans la Recommandation applicable, délimitant les défauts
+      non-significatifs
   examples: []
   id: 5.13-fra
   notes: []
@@ -50,8 +51,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: défaut
-  language_code: fra
-  entry_status: valid
+    designation: défaut limite
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: a4c4c52a-98f2-563d-889b-45032c600fbd
+id: 14a7be89-660d-5bfa-b070-0e9e7d37e35c

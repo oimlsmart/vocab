@@ -2,20 +2,20 @@
 data:
   identifier: '3.07'
   localized_concepts:
-    eng: 3f010bdb-efc7-58cb-8ca9-54bd6878bf70
-    fra: 6b8bdb58-07b0-5561-b972-b2afaeaabb27
+    eng: 09a0085b-e36a-5077-97d8-588f01b0b432
+    fra: d663816c-aeee-567c-abf2-559f2c608d05
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 2500cb6a-fd46-5d33-81a0-f66761399032
+id: c43d6aaa-1495-5d28-8f5d-921fc06c7418
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '3.7'
+    id: '3.10'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,27 +26,29 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: and sealing marks may be combined.
+  - content: mark applied to a measuring instrument certifying its conformity to the
+      approved type
   examples: []
   id: 3.07-eng
-  notes:
-  - content: The manufacturer may be authorized to apply other marks.
+  notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: "). Note 2 Verification"
-  language_code: eng
-  entry_status: valid
+    designation: type approval mark
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 3f010bdb-efc7-58cb-8ca9-54bd6878bf70
+id: 09a0085b-e36a-5077-97d8-588f01b0b432
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de refus
+  - content: d’approbation de type marque apposée sur un instrument de mesure pour
+      certifier qu’il est conforme au type approuvé 4. Classification of measuring
+      instruments 4. Classification des instruments de mesure
   examples: []
   id: 3.07-fra
   notes: []
@@ -55,7 +57,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: marque
-  language_code: fra
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 6b8bdb58-07b0-5561-b972-b2afaeaabb27
+id: d663816c-aeee-567c-abf2-559f2c608d05

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 7.4.4
+  localized_concepts:
+    fra: eef5ec01-117a-5c4e-898f-ab366425b175
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 205cdfb1-4981-55a9-b06f-565ef0148b01
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 7.4.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ÉCHELLE À TRAITS
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: eef5ec01-117a-5c4e-898f-ab366425b175

@@ -2,14 +2,14 @@
 data:
   identifier: '5.06'
   localized_concepts:
-    eng: 322a3110-6688-5f18-bdaf-88f38f87675b
-    fra: 7de194db-a86c-5c48-86f9-c04439c30511
+    eng: d2dbdd4b-b2e4-50ef-80fd-7e73c0301766
+    fra: 6a70cf4b-3b87-54ab-a9ac-4c3a55848777
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: be9a96a1-ac1e-5d23-887f-dc51d891e4e3
+id: 07572f0e-97aa-5bdc-a227-d5de2626adfb
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,41 +22,50 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device device intended to perform a particular function, directly involved
-      in elaborating, transmitting or displaying measurement results
+  - content: device intended to perform a particular function, directly involved in
+      elaborating, transmitting or displaying measurement results
   examples: []
   id: 5.06-eng
   notes:
   - content: An ancillary device may or may not be subject to legal metrological control
       according to its function in the measuring system or to national regulations.
-  - content: 'Main ancillary devices are: • zero setting device; • repeating indicating
-      device; • printing device; • memory device; • price indicating device; • totalizing
-      indicating device; • pre-setting device; • self-service device.'
+  - content: 'Main ancillary devices are: zero setting device; repeating indicating
+      device; printing device; memory device; price indicating device; totalizing
+      indicating device; pre-setting device; self-service device.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ancillary
-  language_code: eng
-  entry_status: valid
+    designation: ancillary device
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 322a3110-6688-5f18-bdaf-88f38f87675b
+id: d2dbdd4b-b2e4-50ef-80fd-7e73c0301766
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de mémorisation
+  - content: ADVANCE \D 5.60 dispositif destiné à accomplir une fonction particulière
+      directement impliquée dans l'élaboration, la transmission ou l'affichage de
+      résultats de mesurage
   examples: []
   id: 5.06-fra
-  notes: []
+  notes:
+  - content: 1 Un dispositif complémentaire peut ou non être soumis au contrôle métrologique
+      légal, compte tenu de sa fonction dans le système de mesure ou des réglementations
+      nationales.
+  - content: '2 Les principaux dispositifs complémen­taires sont : dispositif de remise
+      à zéro ; dispositif indicateur répétiteur ; dispositif d''impression ; dispositif
+      de mémorisation ; dispositif indicateur de prix ; dispositif totalisateur ;
+      dispositif de prédétermination ; dispositif de libre‑service.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: dispositif
-  language_code: fra
-  entry_status: valid
+    designation: dispositif complémentaire
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 7de194db-a86c-5c48-86f9-c04439c30511
+id: 6a70cf4b-3b87-54ab-a9ac-4c3a55848777

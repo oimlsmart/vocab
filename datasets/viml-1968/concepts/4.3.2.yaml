@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.3.2
+  localized_concepts:
+    fra: 345ca177-581f-51a6-a627-7fd5d2c9fa15
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: d6b869d4-0896-5af2-b899-708c52cdb976
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.3.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GRANDEUR DÉRIVÉE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 345ca177-581f-51a6-a627-7fd5d2c9fa15

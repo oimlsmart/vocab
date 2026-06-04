@@ -2,14 +2,14 @@
 data:
   identifier: '5.07'
   localized_concepts:
-    eng: b193e3ef-257d-516a-a115-f557e17e0b25
-    fra: f0855843-92c9-578b-8d29-e4c9a9c8ec18
+    eng: b63c4d39-a492-5ae2-a520-d84d5f6c9921
+    fra: a985d83b-bfef-5bb8-9c13-7757b47ba1a5
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 7af75610-ad7e-5812-aaf9-560662aab261
+id: 9640ed54-d67f-5760-9af3-68e16219070b
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,38 +22,42 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: facility facility that is incorporated in a measuring instrument and
-      which enables significant faults to be detected and acted upon
+  - content: facility that is incorporated in a measuring instrument and which enables
+      significant faults to be detected and acted upon
   examples: []
   id: 5.07-eng
   notes:
-  - content: "“Acted upon” refers to any adequate response by the measuring instrument
-      (luminous signal, acoustic signal, prevention of the measurement process, etc.)."
+  - content: “Acted upon” refers to any adequate response by the measuring instrument
+      (luminous signal, acoustic signal, prevention of the measurement process, etc.).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: checking
-  language_code: eng
-  entry_status: valid
+    designation: checking facility
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: b193e3ef-257d-516a-a115-f557e17e0b25
+id: b63c4d39-a492-5ae2-a520-d84d5f6c9921
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: de mesure
+  - content: système incorporé dans un instrument de mesure et qui permet de détecter
+      et de mettre en évidence les défauts significatifs
   examples: []
   id: 5.07-fra
-  notes: []
+  notes:
+  - content: La mise en évidence peut être matérialisée par toute réponse appropriée
+      de l’instrument de mesure (signal lumineux, signal acoustique, blocage du processus
+      de mesurage, etc.).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: système
-  language_code: fra
-  entry_status: valid
+    designation: système de contrôle
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: f0855843-92c9-578b-8d29-e4c9a9c8ec18
+id: a985d83b-bfef-5bb8-9c13-7757b47ba1a5

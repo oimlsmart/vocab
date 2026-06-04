@@ -2,21 +2,21 @@
 data:
   identifier: '2.7'
   localized_concepts:
-    fra: 9973df9d-dd81-5f5c-9e2f-972f6c865e17
+    fra: fb0566b1-93f1-505f-8c65-13fa31418fbd
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 8d9dde5e-9bd7-5cbf-bf5c-c95e20c8e8a0
+id: c6ab4f1b-e94a-5090-8122-e7d56c439bd9
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: "(de l'indication)"
+  definition: []
   examples: []
   id: 2.7-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 1Observation
-  language_code: fra
-  entry_status: valid
+    designation: SURVEILLANCE MÉTROLOGIQUE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9973df9d-dd81-5f5c-9e2f-972f6c865e17
+id: fb0566b1-93f1-505f-8c65-13fa31418fbd

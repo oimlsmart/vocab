@@ -2,20 +2,20 @@
 data:
   identifier: '2.12'
   localized_concepts:
-    eng: 4eb73062-fd6a-5204-9c00-2914be93d46f
-    fra: fa5c6e2d-6145-53ca-aeab-7a5a76a94a68
+    eng: d58b49db-d4ae-5e79-a0ae-541937288a96
+    fra: 72ef2022-1188-56d2-a401-72056f2bdfe6
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: ca1c2562-02ae-5411-84e6-17ca991cd2fd
+id: 261eac6a-7d77-5eb1-9fb3-58e661448eea
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.12'
+    id: '2.15'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,7 +26,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: Note 1).
+  - content: verification of a measuring instrument which has not been verified previously
   examples: []
   id: 2.12-eng
   notes: []
@@ -34,19 +34,18 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ","
-  language_code: eng
-  entry_status: valid
+    designation: initial verification
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 4eb73062-fd6a-5204-9c00-2914be93d46f
+id: d58b49db-d4ae-5e79-a0ae-541937288a96
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: primitive d’instruments de mesure par recours au système de management
-      de la qualité du fabricant
+  - content: vérification d’un instrument de mesure qui n’a pas été vérifié auparavant
   examples: []
   id: 2.12-fra
   notes: []
@@ -54,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
-  language_code: fra
-  entry_status: valid
+    designation: vérification primitive
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: fa5c6e2d-6145-53ca-aeab-7a5a76a94a68
+id: 72ef2022-1188-56d2-a401-72056f2bdfe6

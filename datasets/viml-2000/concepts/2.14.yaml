@@ -2,26 +2,49 @@
 data:
   identifier: '2.14'
   localized_concepts:
-    fra: 536d606f-0397-5cb0-90cb-0e577d16d9a9
+    eng: 1dde3533-8acc-5434-b5f7-510b9a9f1150
+    fra: a7548fd2-b6ac-5b5d-9ad7-c8618dd40893
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: 7d9f7f5b-2785-5d2b-a35e-e315046d2712
+id: ad2a961f-3cb3-5f4d-8dd6-188be31a0322
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '2.14'
+    id: '2.11'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: périodique obligatoire
+  - content: verification of a homogeneous batch of measuring instru-ments based on
+      the results of examination of a statistically appropriate number of specimens
+      selected at random from an identified lot
+  examples: []
+  id: 2.14-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification by sampling
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 1dde3533-8acc-5434-b5f7-510b9a9f1150
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vérification d’un lot homogène d’instruments basée sur l’examen d’un
+      nombre statistiquement approprié d’exem-plaires pris au hasard dans un lot identifié
   examples: []
   id: 2.14-fra
   notes: []
@@ -29,8 +52,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
-  language_code: fra
-  entry_status: valid
+    designation: vérification par échantillonnage
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 536d606f-0397-5cb0-90cb-0e577d16d9a9
+id: a7548fd2-b6ac-5b5d-9ad7-c8618dd40893

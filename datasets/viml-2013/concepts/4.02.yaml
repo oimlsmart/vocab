@@ -2,20 +2,16 @@
 data:
   identifier: '4.02'
   localized_concepts:
-    eng: 346fd9be-d07d-5913-8e1a-c040a15ebca9
-    fra: 7ed054e2-7576-5e31-ba21-9d776eadb591
+    eng: 291db2d6-5522-5f18-b82a-be82edc8675b
+    fra: 153a6345-f279-54d6-875a-fd1a2f176eb7
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: 1cc6072d-b883-565f-be41-d9faaa5aef0e
+id: 9d941a70-d672-5335-bfef-c797e5a65899
 schema_version: '3'
 related:
-- type: supersedes
-  ref:
-    source: urn:oiml:pub:v:1:2000
-    id: '4.2'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,11 +22,10 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: of measuring instruments identifiable group of measuring instruments
-      belonging to the same manufactured type within the same category that have the
-      same design features and metrological principles for measurement but which may
-      differ in some metrological and technical performance characteristics, as defined
-      in the relevant Recommendation
+  - content: identifiable group of measuring instruments belonging to the same manufactured
+      type within the same category that have the same design features and metrological
+      principles for measurement but which may differ in some metrological and technical
+      performance characteristics, as defined in the relevant Recommendation
   examples: []
   id: 4.02-eng
   notes: []
@@ -38,18 +33,22 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: family
-  language_code: eng
-  entry_status: valid
+    designation: family of measuring instruments
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 346fd9be-d07d-5913-8e1a-c040a15ebca9
+id: 291db2d6-5522-5f18-b82a-be82edc8675b
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur d'influence
+  - content: d’instruments de mesure groupe identifiable d’instruments de mesure appartenant
+      au même type fabriqué et à la même catégorie, qui ont les mêmes caractéristiques
+      de conception et principes de mesurage, mais qui peuvent différer par quelques
+      caractéristiques de performance métrologiques et techniques, telles que définies
+      dans la Recommandation applicable
   examples: []
   id: 4.02-fra
   notes: []
@@ -57,8 +56,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: G
-  language_code: fra
-  entry_status: valid
+    designation: famille
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 7ed054e2-7576-5e31-ba21-9d776eadb591
+id: 153a6345-f279-54d6-875a-fd1a2f176eb7

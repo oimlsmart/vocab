@@ -1,0 +1,60 @@
+---
+data:
+  identifier: A.3
+  localized_concepts:
+    eng: c58dba7e-30df-533b-8d01-898e939375fb
+    fra: 694f7cbb-10d1-51cc-8da6-a22b4b324b23
+  domains:
+  - concept_id: section-A
+    source: urn:oiml:pub:v:1:2013
+    ref_type: domain
+status: valid
+id: 35e758b6-c232-57c4-8d06-807d3e6efc8e
+schema_version: '3'
+related:
+- type: superseded_by
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: A.3
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: authoritative body that performs accreditation
+  examples: []
+  id: A.3-eng
+  notes:
+  - content: The authority of an accreditation body is generally derived from government.
+      [ISO/IEC 17000:2004, 2.6]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accreditation body
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: c58dba7e-30df-533b-8d01-898e939375fb
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: organisme faisant autorité qui procède à l'accréditation
+  examples: []
+  id: A.3-fra
+  notes:
+  - content: L'autorité d'un organisme d'accréditation est généralement issue du gouvernement.
+      [ISO/CEI 17000:2004, 2.6]
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: organisme d'accréditation
+language_code: fra
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 694f7cbb-10d1-51cc-8da6-a22b4b324b23

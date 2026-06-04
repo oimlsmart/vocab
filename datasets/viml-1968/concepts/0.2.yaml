@@ -2,22 +2,21 @@
 data:
   identifier: '0.2'
   localized_concepts:
-    fra: b9cad14c-f9d9-5750-885b-7537d2011b37
+    fra: 4d565272-9c48-55bb-bf98-01d5c5ce96f0
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: 297070fa-9f19-5d05-98f2-c8ba22b83843
+id: 4a1bce4c-95d0-506c-bcd0-398f92385ec1
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: ArticleE143.Étendue de l'échelle .............................................................
-      .
+  definition: []
   examples: []
   id: 0.2-fra
   notes: []
@@ -25,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: '4'
-  language_code: fra
-  entry_status: valid
+    designation: MÉTROLOGIE GÉNÉRALE
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b9cad14c-f9d9-5750-885b-7537d2011b37
+id: 4d565272-9c48-55bb-bf98-01d5c5ce96f0

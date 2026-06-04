@@ -2,14 +2,14 @@
 data:
   identifier: '6.03'
   localized_concepts:
-    eng: 570b86c8-946a-517f-b827-afcbcc2914c4
-    fra: 64fcd7fb-d6da-56f0-a871-977ba26a63b9
+    eng: 4aed72ac-0ce2-5715-94a8-463edd76af04
+    fra: 3e6b6f0c-ae5e-539d-9846-017e1c6c3c8d
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: dfbf0523-1f9c-56b0-b416-1b445be743ad
+id: a1a7993a-9aff-5532-8b68-1bf69d6dfce2
 schema_version: '3'
 related:
 - type: superseded_by
@@ -22,10 +22,31 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
+  - content: logiciel programme code et champ de données dédié recevant, filtrant
+      ou transmettant les données entre les modules du logiciel
+  examples: []
+  id: 6.03-eng
+  notes:
+  - content: Une interface logicielle n’a pas obligatoirement un caractère légal.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interface
+language_code: eng
+entry_status: valid
+date_accepted: '2013-01-01T00:00:00+00:00'
+id: 4aed72ac-0ce2-5715-94a8-463edd76af04
+---
+data:
+  dates:
+  - date: '2013-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
   - content: interface program code and dedicated data domain receiving, filtering,
       or transmitting data between software modules
   examples: []
-  id: 6.03-eng
+  id: 6.03-fra
   notes:
   - content: A software interface is not necessarily legally relevant.
   sources: []
@@ -33,26 +54,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: software
-  language_code: eng
-  entry_status: valid
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 570b86c8-946a-517f-b827-afcbcc2914c4
----
-data:
-  dates:
-  - date: '2013-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: utilisateur
-  examples: []
-  id: 6.03-fra
-  notes: []
-  sources: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: interface
-  language_code: fra
-  entry_status: valid
-date_accepted: '2013-01-01T00:00:00+00:00'
-id: 64fcd7fb-d6da-56f0-a871-977ba26a63b9
+id: 3e6b6f0c-ae5e-539d-9846-017e1c6c3c8d

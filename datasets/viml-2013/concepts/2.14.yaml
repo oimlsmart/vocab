@@ -2,20 +2,20 @@
 data:
   identifier: '2.14'
   localized_concepts:
-    eng: 4b9fd4ae-c524-58ec-9705-b7f9a2f845fd
-    fra: e3dcded5-259c-5dcd-8722-a1e23269f2a3
+    eng: a5c0e4a6-b34e-500f-8b2d-3bda19dbcf13
+    fra: 74561f16-14c8-51b3-b7dc-aa280ca3ea09
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: baa13b1e-9432-5014-aa2a-b6bce3879231
+id: 82b80ea3-a4ad-580a-a50d-1690ea42f38b
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:1:2000
-    id: '2.14'
+    id: '2.17'
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2022
@@ -26,9 +26,8 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: periodic verification subsequent verification of a measuring instrument,
-      carried out periodically at specified intervals according to the procedure laid
-      down by the regulations
+  - content: subsequent verification of a measuring instrument, carried out periodically
+      at specified intervals according to the procedure laid down by the regulations
   examples: []
   id: 2.14-eng
   notes: []
@@ -36,18 +35,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mandatory
-  language_code: eng
-  entry_status: valid
+    designation: mandatory periodic verification
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 4b9fd4ae-c524-58ec-9705-b7f9a2f845fd
+id: a5c0e4a6-b34e-500f-8b2d-3bda19dbcf13
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: primitive
+  - content: vérification ultérieure d’un instrument de mesure effectuée périodiquement
+      à des intervalles spécifiés selon la procédure fixée par la réglementation
   examples: []
   id: 2.14-fra
   notes: []
@@ -55,8 +55,11 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
-  language_code: fra
-  entry_status: valid
+    designation: vérification périodique
+  - type: expression
+    normative_status: admitted
+    designation: obligatoire
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: e3dcded5-259c-5dcd-8722-a1e23269f2a3
+id: 74561f16-14c8-51b3-b7dc-aa280ca3ea09

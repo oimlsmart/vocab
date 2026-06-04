@@ -2,14 +2,14 @@
 data:
   identifier: '5.19'
   localized_concepts:
-    eng: c5ccfb49-3226-5a50-b916-0f901ead261c
-    fra: 92a8d876-1d92-51f8-a6ab-76c0a345dbef
+    eng: b4a91e41-75d8-550d-b989-91ec6b9f5bae
+    fra: ba488a97-e448-5e05-9689-fd0790ee0f03
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:2013
     ref_type: domain
 status: valid
-id: d6b2a139-c157-5735-853f-16a1d2a98487
+id: e250651e-773b-573f-8227-d591e26b01ec
 schema_version: '3'
 related:
 - type: superseded_by
@@ -33,17 +33,19 @@ data:
   - type: expression
     normative_status: preferred
     designation: disturbance
-  language_code: eng
-  entry_status: valid
+language_code: eng
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: c5ccfb49-3226-5a50-b916-0f901ead261c
+id: b4a91e41-75d8-550d-b989-91ec6b9f5bae
 ---
 data:
   dates:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: portée de l'attestation A.16 procédure A.7 programme d’essai(s)
+  - content: grandeur d'influence dont la valeur se situe dans les limites spécifiées
+      dans la Recommandation applicable, mais en dehors des conditions assignées de
+      fonctionnement d’un instrument de mesure
   examples: []
   id: 5.19-fra
   notes: []
@@ -51,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: plainte A.23
-  language_code: fra
-  entry_status: valid
+    designation: perturbation
+language_code: fra
+entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
-id: 92a8d876-1d92-51f8-a6ab-76c0a345dbef
+id: ba488a97-e448-5e05-9689-fd0790ee0f03

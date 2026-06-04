@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.1.2
+  localized_concepts:
+    fra: 930cf7bc-1087-5a5a-bbe8-ae2b58e221f2
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: e74fe553-a4d9-5acd-942b-2f3276503604
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.1.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GRANDEUR D'INFLUENCE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 930cf7bc-1087-5a5a-bbe8-ae2b58e221f2

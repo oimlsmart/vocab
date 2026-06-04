@@ -2,21 +2,21 @@
 data:
   identifier: '6.4'
   localized_concepts:
-    fra: 6253c6ef-28c0-5295-a370-b0686275c404
+    fra: a62554b7-6a8d-58c5-b505-a1f6e11235b1
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: domain
 status: valid
-id: c4596297-a8b6-5e2a-9545-68711df37f19
+id: 1d2711e1-5778-5a6a-8108-e37a09851a31
 schema_version: '3'
+
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition:
-  - content: Retua d'un instrument de .m.e&urage. ... , .... ,
+  definition: []
   examples: []
   id: 6.4-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: 11ArticleR.139.
-  language_code: fra
-  entry_status: valid
+    designation: ÉTALON
+language_code: fra
+entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 6253c6ef-28c0-5295-a370-b0686275c404
+id: a62554b7-6a8d-58c5-b505-a1f6e11235b1

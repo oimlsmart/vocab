@@ -2,26 +2,50 @@
 data:
   identifier: '4.6'
   localized_concepts:
-    fra: 4c9373f6-5bbb-5f3e-860a-03d14d0079c5
+    eng: e8a14ddc-cc07-576c-a31f-1994d5356d84
+    fra: c177f106-3c2d-5331-86e8-b6c38fadd239
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: ebf5e2fe-3e26-5def-8811-15642eddb828
+id: afda1a9c-6951-512e-a799-95b1114f117c
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '4.06'
+    id: '4.09'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: métrologique
+  - content: measuring instrument of an approved type, which on its own or together
+      with suitable documentation, serves as a reference e.g. for checking conformity
+      of instruments with the approved type
+  examples: []
+  id: 4.6-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specimen of an approved type
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: e8a14ddc-cc07-576c-a31f-1994d5356d84
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument de mesure d’un type approuvé qui, seul ou avec une documentation
+      appropriée, sert de référence par exemple pour vérifier la conformité d’instruments
+      au type approuvé
   examples: []
   id: 4.6-fra
   notes: []
@@ -29,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: expertise
-  language_code: fra
-  entry_status: valid
+    designation: exemplaire d’un type approuvé
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 4c9373f6-5bbb-5f3e-860a-03d14d0079c5
+id: c177f106-3c2d-5331-86e8-b6c38fadd239

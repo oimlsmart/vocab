@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 4.6.1
+  localized_concepts:
+    fra: f972a4f2-c66e-51b5-ae87-d9eecce6c03d
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: af06ae40-cda9-5ccc-b1f9-387411d5ba3f
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 4.6.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: SYMBOLE DE L'UNITÉ DE MESURE
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: f972a4f2-c66e-51b5-ae87-d9eecce6c03d

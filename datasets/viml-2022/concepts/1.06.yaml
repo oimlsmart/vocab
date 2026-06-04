@@ -30,11 +30,14 @@ data:
   examples: []
   id: 1.06-eng
   notes:
-  - content: |-
-      Legal units may be
+  - content: 'Legal units may be
+
       — {{SI,0.02}} units,
-      — their decimal multiples and submultiples as indicated by the use of {{SI,0.02}} prefixes, or
-      — non-{{SI,0.02}} units specified by relevant regulations.
+
+      — their decimal multiples and submultiples as indicated by the use of {{SI,0.02}}
+      prefixes, or
+
+      — non-{{SI,0.02}} units specified by relevant regulations.'
   sources: []
   terms:
   - type: expression
@@ -54,11 +57,14 @@ data:
   examples: []
   id: 1.06-fra
   notes:
-  - content: |-
-      Les unités légales peuvent être
+  - content: 'Les unités légales peuvent être
+
       — les unités {{SI,0.02}},
-      — leurs multiples et sous-multiples décimaux comme indiqué par l'utilisation des préfixes du {{SI,0.02}}, ou
-      — des unités non {{SI,0.02}} spécifiées par les règlements applicables.
+
+      — leurs multiples et sous-multiples décimaux comme indiqué par l''utilisation
+      des préfixes du {{SI,0.02}}, ou
+
+      — des unités non {{SI,0.02}} spécifiées par les règlements applicables.'
   sources: []
   terms:
   - type: expression

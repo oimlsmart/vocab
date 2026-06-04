@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measuring instrument,0.10}} of an approved type, or one that meets
-      statutory requirements and may be exempt from {{type approval,2.05}}"
+  - content: '{{measuring instrument,0.10}} of an approved type, or one that meets
+      statutory requirements and may be exempt from {{type approval,2.05}}'
   examples: []
   id: 4.14-eng
   notes: []
@@ -50,8 +50,9 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{instrument de mesure,0.10}} d'un type approuvé, ou qui satisfait aux
-      spécifications réglementaires et peut être exempté de l'{{approbation de type,2.05}}"
+  - content: '{{instrument de mesure,0.10}} d''un type approuvé, ou qui satisfait
+      aux spécifications réglementaires et peut être exempté de l''{{approbation de
+      type,2.05}}'
   examples: []
   id: 4.14-fra
   notes: []

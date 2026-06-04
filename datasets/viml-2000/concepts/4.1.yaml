@@ -2,13 +2,14 @@
 data:
   identifier: '4.1'
   localized_concepts:
-    fra: 74d5aa33-bc10-53fd-923c-ed2c0aba3a56
+    eng: a8248fd7-45fc-5605-a4d5-a7631d1ebf77
+    fra: 2c300a7e-d10a-5efc-937d-7dbb650ddf32
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: fb8f42b9-44fd-5fdc-adad-5312071f80b5
+id: 3be0d6b1-3f44-5151-b583-425783081a51
 schema_version: '3'
 related:
 - type: superseded_by
@@ -21,16 +22,40 @@ data:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un instrument de mesure
+  - content: units of measurement required or permitted by regulations
   examples: []
-  id: 4.1-fra
-  notes: []
+  id: 4.1-eng
+  notes:
+  - content: 'Legal units may be: SI units, their decimal multiples and submultiples
+      as indicated by the use of SI prefixes, non-SI units specified by relevant regulations.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: Vvérification
-  language_code: fra
-  entry_status: valid
+    designation: legal units (of measurement)
+language_code: eng
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: 74d5aa33-bc10-53fd-923c-ed2c0aba3a56
+id: a8248fd7-45fc-5605-a4d5-a7631d1ebf77
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unités de mesure dont l’utilisation est exigée ou permise par les règlements
+  examples: []
+  id: 4.1-fra
+  notes:
+  - content: 'Les unités légales peuvent être: les unités SI, leurs multiples et sous-multiples
+      décimaux comme indiqué par l’utilisation des préfixes du SI, des unités non
+      SI spécifiées par les règlements applicables.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unités légales (de mesure)
+language_code: fra
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 2c300a7e-d10a-5efc-937d-7dbb650ddf32

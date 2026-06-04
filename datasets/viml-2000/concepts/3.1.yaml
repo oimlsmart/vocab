@@ -2,25 +2,50 @@
 data:
   identifier: '3.1'
   localized_concepts:
-    fra: fecaaf14-08a8-5de9-8486-1003326209b9
+    eng: 3f37cd89-f9c6-51a2-a83b-90e0f7595e15
+    fra: 29740766-8e30-5dd0-b42b-808df9305395
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2000
     ref_type: domain
 status: valid
-id: e66e24f0-c814-5e35-b8ff-a0ab678a8e1a
+id: 476bc8e4-4014-51f5-9385-c5719e3de3d2
 schema_version: '3'
 related:
 - type: superseded_by
   ref:
     source: urn:oiml:pub:v:1:2013
-    id: '3.01'
+    id: '1.02'
 ---
 data:
   dates:
   - date: '2000-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: legal acts and regulations that in particular define the legal units
+      of measurement and prescribe the organizational structure of legal metrology
+      programs and activities
+  examples: []
+  id: 3.1-eng
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: law on metrology
+language_code: eng
+entry_status: valid
+date_accepted: '2000-01-01T00:00:00+00:00'
+id: 3f37cd89-f9c6-51a2-a83b-90e0f7595e15
+---
+data:
+  dates:
+  - date: '2000-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: actes légaux et réglementations qui, en particulier, définissent les
+      unités de mesure légales et prescrivent la structure organi-sationnelle des
+      programmes et activités de métrologie légale
   examples: []
   id: 3.1-fra
   notes: []
@@ -28,8 +53,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Mmarquage
-  language_code: fra
-  entry_status: valid
+    designation: loi de métrologie
+language_code: fra
+entry_status: valid
 date_accepted: '2000-01-01T00:00:00+00:00'
-id: fecaaf14-08a8-5de9-8486-1003326209b9
+id: 29740766-8e30-5dd0-b42b-808df9305395

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '0.5'
+  localized_concepts:
+    fra: c0ac1186-2b35-5924-9094-8011f1f17bb1
+  domains:
+  - concept_id: section-0
+    source: urn:oiml:pub:v:1:1968
+    ref_type: domain
+status: valid
+id: 53b7ade1-718c-53a2-85f8-f69c5aedd4d0
+schema_version: '3'
+
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 0.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: TECHNIQUE DES MESURAGES
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c0ac1186-2b35-5924-9094-8011f1f17bb1
