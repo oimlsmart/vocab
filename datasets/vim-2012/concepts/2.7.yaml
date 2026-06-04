@@ -1,0 +1,80 @@
+data:
+  identifier: '2.7'
+  localized_concepts:
+    eng: 29cc3a44-4237-4be6-ba60-726868190a1d
+    fra: 23f5d9e7-40ea-4d75-8c87-ac3c2cd17d44
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 1ad88116-983f-4c4e-ba24-79c1726826ec
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.7'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{measurement procedure,2.6}} accepted as providing {{measurement results,2.9}}
+      fit for their intended use in assessing {{measurement trueness,2.14}} of {{measured
+      quantity values,2.10}} obtained from other measurement procedures for {{quantities,1.1}}
+      of the same {{kind,1.2}}, in {{calibration,2.39}}, or in characterizing {{reference
+      materials,5.13}}'
+  examples: []
+  id: 2.7-eng
+  language_code: eng
+  notes:
+  - content: "[Annotation] The definition systematically uses preferred terms and\
+      \ so is long and complex. A shorter definition, coupled with a Note, might be\
+      \ sufficient: \n\"measurement procedure used in the process of providing results\
+      \ for assessing trueness of values obtained from other measurement procedures\
+      \ for quantities of the same kind\"\nNOTE 1 Reference measurement procedures\
+      \ are often used in calibration and in assigning values to reference materials."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference measurement procedure
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 29cc3a44-4237-4be6-ba60-726868190a1d
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{procédure de mesure,2.6}} considérée comme fournissant des {{résultats
+      de mesure,2.9}} adaptés à leur usage prévu pour l''évaluation de la {{justesse,2.14}}
+      de {{valeurs mesurées,2.10}} obtenues à partir d''autres procédures de mesure
+      pour des {{grandeurs,1.1}} de la même {{nature,1.2}}, pour un {{étalonnage,2.39}}
+      ou pour la caractérisation de {{matériaux de référence,5.13}}'
+  examples: []
+  id: 2.7-fra
+  language_code: fra
+  notes:
+  - content: '[Annotation] La définition est longue et complexe (et utilise systématiquement
+      en anglais les termes privilégiés). Une définition plus courte, associée à une
+      note, pourrait suffire :
+
+      «procédure de mesure utilisée pour fournir des résultats destinés à évaluer
+      la justesse des valeurs obtenues à partir d''autres procédures de mesure pour
+      des grandeurs de même nature»
+
+      NOTE 1  Des procédures de mesure de référence sont souvent utilisées dans les
+      étalonnages et pour assigner des valeurs aux matériaux de référence.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: procédure de mesure de référence
+  - type: expression
+    normative_status: admitted
+    designation: procédure opératoire de référence, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 23f5d9e7-40ea-4d75-8c87-ac3c2cd17d44

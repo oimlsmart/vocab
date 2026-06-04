@@ -1,0 +1,67 @@
+data:
+  identifier: '3.3'
+  localized_concepts:
+    eng: 340abdae-bfed-48d9-804a-6068552097d8
+    fra: a391917f-6698-4b24-94da-0de037c659c3
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 883992b9-407f-4732-bd7d-fe9e4b5b1bb8
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '3.3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{measuring instrument,3.1}} providing an output signal carrying information
+      about the {{value,1.19}} of the {{quantity,1.1}} being measured'
+  examples:
+  - content: Voltmeter, micrometer, thermometer, electronic balance.
+  id: 3.3-eng
+  language_code: eng
+  notes:
+  - content: An indicating measuring instrument may provide a record of its {{indication,4.1}}.
+  - content: An output signal may be presented in visual or acoustic form. It may
+      also be transmitted to one or more other devices.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating measuring instrument
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 340abdae-bfed-48d9-804a-6068552097d8
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{instrument de mesure,3.1}} qui fournit un signal de sortie porteur
+      d''informations sur la {{valeur,1.19}} de la {{grandeur,1.1}} mesurée'
+  examples: []
+  id: 3.3-fra
+  language_code: fra
+  notes:
+  - content: EXEMPLES Voltmètre, micromètre à vis, thermomètre, balance électronique.
+  - content: Un appareil de mesure indicateur peut fournir un enregistrement de son
+      {{indication,4.1}}.
+  - content: Un signal de sortie peut être présenté sous forme visuelle ou acoustique.
+      Il peut aussi être transmis à un ou plusieurs autres dispositifs.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appareil de mesure indicateur
+  - type: expression
+    normative_status: admitted
+    designation: appareil indicateur, m
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a391917f-6698-4b24-94da-0de037c659c3

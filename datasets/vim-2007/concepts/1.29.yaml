@@ -5,7 +5,7 @@ data:
     fra: 371f3417-3a9b-4cb6-8385-fabb015372c0
   domains:
   - concept_id: section-1
-    source: urn:jcgm:pub:200:2007
+    source: urn:oiml:pub:v:2:2007
     ref_type: domain
 status: valid
 id: c1733bc5-efde-4e40-ac8b-f8c21d666358
@@ -13,7 +13,7 @@ schema_version: '3'
 related:
 - type: supersedes
   ref:
-    source: urn:jcgm:pub:200:1993
+    source: urn:oiml:pub:v:2:1993
     id: '1.22'
 ---
 data:

@@ -1,0 +1,60 @@
+data:
+  identifier: '4.14'
+  localized_concepts:
+    eng: c70d290c-6afb-4730-9a2a-f4f3b8163ef5
+    fra: 20467e47-b0e8-4573-8e0a-6c795f13215d
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: cc1bd5a3-a322-479d-a4a8-96133bf21398
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.14'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest change in a {{quantity,1.1}} being measured that causes a perceptible
+      change in the corresponding {{indication,4.1}}
+  examples: []
+  id: 4.14-eng
+  language_code: eng
+  notes:
+  - content: Resolution can depend on, for example, noise (internal or external) or
+      friction. It may also depend on the {{value,1.19}} of a quantity being measured.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c70d290c-6afb-4730-9a2a-f4f3b8163ef5
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: plus petite variation de la {{grandeur,1.1}} mesurée qui produit une
+      variation perceptible de l'{{indication,4.1}} correspondante
+  examples: []
+  id: 4.14-fra
+  language_code: fra
+  notes:
+  - content: La résolution peut dépendre, par exemple, du bruit (interne ou externe)
+      ou du frottement. Elle peut aussi dépendre de la {{valeur,1.19}} de la grandeur
+      mesurée.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résolution
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 20467e47-b0e8-4573-8e0a-6c795f13215d

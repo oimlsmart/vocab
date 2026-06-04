@@ -1,0 +1,61 @@
+data:
+  identifier: '4.27'
+  localized_concepts:
+    eng: a6126bf1-0142-424a-abc1-5a0332c99e75
+    fra: 7c5ecf4f-1814-44f6-96ea-a00378145765
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 902e434b-25cf-489f-af16-baac2150d611
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.27'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{measurement error,2.16}} of a {{measuring instrument,3.1}} or {{measuring
+      system,3.2}} at a specified {{measured quantity value,2.10}}'
+  examples: []
+  id: 4.27-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
+      value" without ambiguity: "measurement error of a measuring instrument or measuring
+      system at a specified measured value".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: datum measurement error
+  - type: expression
+    normative_status: admitted
+    designation: datum error
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a6126bf1-0142-424a-abc1-5a0332c99e75
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{erreur de mesure,2.16}} d''un {{instrument de mesure,3.1}} ou d''un
+      {{système de mesure,3.2}} pour une {{valeur mesurée,2.10}} spécifiée'
+  examples: []
+  id: 4.27-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur au point de contrôle
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7c5ecf4f-1814-44f6-96ea-a00378145765

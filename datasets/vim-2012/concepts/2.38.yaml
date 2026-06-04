@@ -1,0 +1,64 @@
+data:
+  identifier: '2.38'
+  localized_concepts:
+    eng: adf3dfc8-38c2-4f96-81a5-222d1faa8fc4
+    fra: 7cc17600-6865-4508-9583-b06468d63e40
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 7f7d16fd-e586-4da9-9d01-57a1d0e8a7d8
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.38'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: number larger than one by which a {{combined standard measurement uncertainty,2.31}}
+      is multiplied to obtain an {{expanded measurement uncertainty,2.35}}
+  examples: []
+  id: 2.38-eng
+  language_code: eng
+  notes:
+  - content: A coverage factor is usually symbolized k (see also ISO/IEC Guide 98-3:2008,
+      2.3.6).
+  - content: '[Annotation] Here "combined standard measurement uncertainty" can be
+      replaced with "combined standard uncertainty" and "expanded measurement uncertainty"
+      can be replaced with "expanded uncertainty" without ambiguity: "number larger
+      than one by which a combined standard uncertainty is multiplied to obtain an
+      expanded uncertainty".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage factor
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: adf3dfc8-38c2-4f96-81a5-222d1faa8fc4
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: nombre supérieur à un par lequel on multiplie une {{incertitude-type
+      composée,2.31}} pour obtenir une {{incertitude élargie,2.35}}
+  examples: []
+  id: 2.38-fra
+  language_code: fra
+  notes:
+  - content: Un facteur d'élargissement est habituellement noté par le symbole k (voir
+      aussi le Guide ISO/CEI 98-3:2008, 2.3.6).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur d'élargissement
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7cc17600-6865-4508-9583-b06468d63e40

@@ -1,0 +1,69 @@
+data:
+  identifier: '4.7'
+  localized_concepts:
+    eng: e8b3de3f-f378-4776-86e9-5ec556632851
+    fra: 2980ffcd-5c4d-411b-a622-4f73b634bb91
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: c75bdd4e-b644-48c1-9af7-afb10868de09
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.7'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of {{values,1.19}} of {{quantities,1.1}} of the same {{kind,1.2}}
+      that can be measured by a given {{measuring instrument,3.1}} or {{measuring
+      system,3.2}} with specified {{instrumental measurement uncertainty,4.24}}, under
+      defined conditions
+  examples: []
+  id: 4.7-eng
+  language_code: eng
+  notes:
+  - content: In some fields, the term is “measuring range” or “measurement range”.
+  - content: The lower limit of a measuring interval should not be confused with {{detection
+      limit,4.18}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring interval
+  - type: expression
+    normative_status: admitted
+    designation: working interval
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e8b3de3f-f378-4776-86e9-5ec556632851
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des {{valeurs,1.19}} de {{grandeurs,1.1}} d'une même {{nature,1.2}}
+      qu'un {{instrument de mesure,3.1}} ou un {{système de mesure,3.2}} donné peut
+      mesurer avec une {{incertitude instrumentale,4.24}} spécifiée, dans des conditions
+      déterminées
+  examples: []
+  id: 4.7-fra
+  language_code: fra
+  notes:
+  - content: Dans certains domaines, le terme anglais est «measuring range» ou «measurement
+      range». En français, le terme «étendue de mesure» est parfois improprement employé.
+  - content: Il convient de ne pas confondre la limite inférieure d'un intervalle
+      de mesure avec la {{limite de détection,4.18}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intervalle de mesure
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2980ffcd-5c4d-411b-a622-4f73b634bb91

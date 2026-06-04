@@ -1,0 +1,121 @@
+data:
+  identifier: '2.39'
+  localized_concepts:
+    eng: 793c2955-2f11-49b4-b22c-8e52a4a85837
+    fra: 8bdf1b41-d5aa-4256-8409-461bea072624
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 8cc511a1-030c-4cc5-887d-6aba5271630e
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.14'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.39'
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operation that, under specified conditions, in a first step, establishes
+      a relation between the {{quantity values,1.19}} with {{measurement uncertainties,2.26}}
+      provided by {{measurement standards,5.1}} and corresponding {{indications,4.1}}
+      with associated measurement uncertainties and, in a second step, uses this information
+      to establish a relation for obtaining a {{measurement result,2.9}} from an indication
+  examples: []
+  id: 2.39-eng
+  language_code: eng
+  notes:
+  - content: A calibration may be expressed by a statement, calibration function,
+      {{calibration diagram,4.30}}, {{calibration curve,4.31}}, or calibration table.
+      In some cases, it may consist of an additive or multiplicative {{correction,2.53}}
+      of the indication with associated measurement uncertainty.
+  - content: Calibration should not be confused with {{adjustment of a measuring system,3.11}},
+      often mistakenly called “self-calibration”, nor with {{verification,2.44}} of
+      calibration.
+  - content: Often, the first step alone in the above definition is perceived as being
+      calibration.
+  - content: '[Annotation] The VIM3 definition of calibration extends the previous
+      (VIM2) one-step definition. For practical reasons a second operational step
+      is introduced in order to facilitate assigning a measured value and measurement
+      uncertainty to an item being measured by the calibrated measuring instrument.
+      In the past this second step was usually considered to occur after the calibration.
+      Both steps together facilitate in a practical way the demonstration of metrological
+      traceability of measurement results (measured values and associated measurement
+      uncertainty) obtained when using the measuring instrument after it has been
+      calibrated.'
+  - content: '[Annotation] Calibration should not be confused with verification or
+      adjustment. Calibration is a prerequisite for verification, which provides confirmation
+      that specified requirements (often maximum permissible errors) are met. Calibration
+      is also a prerequisite for adjustment, which is the set of operations carried
+      out on a measuring system such that the system provides prescribed indications
+      corresponding to given values of quantities to be measured, typically obtained
+      from measurement standards.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 793c2955-2f11-49b4-b22c-8e52a4a85837
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: opération qui, dans des conditions spécifiées, établit en une première
+      étape une relation entre les {{valeurs,1.19}} et les {{incertitudes de mesure,2.26}}
+      associées qui sont fournies par des {{étalons,5.1}} et les {{indications,4.1}}
+      correspondantes avec les incertitudes associées, puis utilise en une seconde
+      étape cette information pour établir une relation permettant d'obtenir un {{résultat
+      de mesure,2.9}} à partir d'une indication
+  examples: []
+  id: 2.39-fra
+  language_code: fra
+  notes:
+  - content: Un étalonnage peut être exprimé sous la forme d'un énoncé, d'une fonction
+      d'étalonnage, d'un {{diagramme d'étalonnage,4.30}}, d'une {{courbe d'étalonnage,4.31}}
+      ou d'une table d'étalonnage. Dans certains cas, il peut consister en une {{correction,2.53}}
+      additive ou multiplicative de l'indication avec une incertitude de mesure associée.
+  - content: Il convient de ne pas confondre l'étalonnage avec l'{{ajustage d'un système
+      de mesure,3.11}}, souvent appelé improprement «auto-étalonnage», ni avec la
+      {{vérification,2.44}} de l'étalonnage.
+  - content: La seule première étape dans la définition est souvent perçue comme étant
+      l'étalonnage.
+  - content: '[Annotation] La définition de l''étalonnage dans le VIM3 étend la définition
+      précédente comportant une seule étape (VIM2). Pour des raisons pratiques, une
+      deuxième étape opérationnelle est introduite pour faciliter l''attribution d''une
+      valeur mesurée et d''une incertitude de mesure à une entité mesurée par un instrument
+      de mesure étalonné. Cette deuxième étape était généralement considérée dans
+      le passé comme effectuée après l''étalonnage. L''ensemble des deux étapes facilite
+      en pratique la preuve de la traçabilité métrologique des résultats de mesure
+      (valeur mesurée et incertitude de mesure associée) obtenus en utilisant l''instrument
+      de mesure après son étalonnage.'
+  - content: '[Annotation] Il convient de ne pas confondre l''étalonnage avec la vérification
+      ou l''ajustage. L''étalonnage est un préalable à la vérification, qui fournit
+      une confirmation que des exigences spécifiées (souvent les erreurs maximales
+      admissibles) sont satisfaites. L''étalonnage est aussi un préalable à l''ajustage,
+      qui est l''ensemble des opérations réalisées sur un système de mesure pour qu''il
+      fournisse des indications prescrites correspondant à des valeurs données des
+      grandeurs à mesurer, habituellement à partir d''étalons de mesure.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalonnage
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8bdf1b41-d5aa-4256-8409-461bea072624

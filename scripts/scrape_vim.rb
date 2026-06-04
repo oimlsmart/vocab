@@ -33,7 +33,7 @@ require "securerandom"
 
 BASE_URL = "https://jcgm.bipm.org/vim"
 CACHE_DIR = File.join(File.dirname(__FILE__), "..", "reference-docs")
-OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/vim")
+OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/vim-2012")
 
 DATASET_SOURCE = "urn:jcgm:pub:200:2012"
 SOURCE_REF = "JCGM 200:2012"
@@ -506,7 +506,7 @@ def build_about
     lines << ""
 
     suffix = lang == "en" ? "" : "-fra"
-    filename = File.join(File.dirname(__FILE__), "..", "datasets/vim/about#{suffix}.md")
+    filename = File.join(File.dirname(__FILE__), "..", "datasets/vim-2012/about#{suffix}.md")
     File.write(filename, lines.join("\n"), encoding: "utf-8")
     puts "  Wrote #{filename}"
   end

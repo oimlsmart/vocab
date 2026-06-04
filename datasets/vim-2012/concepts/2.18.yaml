@@ -1,0 +1,64 @@
+data:
+  identifier: '2.18'
+  localized_concepts:
+    eng: e179f6bd-1d25-4966-8a26-dda8d29b9303
+    fra: 376e231d-fab4-4ab1-9eaa-8fd457558312
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 4fd1d8e5-9281-433c-898c-7c6383afc958
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.18'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: estimate of a {{systematic measurement error,2.17}}
+  examples: []
+  id: 2.18-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "systematic measurement error" can be replaced with
+      "systematic error" without ambiguity: "estimate of a systematic error".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement bias
+  - type: expression
+    normative_status: admitted
+    designation: bias
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: e179f6bd-1d25-4966-8a26-dda8d29b9303
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: estimation d'une {{erreur systématique,2.17}}
+  examples: []
+  id: 2.18-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biais de mesure
+  - type: expression
+    normative_status: admitted
+    designation: biais, m
+  - type: expression
+    normative_status: admitted
+    designation: erreur de justesse, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 376e231d-fab4-4ab1-9eaa-8fd457558312

@@ -1,0 +1,65 @@
+data:
+  identifier: '4.25'
+  localized_concepts:
+    eng: a65370e7-58aa-4f33-972a-055271dcb561
+    fra: fe8585b6-757e-4516-8a20-6cf467dd8e9d
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 3d550bb4-f825-4ae6-aaf5-083902087e20
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.25'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class of {{measuring instruments,3.1}} or {{measuring systems,3.2}} that
+      meet stated metrological requirements that are intended to keep {{measurement
+      errors,2.16}} or {{instrumental measurement uncertainties,4.24}} within specified
+      limits under specified operating conditions
+  examples: []
+  id: 4.25-eng
+  language_code: eng
+  notes:
+  - content: An accuracy class is usually denoted by a number or symbol adopted by
+      convention.
+  - content: Accuracy class applies to {{material measures,3.6}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: a65370e7-58aa-4f33-972a-055271dcb561
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: classe d'{{instruments de mesure,3.1}} ou de {{systèmes de mesure,3.2}}
+      qui satisfont à certaines exigences métrologiques destinées à maintenir les
+      {{erreurs de mesure,2.16}} ou les {{incertitudes instrumentales,4.24}} entre
+      des limites spécifiées dans des conditions de fonctionnement spécifiées
+  examples: []
+  id: 4.25-fra
+  language_code: fra
+  notes:
+  - content: Une classe d'exactitude est habituellement indiquée par un nombre ou
+      un symbole adopté par convention.
+  - content: Le concept de classe d'exactitude s'applique aux {{mesures matérialisées,3.6}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: classe d'exactitude
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: fe8585b6-757e-4516-8a20-6cf467dd8e9d

@@ -1,0 +1,69 @@
+data:
+  identifier: '1.14'
+  localized_concepts:
+    eng: f16af179-cf4b-4cae-896e-4e4fe02829b9
+    fra: 510b9b82-b55a-49b2-92b1-661e7cf8cd72
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 9eb9b702-33da-484d-a240-3b1358fb708b
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '1.14'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{system of units,1.13}}, based on a given {{system of quantities,1.3}},
+      in which the {{measurement unit,1.9}} for each {{derived quantity,1.5}} is a
+      {{coherent derived unit,1.12}}'
+  examples:
+  - content: Set of coherent SI units and relations between them.
+  id: 1.14-eng
+  language_code: eng
+  notes:
+  - content: A system of units can be coherent only with respect to a system of quantities
+      and the adopted {{base units,1.10}}.
+  - content: For a coherent system of units, {{numerical value equations,1.25}} have
+      the same form, including numerical factors, as the corresponding {{quantity
+      equations,1.22}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coherent system of units
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f16af179-cf4b-4cae-896e-4e4fe02829b9
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{système d''unités,1.13}}, fondé sur un {{système de grandeurs,1.3}}
+      donné, dans lequel l''{{unité de mesure,1.9}} de chaque {{grandeur dérivée,1.5}}
+      est une {{unité dérivée cohérente,1.12}}'
+  examples: []
+  id: 1.14-fra
+  language_code: fra
+  notes:
+  - content: EXEMPLE L'ensemble des unités SI cohérentes et les relations entre elles.
+  - content: Un système d'unités ne peut être cohérent que par rapport à un système
+      de grandeurs et aux {{unités de base,1.10}} adoptées.
+  - content: Pour un système cohérent d'unités, les {{équations aux valeurs numériques,1.25}}
+      ont la même forme, y compris les facteurs numériques, que les {{équations aux
+      grandeurs,1.22}} correspondantes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système cohérent d'unités
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 510b9b82-b55a-49b2-92b1-661e7cf8cd72

@@ -8,7 +8,7 @@ require "nokogiri"
 require "yaml"
 
 CACHE_DIR = File.join(File.dirname(__FILE__), "..", "reference-docs")
-OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/vim")
+OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "datasets/vim-2012")
 
 TERM_IDS = [
   *(1..30).map { |n| "1.#{n}" },

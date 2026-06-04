@@ -5,7 +5,7 @@ data:
     fra: bedd46f8-2bd2-4cd7-8455-892acf7189b6
   domains:
   - concept_id: section-2
-    source: urn:jcgm:pub:200:2007
+    source: urn:oiml:pub:v:2:2007
     ref_type: domain
 status: valid
 id: 4f817fc3-03fd-46f4-b43e-01a6f182a8e6
@@ -13,7 +13,7 @@ schema_version: '3'
 related:
 - type: supersedes
   ref:
-    source: urn:jcgm:pub:200:1993
+    source: urn:oiml:pub:v:2:1993
     id: '3.6'
 ---
 data:

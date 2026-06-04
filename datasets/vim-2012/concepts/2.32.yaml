@@ -1,0 +1,59 @@
+data:
+  identifier: '2.32'
+  localized_concepts:
+    eng: 56a2ab2b-6984-4231-999d-380418a80e72
+    fra: 7b71346f-6441-48eb-becf-bf0f346901d3
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: e31af1a8-301d-4db2-89f6-02704dc97ab1
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.32'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{standard measurement uncertainty,2.30}} divided by the absolute value
+      of the {{measured quantity value,2.10}}'
+  examples: []
+  id: 2.32-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "standard measurement uncertainty" can be replaced
+      with "standard uncertainty" and "measured quantity value" can be replaced with
+      "measured value" without ambiguity: "standard uncertainty divided by the absolute
+      value of the measured value".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative standard measurement uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 56a2ab2b-6984-4231-999d-380418a80e72
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quotient de l'{{incertitude-type,2.30}} par la valeur absolue de la {{valeur
+      mesurée,2.10}}
+  examples: []
+  id: 2.32-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type relative
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 7b71346f-6441-48eb-becf-bf0f346901d3

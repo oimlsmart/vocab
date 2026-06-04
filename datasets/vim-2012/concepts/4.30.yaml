@@ -1,0 +1,76 @@
+data:
+  identifier: '4.30'
+  localized_concepts:
+    eng: bee706fb-ca78-44af-8db7-e878dadcdc49
+    fra: 10733f92-9d8f-4208-8eb8-505027a591ef
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 97c3d055-82cb-4e4d-bcb8-4c01fa35e53d
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.30'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: graphical expression of the relation between {{indication,4.1}} and corresponding
+      {{measurement result,2.9}}
+  examples: []
+  id: 4.30-eng
+  language_code: eng
+  notes:
+  - content: A calibration diagram is the strip of the plane defined by the axis of
+      the indication and the axis of measurement result, that represents the relation
+      between an indication and a set of {{measured quantity values,2.10}}. A one-to-many
+      relation is given, and the width of the strip for a given indication provides
+      the {{instrumental measurement uncertainty,4.24}}.
+  - content: Alternative expressions of the relation include a {{calibration curve,4.31}}
+      and associated {{measurement uncertainty,2.26}}, a calibration table, or a set
+      of functions.
+  - content: This concept pertains to a {{calibration,2.39}} when the instrumental
+      measurement uncertainty is large in comparison with the measurement uncertainties
+      associated with the {{quantity values,1.19}} of {{measurement standards,5.1}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration diagram
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: bee706fb-ca78-44af-8db7-e878dadcdc49
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression graphique de la relation entre une {{indication,4.1}} et le
+      {{résultat de mesure,2.9}} correspondant
+  examples: []
+  id: 4.30-fra
+  language_code: fra
+  notes:
+  - content: Un diagramme d'étalonnage est la bande du plan défini par l'axe des indications
+      et l'axe des résultats de mesure, qui représente la relation entre une indication
+      et un ensemble de {{valeurs mesurées,2.10}}. Il correspond à une relation multivoque;
+      la largeur de la bande pour une indication donnée fournit l'{{incertitude instrumentale,4.24}}.
+  - content: D'autres expressions de la relation consistent en une {{courbe d'étalonnage,4.31}}
+      avec les {{incertitudes de mesure,2.26}} associées, en une table d'étalonnage
+      ou en un ensemble de fonctions.
+  - content: Le concept est relatif à un {{étalonnage,2.39}} quand l'incertitude instrumentale
+      est grande par rapport aux incertitudes de mesure associées aux {{valeurs,1.19}}
+      des {{étalons,5.1}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diagramme d'étalonnage
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 10733f92-9d8f-4208-8eb8-505027a591ef

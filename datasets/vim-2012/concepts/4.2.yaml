@@ -1,0 +1,64 @@
+data:
+  identifier: '4.2'
+  localized_concepts:
+    eng: 61e0394b-f169-44c5-9281-f82fe10b9eda
+    fra: 42c33c99-ddd6-4eaa-af53-033dd94caea2
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: b5894d2c-4402-435c-9e73-430fbce2e300
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.2'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{indication,4.1}} obtained from a phenomenon, body, or substance similar
+      to the one under investigation, but for which a {{quantity,1.1}} of interest
+      is supposed not to be present, or is not contributing to the indication'
+  examples: []
+  id: 4.2-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blank indication
+  - type: expression
+    normative_status: admitted
+    designation: background indication
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 61e0394b-f169-44c5-9281-f82fe10b9eda
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{indication,4.1}} obtenue à partir d''un phénomène, d''un corps ou
+      d''une substance semblable au phénomène, au corps ou à la substance en cours
+      d''étude, mais dont la {{grandeur,1.1}} d''intérêt est supposée ne pas être
+      présente ou ne contribue pas à l''indication'
+  examples: []
+  id: 4.2-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication du blanc
+  - type: expression
+    normative_status: admitted
+    designation: indication d'environnement, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 42c33c99-ddd6-4eaa-af53-033dd94caea2

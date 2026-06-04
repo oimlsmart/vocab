@@ -1,0 +1,83 @@
+data:
+  identifier: '1.26'
+  localized_concepts:
+    eng: bbdf535b-2212-40b1-9722-3f4a0093a309
+    fra: 4c817c9a-f55d-4c09-9bf5-14c047a8d749
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 54cd5674-e3ea-4eef-8707-b5b80e820843
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '1.26'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{quantity,1.1}}, defined by a conventional {{measurement procedure,2.6}},
+      for which a total ordering relation can be established, according to magnitude,
+      with other quantities of the same {{kind,1.2}}, but for which no algebraic operations
+      among those quantities exist'
+  examples:
+  - content: Rockwell C hardness.
+  - content: Octane number for petroleum fuel.
+  - content: Earthquake strength on the Richter scale.
+  - content: Subjective level of abdominal pain on a scale from zero to five.
+  id: 1.26-eng
+  language_code: eng
+  notes:
+  - content: Ordinal quantities can enter into empirical relations only and have neither
+      {{measurement units,1.9}} nor {{quantity dimensions,1.7}}. Differences and ratios
+      of ordinal quantities have no physical meaning.
+  - content: Ordinal quantities are arranged according to {{ordinal quantity-value
+      scales,1.28}} (see 1.28).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ordinal quantity
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: bbdf535b-2212-40b1-9722-3f4a0093a309
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{grandeur,1.1}} définie par une {{procédure de mesure,2.6}} adoptée
+      par convention, qui peut être classée avec d''autres grandeurs de même {{nature,1.2}}
+      selon l''ordre croissant ou décroissant de leurs expressions quantitatives,
+      mais pour laquelle aucune relation algébrique entre ces grandeurs n''existe'
+  examples: []
+  id: 1.26-fra
+  language_code: fra
+  notes:
+  - content: 'EXEMPLE 1 Dureté C de Rockwell.
+
+      EXEMPLE 2 Indice d''octane pour les carburants.
+
+      EXEMPLE 3 Magnitude d''un séisme sur l''échelle de Richter.
+
+      EXEMPLE 4 Niveau subjectif de douleur abdominale sur une échelle de zéro à cinq.'
+  - content: Les grandeurs ordinales ne peuvent prendre part qu'à des relations empiriques
+      et n'ont ni {{unités de mesure,1.9}}, ni {{dimensions,1.7}}. Les différences
+      et les rapports de grandeurs ordinales n'ont pas de signification.
+  - content: Les grandeurs ordinales sont classées selon des {{échelles ordinales,1.28}}
+      (voir 1.28).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur ordinale
+  - type: expression
+    normative_status: admitted
+    designation: grandeur repérable, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4c817c9a-f55d-4c09-9bf5-14c047a8d749

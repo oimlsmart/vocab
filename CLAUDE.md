@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-This is a deployment repository for the **VIML** (International Vocabulary of Legal Metrology, OIML V 1) concept browser and the **VIM** (International Vocabulary of Metrology, OIML V 2-200 / JCGM 200) concept dataset. It uses the `@glossarist/concept-browser` npm package — a statically deployable Vue 3 SPA — to serve an interactive terminology browser on GitHub Pages.
+This is a deployment repository for the **VIML** (International Vocabulary of Legal Metrology, OIML V 1) concept browser and the **VIM** (International Vocabulary of Metrology, OIML V 2-200) concept dataset. It uses the `@glossarist/concept-browser` npm package — a statically deployable Vue 3 SPA — to serve an interactive terminology browser on GitHub Pages.
 
 This is NOT a software project. It is a deployment configuration: site config, datasets, content pages, and CI.
 
@@ -32,11 +32,11 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 - `datasets/viml-2013/` — Glossarist v3 dataset for VIML 2013 (135 concepts, includes section A)
 - `datasets/viml-2000/` — Glossarist v3 dataset for VIML 2000 (44 concepts)
 - `datasets/viml-1968/` — Glossarist v3 dataset for VIML 1968 (OCR, needs manual review)
-- `datasets/vim/` — Glossarist v3 dataset for VIM 2012 (144 concepts, current)
+- `datasets/vim-2012/` — Glossarist v3 dataset for VIM 2012 (144 concepts, current)
 - `datasets/vim-2010/` — Glossarist v3 dataset for VIM 2010 (143 concepts)
 - `datasets/vim-2007/` — Glossarist v3 dataset for VIM 2007 (143 concepts)
 - `datasets/vim-1993/` — Glossarist v3 dataset for VIM 1993 (120 concepts, OCR)
-- `about.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
+- `about-eng.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
 - `scripts/scrape_viml.rb` — Scraper for VIML 2022 dataset (from viml.oiml.info)
 - `scripts/scrape_viml_2013.rb` — Scraper for VIML 2013 (Word HTML)
@@ -117,7 +117,7 @@ Four VIM editions are available as separate datasets:
 
 | Edition | Path | Concepts | Notes |
 |---------|------|----------|-------|
-| 2012 (current) | `datasets/vim/` | 144 | Bilingual EN/FR, scraped from jcgm.bipm.org/vim |
+| 2012 (current) | `datasets/vim-2012/` | 144 | Bilingual EN/FR, scraped from jcgm.bipm.org/vim |
 | 2010 | `datasets/vim-2010/` | 143 | Bilingual EN/FR, scraped from pdftotext |
 | 2007 | `datasets/vim-2007/` | 143 | Bilingual EN/FR, scraped from pdftotext |
 | 1993 | `datasets/vim-1993/` | 120 | Bilingual EN/FR, OCR HTML (6 chapters, 5.29-5.33 do not exist) |

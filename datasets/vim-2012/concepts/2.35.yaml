@@ -1,0 +1,74 @@
+data:
+  identifier: '2.35'
+  localized_concepts:
+    eng: 76f370b6-5077-45a7-b85e-ff2345f245b7
+    fra: b89ef268-230f-4eae-afd6-5a3ce379878b
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 89b56f80-bed8-48cb-adc2-ab19c0422f04
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.35'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: product of a {{combined standard measurement uncertainty,2.31}} and a
+      factor larger than the number one
+  examples: []
+  id: 2.35-eng
+  language_code: eng
+  notes:
+  - content: The factor depends upon the type of probability distribution of the {{output
+      quantity in a measurement model,2.51}} and on the selected {{coverage probability,2.37}}.
+  - content: The term “factor” in this definition refers to a {{coverage factor,2.38}}.
+  - content: Expanded measurement uncertainty is termed “overall uncertainty” in paragraph
+      5 of Recommendation INC-1 (1980) (see the GUM) and simply “uncertainty” in IEC
+      documents.
+  - content: '[Annotation] Here "combined standard measurement uncertainty" can be
+      replaced with "combined standard uncertainty" without ambiguity: "product of
+      a combined standard uncertainty and a factor larger than the number one".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: expanded measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: expanded uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 76f370b6-5077-45a7-b85e-ff2345f245b7
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: produit d'une {{incertitude-type composée,2.31}} et d'un facteur supérieur
+      au nombre un
+  examples: []
+  id: 2.35-fra
+  language_code: fra
+  notes:
+  - content: Le facteur dépend du type de la loi de probabilité de la {{grandeur de
+      sortie dans un modèle de mesure,2.51}} et de la {{probabilité de couverture,2.37}}
+      choisie.
+  - content: Le facteur qui intervient dans la définition est un {{facteur d'élargissement,2.38}}.
+  - content: L'incertitude élargie est appelée «incertitude globale» au paragraphe
+      5 de la Recommandation INC-1 (1980) (voir le GUM) et simplement «incertitude»
+      dans les documents de la CEI.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude élargie
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b89ef268-230f-4eae-afd6-5a3ce379878b

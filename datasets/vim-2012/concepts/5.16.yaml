@@ -1,0 +1,69 @@
+data:
+  identifier: '5.16'
+  localized_concepts:
+    eng: c471f99a-ddc7-4d90-b57c-36d38d1df671
+    fra: f01ff512-0be6-4346-950a-29ddc3bd3c1e
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 64884bf3-8b71-44c8-a887-2401569b8cbc
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '5.16'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: data related to a property of a phenomenon, body, or substance, or to
+      a system of components of known composition or structure, obtained from an identified
+      source, critically evaluated, and verified for accuracy
+  examples:
+  - content: Reference data for solubility of chemical compounds as published by the
+      IUPAC.
+  id: 5.16-eng
+  language_code: eng
+  notes:
+  - content: In this definition, 'accuracy' covers, for example, {{measurement accuracy,2.13}}
+      and 'accuracy of a nominal property value'.
+  - content: “Data” is a plural form, “datum” is the singular. “Data” is commonly
+      used in the singular sense, instead of “datum”.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference data
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: c471f99a-ddc7-4d90-b57c-36d38d1df671
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: donnée liée à une propriété d'un phénomène, d'un corps ou d'une substance,
+      ou à un système de constituants de composition ou de structure connue, obtenue
+      à partir d'une source identifiée, évaluée de façon critique et vérifiée en exactitude
+  examples: []
+  id: 5.16-fra
+  language_code: fra
+  notes:
+  - content: EXEMPLE Données de référence relatives à la solubilité de composés chimiques,
+      publiées par l'UICPA.
+  - content: Dans la définition, le terme «exactitude» peut désigner soit une {{exactitude
+      de mesure,2.13}}, soit l'«exactitude de la valeur d'une propriété qualitative».
+  - content: En anglais, «data» est une forme plurielle dont le singulier est «datum».
+      «Data» est couramment utilisé au sens singulier à la place de «datum».
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: donnée de référence
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f01ff512-0be6-4346-950a-29ddc3bd3c1e

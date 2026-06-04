@@ -22,7 +22,7 @@ schema_version: '3'
 related:
 - type: compare
   ref:
-    source: urn:jcgm:pub:200:2012
+    source: urn:oiml:pub:v:2:2012
     id: '1.16'
 - type: supersedes
   ref:

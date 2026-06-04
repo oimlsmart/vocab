@@ -1,0 +1,59 @@
+data:
+  identifier: '2.30'
+  localized_concepts:
+    eng: 06b870a5-d064-49ca-bd95-b7be8cd3eeed
+    fra: 32cf7a93-5575-464a-9567-7092969a6fe5
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 71626698-9062-49d2-bf99-4766ef21daca
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.30'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{measurement uncertainty,2.26}} expressed as a standard deviation'
+  examples: []
+  id: 2.30-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: standard uncertainty of measurement
+  - type: expression
+    normative_status: admitted
+    designation: standard uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 06b870a5-d064-49ca-bd95-b7be8cd3eeed
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{incertitude de mesure,2.26}} exprimée sous la forme d''un écart-type'
+  examples: []
+  id: 2.30-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 32cf7a93-5575-464a-9567-7092969a6fe5

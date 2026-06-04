@@ -1,0 +1,65 @@
+data:
+  identifier: '2.25'
+  localized_concepts:
+    eng: d21d8a49-c2f2-42cb-9bfb-9b8f9410d543
+    fra: 6c5d5401-9ea4-416e-9169-869324f748a4
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 2c6ec8b8-25a4-47d8-ba43-7f6725ce6d6a
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.25'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{measurement precision,2.15}} under {{reproducibility conditions of
+      measurement,2.24}}'
+  examples: []
+  id: 2.25-eng
+  language_code: eng
+  notes:
+  - content: Relevant statistical terms are given in ISO 5725-1:1994 and ISO 5725-2:1994.
+  - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
+      "measurement precision under reproducibility conditions".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement reproducibility
+  - type: expression
+    normative_status: admitted
+    designation: reproducibility
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: d21d8a49-c2f2-42cb-9bfb-9b8f9410d543
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de reproductibilité,2.24}}'
+  examples: []
+  id: 2.25-fra
+  language_code: fra
+  notes:
+  - content: Des termes statistiques pertinents sont donnés dans l'ISO 5725-1:1994
+      et l'ISO 5725-2:1994.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reproductibilité de mesure
+  - type: expression
+    normative_status: admitted
+    designation: reproductibilité, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6c5d5401-9ea4-416e-9169-869324f748a4

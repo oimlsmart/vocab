@@ -1,0 +1,71 @@
+data:
+  identifier: '4.9'
+  localized_concepts:
+    eng: 5baa5348-4463-423f-a898-df0e006208fa
+    fra: 03d30995-0e7e-4633-a041-43e1c53c337a
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 48ea349d-ecb9-4eb5-8a81-17338cde6c09
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.08'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.9'
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating condition that must be fulfilled during {{measurement,2.1}}
+      in order that a {{measuring instrument,3.1}} or {{measuring system,3.2}} perform
+      as designed
+  examples: []
+  id: 4.9-eng
+  language_code: eng
+  notes:
+  - content: Rated operating conditions generally specify intervals of {{values,1.19}}
+      for a {{quantity,1.1}} being measured and for any {{influence quantity,2.52}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating condition
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 5baa5348-4463-423f-a898-df0e006208fa
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de fonctionnement qui doit être satisfaite pendant un {{mesurage,2.1}}
+      pour qu'un {{instrument de mesure,3.1}} ou un {{système de mesure,3.2}} fonctionne
+      conformément à sa conception
+  examples: []
+  id: 4.9-fra
+  language_code: fra
+  notes:
+  - content: Les conditions assignées de fonctionnement spécifient généralement des
+      intervalles de {{valeurs,1.19}} pour la {{grandeur,1.1}} mesurée et pour les
+      {{grandeurs d'influence,2.52}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition assignée de fonctionnement
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 03d30995-0e7e-4633-a041-43e1c53c337a

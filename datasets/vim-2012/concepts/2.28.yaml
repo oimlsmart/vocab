@@ -1,0 +1,78 @@
+data:
+  identifier: '2.28'
+  localized_concepts:
+    eng: 412f986e-ce7f-478c-999b-ede3ac3973d3
+    fra: 180a439e-049d-4e3c-bd3f-34429cb6fd72
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: b2bb1318-efd7-4d2e-8a0d-1837ca07ae1b
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.28'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: evaluation of a component of {{measurement uncertainty,2.26}} by a statistical
+      analysis of {{measured quantity values,2.10}} obtained under defined {{measurement,2.1}}
+      conditions
+  examples: []
+  id: 2.28-eng
+  language_code: eng
+  notes:
+  - content: For various types of measurement conditions, see {{repeatability condition
+      of measurement,2.20}}, {{intermediate precision condition of measurement,2.22}},
+      and {{reproducibility condition of measurement,2.24}}.
+  - content: For information about statistical analysis, see e.g. ISO/IEC Guide 98-3.
+  - content: See also ISO/IEC Guide 98-3:2008, 2.3.2, ISO 5725, ISO 13528, ISO/TS
+      21748, ISO 21749.
+  - content: '[Annotation] Here "measured quantity values" can be replaced with "measured
+      values" without ambiguity: "evaluation of a component of uncertainty by a statistical
+      analysis of measured values obtained under defined measurement conditions".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Type A evaluation of measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: Type A evaluation
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 412f986e-ce7f-478c-999b-ede3ac3973d3
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: évaluation d'une composante de l'{{incertitude de mesure,2.26}} par une
+      analyse statistique des {{valeurs mesurées,2.10}} obtenues dans des conditions
+      définies de {{mesurage,2.1}}
+  examples: []
+  id: 2.28-fra
+  language_code: fra
+  notes:
+  - content: Pour divers types de conditions de mesurage, voir {{condition de répétabilité,2.20}},
+      {{condition de fidélité intermédiaire,2.22}} et {{condition de reproductibilité,2.24}}.
+  - content: Voir par exemple le Guide ISO/CEI 98-3 pour des informations sur l'analyse
+      statistique.
+  - content: Voir aussi le Guide ISO/CEI 98-3:2008, 2.3.2, l'ISO 5725, l'ISO 13528,
+      l'ISO/TS 21748 et l'ISO 21749.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de type A de l'incertitude
+  - type: expression
+    normative_status: admitted
+    designation: évaluation de type A, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 180a439e-049d-4e3c-bd3f-34429cb6fd72

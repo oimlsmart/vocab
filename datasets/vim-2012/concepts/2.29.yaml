@@ -1,0 +1,90 @@
+data:
+  identifier: '2.29'
+  localized_concepts:
+    eng: 6df5b039-5105-44bd-8419-24e7f17ffa32
+    fra: 709708b3-d8e0-457a-a891-3b067281842a
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 8c8a461b-1b27-4d72-aa19-6559d3ff14a2
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.29'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: evaluation of a component of {{measurement uncertainty,2.26}} determined
+      by means other than a {{Type A evaluation of measurement uncertainty,2.28}}
+  examples:
+  - content: 'Evaluation based on information
+
+      - associated with authoritative published {{quantity values,1.19}},
+
+      - associated with the quantity value of a {{certified reference material,5.14}},
+
+      - obtained from a {{calibration,2.39}} certificate,
+
+      - about drift,
+
+      - obtained from the {{accuracy class,4.25}} of a verified {{measuring instrument,3.1}},
+
+      - obtained from limits deduced through personal experience.'
+  id: 2.29-eng
+  language_code: eng
+  notes:
+  - content: See also ISO/IEC Guide 98-3:2008, 2.3.3.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Type B evaluation of measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: Type B evaluation
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6df5b039-5105-44bd-8419-24e7f17ffa32
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: évaluation d'une composante de l'{{incertitude de mesure,2.26}} par d'autres
+      moyens qu'une {{évaluation de type A de l'incertitude,2.28}}
+  examples: []
+  id: 2.29-fra
+  language_code: fra
+  notes:
+  - content: 'EXEMPLES Évaluation fondée sur des informations
+
+      - associées à des {{valeurs,1.19}} publiées faisant autorité,
+
+      - associées à la valeur d''un {{matériau de référence certifié,5.14}},
+
+      - obtenues à partir d''un certificat d''{{étalonnage,2.39}},
+
+      - concernant la dérive,
+
+      - obtenues à partir de la {{classe d''exactitude,4.25}} d''un {{instrument de
+      mesure,3.1}} vérifié,
+
+      - obtenues à partir de limites déduites de l''expérience personnelle.'
+  - content: Voir aussi le Guide ISO/CEI 98-3:2008, 2.3.3.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: évaluation de type B de l'incertitude
+  - type: expression
+    normative_status: admitted
+    designation: évaluation de type B, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 709708b3-d8e0-457a-a891-3b067281842a

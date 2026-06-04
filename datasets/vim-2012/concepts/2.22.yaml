@@ -1,0 +1,75 @@
+data:
+  identifier: '2.22'
+  localized_concepts:
+    eng: 591d7da8-4dcf-47e5-a182-2fec2d58c22a
+    fra: 98caad15-cbb3-4a9b-bf30-20e5e8040f6a
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: c6fb4206-30b0-4f09-a0a0-1f3245520733
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.22'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition of {{measurement,2.1}}, out of a set of conditions that includes
+      the same {{measurement procedure,2.6}}, same location, and replicate measurements
+      on the same or similar objects over an extended period of time, but may include
+      other conditions involving changes
+  examples: []
+  id: 2.22-eng
+  language_code: eng
+  notes:
+  - content: The changes can include new {{calibrations,2.39}}, {{calibrators,5.12}},
+      operators, and {{measuring systems,3.2}}.
+  - content: A specification for the conditions should contain the conditions changed
+      and unchanged, to the extent practical.
+  - content: In chemistry, the term “inter-serial precision condition of measurement”
+      is sometimes used to designate this concept.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermediate precision condition of measurement
+  - type: expression
+    normative_status: admitted
+    designation: intermediate precision condition
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 591d7da8-4dcf-47e5-a182-2fec2d58c22a
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition de {{mesurage,2.1}} dans un ensemble de conditions qui comprennent
+      la même {{procédure de mesure,2.6}}, le même lieu et des mesurages répétés sur
+      le même objet ou des objets similaires pendant une période de temps étendue,
+      mais peuvent comprendre d'autres conditions que l'on fait varier
+  examples: []
+  id: 2.22-fra
+  language_code: fra
+  notes:
+  - content: Les conditions que l'on fait varier peuvent comprendre de nouveaux {{étalonnages,2.39}},
+      {{étalons,5.1}}, opérateurs et {{systèmes de mesure,3.2}}.
+  - content: Il convient qu'une spécification relative aux conditions contienne, dans
+      la mesure du possible, les conditions que l'on fait varier et celles qui restent
+      inchangées.
+  - content: En chimie, on utilise quelquefois le terme «condition de fidélité inter-série»
+      pour désigner ce concept.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition de fidélité intermédiaire
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 98caad15-cbb3-4a9b-bf30-20e5e8040f6a

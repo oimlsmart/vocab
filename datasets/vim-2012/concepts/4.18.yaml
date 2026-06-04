@@ -1,0 +1,72 @@
+data:
+  identifier: '4.18'
+  localized_concepts:
+    eng: 198f39e7-23b7-4ab2-8f0a-544850b9b11d
+    fra: ed660be3-a10f-4dd8-b016-7ad47cb5fb04
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 7dd44466-b723-452c-8eef-4312002bbd21
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '4.18'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{measured quantity value,2.10}}, obtained by a given {{measurement
+      procedure,2.6}}, for which the probability of falsely claiming the absence of
+      a component in a material is β, given a probability α of falsely claiming its
+      presence'
+  examples: []
+  id: 4.18-eng
+  language_code: eng
+  notes:
+  - content: IUPAC recommends default values for α and β equal to 0.05.
+  - content: The abbreviation LOD is sometimes used.
+  - content: The term “sensitivity” is discouraged for 'detection limit'.
+  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
+      value" without ambiguity: "measured value, obtained by a given measurement procedure,
+      for which the probability of falsely claiming the absence of a component in
+      a material is β, given a probability α of falsely claiming its presence".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detection limit
+  - type: expression
+    normative_status: admitted
+    designation: limit of detection
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 198f39e7-23b7-4ab2-8f0a-544850b9b11d
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{valeur mesurée,2.10}}, obtenue par une {{procédure de mesure,2.6}}
+      donnée, pour laquelle la probabilité de déclarer faussement l''absence d''un
+      constituant dans un matériau est β, étant donnée la probabilité α de déclarer
+      faussement sa présence'
+  examples: []
+  id: 4.18-fra
+  language_code: fra
+  notes:
+  - content: L'UICPA recommande des valeurs par défaut de α et β égales à 0,05.
+  - content: '[Applicable uniquement au texte anglais].'
+  - content: Le terme «sensibilité» est à proscrire au sens de limite de détection.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limite de détection
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: ed660be3-a10f-4dd8-b016-7ad47cb5fb04

@@ -1,0 +1,67 @@
+data:
+  identifier: '5.11'
+  localized_concepts:
+    eng: be496839-2405-42a3-b05d-b8352406a152
+    fra: 3f49aa6e-a04e-4960-bd30-a64bf64ae4f1
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 7d04d5ca-edb3-41a7-9f5d-92c4cd977dce
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '5.11'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of operations necessary to preserve the metrological properties of
+      a {{measurement standard,5.1}} within stated limits
+  examples: []
+  id: 5.11-eng
+  language_code: eng
+  notes:
+  - content: Conservation commonly includes periodic {{verification,2.44}} of predefined
+      metrological properties or {{calibration,2.39}}, storage under suitable conditions,
+      and specified care in use.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conservation of a measurement standard
+  - type: expression
+    normative_status: admitted
+    designation: maintenance of a measurement standard
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: be496839-2405-42a3-b05d-b8352406a152
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ensemble des opérations nécessaires à la préservation des propriétés
+      métrologiques d'un {{étalon,5.1}} dans des limites déterminées
+  examples: []
+  id: 5.11-fra
+  language_code: fra
+  notes:
+  - content: La conservation comprend habituellement une {{vérification,2.44}} périodique
+      de propriétés métrologiques choisies ou un {{étalonnage,2.39}}, un stockage
+      dans des conditions appropriées et des précautions particulières lors de l'utilisation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conservation d'un étalon
+  - type: expression
+    normative_status: admitted
+    designation: maintenance d'un étalon, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3f49aa6e-a04e-4960-bd30-a64bf64ae4f1

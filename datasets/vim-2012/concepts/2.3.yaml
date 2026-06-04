@@ -1,0 +1,107 @@
+data:
+  identifier: '2.3'
+  localized_concepts:
+    eng: b774b1fc-ff1c-42cb-8aeb-dcfd0bb4abb4
+    fra: 1f0c10cd-e0d6-4f99-ba2b-124ff3e52948
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: a0229b29-bef9-4800-9eac-a4041e1c32f1
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.3'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{quantity,1.1}} intended to be measured'
+  examples:
+  - content: The potential difference between the terminals of a battery may decrease
+      when using a voltmeter with a significant internal conductance to perform the
+      measurement. The open-circuit potential difference can be calculated from the
+      internal resistances of the battery and the voltmeter.
+  - content: The length of a steel rod in equilibrium with the ambient Celsius temperature
+      of 23 °C will be different from the length at the specified temperature of 20
+      °C, which is the measurand. In this case, a correction is necessary.
+  id: 2.3-eng
+  language_code: eng
+  notes:
+  - content: The specification of a measurand requires knowledge of the {{kind of
+      quantity,1.2}}, description of the state of the phenomenon, body, or substance
+      carrying the quantity, including any relevant component, and the chemical entities
+      involved.
+  - content: In the second edition of the VIM and in IEC 60050-300:2001, the measurand
+      is defined as the 'particular quantity subject to measurement'.
+  - content: The {{measurement,2.1}}, including the {{measuring system,3.2}} and the
+      conditions under which the measurement is carried out, might change the phenomenon,
+      body, or substance such that the quantity being measured may differ from the
+      measurand as defined. In this case, adequate {{correction,2.53}} is necessary.
+  - content: In chemistry, “analyte”, or the name of a substance or compound, are
+      terms sometimes used for 'measurand'. This usage is erroneous because these
+      terms do not refer to quantities.
+  - content: '[Annotation] As Note 2 says, this definition differs from the definition
+      in VIM2. The quantity that is being measured may not actually be the quantity
+      that is intended to be measured. By making this distinction, it is often possible
+      to include corrections in the measurement model such that the value of the quantity
+      that is intended to be measured can be calculated on the basis of the value
+      of the quantity that is actually measured.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurand
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: b774b1fc-ff1c-42cb-8aeb-dcfd0bb4abb4
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{grandeur,1.1}} que l''on veut mesurer'
+  examples: []
+  id: 2.3-fra
+  language_code: fra
+  notes:
+  - content: La spécification d'un mesurande nécessite la connaissance de la {{nature
+      de grandeur,1.2}} et la description de l'état du phénomène, du corps ou de la
+      substance dont la grandeur est une propriété, incluant tout constituant pertinent,
+      et les entités chimiques en jeu.
+  - content: Dans la deuxième édition du VIM et dans la CEI 60050-300:2001, le mesurande
+      est défini comme la «grandeur particulière soumise à mesurage».
+  - content: 'Il se peut que le {{mesurage,2.1}}, incluant le {{système de mesure,3.2}}
+      et les conditions sous lesquelles le mesurage est effectué, modifie le phénomène,
+      le corps ou la substance de sorte que la grandeur mesurée peut différer du mesurande.
+      Dans ce cas, une {{correction,2.53}} appropriée est nécessaire.
+
+      EXEMPLE 1 La différence de potentiel entre les bornes d''une batterie peut diminuer
+      lorsqu''on la mesure en employant un voltmètre ayant une conductance interne
+      importante. La différence de potentiel en circuit ouvert peut alors être calculée
+      à partir des résistances internes de la batterie et du voltmètre.
+
+      EXEMPLE 2 La longueur d''une tige en équilibre avec la température ambiante
+      de 23 °C sera différente de la longueur à la température spécifiée de 20 °C,
+      qui est le mesurande. Dans ce cas, une correction est nécessaire.'
+  - content: En chimie, l'expression «substance à analyser», ou le nom d'une substance
+      ou d'un composé, sont quelquefois utilisés à la place de «mesurande». Cet usage
+      est erroné puisque ces termes ne désignent pas des grandeurs.
+  - content: '[Annotation] Comme indiqué dans la Note 2, cette définition diffère
+      de celle du VIM2. La grandeur qui est mesurée peut ne pas être effectivement
+      la grandeur que l''on veut mesurer. En faisant cette distinction, il est souvent
+      possible d''inclure dans le modèle de mesure des corrections qui permettent
+      de calculer la valeur de la grandeur que l''on veut mesurer à partir de la valeur
+      de la grandeur effectivement mesurée.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mesurande
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1f0c10cd-e0d6-4f99-ba2b-124ff3e52948

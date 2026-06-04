@@ -1,0 +1,66 @@
+data:
+  identifier: '2.2'
+  localized_concepts:
+    eng: f318170d-a908-40f2-aa04-a231d3d496ab
+    fra: 09b5e8e0-2fed-4ffe-9fed-0c5855f88d18
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 4322f65b-02ae-4f01-8825-1f6d369eb0cb
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.01'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.2'
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: science of {{measurement,2.1}} and its application
+  examples: []
+  id: 2.2-eng
+  language_code: eng
+  notes:
+  - content: Metrology includes all theoretical and practical aspects of measurement,
+      whatever the {{measurement uncertainty,2.26}} and field of application.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrology
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f318170d-a908-40f2-aa04-a231d3d496ab
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: science des {{mesurages,2.1}} et ses applications
+  examples: []
+  id: 2.2-fra
+  language_code: fra
+  notes:
+  - content: La métrologie comprend tous les aspects théoriques et pratiques des mesurages,
+      quels que soient l'{{incertitude de mesure,2.26}} et le domaine d'application.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: métrologie
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 09b5e8e0-2fed-4ffe-9fed-0c5855f88d18

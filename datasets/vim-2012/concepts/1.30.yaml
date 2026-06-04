@@ -1,0 +1,95 @@
+data:
+  identifier: '1.30'
+  localized_concepts:
+    eng: 3984d49d-3bd4-438d-bd99-b9de2c9b286f
+    fra: f207e475-c0a8-46d4-b8a9-531631922bac
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: c934225f-b4c7-484d-a4d4-1b9177c18f18
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '1.30'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: property of a phenomenon, body, or substance, where the property has
+      no magnitude
+  examples:
+  - content: Sex of a human being.
+  - content: Colour of a paint sample.
+  - content: Colour of a spot test in chemistry.
+  - content: ISO two-letter country code.
+  - content: Sequence of amino acids in a polypeptide.
+  id: 1.30-eng
+  language_code: eng
+  notes:
+  - content: A nominal property has a value, which can be expressed in words, by alphanumerical
+      codes, or by other means.
+  - content: '''Nominal property value'' is not to be confused with {{nominal quantity
+      value,4.6}}.'
+  - content: '[Annotation] Nominal properties are distinguished from quantities, which
+      are properties that have a magnitude, that is, they can be compared in terms
+      of greater or lesser.'
+  - content: '[Annotation] ANNOTATION (for Examples 2 and 3) (informative) [3 December
+      2013] While colour of a paint sample is sometimes considered to be a nominal
+      property, it is also recognized that a pure colour can be characterized by the
+      wavelength of electromagnetic radiation, which is a quantity that can be measured.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal property
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3984d49d-3bd4-438d-bd99-b9de2c9b286f
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: propriété d'un phénomène, d'un corps ou d'une substance, que l'on ne
+      peut pas exprimer quantitativement
+  examples: []
+  id: 1.30-fra
+  language_code: fra
+  notes:
+  - content: 'EXEMPLE 1 Sexe d''une personne.
+
+      EXEMPLE 2 Couleur d''un spécimen de peinture.
+
+      EXEMPLE 3 Couleur d''un spot test en chimie.
+
+      EXEMPLE 4 Code de pays ISO à deux lettres.
+
+      EXEMPLE 5 Séquence d''acides aminés dans un polypeptide.'
+  - content: Une propriété qualitative a une valeur, qui peut être exprimée par des
+      mots, par des codes alphanumériques ou par d'autres moyens.
+  - content: La valeur d'une propriété qualitative ne doit pas être confondue avec
+      la {{valeur nominale,4.6}} d'une grandeur.
+  - content: '[Annotation] Les propriétés qualitatives se distinguent des grandeurs,
+      qui sont des propriétés que l''on peut exprimer quantitativement et classer
+      dans un ordre croissant ou décroissant.'
+  - content: '[Annotation] ANNOTATION (pour les Exemples 2 et 3) (informative) [3
+      décembre 2013] La couleur d''un spécimen de peinture est parfois considérée
+      comme une propriété qualitative, mais une couleur pure peut être caractérisée
+      par la longueur d''onde d''une onde électromagnétique, qui est une grandeur
+      mesurable.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: propriété qualitative
+  - type: expression
+    normative_status: admitted
+    designation: attribut, m
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: f207e475-c0a8-46d4-b8a9-531631922bac

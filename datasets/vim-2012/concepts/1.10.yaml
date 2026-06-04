@@ -1,0 +1,77 @@
+data:
+  identifier: '1.10'
+  localized_concepts:
+    eng: 190040d7-16ab-4ef5-ac20-17c336ca02d7
+    fra: 6ec71c9a-9202-4ff9-b905-cef18a06708b
+  domains:
+  - concept_id: section-1
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 83988535-3695-4126-bcbd-9abe69d63822
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '1.10'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{measurement unit,1.9}} that is adopted by convention for a {{base
+      quantity,1.4}}'
+  examples:
+  - content: In the {{SI,1.16}}, the metre is the base unit of length. In the CGS
+      systems, the centimetre is the base unit of length.
+  - content: Rainfall, when defined as areic volume (volume per area), has the metre
+      as a {{coherent derived unit,1.12}} in the SI.
+  id: 1.10-eng
+  language_code: eng
+  notes:
+  - content: In each {{coherent system of units,1.14}}, there is only one base unit
+      for each base quantity.
+  - content: A base unit may also serve for a {{derived quantity,1.5}} of the same
+      {{quantity dimension,1.7}}.
+  - content: For number of entities, the number one, symbol 1, can be regarded as
+      a base unit in any {{system of units,1.13}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base unit
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 190040d7-16ab-4ef5-ac20-17c336ca02d7
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{unité de mesure,1.9}} adoptée par convention pour une {{grandeur de
+      base,1.4}}'
+  examples: []
+  id: 1.10-fra
+  language_code: fra
+  notes:
+  - content: 'Dans chaque {{système cohérent d''unités,1.14}}, il y a une seule unité
+      de base pour chaque grandeur de base.
+
+      EXEMPLE Dans le {{SI,1.16}}, le mètre est l''unité de base de longueur. Dans
+      les systèmes CGS, le centimètre est l''unité de base de longueur.'
+  - content: 'Une unité de base peut aussi servir pour une {{grandeur dérivée,1.5}}
+      de même {{dimension,1.7}}.
+
+      EXEMPLE La hauteur de pluie, définie comme un volume surfacique (volume par
+      aire) a le mètre comme {{unité dérivée cohérente,1.12}} dans le SI.'
+  - content: Pour un nombre d'entités, on peut considérer le nombre un, de symbole
+      1, comme une unité de base dans tout {{système d'unités,1.13}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité de base
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6ec71c9a-9202-4ff9-b905-cef18a06708b

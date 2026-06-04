@@ -1,0 +1,71 @@
+data:
+  identifier: '2.36'
+  localized_concepts:
+    eng: 953786af-6b64-43d9-a47c-ba00b6ca2e65
+    fra: 3099e44c-d113-48f6-9a0c-78b60c5a4012
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 379270a8-c0d1-45e5-8dd2-0efe05c01d99
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.36'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: interval containing the set of {{true quantity values,2.11}} of a {{measurand,2.3}}
+      with a stated probability, based on the information available
+  examples: []
+  id: 2.36-eng
+  language_code: eng
+  notes:
+  - content: A coverage interval does not need to be centred on the chosen {{measured
+      quantity value,2.10}} (see ISO/IEC Guide 98-3:2008/Suppl.1).
+  - content: A coverage interval should not be termed “confidence interval” to avoid
+      confusion with the statistical concept (see ISO/IEC Guide 98-3:2008, 6.2.2).
+  - content: A coverage interval can be derived from an {{expanded measurement uncertainty,2.35}}
+      (see ISO/IEC Guide 98-3:2008, 2.3.5).
+  - content: '[Annotation] Here "true quantity values" can be replaced with "true
+      values" without ambiguity: "interval containing the set of true values of a
+      measurand with a stated probability, based on the information available".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage interval
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 953786af-6b64-43d9-a47c-ba00b6ca2e65
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intervalle contenant l'ensemble des {{valeurs vraies,2.11}} d'un {{mesurande,2.3}}
+      avec une probabilité déterminée, fondé sur l'information disponible
+  examples: []
+  id: 2.36-fra
+  language_code: fra
+  notes:
+  - content: Un intervalle élargi n'est pas nécessairement centré sur la {{valeur
+      mesurée,2.10}} choisie (voir le Guide ISO/CEI 98-3:2008/Suppl.1).
+  - content: Il convient de ne pas appeler «intervalle de confiance» un intervalle
+      élargi pour éviter des confusions avec le concept statistique (voir le Guide
+      ISO/CEI 98-3:2008, 6.2.2).
+  - content: Un intervalle élargi peut se déduire d'une {{incertitude élargie,2.35}}
+      (voir le Guide ISO/CEI 98-3:2008, 2.3.5).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intervalle élargi
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 3099e44c-d113-48f6-9a0c-78b60c5a4012

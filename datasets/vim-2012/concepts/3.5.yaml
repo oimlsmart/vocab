@@ -1,0 +1,71 @@
+data:
+  identifier: '3.5'
+  localized_concepts:
+    eng: 2c68c07a-43f8-4de3-84cc-ab4993d85fdf
+    fra: 886883a5-9ee9-4654-957a-1ab5c2e5ec0f
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: de94c20c-fb74-426e-ada0-8bcfe568e09d
+related:
+- type: compare
+  ref:
+    source: urn:oiml:pub:v:1:2022
+    id: '0.13'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '3.5'
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of a {{displaying measuring instrument,3.4}}, consisting of an ordered
+      set of marks together with any associated {{quantity values,1.19}}
+  examples: []
+  id: 3.5-eng
+  language_code: eng
+  notes:
+  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
+      ambiguity: "part of a displaying measuring instrument, consisting of an ordered
+      set of marks together with any associated values."'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale of a displaying measuring instrument
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2c68c07a-43f8-4de3-84cc-ab4993d85fdf
+---
+null
+...
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: partie d'un {{appareil de mesure afficheur,3.4}} constituée d'un ensemble
+      ordonné de repères, associés éventuellement à des nombres ou des {{valeurs de
+      grandeurs,1.19}}
+  examples: []
+  id: 3.5-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échelle d'un appareil de mesure afficheur
+  - type: expression
+    normative_status: admitted
+    designation: échelle, f
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 886883a5-9ee9-4654-957a-1ab5c2e5ec0f

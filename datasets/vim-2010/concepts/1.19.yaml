@@ -5,7 +5,7 @@ data:
     fra: e2d786f5-6b80-4180-9d3f-86cbaec79951
   domains:
   - concept_id: section-1
-    source: urn:jcgm:pub:200:2010
+    source: urn:oiml:pub:v:2:2010
     ref_type: domain
 status: valid
 id: 2a7b8346-04c0-4eac-948d-c16cdd3369c5
@@ -13,7 +13,7 @@ schema_version: '3'
 related:
 - type: supersedes
   ref:
-    source: urn:jcgm:pub:200:2007
+    source: urn:oiml:pub:v:2:2007
     id: '1.19'
 ---
 data:

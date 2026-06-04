@@ -145,11 +145,11 @@ datasets:
   - fra
   editionStatus: superseded
 - id: vim-2012
-  uri: urn:jcgm:pub:200:2012
+  uri: urn:oiml:pub:v:2:2012
   uriAliases:
-  - urn:jcgm:pub:200:2012*
+  - urn:oiml:pub:v:2:2012*
   sourceRepo: https://github.com/metanorma/oiml-vocab
-  localPath: datasets/vim
+  localPath: datasets/vim-2012
   ref: OIML V 2-200:2012
   title: OIML V 2-200:2012
   description: Current edition with 144 concepts in 5 chapters covering quantities
@@ -161,11 +161,11 @@ datasets:
       description: Édition actuelle comprenant 144 concepts en 5 chapitres couvrant
         les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés
         des dispositifs de mesure et les étalons.
-  owner: JCGM
+  owner: OIML
   color: "#005A9C"
   tags:
   - metrology
-  - jcgm
+  - oiml
   - vocabulary
   languages:
   - eng
@@ -174,11 +174,11 @@ datasets:
   - eng
   - fra
   refAliases:
-  - JCGM 200:2012
+  - OIML V 2-200:2012
 - id: vim-2010
-  uri: urn:jcgm:pub:200:2010
+  uri: urn:oiml:pub:v:2:2010
   uriAliases:
-  - urn:jcgm:pub:200:2010*
+  - urn:oiml:pub:v:2:2010*
   sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/vim-2010
   ref: OIML V 2-200:2010
@@ -192,11 +192,11 @@ datasets:
       description: Remplacée par l'édition 2012. 143 concepts en 5 chapitres avec
         définitions corrigées couvrant les grandeurs et unités, les mesurages, les
         dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons.
-  owner: JCGM
+  owner: OIML
   color: "#7C93A8"
   tags:
   - metrology
-  - jcgm
+  - oiml
   - vocabulary
   languages:
   - eng
@@ -205,12 +205,12 @@ datasets:
   - eng
   - fra
   refAliases:
-  - JCGM 200:2010
+  - OIML V 2-200:2010
   editionStatus: superseded
 - id: vim-2007
-  uri: urn:jcgm:pub:200:2007
+  uri: urn:oiml:pub:v:2:2007
   uriAliases:
-  - urn:jcgm:pub:200:2007*
+  - urn:oiml:pub:v:2:2007*
   sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/vim-2007
   ref: OIML V 2-200:2007
@@ -224,11 +224,11 @@ datasets:
       description: Remplacée par l'édition 2010. 143 concepts en 5 chapitres couvrant
         les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés
         des dispositifs de mesure et les étalons.
-  owner: JCGM
+  owner: OIML
   color: "#94A8B8"
   tags:
   - metrology
-  - jcgm
+  - oiml
   - vocabulary
   languages:
   - eng
@@ -237,12 +237,12 @@ datasets:
   - eng
   - fra
   refAliases:
-  - JCGM 200:2007
+  - OIML V 2-200:2007
   editionStatus: superseded
 - id: vim-1993
-  uri: urn:jcgm:pub:200:1993
+  uri: urn:oiml:pub:v:2:1993
   uriAliases:
-  - urn:jcgm:pub:200:1993*
+  - urn:oiml:pub:v:2:1993*
   sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/vim-1993
   ref: OIML V 2:1993
@@ -256,11 +256,11 @@ datasets:
       description: Remplacée par l'édition 2007. 120 concepts en 6 chapitres couvrant
         les grandeurs et unités, les mesurages, les résultats de mesure, les instruments
         de mesure, les caractéristiques des instruments de mesure et les étalons.
-  owner: JCGM
+  owner: OIML
   color: "#B0BEC5"
   tags:
   - metrology
-  - jcgm
+  - oiml
   - vocabulary
   languages:
   - eng
@@ -269,7 +269,7 @@ datasets:
   - eng
   - fra
   refAliases:
-  - JCGM 200:1993
+  - OIML V 2-200:1993
   - ISO Guide 99:1993
   - ISO/TAG 4:1993
   editionStatus: superseded
@@ -313,7 +313,7 @@ pages:
   route: about
   title: About
   icon: info
-  source: about.md
+  source: about-eng.md
   translations:
     fra:
       title: À propos

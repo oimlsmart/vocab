@@ -1,0 +1,69 @@
+data:
+  identifier: '2.31'
+  localized_concepts:
+    eng: 2ed952fd-0f69-4354-93d0-1c428072bc4b
+    fra: 4d21c521-c813-4b10-81d2-bb44955c6ffc
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:2:2012
+    ref_type: domain
+status: valid
+id: 23d0e8c0-050b-4d54-9650-58d4b69ee3fe
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:2010
+    id: '2.31'
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{standard measurement uncertainty,2.30}} that is obtained using the
+      individual {{standard measurement uncertainties,2.30}} associated with the {{input
+      quantities in a measurement model,2.50}}'
+  examples: []
+  id: 2.31-eng
+  language_code: eng
+  notes:
+  - content: In case of correlations of input quantities in a measurement model, covariances
+      must also be taken into account when calculating the combined standard measurement
+      uncertainty; see also ISO/IEC Guide 98-3:2008, 2.3.4.
+  - content: '[Annotation] Here "standard measurement uncertainty" can be replaced
+      by "standard uncertainty" in both occurrences without ambiguity: "standard uncertainty
+      that is obtained using the individual standard uncertainties associated with
+      the input quantities in a measurement model".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: combined standard measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: combined standard uncertainty
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2ed952fd-0f69-4354-93d0-1c428072bc4b
+---
+data:
+  dates:
+  - date: '2012-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '{{incertitude-type,2.30}} obtenue en utilisant les {{incertitudes-types,2.30}}
+      individuelles associées aux {{grandeurs d''entrée dans un modèle de mesure,2.50}}'
+  examples: []
+  id: 2.31-fra
+  language_code: fra
+  notes:
+  - content: Lorsqu'il existe des corrélations entre les grandeurs d'entrée dans un
+      modèle de mesure, il faut aussi prendre en compte des covariances dans le calcul
+      de l'incertitude-type composée; voir aussi le Guide ISO/CEI 98-3:2008, 2.3.4.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude-type composée
+date_accepted: '2012-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4d21c521-c813-4b10-81d2-bb44955c6ffc

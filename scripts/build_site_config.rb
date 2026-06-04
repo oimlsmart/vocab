@@ -51,8 +51,8 @@ def build_edition_dataset(edition)
   if type == :vim
     full_name = "International Vocabulary of Metrology"
     full_name_fra = "Vocabulaire international de métrologie"
-    owner = "JCGM"
-    tags = ["metrology", "jcgm", "vocabulary"]
+    owner = "OIML"
+    tags = ["metrology", "oiml", "vocabulary"]
   else
     full_name = "International Vocabulary of Legal Metrology"
     full_name_fra = "Vocabulaire international de métrologie légale"
