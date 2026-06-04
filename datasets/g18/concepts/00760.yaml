@@ -1,0 +1,45 @@
+data:
+  identifier: '00760'
+  localized_concepts:
+    eng: fce8c1dc-8cd0-5a4e-ad39-c39f18e5ceee
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.8.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 631442fe-737e-57a0-ae79-664035d54304
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic gravimetric filling instrument for which the fill is determined
+      by controlling the output feed from the weigh hopper
+  examples: []
+  id: 00760-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.8.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: subtractive weigher
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fce8c1dc-8cd0-5a4e-ad39-c39f18e5ceee

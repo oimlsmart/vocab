@@ -1,0 +1,46 @@
+data:
+  identifier: 02181
+  localized_concepts:
+    eng: 9a607e3c-78d4-5743-88a7-82c46834c0fa
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.14
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: b9b6c3b9-6fe3-51d6-ba19-38cfa5625cd7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of the measuring instrument to maintain its performance characteristics
+      over a period of use
+  examples: []
+  id: 02181-eng
+  notes:
+  - content: '[OIML D 11:2004, 3.17]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9a607e3c-78d4-5743-88a7-82c46834c0fa

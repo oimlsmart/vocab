@@ -1,0 +1,45 @@
+data:
+  identifier: '00141'
+  localized_concepts:
+    eng: 992eba94-338d-5f4c-8a3b-be988a6d1d53
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+    locality:
+      type: clause
+      reference_from: 1.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-D020
+    ref_type: section
+status: valid
+id: 4d625647-8d5c-5207-8eb8-6effd78b7c25
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a physical object, device, or material that is subject to a measurement
+      and embodies the physical quantity to be measured or calibrated
+  examples: []
+  id: 00141-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+      locality:
+        type: clause
+        reference_from: 1.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test object
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 992eba94-338d-5f4c-8a3b-be988a6d1d53

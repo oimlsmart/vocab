@@ -1,0 +1,44 @@
+data:
+  identifier: 02296
+  localized_concepts:
+    eng: a8539c9d-dd47-5a7c-bed4-350af41e723e
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.57'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: da72b1cf-6083-57fe-bbc7-f856edcac8aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: checking facility that operates without the intervention of an operator
+  examples: []
+  id: 02296-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.57'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a8539c9d-dd47-5a7c-bed4-350af41e723e

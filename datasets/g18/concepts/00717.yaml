@@ -1,0 +1,46 @@
+data:
+  identifier: '00717'
+  localized_concepts:
+    eng: 1603c288-863c-503c-a69d-d5f1bd357ad0
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.6
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 02320db7-eabc-58a7-b63a-a4d792a0f499
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Largest value of a quantity (mass) which is applied to a load cell during
+      test or use. This value shall not be greater than Emax (see 2.3.5). For the
+      limits on Dmax during testing, see A.3.2.4
+  examples: []
+  id: 00717-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum load of the measuring range (Dmax)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1603c288-863c-503c-a69d-d5f1bd357ad0

@@ -1,0 +1,45 @@
+data:
+  identifier: 00189
+  localized_concepts:
+    eng: 130dec75-75f4-5ade-99a1-f5ed99cf2653
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 2c0a6bfc-1ecb-575a-98f3-437e871b763c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: function of metrological supervision consisting in taking the appropriate
+      legal actions against offenders for any violation established during the investigation
+  examples: []
+  id: 00189-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: enforcement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 130dec75-75f4-5ade-99a1-f5ed99cf2653

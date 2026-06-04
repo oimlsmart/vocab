@@ -1,0 +1,44 @@
+data:
+  identifier: '00770'
+  localized_concepts:
+    eng: 50ecda38-31a1-5094-b8f1-c1539e128dbc
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.1.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 77a94688-302e-556a-bbf4-6700491309c4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which automatically corrects the setting of the filling instrument
+  examples: []
+  id: 00770-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.1.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 50ecda38-31a1-5094-b8f1-c1539e128dbc

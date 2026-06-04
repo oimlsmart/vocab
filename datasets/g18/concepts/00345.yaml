@@ -1,0 +1,45 @@
+data:
+  identifier: '00345'
+  localized_concepts:
+    eng: c16e8045-521b-5ef5-800c-92303441d4ab
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 37ec15ba-062d-53aa-89d0-32f935193859
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device incorporated into the taximeter that tracks the current time and
+      date
+  examples: []
+  id: 00345-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: real-time clock
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c16e8045-521b-5ef5-800c-92303441d4ab

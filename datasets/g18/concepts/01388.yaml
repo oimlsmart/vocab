@@ -1,0 +1,45 @@
+data:
+  identifier: 01388
+  localized_concepts:
+    eng: baf5c117-f242-54e6-be4d-50906b7f8076
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: ca5c3d17-ee07-5b71-8445-afad780ff9ce
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the indication and the result the instrument would
+      give with analog indication
+  examples: []
+  id: 01388-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rounding error of digital indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: baf5c117-f242-54e6-be4d-50906b7f8076

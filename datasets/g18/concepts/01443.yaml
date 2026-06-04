@@ -1,0 +1,53 @@
+data:
+  identifier: '01443'
+  localized_concepts:
+    eng: fcc445b5-fabb-5e88-acc8-8b7124306f76
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: fbb24184-0eb4-5ecb-9562-19c88224ab19
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of operations that establish, under specified conditions, the relationship
+      between values of quantities indicated by a measuring instrument or measuring
+      system, or values represented by a material measure or a reference material,
+      and the corresponding values realized by standards
+  examples: []
+  id: 01443-eng
+  notes:
+  - content: '1: The result of a calibration permits either assignment of values of
+      measurands to the indications or the determination of corrections with respect
+      to indications. 2: A calibration may also determine other metrological properties
+      such as the effect of influence quantities. 3: The result of a calibration may
+      be recorded in a document, sometimes called calibration certificate or calibration
+      report'
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fcc445b5-fabb-5e88-acc8-8b7124306f76

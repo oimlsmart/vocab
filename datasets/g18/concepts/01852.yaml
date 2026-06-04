@@ -1,0 +1,46 @@
+data:
+  identifier: 01852
+  localized_concepts:
+    eng: 4959bdc3-3242-5a88-90a1-fadccf3dcdab
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 8f3e61f4-e490-5904-8372-63ddce7f5975
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: solution similar to the sample solution but which does not contain the
+      analyte
+  examples: []
+  id: 01852-eng
+  notes:
+  - content: 'Example: Solvent.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blank solution; reference solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4959bdc3-3242-5a88-90a1-fadccf3dcdab

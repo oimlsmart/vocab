@@ -1,0 +1,45 @@
+data:
+  identifier: 01783
+  localized_concepts:
+    eng: 7ab8eb8c-c783-54ae-b65b-d458da3b5de6
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: a99770c9-5d2d-5d22-bb87-f284b5557646
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class of liquid-in-glass thermometers that meet certain metrological
+      requirements intended to keep errors within specified limits
+  examples: []
+  id: 01783-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7ab8eb8c-c783-54ae-b65b-d458da3b5de6

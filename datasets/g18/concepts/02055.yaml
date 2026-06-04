@@ -1,0 +1,45 @@
+data:
+  identifier: '02055'
+  localized_concepts:
+    eng: f41cc2f9-dbf9-5537-b0d4-934c35db03a7
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.12.2
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: d608136a-42d9-5dfe-bfa4-8ae7c9c02295
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which automatically multiplies the volume at base conditions or
+      the mass by the representative calorific value of the gas
+  examples: []
+  id: 02055-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.12.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energy conversion device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f41cc2f9-dbf9-5537-b0d4-934c35db03a7

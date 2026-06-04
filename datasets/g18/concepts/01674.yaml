@@ -1,0 +1,46 @@
+data:
+  identifier: '01674'
+  localized_concepts:
+    eng: 3d3d2bdc-1a96-569d-94d9-494aa6dc9370
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: fb0480e4-2550-50bb-99a3-f925af563128
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between the indications obtained with two inputs of gas
+      of a given mass concentration, a gas of a specified higher mass concentration
+      being injected between these two inputs
+  examples: []
+  id: 01674-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: memory (residual) effect
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3d3d2bdc-1a96-569d-94d9-494aa6dc9370

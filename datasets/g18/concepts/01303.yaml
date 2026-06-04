@@ -1,0 +1,46 @@
+data:
+  identifier: '01303'
+  localized_concepts:
+    eng: 33c17394-fc0f-5025-b7db-8eb786cff712
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.5.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: f7547c07-87a4-5a77-8983-3348a9bfdc48
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value that falls within the limits specified
+      in this International Recommendation but that falls outside the rated operating
+      conditions of the instrument
+  examples: []
+  id: 01303-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.5.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 33c17394-fc0f-5025-b7db-8eb786cff712

@@ -1,0 +1,47 @@
+data:
+  identifier: 01594
+  localized_concepts:
+    eng: 89a3292e-a5dc-5237-bd01-bb37f4c3a6a4
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.q.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 99af1735-5015-561f-896e-7177b8eef7d0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: metrol smallest quantity of liquid for which the measurement is ogically
+      acceptable for that system or element. In ing systems intended for delivery
+      operations, this st quantity is referred to as the minimum delivery; in those
+      ed for receiving operations, it is referred to as the m receip
+  examples: []
+  id: 01594-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.q.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum measured quantity (MMQ) measur smalle intend minimu
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 89a3292e-a5dc-5237-bd01-bb37f4c3a6a4

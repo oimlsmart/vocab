@@ -1,0 +1,44 @@
+data:
+  identifier: 02249
+  localized_concepts:
+    eng: bd29809b-0367-5b13-8c8e-e2587caaedb4
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: a5964d18-0bde-51db-94f6-65e365b00a70
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of volume provided by the volume measuring system
+  examples: []
+  id: 02249-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicated volume, Vi
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bd29809b-0367-5b13-8c8e-e2587caaedb4

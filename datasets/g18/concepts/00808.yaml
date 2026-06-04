@@ -1,0 +1,47 @@
+data:
+  identifier: 00808
+  localized_concepts:
+    eng: bff1ff07-ca3e-55a3-bc69-b55ddcf09131
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 86bb9f7e-4098-5a44-9e60-9da66b7edc78
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value for accuracy class determined by static testing of the weighing
+      unit during influence quantity testing at type approval stage. Ref(x) is equal
+      to the best accuracy class for which the instrument may be verified for operational
+      use
+  examples: []
+  id: 00808-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference value for accuracy class (Ref(x))
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bff1ff07-ca3e-55a3-bc69-b55ddcf09131

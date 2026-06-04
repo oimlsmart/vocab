@@ -1,0 +1,45 @@
+data:
+  identifier: '01400'
+  localized_concepts:
+    eng: 03fc06a3-b0a6-5d97-999b-0a0f11117a55
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 07d107a3-f5cf-559a-866d-f76dfdec636e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V conditions of use prescribed for testing the performance of an instrument
+      or for intercomparison of results of measurements IM: 1993, 5.7]'
+  examples: []
+  id: 01400-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 03fc06a3-b0a6-5d97-999b-0a0f11117a55

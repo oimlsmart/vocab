@@ -1,0 +1,45 @@
+data:
+  identifier: '01414'
+  localized_concepts:
+    eng: d5d09314-054f-5c61-82f8-7b260f9d7e44
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R109
+    ref_type: section
+status: valid
+id: 730d62fe-b222-5f1e-a348-817d7f5d8be1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the upper limit of the part of the measuring range acceptable for permanent
+      operation of the instrument in service
+  examples: []
+  id: 01414-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normal limit of the measuring range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d5d09314-054f-5c61-82f8-7b260f9d7e44

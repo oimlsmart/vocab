@@ -1,0 +1,45 @@
+data:
+  identifier: '00611'
+  localized_concepts:
+    eng: 90e97296-39dd-51f0-8c80-a44e18304df8
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.8
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: b08ea0bf-c25e-56de-8d18-2dcb3af33a91
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero when there is no load on the
+      load receptor
+  examples: []
+  id: 00611-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 90e97296-39dd-51f0-8c80-a44e18304df8

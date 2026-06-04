@@ -1,0 +1,47 @@
+data:
+  identifier: '01556'
+  localized_concepts:
+    eng: f403410b-d662-5721-ba08-196e6c581e57
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.e.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: cddb1f79-5c05-519c-91d2-0da9b91508d9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: empty hose systems are measuring systems in which the transfer point
+      is located upstream of the delivery hose in measuring systems designed to deliver
+      product (and downstream of the receiving hose in measuring systems designed
+      to receive product)
+  examples: []
+  id: 01556-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.e.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: empty hose measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f403410b-d662-5721-ba08-196e6c581e57

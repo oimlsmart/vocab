@@ -1,0 +1,45 @@
+data:
+  identifier: '01702'
+  localized_concepts:
+    eng: 8096c525-d663-5ef2-800a-e5326583436d
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 3acbaaf1-a518-5463-9b1c-12ee1b032d9f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device which measures the dimensions of an object and provides a signal
+      to the processor from which the associated quantities are calculated
+  examples: []
+  id: 01702-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8096c525-d663-5ef2-800a-e5326583436d

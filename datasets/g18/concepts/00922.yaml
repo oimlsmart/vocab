@@ -1,0 +1,45 @@
+data:
+  identifier: 00922
+  localized_concepts:
+    eng: 7bd7fad3-01fc-53ef-b4f1-aec6cf9642ee
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: db056887-2083-556e-a3b3-cdf3bf0eb4fe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero automatically without the intervention
+      of an operator
+  examples: []
+  id: 00922-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7bd7fad3-01fc-53ef-b4f1-aec6cf9642ee

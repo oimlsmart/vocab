@@ -1,0 +1,44 @@
+data:
+  identifier: '00712'
+  localized_concepts:
+    eng: 6424e836-ac28-5174-afcb-fcabb8d63d22
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 42890c71-4aab-545a-adcf-5aca2af56d2d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the load cell measuring range into which that range is divided
+  examples: []
+  id: 00712-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load cell interval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6424e836-ac28-5174-afcb-fcabb8d63d22

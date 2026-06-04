@@ -1,0 +1,44 @@
+data:
+  identifier: '01156'
+  localized_concepts:
+    eng: cfa68d15-33e9-5158-bdfb-9b48e1bc9de7
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R098
+    ref_type: section
+status: valid
+id: 1a75141b-488d-58f8-918d-6c68dcd2c9f3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a line measure with a set of scale marks at intervals along its length
+  examples: []
+  id: 01156-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multiple valued line measure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cfa68d15-33e9-5158-bdfb-9b48e1bc9de7

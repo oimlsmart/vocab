@@ -1,0 +1,47 @@
+data:
+  identifier: 00958
+  localized_concepts:
+    eng: 78cfbf32-903e-544d-aaeb-a3cfeafb281f
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 14b6d78e-2cb7-5d40-bc83-25651a88b3ba
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of an instrument to react to small variations of load. The discrimination
+      threshold, for a given load, is the value of the smallest additional load that,
+      when gently deposited on or removed from the load receptor, causes a perceptible
+      change in the indication
+  examples: []
+  id: 00958-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discrimination
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 78cfbf32-903e-544d-aaeb-a3cfeafb281f

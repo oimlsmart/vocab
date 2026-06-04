@@ -1,0 +1,44 @@
+data:
+  identifier: 00485
+  localized_concepts:
+    eng: ad3c263c-48e0-5914-9320-c74504d08758
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 7bf4f810-0335-574f-82af-34d93f3f1308
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a load receptor that includes an entire conveyor
+  examples: []
+  id: 00485-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inclusive of conveyor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ad3c263c-48e0-5914-9320-c74504d08758

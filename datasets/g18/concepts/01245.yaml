@@ -1,0 +1,45 @@
+data:
+  identifier: '01245'
+  localized_concepts:
+    eng: 1bf4e549-c021-5353-83cc-5701b9acdb27
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.28
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: fb340a6f-634f-5673-a329-0d414d835c6c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the capability of the measuring system to maintain its performance characteristics
+      over a period of use
+  examples: []
+  id: 01245-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.28
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1bf4e549-c021-5353-83cc-5701b9acdb27

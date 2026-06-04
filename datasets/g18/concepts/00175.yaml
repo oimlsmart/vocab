@@ -1,0 +1,50 @@
+data:
+  identifier: '00175'
+  localized_concepts:
+    eng: 977e4472-a4ec-5ffb-91fe-c28e3228a8c8
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-D027
+    ref_type: section
+status: valid
+id: 20949771-1f81-5397-a34f-f4405b4d32fc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document specifying which procedures and associated resources shall be
+      applied by whom and when to a specific project, product, process or contract
+      [ISO 9000:2000, 3.7.5]
+  examples: []
+  id: 00175-eng
+  notes:
+  - content: (1) These procedures generally include those referring to quality management
+      processes and to product realization processes. (2) A quality plan often makes
+      reference to parts of the quality manual or to procedure documents. (3) A quality
+      plan is generally one of the results of quality planning.
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quality plan
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 977e4472-a4ec-5ffb-91fe-c28e3228a8c8

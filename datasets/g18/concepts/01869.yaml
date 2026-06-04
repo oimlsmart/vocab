@@ -1,0 +1,45 @@
+data:
+  identifier: 01869
+  localized_concepts:
+    eng: 1e3f3881-4de7-55f6-a9d0-8c6f145cee13
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.30'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 64fbe7b9-f967-5e48-ba43-1a6c009a2927
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fault greater than the value specified in the appropriate Recommendation
+  examples: []
+  id: 01869-eng
+  notes:
+  - content: '[OIML D 11, 3.10]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.30'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1e3f3881-4de7-55f6-a9d0-8c6f145cee13

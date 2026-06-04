@@ -1,0 +1,46 @@
+data:
+  identifier: '01012'
+  localized_concepts:
+    eng: 1616fecf-ba4a-57d3-84f1-a98c58ac1318
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: d7bb2d34-bdbc-54fd-82e5-1987285589e7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a standard, traceable to national standards, used for the verification
+      of cryogenic liquid measuring devices and systems
+  examples: []
+  id: 01012-eng
+  notes:
+  - content: This is usually referred to as “master meter” in this field.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference (or working) standard
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1616fecf-ba4a-57d3-84f1-a98c58ac1318

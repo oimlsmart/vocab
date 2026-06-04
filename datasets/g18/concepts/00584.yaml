@@ -1,0 +1,51 @@
+data:
+  identifier: 00584
+  localized_concepts:
+    eng: 12283422-5d37-52ec-bd91-6abfd8e452a0
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 8eb60bde-7e54-5b8a-983b-5c45c7c3e8d5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: identifiable part of an instrument that performs a specific function
+      or functions, and that can be separately evaluated ins according to the metrological
+      and technical performance dig requirements in the relevant Recommendation. The
+      modules of a termina weighing instrument are subject to specified partial error
+      limits
+  examples: []
+  id: 00584-eng
+  notes:
+  - content: 'typical modules of an automatic weighing trument are: load cell, indicator,
+      analog or ital data processing device, computer l, weighing module, digital
+      display.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: module
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 12283422-5d37-52ec-bd91-6abfd8e452a0

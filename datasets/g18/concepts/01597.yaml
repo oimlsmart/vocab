@@ -1,0 +1,45 @@
+data:
+  identifier: 01597
+  localized_concepts:
+    eng: dffd91f4-9e15-5b18-846a-8b4dfd159329
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.s.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 42c60203-929d-5f1e-af54-d0459f919805
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of a measuring device, directly affected by the flow of the liquid
+      to be measured and which converts the flow into a signal destined for the transducer
+  examples: []
+  id: 01597-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.s.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensor or meter senso
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dffd91f4-9e15-5b18-846a-8b4dfd159329

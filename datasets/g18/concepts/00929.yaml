@@ -1,0 +1,44 @@
+data:
+  identifier: 00929
+  localized_concepts:
+    eng: fa4fcb30-e57c-5790-a6f7-3711c27a6dc7
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.6
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: eb79c8e6-d2cc-5a26-a3be-d7259d4cb2cf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for immobilizing all or part of the mechanism of an instrument
+  examples: []
+  id: 00929-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: locking device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fa4fcb30-e57c-5790-a6f7-3711c27a6dc7

@@ -1,0 +1,46 @@
+data:
+  identifier: '02237'
+  localized_concepts:
+    eng: b789675b-41f5-5d68-baee-85c302c37172
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 701ab688-2476-5d78-a8bc-b29d9e7fd417
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: expression in the form of a table, of the mathematical function V(h)
+      which represents the relation between the height h (independent variable) and
+      the volume V (dependent variable)
+  examples: []
+  id: 02237-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration table
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b789675b-41f5-5d68-baee-85c302c37172

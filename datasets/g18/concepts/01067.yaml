@@ -1,0 +1,46 @@
+data:
+  identifier: '01067'
+  localized_concepts:
+    eng: 573d2bf6-9804-571e-8f0b-804a369c3c30
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R083
+    ref_type: section
+status: valid
+id: 2388898a-02ce-5df7-b919-03cc5860b1a9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that can respond to eluted sample components in the carrier gas
+      emerging from the gas chromatographic column and that is contained within the
+      mass spectrometer in a GC/MS system
+  examples: []
+  id: 01067-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detector
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 573d2bf6-9804-571e-8f0b-804a369c3c30

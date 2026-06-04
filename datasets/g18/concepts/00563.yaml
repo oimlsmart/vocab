@@ -1,0 +1,45 @@
+data:
+  identifier: '00563'
+  localized_concepts:
+    eng: 39b45acb-1da4-57ba-a777-a77649a20b0f
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 20dce49d-f3a0-5997-8d8d-d7ca07bae020
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (e catchweigher that labels individual pre-assembled discrete loads .g.
+      prepackages) with the weight value
+  examples: []
+  id: 00563-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weigh labeller
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 39b45acb-1da4-57ba-a777-a77649a20b0f

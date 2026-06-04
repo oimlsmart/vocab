@@ -1,0 +1,47 @@
+data:
+  identifier: 00801
+  localized_concepts:
+    eng: 93187578-0447-593a-9e79-3fa463cb872c
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 1367f729-54c5-5e9e-93e2-2fecdadefd5b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[b extreme value of an error permitted by specifications or regulations
+      between the indication of a weighing instrument and the corresponding true value,
+      as determined by reference standard masses, at zero or no load, in the reference
+      position ased on VIM:1993, 5.21]'
+  examples: []
+  id: 00801-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (MPE)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 93187578-0447-593a-9e79-3fa463cb872c

@@ -1,0 +1,44 @@
+data:
+  identifier: '02130'
+  localized_concepts:
+    eng: ad8e4e3c-6136-5d78-a326-d8dd9d546fd3
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: 2.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 22876a75-f2e1-5f1a-982a-481067b7cdca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: adjustment employing only the means at the disposal of the user
+  examples: []
+  id: 02130-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: 2.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user adjustment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ad8e4e3c-6136-5d78-a326-d8dd9d546fd3

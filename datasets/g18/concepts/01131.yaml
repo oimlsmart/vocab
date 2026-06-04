@@ -1,0 +1,45 @@
+data:
+  identifier: '01131'
+  localized_concepts:
+    eng: 3bfb5473-c16d-596e-89c2-1d39cc2beb3d
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: 3.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: 367a3b74-e288-55de-ba4b-4352112a5523
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reciprocal of the paraxial value of the back vertex focal length measured
+      in metres
+  examples: []
+  id: 01131-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: 3.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: back vertex power
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3bfb5473-c16d-596e-89c2-1d39cc2beb3d

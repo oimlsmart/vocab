@@ -1,0 +1,47 @@
+data:
+  identifier: 02159
+  localized_concepts:
+    eng: b06cf0f4-0e4d-59fa-a527-5bc034765d4b
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D030
+    ref_type: section
+status: valid
+id: 2e127299-e60b-53c8-8514-393f56a54f37
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-1 systematic examination and testing of the performance of one
+      or (VIML 2.5) more specimens of an identified type of measuring instrument against
+      documented requirements, the results of which are contained in the evaluation
+      report, in order to determine whether the type may be approved'
+  examples: []
+  id: 02159-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type evaluation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b06cf0f4-0e4d-59fa-a527-5bc034765d4b

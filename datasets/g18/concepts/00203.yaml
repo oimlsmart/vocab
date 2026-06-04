@@ -1,0 +1,50 @@
+data:
+  identifier: '00203'
+  localized_concepts:
+    eng: 7bc3cf5c-b588-5178-a0ad-6c7af7e85337
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.21'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: f5a3628f-a714-5668-8403-2be8dc77680b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'private body authorized (licensed) to perform certain activities in
+      Prior to authorization, their technical legal metrology beyond the scope of
+      metrological supervision (especially activities of metrological control: certification
+      of a measuring instrument, initial and subsequent verification of a measuring
+      instrument, metrological control of a prepackage)'
+  examples: []
+  id: 00203-eng
+  notes:
+  - content: competence is normally demonstrated by an approval of their quality system
+      through accreditation or any equivalent type of assessment.
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: authorized private body
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7bc3cf5c-b588-5178-a0ad-6c7af7e85337

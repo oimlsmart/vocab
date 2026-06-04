@@ -1,0 +1,45 @@
+data:
+  identifier: '01023'
+  localized_concepts:
+    eng: 783c1cd5-cb0a-5812-b7d9-6a861316683b
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 2f7fac95-3279-544a-a17d-39122871ee77
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between the scale values corresponding to two successive
+      scale marks
+  examples: []
+  id: 01023-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 783c1cd5-cb0a-5812-b7d9-6a861316683b

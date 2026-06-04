@@ -1,0 +1,45 @@
+data:
+  identifier: '00367'
+  localized_concepts:
+    eng: 1f0e83cf-0331-59d5-9492-eec827add3eb
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: b3531b1f-f33e-5ce6-9e76-ad6198eb3de3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: length measure which has the principal scale marks formed by two end
+      surfaces or edges of the measure
+  examples: []
+  id: 00367-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: end measure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1f0e83cf-0331-59d5-9492-eec827add3eb

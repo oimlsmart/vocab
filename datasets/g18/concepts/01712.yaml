@@ -1,0 +1,46 @@
+data:
+  identifier: '01712'
+  localized_concepts:
+    eng: 08e902c2-913f-596c-bc00-60b6805671d7
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 21257c0b-aa1d-5652-8f89-6aaddb329204
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: for this Recommendation, the volume of the smallest rectangular box which
+      fully encloses the object, that is the product of the indicated values of length
+      (L), width (W) and height (H)
+  examples: []
+  id: 01712-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: volume (vol)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 08e902c2-913f-596c-bc00-60b6805671d7

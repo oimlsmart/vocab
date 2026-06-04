@@ -1,0 +1,47 @@
+data:
+  identifier: '02221'
+  localized_concepts:
+    eng: a47ebf91-1be1-519e-889c-d0e29b660042
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.54
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 9728b2cb-2623-53c1-957b-c634ae165e1b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: computer that is not constructed for a specific purpose but that can
+      be adapted to the metrological task by software. In general this software is
+      founded on an operating system that permits loading and execution of software
+      for specific purposes
+  examples: []
+  id: 02221-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.54
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: universal computer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a47ebf91-1be1-519e-889c-d0e29b660042

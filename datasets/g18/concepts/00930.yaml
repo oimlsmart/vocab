@@ -1,0 +1,45 @@
+data:
+  identifier: 00930
+  localized_concepts:
+    eng: bca9410f-a243-5394-ad3c-a14fcac58e72
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.7
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 6d7a9a7a-1018-527a-a858-011091d84286
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device permitting separate verification of one or more main devices of
+      an instrument
+  examples: []
+  id: 00930-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: auxiliary verification device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bca9410f-a243-5394-ad3c-a14fcac58e72

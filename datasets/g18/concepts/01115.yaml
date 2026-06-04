@@ -1,0 +1,47 @@
+data:
+  identifier: '01115'
+  localized_concepts:
+    eng: 609424a2-cf20-55f8-be75-aff31742102a
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: ff673ac2-6169-5db5-8aa8-78442236b361
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: definite quantity of prepackages produced at one time under conditions
+      that are presumed to be uniform and from which a sample is drawn and inspected
+      to determine conformance with specified criteria for acceptance or rejection
+      of the inspection lot as a whole
+  examples: []
+  id: 01115-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection lot (also called a batch)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 609424a2-cf20-55f8-be75-aff31742102a

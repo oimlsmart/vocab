@@ -1,0 +1,47 @@
+data:
+  identifier: 01906
+  localized_concepts:
+    eng: 84fce6ee-38ec-54b1-b6cb-7d52c6efefa4
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 6ea1688b-ac17-5b1e-b639-f5b203ad3096
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme value of an error permitted by specifications or regulations
+      between the indication of a measuring instrument and the corresponding true
+      value
+  examples: []
+  id: 01906-eng
+  notes:
+  - content: '[VIM:1993, 5.21]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (MPE)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 84fce6ee-38ec-54b1-b6cb-7d52c6efefa4

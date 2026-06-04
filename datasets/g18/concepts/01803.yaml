@@ -1,0 +1,44 @@
+data:
+  identifier: 01803
+  localized_concepts:
+    eng: 6d62a25e-c108-539a-a350-a9f1478ce6de
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: ecdefa92-e501-5137-a6d6-9521a98d2fe6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means to print the weight value of a vehicle weighed on the instrument
+  examples: []
+  id: 01803-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: printing device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6d62a25e-c108-539a-a350-a9f1478ce6de

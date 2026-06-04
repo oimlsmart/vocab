@@ -1,0 +1,45 @@
+data:
+  identifier: 02090
+  localized_concepts:
+    eng: b9ed930a-88b1-56cd-a9ff-1e07da3de48f
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.21
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 684d8226-7b8b-5a47-8296-8af0b8106993
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: capability of an electronic part of the measuring system to keep its
+      performance characteristics over a period of use
+  examples: []
+  id: 02090-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.21
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b9ed930a-88b1-56cd-a9ff-1e07da3de48f

@@ -1,0 +1,47 @@
+data:
+  identifier: '00761'
+  localized_concepts:
+    eng: c44bfe91-18c6-506b-90dd-17592005371d
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.9
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 3883d21a-bed3-5c1e-b442-5821448f7526
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • weighing instrument used to determine the mass of the test fill(s)
+      delivered by the filling instrument. The control instrument used during testing
+      may be: Separate from the instrument being tested; or Integral, when the instrument
+      being tested is used as the control instrument'
+  examples: []
+  id: 00761-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c44bfe91-18c6-506b-90dd-17592005371d

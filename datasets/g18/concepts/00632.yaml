@@ -1,0 +1,45 @@
+data:
+  identifier: '00632'
+  localized_concepts:
+    eng: 464d467d-cf0e-57e1-b4b7-9059246a3321
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 1824d429-2806-5fa6-a515-f0edf5d0dbe4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of the difference between a gross or net weight value and a preset
+      tare value
+  examples: []
+  id: 00632-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculated net value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 464d467d-cf0e-57e1-b4b7-9059246a3321

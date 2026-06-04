@@ -1,0 +1,45 @@
+data:
+  identifier: '00255'
+  localized_concepts:
+    eng: 379f99bd-e8c0-5464-ab25-58434bdfe4ea
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.22'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: aee911b5-ad9c-54c4-a1c1-9497ff088b44
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sub-assembly converting the voltage from the mains power to a voltage
+      suitable for other sub-assemblies
+  examples: []
+  id: 00255-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: power converter (power supply device)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 379f99bd-e8c0-5464-ab25-58434bdfe4ea

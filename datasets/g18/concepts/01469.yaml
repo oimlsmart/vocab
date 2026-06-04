@@ -1,0 +1,52 @@
+data:
+  identifier: 01469
+  localized_concepts:
+    eng: 56dc7a90-8b62-5d2a-85bb-55d954db687b
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.18.1
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 0446f6d6-9fc4-5372-a3cf-aa7c9710bec3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (A series of tests and visual examinations carried out before the equipment/weight
+      is put into service to determine whether a weight or weight set has been manufactured
+      to replicate a given type and conforms to that type and to regulations, and
+      that its metrological characteristics lie within the limits required for initial
+      verification of copies of that type. If the weights or weight set pass all the
+      tests and examinations, it is given legal character byits acceptance as evidenced
+      by stamping and/or the issuing of acertificate of verification dapted from OIML
+      D 20 Initial and subsequent verification of measuring instruments and processes
+      (1988))
+  examples: []
+  id: 01469-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.18.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 56dc7a90-8b62-5d2a-85bb-55d954db687b

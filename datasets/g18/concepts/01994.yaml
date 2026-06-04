@@ -1,0 +1,48 @@
+data:
+  identifier: 01994
+  localized_concepts:
+    eng: 72b45275-794f-5a45-8dc7-a7cd3e7f3f39
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 4da02f68-30bf-512b-bc21-fa185b8db8be
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'part or device, other than an ancillary device, required to ensure correct
+      measurement or intended to facilitate the measuring operations, or which could
+      in any way affect the measurement Main additional devices are: - filter; - device
+      used for the transfer point; - anti-swirl device; - branches or bypasses; -
+      valves, hoses, and in general, all the gaseous piping.'
+  examples: []
+  id: 01994-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: additional device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 72b45275-794f-5a45-8dc7-a7cd3e7f3f39

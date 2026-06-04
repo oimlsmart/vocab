@@ -1,0 +1,46 @@
+data:
+  identifier: 01918
+  localized_concepts:
+    eng: 8e0baa92-d592-589a-9d0f-59ebc2833225
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: dafb68ec-bf24-561c-b660-5aea758026ff
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use which give the ranges of the influence quantities for
+      which the metrological characteristics are intended tolie within the specified
+      maximum permissible errors
+  examples: []
+  id: 01918-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8e0baa92-d592-589a-9d0f-59ebc2833225

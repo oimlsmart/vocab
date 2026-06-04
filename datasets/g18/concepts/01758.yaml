@@ -1,0 +1,45 @@
+data:
+  identifier: 01758
+  localized_concepts:
+    eng: a5fe01a6-0783-5f49-95dc-51ee3b0d536d
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 252d26ee-fde6-5002-8e9e-3a5cf7c3fa57
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system used for determining absorbed dose consisting of alanine dosimeters
+      and an EPR spectrometer.
+  examples: []
+  id: 01758-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: alanine EPR dosimetry system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a5fe01a6-0783-5f49-95dc-51ee3b0d536d

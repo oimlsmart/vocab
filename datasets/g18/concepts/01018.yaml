@@ -1,0 +1,46 @@
+data:
+  identifier: 01018
+  localized_concepts:
+    eng: 77903ec9-3172-5f47-9968-be7484745bce
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: bde1822b-a6d4-56a1-8862-66b75a655a8d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device intended to perform a particular function, directly involved
+      in elaborating, memorizing, transmitting or displaying the measurement result
+  examples: []
+  id: 01018-eng
+  notes:
+  - content: Examples are a printing device or a remote indicator.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ancillary device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 77903ec9-3172-5f47-9968-be7484745bce

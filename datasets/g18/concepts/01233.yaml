@@ -1,0 +1,45 @@
+data:
+  identifier: '01233'
+  localized_concepts:
+    eng: 04752ea3-5fb2-5fb7-a191-f026704d5ddb
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.18
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 11ba0dab-c599-508a-9970-b12fdc0f1a35
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the intrinsic error of a measuring system as determined prior to performance
+      tests and durability evaluations
+  examples: []
+  id: 01233-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.18
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 04752ea3-5fb2-5fb7-a191-f026704d5ddb

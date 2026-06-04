@@ -1,0 +1,45 @@
+data:
+  identifier: '01145'
+  localized_concepts:
+    eng: e2cc58f2-d0cd-59b5-9dee-e3a30a229b4b
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.9
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: d3d219a6-6c35-519b-a951-b9a034e7715f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the distance between the dipping datum point and the upper reference
+      point, measured along the vertical measurement axis
+  examples: []
+  id: 01145-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference height, H
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e2cc58f2-d0cd-59b5-9dee-e3a30a229b4b

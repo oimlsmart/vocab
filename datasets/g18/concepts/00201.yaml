@@ -1,0 +1,45 @@
+data:
+  identifier: '00201'
+  localized_concepts:
+    eng: a3e49d70-1bd9-5d34-a912-bfcd379d2609
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.19'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 44cd7453-c03d-57b0-8d99-fb2120bdb841
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: each individual or business acquiring or purchasing products with a view
+      to using them. (In some countries this applies only to individuals)
+  examples: []
+  id: 00201-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: consumer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a3e49d70-1bd9-5d34-a912-bfcd379d2609

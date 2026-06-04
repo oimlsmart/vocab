@@ -1,0 +1,45 @@
+data:
+  identifier: 00681
+  localized_concepts:
+    eng: 13415555-ffdc-5e37-9561-48ed49a757c6
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 5046047b-138e-511a-b09d-63edb8511d27
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: relation between the displacement of the reference point and pressure,
+      when the pressure decreases
+  examples: []
+  id: 00681-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reverse elastic characteristic
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 13415555-ffdc-5e37-9561-48ed49a757c6

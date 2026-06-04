@@ -1,0 +1,45 @@
+data:
+  identifier: 00944
+  localized_concepts:
+    eng: 2ef41cc5-1af4-5823-a618-689610b9f6e3
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: ccc4041c-6517-505f-8fdc-4ce6188f2fc5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value by which it is possible to extend the range of self- indication
+      within the weighing range
+  examples: []
+  id: 00944-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extension interval of self-indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2ef41cc5-1af4-5823-a618-689610b9f6e3

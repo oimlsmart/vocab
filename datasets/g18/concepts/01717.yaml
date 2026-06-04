@@ -1,0 +1,45 @@
+data:
+  identifier: '01717'
+  localized_concepts:
+    eng: 9d7e18ce-299e-5489-91dc-3948d3c72ec3
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.18'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 45213d50-c894-5058-858d-35a04f74fbc7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the factor applied to the volume or dimensions of an object to determine
+      its dimensional weight
+  examples: []
+  id: 01717-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conversion factor (F)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9d7e18ce-299e-5489-91dc-3948d3c72ec3

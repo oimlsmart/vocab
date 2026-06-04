@@ -1,0 +1,45 @@
+data:
+  identifier: '00527'
+  localized_concepts:
+    eng: ffb5d897-30e4-573c-92d3-f39574ae7291
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 71092084-8eac-5c08-b0a8-62196df655b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the intrinsic error of a belt weigher as determined prior to performance
+      tests and durability evaluations
+  examples: []
+  id: 00527-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ffb5d897-30e4-573c-92d3-f39574ae7291

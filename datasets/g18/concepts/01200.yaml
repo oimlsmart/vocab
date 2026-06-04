@@ -1,0 +1,44 @@
+data:
+  identifier: '01200'
+  localized_concepts:
+    eng: e737b7cc-cda9-57f3-a334-3098e3414aa4
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R100
+    ref_type: section
+status: valid
+id: f12d8fd5-bab0-519e-b542-0fbbcf779f71
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: A device that converts a liquid sample into an aerosol
+  examples: []
+  id: 01200-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nebulizer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e737b7cc-cda9-57f3-a334-3098e3414aa4

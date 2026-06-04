@@ -1,0 +1,46 @@
+data:
+  identifier: 00915
+  localized_concepts:
+    eng: 921e655e-b3e6-5db7-a980-90229d9610db
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: e5ef8089-b979-5506-918a-f5c2bee83bfd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: adjustable device by means of which it is possible to estimate, in units
+      of mass, the value corresponding to the distance between a scale mark and the
+      displaying component
+  examples: []
+  id: 00915-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complementary displaying device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 921e655e-b3e6-5db7-a980-90229d9610db

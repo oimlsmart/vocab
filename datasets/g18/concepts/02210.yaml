@@ -1,0 +1,45 @@
+data:
+  identifier: '02210'
+  localized_concepts:
+    eng: 76dd16b0-9091-5d12-a5ad-a6b2c90885ad
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.43
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 91ffe874-5c0e-5286-8180-b3677247e7fd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: consists of program code and a dedicated data domain; it receives, filters,
+      or transmits data between software modules (not necessarily legally relevant).
+  examples: []
+  id: 02210-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.43
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software interface
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 76dd16b0-9091-5d12-a5ad-a6b2c90885ad

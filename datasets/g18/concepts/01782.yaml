@@ -1,0 +1,45 @@
+data:
+  identifier: 01782
+  localized_concepts:
+    eng: f5be4bd9-9863-5b9e-bf5b-57bd54908e2f
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: 5833680e-1a5a-5e1f-bbf8-63b96e4a9c68
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme values of an error permitted by specifications, regulations,
+      etc. for a given liquid-in-glass thermometer.
+  examples: []
+  id: 01782-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible errors (MPEs)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f5be4bd9-9863-5b9e-bf5b-57bd54908e2f

@@ -1,0 +1,49 @@
+data:
+  identifier: 01118
+  localized_concepts:
+    eng: edca1106-1e1f-510c-8b59-20530119b91c
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: 4e84da35-5deb-5129-94ef-314e02b4a92b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: everything of the prepackage that is intended to be left over after Packing
+      material is generally used to contain, use of the product, except for items
+      naturally in the product. Use includes consumption or subjecting to a treatment
+  examples: []
+  id: 01118-eng
+  notes:
+  - content: protect, handle, deliver, preserve, transport, inform about and serve
+      as an aid (e.g. food serving tray) while using the product it contains.
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: packing material (also called individual package, tare, packaging
+      or packaging material)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: edca1106-1e1f-510c-8b59-20530119b91c

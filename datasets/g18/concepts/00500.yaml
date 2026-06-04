@@ -1,0 +1,45 @@
+data:
+  identifier: '00500'
+  localized_concepts:
+    eng: 504776cd-edbf-5c37-b220-24ce778cc568
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: c02ccec2-c0df-5db9-bb6b-6404b78ccb61
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that indicates the overall total of the mass of all the loads
+      conveyed
+  examples: []
+  id: 00500-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: general totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 504776cd-edbf-5c37-b220-24ce778cc568

@@ -1,0 +1,49 @@
+data:
+  identifier: '02172'
+  localized_concepts:
+    eng: 2b3dc294-3069-51a4-a373-cd8c392927fe
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 39438bb0-3c97-5b4e-8d03-4e45f812003c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility that is incorporated in a measuring instrument and which 1.
+      “Acted upon” refers to any adequate enables significant faults to be detected
+      and acted upon
+  examples: []
+  id: 02172-eng
+  notes:
+  - content: response by the measuring instrument (luminous signal, acoustic signal,
+      prevention of the measurement process, etc.).
+  - content: 2. [OIML D 11:2004, 3.18]
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2b3dc294-3069-51a4-a373-cd8c392927fe

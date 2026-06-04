@@ -1,0 +1,44 @@
+data:
+  identifier: '01021'
+  localized_concepts:
+    eng: d0378d7e-781b-5ad2-9e7d-6d1decd66564
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 53a04db4-c8e4-5d37-8af6-599536934860
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a type of system in which the discharge hose is drained after each delivery
+  examples: []
+  id: 01021-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: empty-hose type or dry hose
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d0378d7e-781b-5ad2-9e7d-6d1decd66564

@@ -1,0 +1,46 @@
+data:
+  identifier: '01513'
+  localized_concepts:
+    eng: b93030fd-b743-5ed5-b2de-3c24528e486b
+  sources:
+  - origin:
+      ref:
+        source: OIML R115:1995
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R115
+    ref_type: section
+status: valid
+id: 0a8050c4-264f-5411-8bb3-29fb264dde59
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a predicting clinical electrical thermometer calculates the maximum temperature
+      of a probe in contact with a body cavity or tissue, without waiting for thermal
+      equilibrium to occur, by using heat transfer data and a mathematical algorithm
+  examples: []
+  id: 01513-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R115:1995
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: predicting clinical electrical thermometer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b93030fd-b743-5ed5-b2de-3c24528e486b

@@ -1,0 +1,43 @@
+data:
+  identifier: '01455'
+  localized_concepts:
+    eng: 3bfb8f68-1c17-506c-90cf-fe6a239755fe
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.9.5
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 2c6ec419-7a01-53c2-91de-aab6c9a92283
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition: []
+  examples: []
+  id: 01455-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.9.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnetic constant (magnetic permeability of vacuum (0))
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3bfb8f68-1c17-506c-90cf-fe6a239755fe

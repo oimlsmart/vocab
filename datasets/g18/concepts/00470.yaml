@@ -1,0 +1,45 @@
+data:
+  identifier: '00470'
+  localized_concepts:
+    eng: 4cc5504f-51fc-533e-9dfe-46d4387420ec
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 5abedd4c-64f2-5415-aed7-d3e95ee3fd07
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (i meter that does not have separable measurement transducer ncluding
+      flow or volume sensor) and calculator (including indicating device)
+  examples: []
+  id: 00470-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complete meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4cc5504f-51fc-533e-9dfe-46d4387420ec

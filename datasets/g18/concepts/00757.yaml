@@ -1,0 +1,47 @@
+data:
+  identifier: '00757'
+  localized_concepts:
+    eng: e958539e-7a8e-5ded-9a4d-027f8096d56e
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.8
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: c415d8e0-0205-56cd-9ae5-e43cd9e338c9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument which fills containers with predetermined and virtually constant
+      mass of product from bulk by automatic weighing, and which comprises essentially
+      automatic feeding device(s) associated with weighing unit(s) and the appropriate
+      control and discharge devices
+  examples: []
+  id: 00757-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic gravimetric filling instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e958539e-7a8e-5ded-9a4d-027f8096d56e

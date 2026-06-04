@@ -1,0 +1,45 @@
+data:
+  identifier: '01636'
+  localized_concepts:
+    eng: 94e816b1-70e5-56a7-8e07-427124c44a71
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.20
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: dc27e382-44bb-5aa0-ae00-b87dbcb59a70
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of an electronic device employing electronic components and having
+      a recognizable function of its own
+  examples: []
+  id: 01636-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.20
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic sub-assembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 94e816b1-70e5-56a7-8e07-427124c44a71

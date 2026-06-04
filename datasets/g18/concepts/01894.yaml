@@ -1,0 +1,45 @@
+data:
+  identifier: 01894
+  localized_concepts:
+    eng: 63c07ac6-4fb9-5ebb-9997-05cd7bc14c39
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: f15d496c-b8fa-5338-904d-2a9cf672e54d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the output or display is indicated by a sequence of aligned digits that
+      do not permit interpolation to a fraction of the scale interval
+  examples: []
+  id: 01894-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 63c07ac6-4fb9-5ebb-9997-05cd7bc14c39

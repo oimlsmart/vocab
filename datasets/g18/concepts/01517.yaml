@@ -1,0 +1,47 @@
+data:
+  identifier: '01517'
+  localized_concepts:
+    eng: 0a4b2cda-22f6-5000-857b-001c0a67dc1a
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: d509bc41-452e-5484-9f46-2fa99e4eceeb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device used to transform the liquid sample into an aerosol
+  examples: []
+  id: 01517-eng
+  notes:
+  - content: The nebulizer produces droplets of varying sizes that pass through the
+      spray chamber where larger droplets remain on the chamber walls and are removed
+      as waste.
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nebulizer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a4b2cda-22f6-5000-857b-001c0a67dc1a

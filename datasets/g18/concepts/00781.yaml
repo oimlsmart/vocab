@@ -1,0 +1,45 @@
+data:
+  identifier: 00781
+  localized_concepts:
+    eng: fbdbc173-1a80-5940-847a-cd018edd53ee
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 1718cadd-c9a0-5c6c-9219-0283e6f96a37
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for automatically maintaining the zero indication within certain
+      limits
+  examples: []
+  id: 00781-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero-tracking device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fbdbc173-1a80-5940-847a-cd018edd53ee

@@ -1,0 +1,49 @@
+data:
+  identifier: 00792
+  localized_concepts:
+    eng: 26cddd70-2d6e-59f6-8df4-b508a403764d
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.10
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 2e12c9f0-4410-584e-99dd-7da15772bf4a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: half the sum of the maximum and minimum number of loads per fill that
+      can be set by the operator or, in cases where the number ofloads per fill is
+      not directly determined by the operator, either the mean of the actual number
+      of loads per fill (if known) in a period of normal operation, or the optimum
+      number of loads per fill, as may be specified by the manufacturer for the type
+      of product which is to be weighed
+  examples: []
+  id: 00792-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: average number of loads per fill
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 26cddd70-2d6e-59f6-8df4-b508a403764d

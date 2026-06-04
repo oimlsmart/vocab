@@ -1,0 +1,44 @@
+data:
+  identifier: 00910
+  localized_concepts:
+    eng: 03ef2c6b-d161-557b-9d91-17905217eec9
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 740e5e1d-0422-5a1b-bf14-28923e4d1655
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device providing the weighing result in visual form
+  examples: []
+  id: 00910-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: displaying device (of a weighing instrument)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 03ef2c6b-d161-557b-9d91-17905217eec9

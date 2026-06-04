@@ -1,0 +1,46 @@
+data:
+  identifier: '02212'
+  localized_concepts:
+    eng: f9e8f535-fc1a-5468-a119-3708d4be9e34
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.45
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 2accdf07-1ade-55bf-ad16-3f714594ce63
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: securing of measuring instrument software or data domain by a hardware
+      or software implemented seal. The seal must be removed, damaged or broken to
+      obtain access to change software
+  examples: []
+  id: 02212-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.45
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software protection
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f9e8f535-fc1a-5468-a119-3708d4be9e34

@@ -1,0 +1,44 @@
+data:
+  identifier: '01473'
+  localized_concepts:
+    eng: 89e749cf-d454-5883-8d9c-692c6ecfaee0
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: 382b5f3e-9bc4-5252-ac7f-f4205072395e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the means of introducing a sample into the column
+  examples: []
+  id: 01473-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: injection device for the instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 89e749cf-d454-5883-8d9c-692c6ecfaee0

@@ -1,0 +1,48 @@
+data:
+  identifier: '00317'
+  localized_concepts:
+    eng: 9d9bfd39-41fd-5b35-ab51-74039cd57ca9
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-1
+    ref_type: section
+status: valid
+id: 66e9b674-f078-597d-942b-80d92bb186b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: “k technique whereby sounds (known as Korotkoff sounds) are heard over
+      an occluded artery as the occluding pressure is slowly released, the appearance
+      of sounds coinciding with the systolic blood pressure and the disappearance
+      of sounds with the diastolic blood pressure in adults. In children under age
+      of 13, 4” (i.e. 4th phase Korotkoff sound) may be appropriate
+  examples: []
+  id: 00317-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: auscultatory method
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9d9bfd39-41fd-5b35-ab51-74039cd57ca9

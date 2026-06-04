@@ -1,0 +1,45 @@
+data:
+  identifier: '01140'
+  localized_concepts:
+    eng: 08b0de65-aeff-5baa-9a6b-a4ba950c8565
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.4
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 5a0eec1e-86ef-542d-808d-21d8c5f9cf6a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the vertical line through the position that will be used for manual or
+      automatic measurement; it passes through the guiding device, if provided
+  examples: []
+  id: 01140-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vertical measurement axis
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 08b0de65-aeff-5baa-9a6b-a4ba950c8565

@@ -1,0 +1,48 @@
+data:
+  identifier: '02301'
+  localized_concepts:
+    eng: 4169cf88-12e3-5047-993e-f7126ffc4e84
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 22f7c7bc-91ff-5b87-87e8-82b6fd5053e0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- - - - device intended to perform a particular function, directly involved
+      in elaborating, transmitting or displaying measurement results. Examples: repeating
+      indicating device; printing device; memory device; conversion device.'
+  examples: []
+  id: 02301-eng
+  notes:
+  - content: for the purpose of this Recommendation ancillary equipment, in so far
+      as it is subject t metrological control, is considered to be part of the ALG.
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ancillary device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4169cf88-12e3-5047-993e-f7126ffc4e84

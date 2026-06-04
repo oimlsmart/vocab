@@ -1,0 +1,46 @@
+data:
+  identifier: '01614'
+  localized_concepts:
+    eng: 689188b1-e10d-586a-9728-dd25bad5aea4
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+    locality:
+      type: clause
+      reference_from: '9'
+    type: authoritative
+  domains:
+  - concept_id: section-R124
+    ref_type: section
+status: valid
+id: bfd76142-7e24-5111-9943-9594aeccacee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (a the difference between the error of indication and the intrinsic error,
+      whose absolute value is greater than one scale interval dapted from D 11 clauses
+      T.8 and T.9)
+  examples: []
+  id: 01614-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+      locality:
+        type: clause
+        reference_from: '9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 689188b1-e10d-586a-9728-dd25bad5aea4

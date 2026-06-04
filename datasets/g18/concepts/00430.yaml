@@ -1,0 +1,45 @@
+data:
+  identifier: '00430'
+  localized_concepts:
+    eng: 2a0d86fe-46b2-5af3-9509-09ff35582217
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.8
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 7f4b1a77-6b9b-5df7-8115-7fb2146d1e75
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of a water meter as determined prior to all performance
+      tests
+  examples: []
+  id: 00430-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2a0d86fe-46b2-5af3-9509-09ff35582217

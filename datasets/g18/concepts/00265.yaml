@@ -1,0 +1,45 @@
+data:
+  identifier: '00265'
+  localized_concepts:
+    eng: 7f7e119a-9057-56b4-8703-c0c97aae2d05
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-D015
+    ref_type: section
+status: valid
+id: 67982af7-e697-5c79-bb8c-0945d15b49ca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a subsequent verification of a measuring instrument for which a simplified
+      examination is allowed [VML 2.4.5]
+  examples: []
+  id: 00265-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simplified verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7f7e119a-9057-56b4-8703-c0c97aae2d05

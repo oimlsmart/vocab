@@ -1,0 +1,46 @@
+data:
+  identifier: '00351'
+  localized_concepts:
+    eng: e4dca782-f6d7-53bd-8597-5d16d725e971
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.8.1
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 1e46db51-ce4d-5052-b839-a0b8bb454a57
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: programs, data, type-specific and device-specific parameters that belong
+      to the taximeter, and define or fulfill functions that are subject to legal
+      control
+  examples: []
+  id: 00351-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.8.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant software
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e4dca782-f6d7-53bd-8597-5d16d725e971

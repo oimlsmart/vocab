@@ -1,0 +1,44 @@
+data:
+  identifier: 01895
+  localized_concepts:
+    eng: 370c516e-036f-5833-80ec-3c87ae9d98d3
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 4378cedf-e8e6-513f-9a5e-fcad158121f0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero
+  examples: []
+  id: 01895-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 370c516e-036f-5833-80ec-3c87ae9d98d3

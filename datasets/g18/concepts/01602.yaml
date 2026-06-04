@@ -1,0 +1,49 @@
+data:
+  identifier: '01602'
+  localized_concepts:
+    eng: 77698659-4c2b-5847-8acf-b2c7c1546b5c
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.t.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: ae8b79d6-3a2d-58c4-aacf-afe8835f1a37
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the measuring device that provides an output signal, representing
+      volume or mass, having a determined relationship to the input signal. The transducer
+      can either be incorporated with the meter sensor or beexternal to the meter
+      sensor. In the latter case, it can be approved either with the sensor or with
+      the calculator.
+  examples: []
+  id: 01602-eng
+  notes:
+  - content: (See also T.a.8)
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.t.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 77698659-4c2b-5847-8acf-b2c7c1546b5c

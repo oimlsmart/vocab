@@ -1,0 +1,48 @@
+data:
+  identifier: 02281
+  localized_concepts:
+    eng: d60cac08-9e1e-544e-a80e-804196f74dbe
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.42'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: b391f2cb-ea69-5bab-b72b-36047634ed47
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device intended to detect the presence of liquid in the pipework orthe
+      tank and to check, before startup and after stopping, that all or part of the
+      measuring system is either filled completely with liquid (full hose measuring
+      systems) or completely empty ofliquid (empty hose measuring system)
+  examples: []
+  id: 02281-eng
+  notes:
+  - content: A liquid detector may also be used for high level detection.
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.42'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: liquid detector
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d60cac08-9e1e-544e-a80e-804196f74dbe

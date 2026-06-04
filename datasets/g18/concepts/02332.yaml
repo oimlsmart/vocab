@@ -1,0 +1,46 @@
+data:
+  identifier: '02332'
+  localized_concepts:
+    eng: b2b9ff7a-0a2d-5dce-b71d-4c63c510ce01
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.34'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 3f312bc7-1272-5ffa-8094-d1c185d0ba36
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: largest change in a stimulus that produces no detectable change inthe
+      response of a measuring instrument, the change in the stimulus taking place
+      slowly and monotonically
+  examples: []
+  id: 02332-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.34'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discrimination
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b2b9ff7a-0a2d-5dce-b71d-4c63c510ce01

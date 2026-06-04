@@ -1,0 +1,45 @@
+data:
+  identifier: 01812
+  localized_concepts:
+    eng: 5639d2c3-523c-5cc0-b9f0-a0092dd7083d
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 50b6b6cf-07e5-5f2c-abf9-684a42afeec1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value expressed in units of mass for weighing-in-motion that is the difference
+      between two consecutive indicated or printed values
+  examples: []
+  id: 01812-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval (d)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5639d2c3-523c-5cc0-b9f0-a0092dd7083d

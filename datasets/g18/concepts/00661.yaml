@@ -1,0 +1,47 @@
+data:
+  identifier: '00661'
+  localized_concepts:
+    eng: 8bd58ba7-83bd-54fd-9c99-378845ec0fa6
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.3.8
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 922dbefe-5dc5-527c-aec5-886dd456ba8f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the error of indication of an instrument and the intrinsic
+      error
+  examples: []
+  id: 00661-eng
+  notes:
+  - content: Principally, a fault is the result of an undesired change of data contained
+      in or flowing through an electronic instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.3.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8bd58ba7-83bd-54fd-9c99-378845ec0fa6

@@ -1,0 +1,46 @@
+data:
+  identifier: '01407'
+  localized_concepts:
+    eng: c0ffe628-4d80-55ac-a62f-bbf211d49137
+  sources:
+  - origin:
+      ref:
+        source: OIML R108:1993
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R108
+    ref_type: section
+status: valid
+id: 603a851d-f81c-52ef-9d1d-2e659df7d280
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: hand refractometers and Abbe refractometers are instruments in which
+      the liquid sample is applied manually to the measuring surface, the indication
+      being read from a scale
+  examples: []
+  id: 01407-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R108:1993
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hand refractometer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c0ffe628-4d80-55ac-a62f-bbf211d49137

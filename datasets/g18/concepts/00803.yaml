@@ -1,0 +1,44 @@
+data:
+  identifier: 00803
+  localized_concepts:
+    eng: 9c2393a3-fb70-5463-aa21-b298c34449d5
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 70ce989f-c048-5f04-a4c0-454db93914d4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum permissible setting error for each preset value of the fill
+  examples: []
+  id: 00803-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible preset value error (MPSE)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9c2393a3-fb70-5463-aa21-b298c34449d5

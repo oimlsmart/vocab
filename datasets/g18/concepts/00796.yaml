@@ -1,0 +1,45 @@
+data:
+  identifier: 00796
+  localized_concepts:
+    eng: c0912e85-9c1e-5493-98fe-f189993116a3
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 4a36ee39-b537-578d-9894-f3b8b4bd16a7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication allowing the evaluation of an equilibrium position to a fraction
+      of the scale interval
+  examples: []
+  id: 00796-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analog indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c0912e85-9c1e-5493-98fe-f189993116a3

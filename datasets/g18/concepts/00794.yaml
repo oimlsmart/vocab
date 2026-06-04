@@ -1,0 +1,44 @@
+data:
+  identifier: 00794
+  localized_concepts:
+    eng: d12bd6fb-6fc4-548d-ac85-d97d0f4d4051
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.12
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 2575b775-f95f-5935-bf5b-bbdcc5d00cd7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest load that can be discharged from a subtractive weigher
+  examples: []
+  id: 00794-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum discharge
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d12bd6fb-6fc4-548d-ac85-d97d0f4d4051

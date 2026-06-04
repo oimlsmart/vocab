@@ -1,0 +1,47 @@
+data:
+  identifier: 00952
+  localized_concepts:
+    eng: 6eaa6ee3-19d3-5725-9eda-a4cdfe0895e9
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 009ac912-16c7-583f-9d42-5203bd7004df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument having one weighing range which is divided into partial weighing
+      ranges each with different scale intervals, with the partial weighing range
+      determined automatically according tothe load applied, both on increasing and
+      decreasing loads
+  examples: []
+  id: 00952-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multi-interval instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6eaa6ee3-19d3-5725-9eda-a4cdfe0895e9

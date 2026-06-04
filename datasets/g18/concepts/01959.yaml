@@ -1,0 +1,46 @@
+data:
+  identifier: 01959
+  localized_concepts:
+    eng: 7a0777e6-c9ff-5a3c-b8ef-35f1bd491463
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 447c0206-2a59-5677-bf99-a1248c4bc99a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: lowest flowrate at which a gas meter is required to operate within the
+      limits of its maximum permissible error, whilst operated within its rated operating
+      conditions
+  examples: []
+  id: 01959-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum flowrate, Qmin
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7a0777e6-c9ff-5a3c-b8ef-35f1bd491463

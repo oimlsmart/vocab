@@ -1,0 +1,45 @@
+data:
+  identifier: 02187
+  localized_concepts:
+    eng: d3ab7584-4747-5e93-815c-499c7232f69b
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.20
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: e11f4dbb-b527-5c50-8d5e-775ccd3024e8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: action in which a modification of a measuring instrument parameter, adjustment
+      factor or update of software module is made
+  examples: []
+  id: 02187-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.20
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: event
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d3ab7584-4747-5e93-815c-499c7232f69b

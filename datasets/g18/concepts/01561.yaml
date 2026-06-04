@@ -1,0 +1,44 @@
+data:
+  identifier: '01561'
+  localized_concepts:
+    eng: 63c61d59-95ef-5795-b63c-4a3b551aec01
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.e.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 63e4c6f8-69ca-5459-b574-d647e906daa2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme value for an error permitted by this Recommendation
+  examples: []
+  id: 01561-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.e.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 63c61d59-95ef-5795-b63c-4a3b551aec01

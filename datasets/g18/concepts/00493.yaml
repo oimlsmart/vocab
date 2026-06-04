@@ -1,0 +1,45 @@
+data:
+  identifier: 00493
+  localized_concepts:
+    eng: a53887d8-c5f2-5b27-b265-7574e1f9a999
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 212df5f0-8eb2-5632-b938-a7f710da6426
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a part of an electronic device, employing electronic components and having
+      a recognizable function of its own
+  examples: []
+  id: 00493-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic sub-assembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a53887d8-c5f2-5b27-b265-7574e1f9a999

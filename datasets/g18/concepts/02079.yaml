@@ -1,0 +1,46 @@
+data:
+  identifier: 02079
+  localized_concepts:
+    eng: 4be838f4-d900-5219-83ce-50a3ae024f3d
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.13
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: c381590a-f8b9-5b7f-8b8a-6d4d755b7907
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'for the purpose of this Recommendation: difference between the (adapted
+      from VIM:2007, 2.21) largest and the smallest results of successive measurements
+      of a same quantity carried out under the same conditions'
+  examples: []
+  id: 02079-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.13
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4be838f4-d900-5219-83ce-50a3ae024f3d

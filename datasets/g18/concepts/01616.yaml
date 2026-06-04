@@ -1,0 +1,45 @@
+data:
+  identifier: '01616'
+  localized_concepts:
+    eng: 4256a26b-7441-5dc2-bb58-ffae8d282b13
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.2
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: f718f887-5e9e-5f1b-ad5f-570b4e2179bd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a system which comprises the measuring instrument, the calibrated tank
+      and any ancillary and/or additional devices
+  examples: []
+  id: 01616-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mass measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4256a26b-7441-5dc2-bb58-ffae8d282b13

@@ -1,0 +1,46 @@
+data:
+  identifier: 00688
+  localized_concepts:
+    eng: 41099d50-16a7-59f1-adb5-4a559612ad65
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 0c6c3723-4de2-52c8-8f4a-1cc17799bacb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: displacement of the initial position after the elastic sensing element
+      has been submitted to nominal pressure, to overload pressure, or to another
+      pressure over a certain period of time
+  examples: []
+  id: 00688-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: change of initial position
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 41099d50-16a7-59f1-adb5-4a559612ad65

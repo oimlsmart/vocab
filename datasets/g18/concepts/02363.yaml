@@ -1,0 +1,45 @@
+data:
+  identifier: '02363'
+  localized_concepts:
+    eng: f548cabd-bd0d-5123-af0c-32e7b6b5540f
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.30'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 420d251a-d100-576e-accf-55834af24c03
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: checking facility operating without the intervention of the user
+  examples: []
+  id: 02363-eng
+  notes:
+  - content: Adapted from OIML D 11:2004, 3.18.1.
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.30'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f548cabd-bd0d-5123-af0c-32e7b6b5540f

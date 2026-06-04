@@ -1,0 +1,45 @@
+data:
+  identifier: 00884
+  localized_concepts:
+    eng: 212d4144-f67a-5fe0-ac6b-514e286e06a0
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.9
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 51bce1ed-25d3-5039-8ffd-8a447177d8f9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: price-computing instrument that prints the weight value, unit price and
+      price to pay for prepackages
+  examples: []
+  id: 00884-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: price labeling instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 212d4144-f67a-5fe0-ac6b-514e286e06a0

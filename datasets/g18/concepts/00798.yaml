@@ -1,0 +1,45 @@
+data:
+  identifier: 00798
+  localized_concepts:
+    eng: 6cbc5f0a-0a3d-5161-9b28-77730b49766a
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 5305b122-3927-584f-9fcf-662f3b4335a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[b indication of a weighing instrument minus the (conventional) true
+      value of the mass ased on VIM:1993, 5.20]'
+  examples: []
+  id: 00798-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error of indication (E)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6cbc5f0a-0a3d-5161-9b28-77730b49766a

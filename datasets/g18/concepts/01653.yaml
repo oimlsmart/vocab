@@ -1,0 +1,47 @@
+data:
+  identifier: '01653'
+  localized_concepts:
+    eng: 4999667b-b16f-5f85-b45b-17046f72a495
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.34
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 07b3fa42-7470-56a7-a0a3-cbd4b654d44f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a facility that is incorporated in a measuring instrument which enables
+      significant faults to be detected and acted upon
+  examples: []
+  id: 01653-eng
+  notes:
+  - content: “Acted upon” refers to any adequate response by the measuring instrument
+      (luminous or acoustic signal, prevention of the measurement process, etc.).
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.34
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4999667b-b16f-5f85-b45b-17046f72a495

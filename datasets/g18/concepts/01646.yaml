@@ -1,0 +1,46 @@
+data:
+  identifier: '01646'
+  localized_concepts:
+    eng: ead36835-5198-5240-9e9d-9938d55a38d3
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.29
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: a3c12bb9-145e-5465-9271-dc2e10825ac0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a quantity which is not the subject of the measurement but which influences
+      the value of the measurand or the indication of the measuring instrument (VIM:1993,
+      2.7)
+  examples: []
+  id: 01646-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.29
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ead36835-5198-5240-9e9d-9938d55a38d3

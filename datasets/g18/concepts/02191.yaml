@@ -1,0 +1,48 @@
+data:
+  identifier: 02191
+  localized_concepts:
+    eng: 14b62405-b86b-5858-af96-ad1f5c207e83
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.24
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: f917f724-b66c-578d-8163-a86d87f7e0b8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the legally relevant software that is and remains identical This
+      part is responsible for monitoring the in the executable code to that of the
+      approved type so au an
+  examples: []
+  id: 02191-eng
+  notes:
+  - content: ftware update (loading software, thentication, integrity checking, installation
+      d activation).
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.24
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fixed legally relevant software part
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 14b62405-b86b-5858-af96-ad1f5c207e83

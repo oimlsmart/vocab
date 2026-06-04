@@ -1,0 +1,47 @@
+data:
+  identifier: 01383
+  localized_concepts:
+    eng: 5e7e6ef3-52fc-5576-b368-17a30421f228
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 33c834c9-a371-52d9-8522-bb4ede6c119c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a l totalization indicating device with a scale interval greater than
+      that of the principal totalization indicating device and indicating thesum of
+      the weight values of consecutive loads weighed over ong period of time. This
+      device may be resettable to zero by theuser
+  examples: []
+  id: 01383-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: supplementary totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5e7e6ef3-52fc-5576-b368-17a30421f228

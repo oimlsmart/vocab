@@ -1,0 +1,44 @@
+data:
+  identifier: 00608
+  localized_concepts:
+    eng: 663aa75e-837c-51c1-9e40-641e0763b4d4
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.5
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 4c4d5f02-091e-590f-9eb7-c3ca529bdda6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which automatically divides the loads into separate sub- groups
+  examples: []
+  id: 00608-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sorting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 663aa75e-837c-51c1-9e40-641e0763b4d4

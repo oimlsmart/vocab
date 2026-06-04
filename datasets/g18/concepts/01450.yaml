@@ -1,0 +1,44 @@
+data:
+  identifier: '01450'
+  localized_concepts:
+    eng: b5258081-fc86-508e-a03f-e5519f5b01e8
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 5c1569a3-0ee6-501d-82e1-3c1437176c1e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: effect that generates an attractive or repulsive force
+  examples: []
+  id: 01450-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnetism
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b5258081-fc86-508e-a03f-e5519f5b01e8

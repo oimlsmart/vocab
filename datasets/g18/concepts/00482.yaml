@@ -1,0 +1,44 @@
+data:
+  identifier: 00482
+  localized_concepts:
+    eng: 184f2e6c-51bf-5f82-93ae-bfb54da949fd
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: d1c5c4fa-4784-549c-a6dc-0388b2371d8d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an instrument equipped with electronic devices
+  examples: []
+  id: 00482-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 184f2e6c-51bf-5f82-93ae-bfb54da949fd

@@ -1,0 +1,46 @@
+data:
+  identifier: '02014'
+  localized_concepts:
+    eng: 92db6721-717f-578b-9d11-833c4ec00478
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 8cb05118-ef15-54ee-953f-265f379d3385
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest mass of gas for which the measurement is metrologically acceptable
+      for that system
+  examples: []
+  id: 02014-eng
+  notes:
+  - content: This smallest mass is also referred to as the minimum delivery.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum measured quantity of a measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 92db6721-717f-578b-9d11-833c4ec00478

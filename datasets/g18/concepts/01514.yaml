@@ -1,0 +1,45 @@
+data:
+  identifier: '01514'
+  localized_concepts:
+    eng: cfad6813-29fe-5ec6-95af-79c09e275032
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: 80bc6d0e-8bc9-5fea-87a1-c0e81abf1edc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gas having a large fraction of its atoms in an ionized state that excites
+      and ionizes atoms of a sample introduced into an ICP system for analysis
+  examples: []
+  id: 01514-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plasma
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cfad6813-29fe-5ec6-95af-79c09e275032

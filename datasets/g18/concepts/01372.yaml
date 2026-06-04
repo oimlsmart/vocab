@@ -1,0 +1,45 @@
+data:
+  identifier: '01372'
+  localized_concepts:
+    eng: 32bfb69b-161b-5b3a-ab82-0bf835c08fe2
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.10
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 5cd9d482-e3e2-5367-86a8-1b1aefc6d85c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[O ability of an instrument to maintain its performance characteristics
+      over a period of use IML D 11: 2004, 3.17]'
+  examples: []
+  id: 01372-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 32bfb69b-161b-5b3a-ab82-0bf835c08fe2

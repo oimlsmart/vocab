@@ -1,0 +1,45 @@
+data:
+  identifier: 01829
+  localized_concepts:
+    eng: 0a2af463-779e-5c66-8d69-efd6519e55bb
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.5.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 4b04fd39-92a5-5ac5-b964-12d3827ad1ca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the specified rated operating
+      conditions of the instrument
+  examples: []
+  id: 01829-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.5.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a2af463-779e-5c66-8d69-efd6519e55bb

@@ -1,0 +1,44 @@
+data:
+  identifier: '00365'
+  localized_concepts:
+    eng: 319ba6c7-2042-523e-b39b-61d30f8d0abd
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: eeaeda89-ade3-546a-af02-5becc54479a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of all the scale marks and associated numbering
+  examples: []
+  id: 00365-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 319ba6c7-2042-523e-b39b-61d30f8d0abd

@@ -1,0 +1,46 @@
+data:
+  identifier: 01286
+  localized_concepts:
+    eng: d6444dc3-1d06-563f-83e4-1b60ecb9e4b2
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 9ad2529c-0aad-5723-86db-c496b3db1e7c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the greatest velocity of a wagon that the instrument is designed toweigh
+      in-motion and above which the weighing results may besubject to an excessive
+      relative error
+  examples: []
+  id: 01286-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum operating speed
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d6444dc3-1d06-563f-83e4-1b60ecb9e4b2

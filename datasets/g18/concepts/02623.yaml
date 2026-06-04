@@ -1,0 +1,45 @@
+data:
+  identifier: '02623'
+  localized_concepts:
+    eng: c1ded8cd-d365-5543-bcf3-c6fe26d18131
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.9
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: ecccffaf-1a53-5708-b65d-53f974d555d5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a part of an instrument that performs a specific function. It is usually
+      manufactured as a separate unit and is capable of being independently tested
+  examples: []
+  id: 02623-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c1ded8cd-d365-5543-bcf3-c6fe26d18131

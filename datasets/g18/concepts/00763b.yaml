@@ -1,0 +1,45 @@
+data:
+  identifier: 00763b
+  localized_concepts:
+    eng: 3fd91d64-59aa-5b82-8ce4-3d2be0b26e36
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: cd0e7909-40ca-5937-b176-2a55c8ac8c34
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which provides information on the mass of the load to be measured.
+      This device may consist of all or part of a non- automatic weighing instrument
+  examples: []
+  id: 00763b-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing unit
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3fd91d64-59aa-5b82-8ce4-3d2be0b26e36

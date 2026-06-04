@@ -1,0 +1,47 @@
+data:
+  identifier: '00517'
+  localized_concepts:
+    eng: 3e2d6564-1532-5f03-9be3-136707a0e3af
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: a3c86758-3148-5e20-a285-cd128f951d90
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the group of operations relating to each addition of information onthe
+      load at the end of which the totalization device returns to s initial position
+      or state for the first time
+  examples: []
+  id: 00517-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing cycle [applicable only to belt weighers whose method of
+      operation is by addition] it
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3e2d6564-1532-5f03-9be3-136707a0e3af

@@ -1,0 +1,45 @@
+data:
+  identifier: 00188
+  localized_concepts:
+    eng: a68daf1e-ebcc-547a-bc02-8e2263d6d711
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: e0b6985f-0efa-52b6-92e8-341f34874747
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: function of metrological supervision consisting of a systematic examination
+      to determine compliance with legal requirements
+  examples: []
+  id: 00188-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: investigation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a68daf1e-ebcc-547a-bc02-8e2263d6d711

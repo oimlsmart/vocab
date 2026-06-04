@@ -1,0 +1,44 @@
+data:
+  identifier: 01972
+  localized_concepts:
+    eng: df912127-797a-50a6-8058-c70a734f8c62
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 8de98d1d-e4f3-5cbf-965e-c8752a08f6e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: detailed description of the test operations
+  examples: []
+  id: 01972-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test procedure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: df912127-797a-50a6-8058-c70a734f8c62

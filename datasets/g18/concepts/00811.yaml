@@ -1,0 +1,45 @@
+data:
+  identifier: 00811
+  localized_concepts:
+    eng: e85f7dc1-036e-5929-bd24-178330d426d0
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 5e65a3f8-bf2a-524f-8feb-3a6d98dab438
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the limits specified in this
+      Recommendation but outside the rated operating conditions ofthe filling instrument
+  examples: []
+  id: 00811-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e85f7dc1-036e-5929-bd24-178330d426d0

@@ -1,0 +1,45 @@
+data:
+  identifier: 02078
+  localized_concepts:
+    eng: 3d0ae94c-4687-5add-a446-53d4b7af6cc7
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.12
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 6a463fb9-16b7-5ac3-974c-7d099859dba3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: positive maximum permissible error for a minimum measured quantity of
+      a measuring system or a metering module
+  examples: []
+  id: 02078-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum specified quantity deviation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3d0ae94c-4687-5add-a446-53d4b7af6cc7

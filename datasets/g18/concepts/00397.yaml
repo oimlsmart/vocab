@@ -1,0 +1,46 @@
+data:
+  identifier: 00397
+  localized_concepts:
+    eng: c8fba882-a4e0-525d-b34f-6393f1a8b6d9
+  sources:
+  - origin:
+      ref:
+        source: OIML R041:1981
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R041
+    ref_type: section
+status: valid
+id: 4f323230-4602-52c2-a3ee-2914b17efc24
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: is the time required for the free descent of the water meniscus, from
+      the zero mark to the lowest numbered scale mark, with the stopcock fully open
+      and with no restriction of flow
+  examples: []
+  id: 00397-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R041:1981
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: delivery time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c8fba882-a4e0-525d-b34f-6393f1a8b6d9

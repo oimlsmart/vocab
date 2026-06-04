@@ -1,0 +1,47 @@
+data:
+  identifier: 01539
+  localized_concepts:
+    eng: 52dc97df-26fa-52ca-982f-b8ec34b7da1d
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.c.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: e4f18c58-2e05-5966-9ee4-40ddd28dbd9d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the meter that receives the output signals from the measuring
+      device(s) and, possibly, from associated measuring devices, processes them and,
+      if appropriate, stores the results in memory until they are used. In addition,
+      the calculator may be capable of communicating both ways with ancillary devices
+  examples: []
+  id: 01539-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.c.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calculator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 52dc97df-26fa-52ca-982f-b8ec34b7da1d

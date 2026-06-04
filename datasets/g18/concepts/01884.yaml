@@ -1,0 +1,46 @@
+data:
+  identifier: 01884
+  localized_concepts:
+    eng: f3dd01c5-498b-5985-b9e6-0f5e4a0df64f
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 660a1df9-ac16-56ac-83ab-f1bf75d82849
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument having one or more metrological property qualities
+      that are well established to be used for the verification ofan apparatus or
+      the verification of a measurement method
+  examples: []
+  id: 01884-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f3dd01c5-498b-5985-b9e6-0f5e4a0df64f

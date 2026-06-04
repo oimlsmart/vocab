@@ -1,0 +1,45 @@
+data:
+  identifier: '01221'
+  localized_concepts:
+    eng: 1be8e473-b2c2-5dd3-b07f-418da633e737
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.11
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: abef8770-2d1a-5a64-b836-0a200cf58ee5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the lowest flow rate at which the measuring system is required to meet
+      the applicable maximum permissible errors
+  examples: []
+  id: 01221-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum flow rate
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1be8e473-b2c2-5dd3-b07f-418da633e737

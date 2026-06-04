@@ -1,0 +1,47 @@
+data:
+  identifier: '00730'
+  localized_concepts:
+    eng: 504069bd-78da-5efa-9728-b2a13c3b9e66
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 49b3462f-3a96-52eb-afaf-770959d8b974
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity defining an interval about the result of a measurement that
+      may be expected to encompass a large fraction of the distribution of values
+      that could reasonably be attributed to the measurand. [Guide to the Expression
+      of Uncertainty in Measurement, BIPM, IEC, IFCC, ISO, IUPAC, IUPAP, OIML, 1993]
+  examples: []
+  id: 00730-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: expanded uncertainty
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 504069bd-78da-5efa-9728-b2a13c3b9e66

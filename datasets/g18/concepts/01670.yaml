@@ -1,0 +1,53 @@
+data:
+  identifier: '01670'
+  localized_concepts:
+    eng: 6384f0cd-8935-558e-a970-17160a1293c9
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: 74ff5442-7699-51e5-a5fc-167c321ee4fa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device for adjusting the EBA using, as a standard, a mixture of Adjustment
+      using a dry gas is possible gases having a relative humidity of at least 90
+      % and a temperature of 34 °C ± 1 °C(*). The mixture of air and ethanol passes
+      through the entire gas analysis train, starting with the mouthpiece, in the
+      direction normally taken by exhaled air
+  examples: []
+  id: 01670-eng
+  notes:
+  - content: provided that the difference of effect between wet and dry gases is known
+      or can be automatically corrected. (*) This ± 1 °C tolerance does not correspond
+      to the uncertainty when preparing calibration gases (which is usually of 0.1
+      °C); it is the tolerance on the nominal temperature of calibration gases in
+      use.
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device for adjustment to a standard
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6384f0cd-8935-558e-a970-17160a1293c9

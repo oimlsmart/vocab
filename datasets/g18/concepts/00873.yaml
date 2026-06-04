@@ -1,0 +1,47 @@
+data:
+  identifier: 00873
+  localized_concepts:
+    eng: 3987dd5d-b6a4-5bb6-8ee1-42f7e7fe068f
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 4.17 5
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: b7cfcaf0-b46d-5b86-9ab2-b5a628f05071
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: increase in temperature signal that is obtained by subjecting each temperature
+      sensor of a pair to a continuous power dissipation of mW when immersed to the
+      minimum immersion depth in a water bath, having a mean water velocity of 0.1
+      m/s
+  examples: []
+  id: 00873-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 4.17 5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-heating effect
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3987dd5d-b6a4-5bb6-8ee1-42f7e7fe068f

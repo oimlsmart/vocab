@@ -1,0 +1,45 @@
+data:
+  identifier: 02329
+  localized_concepts:
+    eng: 9f96933c-37f1-5677-bb18-c86aaa8961b2
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.31'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 2fedb957-92c1-53f7-9c6b-44985fc1bc40
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of an ALG as determined prior to performance tests and
+      durability evaluations
+  examples: []
+  id: 02329-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.31'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9f96933c-37f1-5677-bb18-c86aaa8961b2

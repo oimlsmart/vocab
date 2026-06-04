@@ -1,0 +1,44 @@
+data:
+  identifier: '02324'
+  localized_concepts:
+    eng: c8384e1a-035f-5471-869b-e8cf58db53cc
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.26'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: c61ce93c-5288-5ede-ad49-47bf9249d9b8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of the ALG to accomplish the intended functions
+  examples: []
+  id: 02324-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c8384e1a-035f-5471-869b-e8cf58db53cc

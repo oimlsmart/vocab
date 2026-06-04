@@ -1,0 +1,44 @@
+data:
+  identifier: '02326'
+  localized_concepts:
+    eng: 1c1d937a-6cff-55ee-b975-9eec28ac724a
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.28'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 53a7053b-0212-5ee9-8a9a-bfc98d3286f0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of an ALG minus a true value of the corresponding input quantity
+  examples: []
+  id: 02326-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.28'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1c1d937a-6cff-55ee-b975-9eec28ac724a

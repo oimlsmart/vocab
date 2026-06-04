@@ -1,0 +1,44 @@
+data:
+  identifier: '00247'
+  localized_concepts:
+    eng: af3efd73-1818-5876-ad32-523879ce6500
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: 3.18.2
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 631085df-37a5-5272-804e-eda5a436bce2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: checking facility that requires the intervention of an operator
+  examples: []
+  id: 00247-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: 3.18.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic checking facility (type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: af3efd73-1818-5876-ad32-523879ce6500

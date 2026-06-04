@@ -1,0 +1,50 @@
+data:
+  identifier: '01565'
+  localized_concepts:
+    eng: c8668a6e-1bf1-5bb2-b4d7-a8a9f97b9e96
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.f.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 3f1ba374-5c36-5cb5-a253-37f46f3dc35f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'difference between the error (of indication) and the intrinsic error
+      greater than the value specified in this Recommendation. Significant faults
+      are only relevant to electronic measuring systems. The following are not considered
+      to be significant faults:  transitory malfunctions resulting in momentary variations
+      in the indication, which cannot be interpreted, memorized, or transmitted as
+      a measurement result,  for interruptible measuring systems only, malfunctions
+      implying the impossibility of performing further measurements'
+  examples: []
+  id: 01565-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.f.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c8668a6e-1bf1-5bb2-b4d7-a8a9f97b9e96

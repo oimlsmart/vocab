@@ -1,0 +1,45 @@
+data:
+  identifier: 01288
+  localized_concepts:
+    eng: c86992e3-a3b7-59e3-a18a-838b706f30c2
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: b98ed0e6-29e6-56f2-b589-014cfa78748a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between the minimum and maximum operating speeds at which
+      a wagon may be weighed-in-motion
+  examples: []
+  id: 01288-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: range of operating speeds
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c86992e3-a3b7-59e3-a18a-838b706f30c2

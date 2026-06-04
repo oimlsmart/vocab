@@ -1,0 +1,45 @@
+data:
+  identifier: '00305'
+  localized_concepts:
+    eng: a49e2dd3-4063-5e72-84e1-8ac489f6f434
+  sources:
+  - origin:
+      ref:
+        source: OIML R015:1974
+    locality:
+      type: clause
+      reference_from: '1.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R015
+    ref_type: section
+status: valid
+id: 7dc47229-7929-5e4d-be38-859aaa325859
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the ‘reference value’ of the hectolitre mass of a cereal grain is that
+      obtained by making the measurement with a national Standard Instrument
+  examples: []
+  id: 00305-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R015:1974
+      locality:
+        type: clause
+        reference_from: '1.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference value (of the hectolitre mass of a cereal grain)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a49e2dd3-4063-5e72-84e1-8ac489f6f434

@@ -1,0 +1,45 @@
+data:
+  identifier: '02012'
+  localized_concepts:
+    eng: 919d9401-bb7c-5f24-a6e1-193cfcff7d2d
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 8cce66c9-23c8-5ec3-a4d6-d609e7526a3a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: absolute error of measurement divided by the (conventional) true value
+      of the measurand
+  examples: []
+  id: 02012-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 919d9401-bb7c-5f24-a6e1-193cfcff7d2d

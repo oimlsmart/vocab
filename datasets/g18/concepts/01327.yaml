@@ -1,0 +1,44 @@
+data:
+  identifier: '01327'
+  localized_concepts:
+    eng: 8218889c-42d8-58f2-9954-ea41978c734d
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 07a3f7f9-e4ff-524d-9d85-a1cf5e92ab40
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument equipped with electronic devices
+  examples: []
+  id: 01327-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8218889c-42d8-58f2-9954-ea41978c734d

@@ -1,0 +1,46 @@
+data:
+  identifier: '02361'
+  localized_concepts:
+    eng: 3766bac1-a7de-5482-ab12-1e8efab9cf04
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.28'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: bb95939d-bc69-524b-a0f6-2dc23bb91fa2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: operating condition prescribed for evaluating the performance of (VIM:2007,
+      4.11) ameasuring instrument or measuring system or for comparison ofmeasurement
+      results
+  examples: []
+  id: 02361-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.28'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference condition
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3766bac1-a7de-5482-ab12-1e8efab9cf04

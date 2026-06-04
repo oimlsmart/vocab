@@ -1,0 +1,46 @@
+data:
+  identifier: 00394
+  localized_concepts:
+    eng: 15e0eb6a-ca2a-5b5d-ae80-d90f1654b7db
+  sources:
+  - origin:
+      ref:
+        source: OIML R040:1981
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R040
+    ref_type: section
+status: valid
+id: 83d5c2e8-16fb-50d6-8da8-ea69bc2e9002
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: is the time required for the free descent of the water meniscus, from
+      the highest scale mark to the point at which the meniscus appears to stop at
+      the tip
+  examples: []
+  id: 00394-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R040:1981
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: delivery time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 15e0eb6a-ca2a-5b5d-ae80-d90f1654b7db

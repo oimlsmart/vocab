@@ -1,0 +1,47 @@
+data:
+  identifier: '00440'
+  localized_concepts:
+    eng: 320b9b71-7631-52bd-bbba-ecde027830d9
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 3f202e23-c1f1-564b-9613-3059513cae3a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: highest flowrate at which a water meter is required to operate, for a
+      short period of time, within its maximum permissible error, whilst maintaining
+      its metrological performance when it is subsequently operated within its rated
+      operating conditions
+  examples: []
+  id: 00440-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overload flowrate, Q4
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 320b9b71-7631-52bd-bbba-ecde027830d9

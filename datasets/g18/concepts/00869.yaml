@@ -1,0 +1,45 @@
+data:
+  identifier: 00869
+  localized_concepts:
+    eng: 5592c6a1-3077-5fde-baee-2bc0c7ed1a63
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '4.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 95feebd5-f50a-5a72-9cd7-ced2af0fbf92
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: different sizes of heat meters or sub-assemblies having a family similarity
+      in the principles of operation, construction and materials
+  examples: []
+  id: 00869-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '4.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meter model
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5592c6a1-3077-5fde-baee-2bc0c7ed1a63

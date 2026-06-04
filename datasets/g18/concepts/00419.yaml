@@ -1,0 +1,46 @@
+data:
+  identifier: 00419
+  localized_concepts:
+    eng: 92c5f9e8-7d42-573b-b440-40e8c9df4279
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.9
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 02efff7a-50ce-5168-b204-3cbe8d2ebd0b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that allocates measurement results into different registers depending
+      on tariff or other criteria, each register having the possibility to be displayed
+      individually
+  examples: []
+  id: 00419-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tariff control device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 92c5f9e8-7d42-573b-b440-40e8c9df4279

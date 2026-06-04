@@ -1,0 +1,46 @@
+data:
+  identifier: '02213'
+  localized_concepts:
+    eng: 1f369dd5-3ec3-5e32-a69b-6a3311844cf1
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.46
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: c2acf286-8a06-5e9c-8ec0-291b366bca62
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: software in measuring instruments/electronic devices/sub- assemblies
+      can be divided into a legally relevant part and a legally non-relevant part.
+      These parts communicate via a software interface
+  examples: []
+  id: 02213-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.46
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software separation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1f369dd5-3ec3-5e32-a69b-6a3311844cf1

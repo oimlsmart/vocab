@@ -1,0 +1,45 @@
+data:
+  identifier: 01219
+  localized_concepts:
+    eng: a5ddd6d7-5744-5eae-a4ca-1b825abe89da
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.9
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: f5c28bb6-8abd-589d-9ea3-056457b5f47b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a system in which the discharge hose remains full of liquid prior to
+      and after the completion of a measurement and delivery
+  examples: []
+  id: 01219-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wet hose type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a5ddd6d7-5744-5eae-a4ca-1b825abe89da

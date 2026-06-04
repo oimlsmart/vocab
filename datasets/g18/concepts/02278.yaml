@@ -1,0 +1,47 @@
+data:
+  identifier: 02278
+  localized_concepts:
+    eng: 8263420f-e73b-59d0-b205-c1266d2bc692
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.39'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 61e2a65c-73ea-5bb7-b7d8-6efcc648744e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: position for the discharge (or loading) of the measuring tank in accordance
+      with the design drawing. It is the basis for the inclination correction function.
+      The zero point of the inclination represents the zero point for both (longitudinal
+      and transversal) inclinations
+  examples: []
+  id: 02278-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.39'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference position
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8263420f-e73b-59d0-b205-c1266d2bc692

@@ -1,0 +1,45 @@
+data:
+  identifier: '01767'
+  localized_concepts:
+    eng: 59986a4a-d6cf-5d3f-bf57-398cf10f0097
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 1ab6e9e2-59d9-5051-b619-918490bcf0c4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mathematical representation of the relationship between dosimeter response
+      and absorbed dose for a given dosimetry system
+  examples: []
+  id: 01767-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: response function
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 59986a4a-d6cf-5d3f-bf57-398cf10f0097

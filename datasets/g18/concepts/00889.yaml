@@ -1,0 +1,46 @@
+data:
+  identifier: 00889
+  localized_concepts:
+    eng: b7ed5374-167a-5e57-87a3-0ad43fb09019
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: dd93840c-3fb2-5e09-af29-5750c530a301
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of a quantity provided by a measuring instrument
+  examples: []
+  id: 00889-eng
+  notes:
+  - content: “Indication”, “indicate” or “indicating” includes both displaying and/or
+      printing.
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indications of an instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b7ed5374-167a-5e57-87a3-0ad43fb09019

@@ -1,0 +1,48 @@
+data:
+  identifier: 00198
+  localized_concepts:
+    eng: 8ec49f53-fbea-5d55-a9d9-ea1ebbdbe7ca
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.16'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: fa10be16-2da6-5485-bcf3-df9c95fac5ef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: body under supervision - a business involved in activities being the
+      subject of public interest, e.g. manufacture, repair, distribution, installation
+      and/or use of a measuring instrument and prepackages in trade transactions,
+      health protection and protection of private property, work safety and protection
+      of the environment, as specified by national metrological legislation
+  examples: []
+  id: 00198-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: supervised body
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8ec49f53-fbea-5d55-a9d9-ea1ebbdbe7ca

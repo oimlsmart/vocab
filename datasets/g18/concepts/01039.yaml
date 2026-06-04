@@ -1,0 +1,45 @@
+data:
+  identifier: 01039
+  localized_concepts:
+    eng: a619f662-a7eb-5054-a853-d1db9ac08100
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.30'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 01fdaf22-1638-5de4-848b-4b47318b8806
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an automatic checking facility that operates at least once, either at
+      the beginning or end of each measurement operation
+  examples: []
+  id: 01039-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.30'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermittent automatic checking facility (type I)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a619f662-a7eb-5054-a853-d1db9ac08100

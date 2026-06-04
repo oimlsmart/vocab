@@ -1,0 +1,47 @@
+data:
+  identifier: 01582
+  localized_concepts:
+    eng: 424f3216-9c13-5eb1-8fb0-4d1fe7a952ea
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.m.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 615b5aa6-85b2-5e73-bfbb-850554dbc8d2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument intended to measure continuously and display the quantity
+      of liquid passing through the measuring device at metering conditions. A meter
+      includes at least a measuring device, a calculator (including adjustment or
+      correction devices if present) and an indicating device
+  examples: []
+  id: 01582-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.m.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meter (for quantities (volume or mass) of liquids)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 424f3216-9c13-5eb1-8fb0-4d1fe7a952ea

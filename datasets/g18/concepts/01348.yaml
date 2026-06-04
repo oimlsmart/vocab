@@ -1,0 +1,49 @@
+data:
+  identifier: 01348
+  localized_concepts:
+    eng: cf13554a-3cc2-5287-bff3-6880679ee2e4
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.7.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 5daad61b-b137-5023-b4f4-c681a097f362
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'programs, data, type specific and device specific parameters that Examples
+      of legally relevant software are: belong to the measuring instrument or module,
+      and that define or fina fulfill functions which are subject to legal control
+      dec wei sev'
+  examples: []
+  id: 01348-eng
+  notes:
+  - content: l results of the weighing including the imal sign and the unit, identification
+      of the ghing range and the load receptor (if eral load receptors have been used).
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.7.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant software
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cf13554a-3cc2-5287-bff3-6880679ee2e4

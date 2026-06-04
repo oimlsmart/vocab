@@ -1,0 +1,45 @@
+data:
+  identifier: '02027'
+  localized_concepts:
+    eng: 5aa6e061-2989-5bb3-8da6-93946d98f78b
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: c32e4791-41f7-546d-beb4-a95e86928cd6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the measuring system under test (EUT)
+      is capable of accomplishing its intended functions
+  examples: []
+  id: 02027-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5aa6e061-2989-5bb3-8da6-93946d98f78b

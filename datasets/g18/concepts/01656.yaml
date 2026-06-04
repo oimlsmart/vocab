@@ -1,0 +1,45 @@
+data:
+  identifier: '01656'
+  localized_concepts:
+    eng: 7e11c584-2f07-5e70-bba2-7ecb350da81a
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.34.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 8de81f44-12d1-5d94-a742-a511ffc93cfd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an automatic checking facility operating at certain time intervals or
+      over a fixed number of measurement cycles
+  examples: []
+  id: 01656-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.34.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermittent automatic checking facility (Type I)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7e11c584-2f07-5e70-bba2-7ecb350da81a

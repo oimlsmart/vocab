@@ -1,0 +1,46 @@
+data:
+  identifier: '01525'
+  localized_concepts:
+    eng: a80d60b8-1880-5ee9-bd99-27df0200242b
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: f5fea1b4-7179-58b7-ad5f-97a20f9924eb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range of concentrations over which the output signal of the instrument
+      is directly proportional to the concentration of the element being measured
+      to within specified limits
+  examples: []
+  id: 01525-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a80d60b8-1880-5ee9-bd99-27df0200242b

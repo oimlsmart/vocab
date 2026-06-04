@@ -1,0 +1,45 @@
+data:
+  identifier: '02022'
+  localized_concepts:
+    eng: bd5495d0-16cd-5f6e-8207-3362552d84c7
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: e03cd5ba-fe99-523b-88d1-478f99278251
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity which is not the subject of the measurement but which influences
+      the value of the measurand or the indication of the measuring system
+  examples: []
+  id: 02022-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bd5495d0-16cd-5f6e-8207-3362552d84c7

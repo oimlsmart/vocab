@@ -1,0 +1,48 @@
+data:
+  identifier: 01911
+  localized_concepts:
+    eng: e4b860d2-4b03-5b09-b7f1-73e2acae40d8
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.8
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: fa88d40c-09f2-566f-aa74-ee8666cefdcb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'deviation of the mean value for a number of consecutive area measurements
+      made on one template material, from the conventional true value of the template
+      area, expressed mathematically as: where: Vtrue is the conventional true value
+      of the leather area, and is the mean of the measurements, i.e. where: I is the
+      leather measurement indication; and n is the number of measurements.'
+  examples: []
+  id: 01911-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean area error ( )
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e4b860d2-4b03-5b09-b7f1-73e2acae40d8

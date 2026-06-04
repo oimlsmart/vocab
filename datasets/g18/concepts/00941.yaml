@@ -1,0 +1,45 @@
+data:
+  identifier: 00941
+  localized_concepts:
+    eng: 84d5d1ec-78c4-5fc6-9ccd-20b20693126d
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 9dfc3273-6d67-53eb-9a46-1e4e2b66661c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of the load below which the weighing results may be subject to
+      an excessive relative error
+  examples: []
+  id: 00941-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 84d5d1ec-78c4-5fc6-9ccd-20b20693126d

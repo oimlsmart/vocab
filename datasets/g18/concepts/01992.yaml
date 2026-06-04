@@ -1,0 +1,46 @@
+data:
+  identifier: 01992
+  localized_concepts:
+    eng: 81d65290-484f-5df8-982e-e323da51ff54
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 1be9be00-9710-5658-bda5-4da753f5d819
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the meter which displays continuously the measurement A printing
+      device which provides an results
+  examples: []
+  id: 01992-eng
+  notes:
+  - content: indication at the end of the measurement is not an indicating device.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 81d65290-484f-5df8-982e-e323da51ff54

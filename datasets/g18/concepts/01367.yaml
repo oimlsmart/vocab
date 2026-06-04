@@ -1,0 +1,46 @@
+data:
+  identifier: '01367'
+  localized_concepts:
+    eng: d953168f-4735-5b2b-9b95-387efb8b0a1e
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 5c2481a1-e1ce-580f-9051-025a2c91dd05
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition of the instrument such that the printed or stored weight values
+      of each separate weighing test show no more than two adjacent values, with one
+      of them being the final weight value
+  examples: []
+  id: 01367-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stable equilibrium
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d953168f-4735-5b2b-9b95-387efb8b0a1e

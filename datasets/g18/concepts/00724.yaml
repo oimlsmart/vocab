@@ -1,0 +1,45 @@
+data:
+  identifier: '00724'
+  localized_concepts:
+    eng: 8496d685-9c19-5cac-89bb-2380db1b01c2
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.13
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 2572e1a4-8034-595e-9d1e-b8388c6abd60
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ratio of the maximum capacity, Emax, to two times the minimum dead load
+      output return, DR. This ratio is used to describe multi- interval instruments
+  examples: []
+  id: 00724-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.13
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative DR or Z
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8496d685-9c19-5cac-89bb-2380db1b01c2

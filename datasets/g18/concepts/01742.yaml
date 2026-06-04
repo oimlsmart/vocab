@@ -1,0 +1,45 @@
+data:
+  identifier: '01742'
+  localized_concepts:
+    eng: 95217b07-eea4-5d86-a119-489b1334ae93
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R131
+    ref_type: section
+status: valid
+id: f97524f9-27a9-505b-9e2b-e4734e58a3ad
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: wavelength used in a spectrophotometer for measuring the optical absorbance
+      of a PMMA dosimeter
+  examples: []
+  id: 01742-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analysis wavelength, λ
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 95217b07-eea4-5d86-a119-489b1334ae93

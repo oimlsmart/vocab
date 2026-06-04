@@ -1,0 +1,45 @@
+data:
+  identifier: '00754'
+  localized_concepts:
+    eng: 1561cd9e-f358-5b2b-9ac0-04a8b7b7d0ec
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 305103b0-98a6-5ab2-963a-5944d503f2fe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: process of determining the mass of a load from the effect of gravity
+      on that load
+  examples: []
+  id: 00754-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1561cd9e-f358-5b2b-9ac0-04a8b7b7d0ec

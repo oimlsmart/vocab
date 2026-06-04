@@ -1,0 +1,45 @@
+data:
+  identifier: 01987
+  localized_concepts:
+    eng: 19198040-b6a6-55bb-9190-13e39b6e9baf
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R138
+    ref_type: section
+status: valid
+id: 3cdd1b2d-a010-59f3-8b30-394001b7f52c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: opening in the cask wall defined by its section and the thickness of
+      the cask walls
+  examples: []
+  id: 01987-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: filling orifice
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 19198040-b6a6-55bb-9190-13e39b6e9baf

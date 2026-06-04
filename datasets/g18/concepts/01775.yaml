@@ -1,0 +1,44 @@
+data:
+  identifier: '01775'
+  localized_concepts:
+    eng: a3d56bce-c01d-5d56-ad14-5bbd56eb233e
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: a2f1cb2a-064b-51f7-aad0-174beca481e1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reservoir for the thermometer liquid
+  examples: []
+  id: 01775-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bulb
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a3d56bce-c01d-5d56-ad14-5bbd56eb233e

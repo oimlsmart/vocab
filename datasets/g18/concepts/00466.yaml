@@ -1,0 +1,46 @@
+data:
+  identifier: '00466'
+  localized_concepts:
+    eng: 19f5e60a-bb9c-5f73-b712-5ed38baf4fce
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 73084385-ae04-5305-ade8-0fcfd8ebc137
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mean flowrate during a test, calculated from the indications of a calibrated
+      reference device. The quotient of the actual volume passing through the water
+      meter divided by the time for that volume to pass through the water meter
+  examples: []
+  id: 00466-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test flowrate
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 19f5e60a-bb9c-5f73-b712-5ed38baf4fce

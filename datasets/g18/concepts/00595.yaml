@@ -1,0 +1,45 @@
+data:
+  identifier: 00595
+  localized_concepts:
+    eng: c394e9da-0e22-5960-b523-08387458f865
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.8.4
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 3160dafa-eca3-57df-a87e-82e99e372f5b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sequence of readable characters of software, inextricably linked tothe
+      software (e.g. version number, checksum)
+  examples: []
+  id: 00595-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.8.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software identification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c394e9da-0e22-5960-b523-08387458f865

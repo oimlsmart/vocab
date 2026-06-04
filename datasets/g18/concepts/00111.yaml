@@ -1,0 +1,45 @@
+data:
+  identifier: '00111'
+  localized_concepts:
+    eng: eb871359-311e-5b3e-a168-1cb17326c83e
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.20'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 6afac0ca-1073-596b-a345-489a96adbf46
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (I any activity concerned with determining directly or indirectly that
+      relevant requirements are fulfilled. SO/IEC Guide 2, 12.2)
+  examples: []
+  id: 00111-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eb871359-311e-5b3e-a168-1cb17326c83e

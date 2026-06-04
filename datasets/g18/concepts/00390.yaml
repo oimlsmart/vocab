@@ -1,0 +1,46 @@
+data:
+  identifier: 00390
+  localized_concepts:
+    eng: 0c728d81-1555-5789-b90f-0bea8536a04e
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: 08e5dd57-da8a-574d-9986-6ac0c3218a5d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme value of error in a measured Rockwell hardness value permitted
+      by specifications, regulations, etc., such as this Recommendation, for a given
+      Rockwell hardness machine
+  examples: []
+  id: 00390-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (of a Rockwell hardness machine)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0c728d81-1555-5789-b90f-0bea8536a04e

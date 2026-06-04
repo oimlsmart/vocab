@@ -1,0 +1,45 @@
+data:
+  identifier: 01389
+  localized_concepts:
+    eng: 1fff958b-9571-5d38-94de-ddbbd5d6fd96
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 30c6e7eb-762d-581b-85d7-7012518eca95
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V error of an instrument, determined under reference conditions IM:
+      1993, 5.24]'
+  examples: []
+  id: 01389-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1fff958b-9571-5d38-94de-ddbbd5d6fd96

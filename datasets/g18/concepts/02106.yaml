@@ -1,0 +1,46 @@
+data:
+  identifier: '02106'
+  localized_concepts:
+    eng: b2f3415a-1309-5290-8484-a55a4a215e7f
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R141
+    ref_type: section
+status: valid
+id: 996c39ab-7d46-5332-93b3-22f646006fb8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: multiple-element, two-dimensional image, each element being attributed
+      a color, or a color gradation, or a screen brightness level, which is determined
+      in correspondence with a conventional radiation scale
+  examples: []
+  id: 02106-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermogram
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b2f3415a-1309-5290-8484-a55a4a215e7f

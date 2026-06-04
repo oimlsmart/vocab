@@ -1,0 +1,44 @@
+data:
+  identifier: '01564'
+  localized_concepts:
+    eng: 7d0516fa-6e84-5bf8-ad20-d4920e17f2fa
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.e.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 310c2e08-5a66-57ec-b232-905ed3a812da
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error as determined prior to all performance tests
+  examples: []
+  id: 01564-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.e.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7d0516fa-6e84-5bf8-ad20-d4920e17f2fa

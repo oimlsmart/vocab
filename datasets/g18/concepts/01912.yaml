@@ -1,0 +1,52 @@
+data:
+  identifier: 01912
+  localized_concepts:
+    eng: 9b4455f0-c511-5bfa-8674-dbda27bede83
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.9
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: d3150210-5503-5d7b-bf88-2834b73b5457
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'R closeness of the agreement between the results of the difference 1.
+      Repeatability conditions include: between the maximum (Amax) and minimum (Amin)
+      successive area measurements carried out under the same conditions of measurement
+      = Amax – Amin'
+  examples: []
+  id: 01912-eng
+  notes:
+  - content: • the same measurement procedure; • the same operator; • the same measuring
+      instrument, used under the same conditions; • the same location; and • repetition
+      over a short period of time. Repeatability may be expressed quantitatively in
+      terms of the dispersion characteristics of th results.
+  - content: 2. [VIM:1993, 3.6]
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9b4455f0-c511-5bfa-8674-dbda27bede83

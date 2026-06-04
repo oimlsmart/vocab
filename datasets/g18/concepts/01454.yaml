@@ -1,0 +1,44 @@
+data:
+  identifier: '01454'
+  localized_concepts:
+    eng: 0ce2b5f9-d7e9-51b5-bc25-3fc52cbc2c72
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.9.4
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 2f8620e3-fddd-5abc-9289-981c3372ef1b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measure of the ability of a medium to modify a magnetic field
+  examples: []
+  id: 01454-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.9.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnetic permeability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0ce2b5f9-d7e9-51b5-bc25-3fc52cbc2c72

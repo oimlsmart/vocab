@@ -1,0 +1,46 @@
+data:
+  identifier: '02126'
+  localized_concepts:
+    eng: 331edd39-98b1-54fb-8b97-2aea485a351b
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 7c3fb9db-4a7a-5205-8571-1ad8f78a9b77
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: assembly which enables qualitative and/or quantitative determinations
+      (measurements) of substances on the basis of their chemical or physical properties
+  examples: []
+  id: 02126-eng
+  notes:
+  - content: '(ISO 7504: 2001)'
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas analyzer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 331edd39-98b1-54fb-8b97-2aea485a351b

@@ -1,0 +1,46 @@
+data:
+  identifier: '00514'
+  localized_concepts:
+    eng: 5aa706e4-a4f3-5f81-81a0-b7d6f858e396
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: d9451c66-8912-54cd-98e5-02fa9b738d98
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the value, expressed in units of mass, of the difference between two
+      consecutive indicated values, for general and partial totalization devices,
+      with the instrument in its normal weighing mode
+  examples: []
+  id: 00514-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: totalization scale interval (d)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5aa706e4-a4f3-5f81-81a0-b7d6f858e396

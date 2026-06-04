@@ -1,0 +1,45 @@
+data:
+  identifier: 00883
+  localized_concepts:
+    eng: 15c1bdcd-de40-566c-8a56-eba40fc1ffdf
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2.8
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 564edd15-9c19-5900-a74a-5b597336b4cd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that calculates the price to pay on the basis of the indicated
+      weight value and the unit price
+  examples: []
+  id: 00883-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: price computing instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 15c1bdcd-de40-566c-8a56-eba40fc1ffdf

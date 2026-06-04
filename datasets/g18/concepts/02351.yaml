@@ -1,0 +1,44 @@
+data:
+  identifier: '02351'
+  localized_concepts:
+    eng: d84f43e5-b1c5-514a-bee1-48ee54018eb8
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.18'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 5679908c-7ecb-5ef3-8c36-9c4e9df00293
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of a measuring instrument determined under reference conditions
+  examples: []
+  id: 02351-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d84f43e5-b1c5-514a-bee1-48ee54018eb8

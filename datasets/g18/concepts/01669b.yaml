@@ -1,0 +1,44 @@
+data:
+  identifier: 01669b
+  localized_concepts:
+    eng: a3879bc0-8bc0-5b76-9f64-dd361ac42974
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.35.1
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 6fd64de5-9692-5325-9e74-675ae13912ca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a detailed description of the tests
+  examples: []
+  id: 01669b-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.35.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test procedure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a3879bc0-8bc0-5b76-9f64-dd361ac42974

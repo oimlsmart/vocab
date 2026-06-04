@@ -1,0 +1,46 @@
+data:
+  identifier: 01228
+  localized_concepts:
+    eng: 4611d6ce-4913-597f-88b3-43a7728e7f24
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.13.5
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 3b187b2b-833c-5c64-9160-4f8530945e19
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'auxiliary devices such as: – repeating indicating devices – ticket printers
+      – daily report printers – devices to read key cards, magnetic cards or bank-notes
+      – self-service equipment, etc.'
+  examples: []
+  id: 01228-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.13.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peripheral equipment
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4611d6ce-4913-597f-88b3-43a7728e7f24

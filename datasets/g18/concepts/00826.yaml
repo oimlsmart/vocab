@@ -1,0 +1,45 @@
+data:
+  identifier: 00826
+  localized_concepts:
+    eng: db10ac3e-06e6-5789-8a0d-e6e60b6eca0c
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R065
+    ref_type: section
+status: valid
+id: 99bf1ed0-4641-5cf9-b70f-a96e60a53602
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum value of the error permitted by laws, regulations, or specifications
+      for a given measuring instrument
+  examples: []
+  id: 00826-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (mpe)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: db10ac3e-06e6-5789-8a0d-e6e60b6eca0c

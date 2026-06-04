@@ -1,0 +1,53 @@
+data:
+  identifier: 00091
+  localized_concepts:
+    eng: 6eddb38c-48c4-5a79-bb2b-d48cf3b6d8c7
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: 293d8276-c1cf-5c31-963d-c377f8ce35f1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: certifying body or person in an OIML Member State, designated (1) A CIML
+      Member may be responsible for by its CIML Member that issues OIML Certificates
+      of Conformity according to the rules of the OIML Certificate System for Measuring
+      Instruments
+  examples: []
+  id: 00091-eng
+  notes:
+  - content: an Issuing Authority. (2) A list of all Issuing Authorities in the various
+      Member States is maintained by the BIML and is permanently available to Member
+      States and other interested parties on the OIML web site and on request. (3)
+      The Issuing Authority that issues OIML Certificates may or may not be the same
+      organization as the national body that issues national type approval certificates
+      and whose responsibilities are governed by national regulations.
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Issuing Authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6eddb38c-48c4-5a79-bb2b-d48cf3b6d8c7

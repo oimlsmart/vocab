@@ -1,0 +1,44 @@
+data:
+  identifier: 01029
+  localized_concepts:
+    eng: a3dd8177-3c86-5162-a839-2926c142ac9a
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.20'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 0ca7b4a0-358c-5b76-9e54-3686aaee150d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the error of a measuring system under reference conditions
+  examples: []
+  id: 01029-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a3dd8177-3c86-5162-a839-2926c142ac9a

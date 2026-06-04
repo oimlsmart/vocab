@@ -1,0 +1,44 @@
+data:
+  identifier: 01259
+  localized_concepts:
+    eng: 9bb616e8-f3f4-5b64-ae08-1aa48feb2c35
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 69fcec84-ee97-5c2f-aee4-7975606cea95
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: zone in which a wagon must be located when it is weighed
+  examples: []
+  id: 01259-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weigh zone
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9bb616e8-f3f4-5b64-ae08-1aa48feb2c35

@@ -1,0 +1,45 @@
+data:
+  identifier: 02098
+  localized_concepts:
+    eng: 1408288d-07db-54fe-a10e-0897a39d38cc
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.3.7
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 1269dc22-d713-5e61-959c-9e49ac172350
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the metering module is able to maintain
+      its performance characteristics over a period of use
+  examples: []
+  id: 02098-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.3.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: endurance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1408288d-07db-54fe-a10e-0897a39d38cc

@@ -1,0 +1,44 @@
+data:
+  identifier: '00507'
+  localized_concepts:
+    eng: 1e394ef2-3574-5ebd-8c09-998a073d74e3
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.8.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 6a6fb2f3-187c-5fc8-b36d-d774732ad979
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device for printing in units of mass
+  examples: []
+  id: 00507-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.8.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: printing device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1e394ef2-3574-5ebd-8c09-998a073d74e3

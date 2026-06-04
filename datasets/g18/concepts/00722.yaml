@@ -1,0 +1,46 @@
+data:
+  identifier: '00722'
+  localized_concepts:
+    eng: bbf83617-96df-5973-84ac-5c70f3c1dc23
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.11
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 41f11cbb-e6f9-5188-94b9-e40553b0ddc5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest value of a quantity (mass) which is applied to a load cell during
+      test or use. This value shall not be less than Emin (see 2.3.8). For the limits
+      on Dmin during testing, see A.3.2.4
+  examples: []
+  id: 00722-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum load of the measuring range (Dmin)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bbf83617-96df-5973-84ac-5c70f3c1dc23

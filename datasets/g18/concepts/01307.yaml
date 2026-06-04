@@ -1,0 +1,45 @@
+data:
+  identifier: '01307'
+  localized_concepts:
+    eng: d0016e78-3c4a-5a7c-b643-80de4bddb7f2
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.6.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 645f3e52-48c4-50d3-9821-51e24c17d5db
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test with reference wagons that are in motion on the load receptor
+      to determine an error
+  examples: []
+  id: 01307-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.6.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: in-motion (dynamic) test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d0016e78-3c4a-5a7c-b643-80de4bddb7f2

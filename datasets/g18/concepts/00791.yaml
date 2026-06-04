@@ -1,0 +1,47 @@
+data:
+  identifier: 00791
+  localized_concepts:
+    eng: 88ba9a14-cba4-5bab-a136-a18e14ffb79c
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.9
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: d0b983ab-9c67-503e-921d-a1dd75993644
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: rated value of the fill below which the weighing results may be subject
+      to errors outside the limits specified in this Recommendation
+  examples: []
+  id: 00791-eng
+  notes:
+  - content: for filling instruments which effect the fill by more than one weighing
+      cycle, Minfill is larger than the minimum capacity (Min).
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated minimum fill (Minfill)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 88ba9a14-cba4-5bab-a136-a18e14ffb79c

@@ -1,0 +1,49 @@
+data:
+  identifier: 02182
+  localized_concepts:
+    eng: 92a46203-ebf4-525e-8d7e-c509486a71fb
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.15
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: a9796352-7d09-5a2e-95cb-3ff079acef6f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: measuring instrument intended to measure an electrical or non- 1. For
+      the purpose of this Document, ancillary electrical quantity using electronic
+      means and/or equipped with electronic devices
+  examples: []
+  id: 02182-eng
+  notes:
+  - content: equipment, as long as it is subject to legal metrological control, is
+      considered to be part of the measuring instrument.
+  - content: 2. [OIML D 11:2004, 3.1]
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 92a46203-ebf4-525e-8d7e-c509486a71fb

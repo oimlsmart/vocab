@@ -1,0 +1,44 @@
+data:
+  identifier: '00473'
+  localized_concepts:
+    eng: 82ece154-af18-51d5-a657-222fee44ca4f
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 2be1ecf5-0818-5fa6-9b08-e9d8a0edeca9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: complete water meter, a part of a water meter or an ancillary device
+  examples: []
+  id: 00473-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equipment under test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 82ece154-af18-51d5-a657-222fee44ca4f

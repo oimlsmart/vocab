@@ -1,0 +1,44 @@
+data:
+  identifier: 00763a
+  localized_concepts:
+    eng: 69489958-769e-546a-bc84-903b6de0fea7
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 84a33495-56db-55b0-a0f2-f155ebd78de1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the instrument intended to receive the load
+  examples: []
+  id: 00763a-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load receptor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 69489958-769e-546a-bc84-903b6de0fea7

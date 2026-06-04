@@ -1,0 +1,45 @@
+data:
+  identifier: 00861
+  localized_concepts:
+    eng: 54c7543d-913d-5276-8d57-9469baa082fa
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 4.9.3
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: df4942a8-94d4-5117-b2dd-8a3665850449
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of a measuring instrument as determined prior to performance
+      tests and durability tests
+  examples: []
+  id: 00861-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 4.9.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 54c7543d-913d-5276-8d57-9469baa082fa

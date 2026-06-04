@@ -1,0 +1,46 @@
+data:
+  identifier: '02047'
+  localized_concepts:
+    eng: eb3c273a-7dc7-53ab-8ad0-266d3c370ef6
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.7
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 0095d1b7-eb1b-5d19-997f-bc5ed5744e78
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system which comprises the metering module (see T.1.8), and all the ancillary
+      devices and additional devices and, when appropriate, a documented provisions
+      system ensuring the quality and the traceability of data
+  examples: []
+  id: 02047-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eb3c273a-7dc7-53ab-8ad0-266d3c370ef6

@@ -1,0 +1,46 @@
+data:
+  identifier: 01963
+  localized_concepts:
+    eng: 69639a2c-79df-5022-ab44-b7a9b5387d64
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.7
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 468544ae-384d-5a40-b907-9c3c0195e275
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gauge pressure of the gas to be measured at the gas meter. The gauge
+      pressure is the difference between the absolute pressure of the gas and the
+      atmospheric pressure
+  examples: []
+  id: 01963-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working pressure, pw
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 69639a2c-79df-5022-ab44-b7a9b5387d64

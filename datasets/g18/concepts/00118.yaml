@@ -1,0 +1,47 @@
+data:
+  identifier: 00118
+  localized_concepts:
+    eng: 28ba574b-7e4a-59f6-a960-1d5cf6dedd84
+  sources:
+  - origin:
+      ref:
+        source: OIML D014:2004
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-D014
+    ref_type: section
+status: valid
+id: da0920b2-ce9c-56fa-bdc5-cfb24ad5ed0e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: agent appointed by the state or a local authority, or having a similar
+      legal status, responsible for the execution of various tasks defined within
+      the framework of the application of laws and regulations in the field of legal
+      metrology
+  examples: []
+  id: 00118-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D014:2004
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal metrology officer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 28ba574b-7e4a-59f6-a960-1d5cf6dedd84

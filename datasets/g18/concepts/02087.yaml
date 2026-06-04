@@ -1,0 +1,45 @@
+data:
+  identifier: 02087
+  localized_concepts:
+    eng: 19fe1cc0-25a9-54b3-88f2-5a74b32388c1
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.18
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 61635eab-90b9-5411-b409-ba61565f5e35
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: slow change in a metrological characteristic of a measuring instrument
+  examples: []
+  id: 02087-eng
+  notes:
+  - content: (VIM:1993, 5.16)
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.18
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: drift
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 19fe1cc0-25a9-54b3-88f2-5a74b32388c1

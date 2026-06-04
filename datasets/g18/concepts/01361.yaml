@@ -1,0 +1,44 @@
+data:
+  identifier: '01361'
+  localized_concepts:
+    eng: 7d744167-8345-5044-b089-fd10ed6afae7
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 119ab161-8d22-5521-a1dd-6325bbd4d850
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range from minimum capacity to maximum capacity
+  examples: []
+  id: 01361-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic weighing range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7d744167-8345-5044-b089-fd10ed6afae7

@@ -1,0 +1,46 @@
+data:
+  identifier: 00529
+  localized_concepts:
+    eng: 56aafa41-ba6f-564b-b2d9-ff3fb8139adb
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.5.5
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: eda2b951-a6ad-5828-bac4-0e4e03acb7cb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a fault greater than the absolute value of the appropriate maximum permissible
+      error for influence factor tests for a load equal to the minimum totalized load
+      (Σmin) for the designated class of the belt weigher
+  examples: []
+  id: 00529-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.5.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 56aafa41-ba6f-564b-b2d9-ff3fb8139adb

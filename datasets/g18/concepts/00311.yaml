@@ -1,0 +1,45 @@
+data:
+  identifier: '00311'
+  localized_concepts:
+    eng: 8df2945b-5c3b-544b-b8fa-b4aa19d34d1e
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-1
+    ref_type: section
+status: valid
+id: b3c50197-e9f6-53de-a80e-9ec84580a71f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indirect measurement of the arterial blood pressure without arterial
+      puncture
+  examples: []
+  id: 00311-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-invasive blood pressure measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8df2945b-5c3b-544b-b8fa-b4aa19d34d1e

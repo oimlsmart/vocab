@@ -1,0 +1,48 @@
+data:
+  identifier: '01463'
+  localized_concepts:
+    eng: 46f0876c-772d-51ea-83b0-0bf7c2f21cd9
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 078ae191-554e-518e-8f04-1d8f18fdc2ce
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: technical operation that consists of the determination of one or Based
+      on 13.1. Test, ISO/IEC Guide 2:1996 more characteristics or performance of a
+      given product, material, St equipment, organism, physical phenomenon, process
+      or service General according to a specified procedure.
+  examples: []
+  id: 01463-eng
+  notes:
+  - content: andardization and Related Activities— Vocabulary
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 46f0876c-772d-51ea-83b0-0bf7c2f21cd9

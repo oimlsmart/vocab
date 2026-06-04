@@ -1,0 +1,45 @@
+data:
+  identifier: '01441'
+  localized_concepts:
+    eng: db38710b-c092-51f5-9c9a-61c40f083408
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: feca9feb-fe90-511f-aae5-07dbcb2fb12a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class designation of a weight or weight set which meets certain metrological
+      requirements intended to maintain the mass values within specified limits
+  examples: []
+  id: 01441-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: db38710b-c092-51f5-9c9a-61c40f083408

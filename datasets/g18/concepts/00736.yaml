@@ -1,0 +1,45 @@
+data:
+  identifier: '00736'
+  localized_concepts:
+    eng: b1961dbe-5843-5805-b68a-45235ef70b58
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.9
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: ad4ff6b2-89a0-5448-b430-758fab472c42
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: extreme values of an error permitted by this Recommendation (refer to
+      clause 5) for a load cell [Adapted from VIM:1993, 5.21]
+  examples: []
+  id: 00736-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (mpe)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b1961dbe-5843-5805-b68a-45235ef70b58

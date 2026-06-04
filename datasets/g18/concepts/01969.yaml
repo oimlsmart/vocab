@@ -1,0 +1,49 @@
+data:
+  identifier: 01969
+  localized_concepts:
+    eng: 560738de-5f8b-5de3-9b60-6ef76a34e362
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 764efd3b-3c60-5592-a06e-21bad3f9d6ee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the limits specified in this
+      Recommendation, but outside the specified rated operating conditions of the
+      gas meter
+  examples: []
+  id: 01969-eng
+  notes:
+  - content: 1. An influence quantity is a disturbance if for that influence quantity
+      the rated operating conditions are not specified.
+  - content: 2. (OIML D 11, 3.13.2)
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 560738de-5f8b-5de3-9b60-6ef76a34e362

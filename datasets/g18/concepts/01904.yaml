@@ -1,0 +1,46 @@
+data:
+  identifier: 01904
+  localized_concepts:
+    eng: a56c220d-e581-5df0-9fe8-3503e0027a78
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 4f96ed7c-9a4c-5b22-a5a9-299d69fc00dc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of a measuring instrument minus the (conventional) true value
+      of the area
+  examples: []
+  id: 01904-eng
+  notes:
+  - content: '[VIM:1993, 5.20]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a56c220d-e581-5df0-9fe8-3503e0027a78

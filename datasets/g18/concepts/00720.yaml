@@ -1,0 +1,45 @@
+data:
+  identifier: '00720'
+  localized_concepts:
+    eng: 9daa9b59-91e8-50b0-8915-3a0fbed2649a
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.9
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 8f36e04b-a650-5c62-97ad-f737ce0fe751
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference in load cell output at minimum dead load, measured before
+      and after load application
+  examples: []
+  id: 00720-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum dead load output return (DR)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9daa9b59-91e8-50b0-8915-3a0fbed2649a

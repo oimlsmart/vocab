@@ -1,0 +1,49 @@
+data:
+  identifier: '00165'
+  localized_concepts:
+    eng: afa0a519-fff7-58a2-891f-b8086aa895b2
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-D027
+    ref_type: section
+status: valid
+id: cd1d0f9d-f8e1-5028-a14f-3c429b830075
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: systematic examination and testing of the performance of one or “Pattern”
+      is used in legal metrology with the more specimens of an identified type (pattern)
+      of measuring same me instruments against documented requirements, the results
+      of only “t which are contained in the evaluation report, in order to determine
+      whether the type may be approved [VIML, 2.5]
+  examples: []
+  id: 00165-eng
+  notes:
+  - content: aning as “type”; in the entries below, ype” is used.
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type (pattern) evaluation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: afa0a519-fff7-58a2-891f-b8086aa895b2

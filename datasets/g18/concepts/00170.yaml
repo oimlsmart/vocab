@@ -1,0 +1,48 @@
+data:
+  identifier: '00170'
+  localized_concepts:
+    eng: fa32d6e5-ce69-5f95-8e4f-0bdeb723b6e5
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-D027
+    ref_type: section
+status: valid
+id: b71b920c-91d8-56a4-9829-b8bfc45a5382
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: degree to which a set of inherent characteristics fulfils requirements
+      [ISO 9000:2000, 3.1.1]
+  examples: []
+  id: 00170-eng
+  notes:
+  - content: (1) The term “quality” can be used with adjectives such as poor, good
+      or excellent. (2) “Inherent” as opposed to “assigned” means existing in something,
+      especially as a permanent characteristic.
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quality
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fa32d6e5-ce69-5f95-8e4f-0bdeb723b6e5

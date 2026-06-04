@@ -1,0 +1,45 @@
+data:
+  identifier: 00689
+  localized_concepts:
+    eng: 544da35a-29dd-5231-b1e6-7652c1ff3207
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: abdcaf87-8a33-51fb-882d-3617540523f4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: aptitude of the elastic sensing element to retain a constant elastic
+      characteristic
+  examples: []
+  id: 00689-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stability of elastic characteristic
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 544da35a-29dd-5231-b1e6-7652c1ff3207

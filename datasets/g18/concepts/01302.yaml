@@ -1,0 +1,45 @@
+data:
+  identifier: '01302'
+  localized_concepts:
+    eng: d1197c71-df80-582a-94f4-9969310f4ab5
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.5.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 59839d28-30b0-5526-a4d3-76b04cb66cec
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value within the specified rated operating
+      conditions of the instrument
+  examples: []
+  id: 01302-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.5.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d1197c71-df80-582a-94f4-9969310f4ab5

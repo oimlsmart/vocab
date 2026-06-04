@@ -1,0 +1,45 @@
+data:
+  identifier: 01806
+  localized_concepts:
+    eng: 6bd155a0-594b-5ffc-83b2-0dd46a041dcb
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.1.3
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: f3a52da8-e4be-54e6-bbc2-1fd1552215c2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: process of determining the total mass of a moving vehicle by measurement
+      and analysis of the dynamic vehicle tyre forces
+  examples: []
+  id: 01806-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.1.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing-in-motion
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6bd155a0-594b-5ffc-83b2-0dd46a041dcb

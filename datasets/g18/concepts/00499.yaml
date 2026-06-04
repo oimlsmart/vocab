@@ -1,0 +1,45 @@
+data:
+  identifier: 00499
+  localized_concepts:
+    eng: b40ba0fa-2450-587c-9b6d-f385f3eb5775
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.7
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: b86f7052-c72d-5674-8e87-9f6fde6d045c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that receives information from the totalization device and indicates
+      the mass of the loads conveyed
+  examples: []
+  id: 00499-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b40ba0fa-2450-587c-9b6d-f385f3eb5775

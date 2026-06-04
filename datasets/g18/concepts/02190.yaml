@@ -1,0 +1,46 @@
+data:
+  identifier: 02190
+  localized_concepts:
+    eng: 420e85f3-6e26-5051-bbbd-85523d8b8cce
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.23
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 45d029f8-85b4-54c1-8e50-e675c3893ff1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: defect that has an impact on the properties or functions of the measuring
+      instrument or that causes an error of indication greater than the MPE
+  examples: []
+  id: 02190-eng
+  notes:
+  - content: '[adapted from OIML D 11:2004, 3.9]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.23
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 420e85f3-6e26-5051-bbbd-85523d8b8cce

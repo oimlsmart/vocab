@@ -1,0 +1,45 @@
+data:
+  identifier: '01027'
+  localized_concepts:
+    eng: f6ed18b8-0d77-5a2b-b37c-067c815c8667
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.18'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 140ce69d-fdc7-56be-b1f7-3b66eb48adae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the point at which the quantity of liquid measured is defined as being
+      delivered or received
+  examples: []
+  id: 01027-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transfer point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f6ed18b8-0d77-5a2b-b37c-067c815c8667

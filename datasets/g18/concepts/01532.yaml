@@ -1,0 +1,49 @@
+data:
+  identifier: '01532'
+  localized_concepts:
+    eng: 0de367e8-6aad-5abc-ba97-d51cba546e6a
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.6
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: e79902b6-eee5-56e4-98ca-31ba15347120
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device intended to perform a particular function, directly involved in
+      elaborating, transmitting or displaying measurement  zer results
+  examples: []
+  id: 01532-eng
+  notes:
+  - content: 'Main ancillary devices are: o-setting device,  repeating indicating
+      device,  printing device,  memory device,  price indicating device,  totalizing
+      indicating device,  correction device,  conversion device,  pre-setting device,
+       self-service device.'
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ancillary device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0de367e8-6aad-5abc-ba97-d51cba546e6a

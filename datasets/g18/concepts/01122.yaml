@@ -1,0 +1,47 @@
+data:
+  identifier: '01122'
+  localized_concepts:
+    eng: 6766f451-b02b-5fa7-aafd-4f8fb3120b6e
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: 501cb399-fb7f-528e-8a16-87e337ae6aa9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: prepackages taken from an inspection lot and used to provide information
+      that will serve as the basis for a decision on the conformance of the inspection
+      lot
+  examples: []
+  id: 01122-eng
+  notes:
+  - content: The symbol ‘n’ means sample size.
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sample size
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6766f451-b02b-5fa7-aafd-4f8fb3120b6e

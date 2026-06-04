@@ -1,0 +1,46 @@
+data:
+  identifier: 01885
+  localized_concepts:
+    eng: b6acf5b4-2092-557a-b4ce-0137c57431e1
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 21a685ac-a178-5fb0-91cd-5f6298a7e9f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: material prepared from the hides and skins of animals, by tanning and
+      other ancillary processes, the result of which is a three dimensional, durable
+      and hygroscopic material of varying thickness and softness
+  examples: []
+  id: 01885-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: leather
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b6acf5b4-2092-557a-b4ce-0137c57431e1

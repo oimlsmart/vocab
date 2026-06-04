@@ -1,0 +1,48 @@
+data:
+  identifier: '01223'
+  localized_concepts:
+    eng: 4951128a-cbf0-5236-ae8f-b5979fc9d6a7
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.13
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 9a630dc2-7a0c-5748-b1da-2c633a93527f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device employing electronic subassemblies and performing a An electronic
+      device, as defined above, may specific function. Electronic devices are usually
+      manufactured as b a separate unit and are capable of being independently tested
+      m
+  examples: []
+  id: 01223-eng
+  notes:
+  - content: e a complete measuring system or part of easuring system
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.13
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4951128a-cbf0-5236-ae8f-b5979fc9d6a7

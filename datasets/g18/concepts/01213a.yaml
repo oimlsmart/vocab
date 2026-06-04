@@ -1,0 +1,45 @@
+data:
+  identifier: 01213a
+  localized_concepts:
+    eng: 1a2426af-1656-5105-8ab2-44c01081aa29
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.3
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 2830cc85-4a14-5ddc-8961-c39b3b371b9e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a direct mass flow instrument and other apparatus assembled to carry
+      out a specified measurement operation [VIM:1993, 4.05]
+  examples: []
+  id: 01213a-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1a2426af-1656-5105-8ab2-44c01081aa29

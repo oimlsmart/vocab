@@ -1,0 +1,45 @@
+data:
+  identifier: '01065'
+  localized_concepts:
+    eng: 93600c38-8815-5bba-9554-f0136a719109
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R083
+    ref_type: section
+status: valid
+id: dc5d7d68-c723-593e-9485-b4c8d0a17067
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tube within the gas chromatograph that contains the stationary phase
+      and through which the gaseous mobile phase flows
+  examples: []
+  id: 01065-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: column
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 93600c38-8815-5bba-9554-f0136a719109

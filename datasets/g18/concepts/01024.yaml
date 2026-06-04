@@ -1,0 +1,46 @@
+data:
+  identifier: '01024'
+  localized_concepts:
+    eng: 8f6e4775-8588-502e-97c3-9c1c75802120
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: ce788e5a-bc2b-52ad-8768-588035085139
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that permits the selection of the quantity to be measured and
+      which automatically stops the flow of the liquid at the end of the measurement
+      and delivery of the selected quantity
+  examples: []
+  id: 01024-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pre-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8f6e4775-8588-502e-97c3-9c1c75802120

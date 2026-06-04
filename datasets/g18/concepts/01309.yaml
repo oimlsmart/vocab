@@ -1,0 +1,45 @@
+data:
+  identifier: 01309
+  localized_concepts:
+    eng: 0986df26-aee7-5c6c-99ac-919f1aed1572
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.6.4
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 7ab341b3-8c83-512c-a4df-5cb3437d280c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test to verify that the equipment under test (EUT) is capable of accomplishing
+      its intended functions
+  examples: []
+  id: 01309-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.6.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0986df26-aee7-5c6c-99ac-919f1aed1572

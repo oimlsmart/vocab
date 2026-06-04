@@ -1,0 +1,45 @@
+data:
+  identifier: '01336'
+  localized_concepts:
+    eng: 5e6ab0f9-f909-57e8-80c2-c143b0f8f958
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 5a16b950-0fa9-501d-845d-ef8799b3828f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero automatically without the intervention
+      of an operato
+  examples: []
+  id: 01336-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5e6ab0f9-f909-57e8-80c2-c143b0f8f958

@@ -1,0 +1,46 @@
+data:
+  identifier: 02359
+  localized_concepts:
+    eng: d5e98790-a9a2-58e4-b1a6-b5873d841c11
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.26'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 03f66cf0-d405-58fd-95dc-e14cdd3357c4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the rated operating conditions
+      of the instrument
+  examples: []
+  id: 02359-eng
+  notes:
+  - content: Adapted from OIML D 11:2004, 3.13.1.
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d5e98790-a9a2-58e4-b1a6-b5873d841c11

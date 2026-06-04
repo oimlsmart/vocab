@@ -1,0 +1,49 @@
+data:
+  identifier: '02117'
+  localized_concepts:
+    eng: 44e3fac9-be4e-58ae-8ab9-b6e3d1f3049b
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+    locality:
+      type: clause
+      reference_from: 2.2+2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R142
+    ref_type: section
+status: valid
+id: e798e1e5-3424-5356-a3bb-382cc7a12bab
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument in which the test sample is supplied manually or automatically
+      to the device in the continuous mode, depending on the technological process
+  examples: []
+  id: 02117-eng
+  notes:
+  - content: A working automated refractometer may be equipped with a built-in microprocessor
+      displaying the measurement data. It may also be connected to one or several
+      secondary indicating devices, printing units and other auxiliary devices, including
+      a universal computer.
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+      locality:
+        type: clause
+        reference_from: 2.2+2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working automated refractometer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 44e3fac9-be4e-58ae-8ab9-b6e3d1f3049b

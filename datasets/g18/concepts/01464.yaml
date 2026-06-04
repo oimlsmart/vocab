@@ -1,0 +1,44 @@
+data:
+  identifier: '01464'
+  localized_concepts:
+    eng: f9722d8e-0b6a-54ad-8525-1512cce96bec
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 69f00328-b194-5550-a397-b49ea01a5f38
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weight that is to be tested according to this Recommendation
+  examples: []
+  id: 01464-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test weight (mt)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f9722d8e-0b6a-54ad-8525-1512cce96bec

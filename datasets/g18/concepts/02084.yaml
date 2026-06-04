@@ -1,0 +1,51 @@
+data:
+  identifier: 02084
+  localized_concepts:
+    eng: f07ba27d-cccc-5fb3-ad5b-ccc8cfef391c
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.17.2
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 4fab8c90-4269-5835-8584-733420f7c9d6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fault, the magnitude of which is greater than half of the magnitude of
+      the maximum permissible error for the relevant measurand. However a fault, the
+      magnitude of which is smaller than 2 scale intervals of the associated measuring
+      instrument is never considered as a significant fault
+  examples: []
+  id: 02084-eng
+  notes:
+  - content: for associated measuring instruments other than CVDDs this concept applies
+      to the whole associated measuring instrument, or to the electronic part only,
+      according to what is subject to the test.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.17.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault (for associated measuring instruments other than
+      CVDDs)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f07ba27d-cccc-5fb3-ad5b-ccc8cfef391c

@@ -1,0 +1,45 @@
+data:
+  identifier: 01834
+  localized_concepts:
+    eng: 6ef1a0c3-87ec-5346-8aed-a44ad362d326
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.6.2
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 0210deb9-ec74-5407-a253-2a5b94a9d3bd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test with reference vehicles that are in motion on the load receptor
+      to determine an error
+  examples: []
+  id: 01834-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.6.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: in-motion test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6ef1a0c3-87ec-5346-8aed-a44ad362d326

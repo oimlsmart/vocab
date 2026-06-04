@@ -1,0 +1,45 @@
+data:
+  identifier: '02300'
+  localized_concepts:
+    eng: 79573df6-b1cd-537f-b33d-e3a789c2a424
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 1cb5b560-80f0-5890-a6ae-c5c463210639
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic level gauge using electronic means and/or equipped with electronic
+      devices
+  examples: []
+  id: 02300-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic automatic level gauge
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 79573df6-b1cd-537f-b33d-e3a789c2a424

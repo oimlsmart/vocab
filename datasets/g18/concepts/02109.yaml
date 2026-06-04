@@ -1,0 +1,47 @@
+data:
+  identifier: 02109
+  localized_concepts:
+    eng: 8b44e46a-9035-5271-8bcf-f6914a889c89
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R141
+    ref_type: section
+status: valid
+id: b0f9b108-6b57-5023-bdff-4c8f3c0808e5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device intended to create a plane picture containing a heat- radiating
+      object with a preset spatial frequency, or shape or temperature contrast on
+      a uniform radiating background with a known temperature value and a known emittance
+      value of the object and background
+  examples: []
+  id: 02109-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermal test object
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8b44e46a-9035-5271-8bcf-f6914a889c89

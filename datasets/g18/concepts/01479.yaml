@@ -1,0 +1,45 @@
+data:
+  identifier: 01479
+  localized_concepts:
+    eng: 139f0b62-eb39-51ee-8b5c-e610ef5f552f
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: ce1a6e8a-1a7a-5ddb-9dd0-502135f88554
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the device that responds to the presence of sample components eluting
+      from the column
+  examples: []
+  id: 01479-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detector
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 139f0b62-eb39-51ee-8b5c-e610ef5f552f

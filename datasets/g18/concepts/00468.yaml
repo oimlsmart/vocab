@@ -1,0 +1,46 @@
+data:
+  identifier: 00468
+  localized_concepts:
+    eng: 68641fad-4bc9-5821-8b0f-1a12655fcc3c
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 0ad160fb-6fc8-5975-b3d6-ae6bd421f2f4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: type of water meter fitted into a closed conduit by means of an intermediate
+      fitting called a manifold. The inlet and outlet passages of the meter and the
+      manifold, at the interface between them, are coaxial
+  examples: []
+  id: 00468-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: concentric meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 68641fad-4bc9-5821-8b0f-1a12655fcc3c

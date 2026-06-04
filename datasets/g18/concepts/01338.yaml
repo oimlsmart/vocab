@@ -1,0 +1,44 @@
+data:
+  identifier: 01338
+  localized_concepts:
+    eng: d8767fb1-4fbf-572f-815e-dd8122044717
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 30d1c47c-e719-5a3b-8e6e-d33560194815
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for maintaining the zero indication within certain limits automatically
+  examples: []
+  id: 01338-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero-tracking device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d8767fb1-4fbf-572f-815e-dd8122044717

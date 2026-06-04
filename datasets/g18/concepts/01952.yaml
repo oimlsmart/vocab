@@ -1,0 +1,47 @@
+data:
+  identifier: 01952
+  localized_concepts:
+    eng: e7491718-8234-5e7d-b54d-5dbd0f90f7ab
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.16
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: e7e18982-687a-5164-93bf-4a9037d60076
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of reference values, or reference ranges of influence quantities,
+      prescribed for testing the performance of a gas meter, orfor the intercomparison
+      of the results of measurements
+  examples: []
+  id: 01952-eng
+  notes:
+  - content: (adapted from VIM:1993, 5.7)
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.16
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e7491718-8234-5e7d-b54d-5dbd0f90f7ab

@@ -1,0 +1,45 @@
+data:
+  identifier: 00497
+  localized_concepts:
+    eng: 806d0538-49e0-5182-a831-1efb516cd882
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 7a35da31-50f3-539c-9216-7b9eeddc66df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the part of the displacement transducer that is in permanent contact
+      with the belt or integral with a non-drive pulley
+  examples: []
+  id: 00497-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: displacement sensing device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 806d0538-49e0-5182-a831-1efb516cd882

@@ -1,0 +1,44 @@
+data:
+  identifier: 02080
+  localized_concepts:
+    eng: dfb36adb-a9d6-5d34-a02d-a08081a36e53
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.14
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 130c54c9-da2e-524e-8814-e4e999b0f940
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error determined under reference conditions
+  examples: []
+  id: 02080-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dfb36adb-a9d6-5d34-a02d-a08081a36e53

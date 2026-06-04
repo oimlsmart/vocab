@@ -1,0 +1,47 @@
+data:
+  identifier: 01988
+  localized_concepts:
+    eng: ab631ea6-487d-541b-bd94-d8c9e7bf2089
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 5fbc6d1e-42d2-51b7-9618-4b3c776eb96e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument intended to measure, memorize and display the quantity of
+      gas passing through the measurement transducer at metering conditions
+  examples: []
+  id: 01988-eng
+  notes:
+  - content: A meter includes at least a transducer, a calculator (including adjustment
+      or correction devices if present) and an indicating device.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ab631ea6-487d-541b-bd94-d8c9e7bf2089

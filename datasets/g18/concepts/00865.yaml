@@ -1,0 +1,45 @@
+data:
+  identifier: 00865
+  localized_concepts:
+    eng: f2d4b712-1a9b-5425-8c94-3662f6197e6a
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 4.10.2
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 86906255-7c72-5cfe-bc45-13e679950039
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: momentary variations in the indication which cannot be interpreted, memorized
+      or transmitted as measurements
+  examples: []
+  id: 00865-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 4.10.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transitory fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f2d4b712-1a9b-5425-8c94-3662f6197e6a

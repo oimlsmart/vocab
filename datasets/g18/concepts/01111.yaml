@@ -1,0 +1,45 @@
+data:
+  identifier: '01111'
+  localized_concepts:
+    eng: 28ff074c-b73b-53d2-a84a-8b0f128b9e40
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: b79b4ebe-61f9-5aac-821a-0e6abfae4edb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: prepackage with an individual prepackage error (see 2.5) less than the
+      nominal quantity (also called a negative error)
+  examples: []
+  id: 01111-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inadequate prepackage (also called a non-conforming prepackage)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 28ff074c-b73b-53d2-a84a-8b0f128b9e40

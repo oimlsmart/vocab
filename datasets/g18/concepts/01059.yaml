@@ -1,0 +1,45 @@
+data:
+  identifier: 01059
+  localized_concepts:
+    eng: d716ed3f-42ef-5e33-b2e3-8fa43a349733
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: 6786ee34-4d28-50c3-a970-4ce63b523657
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: time elapsed from injection of a sample component to the recording of
+      its peak maximum
+  examples: []
+  id: 01059-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retention time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d716ed3f-42ef-5e33-b2e3-8fa43a349733

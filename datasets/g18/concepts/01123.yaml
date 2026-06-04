@@ -1,0 +1,45 @@
+data:
+  identifier: '01123'
+  localized_concepts:
+    eng: ea830e36-1d8d-504d-908d-8f7f55c048ef
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: d84c3649-53d4-5812-9885-e9635fcf2b42
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: deficiency in the quantity of product permitted in a prepackage
+  examples: []
+  id: 01123-eng
+  notes:
+  - content: The symbol ‘T’ means tolerable deficiency.
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tolerable deficiency (also called the tolerable negative error)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ea830e36-1d8d-504d-908d-8f7f55c048ef

@@ -1,0 +1,45 @@
+data:
+  identifier: 02019
+  localized_concepts:
+    eng: 1f9a0d10-341d-5438-9e1e-d8ef8d94b653
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.10
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 769c7811-90d0-54b0-9d1e-3f12e306d7ef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of a measuring system as determined prior to all performance
+      tests
+  examples: []
+  id: 02019-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1f9a0d10-341d-5438-9e1e-d8ef8d94b653

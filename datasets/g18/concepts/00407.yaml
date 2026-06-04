@@ -1,0 +1,46 @@
+data:
+  identifier: '00407'
+  localized_concepts:
+    eng: 9bf3fa75-a97c-5138-96cf-462a98454245
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R048
+    ref_type: section
+status: valid
+id: bb925e5a-4708-50dc-b45c-dd1c3900de6c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dimensionless quantity numerically equal to a change in the radiance
+      temperature of the ribbon (in °C) under changes of the ambient temperature by
+      1 °C at a constant lamp current
+  examples: []
+  id: 00407-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temperature coefficient of the lamp
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9bf3fa75-a97c-5138-96cf-462a98454245

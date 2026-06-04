@@ -1,0 +1,45 @@
+data:
+  identifier: '02102'
+  localized_concepts:
+    eng: 3585fedd-12b5-5525-9cff-05fffa4f2e92
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 52ff553b-aa23-5912-9391-5a8331886a2d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility operating continuously during the entire
+      measurement operation
+  examples: []
+  id: 02102-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent automatic checking facility (type P)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3585fedd-12b5-5525-9cff-05fffa4f2e92

@@ -1,8 +1,7 @@
----
 id: viml
 domain: metanorma.github.io/oiml-vocab
 uriBase: https://metanorma.github.io/oiml-vocab
-basePath: "/oiml-vocab/"
+basePath: /oiml-vocab/
 title: OIML Vocabularies
 subtitle: International Vocabularies of Metrology
 description: Terminology from the International Vocabularies of Metrology published
@@ -20,32 +19,35 @@ uiLanguages:
 datasets:
 - id: viml-2022
   localPath: datasets/viml-2022
-  color: "#004996"
+  color: '#004996'
 - id: viml-2013
   localPath: datasets/viml-2013
-  color: "#6B7280"
+  color: '#6B7280'
 - id: viml-2000
   localPath: datasets/viml-2000
-  color: "#9CA3AF"
+  color: '#9CA3AF'
 - id: viml-1968
   localPath: datasets/viml-1968
-  color: "#D1D5DB"
+  color: '#D1D5DB'
 - id: vim-2012
   localPath: datasets/vim-2012
-  color: "#005A9C"
+  color: '#005A9C'
 - id: vim-2010
   localPath: datasets/vim-2010
-  color: "#7C93A8"
+  color: '#7C93A8'
 - id: vim-2007
   localPath: datasets/vim-2007
-  color: "#94A8B8"
+  color: '#94A8B8'
 - id: vim-1993
   localPath: datasets/vim-1993
-  color: "#B0BEC5"
+  color: '#B0BEC5'
+- id: g18
+  localPath: datasets/g18
+  color: '#E57F2A'
 routing: []
 branding:
-  primaryColor: "#004996"
-  darkColor: "#003366"
+  primaryColor: '#004996'
+  darkColor: '#003366'
   fonts:
     header:
       family: Source Serif 4
@@ -61,7 +63,7 @@ branding:
       - 500
       - 700
   logo:
-    path: "/logos/oiml-logo.svg"
+    path: /logos/oiml-logo.svg
     alt: OIML
     localPath: logos/oiml-logo.svg
     localLight: logos/oiml-logo-icon-light.svg
@@ -98,7 +100,7 @@ datasetGroups:
   - viml-2013
   - viml-2000
   - viml-1968
-  color: "#004996"
+  color: '#004996'
   translations:
     fra:
       label: VIML — Vocabulaire international de métrologie légale
@@ -109,7 +111,12 @@ datasetGroups:
   - vim-2010
   - vim-2007
   - vim-1993
-  color: "#005A9C"
+  color: '#005A9C'
   translations:
     fra:
       label: VIM — Vocabulaire international de métrologie
+- id: g18
+  label: G 18 — Alphabetical List of Terms
+  datasets:
+  - g18
+  color: '#E57F2A'

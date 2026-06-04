@@ -1,0 +1,44 @@
+data:
+  identifier: '01157'
+  localized_concepts:
+    eng: 5f7fece0-3ed1-5216-a069-f3a2c6f80c40
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R098
+    ref_type: section
+status: valid
+id: e3648882-1c54-5420-b9ca-57a604f48ffc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the whole set of scale marks with their corresponding numbering
+  examples: []
+  id: 01157-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5f7fece0-3ed1-5216-a069-f3a2c6f80c40

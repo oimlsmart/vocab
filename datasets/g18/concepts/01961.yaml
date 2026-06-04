@@ -1,0 +1,44 @@
+data:
+  identifier: 01961
+  localized_concepts:
+    eng: ee246a1a-6f87-5e16-b431-c48f91c7ec89
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: aa948735-19c7-53fe-b0bb-5070133c95cf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: temperature of the gas to be measured at the gas meter
+  examples: []
+  id: 01961-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working temperature, tw
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ee246a1a-6f87-5e16-b431-c48f91c7ec89

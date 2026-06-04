@@ -1,0 +1,44 @@
+data:
+  identifier: '01542'
+  localized_concepts:
+    eng: d5305950-1b61-535d-9376-660b718d86a5
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.c.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 38397fcc-a661-5679-8a7e-df08ffcae0b0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility operating during the entire measurement operation
+  examples: []
+  id: 01542-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.c.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent automatic checking facility (type P)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d5305950-1b61-535d-9376-660b718d86a5

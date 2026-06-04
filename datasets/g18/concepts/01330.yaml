@@ -1,0 +1,47 @@
+data:
+  identifier: '01330'
+  localized_concepts:
+    eng: fdf7387b-43a3-5799-b67d-fea46e2571b5
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 68f40793-2cc2-5bf9-bb25-33836a6b6c1f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[O smallest physical entity that uses electron or hole conduction in
+      semiconductors, gases, or in a vacuum IML D 11: 2004, 3.4]'
+  examples: []
+  id: 01330-eng
+  notes:
+  - content: 'Examples: Electronic tubes, transistors, integrated circuits. (See 3.4
+      of OIML D 11)'
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic component
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fdf7387b-43a3-5799-b67d-fea46e2571b5

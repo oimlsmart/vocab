@@ -1,0 +1,45 @@
+data:
+  identifier: '01640'
+  localized_concepts:
+    eng: e9dd83ee-71d0-5b33-af47-a038749491c9
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.23
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 7da454d0-e9cc-526a-b3c7-ac6aef88c8d7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the error of a measuring instrument used under reference conditions (VIM:1993,
+      5.24)
+  examples: []
+  id: 01640-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.23
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e9dd83ee-71d0-5b33-af47-a038749491c9

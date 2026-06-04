@@ -1,0 +1,49 @@
+data:
+  identifier: 01481
+  localized_concepts:
+    eng: 85117dfd-36a1-50d1-ac0d-868ee78f589f
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+    locality:
+      type: clause
+      reference_from: '2.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R112
+    ref_type: section
+status: valid
+id: 5e115a2f-6436-54ce-a779-6613eb17c8b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the concentration of the sample component of interest that gives This
+      term is also referred to as «minimum a detector output signal equal to three
+      times the short-term noise det man def oth noi
+  examples: []
+  id: 01481-eng
+  notes:
+  - content: ectability» in some references and ufacturer’s literature. It is sometimes
+      ined as an output signal equal to some er multiple (for example, two or ten)
+      of th se.
+  sources:
+  - origin:
+      ref:
+        source: OIML R112:1994
+      locality:
+        type: clause
+        reference_from: '2.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Detection limit for the instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 85117dfd-36a1-50d1-ac0d-868ee78f589f

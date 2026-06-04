@@ -1,0 +1,45 @@
+data:
+  identifier: 00853
+  localized_concepts:
+    eng: 940c3804-a480-5cd3-987e-b3dace50bf23
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '4.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: fa8c737b-b989-58cc-a009-2a03cfab2d14
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: voltage of the external power supply required to operate the heat meter,
+      conventionally the voltage of the AC mains supply
+  examples: []
+  id: 00853-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '4.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated voltage, Un
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 940c3804-a480-5cd3-987e-b3dace50bf23

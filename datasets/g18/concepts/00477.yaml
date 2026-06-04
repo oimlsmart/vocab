@@ -1,0 +1,46 @@
+data:
+  identifier: '00477'
+  localized_concepts:
+    eng: 4833dec7-e3de-5df1-942a-b41d3f8a6f5d
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: fd7679ff-ce9f-5916-af0c-09ba7dd1edea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: exposure of the equipment under test to an environmental condition (influence
+      factor or disturbance) in order to determine the effect of such a condition
+      on it
+  examples: []
+  id: 00477-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conditioning
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4833dec7-e3de-5df1-942a-b41d3f8a6f5d

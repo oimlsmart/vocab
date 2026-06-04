@@ -1,0 +1,45 @@
+data:
+  identifier: '02227'
+  localized_concepts:
+    eng: 7a3af959-3ca5-5257-881e-92b7c0b97726
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 3a284030-66d7-567b-a37a-70af347bb3c9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: opening in the top of a tank through which dipping and sampling operations
+      are carried out
+  examples: []
+  id: 02227-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gauge hatch (dip-hatch)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7a3af959-3ca5-5257-881e-92b7c0b97726

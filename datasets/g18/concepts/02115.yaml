@@ -1,0 +1,45 @@
+data:
+  identifier: '02115'
+  localized_concepts:
+    eng: 58417425-ef4b-527a-b52e-250718533c24
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R141
+    ref_type: section
+status: valid
+id: 84aaea29-ba71-51e3-9fac-36191f8e578e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Maximum value of the temperature difference of thermogram fragments from
+      a standard large aperture radiator, with a uniform radiation over the surface
+  examples: []
+  id: 02115-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity to non-uniformity in the field of a thermographic instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 58417425-ef4b-527a-b52e-250718533c24

@@ -1,0 +1,44 @@
+data:
+  identifier: '02111'
+  localized_concepts:
+    eng: 25eb78c2-e261-5d96-9cc8-e7a41fdb1a83
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R141
+    ref_type: section
+status: valid
+id: 801d0ae2-846d-5aed-8eeb-c2eafe928ff9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: solid angle within which the thermogram is formed
+  examples: []
+  id: 02111-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field of view
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 25eb78c2-e261-5d96-9cc8-e7a41fdb1a83

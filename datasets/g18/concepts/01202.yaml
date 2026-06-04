@@ -1,0 +1,45 @@
+data:
+  identifier: '01202'
+  localized_concepts:
+    eng: bdc9af7b-695b-5a53-9946-00813fb01fbe
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R100
+    ref_type: section
+status: valid
+id: 37c95612-26ee-5082-a51c-9310f90b3d9a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a means of automatically controlling the rate and duration of the temperature
+      rise of a furnace-type AAS system
+  examples: []
+  id: 01202-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R100:1991
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temperature programming
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bdc9af7b-695b-5a53-9946-00813fb01fbe

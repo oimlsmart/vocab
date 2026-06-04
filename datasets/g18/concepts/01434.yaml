@@ -1,0 +1,45 @@
+data:
+  identifier: '01434'
+  localized_concepts:
+    eng: 4b7fe82b-58b6-5368-a394-3cd8533c3685
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 1dff86b4-57a4-5b54-97f7-0c9b2515c832
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: class of pressure balances that meet certain metrological requirements
+      intended to keep errors within specified limits
+  examples: []
+  id: 01434-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4b7fe82b-58b6-5368-a394-3cd8533c3685

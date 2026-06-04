@@ -1,0 +1,46 @@
+data:
+  identifier: '01017'
+  localized_concepts:
+    eng: fb8991e5-c1c8-5331-877a-b305084e1a92
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 234321b2-0192-54d6-96a0-b190b0271b15
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a part of the meter that is capable of displaying continuously the A
+      printing device that provides an indication measurement results at ind
+  examples: []
+  id: 01017-eng
+  notes:
+  - content: the end of the measurement is not an icating device.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fb8991e5-c1c8-5331-877a-b305084e1a92

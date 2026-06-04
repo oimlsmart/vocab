@@ -1,0 +1,45 @@
+data:
+  identifier: '02322'
+  localized_concepts:
+    eng: f688031e-e74d-56c6-b1b5-f3d346b3e13f
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.24'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: be588127-e2a1-5cf8-9608-0d03d06cf3bb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the specified rated operating
+      conditions of the ALG
+  examples: []
+  id: 02322-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.24'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f688031e-e74d-56c6-b1b5-f3d346b3e13f

@@ -1,0 +1,46 @@
+data:
+  identifier: 00954
+  localized_concepts:
+    eng: 1212a3f2-e11d-5cce-acd9-6bb3d18e692c
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 7de30b9c-3210-541a-b027-9cf049f7eebe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'FL FM R The reduction ratio of a load transmitting device is: = FM /
+      FL where: = force acting on the load measuring device, = force acting on the
+      load receptor'
+  examples: []
+  id: 00954-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reduction ration, R
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1212a3f2-e11d-5cce-acd9-6bb3d18e692c

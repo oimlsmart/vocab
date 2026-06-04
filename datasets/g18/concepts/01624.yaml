@@ -1,0 +1,46 @@
+data:
+  identifier: '01624'
+  localized_concepts:
+    eng: 74d112cd-97a6-540b-a7b9-3071f556e74b
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.9.1
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: ae7ada09-2ef2-5df3-bd08-294dd2771993
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device associated with the instrument which is intended to perform
+      a specific function, e.g. a repeat indication device, ticket printer, card reader,
+      data input terminal, etc.
+  examples: []
+  id: 01624-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.9.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ancillary device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 74d112cd-97a6-540b-a7b9-3071f556e74b

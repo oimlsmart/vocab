@@ -1,0 +1,46 @@
+data:
+  identifier: 01873
+  localized_concepts:
+    eng: e72751d4-9b8a-581c-8839-0184b52207be
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.34'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: ab7149c2-1954-5b7a-abb6-849158269b34
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: durability error greater than the value specified in the appropriate
+      Recommendation
+  examples: []
+  id: 01873-eng
+  notes:
+  - content: '[OIML D 11, 3.12]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.34'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant durability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e72751d4-9b8a-581c-8839-0184b52207be

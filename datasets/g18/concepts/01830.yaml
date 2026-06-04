@@ -1,0 +1,46 @@
+data:
+  identifier: 01830
+  localized_concepts:
+    eng: 7c6bf38b-679f-549a-a0c6-b7b102c4d74e
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.5.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: bf31184b-c43b-5690-b3ed-a90dd0eaf828
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value that falls within the limits specified
+      in this Recommendation but that falls outside the rated operating conditions
+      of the instrument
+  examples: []
+  id: 01830-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.5.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7c6bf38b-679f-549a-a0c6-b7b102c4d74e

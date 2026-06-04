@@ -1,0 +1,45 @@
+data:
+  identifier: 00945
+  localized_concepts:
+    eng: e0f3f076-e41e-52f5-a489-0759aca5c149
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: e65a0829-9bc7-525f-adbe-937c1a376d87
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: = – …) T.3.1.6 ta maximum capacity of the additive tare device or the
+      subtractive re device
+  examples: []
+  id: 00945-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum tare effect
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e0f3f076-e41e-52f5-a489-0759aca5c149

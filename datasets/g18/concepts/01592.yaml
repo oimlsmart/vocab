@@ -1,0 +1,45 @@
+data:
+  identifier: 01592
+  localized_concepts:
+    eng: c62d80f9-ae4e-5048-9cab-6ad3757aa83d
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.q.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 87d4492f-488e-5eb0-8a12-a31741d1de1d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: total volume or mass that has passed through the meter during a measurement.
+      Often referred to as “known quantity”
+  examples: []
+  id: 01592-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.q.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: true (reference) quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c62d80f9-ae4e-5048-9cab-6ad3757aa83d

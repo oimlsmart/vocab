@@ -1,0 +1,54 @@
+data:
+  identifier: '00135'
+  localized_concepts:
+    eng: 0dd331e0-2ee7-5a38-bd08-f7a37a45a0e5
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+    locality:
+      type: clause
+      reference_from: 1.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-D020
+    ref_type: section
+status: valid
+id: 7c62c742-ac43-55ac-978d-2716bc74092a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an individual instrument which conforms, within specified limits, to
+      a given pattern in all respects.
+  examples: []
+  id: 00135-eng
+  notes:
+  - content: The word « pattern » has been commonly used to refer to the definitive
+      model of a measuring instrument as well as to the class of instruments that
+      conform to it. The instruments produced by the manufacturer to replicate the
+      pattern constitute a different class. The question of whether an instrument
+      of the class conforms to the pattern is normally the subject of initial verification.
+      Pattern approval not only implies the recognition that the pattern conforms
+      to requirements but, generally, also relates to th instruments of the class
+      produced by the manufacturer ; it usually conveys that these may be sold as
+      legal for use and submitted for initial verification
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+      locality:
+        type: clause
+        reference_from: 1.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: copy of a pattern
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0dd331e0-2ee7-5a38-bd08-f7a37a45a0e5

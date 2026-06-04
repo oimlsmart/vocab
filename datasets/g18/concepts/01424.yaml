@@ -1,0 +1,45 @@
+data:
+  identifier: '01424'
+  localized_concepts:
+    eng: 7920323e-3cb3-5ab2-ac05-9e5eb836f15a
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 07da20b9-617d-5aae-9a2d-9585ea173945
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the time during which the piston rotates freely after spinning to a specified
+      rotation rate, until it stops
+  examples: []
+  id: 01424-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: free rotation time of the piston
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7920323e-3cb3-5ab2-ac05-9e5eb836f15a

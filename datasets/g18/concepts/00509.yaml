@@ -1,0 +1,45 @@
+data:
+  identifier: 00509
+  localized_concepts:
+    eng: ace2e8ac-e415-5b04-92ea-15bb00484396
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.8.4
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 727ba4d4-8433-595b-8ff7-32465679b2b0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that indicates the instantaneous flowrate either as the mass
+      of the product conveyed in unit time or as a percentage of the maximum flowrate
+  examples: []
+  id: 00509-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.8.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flow indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ace2e8ac-e415-5b04-92ea-15bb00484396

@@ -1,0 +1,46 @@
+data:
+  identifier: 01899
+  localized_concepts:
+    eng: 11a2177b-c061-5f18-a615-5719ef1789fc
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 8e6f21b6-6665-5d12-b0a5-b0b8f8676852
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • value, expressed in units of area, of the difference between: the
+      values corresponding to two consecutive scale marks for analogue indication,
+      or two consecutive indicated values for digital indication'
+  examples: []
+  id: 01899-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval (d)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 11a2177b-c061-5f18-a615-5719ef1789fc

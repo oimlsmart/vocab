@@ -1,0 +1,47 @@
+data:
+  identifier: '02216'
+  localized_concepts:
+    eng: 45fe0977-ad23-5ae1-b4f3-a587c4937b88
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.49
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 199192d9-c75a-5087-b811-6162bf7675a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of an electronic device employing electronic components and having
+      a recognizable function of its own
+  examples: []
+  id: 02216-eng
+  notes:
+  - content: '1. Examples: Amplifiers, comparators, power converters, etc.'
+  - content: 2. [OIML D 11:2004, 3.3]
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.49
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sub-assembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 45fe0977-ad23-5ae1-b4f3-a587c4937b88

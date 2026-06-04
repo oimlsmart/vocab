@@ -1,0 +1,46 @@
+data:
+  identifier: '01360'
+  localized_concepts:
+    eng: 67ba9c45-e672-5cd8-8f05-9071be14c67f
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: ee426b27-32c1-55f9-8b49-e728b327bc14
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'sequence of weighing operations that includes the following:  one delivery
+      of a load to the load receptor;  a single weighing operation; and  the discharge
+      to bulk of a single discrete load'
+  examples: []
+  id: 01360-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing cycle
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 67ba9c45-e672-5cd8-8f05-9071be14c67f

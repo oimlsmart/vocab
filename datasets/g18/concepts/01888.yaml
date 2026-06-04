@@ -1,0 +1,46 @@
+data:
+  identifier: 01888
+  localized_concepts:
+    eng: e356429e-2bb7-5735-86cc-2401f875f0e9
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.9
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 2623ddef-8786-555d-8d84-b69816ff5e27
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value attributed to a particular quantity (e.g. area of leather) and
+      [VIM:1993, 1.20] accepted, by convention, as having an uncertainty appropriate
+      for a given purpose
+  examples: []
+  id: 01888-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true value (of a quantity)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e356429e-2bb7-5735-86cc-2401f875f0e9

@@ -1,0 +1,47 @@
+data:
+  identifier: 02048
+  localized_concepts:
+    eng: 7f369304-b717-55d4-b218-384f408895a7
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.8
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 3c59c37d-2577-5393-81af-8c41ca440120
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: subassembly of a measuring system which corresponds to the meter(s) itself
+      (themselves), associated, where applicable, with an additional calculator with
+      a correction and an indicating device, and to all other parts of the gas circuit
+      of the measuring system (in particular additional devices)
+  examples: []
+  id: 02048-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metering module
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7f369304-b717-55d4-b218-384f408895a7

@@ -1,0 +1,45 @@
+data:
+  identifier: 01578
+  localized_concepts:
+    eng: b8632537-da5f-57cf-9d7e-1c5d235e2c4c
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.i.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 21992e59-cbeb-53cd-b5ed-bb739ce5aeee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the rated operating conditions
+      of the measuring system, as specified in this Recommendation
+  examples: []
+  id: 01578-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.i.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factot
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b8632537-da5f-57cf-9d7e-1c5d235e2c4c

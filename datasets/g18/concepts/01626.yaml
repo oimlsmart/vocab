@@ -1,0 +1,45 @@
+data:
+  identifier: '01626'
+  localized_concepts:
+    eng: 5b92f6c9-bcc5-5d23-80ed-5d7bdd4eefbc
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.10
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 887aa5fd-1f9f-5e9a-8236-52ef9bc094f8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a tank whose horizontal cross-section is a circle and whose walls are
+      vertical
+  examples: []
+  id: 01626-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vertical cylindrical tank
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5b92f6c9-bcc5-5d23-80ed-5d7bdd4eefbc

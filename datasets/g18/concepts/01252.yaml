@@ -1,0 +1,45 @@
+data:
+  identifier: '01252'
+  localized_concepts:
+    eng: a334b214-4e1b-5a90-a098-fe8e79fe294d
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.33
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 724971f7-9d6c-5c1e-8b3e-cd2e7d790b3f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test intended to verify whether the measuring system being tested (equipment
+      under test or EUT) is capable of accomplishing its intended functions
+  examples: []
+  id: 01252-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.33
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a334b214-4e1b-5a90-a098-fe8e79fe294d

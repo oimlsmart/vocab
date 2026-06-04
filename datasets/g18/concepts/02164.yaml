@@ -1,0 +1,46 @@
+data:
+  identifier: '02164'
+  localized_concepts:
+    eng: 1e577821-cab7-5478-b32b-0708cbb5222b
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D030
+    ref_type: section
+status: valid
+id: bf3ef5bc-8e17-5746-be55-0bedd87179ee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-1 report, issued by an Issuing Authority, that includes the Partial
+      Test Reports or the Test Report and assesses the conformity of the measuring
+      instrument to the stated requirements'
+  examples: []
+  id: 02164-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Evaluation Report
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1e577821-cab7-5478-b32b-0708cbb5222b

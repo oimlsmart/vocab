@@ -1,0 +1,47 @@
+data:
+  identifier: 02158
+  localized_concepts:
+    eng: 1365e5b2-4f95-55bc-b4d8-9784c81c90f3
+  sources:
+  - origin:
+      ref:
+        source: OIML D029:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D029
+    ref_type: section
+status: valid
+id: 64aace48-c8d5-5d26-a25c-2767e9198fc9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-3 -- For this application, "supplier" must be'
+  examples: []
+  id: 02158-eng
+  notes:
+  - content: understood as "applicant" for type evaluation or for OIML Type Evaluation.
+      Although the instrument may be manufactured by another company, the applicant
+      has to assume responsibility for compliance.
+  sources:
+  - origin:
+      ref:
+        source: OIML D029:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: supplier
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1365e5b2-4f95-55bc-b4d8-9784c81c90f3

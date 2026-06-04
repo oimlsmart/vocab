@@ -1,0 +1,48 @@
+data:
+  identifier: '02063'
+  localized_concepts:
+    eng: d8fb72c6-1663-5109-a9f8-779e20fdf6a5
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.20
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 04328d10-014c-5f03-aadf-919616d76f9b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: provisions established by the user of a measuring system in order to
+      give confidence to the National Authority that qua operations are performed
+      according to metrological expectations when they are not performed using associated
+      measuring instruments subject to control and/or secured communications
+  examples: []
+  id: 02063-eng
+  notes:
+  - content: Documented provisions may be part of a lity assurance system.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.20
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: documented provisions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d8fb72c6-1663-5109-a9f8-779e20fdf6a5

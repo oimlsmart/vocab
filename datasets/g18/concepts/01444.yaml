@@ -1,0 +1,45 @@
+data:
+  identifier: '01444'
+  localized_concepts:
+    eng: aa1caf3f-6994-57a3-9695-48d7fc4267d8
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: 2.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 1de0e63d-d648-5434-a037-a4e7517b1203
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: certificate issued only by authorized or accredited laboratories that
+      record the results of a calibration
+  examples: []
+  id: 01444-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: 2.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration certificate (report)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: aa1caf3f-6994-57a3-9695-48d7fc4267d8

@@ -1,0 +1,45 @@
+data:
+  identifier: '00202'
+  localized_concepts:
+    eng: 514a032c-6375-520e-b41b-8c8c7ad139a6
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.20'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: e13e1391-ad14-554e-8d5b-54cae6e348a3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: business or individual that acquires a measuring instrument with the
+      intention of using it himself or herself and not reselling it
+  examples: []
+  id: 00202-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: end user
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 514a032c-6375-520e-b41b-8c8c7ad139a6

@@ -1,0 +1,44 @@
+data:
+  identifier: '02136'
+  localized_concepts:
+    eng: d4df1f87-ae9a-5766-a1e3-ed9803eeaff6
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 0c786eb4-5d72-5c05-95d0-be3f2351a737
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means to adjust the gas analyzer without the use of a CGM
+  examples: []
+  id: 02136-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: internal adjustment means
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d4df1f87-ae9a-5766-a1e3-ed9803eeaff6

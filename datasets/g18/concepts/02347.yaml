@@ -1,0 +1,49 @@
+data:
+  identifier: '02347'
+  localized_concepts:
+    eng: a4167929-2b4d-5826-bb0a-302a0c5060c9
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 6c9da159-1492-5bb6-9c0c-ef2e5e100fc7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: “r duration between the instant when an input quantity value of a measuring
+      instrument or measuring system is subjected to an abrupt change between two
+      specified constant quantity values and the instant when a corresponding indication
+      settles within specified limits around its final steady value (referred to as
+      esponse time” in this Recommendation)
+  examples: []
+  id: 02347-eng
+  notes:
+  - content: (VIM:2007, 4.23)
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: step response time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a4167929-2b4d-5826-bb0a-302a0c5060c9

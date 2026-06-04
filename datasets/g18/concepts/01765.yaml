@@ -1,0 +1,47 @@
+data:
+  identifier: '01765'
+  localized_concepts:
+    eng: 1b6c5d42-bd54-5263-8bd3-f649eca6aff0
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: a46b01d4-1fe0-5e68-a392-14655fe19c82
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: combination of either a photon or an electron source and associated instrumentation
+      that provides uniform and reproducible absorbed dose, or absorbed dose rates,
+      at specified locations within a specific material. The absorbed dose shall be
+      traceable to national or international standards
+  examples: []
+  id: 01765-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1b6c5d42-bd54-5263-8bd3-f649eca6aff0

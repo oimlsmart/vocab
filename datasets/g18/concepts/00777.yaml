@@ -1,0 +1,44 @@
+data:
+  identifier: '00777'
+  localized_concepts:
+    eng: f4fc0130-718f-5d85-97df-ef95cf26abdc
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: aafdc103-8bac-5164-99ff-e3ec16e2053d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero by an operator
+  examples: []
+  id: 00777-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f4fc0130-718f-5d85-97df-ef95cf26abdc

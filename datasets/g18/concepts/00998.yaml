@@ -1,0 +1,45 @@
+data:
+  identifier: 00998
+  localized_concepts:
+    eng: af382682-da35-5be8-a406-a2dc3a43538d
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R079
+    ref_type: section
+status: valid
+id: 8e479ee3-35fe-5196-b45c-4c5f31c0ccf0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a package that is customarily produced or distributed for sale to final
+      purchasers through retail sales agencies or other means
+  examples: []
+  id: 00998-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R079:1997
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: consumer package
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: af382682-da35-5be8-a406-a2dc3a43538d

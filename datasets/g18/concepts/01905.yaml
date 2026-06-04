@@ -1,0 +1,45 @@
+data:
+  identifier: 01905
+  localized_concepts:
+    eng: 1d120cdb-42b4-5634-9c55-88a0f24784de
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 461f61e8-71ee-5897-9626-7e2a96dde570
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of a measuring instrument determined under reference conditions
+  examples: []
+  id: 01905-eng
+  notes:
+  - content: '[VIM:1993, 5.24]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1d120cdb-42b4-5634-9c55-88a0f24784de

@@ -1,0 +1,46 @@
+data:
+  identifier: '00733'
+  localized_concepts:
+    eng: 2613f6a7-a9d1-55a6-90fd-a0b009e72e31
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: ebda460e-0ba1-520b-ac04-aed7ea768799
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between load cell output readings for the same applied load,
+      one reading obtained by increasing the load from minimum load, Dmin, and the
+      other by decreasing the load from maximum load, Dmax
+  examples: []
+  id: 00733-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hysteresis error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2613f6a7-a9d1-55a6-90fd-a0b009e72e31

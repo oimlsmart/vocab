@@ -1,0 +1,45 @@
+data:
+  identifier: '00501'
+  localized_concepts:
+    eng: 01a57fd3-1811-5c41-b281-946c19375068
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.7.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 29529875-111b-53e3-afb2-b55cb91bd913
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that indicates the mass of the loads conveyed over a limited
+      period
+  examples: []
+  id: 00501-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.7.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: partial totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 01a57fd3-1811-5c41-b281-946c19375068

@@ -1,0 +1,46 @@
+data:
+  identifier: '01060'
+  localized_concepts:
+    eng: d6b836c2-4898-505a-8056-1597d7b11913
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: b6902ea4-17a1-5faf-a506-5940da4ad075
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: closeness of agreement between results of successive measurements of
+      the same measurand carried out under the same conditions and within a relatively
+      short period of time
+  examples: []
+  id: 01060-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d6b836c2-4898-505a-8056-1597d7b11913

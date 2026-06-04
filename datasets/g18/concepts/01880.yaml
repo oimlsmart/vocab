@@ -1,0 +1,45 @@
+data:
+  identifier: 01880
+  localized_concepts:
+    eng: c44a7074-4e70-5f47-91e4-52cbc3f0c918
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 3f30135d-4b5d-543b-9676-f93905d489eb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of operations, performed manually, semi-automatically or automatically,
+      having the object of determining a value of a quantity
+  examples: []
+  id: 01880-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c44a7074-4e70-5f47-91e4-52cbc3f0c918

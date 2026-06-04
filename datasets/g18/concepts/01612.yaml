@@ -1,0 +1,46 @@
+data:
+  identifier: '01612'
+  localized_concepts:
+    eng: ae17d396-1a49-5aaa-88f3-7a6921565cf4
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+    locality:
+      type: clause
+      reference_from: '7'
+    type: authoritative
+  domains:
+  - concept_id: section-R124
+    ref_type: section
+status: valid
+id: 165f2925-786f-50d2-8a38-6ffec4a9887c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (a a set of specified values of influence factors fixed to ensure valid
+      inter-comparison of results dapted from VIM:1993, clause 5.7 in D 11 clause
+      T.14)
+  examples: []
+  id: 01612-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+      locality:
+        type: clause
+        reference_from: '7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ae17d396-1a49-5aaa-88f3-7a6921565cf4

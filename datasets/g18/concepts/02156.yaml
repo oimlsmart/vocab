@@ -1,0 +1,45 @@
+data:
+  identifier: '02156'
+  localized_concepts:
+    eng: 115d5bda-88c9-5317-b1a8-3fdd018ce980
+  sources:
+  - origin:
+      ref:
+        source: OIML D029:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D029
+    ref_type: section
+status: valid
+id: b282fc31-564b-5767-8bda-164db008c2b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-2 person on the staff of the certification body who is in charge
+      of the type evaluation of a measuring instrument'
+  examples: []
+  id: 02156-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D029:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: evaluator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 115d5bda-88c9-5317-b1a8-3fdd018ce980

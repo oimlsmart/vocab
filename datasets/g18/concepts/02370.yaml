@@ -1,0 +1,44 @@
+data:
+  identifier: '02370'
+  localized_concepts:
+    eng: e85a8353-83ce-5d29-a796-b72a9f294c17
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.35'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: f5e8dc71-848f-5723-b1ce-dfbeee88ef35
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of the number without regard to its sign
+  examples: []
+  id: 02370-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.35'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: modulus (of a number) absolute value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e85a8353-83ce-5d29-a796-b72a9f294c17

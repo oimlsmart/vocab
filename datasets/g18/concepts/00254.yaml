@@ -1,0 +1,46 @@
+data:
+  identifier: '00254'
+  localized_concepts:
+    eng: c2e390b2-6c4d-5ec7-bacc-28ae4b92ddcb
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.21'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: b052c28b-33d0-50fc-b145-1be40bbbf292
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'primary external source of electrical power for an instrument, including
+      all sub-assemblies. (Examples: public power (AC or DC), generator, external
+      battery or other DC supply systems)'
+  examples: []
+  id: 00254-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mains power
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c2e390b2-6c4d-5ec7-bacc-28ae4b92ddcb

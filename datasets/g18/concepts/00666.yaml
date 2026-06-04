@@ -1,0 +1,45 @@
+data:
+  identifier: '00666'
+  localized_concepts:
+    eng: 8f7291d0-baf0-5eb7-8a7d-97d6958b51a3
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 1cbfcad9-6be8-5c0f-b8de-1427a72c4d9d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the limits specified in this
+      Recommendation but outside the rated operating conditions ofthe instrument
+  examples: []
+  id: 00666-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8f7291d0-baf0-5eb7-8a7d-97d6958b51a3

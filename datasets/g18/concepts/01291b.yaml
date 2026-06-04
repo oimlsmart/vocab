@@ -1,0 +1,45 @@
+data:
+  identifier: 01291b
+  localized_concepts:
+    eng: d214f196-8851-5218-8e3e-03b23c4a66e1
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.7
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 928906fd-2e94-51e2-b188-feb3d3535e09
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of an instrument to maintain its performance characteristics
+      over a period of use
+  examples: []
+  id: 01291b-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d214f196-8851-5218-8e3e-03b23c4a66e1

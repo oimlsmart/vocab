@@ -1,0 +1,45 @@
+data:
+  identifier: '01051'
+  localized_concepts:
+    eng: 4cf1e9f3-66bd-5636-a5a9-035096eba9b9
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: 4707e786-cf79-5513-83d4-f19a22fda6e6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: removal of a sample component from the stationary phase by the mobile
+      phase in the gas chromatographic column
+  examples: []
+  id: 01051-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4cf1e9f3-66bd-5636-a5a9-035096eba9b9

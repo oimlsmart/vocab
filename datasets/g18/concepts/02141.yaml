@@ -1,0 +1,44 @@
+data:
+  identifier: '02141'
+  localized_concepts:
+    eng: 156756a5-37ee-5477-aca6-b2cfe19fac82
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 15c9e5cc-00bd-5548-8a6c-72ac0a9a9395
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: result of measurement minus the reference value of the measurand
+  examples: []
+  id: 02141-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absolute error of measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 156756a5-37ee-5477-aca6-b2cfe19fac82

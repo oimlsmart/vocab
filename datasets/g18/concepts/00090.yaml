@@ -1,0 +1,49 @@
+data:
+  identifier: 00090
+  localized_concepts:
+    eng: c409c2f9-6602-5cc5-b2a9-c4aafa6ab235
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.12'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: 8a766720-fefe-5da1-b1b1-1e5dfdaa3887
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Report, prepared according to the Test Report Format specified For the
+      implementation of the System, the in the relevant Recommendation, that gives
+      the results of the Test examinations and testing carried out during type evaluation
+      on refe an identified sample or samples of a given type and a conclusion as
+      to whether the sample or samples meet the specified requirements
+  examples: []
+  id: 00090-eng
+  notes:
+  - content: Report constitutes the evaluation report rred to in 2.7.
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test report
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c409c2f9-6602-5cc5-b2a9-c4aafa6ab235

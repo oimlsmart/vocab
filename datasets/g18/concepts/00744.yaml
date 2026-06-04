@@ -1,0 +1,44 @@
+data:
+  identifier: '00744'
+  localized_concepts:
+    eng: 266c4246-fdef-51db-bc2d-ec8f228b32ac
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.17
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: df0fa898-2244-55cc-a537-fe7400de5690
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: change in sensitivity due to a change in ambient temperature
+  examples: []
+  id: 00744-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.17
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temperature effect on sensitivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 266c4246-fdef-51db-bc2d-ec8f228b32ac

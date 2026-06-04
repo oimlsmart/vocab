@@ -1,0 +1,44 @@
+data:
+  identifier: '01226'
+  localized_concepts:
+    eng: 5cb1ff34-1e45-5f13-95cc-19690bb210ce
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.13.3
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 759b60e7-5726-5e83-bc93-5263987dc4f1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that displays the data transmitted from the calculator
+  examples: []
+  id: 01226-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.13.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5cb1ff34-1e45-5f13-95cc-19690bb210ce

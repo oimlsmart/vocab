@@ -1,0 +1,45 @@
+data:
+  identifier: '01035'
+  localized_concepts:
+    eng: e9c216a7-1df5-56e9-a501-68bfc9e4c4d1
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.26'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: ee611ca1-b493-54ea-a00e-611d3e56e0f2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value within the rated operating conditions
+      of the measuring system, as specified in this Recommendation
+  examples: []
+  id: 01035-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e9c216a7-1df5-56e9-a501-68bfc9e4c4d1

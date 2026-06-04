@@ -1,0 +1,47 @@
+data:
+  identifier: 01696
+  localized_concepts:
+    eng: 244c28b1-e308-5b1c-a687-9a2fbfaf03ee
+  sources:
+  - origin:
+      ref:
+        source: OIML R128:2000
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R128
+    ref_type: section
+status: valid
+id: 2a036a34-74c7-5965-82b0-026dba18989b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the basic handle position H is defined by the vertical distance CH from
+      the center C of the foot crank bearing to the handle connection point and by
+      the horizontal distance SH from the saddle position S to the handle connection
+      point (see Fig. 1)
+  examples: []
+  id: 01696-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R128:2000
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: basic handle position H
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 244c28b1-e308-5b1c-a687-9a2fbfaf03ee

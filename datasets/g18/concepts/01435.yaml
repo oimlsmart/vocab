@@ -1,0 +1,46 @@
+data:
+  identifier: '01435'
+  localized_concepts:
+    eng: 6075ba65-0511-5b54-922d-fba6186e7891
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.4.7
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 95ab30ea-2310-565c-978f-9b757a1cc19a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the set of operations which establishes, under specified conditions,
+      the relationship between the values of pressure indicated by a pressure balance
+      and the corresponding values of pressure realized by a reference standard
+  examples: []
+  id: 01435-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.4.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6075ba65-0511-5b54-922d-fba6186e7891

@@ -1,0 +1,45 @@
+data:
+  identifier: '01502'
+  localized_concepts:
+    eng: 63645bc8-d523-5ce4-b7af-cbe3da76bff2
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.15'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 675d0c92-f280-5c3b-be16-0946300feabc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the elapsed time between injection of a sample and the appearance of
+      the maximum output peak of the component of interest
+  examples: []
+  id: 01502-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retention time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 63645bc8-d523-5ce4-b7af-cbe3da76bff2

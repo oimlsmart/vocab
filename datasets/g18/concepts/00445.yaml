@@ -1,0 +1,46 @@
+data:
+  identifier: '00445'
+  localized_concepts:
+    eng: ac0629ac-6b65-549e-81f9-76cc7f6e22d1
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.8
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 0794a42f-8434-56c0-8691-15fb2234f847
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum internal pressure that a water meter can withstand permanently,
+      within its rated operating conditions, without deterioration of its metrological
+      performance
+  examples: []
+  id: 00445-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum admissible pressure (MAP)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ac0629ac-6b65-549e-81f9-76cc7f6e22d1

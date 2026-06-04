@@ -1,0 +1,46 @@
+data:
+  identifier: '00562'
+  localized_concepts:
+    eng: 950f4673-572a-5c2b-ad9a-90875af75f99
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: b0ecb7c9-23ee-51ce-bb0c-0bb2f93cad23
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: catchweigher that sub-divides prepackages of different mass into two
+      or more sub-groups according to the value of the difference between their mass
+      and the nominal set point
+  examples: []
+  id: 00562-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checkweigher
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 950f4673-572a-5c2b-ad9a-90875af75f99

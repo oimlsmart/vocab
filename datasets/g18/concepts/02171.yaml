@@ -1,0 +1,44 @@
+data:
+  identifier: '02171'
+  localized_concepts:
+    eng: a3a11fbd-f4be-5aa6-bbdc-3d082b941e8c
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: e1b0381f-104a-59bd-97e9-896fe7e042a0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: result of the process of authentication (passed or failed)
+  examples: []
+  id: 02171-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: authenticity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a3a11fbd-f4be-5aa6-bbdc-3d082b941e8c

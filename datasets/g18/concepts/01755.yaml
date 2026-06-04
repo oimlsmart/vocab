@@ -1,0 +1,45 @@
+data:
+  identifier: '01755'
+  localized_concepts:
+    eng: d099c667-52ae-5e08-9a42-4d73146f243e
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R131
+    ref_type: section
+status: valid
+id: 5383267e-6311-5409-9c5e-d6540bcb7c07
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of values of absorbed dose for which the error of the dosimetry system
+      is intended to lie within specified limits
+  examples: []
+  id: 01755-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R131:2001
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorbed dose working range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d099c667-52ae-5e08-9a42-4d73146f243e

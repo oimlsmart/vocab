@@ -1,0 +1,46 @@
+data:
+  identifier: '02260'
+  localized_concepts:
+    eng: 6c48be13-94d2-51de-a119-2ed3befb6b6b
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.21'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 83c6f505-0aa5-5f34-a0ad-a0def273e1d8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: table which shows the relation between the liquid level and the volume
+      contained in the tank (compartment) at that level under reference conditions
+      (including the position of the tank)
+  examples: []
+  id: 02260-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tank capacity table
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6c48be13-94d2-51de-a119-2ed3befb6b6b

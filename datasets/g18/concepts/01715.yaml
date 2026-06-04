@@ -1,0 +1,45 @@
+data:
+  identifier: '01715'
+  localized_concepts:
+    eng: eeee79e1-427c-5b6a-9a51-f8f1eabc8bc0
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 1064f194-bbb9-5ee4-8edd-36903d09f693
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of the dimension for each axis below which the measuring result
+      may be subject to an excessive relative error
+  examples: []
+  id: 01715-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum dimension (min)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eeee79e1-427c-5b6a-9a51-f8f1eabc8bc0

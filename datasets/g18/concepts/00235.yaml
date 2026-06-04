@@ -1,0 +1,52 @@
+data:
+  identifier: '00235'
+  localized_concepts:
+    eng: 5f0be40e-382d-5998-b930-6a87dc6c552e
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 030716dc-e314-50d7-9ef9-ca9aee09c08d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: durability error greater than the value specified in the relevant The
+      relevant Recommendation may specify Recommendation
+  examples: []
+  id: 00235-eng
+  notes:
+  - content: 'that durability errors are not significant, even when they exceed the
+      value defined in 3.12, in the following cases: (a) The indication cannot be
+      interpreted, memorized or transmitted as a measurement result; (b) The indication
+      implies the impossibility to perform any measurement; (c) The indication is
+      so obviously wrong that it is bound to be noticed by all those intereste in
+      the result of the measurement; or (d) A durability error cannot be detected
+      and acted upon due to a breakdown of the appropriate durability protection facility.'
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant durability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5f0be40e-382d-5998-b930-6a87dc6c552e

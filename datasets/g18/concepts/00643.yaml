@@ -1,0 +1,44 @@
+data:
+  identifier: '00643'
+  localized_concepts:
+    eng: 99158485-ba77-5788-aeb6-9d5de1f2956d
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: ddd2daf3-a50b-5532-b6ff-364bfbc7929d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: static weighing mode for test purposes
+  examples: []
+  id: 00643-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic (static) operation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 99158485-ba77-5788-aeb6-9d5de1f2956d

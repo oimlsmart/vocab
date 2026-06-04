@@ -1,0 +1,47 @@
+data:
+  identifier: '00266'
+  localized_concepts:
+    eng: cab35bd4-ac1c-5ca4-9622-1534f895fd5c
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+    locality:
+      type: clause
+      reference_from: '2.9'
+    type: authoritative
+  domains:
+  - concept_id: section-D015
+    ref_type: section
+status: valid
+id: d872b445-e7c7-5ee9-a190-140a87a62dbd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: procedures for control exercised in respect of the manufacture, installation
+      and repair of measuring instruments, or in respect of their use, to check that
+      they are used correctly and honestly. It extends also to control of correctness
+      of the quantities indicated on prepacked articles [VML 2.6].
+  examples: []
+  id: 00266-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D015:1986
+      locality:
+        type: clause
+        reference_from: '2.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metrological supervision
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cab35bd4-ac1c-5ca4-9622-1534f895fd5c

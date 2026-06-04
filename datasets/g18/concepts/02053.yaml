@@ -1,0 +1,48 @@
+data:
+  identifier: '02053'
+  localized_concepts:
+    eng: 2b9bbb76-665f-520d-949f-d2cbb33cb6a1
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.12
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 2008e081-93c4-5471-9802-ba9ce4a680b0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: -- 1. In this Recommendation the wording
+  examples: []
+  id: 02053-eng
+  notes:
+  - content: “conversion device” covers conversion devices as such, as well as the
+      conversion function in a calculator.
+  - content: 2. A calculator, a correction device and a conversion device may be combined
+      in a single unit.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conversion device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2b9bbb76-665f-520d-949f-d2cbb33cb6a1

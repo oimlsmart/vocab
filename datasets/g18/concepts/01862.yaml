@@ -1,0 +1,52 @@
+data:
+  identifier: 01862
+  localized_concepts:
+    eng: 405c4be8-246e-5b4c-8a9f-2a14e37c8f8c
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.23'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 13af0db5-46b5-5fad-b9e0-f13b5ba88e67
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fraction of the signal recorded by the detector for radiation of all
+      1. The false radiation fraction has the wavelengths outside the 1.01-fold of
+      the one-hundredth value width out of the total signal at a particular wavelength
+      setting
+  examples: []
+  id: 01862-eng
+  notes:
+  - content: dimension one and is expressed with the derived coherent SI unit one
+      (1).
+  - content: 2. Radiation entering the spectrophotometer from the outside through
+      leaks is not include by this concept.
+  - content: 3. Adapted from [5], clause 5.3.
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: false radiation fraction
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 405c4be8-246e-5b4c-8a9f-2a14e37c8f8c

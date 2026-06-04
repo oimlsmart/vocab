@@ -1,0 +1,45 @@
+data:
+  identifier: 02195
+  localized_concepts:
+    eng: 04c81d1d-e2fd-59a7-a55b-2e3dff88178d
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.28
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 9a57e213-e9b1-510d-abe3-f3dbc81a87f7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of a measuring instrument, determined under reference conditions
+  examples: []
+  id: 02195-eng
+  notes:
+  - content: '[VIM:1993, 5.24; OIML D 11:2004, 3.7]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.28
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 04c81d1d-e2fd-59a7-a55b-2e3dff88178d

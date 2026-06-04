@@ -1,0 +1,45 @@
+data:
+  identifier: '00654'
+  localized_concepts:
+    eng: f18641c8-6d44-51aa-b29e-2b1f88491a2c
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 01840a98-4c2e-59c1-bb24-55df7dbf3e12
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V indication of an instrument minus the (conventional) true value ofthe
+      mass IM:1993, 5.20]'
+  examples: []
+  id: 00654-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f18641c8-6d44-51aa-b29e-2b1f88491a2c

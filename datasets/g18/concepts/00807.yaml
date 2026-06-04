@@ -1,0 +1,46 @@
+data:
+  identifier: 00807
+  localized_concepts:
+    eng: 3badfc5f-b762-5fbc-9c95-0ef89a1023a4
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.7
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: ae5ef508-30e6-5165-b652-c840e68a5fb8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: capability of an instrument to maintain the difference between the indication
+      of weight at maximum capacity and the indication atzero within specified limits
+      over a period of use
+  examples: []
+  id: 00807-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: span stability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3badfc5f-b762-5fbc-9c95-0ef89a1023a4

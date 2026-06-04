@@ -1,0 +1,49 @@
+data:
+  identifier: '00412'
+  localized_concepts:
+    eng: a1e4d73e-a414-5464-8c75-eedfe755a210
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: a7200e61-d645-52bc-9ce6-384cbd255da3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the meter which transforms the flow or the volume of the For
+      the purposes of this Recommendation, the water to be measured into signals which
+      are passed to the measure calculator. It can be based on a mechanical, or an
+      electrical, or sensor an electronic principle. It may be autonomous or use an
+      external power source
+  examples: []
+  id: 00412-eng
+  notes:
+  - content: ment transducer includes the flow or volume sensor
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a1e4d73e-a414-5464-8c75-eedfe755a210

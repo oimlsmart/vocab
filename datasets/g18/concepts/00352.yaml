@@ -1,0 +1,47 @@
+data:
+  identifier: '00352'
+  localized_concepts:
+    eng: b6a7ef95-dbf1-5d79-8133-169ef17caf3e
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.8.2
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 68dcb6f8-9c38-5c01-b269-b5a38b75ab30
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: legally relevant parameter with a value that depends on the type of taximeter
+      only. They are fixed at type approval of the taximeter. Examples of type-specific
+      parameters include software identification and parameters used for fare calculation
+      and rounding
+  examples: []
+  id: 00352-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.8.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type-specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b6a7ef95-dbf1-5d79-8133-169ef17caf3e

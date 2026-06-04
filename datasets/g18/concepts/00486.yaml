@@ -1,0 +1,45 @@
+data:
+  identifier: 00486
+  localized_concepts:
+    eng: 7c822484-c703-5de7-bcab-3ee05aed79c7
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 9c161514-da69-5d0d-916e-e9fccd690708
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a belt weigher that is installed with a conveyor belt designed to operate
+      at a single speed, designated in this Recommendation as the nominal speed
+  examples: []
+  id: 00486-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single speed beltweigher
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7c822484-c703-5de7-bcab-3ee05aed79c7

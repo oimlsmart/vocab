@@ -1,0 +1,45 @@
+data:
+  identifier: 01917
+  localized_concepts:
+    eng: 37c9f537-4b9f-53ef-9d0e-1a2d74804e29
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 7c96b515-f123-5d64-8609-8296c6c02345
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the limits specified in this
+      Recommendation but outside the rated operating conditions ofthe instrument
+  examples: []
+  id: 01917-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 37c9f537-4b9f-53ef-9d0e-1a2d74804e29

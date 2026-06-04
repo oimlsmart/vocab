@@ -1,0 +1,47 @@
+data:
+  identifier: 00099
+  localized_concepts:
+    eng: e064c4e4-baef-5591-848a-8d1bd5698efd
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 36001682-e9c5-5316-bf3b-f041e53b2dd8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: report which accompanies an OIML Certificate of Conformity under the
+      OIML Certificate System
+  examples: []
+  id: 00099-eng
+  notes:
+  - content: The OIML Test Report shall always be accompanied by the OIML Certificate
+      of Conformity which validates it.
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OIML Test Report
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e064c4e4-baef-5591-848a-8d1bd5698efd

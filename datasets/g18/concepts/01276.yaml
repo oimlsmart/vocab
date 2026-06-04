@@ -1,0 +1,46 @@
+data:
+  identifier: '01276'
+  localized_concepts:
+    eng: 0576b96b-02b6-5462-8447-c7614f41231d
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.1.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 5d54c02e-c2a1-5bca-872e-c591d960feaf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing-in-motion of wagons that travel independently across a load
+      receptor. (This is usually achieved by means of an incline of the approach to
+      the load receptor)
+  examples: []
+  id: 01276-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.1.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncoupled wagon weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0576b96b-02b6-5462-8447-c7614f41231d

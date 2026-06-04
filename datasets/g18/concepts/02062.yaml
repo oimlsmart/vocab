@@ -1,0 +1,48 @@
+data:
+  identifier: '02062'
+  localized_concepts:
+    eng: 54a1861c-389d-5b8c-a9f4-a41bb4fd3608
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.19
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 71cf386a-db91-5e10-bb00-cfc2e8182392
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: communication, physical or not, between elements of a measuring system
+      ensuring that information transferred from one of these elements to another
+      may not be tampered with by the user, by external influences or by fault of
+      the system
+  examples: []
+  id: 02062-eng
+  notes:
+  - content: This is accomplished by sealing devices and/or checking facilities.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.19
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secured communication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 54a1861c-389d-5b8c-a9f4-a41bb4fd3608

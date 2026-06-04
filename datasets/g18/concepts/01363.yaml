@@ -1,0 +1,44 @@
+data:
+  identifier: '01363'
+  localized_concepts:
+    eng: d7bc5006-de70-59dc-b506-bc2965eb3fe4
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: b655e99e-9f3c-5945-bbf8-1982ea27b167
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest discrete load that can be weighed automatically
+  examples: []
+  id: 01363-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum capacity, Min
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d7bc5006-de70-59dc-b506-bc2965eb3fe4

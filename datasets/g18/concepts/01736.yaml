@@ -1,0 +1,44 @@
+data:
+  identifier: '01736'
+  localized_concepts:
+    eng: 04090e9e-7322-574b-b5cf-24649c51fe05
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: 2.33.2
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 05fd5003-3c21-5598-98ca-4af0a955b15a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a description of a series of tests for a certain type of equipment
+  examples: []
+  id: 01736-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: 2.33.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test program
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 04090e9e-7322-574b-b5cf-24649c51fe05

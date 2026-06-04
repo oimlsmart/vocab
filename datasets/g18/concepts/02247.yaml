@@ -1,0 +1,44 @@
+data:
+  identifier: '02247'
+  localized_concepts:
+    eng: 1fde50a4-4014-52a2-9738-b1222963abe3
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: a1caeb1b-f0e2-51e3-a6eb-e04c5a50414c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between total and nominal capacity
+  examples: []
+  id: 02247-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: expansion volume
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1fde50a4-4014-52a2-9738-b1222963abe3

@@ -1,0 +1,44 @@
+data:
+  identifier: 00947
+  localized_concepts:
+    eng: adfb3fde-9dd3-564c-867c-48a412db3224
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 9b4532aa-1f91-5344-9abe-89c595dd77d4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: distance between any two consecutive scale marks
+  examples: []
+  id: 00947-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale spacing (instrument with analog indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: adfb3fde-9dd3-564c-867c-48a412db3224

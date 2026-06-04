@@ -1,0 +1,51 @@
+data:
+  identifier: '00102'
+  localized_concepts:
+    eng: 05d3a662-5206-5c38-aab1-afe37f16b82b
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.11'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 61917415-afa6-5e21-8575-8af989955adf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: C certifying body in an OIML Member State, designated by its The OIML
+      Issuing Authority may or may not IML Member, that issues OIML Certificates of
+      Conformity for be th aparticular category of instruments Issui gover term docum
+      both Issui
+  examples: []
+  id: 00102-eng
+  notes:
+  - content: e same organization as the National ng Authority whose responsibilities
+      are ned by national regulations. When the “Issuing Authority” is used in this
+      ent without being further qualified, “OIML Issuing Authority” and “National
+      ng Authority” are assumed.
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OIML Issuing Authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 05d3a662-5206-5c38-aab1-afe37f16b82b

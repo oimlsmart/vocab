@@ -1,0 +1,46 @@
+data:
+  identifier: 01579
+  localized_concepts:
+    eng: bda84019-a320-5e2b-b1ed-7569991ffada
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.i.4
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: b87865b1-2069-5a32-967c-698fed9761c7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an interruptible measuring system is a measuring system in which the
+      liquid flow can be stopped easily and rapidly (this does not include an emergency
+      stop). In other cases the measuring system is considered to be non-interruptible
+  examples: []
+  id: 01579-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.i.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interruptible and non-interruptible measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bda84019-a320-5e2b-b1ed-7569991ffada

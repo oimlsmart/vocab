@@ -1,0 +1,46 @@
+data:
+  identifier: '00406'
+  localized_concepts:
+    eng: 777b3325-b37b-56a6-8a55-8f56eb4ca100
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R048
+    ref_type: section
+status: valid
+id: 34835e8c-b52f-59c4-8e17-2b1be347cb11
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: variation in the temperature of a tungsten ribbon. The temperature instability
+      is characterized by a temperature equivalent to the current change in the lamp
+      circuit per 1 hour
+  examples: []
+  id: 00406-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R048:2004
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instability of the calibration characteristic
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 777b3325-b37b-56a6-8a55-8f56eb4ca100

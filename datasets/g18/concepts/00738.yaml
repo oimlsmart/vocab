@@ -1,0 +1,46 @@
+data:
+  identifier: 00738
+  localized_concepts:
+    eng: 83651579-4eb5-5f19-9fee-8b59c1a85d3d
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.11
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: c631ca48-8afa-5806-ad8a-e6b4c8447e5b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of a load cell to provide successive results that are in agreement
+      when the same load is applied several times and applied in the same manner on
+      the load cell under constant test conditions [Adapted from VIM:1993, 5.27]
+  examples: []
+  id: 00738-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 83651579-4eb5-5f19-9fee-8b59c1a85d3d

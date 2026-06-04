@@ -1,0 +1,45 @@
+data:
+  identifier: '00740'
+  localized_concepts:
+    eng: ada69e45-d60f-58ff-9f9f-c4df48ce218b
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.13
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 986c1d6e-329d-548a-92a3-b110e17122f5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ratio of a change in response (output) of a load cell to a corresponding
+      change in the stimulus (load applied)
+  examples: []
+  id: 00740-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.13
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ada69e45-d60f-58ff-9f9f-c4df48ce218b

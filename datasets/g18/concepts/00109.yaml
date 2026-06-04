@@ -1,0 +1,45 @@
+data:
+  identifier: 00109
+  localized_concepts:
+    eng: e88c087a-79ed-596b-87e0-0942e720413c
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.18'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 054dc3de-d0a9-5c4c-92a0-8bc98b9d591e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Issuing Authority or National Responsible Body of an OIML Member State
+      that accedes to a DoMC
+  examples: []
+  id: 00109-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.18'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Participant
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e88c087a-79ed-596b-87e0-0942e720413c

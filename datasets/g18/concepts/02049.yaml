@@ -1,0 +1,46 @@
+data:
+  identifier: 02049
+  localized_concepts:
+    eng: 31ad14c8-4d47-5b24-84ed-33e1f94ff35a
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.9
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 1e761c32-8430-5206-9aba-690d9bb17373
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument for measuring certain measurands which are characteristic
+      of the gas (temperature, pressure, calorific value, etc.) and which are used
+      by the calculator with a view to making a correction and/or a conversion
+  examples: []
+  id: 02049-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: associated measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 31ad14c8-4d47-5b24-84ed-33e1f94ff35a

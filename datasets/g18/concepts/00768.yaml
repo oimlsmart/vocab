@@ -1,0 +1,44 @@
+data:
+  identifier: 00768
+  localized_concepts:
+    eng: 4de1d042-0c93-55e9-b661-ad87457a6910
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.4.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 9cf5f0f1-33c5-5f21-9f3d-9065aea15daf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which allows the setting of the preset value of the fill
+  examples: []
+  id: 00768-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.4.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fill setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4de1d042-0c93-55e9-b661-ad87457a6910

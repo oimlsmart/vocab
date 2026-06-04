@@ -1,0 +1,45 @@
+data:
+  identifier: '01377'
+  localized_concepts:
+    eng: 2b2be28e-2c1b-56aa-9b14-50ca737f63f6
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 034adac8-54c5-5ed0-bcaf-27e3aba1365c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication allowing the determination of equilibrium position to afraction
+      of the scale interval
+  examples: []
+  id: 01377-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analog indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2b2be28e-2c1b-56aa-9b14-50ca737f63f6

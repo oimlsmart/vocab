@@ -1,0 +1,44 @@
+data:
+  identifier: 01593
+  localized_concepts:
+    eng: b8980f4b-34e8-58f3-821d-414c02c07c35
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.q.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 4a78e5fa-8ac5-5ea9-bccb-99808a587fde
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: total volume or mass indicated by the meter
+  examples: []
+  id: 01593-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.q.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicated quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b8980f4b-34e8-58f3-821d-414c02c07c35

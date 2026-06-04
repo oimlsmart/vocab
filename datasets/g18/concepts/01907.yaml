@@ -1,0 +1,45 @@
+data:
+  identifier: 01907
+  localized_concepts:
+    eng: 540da631-32a8-56f5-ac19-78dcbd3387bd
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: ba7f696c-f3d7-5612-ae82-44367a5742da
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum deviation of the mean area of the leather from the true area
+      of the leather
+  examples: []
+  id: 01907-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible deviation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 540da631-32a8-56f5-ac19-78dcbd3387bd

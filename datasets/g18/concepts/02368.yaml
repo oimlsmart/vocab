@@ -1,0 +1,46 @@
+data:
+  identifier: 02368
+  localized_concepts:
+    eng: 48dd0b76-129a-58b4-b0c2-f788874f776d
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.33'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 59d6ccdf-05f1-5ccd-9060-f494a166c587
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: dimensionless value representative of the burning efficiency of anengine
+      in terms of the air/fuel ratio in the exhaust gases and determined with a referenced
+      standardized formula
+  examples: []
+  id: 02368-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.33'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lambda
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 48dd0b76-129a-58b4-b0c2-f788874f776d

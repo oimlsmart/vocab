@@ -1,0 +1,45 @@
+data:
+  identifier: 00862
+  localized_concepts:
+    eng: 6bb57d46-5cb1-5d03-ba2e-90b0cb4de3c6
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 4.9.4
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 2ac40018-e5b1-52cc-a27e-f7b05b73b562
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the intrinsic error after a period of use and the
+      initial intrinsic error
+  examples: []
+  id: 00862-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 4.9.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6bb57d46-5cb1-5d03-ba2e-90b0cb4de3c6

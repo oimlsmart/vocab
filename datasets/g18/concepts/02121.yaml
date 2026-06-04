@@ -1,0 +1,46 @@
+data:
+  identifier: '02121'
+  localized_concepts:
+    eng: 80de7c30-4bf5-53a1-a380-f27b22db4c03
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+    locality:
+      type: clause
+      reference_from: 2.4(annex 6)
+    type: authoritative
+  domains:
+  - concept_id: section-R142
+    ref_type: section
+status: valid
+id: 83523f26-12a4-5c89-abfe-c700f109d809
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: material, sufficiently homogeneous and stable regarding one or more properties,
+      used in calibration, in assignment of a value to another material or in quality
+      assurance
+  examples: []
+  id: 02121-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+      locality:
+        type: clause
+        reference_from: 2.4(annex 6)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference material (RM)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 80de7c30-4bf5-53a1-a380-f27b22db4c03

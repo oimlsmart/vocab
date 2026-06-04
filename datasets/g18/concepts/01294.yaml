@@ -1,0 +1,44 @@
+data:
+  identifier: 01294
+  localized_concepts:
+    eng: 3713b7b3-afbe-577a-936f-4a2815a03af4
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 03b2ad53-3cd5-56eb-9ef0-5ef411e0ceea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the error of an instrument under reference conditions
+  examples: []
+  id: 01294-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3713b7b3-afbe-577a-936f-4a2815a03af4

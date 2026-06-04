@@ -1,0 +1,46 @@
+data:
+  identifier: '00567'
+  localized_concepts:
+    eng: 4a9d5657-84b3-5d7d-b896-a53f7b09c5ae
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 579c23fe-f4d3-5ea2-9b18-b8aae54d6d17
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: material which is not packaged during and/or after the weighing process.
+      The material may be collected for weighing in the load receptor of the instrument
+      (e.g. front-end loader) or in a separate container (garbage weigher)
+  examples: []
+  id: 00567-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loose material
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4a9d5657-84b3-5d7d-b896-a53f7b09c5ae

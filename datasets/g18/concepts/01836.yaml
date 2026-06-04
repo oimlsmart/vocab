@@ -1,0 +1,45 @@
+data:
+  identifier: 01836
+  localized_concepts:
+    eng: fa0a296a-7e1a-5d03-8334-b9c7f1cdb554
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.6.4
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 84066b7b-4007-5e16-9619-5b7b45887099
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test to verify that the equipment under test (EUT) is capable of accomplishing
+      its intended functions
+  examples: []
+  id: 01836-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.6.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fa0a296a-7e1a-5d03-8334-b9c7f1cdb554

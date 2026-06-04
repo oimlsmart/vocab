@@ -1,0 +1,44 @@
+data:
+  identifier: 02018
+  localized_concepts:
+    eng: f276a53c-409a-5385-b7f7-c47ca7738bbf
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.9
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: bdbd329d-1f8a-5d31-bf50-e8bf2d51f305
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of a measuring system determined under reference conditions
+  examples: []
+  id: 02018-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f276a53c-409a-5385-b7f7-c47ca7738bbf

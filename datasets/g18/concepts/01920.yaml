@@ -1,0 +1,44 @@
+data:
+  identifier: 01920
+  localized_concepts:
+    eng: f366dd59-0df2-5398-a7f3-1c781a552235
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 38907f5e-42fc-506b-b8c3-3e6534b81c57
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of the measuring instrument to accomplish its intended functions
+  examples: []
+  id: 01920-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f366dd59-0df2-5398-a7f3-1c781a552235

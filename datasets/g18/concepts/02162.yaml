@@ -1,0 +1,49 @@
+data:
+  identifier: '02162'
+  localized_concepts:
+    eng: 19afa25a-0596-5aed-bff2-102333ca3b69
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+    locality:
+      type: clause
+      reference_from: '3'
+    type: authoritative
+  domains:
+  - concept_id: section-D030
+    ref_type: section
+status: valid
+id: 05ddcb97-45b7-5e28-b0d6-fd1ade8f4fcc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '- G.3-1 any Authority that is responsible for issuing Certificates within
+      a In the case of type evaluation, an Issuing specified system of legal metrology
+      control'
+  examples: []
+  id: 02162-eng
+  notes:
+  - content: Authority may be a national Type Approval Body and/or, for the implementation
+      of the OIML Mutual Acceptance Arrangement (MAA), an OIML Issuing Authority according
+      to 2.13 of OIML B 3 and 3.11 of B 10-1.
+  sources:
+  - origin:
+      ref:
+        source: OIML D030:2008
+      locality:
+        type: clause
+        reference_from: '3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Issuing Authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 19afa25a-0596-5aed-bff2-102333ca3b69

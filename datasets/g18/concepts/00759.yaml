@@ -1,0 +1,45 @@
+data:
+  identifier: 00759
+  localized_concepts:
+    eng: d973d340-c622-5e23-a8f4-308d70060858
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.8.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 2cbe153b-25be-5d65-b669-a20daabea2db
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic gravimetric filling instrument with one weighing unit with
+      the facility to effect the fill by more than one weighing cycle
+  examples: []
+  id: 00759-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.8.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cumulative weigher
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d973d340-c622-5e23-a8f4-308d70060858

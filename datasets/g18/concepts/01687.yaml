@@ -1,0 +1,48 @@
+data:
+  identifier: 01687
+  localized_concepts:
+    eng: 8927c495-ecf9-5fb2-91cb-faa0b3b3fd8b
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: 0587dc77-f715-5267-b4b3-d2556eb1412f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the closeness of agreement between the results of successive measurements
+      of the same sample carried out under the same conditions and within a relatively
+      short period of time
+  examples: []
+  id: 01687-eng
+  notes:
+  - content: The same conditions would include the same method of measurement, measuring
+      instrument, operator, location, and ambient environmental conditions.
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8927c495-ecf9-5fb2-91cb-faa0b3b3fd8b

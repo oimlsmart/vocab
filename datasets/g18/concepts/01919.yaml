@@ -1,0 +1,45 @@
+data:
+  identifier: 01919
+  localized_concepts:
+    eng: ddc1c45d-61b0-5603-90c9-ac538b68d2ba
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 671cd81d-9ede-5902-86c3-791d0b5db6f7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of specified values of influence factors fixed to ensure valid [VIM:1993,
+      5.7] intercomparison of the results of measurements
+  examples: []
+  id: 01919-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ddc1c45d-61b0-5603-90c9-ac538b68d2ba

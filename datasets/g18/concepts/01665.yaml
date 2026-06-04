@@ -1,0 +1,45 @@
+data:
+  identifier: '01665'
+  localized_concepts:
+    eng: 81944236-22c3-538b-9185-3bb5c58e23e2
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: c646e0f1-bf3d-5b71-9675-2f906b970f96
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: breath delivered from the mouth of a subject that originates from the
+      alveoli of the lungs, normally referred to as end-expiratory breath
+  examples: []
+  id: 01665-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: deep lung air
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 81944236-22c3-538b-9185-3bb5c58e23e2

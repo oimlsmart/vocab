@@ -1,0 +1,46 @@
+data:
+  identifier: 02184
+  localized_concepts:
+    eng: bedba8a8-3876-5e35-a910-24c3df74f0fd
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.17
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 36a99cf0-2466-58e1-9d14-32dfeaeccb9f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of a measuring instrument minus a true value of the corresponding
+      input quantity
+  examples: []
+  id: 02184-eng
+  notes:
+  - content: '[VIM:1993, 5.20; OIML D 11:2004, 3.5]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.17
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bedba8a8-3876-5e35-a910-24c3df74f0fd

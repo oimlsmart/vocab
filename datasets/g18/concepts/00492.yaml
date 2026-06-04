@@ -1,0 +1,49 @@
+data:
+  identifier: 00492
+  localized_concepts:
+    eng: f1fe3b07-7ce7-5bbb-b777-45473c983347
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: c0cb5f08-0d74-5e35-96af-1fe91536aaf5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device employing electronic sub-assemblies and performing a specific
+      function. An electronic device is usually manufactured as a separate unit and
+      is capable of being independently tested
+  examples: []
+  id: 00492-eng
+  notes:
+  - content: 'An electronic device, as defined above, may be a complete weighing instrument
+      (for example: counter scale) or part of a weighing instrument (for example:
+      printer, indicator).'
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f1fe3b07-7ce7-5bbb-b777-45473c983347

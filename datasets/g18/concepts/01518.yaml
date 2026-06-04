@@ -1,0 +1,45 @@
+data:
+  identifier: 01518
+  localized_concepts:
+    eng: 1993479e-a1b6-51d6-8fff-9c10a7d39ab6
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: ba63aabf-86f5-5f53-bfbb-72920fad3ae4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: flow of argon gas directed through the nebulizer for transporting the
+      aerosol sample through the injector and into the plasma
+  examples: []
+  id: 01518-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carrier flow
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1993479e-a1b6-51d6-8fff-9c10a7d39ab6

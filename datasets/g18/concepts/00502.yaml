@@ -1,0 +1,46 @@
+data:
+  identifier: '00502'
+  localized_concepts:
+    eng: d0d4f9c8-e951-551a-abc6-d43f95232222
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.7.3
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 8e1e263b-ec8c-50d7-a2fd-1253421aac9f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an indicating device with a scale interval greater than that of the general
+      totalization indicating device and intended to indicate themass of the loads
+      conveyed over a fairly long period of operation
+  examples: []
+  id: 00502-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.7.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: supplementary totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d0d4f9c8-e951-551a-abc6-d43f95232222

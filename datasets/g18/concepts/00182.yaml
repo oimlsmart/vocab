@@ -1,0 +1,45 @@
+data:
+  identifier: 00182
+  localized_concepts:
+    eng: 94b4d514-1982-5cfd-ba73-fffe83b7e60f
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+    locality:
+      type: clause
+      reference_from: '2.20'
+    type: authoritative
+  domains:
+  - concept_id: section-D027
+    ref_type: section
+status: valid
+id: fadc7407-0a99-5bb5-b713-ea65eddb6562
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: document certifying that the verification of a measuring instrument was
+      carried out with a satisfactory result [VIML 3.3]
+  examples: []
+  id: 00182-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+      locality:
+        type: clause
+        reference_from: '2.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification certificate
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 94b4d514-1982-5cfd-ba73-fffe83b7e60f

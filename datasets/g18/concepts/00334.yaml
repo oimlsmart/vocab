@@ -1,0 +1,45 @@
+data:
+  identifier: '00334'
+  localized_concepts:
+    eng: be5deba3-bfad-5372-8c6a-59172cd44b8a
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-2
+    ref_type: section
+status: valid
+id: fb054602-483e-53d8-86e4-6688b076ccdd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'mm procedure that corrects a deviation of the pressure reading to 0
+      kPa (0 mmHg) at atmospheric pressure (gauge pressure: 0 kPa (0 Hg))'
+  examples: []
+  id: 00334-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zero setting
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: be5deba3-bfad-5372-8c6a-59172cd44b8a

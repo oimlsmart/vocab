@@ -1,0 +1,45 @@
+data:
+  identifier: '00446'
+  localized_concepts:
+    eng: 43b097fa-35ab-51e2-b050-be663dbec8bb
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.9
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 2ce6eec0-f07e-5394-9ac5-803de790dab0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: average water temperature in the pipe measured upstream and downstream
+      of the water meter
+  examples: []
+  id: 00446-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working temperature, Tw
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 43b097fa-35ab-51e2-b050-be663dbec8bb

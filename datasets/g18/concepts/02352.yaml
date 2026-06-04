@@ -1,0 +1,45 @@
+data:
+  identifier: '02352'
+  localized_concepts:
+    eng: 8372be00-7f04-5b5e-9b22-8ebff54043c8
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.19'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: b40da8f5-dfc8-5765-bb59-ad69c4a4feea
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of measurement divided by the conventional true quantity value
+      of the measurand
+  examples: []
+  id: 02352-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8372be00-7f04-5b5e-9b22-8ebff54043c8

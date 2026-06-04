@@ -1,0 +1,50 @@
+data:
+  identifier: 01861
+  localized_concepts:
+    eng: abe35a40-5255-52c9-876c-ad7ef027e7bc
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.22'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 4791ba82-155d-562c-a93e-80976f2ce675
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between a higher and lower wavelength value at which the value
+      of an optical quantity is reduced to 1/100 of its maximum value between the
+      two wavelengths
+  examples: []
+  id: 01861-eng
+  notes:
+  - content: 1. The coherent SI unit is the metre (m), but often the nanometre (nm)
+      is used.
+  - content: 2. The optical quantity can be e.g. radiant luminous flux, absorbance,
+      etc.
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral width at one-hundredth maximum value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: abe35a40-5255-52c9-876c-ad7ef027e7bc

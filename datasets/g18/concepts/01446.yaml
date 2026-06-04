@@ -1,0 +1,46 @@
+data:
+  identifier: '01446'
+  localized_concepts:
+    eng: f4cd8969-74f5-5808-aa0c-c8d2733f1be0
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 30388d60-8ca0-5f80-8fa2-20c902651f76
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: “c standard that is used in a statistical control process to provide
+      a heck” to ensure that standards, measurement processes and results are within
+      acceptable statistical limits
+  examples: []
+  id: 01446-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: check standard
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f4cd8969-74f5-5808-aa0c-c8d2733f1be0

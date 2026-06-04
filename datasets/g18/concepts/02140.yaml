@@ -1,0 +1,44 @@
+data:
+  identifier: '02140'
+  localized_concepts:
+    eng: f1ab0ed6-003f-5c66-96a7-cc7b9660f67b
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: cf0390c4-2046-539b-aae2-841a871d0806
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: error of a gas analyzer, determined under reference conditions
+  examples: []
+  id: 02140-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f1ab0ed6-003f-5c66-96a7-cc7b9660f67b

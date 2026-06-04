@@ -1,0 +1,45 @@
+data:
+  identifier: 00228
+  localized_concepts:
+    eng: b202ef84-5e62-5859-963e-cb75b7f95850
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: b61acece-ae62-52fa-9760-1af1961d66eb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication of a measuring instrument minus a true value of the corresponding
+      input quantity [VIM, 5.20]
+  examples: []
+  id: 00228-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b202ef84-5e62-5859-963e-cb75b7f95850

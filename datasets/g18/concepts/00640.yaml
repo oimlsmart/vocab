@@ -1,0 +1,46 @@
+data:
+  identifier: '00640'
+  localized_concepts:
+    eng: 707a7e4b-c4e4-5108-9411-7853d776e03b
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 904d4f77-8e04-58e7-a62a-d7de9d3ce24c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument having two or more weighing ranges with different maximum
+      capacities and different scale intervals for the same load receptor, each range
+      extending from zero to its maximum capacity
+  examples: []
+  id: 00640-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multiple-range instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 707a7e4b-c4e4-5108-9411-7853d776e03b

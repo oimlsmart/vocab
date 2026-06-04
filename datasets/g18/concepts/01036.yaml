@@ -1,0 +1,46 @@
+data:
+  identifier: '01036'
+  localized_concepts:
+    eng: fe81e8d1-c21d-5484-9710-385b50dbcb90
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.27'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 8eacb88e-a28d-5835-bcb2-3995ca498650
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value within the limits specified in this
+      Recommendation, but outside the specified rated operating conditions of the
+      measuring system.
+  examples: []
+  id: 01036-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fe81e8d1-c21d-5484-9710-385b50dbcb90

@@ -1,0 +1,47 @@
+data:
+  identifier: 02185
+  localized_concepts:
+    eng: 01892784-5e74-545c-86d3-24e55f37a198
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.18
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 37b51a01-9019-5254-89ce-30a6f2f53f5e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: continuous data file containing an information record of failures/faults
+      that have an influence on the metrological characteristics. This especially
+      applies to volatile failures that are not recognizable afterwards when the measurement
+      values are used
+  examples: []
+  id: 02185-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.18
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error log
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 01892784-5e74-545c-86d3-24e55f37a198

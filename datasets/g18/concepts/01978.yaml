@@ -1,0 +1,45 @@
+data:
+  identifier: 01978
+  localized_concepts:
+    eng: 61b1a8f3-b9b7-5634-8adf-3b7fbdb85169
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 0c743946-0025-503a-929a-7e90d80438db
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest physical entity, which uses electron or gap conduction insemi-conductors,
+      or conduction by means of electrons or ions ingases or in a vacuum
+  examples: []
+  id: 01978-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic component
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 61b1a8f3-b9b7-5634-8adf-3b7fbdb85169

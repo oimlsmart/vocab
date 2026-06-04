@@ -1,0 +1,47 @@
+data:
+  identifier: '02000'
+  localized_concepts:
+    eng: fa7d6cc8-f08e-5ba3-a3b9-57bba255da06
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.12
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 3060c361-b94e-506b-82ca-0d618fb05d33
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device connected to or incorporated in the meter for automatically correcting
+      the mass, by taking into account the flowrate and/or the characteristics of
+      the gas to be measured (viscosity, temperature, pressure, etc.) and the pre-established
+      calibration curves
+  examples: []
+  id: 02000-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fa7d6cc8-f08e-5ba3-a3b9-57bba255da06

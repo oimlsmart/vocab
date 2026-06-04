@@ -1,0 +1,45 @@
+data:
+  identifier: '02037'
+  localized_concepts:
+    eng: 679a7916-6c66-5306-b8b6-0db65780da6e
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.5.7
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 6e3427e4-038c-51ba-a1f8-b0a7f09eb13b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility operating at least once, either at the beginning
+      or at the end of each measurement operation
+  examples: []
+  id: 02037-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.5.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermittent automatic checking facility (type I)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 679a7916-6c66-5306-b8b6-0db65780da6e

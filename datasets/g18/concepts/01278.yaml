@@ -1,0 +1,45 @@
+data:
+  identifier: 01278
+  localized_concepts:
+    eng: f73028c4-5dc1-58b2-8596-ff9dfa1a5ef0
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.1.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 0f459d6b-c13d-5692-a640-87bb486694d0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing-in-motion of a number of coupled wagons to obtain a totalized
+      weight of all the wagon weights
+  examples: []
+  id: 01278-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.1.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: train weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f73028c4-5dc1-58b2-8596-ff9dfa1a5ef0

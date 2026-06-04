@@ -1,0 +1,47 @@
+data:
+  identifier: 01951
+  localized_concepts:
+    eng: e50edb61-cc28-5c2c-8fe5-9ffd22c92bc4
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.15
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 2fd8f6a5-082f-588c-a3eb-4e33334a3bd0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use giving the range of values of the measurand and the
+      influence quantities, for which the errors of the gas meter are required to
+      be within the limits of the maximum permissible error
+  examples: []
+  id: 01951-eng
+  notes:
+  - content: '[adapted from VIM:1993, 5.5]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e50edb61-cc28-5c2c-8fe5-9ffd22c92bc4

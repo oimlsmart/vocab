@@ -1,0 +1,45 @@
+data:
+  identifier: '01613'
+  localized_concepts:
+    eng: 1cadff2b-07da-5215-a1af-db29f45082cc
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+    locality:
+      type: clause
+      reference_from: '8'
+    type: authoritative
+  domains:
+  - concept_id: section-R124
+    ref_type: section
+status: valid
+id: 3555bbaa-d649-5b82-8bed-9c26b5784095
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (V the error of an instrument used under reference conditions IM:1993,
+      clause 5.24 or D 11 clause T.6)
+  examples: []
+  id: 01613-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+      locality:
+        type: clause
+        reference_from: '8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1cadff2b-07da-5215-a1af-db29f45082cc

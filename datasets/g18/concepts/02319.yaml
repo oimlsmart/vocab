@@ -1,0 +1,48 @@
+data:
+  identifier: 02319
+  localized_concepts:
+    eng: 04db7d2a-ecfd-5c50-af4c-03a94218d111
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.21'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 5477f8c0-273f-5d59-91b6-5be3675dac9f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use, giving the range of values of influence quantities
+      for which the metrological characteristics are intended spec tolie within the
+      specified permissible errors bein quan
+  examples: []
+  id: 02319-eng
+  notes:
+  - content: The rated operating conditions generally ify intervals of values for
+      the quantity g measured and for any influence tity.
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 04db7d2a-ecfd-5c50-af4c-03a94218d111

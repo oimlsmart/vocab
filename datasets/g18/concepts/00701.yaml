@@ -1,0 +1,45 @@
+data:
+  identifier: '00701'
+  localized_concepts:
+    eng: 6b38cd54-d3fe-57eb-805a-51d07010bc52
+  sources:
+  - origin:
+      ref:
+        source: OIML R056:1981
+    locality:
+      type: clause
+      reference_from: '1.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R056
+    ref_type: section
+status: valid
+id: f6abd77b-e1c5-5bfd-877e-5425f5ed5125
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: determination of the cell-constant by means of the absolute or comparison
+      methods
+  examples: []
+  id: 00701-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R056:1981
+      locality:
+        type: clause
+        reference_from: '1.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration of the cell
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6b38cd54-d3fe-57eb-805a-51d07010bc52

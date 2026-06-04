@@ -1,0 +1,44 @@
+data:
+  identifier: '00702'
+  localized_concepts:
+    eng: 53738af5-9f73-5096-b2a7-dc18c3f784ac
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.1.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 43ec911a-f7a8-53e7-9f49-fd8f694aa490
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: compressive force applied to a load cell
+  examples: []
+  id: 00702-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.1.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: compression loading
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 53738af5-9f73-5096-b2a7-dc18c3f784ac

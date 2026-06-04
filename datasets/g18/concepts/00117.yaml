@@ -1,0 +1,46 @@
+data:
+  identifier: '00117'
+  localized_concepts:
+    eng: 6febe894-b764-5093-99b0-b09b5f2a971d
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.26'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 4e712fe0-371d-57c4-832d-eead47aa7180
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: committee, composed of one expert representing Participants of each Member
+      State and one representative from the BIML, established for each DoMC to carry
+      out tasks specified in 4.6 and 4.10
+  examples: []
+  id: 00117-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Committee on Participation Review
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6febe894-b764-5093-99b0-b09b5f2a971d

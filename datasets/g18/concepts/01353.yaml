@@ -1,0 +1,45 @@
+data:
+  identifier: '01353'
+  localized_concepts:
+    eng: a59e9f76-41eb-56f1-b7ac-467b21c0d289
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.8
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: b1e6066d-492d-5a80-b9ae-1f3af982b046
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: storage device used for keeping weighing data ready after completion
+      of the weighing for later legally relevant purposes
+  examples: []
+  id: 01353-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data storage device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a59e9f76-41eb-56f1-b7ac-467b21c0d289

@@ -1,0 +1,45 @@
+data:
+  identifier: 02118
+  localized_concepts:
+    eng: 292a645b-0646-5a14-bc77-0a19e8c9491b
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+    locality:
+      type: clause
+      reference_from: 2.4(annex 6)
+    type: authoritative
+  domains:
+  - concept_id: section-R142
+    ref_type: section
+status: valid
+id: dadda46e-fcc5-56ab-9347-b7398f07eadb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference of indication of a measuring system and the true value of
+      the measurand
+  examples: []
+  id: 02118-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+      locality:
+        type: clause
+        reference_from: 2.4(annex 6)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error of indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 292a645b-0646-5a14-bc77-0a19e8c9491b

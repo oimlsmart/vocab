@@ -1,0 +1,45 @@
+data:
+  identifier: 00358
+  localized_concepts:
+    eng: 7af2fad3-b0ad-58af-9fd6-8969c98c4b92
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.9
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: cde43457-d63b-5aa5-9a36-f0b2b7c710f5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: numbers and/or letters identifying the taxi or the national registration
+      number specified for the taxi
+  examples: []
+  id: 00358-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxi identification number
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7af2fad3-b0ad-58af-9fd6-8969c98c4b92

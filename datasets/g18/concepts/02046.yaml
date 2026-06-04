@@ -1,0 +1,48 @@
+data:
+  identifier: '02046'
+  localized_concepts:
+    eng: 5223b496-766c-526a-b665-c028239185fc
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: c24cd737-2d76-51ee-afbf-cfabe1d736a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'element or device, other than ancillary, required to ensure correct
+      measurement or intended to facilitate the measuring operations, or which could
+      in any way affect the measurement. Examples of additional devices are: - filter;
+      - flow conditioning device; - branch or by-pass line; - valves; - pressure reduction
+      devices located upstream or downstream of the meter; - sampling systems; - piping.'
+  examples: []
+  id: 02046-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: additional device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5223b496-766c-526a-b665-c028239185fc

@@ -1,0 +1,45 @@
+data:
+  identifier: '00347'
+  localized_concepts:
+    eng: 84833860-7fd5-5642-bb4d-e23c4ca81608
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 83e74db4-ec66-5c86-b880-4089de280e8d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device installed in a taxi that converts the distance to be measured
+      into pulses or digital data which are passed to the taximeter
+  examples: []
+  id: 00347-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distance measurement transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 84833860-7fd5-5642-bb4d-e23c4ca81608

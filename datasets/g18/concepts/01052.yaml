@@ -1,0 +1,45 @@
+data:
+  identifier: '01052'
+  localized_concepts:
+    eng: 91fdf622-7ac1-5099-abc0-ecb8417c15eb
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: 98687534-a9ef-547e-8e05-6cc3401f4303
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that can respond to eluted sample components in the carrier gas
+      emerging from the column
+  examples: []
+  id: 01052-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detector
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 91fdf622-7ac1-5099-abc0-ecb8417c15eb

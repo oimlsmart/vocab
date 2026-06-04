@@ -1,0 +1,45 @@
+data:
+  identifier: '00751'
+  localized_concepts:
+    eng: eac844dc-59bb-553d-aa25-1f300fe85ac3
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: ccba1602-8e95-56b0-9e71-79891bff8548
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: amount of material (or object) that can be carried at any one time byspecified
+      means
+  examples: []
+  id: 00751-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eac844dc-59bb-553d-aa25-1f300fe85ac3

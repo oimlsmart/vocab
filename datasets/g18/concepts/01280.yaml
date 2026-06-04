@@ -1,0 +1,45 @@
+data:
+  identifier: 01280
+  localized_concepts:
+    eng: 65d3795c-a7cc-5e03-b323-39cd82a5a1e5
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 46c2b814-23bf-509a-8482-812d7a2840b6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the largest load that an instrument is designed to weigh-in- motion without
+      totalizing
+  examples: []
+  id: 01280-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum capacity (Max)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 65d3795c-a7cc-5e03-b323-39cd82a5a1e5

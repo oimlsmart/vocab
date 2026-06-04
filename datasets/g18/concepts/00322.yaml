@@ -1,0 +1,44 @@
+data:
+  identifier: '00322'
+  localized_concepts:
+    eng: 6c8b6a3b-3c11-52ff-ad87-7a49277e34dd
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-2
+    ref_type: section
+status: valid
+id: 8169c952-6f89-568b-ad9b-f5c241e06bc2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: pressure in the arterial system of the body
+  examples: []
+  id: 00322-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-2:2002
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pressure in a blood vessel
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6c8b6a3b-3c11-52ff-ad87-7a49277e34dd

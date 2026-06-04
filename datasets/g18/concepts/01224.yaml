@@ -1,0 +1,46 @@
+data:
+  identifier: '01224'
+  localized_concepts:
+    eng: f5b71994-cab9-50dd-8ab9-f9362fdc0641
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.13.1
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 35a53357-7ccd-5a04-a0b3-7136f1be18c7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that transforms the flow of the liquid to be measured into signals
+      aimed at the calculator. It may be either autonomous or use an external power
+      source
+  examples: []
+  id: 01224-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.13.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring transducer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f5b71994-cab9-50dd-8ab9-f9362fdc0641

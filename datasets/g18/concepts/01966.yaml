@@ -1,0 +1,45 @@
+data:
+  identifier: 01966
+  localized_concepts:
+    eng: cb699785-d57b-5847-928f-8f59216e781e
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.10
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: e8141e9b-976b-54eb-ba17-89a3fd9f059e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: density of the gas flowing through the gas meter, corresponding to pw
+      and tw
+  examples: []
+  id: 01966-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working density, ρw
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cb699785-d57b-5847-928f-8f59216e781e

@@ -1,0 +1,46 @@
+data:
+  identifier: '01632'
+  localized_concepts:
+    eng: 3e27980b-5adf-5b4e-848f-faa11e7a7980
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.16
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 37c4035e-bdb6-5a29-99c4-2db3350815fb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the maximum measurable quantity as specified by the manufacturer of the
+      measurement transducer (for testing of devices) or of the calibrated tank for
+      installed instruments
+  examples: []
+  id: 01632-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.16
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum measured quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3e27980b-5adf-5b4e-848f-faa11e7a7980

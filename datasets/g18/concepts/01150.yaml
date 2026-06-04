@@ -1,0 +1,45 @@
+data:
+  identifier: '01150'
+  localized_concepts:
+    eng: 2a9a98ef-8fbd-58ee-bb94-b271fd07e5ce
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.14
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: 154e028c-478a-5a5d-adad-e521765ea3d0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the volume of the liquid contained in the bottom of the tank up to the
+      dipping datum point, when the ship is on an even keel and has no list
+  examples: []
+  id: 01150-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dead stock
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2a9a98ef-8fbd-58ee-bb94-b271fd07e5ce

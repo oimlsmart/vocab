@@ -1,0 +1,44 @@
+data:
+  identifier: 01984
+  localized_concepts:
+    eng: c319ae9c-bf07-555b-a9f4-64da244e5a2f
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R138
+    ref_type: section
+status: valid
+id: bc9de971-653b-5068-a28a-43a684502984
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: volume that the vessel is meant to contain when filled to the brim
+  examples: []
+  id: 01984-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: brim capacity, Vr
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c319ae9c-bf07-555b-a9f4-64da244e5a2f

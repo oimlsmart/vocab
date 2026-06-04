@@ -1,0 +1,46 @@
+data:
+  identifier: 01937
+  localized_concepts:
+    eng: a1f5f3be-d141-55ce-ae1a-0ffd40984e92
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 89eb1074-b907-5495-a256-f60038d1f50a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (s total quantity of gas obtained by integrating the flow over time,
+      expressed as volume V, mass m or energy E passed through the gas meter, disregarding
+      the time taken. This is the measurand ee 2.1.2)
+  examples: []
+  id: 01937-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity of gas
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a1f5f3be-d141-55ce-ae1a-0ffd40984e92

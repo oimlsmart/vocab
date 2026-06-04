@@ -1,0 +1,44 @@
+data:
+  identifier: 00581
+  localized_concepts:
+    eng: d16862ed-3318-5c46-b688-291c80a6dd67
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: e7bff2f6-1cb7-57b8-ba97-0b6317fa3f19
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device to move the loads on to and off the load receptor
+  examples: []
+  id: 00581-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load conveyor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d16862ed-3318-5c46-b688-291c80a6dd67

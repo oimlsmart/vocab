@@ -1,0 +1,46 @@
+data:
+  identifier: 01458
+  localized_concepts:
+    eng: 22a9e6cf-a89d-5f70-8638-194bdeaa5703
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 387857d7-dd6c-556a-84ad-fff964d936eb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum absolute value of the difference allowed by national regulation,
+      between the measured conventional mass and the nominal value of a weight, as
+      determined by corresponding reference weights
+  examples: []
+  id: 01458-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (m or mpe)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 22a9e6cf-a89d-5f70-8638-194bdeaa5703

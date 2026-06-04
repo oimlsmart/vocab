@@ -1,0 +1,48 @@
+data:
+  identifier: 00936
+  localized_concepts:
+    eng: 4d29a5ce-6356-54b0-a256-760b36889555
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.8.5
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: a8111b39-c7f4-5c65-9e82-88a55740adc8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: storage used for keeping measurement data ready after completion of the
+      measurement for later legally relevant purposes (e.g. conclusion of a trading
+      transaction at a later date, when the customer is not present for the determination
+      of the amount, or for special applications identified and legislated by the
+      state)
+  examples: []
+  id: 00936-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.8.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: long term storage of measurement data
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4d29a5ce-6356-54b0-a256-760b36889555

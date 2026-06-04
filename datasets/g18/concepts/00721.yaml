@@ -1,0 +1,45 @@
+data:
+  identifier: '00721'
+  localized_concepts:
+    eng: fe977029-11dc-5a3b-b5b6-ae8fb725c37e
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.10
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 43c0ac9d-74ca-5536-a980-e452742b224a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest load cell verification interval (mass) into which the load cell
+      measuring range can be divided
+  examples: []
+  id: 00721-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum load cell verification interval (vmin)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fe977029-11dc-5a3b-b5b6-ae8fb725c37e

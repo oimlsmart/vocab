@@ -1,0 +1,44 @@
+data:
+  identifier: 01494
+  localized_concepts:
+    eng: 7d086ed0-9d98-5c31-a7e3-376b783c347c
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 66c2dd60-6ae2-5b6c-a182-673f5118f5ee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that responds to sample components in the eluate of the column
+  examples: []
+  id: 01494-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detector
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7d086ed0-9d98-5c31-a7e3-376b783c347c

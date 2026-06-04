@@ -1,0 +1,46 @@
+data:
+  identifier: 01980
+  localized_concepts:
+    eng: 8d7c0000-6171-5173-b6d2-7f961d20856e
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R138
+    ref_type: section
+status: valid
+id: 1796a038-63bf-5cc3-beaf-5124e0913ab4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: bottles intended to be filled either at constant level or at constant
+      ullage with sufficient accuracy without the need to use an independent measuring
+      instrument
+  examples: []
+  id: 01980-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring container bottles
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8d7c0000-6171-5173-b6d2-7f961d20856e

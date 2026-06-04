@@ -1,0 +1,45 @@
+data:
+  identifier: 02291
+  localized_concepts:
+    eng: 07a2ae32-08ad-5868-9905-a24df84609b7
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.52'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 9705c11f-d00b-516e-aafe-960fdb353ef3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the rated operating conditions
+      specified in 5.1.1.
+  examples: []
+  id: 02291-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.52'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 07a2ae32-08ad-5868-9905-a24df84609b7

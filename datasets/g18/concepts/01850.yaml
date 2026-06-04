@@ -1,0 +1,46 @@
+data:
+  identifier: 01850
+  localized_concepts:
+    eng: 7f2cd355-6dc2-5393-b7f6-42939f3cde30
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 4c35b0b7-18ed-5505-bf79-03a5bca8a415
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: radiant luminous flux of monochromatic radiation transmitted by The coherent
+      SI unit is the watt (W). an optical cell containing the solution used as reference
+      and reaching the detector
+  examples: []
+  id: 01850-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference flux (Φr)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7f2cd355-6dc2-5393-b7f6-42939f3cde30

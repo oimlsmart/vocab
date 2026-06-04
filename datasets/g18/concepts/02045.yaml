@@ -1,0 +1,53 @@
+data:
+  identifier: '02045'
+  localized_concepts:
+    eng: e12463d0-7bef-5bda-91ab-06643c864464
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 0521028f-9b2b-5ad6-a99a-f1ce3b3c8b16
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'device, other than the main indicating device, connected to a calculator,
+      intended to perform a particular function, directly involved in elaborating,
+      transmitting or displaying measurement results Main ancillary devices are: -
+      repeating indicating device; - printing device; - memory device; - totalizing
+      indicating device; - conversion device.'
+  examples: []
+  id: 02045-eng
+  notes:
+  - content: 1. An ancillary device may or may not be subject to legal metrology control
+      according to its function in the measuring system or to national regulations.
+  - content: 2. An ancillary device may be integrated into the calculator, into the
+      meter, or constitutes peripheral equipment linked to the calculator by means
+      of an interface.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ancillary device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e12463d0-7bef-5bda-91ab-06643c864464

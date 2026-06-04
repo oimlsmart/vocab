@@ -1,0 +1,47 @@
+data:
+  identifier: '02271'
+  localized_concepts:
+    eng: 10113411-e133-50af-9462-f535ce33259f
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.32'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: dfecf2f5-02b7-5443-b817-fd64e7308843
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: hose and/or pipework filled with liquid product prior to and after atransaction.
+      In this case the transfer point is located close to the outlet of the full hose
+      (the transfer point consists of a closing device located in the delivery or
+      receiving line).
+  examples: []
+  id: 02271-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.32'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: full hose (wet hose)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 10113411-e133-50af-9462-f535ce33259f

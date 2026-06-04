@@ -1,0 +1,45 @@
+data:
+  identifier: '00650'
+  localized_concepts:
+    eng: 6f503a07-c7db-5589-9e21-594ea2df493c
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: ff775937-bc2b-57f2-92a5-c946032e2af9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication enabling the evaluation of the equilibrium position to afraction
+      of the scale interval
+  examples: []
+  id: 00650-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analog indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6f503a07-c7db-5589-9e21-594ea2df493c

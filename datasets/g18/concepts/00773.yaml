@@ -1,0 +1,45 @@
+data:
+  identifier: '00773'
+  localized_concepts:
+    eng: 01dc2b18-6da0-5425-a389-502975ab6448
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.2.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 703afcef-d990-588e-bc98-d792dcfa6a0d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of an electronic device, employing electronic components and having
+      a recognizable function of its own
+  examples: []
+  id: 00773-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.2.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic sub-assembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 01dc2b18-6da0-5425-a389-502975ab6448

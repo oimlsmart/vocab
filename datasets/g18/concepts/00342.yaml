@@ -1,0 +1,44 @@
+data:
+  identifier: '00342'
+  localized_concepts:
+    eng: 48be5a10-ed93-556f-9d0a-80b0cbe263a9
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.1.5
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 87885c7f-191c-5859-b968-ad03ea707595
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of a measuring instrument, device or software subject to legal control
+  examples: []
+  id: 00342-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.1.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 48be5a10-ed93-556f-9d0a-80b0cbe263a9

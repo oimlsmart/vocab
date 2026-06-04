@@ -1,0 +1,45 @@
+data:
+  identifier: '01030'
+  localized_concepts:
+    eng: 61c98104-7b85-55ed-99fa-6321ae7d5712
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.21'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 4fe3ae19-4201-5898-8290-ca70490c7202
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the error of the instrument as determined prior to any of the performance
+      tests
+  examples: []
+  id: 01030-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.21'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 61c98104-7b85-55ed-99fa-6321ae7d5712

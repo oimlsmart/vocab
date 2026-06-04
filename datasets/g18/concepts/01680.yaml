@@ -1,0 +1,45 @@
+data:
+  identifier: 01680
+  localized_concepts:
+    eng: 6295f4de-b15e-5111-b4e0-cbbedfe74a49
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: 13c4c36d-bac0-5abb-8631-e9523b4d02f6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'net absorbance, ΔA, at the analysis wavelength divided by the thickness,
+      t, of the radiation sensitive layer of the dosimeter as follows:'
+  examples: []
+  id: 01680-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specific net absorbance, Δk
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6295f4de-b15e-5111-b4e0-cbbedfe74a49

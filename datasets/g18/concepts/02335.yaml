@@ -1,0 +1,44 @@
+data:
+  identifier: '02335'
+  localized_concepts:
+    eng: 4b874a52-0bed-5a94-bf0a-9a6d67adb2b3
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 8717644b-9ba2-581e-917d-3ed17e5be6d3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that removes particles from the exhaust gas sample
+  examples: []
+  id: 02335-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: filter unit
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4b874a52-0bed-5a94-bf0a-9a6d67adb2b3

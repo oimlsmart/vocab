@@ -1,0 +1,48 @@
+data:
+  identifier: 01845
+  localized_concepts:
+    eng: 9499f278-8601-569c-9f00-23526da4d5e9
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: 1c8680a6-dc66-5126-ab65-766470171ebc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: distance covered by the radiation flux between the entry and exit 1.
+      ISO 6286, Table 2, No. 13. surfaces of a solution contained in an optical cell
+      2 t u
+  examples: []
+  id: 01845-eng
+  notes:
+  - content: . The coherent SI unit is the metre (m), but he centimetre (cm) or millimetre
+      (mm) are sually preferred.
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical path length (b)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9499f278-8601-569c-9f00-23526da4d5e9

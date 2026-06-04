@@ -1,0 +1,45 @@
+data:
+  identifier: '00673'
+  localized_concepts:
+    eng: 4553fec8-93d4-5a6b-bdb0-adee04ec16f1
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 853bc4a8-5a5d-538c-9c38-00ae03c3b767
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: No gauge or vacuum pressure (see International Recommendations 's 17
+      and 19) to which the elastic sensing element can be submitted
+  examples: []
+  id: 00673-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4553fec8-93d4-5a6b-bdb0-adee04ec16f1

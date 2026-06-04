@@ -1,0 +1,45 @@
+data:
+  identifier: '01716'
+  localized_concepts:
+    eng: 1e132b01-c842-5f3f-8c3f-da370b43724a
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: c413e7d5-bd35-58df-bdee-ba987566f132
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a calculated value deemed to be a weight value obtained by applying a
+      conversion factor to the object’s volume (see 2.13) or dimensions (see 2.12)
+  examples: []
+  id: 01716-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimensional weight (Dim Wt or DW)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1e132b01-c842-5f3f-8c3f-da370b43724a

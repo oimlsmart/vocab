@@ -1,0 +1,45 @@
+data:
+  identifier: 00852
+  localized_concepts:
+    eng: d3887f76-c17d-50f7-b32a-d98693e06a24
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '4.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 5664fb33-eba4-5454-b434-8a73d6b31724
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: meter suitable for heat-exchange circuits with rapid dynamic variations
+      in the exchanged heat
+  examples: []
+  id: 00852-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '4.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fast response meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d3887f76-c17d-50f7-b32a-d98693e06a24

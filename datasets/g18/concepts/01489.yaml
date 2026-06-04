@@ -1,0 +1,45 @@
+data:
+  identifier: 01489
+  localized_concepts:
+    eng: 9c132393-9ce2-59a0-a7a5-72f17313e094
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 41390f77-8d3c-59a6-81ce-ce807fa2d132
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a tube that contains the stationary phase through which the gaseous mobile
+      phase flows
+  examples: []
+  id: 01489-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: column
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9c132393-9ce2-59a0-a7a5-72f17313e094

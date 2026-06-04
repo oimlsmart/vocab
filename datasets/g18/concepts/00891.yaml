@@ -1,0 +1,44 @@
+data:
+  identifier: 00891
+  localized_concepts:
+    eng: b2c370ec-14f5-57a8-8027-9ba916dee428
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 0319adee-a123-5c65-9ec7-7a3e099b901b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indications, signals and symbols that are not primary indications
+  examples: []
+  id: 00891-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary indications
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b2c370ec-14f5-57a8-8027-9ba916dee428

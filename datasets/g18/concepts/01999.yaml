@@ -1,0 +1,46 @@
+data:
+  identifier: 01999
+  localized_concepts:
+    eng: 837d671d-5920-5481-8143-ee2e02a91149
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.11
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 40094402-dcda-5743-b0b6-e35b17096c31
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instruments connected to the calculator or the correction device, for
+      measuring certain quantities which are characteristic of the gas, with a view
+      to making a correction
+  examples: []
+  id: 01999-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: associated measuring instruments
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 837d671d-5920-5481-8143-ee2e02a91149

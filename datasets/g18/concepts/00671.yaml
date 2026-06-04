@@ -1,0 +1,45 @@
+data:
+  identifier: '00671'
+  localized_concepts:
+    eng: 30c445ec-6cd1-520d-8f90-2b08af1da9d6
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.6.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 38d1fa31-56a7-5ea5-864c-8ddaf413e23f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test to verify that the equipment under test (EUT) is able to accomplish
+      its intended functions
+  examples: []
+  id: 00671-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.6.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 30c445ec-6cd1-520d-8f90-2b08af1da9d6

@@ -1,0 +1,50 @@
+data:
+  identifier: 00185
+  localized_concepts:
+    eng: a7d996c0-34b7-59ee-914f-7c62c7b05601
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 6e372152-682f-5b01-8bd7-1773a9142a8b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '(hereinafter referred to as “measuring instrument”): measuring instrument
+      which conforms to prescribed requirements, in particular legal metrological
+      requirements [VIML, 4.3]'
+  examples: []
+  id: 00185-eng
+  notes:
+  - content: 'for the purposes of this Document the following instruments may fall
+      under legal control according to national regulations: measuring instruments,
+      coin counting machines, medical measuring instruments, water dispensing machines,
+      timing instruments in vehicle washes.'
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally controlled measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a7d996c0-34b7-59ee-914f-7c62c7b05601

@@ -1,0 +1,54 @@
+data:
+  identifier: '00233'
+  localized_concepts:
+    eng: 1f22783f-aaa5-54fa-beee-cd31e5e67816
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 09c8401b-7fd9-5748-94b0-2834fa238dfb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: fault greater than the value specified in the relevant Recommendation
+  examples: []
+  id: 00233-eng
+  notes:
+  - content: 'The relevant Recommendation may specify that the following faults are
+      not significant, even when they exceed the value defined in 3.10: (a) Faults
+      arising from simultaneous and mutually independent causes (e.g. EM fields and
+      discharges) originating in a measuring instrument or in its checking facilities;
+      (b) Faults implying the impossibility to perform any measurement; (c) Transitory
+      faults being momentary variations in the indication, which cannot be interpreted,
+      memorized or transmitted as a measurement result; (d) Faults giving rise to
+      variations in the measurement result that are serious enough to be noticed by
+      all those interested in the measurement result; the relevant Recommendation
+      may specify the nature of these variations.'
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1f22783f-aaa5-54fa-beee-cd31e5e67816

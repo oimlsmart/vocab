@@ -1,0 +1,46 @@
+data:
+  identifier: '00443'
+  localized_concepts:
+    eng: 56831701-b0a8-537a-b868-40e5dc731b6f
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.6
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: d9007de5-9d3b-53af-87ad-9821330f62d8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: change-over flowrate Qx1 is when flow stops in the larger meter with
+      decreasing flowrate. Change-over flowrate Qx2 is when flow starts in the larger
+      meter with increasing flowrate
+  examples: []
+  id: 00443-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: combination meter changeover flowrate, Qx
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 56831701-b0a8-537a-b868-40e5dc731b6f

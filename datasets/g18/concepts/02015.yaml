@@ -1,0 +1,45 @@
+data:
+  identifier: '02015'
+  localized_concepts:
+    eng: 0d1da57b-5d81-5ccc-a5a4-99c104c80487
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.6
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: bf1869e1-cfcf-5953-a248-814a664f3c53
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: absolute value of the maximum permissible error for the minimum measured
+      quantity of a measuring system
+  examples: []
+  id: 02015-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum specified mass deviation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0d1da57b-5d81-5ccc-a5a4-99c104c80487

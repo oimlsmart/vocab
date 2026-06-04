@@ -1,0 +1,45 @@
+data:
+  identifier: '00362'
+  localized_concepts:
+    eng: 3d18227f-ac1d-53c1-b6b6-4d3d0fc8f1b1
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+    locality:
+      type: clause
+      reference_from: 2.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R035-1
+    ref_type: section
+status: valid
+id: 4848df08-7a64-5188-832e-e623784bb3bb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: material measure provided with scale marks, the distances between which
+      are indicated in legal units of length
+  examples: []
+  id: 00362-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R035-1:2007
+      locality:
+        type: clause
+        reference_from: 2.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material measure of length
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3d18227f-ac1d-53c1-b6b6-4d3d0fc8f1b1

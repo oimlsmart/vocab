@@ -1,0 +1,48 @@
+data:
+  identifier: '01022'
+  localized_concepts:
+    eng: 313a3d63-9448-5f4b-b4e6-09db982e1574
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: cdb4ca42-f354-59a5-8a68-3e42c86e6d64
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the smallest quantity of liquid for which the measurement is metrologically
+      acceptable
+  examples: []
+  id: 01022-eng
+  notes:
+  - content: In a measuring system intended to deliver, this quantity is called the
+      minimum delivery, and in those used for receiving operations it is called the
+      minimum receipt.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum measured quantity of a measuring system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 313a3d63-9448-5f4b-b4e6-09db982e1574

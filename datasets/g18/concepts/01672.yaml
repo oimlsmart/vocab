@@ -1,0 +1,45 @@
+data:
+  identifier: '01672'
+  localized_concepts:
+    eng: e09a12fc-b44f-5955-ae40-d519afcf91b4
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.11'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: 00aed17a-db45-535d-9275-91620fbe4dc9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an operation involving all relevant internal elements which verifies
+      that the EBA is suitably adjusted
+  examples: []
+  id: 01672-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustment-checking operation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e09a12fc-b44f-5955-ae40-d519afcf91b4

@@ -1,0 +1,45 @@
+data:
+  identifier: 01809
+  localized_concepts:
+    eng: 2a048904-4bc2-500b-93af-7b0991930a97
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: f52c5cc4-8f96-58e1-ab67-895f4b6f73dc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: largest load that an instrument is designed to weigh in motion without
+      totalizing
+  examples: []
+  id: 01809-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum capacity (Max)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2a048904-4bc2-500b-93af-7b0991930a97

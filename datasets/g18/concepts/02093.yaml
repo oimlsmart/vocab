@@ -1,0 +1,45 @@
+data:
+  identifier: 02093
+  localized_concepts:
+    eng: a24fff36-e949-528e-8316-3f2b83f9be59
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: de57243f-ff18-5943-8cf8-84e1adc56914
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the rated operating conditions
+      of the measuring system as specified in this Recommendation
+  examples: []
+  id: 02093-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a24fff36-e949-528e-8316-3f2b83f9be59

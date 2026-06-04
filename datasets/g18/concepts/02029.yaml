@@ -1,0 +1,48 @@
+data:
+  identifier: 02029
+  localized_concepts:
+    eng: f34eadac-7d9a-5e98-b7b8-d345dbe3a494
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.4.8
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 563d1865-ce04-5b42-89ff-ec40f0f74cc5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test reservoir or a set of test reservoirs manifolded together which
+      forms part of a multi-segment gas storage system. The segments operate at different
+      pressure levels from one another in refueling systems fitted with or using a
+      sequential control device (see T.4.9 below)
+  examples: []
+  id: 02029-eng
+  notes:
+  - content: Testing using banks generates transient flowrates.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.4.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bank
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f34eadac-7d9a-5e98-b7b8-d345dbe3a494

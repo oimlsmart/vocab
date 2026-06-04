@@ -1,0 +1,45 @@
+data:
+  identifier: '01274'
+  localized_concepts:
+    eng: 8a170dd0-a3ff-5b22-af94-9ab410405955
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 22043064-5095-5eff-9ee7-009e06098372
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing a wagon in two or more parts on the same load receptor. The
+      results are automatically added to indicate or print the wagon weight
+  examples: []
+  id: 01274-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: partial weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8a170dd0-a3ff-5b22-af94-9ab410405955

@@ -1,0 +1,46 @@
+data:
+  identifier: 01968
+  localized_concepts:
+    eng: 2ea3fab3-fecd-5444-a215-b11016bfe1b1
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 15d79218-64c8-5a5a-bc5c-56d293ca3afa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the rated operating conditions
+      of the gas meter, as specified in this Recommendation
+  examples: []
+  id: 01968-eng
+  notes:
+  - content: (OIML D 11, 3.13.1)
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2ea3fab3-fecd-5444-a215-b11016bfe1b1

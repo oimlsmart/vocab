@@ -1,0 +1,44 @@
+data:
+  identifier: '01465'
+  localized_concepts:
+    eng: 1eb9b826-8fec-53df-9efd-71fe85490270
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 72e736dd-1eae-5658-8803-925dd05f2ffe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: definite model of weights or weight set to which it conforms
+  examples: []
+  id: 01465-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1eb9b826-8fec-53df-9efd-71fe85490270

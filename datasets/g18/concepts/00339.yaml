@@ -1,0 +1,45 @@
+data:
+  identifier: 00339
+  localized_concepts:
+    eng: 98079502-17cf-5833-a828-13dbd01c0531
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: d7efd845-e4a8-5025-878c-357b8c38e15e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: vehicle, typically a car controlled by a driver, that takes passengers
+      on a journey in exchange for a fare
+  examples: []
+  id: 00339-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxi
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 98079502-17cf-5833-a828-13dbd01c0531

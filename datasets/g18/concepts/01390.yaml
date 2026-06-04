@@ -1,0 +1,45 @@
+data:
+  identifier: 01390
+  localized_concepts:
+    eng: 08dd268b-1bca-534c-be85-2b87800dcd83
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: ce3c684c-ed6a-5502-aebb-1c2049767e37
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of an instrument as determined prior to the performance
+      and span stability tests
+  examples: []
+  id: 01390-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 08dd268b-1bca-534c-be85-2b87800dcd83

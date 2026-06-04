@@ -1,0 +1,47 @@
+data:
+  identifier: '01374'
+  localized_concepts:
+    eng: d162b543-2dd2-56eb-919c-b65b1315238a
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: ba7cbf5e-24e3-5d0d-8f5c-272dfbb9aaf3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V value of a quantity provided by a measuring instrument IM: 1993,
+      3.2]'
+  examples: []
+  id: 01374-eng
+  notes:
+  - content: “Indication”, “indicate” or “indicating” include both displaying, and/or
+      printing.
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication (of a measuring instrument)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d162b543-2dd2-56eb-919c-b65b1315238a

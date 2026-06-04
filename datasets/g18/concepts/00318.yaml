@@ -1,0 +1,44 @@
+data:
+  identifier: 00318
+  localized_concepts:
+    eng: 5e60156f-366a-570e-a1c8-4f7021892630
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R016-1
+    ref_type: section
+status: valid
+id: 641d9481-2cdf-5819-b458-3a66f5b9afb0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: valve for controlled exhaust of the pneumatic system during measurement
+  examples: []
+  id: 00318-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R016-1:2002
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: deflation value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5e60156f-366a-570e-a1c8-4f7021892630

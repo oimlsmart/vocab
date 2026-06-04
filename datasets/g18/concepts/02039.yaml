@@ -1,0 +1,46 @@
+data:
+  identifier: 02039
+  localized_concepts:
+    eng: 1de0f4a5-adfc-5365-b0ac-e88eb49cb9b7
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 2ba9fc5a-3337-58c0-ba8f-ba0a3432077c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument intended to measure, memorize and display the volume or mass
+      of gas passing through the flow measuring device at metering conditions
+  examples: []
+  id: 02039-eng
+  notes:
+  - content: The display may be a remote indicating device.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1de0f4a5-adfc-5365-b0ac-e88eb49cb9b7

@@ -1,0 +1,45 @@
+data:
+  identifier: '02274'
+  localized_concepts:
+    eng: c7c5d256-29e8-5f10-b02d-179b8a999d0f
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.35'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: a1b4bf32-267f-51d3-9dca-df2d45f9132e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tanker discharged by gravity, each individual measuring compartment having
+      its own outlet. Frequently, the loading adapter is used as the outlet
+  examples: []
+  id: 02274-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.35'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct discharger
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c7c5d256-29e8-5f10-b02d-179b8a999d0f

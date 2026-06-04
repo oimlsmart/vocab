@@ -1,0 +1,47 @@
+data:
+  identifier: '02306'
+  localized_concepts:
+    eng: 2575338f-ddf3-5dbe-ad3d-3c19e09f7dfb
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 30de9aaf-a381-5cd1-8b8a-0865bc453b28
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the ALG that displays or prints the measuring result
+  examples: []
+  id: 02306-eng
+  notes:
+  - content: For the application of this Recommendation the meaning of “indicating
+      device” is broader than the general meaning in other OIML Recommendations (a
+      printing device is considered as such).
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2575338f-ddf3-5dbe-ad3d-3c19e09f7dfb

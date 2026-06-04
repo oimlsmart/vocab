@@ -1,0 +1,47 @@
+data:
+  identifier: 02189
+  localized_concepts:
+    eng: 7acc7123-82f3-52c5-a47d-cc3415491900
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.22
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: a095466a-76bc-5bc9-a6c3-6ce95f5d26d5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: file installed on the computer system of the measuring instrument, electronic
+      device, or sub-assembly (EPROM, hard disk, etc.). This code is interpreted by
+      the microprocessor and transposed into certain logical, arithmetical, decoding,
+      or data transporting operations
+  examples: []
+  id: 02189-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.22
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: executable code
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7acc7123-82f3-52c5-a47d-cc3415491900

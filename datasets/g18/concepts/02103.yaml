@@ -1,0 +1,44 @@
+data:
+  identifier: '02103'
+  localized_concepts:
+    eng: 7b2efbb2-41aa-55b6-b2f1-1e97e29db08f
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: f6d4161a-60cb-552a-ba86-00d28c823e33
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility intervening at certain time or quantity intervals
+  examples: []
+  id: 02103-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intermittent automatic checking facility (Type I)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7b2efbb2-41aa-55b6-b2f1-1e97e29db08f

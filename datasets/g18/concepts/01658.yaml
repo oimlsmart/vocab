@@ -1,0 +1,45 @@
+data:
+  identifier: 01658
+  localized_concepts:
+    eng: d2ee9687-5205-5ef7-81bd-ee4e75397f4c
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.35
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 499f24e5-e5ee-5b95-9998-cbd44e74e93a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a series of operations intended to verify the compliance of the equipment
+      under test with certain requirements
+  examples: []
+  id: 01658-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.35
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d2ee9687-5205-5ef7-81bd-ee4e75397f4c

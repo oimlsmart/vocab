@@ -1,0 +1,46 @@
+data:
+  identifier: 02349
+  localized_concepts:
+    eng: 94576f75-ae92-5419-83a2-0bbc081e9773
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.16'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 43b4a515-31c0-55f6-a40c-0c1d2d146f65
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity value used as a basis for comparison with values of quantities
+      of the same kind
+  examples: []
+  id: 02349-eng
+  notes:
+  - content: (VIM:2007, 5.18)
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.16'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference (quantity) value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 94576f75-ae92-5419-83a2-0bbc081e9773

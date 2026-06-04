@@ -1,0 +1,45 @@
+data:
+  identifier: '01423'
+  localized_concepts:
+    eng: 9ea4a6ea-4c01-5970-892c-01fd2965c7d6
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: aa07ac9b-4c84-5448-9f7a-9c46d46f9531
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the speed of fall of the piston at its operating level under specified
+      conditions
+  examples: []
+  id: 01423-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rate of fall of the piston
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9ea4a6ea-4c01-5970-892c-01fd2965c7d6

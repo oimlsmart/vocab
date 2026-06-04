@@ -1,0 +1,47 @@
+data:
+  identifier: 02299
+  localized_concepts:
+    eng: 81a08744-7a11-5de1-a65a-6a7c237fa3e3
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: bd8d09e4-9d1d-5e8d-bbc5-4a8b7e59b9b1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument intended to measure automatically and display the level of
+      the liquid contained in a tank with respect to a fixed reference. Anautomatic
+      level gauge includes at least a liquid level sensor, atransducer, and an indicating
+      device
+  examples: []
+  id: 02299-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic level gauge (ALG)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 81a08744-7a11-5de1-a65a-6a7c237fa3e3

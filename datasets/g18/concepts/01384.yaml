@@ -1,0 +1,46 @@
+data:
+  identifier: 01384
+  localized_concepts:
+    eng: 01d0415a-56f8-59e5-a593-a51159c36b0c
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: d1905bda-d981-579f-a3c2-bfcb00385fa1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device indicating the value of the load on the load receptor and enabling
+      the use of the instrument as a control instrument to weigh discrete loads for
+      control purposes
+  examples: []
+  id: 01384-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 01d0415a-56f8-59e5-a593-a51159c36b0c

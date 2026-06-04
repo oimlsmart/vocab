@@ -1,0 +1,48 @@
+data:
+  identifier: 01832
+  localized_concepts:
+    eng: 0194a9f2-a260-5d16-83d5-761b37b3c53b
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: bfcefad8-94ba-57b8-8b53-df23ba2dd830
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: conditions of use prescribed for testing the performance of a measuring
+      instrument or for intercomparison of results of measurements.
+  examples: []
+  id: 01832-eng
+  notes:
+  - content: The reference conditions generally include reference values or reference
+      ranges for influence quantities affecting the measuring instrument. [VIM:1993,
+      5.7]
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0194a9f2-a260-5d16-83d5-761b37b3c53b

@@ -1,0 +1,44 @@
+data:
+  identifier: '00223'
+  localized_concepts:
+    eng: 545e614d-7de7-5e7f-bc7b-cc7826f71018
+  sources:
+  - origin:
+      ref:
+        source: OIML D003:1979
+    locality:
+      type: clause
+      reference_from: '1'
+    type: authoritative
+  domains:
+  - concept_id: section-D003
+    ref_type: section
+status: valid
+id: 2d8ca968-109d-5311-a2b6-51db51b8ab97
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: . a measuring instrument which conforms to all the prescribed legal requirements
+  examples: []
+  id: 00223-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D003:1979
+      locality:
+        type: clause
+        reference_from: '1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 545e614d-7de7-5e7f-bc7b-cc7826f71018

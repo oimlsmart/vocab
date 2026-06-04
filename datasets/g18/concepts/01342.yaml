@@ -1,0 +1,49 @@
+data:
+  identifier: '01342'
+  localized_concepts:
+    eng: 77a3f546-bcab-5eab-877d-431f98555712
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 99b4f3ac-970e-5984-98d1-45703c5d3ee8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[O force transducer, which after taking into account the effects of
+      the acceleration of gravity and air buoyancy at the location of its use, measures
+      mass by converting the measured quantity (mass) into another measured quantity
+      (output) IML R 60: 2000]'
+  examples: []
+  id: 01342-eng
+  notes:
+  - content: Load cells equipped with electronics including amplifier, analog-to-digital
+      converter and dat processing device (optionally) are called digital load cells.
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load cell
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 77a3f546-bcab-5eab-877d-431f98555712

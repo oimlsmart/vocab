@@ -1,0 +1,47 @@
+data:
+  identifier: '01534'
+  localized_concepts:
+    eng: 16d1cc66-8bba-5979-b9dd-67f7a9ffda36
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.8
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 45120d41-4da3-5835-b2c3-53fe01a9f8c7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (t part of the associated measuring device, directly affected by the
+      measurand, which converts the characteristic quantity emperature, pressure,
+      density, viscosity, etc.) of the liquid into ameasurement signal (resistance,
+      electrical current, frequency, etc.) destined for the associated measuring transducer
+  examples: []
+  id: 01534-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: associated measuring sensor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 16d1cc66-8bba-5979-b9dd-67f7a9ffda36

@@ -1,0 +1,56 @@
+data:
+  identifier: 00806
+  localized_concepts:
+    eng: 8746e935-a918-56ac-ac3e-50fef19188ed
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: fc30f402-4294-5fdb-be9f-518ac0a8abe6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • • • fault greater than 0.25 of the maximum permissible deviation
+      of each fill for in-service inspection as specified in 2.2.2, for a fill equal
+      to the minimum capacity or rated minimum fill respectively of the filling instrument.
+      The following are not considered to be significant faults, even when they exceed
+      the value defined above: faults arising from simultaneous and mutually independent
+      causes in the instrument; faults that imply it is impossible to perform a measurement;
+      faults that are so serious that they will inevitably be noticed by those interested
+      in the measurement; and transitory faults that are momentary variations in the
+      indications or operation that can not be interpreted, memorized ortransmitted
+      as a measurement result'
+  examples: []
+  id: 00806-eng
+  notes:
+  - content: For filling instruments where the fill may be greater than one load,
+      the value of the significant fault applicable for a test on one static load
+      shall be calculated in accordance with the test procedures in A.6.1.3.
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8746e935-a918-56ac-ac3e-50fef19188ed

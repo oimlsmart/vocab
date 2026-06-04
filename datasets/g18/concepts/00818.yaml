@@ -1,0 +1,46 @@
+data:
+  identifier: 00818
+  localized_concepts:
+    eng: 836a7c00-74c0-5fc1-8b82-b84450171bf8
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R065
+    ref_type: section
+status: valid
+id: d3e18c12-f638-50ea-88c1-036087410665
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device (or assembly of devices) for testing material specimens to determine
+      one or more of their mechanical properties. The device (or assembly of devices)
+      may be in a fixed location or portable
+  examples: []
+  id: 00818-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material testing machine
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 836a7c00-74c0-5fc1-8b82-b84450171bf8

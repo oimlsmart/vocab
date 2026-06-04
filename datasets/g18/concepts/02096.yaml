@@ -1,0 +1,46 @@
+data:
+  identifier: 02096
+  localized_concepts:
+    eng: b8e498e4-448e-5132-a2df-b1826420c53f
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 1d6be095-e4f4-5a5e-b818-94b5121ae879
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: set of reference values or reference ranges of influence factors (adapted
+      from VIM:2007, 4.11) prescribed for testing the performance of a measuring system
+      or a device or for intercomparisons of the results of measurements
+  examples: []
+  id: 02096-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b8e498e4-448e-5132-a2df-b1826420c53f

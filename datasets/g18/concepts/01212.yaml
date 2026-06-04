@@ -1,0 +1,45 @@
+data:
+  identifier: '01212'
+  localized_concepts:
+    eng: 9a3b953e-9b2e-54cf-9d26-2dacfbfe09e5
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.2
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 87b99787-09bb-54e8-a12f-6562c87f66b8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a working standard, traceable to national standards, used for the verification
+      of a direct mass flow instrument
+  examples: []
+  id: 01212-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: master meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9a3b953e-9b2e-54cf-9d26-2dacfbfe09e5

@@ -1,0 +1,46 @@
+data:
+  identifier: 00682
+  localized_concepts:
+    eng: 1ea434cc-2196-5d11-acec-f2183e8aa874
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 4fa3834e-8383-5bcf-815d-f77898e1dedd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: characteristic reflecting the direct proportionality between displacement
+      and pressure, the initial and final points of which coincide with the corresponding
+      points of the forward elastic characteristic
+  examples: []
+  id: 00682-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional linear characteristic
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1ea434cc-2196-5d11-acec-f2183e8aa874

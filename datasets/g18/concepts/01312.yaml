@@ -1,0 +1,46 @@
+data:
+  identifier: '01312'
+  localized_concepts:
+    eng: 9f6ebc6e-8f7f-51bd-9890-79b97a2baffd
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.7.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 45e2a460-1638-5b68-8bc5-d185224a7304
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a wagon of known weight that is typical of those to be used for weighing
+      on the instrument and which has been selected for the purposes of in-motion
+      testing
+  examples: []
+  id: 01312-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.7.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference wagon
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9f6ebc6e-8f7f-51bd-9890-79b97a2baffd

@@ -1,0 +1,45 @@
+data:
+  identifier: 00823
+  localized_concepts:
+    eng: 79fe47fe-4e5c-5988-91dc-5c8fd227f0b0
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R065
+    ref_type: section
+status: valid
+id: ffac180f-d58d-5883-ad63-c6c2966cbb25
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference in values of indicated force obtained for discrete force values
+      first from measurements with increasing forces and then with decreasing forces
+  examples: []
+  id: 00823-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reversibility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 79fe47fe-4e5c-5988-91dc-5c8fd227f0b0

@@ -1,0 +1,47 @@
+data:
+  identifier: 00383
+  localized_concepts:
+    eng: 1903c1f2-034a-57dd-b86a-4ae95acb9e56
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: cd05ae4c-4c83-5144-8674-a184892e3a1e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: primary Rockwell hardness standardizing machine used by a country’s primary
+      national laboratory for hardness standardization to standardize primary reference
+      test blocks. The primary national laboratory for hardness standardization is
+      usually a National Metrology Institute (NMI).
+  examples: []
+  id: 00383-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary national Rockwell standardizing machine
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1903c1f2-034a-57dd-b86a-4ae95acb9e56

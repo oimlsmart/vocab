@@ -1,0 +1,46 @@
+data:
+  identifier: 01914
+  localized_concepts:
+    eng: 03e24d9d-064c-50a8-a099-4865aff77552
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.11
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 0054483d-0ae4-5262-b6db-74a67876a7ef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: percentage value associated with the total area of a parcel of leather
+      (Atotal), that characterizes the best estimate of the value of the total area
+      of the parcel
+  examples: []
+  id: 01914-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty of measurements
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 03e24d9d-064c-50a8-a099-4865aff77552

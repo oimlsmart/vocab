@@ -1,0 +1,46 @@
+data:
+  identifier: 01028
+  localized_concepts:
+    eng: fd90a5a6-2c33-500b-b9ae-62aa0ca2ccca
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.19'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: fc9d9b94-7c80-5af5-bc71-33075af662a9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the ability of a measuring instrument to provide closely similar indications
+      for repeated applications of the same measurand under the same conditions of
+      measurement [VIM:1993, 5.27]
+  examples: []
+  id: 01028-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fd90a5a6-2c33-500b-b9ae-62aa0ca2ccca

@@ -1,0 +1,44 @@
+data:
+  identifier: '01411'
+  localized_concepts:
+    eng: 641b2f31-732f-5f89-9822-725efccb9512
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R109
+    ref_type: section
+status: valid
+id: 3f548e47-758e-5ea2-add2-81d44565bcfd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a pressure greater than ambient pressure
+  examples: []
+  id: 01411-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gauge pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 641b2f31-732f-5f89-9822-725efccb9512

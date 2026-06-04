@@ -1,0 +1,45 @@
+data:
+  identifier: 00799
+  localized_concepts:
+    eng: cce98c94-079a-5eb2-a288-67fff416a0c4
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 85d6d319-87e6-500d-ae24-ed3afd3ef7df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[b error of a weighing instrument, determined under reference conditions
+      ased on VIM:1993, 5.24]'
+  examples: []
+  id: 00799-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cce98c94-079a-5eb2-a288-67fff416a0c4

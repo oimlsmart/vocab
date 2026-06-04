@@ -1,0 +1,47 @@
+data:
+  identifier: '00441'
+  localized_concepts:
+    eng: db0e1313-5a29-58b6-88b5-088d41a0f1d9
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: d46f5af8-4799-5b9c-8f81-da16520a4dd2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: flowrate which occurs between the permanent flowrate Q3, and theminimum
+      flowrate Q1, that divides the flowrate range into twozones, the upper flowrate
+      zone and the lower flowrate zone, each characterized by its own maximum permissible
+      error
+  examples: []
+  id: 00441-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transitional flowrate, Q2
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: db0e1313-5a29-58b6-88b5-088d41a0f1d9

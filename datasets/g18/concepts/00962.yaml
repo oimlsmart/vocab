@@ -1,0 +1,45 @@
+data:
+  identifier: 00962
+  localized_concepts:
+    eng: 77f77698-0873-58dd-b897-e5ff30ba3df2
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 266b3a05-075d-5b53-b8c5-5eaf88a17489
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weight value that is achieved when the instrument is completely atrest
+      and balanced, with no disturbances affecting the indication
+  examples: []
+  id: 00962-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: final weight value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 77f77698-0873-58dd-b897-e5ff30ba3df2

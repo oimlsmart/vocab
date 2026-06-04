@@ -1,0 +1,45 @@
+data:
+  identifier: 01068
+  localized_concepts:
+    eng: 5210988e-ed5b-50bb-8cab-d0c9e0ec78de
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R083
+    ref_type: section
+status: valid
+id: d9bc284f-9f07-5714-91fd-a48b6fc8704a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: either a graphical or tabular presentation form of the measured mass-to-charge
+      (m/z) ratios of separated ions and corresponding intensities of these ratios
+  examples: []
+  id: 01068-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R083:2006
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mass spectrum
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5210988e-ed5b-50bb-8cab-d0c9e0ec78de

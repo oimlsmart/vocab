@@ -1,0 +1,48 @@
+data:
+  identifier: '00646'
+  localized_concepts:
+    eng: 7dc1d6c3-729b-57a5-8e4a-71aa0d0e5b96
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: f24e0b04-fad1-5395-a88b-f2f847241aa9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that operates with a non-stable equilibrium based measuring
+      system during the mass determining process while the load transport system is
+      in motion (e.g. where the load transport system is moving; checkweighers fitted
+      with a load receptor on which the load slides; or vehicle mounted or incorporated
+      catchweighers where the load receptor is in motion)
+  examples: []
+  id: 00646-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument that weighs dynamically
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7dc1d6c3-729b-57a5-8e4a-71aa0d0e5b96

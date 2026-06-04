@@ -1,0 +1,46 @@
+data:
+  identifier: '01416'
+  localized_concepts:
+    eng: 321d8585-678a-523d-8313-76e770ebbcd2
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R109
+    ref_type: section
+status: valid
+id: e8f27c18-6e4c-54ee-ba28-517717c4c81d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between the indication of the instrument when the same
+      pressure (except pressures at the lower and upper limits of the measuring range)
+      is reached by increasing or decreasing the pressure
+  examples: []
+  id: 01416-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hysteresis error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 321d8585-678a-523d-8313-76e770ebbcd2

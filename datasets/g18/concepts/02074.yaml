@@ -1,0 +1,53 @@
+data:
+  identifier: '02074'
+  localized_concepts:
+    eng: 3f59e04a-5284-5d85-83fc-0ffcc8d17aae
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.8
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 89cf3148-9ac0-5801-bce3-ef462276eb8a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'set of values of measurands or quantities characteristic of the gas
+      1. This definition applies to the measuring for which the error is intended
+      to lie within the limits specified s in this Recommendation. In general the
+      upper and lower limits t of the specified measuring range are called maximum
+      value and 2. Main minimum value, respectively (for example: maximum flowrate
+      2 characte 000 m3/h, minimum flowrate 50 m3/h) f 3 m p'
+  examples: []
+  id: 02074-eng
+  notes:
+  - content: ystem and also to the elements that compose he measuring system. measurands
+      or quantities ristic for the metering module are lowrate, pressure or temperature
+      of the gas. . A conversion device has a specified easuring range for each quantity
+      that it rocesses.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specified measuring ranges
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3f59e04a-5284-5d85-83fc-0ffcc8d17aae

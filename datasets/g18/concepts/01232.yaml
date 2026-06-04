@@ -1,0 +1,45 @@
+data:
+  identifier: '01232'
+  localized_concepts:
+    eng: e8e3268e-8a35-5d5f-8a36-df3a08b208b0
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.17
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 71350eab-3faa-53a6-bb61-53e359b37e53
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the error of a measuring system used under reference conditions [VIM:1993,
+      5.27]
+  examples: []
+  id: 01232-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.17
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e8e3268e-8a35-5d5f-8a36-df3a08b208b0

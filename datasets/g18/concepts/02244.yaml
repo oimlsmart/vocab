@@ -1,0 +1,44 @@
+data:
+  identifier: '02244'
+  localized_concepts:
+    eng: cff416a3-ebe5-5bc1-9aae-da634e75b9ca
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 14ad94b9-af02-590d-ad95-77a0e399ce14
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: any device, component or measuring element containing electronics
+  examples: []
+  id: 02244-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic part
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cff416a3-ebe5-5bc1-9aae-da634e75b9ca

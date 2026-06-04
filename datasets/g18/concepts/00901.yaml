@@ -1,0 +1,47 @@
+data:
+  identifier: 00901
+  localized_concepts:
+    eng: 453937e2-962f-541d-9e8b-8b614d3ade8e
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 83113bfd-5e7d-51cb-ad3a-bf0649544c46
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: digital device that has one or more keys (or mouse, touch-screen, etc.)
+      to operate the instrument, and a display to provide the weighing results transmitted
+      via the digital interface of a weighing module or an analog data processing
+      device
+  examples: []
+  id: 00901-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: terminal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 453937e2-962f-541d-9e8b-8b614d3ade8e

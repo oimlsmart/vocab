@@ -1,0 +1,47 @@
+data:
+  identifier: 01596
+  localized_concepts:
+    eng: e5761d4e-3a33-5fa6-8600-152b24ac8836
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.s.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 48582525-022a-5555-a576-f672a76d3403
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: specific device that is part of a self-service arrangement and which
+      allows one or more measuring systems to perform in this self-service arrangement.
+      The self-service device includes all the elements and constituents that are
+      mandatory so that a measuring system performs in a self-service arrangement
+  examples: []
+  id: 01596-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.s.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-service device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e5761d4e-3a33-5fa6-8600-152b24ac8836

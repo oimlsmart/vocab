@@ -1,0 +1,48 @@
+data:
+  identifier: '00454'
+  localized_concepts:
+    eng: f7477b70-6139-5d02-9c3f-a420227d002a
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.6
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 0a7bad0f-ff92-564e-8fcf-1aeb8fcf81dd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a extreme conditions, including flowrate, temperature, pressure, humidity
+      and electromagnetic interference, that a water meter is required to withstand
+      without damage, and without degradation ofits error (of indication), when it
+      is subsequently operated within its rated operating conditions dapted from VIM:1993,
+      5.6].'
+  examples: []
+  id: 00454-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limiting conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f7477b70-6139-5d02-9c3f-a420227d002a

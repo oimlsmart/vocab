@@ -1,0 +1,46 @@
+data:
+  identifier: '02057'
+  localized_concepts:
+    eng: 6ad2907f-2592-57cd-94aa-227eab9fd165
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.14
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: a8d1b407-d918-5802-b7c2-09258d961ffd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: specified conditions to which the measured quantities of gas are The
+      terms “reference conditions” are converted
+  examples: []
+  id: 02057-eng
+  notes:
+  - content: frequently used instead of “base conditions”.
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6ad2907f-2592-57cd-94aa-227eab9fd165

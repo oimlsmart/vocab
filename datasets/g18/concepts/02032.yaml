@@ -1,0 +1,45 @@
+data:
+  identifier: '02032'
+  localized_concepts:
+    eng: 787785e5-72bf-5fe6-ad6e-88b70f1d2643
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 3f5b2615-e616-58cc-ab81-646091453f59
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of an electronic device, employing electronic components and having
+      a recognizable function of its own
+  examples: []
+  id: 02032-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic sub-assembly
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 787785e5-72bf-5fe6-ad6e-88b70f1d2643

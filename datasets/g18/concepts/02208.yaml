@@ -1,0 +1,46 @@
+data:
+  identifier: 02208
+  localized_concepts:
+    eng: 390ee816-bd67-5fdb-8690-6b30654d1eec
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.41
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 1883e8e3-353b-5ed3-8b1b-b3b2429def90
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: technical operation that consists of determining one or more characteristics
+      of the software according to the specific procedure (e.g. analysis of technical
+      documentation or running the program under controlled conditions)
+  examples: []
+  id: 02208-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.41
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software examination
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 390ee816-bd67-5fdb-8690-6b30654d1eec

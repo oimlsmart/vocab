@@ -1,0 +1,50 @@
+data:
+  identifier: '00510'
+  localized_concepts:
+    eng: 1fd49a75-5c78-5d04-9827-66500247cc2c
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.8.5
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 6ad1e8d7-8501-53e4-b4d0-bf01566dbb16
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • • or • • A device that enables certain functions of the belt weigher
+      to be checked and that is particularly intended: to simulate the effect of a
+      constant load per unit length by means of a weight, chain, or electrical reference
+      signal, or to compare two integrations of a load per unit length over equal
+      time intervals, to indicate that the maximum load has been exceeded, or to indicate
+      that the flowrate is either above its maximum or below its minimum value, or
+      to draw the attention of the user to a fault in the operation of the belt weigher.'
+  examples: []
+  id: 00510-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.8.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operation checking device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1fd49a75-5c78-5d04-9827-66500247cc2c

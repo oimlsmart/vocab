@@ -1,0 +1,47 @@
+data:
+  identifier: '01251'
+  localized_concepts:
+    eng: 13555e6d-8ad4-5721-9eb5-921f949a8ed0
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.32
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: 4dce0647-865a-5d82-844a-693018599b50
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a feature that is incorporated in a measuring system and that enables
+      the detection of, and acting upon significant durability errors. The same classification
+      for types P, I or N applies to durability protection features. Certain devices
+      may be employed simultaneously, for checking and for durability protection
+  examples: []
+  id: 01251-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.32
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability protection feature
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 13555e6d-8ad4-5721-9eb5-921f949a8ed0

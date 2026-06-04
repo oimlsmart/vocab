@@ -1,0 +1,44 @@
+data:
+  identifier: '00424'
+  localized_concepts:
+    eng: a7eba494-3ef0-5f35-8284-b32421ddfaa9
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: c8ce8ec9-228e-5508-b061-caa855fdc696
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: volume of water indicated by the meter, corresponding to the actual volume
+  examples: []
+  id: 00424-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicated volume, Vi
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a7eba494-3ef0-5f35-8284-b32421ddfaa9

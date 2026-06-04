@@ -1,0 +1,46 @@
+data:
+  identifier: '01643'
+  localized_concepts:
+    eng: df671db1-cb36-5314-899f-6b491b024070
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.26
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: c470a94a-d9e2-5538-aee0-233962b21acb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the closeness of the agreement between the results of successive measurements
+      of the same measurand carried out under the same conditions of measurement (VIM:1993,
+      3.6)
+  examples: []
+  id: 01643-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.26
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: df671db1-cb36-5314-899f-6b491b024070

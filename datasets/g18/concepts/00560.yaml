@@ -1,0 +1,45 @@
+data:
+  identifier: '00560'
+  localized_concepts:
+    eng: 1d23e996-c1a3-5a64-bac7-4ab36283b07d
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: bbbdf184-2905-51b1-af97-cf89164ee399
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that weighs and follows a pre-determined program of automatic
+      processes characteristic of the instrument
+  examples: []
+  id: 00560-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic weighing instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1d23e996-c1a3-5a64-bac7-4ab36283b07d

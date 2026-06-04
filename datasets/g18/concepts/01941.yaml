@@ -1,0 +1,46 @@
+data:
+  identifier: 01941
+  localized_concepts:
+    eng: a5a4a5b8-92e4-50dc-94a5-406798ec5238
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 1ac7e43a-3872-5484-83ce-6fe003fcef7e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value Yref attributed to a particular quantity and accepted, sometimes
+      by convention, as having an uncertainty appropriate for a given purpose
+  examples: []
+  id: 01941-eng
+  notes:
+  - content: '[VIM:1993, 1.20]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conventional true value (of a quantity)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a5a4a5b8-92e4-50dc-94a5-406798ec5238

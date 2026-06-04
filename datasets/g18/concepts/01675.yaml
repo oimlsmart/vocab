@@ -1,0 +1,45 @@
+data:
+  identifier: '01675'
+  localized_concepts:
+    eng: f14d84ea-21e4-5c89-8f4f-4b452c1b28d8
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: 16763bb4-e1c4-5974-9896-f502c0fb0246
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system used for determining absorbed dose, consisting of radiochromic
+      film dosimeters and associated measurement instrumentation
+  examples: []
+  id: 01675-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiochromic film dosimetry system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f14d84ea-21e4-5c89-8f4f-4b452c1b28d8

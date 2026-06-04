@@ -1,0 +1,47 @@
+data:
+  identifier: '00667'
+  localized_concepts:
+    eng: a57d63a9-44c9-5a35-aad6-5950a50c2e7e
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 37e7bad1-56ba-5b7b-842f-a2d270abc186
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V conditions of use, giving the ranges of the measurand and of the
+      influence quantities for which the metrological characteristics are intended
+      to lie within the maximum permissible errors specified in this Recommendation
+      IM:1993, 5.5]'
+  examples: []
+  id: 00667-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a57d63a9-44c9-5a35-aad6-5950a50c2e7e

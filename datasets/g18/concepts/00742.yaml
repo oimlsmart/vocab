@@ -1,0 +1,46 @@
+data:
+  identifier: '00742'
+  localized_concepts:
+    eng: 22a91631-fd80-5b3e-8f38-b14b7b314fef
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.15
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: ebf61bae-6e20-5fa1-8974-4f3eb818846c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: capability of a load cell to maintain the difference between the load
+      cell output at maximum load, Dmax, and the load cell output at minimum load,
+      Dmin, over a period of use within specified limits
+  examples: []
+  id: 00742-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: span stability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 22a91631-fd80-5b3e-8f38-b14b7b314fef

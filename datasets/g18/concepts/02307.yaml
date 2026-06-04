@@ -1,0 +1,45 @@
+data:
+  identifier: '02307'
+  localized_concepts:
+    eng: 6b762d5e-27b3-51c2-89d1-26323d509bfb
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: ea24ee8c-3ffe-5321-95da-04987c1985db
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: additional device (ancillary device) repeating the indication of the
+      indicating device
+  examples: []
+  id: 02307-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeating indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6b762d5e-27b3-51c2-89d1-26323d509bfb

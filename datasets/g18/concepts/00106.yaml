@@ -1,0 +1,45 @@
+data:
+  identifier: '00106'
+  localized_concepts:
+    eng: c36971c1-7fc3-55e1-97ed-1fa8971d2a73
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.15'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: 61d23b75-b08b-533e-a0c6-ff12f80e4ae2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: official visual inspection of an instrument or device and relevant documentation
+      to assure that some specified requirements are met
+  examples: []
+  id: 00106-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: examination
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c36971c1-7fc3-55e1-97ed-1fa8971d2a73

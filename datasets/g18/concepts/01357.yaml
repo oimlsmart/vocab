@@ -1,0 +1,46 @@
+data:
+  identifier: '01357'
+  localized_concepts:
+    eng: 5bb5c299-bf59-5b89-8579-329b0e4f6a69
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 4ee58e7a-2bb4-5d03-aef1-34c0ec201c6d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'value expressed in units of mass that is the difference between:  the
+      values corresponding to two consecutive scale marks for analog indication; or
+       two consecutive indicated values for digital indication'
+  examples: []
+  id: 01357-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5bb5c299-bf59-5b89-8579-329b0e4f6a69

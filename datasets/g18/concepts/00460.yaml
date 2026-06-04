@@ -1,0 +1,48 @@
+data:
+  identifier: '00460'
+  localized_concepts:
+    eng: ebd65ece-049d-5a52-9780-5542632a09d6
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 81262e05-1daf-56da-a3bc-38d0d0b2023b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility incorporated in a water meter with electronic devices and The
+      checking of a transmission device aims at which enables significant faults to
+      be detected and acted upon v t r
+  examples: []
+  id: 00460-eng
+  notes:
+  - content: erifying that all the information which is ransmitted (and only that
+      information) is fully eceived by the receiving equipment.
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ebd65ece-049d-5a52-9780-5542632a09d6

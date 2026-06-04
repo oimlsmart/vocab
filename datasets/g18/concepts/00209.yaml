@@ -1,0 +1,49 @@
+data:
+  identifier: 00209
+  localized_concepts:
+    eng: 69a80d87-c37e-59f6-933a-a53bb2569d7a
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.27'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: eb6c57d2-81b3-5dd6-8007-88d819fd3e32
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: form of metrological supervision aimed at establishing that a measuring
+      instrument in use in the field complies with the statutory requirements
+  examples: []
+  id: 00209-eng
+  notes:
+  - content: 'Note on the relation between market and field surveillance: Where a
+      conformity assessment of a measuring instrument indicates that the findings
+      can be directly related to the responsibilities of manufacturers or their representatives,
+      the matter should be dealt with by market surveillance.'
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.27'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field surveillance (“in-service surveillance”)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 69a80d87-c37e-59f6-933a-a53bb2569d7a

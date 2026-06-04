@@ -1,0 +1,44 @@
+data:
+  identifier: 00918
+  localized_concepts:
+    eng: 88e521c1-2a8f-5910-822e-3031bc2ca1f6
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 7848fcef-d621-5443-8df2-2f248cc3f163
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting an instrument to its reference (horizontal) position
+  examples: []
+  id: 00918-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: leveling device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 88e521c1-2a8f-5910-822e-3031bc2ca1f6

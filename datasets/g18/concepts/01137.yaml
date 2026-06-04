@@ -1,0 +1,45 @@
+data:
+  identifier: '01137'
+  localized_concepts:
+    eng: 9f5a1371-ee88-55bd-9b8b-7538b29b9856
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+    locality:
+      type: clause
+      reference_from: T.1
+    type: authoritative
+  domains:
+  - concept_id: section-R095
+    ref_type: section
+status: valid
+id: f367a65f-d34c-5058-9847-216d23726314
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the volume of liquid the tank contains under rated operating conditions,
+      at reference temperature
+  examples: []
+  id: 01137-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R095:1990
+      locality:
+        type: clause
+        reference_from: T.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal capacity of a tank
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9f5a1371-ee88-55bd-9b8b-7538b29b9856

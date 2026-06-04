@@ -1,0 +1,46 @@
+data:
+  identifier: '00523'
+  localized_concepts:
+    eng: 0cd52b75-cfb2-5f93-90ed-0bd4b90b1cf2
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.8
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: ae3732c0-a135-52b0-acef-b742f07afd64
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the value, in units of mass, that is indicated by the totalization indicating
+      device when a known additional mass has been simulated or deposited on the load
+      receptor with the empty belt running for a prescribed number of complete revolutions
+  examples: []
+  id: 00523-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0cd52b75-cfb2-5f93-90ed-0bd4b90b1cf2

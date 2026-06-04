@@ -1,0 +1,46 @@
+data:
+  identifier: 02258
+  localized_concepts:
+    eng: a0c907fc-0d04-5dd5-bfe4-833a7cc867e0
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.19'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 9f189928-d5da-501f-ab19-a3e3d36437ef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: distance between the free surface of the liquid and the reference point
+      bottom, measured along the vertical measurement axis
+  examples: []
+  id: 02258-eng
+  notes:
+  - content: (see figure 1)
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.19'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: liquid height (h)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a0c907fc-0d04-5dd5-bfe4-833a7cc867e0

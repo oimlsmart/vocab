@@ -1,0 +1,45 @@
+data:
+  identifier: 01279
+  localized_concepts:
+    eng: b0f7ccce-5ba8-5abb-a16b-6f5a72935934
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.1.4
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 7c70157b-0e14-5e43-8fab-03117f58046d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing a wagon while stationary and uncoupled to obtain a weight for
+      the purposes of testing
+  examples: []
+  id: 01279-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.1.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: static weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b0f7ccce-5ba8-5abb-a16b-6f5a72935934

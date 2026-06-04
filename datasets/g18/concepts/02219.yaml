@@ -1,0 +1,46 @@
+data:
+  identifier: 02219
+  localized_concepts:
+    eng: 765a1a4f-a8aa-585a-99d0-ea38b7bfb357
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.52
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 928c21a8-c9fc-5d07-b5c6-df083508f4a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: transmission of measurement data via communication networks or other
+      means to a distant electronic device where they are further processed and/or
+      used for legally regulated purposes
+  examples: []
+  id: 02219-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.52
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmission of measurement data
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 765a1a4f-a8aa-585a-99d0-ea38b7bfb357

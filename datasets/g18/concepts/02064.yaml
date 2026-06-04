@@ -1,0 +1,45 @@
+data:
+  identifier: '02064'
+  localized_concepts:
+    eng: 951eede6-ec6f-5fec-9c8a-f68e2e506d01
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.1.21
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 366a810a-085b-5df3-b3d6-64493a292038
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: parameter which indicates the deviation from the ideal gas
+  examples: []
+  id: 02064-eng
+  notes:
+  - content: (see ISO 12213-1)
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.1.21
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: compressibility factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 951eede6-ec6f-5fec-9c8a-f68e2e506d01

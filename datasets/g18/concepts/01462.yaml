@@ -1,0 +1,45 @@
+data:
+  identifier: '01462'
+  localized_concepts:
+    eng: 2865d8f7-a1cb-53dd-a5c3-cc5006df4494
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R111-1
+    ref_type: section
+status: valid
+id: 493aa506-3e60-5d40-b91c-0fd40f0b2eac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: In degrees Celsius, is related to the absolute thermodynamic temperature
+      scale, called the Kelvin scale, by t = T – 273.15 K.
+  examples: []
+  id: 01462-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R111-1:2004
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temperature (t)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2865d8f7-a1cb-53dd-a5c3-cc5006df4494

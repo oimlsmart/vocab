@@ -1,0 +1,45 @@
+data:
+  identifier: '00732'
+  localized_concepts:
+    eng: 5ba88b77-b0fb-58e1-a681-d98a9cd49f3a
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 4bb50aab-4403-52c1-93bb-f0588329bfa1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: electrical representation issued by the load cell indicating that a fault
+      condition exists
+  examples: []
+  id: 00732-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault detection output
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5ba88b77-b0fb-58e1-a681-d98a9cd49f3a

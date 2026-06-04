@@ -1,0 +1,46 @@
+data:
+  identifier: '01044'
+  localized_concepts:
+    eng: 44d00c6e-5305-5a2b-8310-05c2dc915fd2
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.35'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: d09308ca-7022-5963-9f26-5dd2189294df
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a transaction (selling or buying) of quantities of liquids whose settlement
+      is associated with indications provided by a measuring system, any of the parties
+      having access to the place of measurement and one of them being a consumer
+  examples: []
+  id: 01044-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.35'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct selling to the public
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 44d00c6e-5305-5a2b-8310-05c2dc915fd2

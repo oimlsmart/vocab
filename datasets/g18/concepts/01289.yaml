@@ -1,0 +1,46 @@
+data:
+  identifier: 01289
+  localized_concepts:
+    eng: 6f5aadf3-3a7b-5345-9ab0-153346e274fa
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.5.4
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: a8978b43-5821-57aa-b5cc-469bac77d2fa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the maximum speed that a railway vehicle can travel on the weigh zone
+      without producing a permanent shift in the performance characteristics of a
+      weighing instrument beyond those specified
+  examples: []
+  id: 01289-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.5.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum transit speed
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6f5aadf3-3a7b-5345-9ab0-153346e274fa

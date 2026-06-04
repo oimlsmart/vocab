@@ -1,0 +1,46 @@
+data:
+  identifier: '00472'
+  localized_concepts:
+    eng: f12fbc7f-fea2-5a50-9656-d4f7cb1d8d84
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R049-2
+    ref_type: section
+status: valid
+id: 8236aa94-ff72-58b4-87e9-530b4c0ee3ca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: meter comprising one large meter, one small meter and a changeover device
+      that, depending on the magnitude of the flowrate passing through the meter,
+      automatically directs the flow through either the small or large meter or both
+  examples: []
+  id: 00472-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-2:2006
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: combination meter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f12fbc7f-fea2-5a50-9656-d4f7cb1d8d84

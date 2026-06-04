@@ -1,0 +1,45 @@
+data:
+  identifier: '01402'
+  localized_concepts:
+    eng: b7a68d00-9ab4-5b30-abf9-24a723af7b61
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.6.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: cc94ae5f-6851-525b-ba75-459f8f1c4775
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test carried out on a complete instrument using the type of material
+      that it is intended to weigh
+  examples: []
+  id: 01402-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.6.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b7a68d00-9ab4-5b30-abf9-24a723af7b61

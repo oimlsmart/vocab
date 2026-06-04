@@ -1,0 +1,46 @@
+data:
+  identifier: '00256'
+  localized_concepts:
+    eng: 28786e09-b081-50d8-ab9c-3005749ca738
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.23'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 68d7e438-c1b6-511d-a22a-660398da622c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'battery that is: • Mounted in, or connected to, an instrument that can
+      be powered by the mains power as well; and • Capable of completely powering
+      the instrument for a reasonable period of time'
+  examples: []
+  id: 00256-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: auxiliary battery
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 28786e09-b081-50d8-ab9c-3005749ca738

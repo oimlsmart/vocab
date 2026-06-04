@@ -1,0 +1,45 @@
+data:
+  identifier: 00491
+  localized_concepts:
+    eng: ea002f57-a794-505a-9d10-b2de2cffbea0
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 49e8083d-7fa8-58df-99ec-d18aa7a095db
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the rollers by means of which the conveyor belt is supported on the load
+      receptor
+  examples: []
+  id: 00491-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing rollers
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ea002f57-a794-505a-9d10-b2de2cffbea0

@@ -1,0 +1,47 @@
+data:
+  identifier: '01644'
+  localized_concepts:
+    eng: 0fde28d3-2673-57fe-b0c1-9c46429b5001
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.27
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 52886b62-0c18-5043-a579-1c5c5f2ede40
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between the error indication and the intrinsic error Principally
+      a fault is the result of an undesired of a measuring instrument c t
+  examples: []
+  id: 01644-eng
+  notes:
+  - content: hange of data contained in, or flowing hrough, an electronic measuring
+      instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.27
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0fde28d3-2673-57fe-b0c1-9c46429b5001

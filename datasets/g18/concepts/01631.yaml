@@ -1,0 +1,46 @@
+data:
+  identifier: '01631'
+  localized_concepts:
+    eng: 3f4aa6db-9310-5aa5-952d-41cb3e1998aa
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.15
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: ac94001e-f4d9-5449-9d8f-a2f38d3765c8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the quantity of indicated mass below which the maximum permissible error
+      may be exceeded. This quantity applies to liquid contained in the tank (inventory)
+      or transferred into or out of the tank (transfer)
+  examples: []
+  id: 01631-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum measured quantity (inventory and transfer)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3f4aa6db-9310-5aa5-952d-41cb3e1998aa

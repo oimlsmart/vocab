@@ -1,0 +1,45 @@
+data:
+  identifier: 00863
+  localized_concepts:
+    eng: 30e58862-ec92-5671-9c20-0c15bec00c2c
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: 4.9.5
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: d871a4bc-9d5a-571a-bfbd-525edfd6f103
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a extreme values of the error (positive or negative) permitted by this
+      Recommendation dapted from VIM:1993, 5.21].'
+  examples: []
+  id: 00863-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: 4.9.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible error (mpe)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 30e58862-ec92-5671-9c20-0c15bec00c2c

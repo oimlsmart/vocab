@@ -1,0 +1,44 @@
+data:
+  identifier: '00245'
+  localized_concepts:
+    eng: eb882f5f-1d8a-5085-92c9-502f4c64c144
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: 3.18.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 5dee8933-8d43-507f-8d22-1e9abafb55bd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility that operates at each measurement cycle
+  examples: []
+  id: 00245-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: 3.18.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent automatic checking facility (type P)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: eb882f5f-1d8a-5085-92c9-502f4c64c144

@@ -1,0 +1,45 @@
+data:
+  identifier: '01155'
+  localized_concepts:
+    eng: 241fe8ef-b6df-5e8b-9716-102636cae37a
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R098
+    ref_type: section
+status: valid
+id: 88f37d20-a1d5-5549-934b-60b9dce80cee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a line measure with two scale marks representing one value of length
+      only
+  examples: []
+  id: 01155-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single-valued line measure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 241fe8ef-b6df-5e8b-9716-102636cae37a

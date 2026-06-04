@@ -1,0 +1,44 @@
+data:
+  identifier: '01666'
+  localized_concepts:
+    eng: 05508796-6a18-59b5-9286-c0b4828a1385
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R126
+    ref_type: section
+status: valid
+id: d822991b-b235-5007-96bb-5c078cd1b1bf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: air contained in the pulmonary alveoli
+  examples: []
+  id: 01666-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R126:1998
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: alveolar air
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 05508796-6a18-59b5-9286-c0b4828a1385

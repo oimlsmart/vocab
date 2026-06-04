@@ -1,0 +1,45 @@
+data:
+  identifier: '02033'
+  localized_concepts:
+    eng: d05c50af-f21d-500e-9127-2deed383bd13
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 5388f6a7-5927-5de8-b985-13d79414eb5a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest physical entity which uses electron or hole conduction in semiconductors,
+      gases, or in a vacuum
+  examples: []
+  id: 02033-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic component
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d05c50af-f21d-500e-9127-2deed383bd13

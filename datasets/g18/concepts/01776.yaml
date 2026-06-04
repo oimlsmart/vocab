@@ -1,0 +1,46 @@
+data:
+  identifier: '01776'
+  localized_concepts:
+    eng: 546717af-d82b-57bf-8471-ddd9d52415ca
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R133
+    ref_type: section
+status: valid
+id: dc988765-e332-5b2b-b232-448b134f200e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: enlargement of the capillary that is located below the main scale or
+      between the main scale and auxiliary scale and that serves to reduce the length
+      of the thermometer or to prevent contraction of the liquid column into the bulb
+  examples: []
+  id: 01776-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R133:2002
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contraction chamber
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 546717af-d82b-57bf-8471-ddd9d52415ca

@@ -1,0 +1,45 @@
+data:
+  identifier: '01152'
+  localized_concepts:
+    eng: 018236bd-d809-5a86-82d6-9e3c900ceeb6
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R098
+    ref_type: section
+status: valid
+id: 7a9e792a-287c-5402-9cae-1495d8e16565
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the length the measure is expected to represent in the absence of any
+      manufacturing error
+  examples: []
+  id: 01152-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R098:1991
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal length of a line measure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 018236bd-d809-5a86-82d6-9e3c900ceeb6

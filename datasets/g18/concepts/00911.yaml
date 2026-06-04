@@ -1,0 +1,47 @@
+data:
+  identifier: 00911
+  localized_concepts:
+    eng: e0239d95-7348-5523-ab48-ec69c1894493
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 44eee864-b6ea-5d1f-bb2f-eeda6e14f69f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: component that displays the equilibrium and/or the result. Onan instrument
+      with one position of equilibrium it displays only the equilibrium. Onan instrument
+      with several positions of equilibrium it displays both the equilibrium and the
+      result
+  examples: []
+  id: 00911-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: displaying component
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e0239d95-7348-5523-ab48-ec69c1894493

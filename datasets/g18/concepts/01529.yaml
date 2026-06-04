@@ -1,0 +1,46 @@
+data:
+  identifier: 01529
+  localized_concepts:
+    eng: dab29764-c13f-5ea9-98b3-e0c88fcb648c
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.a.3
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: a6688818-5d7b-5102-affe-2c05ef0609fc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device incorporated in the meter, that only allows shifting of the error
+      curve generally parallel to itself, with a view to bringing errors within the
+      maximum permissible errors. This device may beeither mechanical or electronic
+  examples: []
+  id: 01529-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.a.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustment device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dab29764-c13f-5ea9-98b3-e0c88fcb648c

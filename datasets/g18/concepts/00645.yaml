@@ -1,0 +1,47 @@
+data:
+  identifier: '00645'
+  localized_concepts:
+    eng: d6ed4590-e4e9-51f7-8b1c-42664c678d1d
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.3.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 105d4910-3b51-541a-89af-e15ccd6d6ff9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that operates with a stable equilibrium (T.3.2.5) based measuring
+      system during the mass determining process, when the load transport system has
+      stopped or, in the case of vehicle mounted or incorporated catchweighers, when
+      the load receptor is stationary
+  examples: []
+  id: 00645-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.3.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instrument that weighs statically
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d6ed4590-e4e9-51f7-8b1c-42664c678d1d

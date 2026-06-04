@@ -1,0 +1,46 @@
+data:
+  identifier: '00204'
+  localized_concepts:
+    eng: 6fde8da5-af09-5c2e-b764-5e4b2d39b516
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.22'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 0b493289-def8-5d7f-86f3-deb6e84291b9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: making a measuring instrument or a prepackage available on the market
+      for the first time in the specific country (or region), either for payment or
+      free of charge
+  examples: []
+  id: 00204-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.22'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: placing on the market
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6fde8da5-af09-5c2e-b764-5e4b2d39b516

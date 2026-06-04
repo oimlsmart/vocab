@@ -1,0 +1,44 @@
+data:
+  identifier: '01417'
+  localized_concepts:
+    eng: a70d76d0-da11-59fa-8964-711caf239d8f
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 6686c0c1-53d0-55af-a5f3-ee7af88cc1d5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the range of pressure to be measured with the pressure balance
+  examples: []
+  id: 01417-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measuring range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a70d76d0-da11-59fa-8964-711caf239d8f

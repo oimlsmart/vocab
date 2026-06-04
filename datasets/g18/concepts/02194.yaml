@@ -1,0 +1,47 @@
+data:
+  identifier: 02194
+  localized_concepts:
+    eng: cd40bfdd-eec2-5dd9-b070-72d2f7f814ef
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.27
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: ffb3074b-db4c-528b-a2ac-ef4790c6df56
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: shared boundary between two functional units, defined by various characteristics
+      pertaining to the functions, physical interconnections, signal exchanges, and
+      other characteristics of the units, as appropriate
+  examples: []
+  id: 02194-eng
+  notes:
+  - content: '[ISO 2382-9:1995]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.27
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interface
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cd40bfdd-eec2-5dd9-b070-72d2f7f814ef

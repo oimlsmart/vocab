@@ -1,0 +1,45 @@
+data:
+  identifier: 00508
+  localized_concepts:
+    eng: 2d98b638-83d6-5ba8-8778-1b2525b6f6ca
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.3.8.3
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: c75d02d0-0758-5253-8e21-6eacd9cdf006
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ( a device that indicates the percentage of the maximum capacity Max)
+      or the mass of the load acting on the weighing unit at a given time
+  examples: []
+  id: 00508-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.3.8.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous load indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2d98b638-83d6-5ba8-8778-1b2525b6f6ca

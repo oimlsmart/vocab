@@ -1,0 +1,46 @@
+data:
+  identifier: '01611'
+  localized_concepts:
+    eng: 7bc3ddd8-6c68-5b89-9b62-276ed27520f0
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+    locality:
+      type: clause
+      reference_from: '6'
+    type: authoritative
+  domains:
+  - concept_id: section-R124
+    ref_type: section
+status: valid
+id: 8e17e2fa-43f9-5bb4-975c-3558356f0af7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (D conditions of use, giving the range of values of influence quantities
+      for which the metrological characteristics are intended tobe within the specified
+      maximum permissible errors 11 clause T.13).
+  examples: []
+  id: 01611-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R124:1997
+      locality:
+        type: clause
+        reference_from: '6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7bc3ddd8-6c68-5b89-9b62-276ed27520f0

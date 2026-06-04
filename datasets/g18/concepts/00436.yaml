@@ -1,0 +1,44 @@
+data:
+  identifier: '00436'
+  localized_concepts:
+    eng: 98574eb0-c9ed-5d6f-a6f4-4553703e0761
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.14
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 0cfc13e1-618d-54e6-89da-d803299a8f9e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: lowest value scale division of the first element of an indicating device
+  examples: []
+  id: 00436-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification scale interval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 98574eb0-c9ed-5d6f-a6f4-4553703e0761

@@ -1,0 +1,46 @@
+data:
+  identifier: '01043'
+  localized_concepts:
+    eng: 9d518ea0-fba6-5f82-a903-7643e5666914
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.34'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: c316873e-2111-5874-92e4-d85f6c35dd7e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an indication (displayed, printed or memorized) that is subject to Indications
+      other than primary indications are legal metrology control c i
+  examples: []
+  id: 01043-eng
+  notes:
+  - content: ommonly referred to as secondary ndications.
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.34'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9d518ea0-fba6-5f82-a903-7643e5666914

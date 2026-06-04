@@ -1,0 +1,45 @@
+data:
+  identifier: '00652'
+  localized_concepts:
+    eng: fdc9054a-a01f-5e3e-9291-178a87e63382
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: f8099a90-f158-5d2c-82ad-7b840f32f319
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reading of the weighing result by simple juxtaposition of consecutive
+      figures giving the weighing result, without the need for calculation
+  examples: []
+  id: 00652-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reading by simple juxtaposition
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fdc9054a-a01f-5e3e-9291-178a87e63382

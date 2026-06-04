@@ -1,0 +1,47 @@
+data:
+  identifier: '01056'
+  localized_concepts:
+    eng: e3df6d2e-b6b9-531d-9ade-f3ea31aa4de7
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+    locality:
+      type: clause
+      reference_from: '3.12'
+    type: authoritative
+  domains:
+  - concept_id: section-R082
+    ref_type: section
+status: valid
+id: 9c877506-c726-589e-91cd-f83d888d1f9f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: range of mass flow rate or concentration of the analyte in the carrier
+      gas over which its sensitivity remains constant to within specified limits.
+      It is expressed as the ratio of the upper limit of linearity and the detection
+      limit
+  examples: []
+  id: 01056-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R082:2006
+      locality:
+        type: clause
+        reference_from: '3.12'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linear range
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e3df6d2e-b6b9-531d-9ade-f3ea31aa4de7

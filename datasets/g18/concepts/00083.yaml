@@ -1,0 +1,46 @@
+data:
+  identifier: 00083
+  localized_concepts:
+    eng: 09937f35-e6e6-5b69-b424-e77093bc5cfe
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: e69743d7-17cb-55ed-8bb0-de3900c396ae
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: identifiable group of modules belonging to the same manufactured type
+      that have similar design features but may differ in some metrological and technical
+      performance requirements as defined in the relevant Recommendation
+  examples: []
+  id: 00083-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: family of modules
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 09937f35-e6e6-5b69-b424-e77093bc5cfe

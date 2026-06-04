@@ -1,0 +1,54 @@
+data:
+  identifier: 00379
+  localized_concepts:
+    eng: 0a177734-dad5-5538-83ba-14138168ffb5
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R039
+    ref_type: section
+status: valid
+id: a9cc717b-c19e-5105-bdc6-23c5f931f6cb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: mechanical test in which an indenter of a specified size and shape (diamond
+      spheroconical or a steel or tungsten-carbide ball) is forced into the surface
+      of a test material
+  examples: []
+  id: 00379-eng
+  notes:
+  - content: Initially, a preliminary force F0 is applied to the indenter. The force
+      on the indenter is increased in a specified manner by an additional force F1
+      to achieve the total force F then the additional force F1 is removed and the
+      force on the indenter is returned to the preliminary force F
+  - content: 0. The depth of indentation is measured before and after application
+      of the additional force F1, while maintaining the preliminary force F0 (see
+      Annex A). A Rockwell hardness value for the test material is derived from the
+      difference in the indentation depths (see Fig. 1).
+  sources:
+  - origin:
+      ref:
+        source: OIML R039:2006
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Rockwell (indentation) hardness test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a177734-dad5-5538-83ba-14138168ffb5

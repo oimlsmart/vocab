@@ -1,0 +1,46 @@
+data:
+  identifier: 00933
+  localized_concepts:
+    eng: abf5369b-2a24-5040-9f2a-3cd15e06d4eb
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.8.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: fafda310-a8fe-514c-8f33-b646c15ae7bb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'parameter of a measuring instrument or a module subject to legal control.
+      The following types of legally relevant parameters can bedistinguished: type-specific
+      parameters and device-specific parameters'
+  examples: []
+  id: 00933-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.8.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legally relevant parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: abf5369b-2a24-5040-9f2a-3cd15e06d4eb

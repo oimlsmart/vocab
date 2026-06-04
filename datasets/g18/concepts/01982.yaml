@@ -1,0 +1,44 @@
+data:
+  identifier: 01982
+  localized_concepts:
+    eng: b35f27d1-3fe3-53c1-8452-83ca93b7386a
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R138
+    ref_type: section
+status: valid
+id: c7a6b191-a29b-5e9d-a9dc-67a0d7924648
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: volume indicated on the vessel
+  examples: []
+  id: 01982-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R138:2007
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal capacity, Vn
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b35f27d1-3fe3-53c1-8452-83ca93b7386a

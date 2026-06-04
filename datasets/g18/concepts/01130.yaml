@@ -1,0 +1,49 @@
+data:
+  identifier: '01130'
+  localized_concepts:
+    eng: 2965a559-1a7f-5062-9cca-1e5c49814338
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: 820039e4-483e-5945-9463-dbda609eea77
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: there are two vertex powers of a lens, described in 3.7.1 and 3.7.2
+  examples: []
+  id: 01130-eng
+  notes:
+  - content: (1) The unit for expressing vertex power is the reciprocal metre (m-1).
+      The name for this unit is the “dioptre”, for which the symbol is D. (2) Conventionally
+      the back vertex power, in dioptres, is specified as the “power” of a spectacle
+      lens, although the front vertex powe is required for certain purposes (for example
+      in the measurement of some multifocal lenses).
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vertex power
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2965a559-1a7f-5062-9cca-1e5c49814338

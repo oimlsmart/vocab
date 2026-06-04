@@ -1,0 +1,45 @@
+data:
+  identifier: '01557'
+  localized_concepts:
+    eng: 24b888ab-93aa-5313-a7ae-60aac600b74a
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.e.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 6abdbc97-6f98-5811-8f93-b1f57afaafed
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: capability of the measuring system to keep its performance characteristics
+      over a period of use
+  examples: []
+  id: 01557-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.e.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: endurance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 24b888ab-93aa-5313-a7ae-60aac600b74a

@@ -1,0 +1,45 @@
+data:
+  identifier: 01835
+  localized_concepts:
+    eng: bf245a24-c12f-5987-b2de-9d6b6b542aa1
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.6.3
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 8812cf12-3388-57c9-bc9a-5be9a9941ee1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test carried out on a complete instrument or part of an instrument in
+      which any part of the weighing operation is simulated
+  examples: []
+  id: 01835-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.6.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simulation test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bf245a24-c12f-5987-b2de-9d6b6b542aa1

@@ -1,0 +1,45 @@
+data:
+  identifier: '01766'
+  localized_concepts:
+    eng: 261b084a-fdda-52ac-bedc-f2d9e9c3821b
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.9'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 93ee9454-edbe-5edb-910d-18ede2a53a24
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: graphical representation of the relationship between dosimeter response
+      and absorbed dose for a given dosimetry system
+  examples: []
+  id: 01766-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration curve
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 261b084a-fdda-52ac-bedc-f2d9e9c3821b

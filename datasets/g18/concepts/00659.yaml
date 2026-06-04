@@ -1,0 +1,46 @@
+data:
+  identifier: 00659
+  localized_concepts:
+    eng: 3f1414ad-4f71-56f7-bd9c-222fb89e5a32
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.3.6
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 70d3f79a-8d57-5e4a-bb4e-383ccfbb97e5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'standard deviation of the error (of indication) for a number of consecutive
+      automatic weighings of a load, or similar loads, passed over the load receptor,
+      expressed mathematically as:  xi  x  n 2 i 1 s n 1'
+  examples: []
+  id: 00659-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.3.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard deviation of the error, s
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3f1414ad-4f71-56f7-bd9c-222fb89e5a32

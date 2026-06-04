@@ -1,0 +1,45 @@
+data:
+  identifier: 00926
+  localized_concepts:
+    eng: 111d4817-d1dd-5a1b-9ee4-a52670440a8d
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: bf613ad6-948e-5ecf-9ec0-ba2008926d62
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tare device without indication of the tare value when the instrument
+      is loaded
+  examples: []
+  id: 00926-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tare balancing device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 111d4817-d1dd-5a1b-9ee4-a52670440a8d

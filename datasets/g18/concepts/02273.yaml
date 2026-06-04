@@ -1,0 +1,47 @@
+data:
+  identifier: '02273'
+  localized_concepts:
+    eng: d9ed5cf9-533f-5232-84e9-14887e358399
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.34'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: ef9417f9-aa96-5533-912c-322148768ea2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'collecting line connected via diverting valves to the discharge pipes
+      of the measuring compartments and allowing delivery from any one or several
+      compartments via a common pipework. Acompartment connected to a built-in manifold
+      has two possible outlets: its own outlet valve and its own diverting valve'
+  examples: []
+  id: 02273-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.34'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: built-in manifold
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d9ed5cf9-533f-5232-84e9-14887e358399

@@ -1,0 +1,45 @@
+data:
+  identifier: 00786
+  localized_concepts:
+    eng: 4de7c99d-1ad5-5536-a9e8-685bcd7fd3a1
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 8b7c7d22-cca4-569d-8439-9b7fb12a3c0e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value of the test weights or masses which, in static tests, balance the
+      value selected on the indication of the fill setting device
+  examples: []
+  id: 00786-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: static set point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4de7c99d-1ad5-5536-a9e8-685bcd7fd3a1

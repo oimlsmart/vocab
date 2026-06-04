@@ -1,0 +1,46 @@
+data:
+  identifier: '02122'
+  localized_concepts:
+    eng: 68521c00-ea98-5a69-ba9d-ca4a4f342cd3
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+    locality:
+      type: clause
+      reference_from: 2.4(annex 6)
+    type: authoritative
+  domains:
+  - concept_id: section-R142
+    ref_type: section
+status: valid
+id: 89b0b756-4f89-5e31-ab8d-25f0bdb784c9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reference material, accompanied by documentation issued by an authoritative
+      body and referring to valid procedures used to obtain a specified property value
+      with uncertainty and traceability
+  examples: []
+  id: 02122-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R142:2008
+      locality:
+        type: clause
+        reference_from: 2.4(annex 6)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certified reference material (CRM)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 68521c00-ea98-5a69-ba9d-ca4a4f342cd3

@@ -1,0 +1,50 @@
+data:
+  identifier: 01991
+  localized_concepts:
+    eng: 2b8ec971-6d6d-5c07-9caf-3bbb64b312b5
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.1.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 38961866-8fa6-53da-a37f-0ba0e4f75c4b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: optional part of the meter that receives the digital output signals The
+      metering calculator and the operational from the metering calculator and, possibly,
+      from associated measuring instruments, which processes them into data for the
+      indicating device
+  examples: []
+  id: 01991-eng
+  notes:
+  - content: calculator may be two separate elements or form a single unit. Except
+      in the case of a particular need to dissociate the two kinds of calculators,
+      the association of both functions is called the calculator in this Recommendation.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.1.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operational calculator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2b8ec971-6d6d-5c07-9caf-3bbb64b312b5

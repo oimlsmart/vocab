@@ -1,0 +1,48 @@
+data:
+  identifier: '00153'
+  localized_concepts:
+    eng: 27fda392-bc55-5792-83f4-6197f743dd96
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-D022
+    ref_type: section
+status: valid
+id: 41d1aac8-9e93-5c06-8ee9-a2a559e8c5ce
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a location containing hazardous chemical wastes that can affect or have
+      the potential to affect a larger surrounding area. This applies to any site
+      of uncontrolled hazardous waste dumping, a licensed hazardous waste disposal
+      facility, or a location of accidental hazardous or toxic chemical spills or
+      fires
+  examples: []
+  id: 00153-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D022:1991
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hazardous waste site
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 27fda392-bc55-5792-83f4-6197f743dd96

@@ -1,0 +1,45 @@
+data:
+  identifier: '02112'
+  localized_concepts:
+    eng: ed24bce8-e57e-5010-b469-8948b374cee5
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R141
+    ref_type: section
+status: valid
+id: 3c7bbc88-9354-5b81-94e5-1060f761871f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: space angle within which the infrared radiation is detected by one photosensitive
+      element of the photodetector
+  examples: []
+  id: 02112-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous field of view (IFOV)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ed24bce8-e57e-5010-b469-8948b374cee5

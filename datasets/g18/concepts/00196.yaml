@@ -1,0 +1,50 @@
+data:
+  identifier: 00196
+  localized_concepts:
+    eng: 463cc7f8-9a69-536d-88d0-a294e3753058
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: b2611220-c653-554f-afd6-708e3a2b5525
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: area in which two or more countries have harmonized legislation Such
+      harmonized legislation may rely on or established some other legal means, on
+      a national basis, to conform facilitate free cross-border movement of products
+      and services apart f that are affected by legal metrological control (manufa
+      carry o
+  examples: []
+  id: 00196-eng
+  notes:
+  - content: ity assessment procedures where, rom public authorities, first party
+      bodie cturers) and other private bodies, ut certain functions as third parties.
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: free trade area
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 463cc7f8-9a69-536d-88d0-a294e3753058

@@ -1,0 +1,46 @@
+data:
+  identifier: 01519
+  localized_concepts:
+    eng: 51fa9ecc-44b0-503a-9ec1-af2641e6c1db
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+    locality:
+      type: clause
+      reference_from: '3.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R116
+    ref_type: section
+status: valid
+id: 56a6bdd3-8eae-5a8a-810f-41ac27b4f86a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: flow of argon gas between the intermediate and center (injector) tubes
+      of an ICP torch that is used to adjust the position of the plasma optimally
+      above the load coil
+  examples: []
+  id: 01519-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R116:2006
+      locality:
+        type: clause
+        reference_from: '3.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: auxiliary flow
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 51fa9ecc-44b0-503a-9ec1-af2641e6c1db

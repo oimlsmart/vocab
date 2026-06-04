@@ -1,0 +1,45 @@
+data:
+  identifier: 01428
+  localized_concepts:
+    eng: 3656421c-dfb1-5edb-a7a4-59116c5edaeb
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 49a48bbd-da5f-5101-986d-6c2a4266bbc8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the indication obtained by adding the mass values of the loaded weights
+      and making the relevant calculation of the value of the measured pressure
+  examples: []
+  id: 01428-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indication by adding mass values and calculating pressure
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3656421c-dfb1-5edb-a7a4-59116c5edaeb

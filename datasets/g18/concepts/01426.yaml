@@ -1,0 +1,46 @@
+data:
+  identifier: '01426'
+  localized_concepts:
+    eng: 272bde34-8d84-5b65-8898-a8c190857f93
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.2.2
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 41652a80-dacb-518b-897b-de1dfa1aaab6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the ability of a pressure balance to give uniform indications of the
+      measured pressure for multiple applications of the same load under constant
+      conditions of measurement
+  examples: []
+  id: 01426-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.2.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 272bde34-8d84-5b65-8898-a8c190857f93

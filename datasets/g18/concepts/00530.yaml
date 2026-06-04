@@ -1,0 +1,45 @@
+data:
+  identifier: '00530'
+  localized_concepts:
+    eng: ce2b8468-e811-5e24-9e38-dd1ac6401946
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.6.1
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 2c6a5863-4fa1-5391-9d7b-a9031363c9c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[A a quantity that is not the measurand but that affects the value of
+      the measurand or the indication of the belt weigher dapted from VIM:1993, 2.7].'
+  examples: []
+  id: 00530-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.6.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ce2b8468-e811-5e24-9e38-dd1ac6401946

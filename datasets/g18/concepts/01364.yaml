@@ -1,0 +1,45 @@
+data:
+  identifier: '01364'
+  localized_concepts:
+    eng: 99ae8bea-5439-57a0-9f3d-d9f0837aca76
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.3.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 529fb8fe-dd50-5619-b86f-753c28d821a3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: maximum static load that can be carried by the instrument without altering
+      its metrological qualities
+  examples: []
+  id: 01364-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.3.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum safe load, Lim
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 99ae8bea-5439-57a0-9f3d-d9f0837aca76

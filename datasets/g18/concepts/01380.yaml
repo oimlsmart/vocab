@@ -1,0 +1,45 @@
+data:
+  identifier: 01380
+  localized_concepts:
+    eng: 09745738-c5d8-538c-86c9-7d115dacb59c
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: d60e7527-bb7c-55d6-9ee1-e2ea2ba2931f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device that indicates the sum of the weight values of consecutive loads
+      weighed and discharged to bulk
+  examples: []
+  id: 01380-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: totalization indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 09745738-c5d8-538c-86c9-7d115dacb59c

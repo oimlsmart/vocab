@@ -1,0 +1,46 @@
+data:
+  identifier: '00142'
+  localized_concepts:
+    eng: 69f0a826-c6da-5365-b466-ccc81d6f681c
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+    locality:
+      type: clause
+      reference_from: 1.2.8
+    type: authoritative
+  domains:
+  - concept_id: section-D020
+    ref_type: section
+status: valid
+id: 4868ee90-469b-5bd0-b97d-d835ae8fb29a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an unknown test object (or material sample) submitted for measurement
+      to an organization in connection with an assessment of that organization's measurement
+      capabilities
+  examples: []
+  id: 00142-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+      locality:
+        type: clause
+        reference_from: 1.2.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blind test object (or blind material sample)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 69f0a826-c6da-5365-b466-ccc81d6f681c

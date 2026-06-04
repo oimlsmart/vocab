@@ -1,0 +1,46 @@
+data:
+  identifier: '02205'
+  localized_concepts:
+    eng: 894fb9f9-1704-5d83-afb1-7c4bf8981022
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.38
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: a035dea9-34f6-5241-b0c2-4bd7b0abbcc7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means intended to protect the measuring instrument against any unauthorized
+      modification, readjustment, removal of parts, software, etc. It can be achieved
+      by hardware, software or a combination of both
+  examples: []
+  id: 02205-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.38
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sealing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 894fb9f9-1704-5d83-afb1-7c4bf8981022

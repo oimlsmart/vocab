@@ -1,0 +1,45 @@
+data:
+  identifier: '02203'
+  localized_concepts:
+    eng: 78afb4dd-c27f-562a-bbf4-f4c3e4cca76f
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.36
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 6db4b72c-2cae-5df2-a8f5-31a0707ae15f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of a measuring instrument to accomplish its intended functions
+  examples: []
+  id: 02203-eng
+  notes:
+  - content: '[OIML D 11:2004, 3.16]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.36
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 78afb4dd-c27f-562a-bbf4-f4c3e4cca76f

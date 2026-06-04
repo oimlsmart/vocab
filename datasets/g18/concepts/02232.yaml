@@ -1,0 +1,44 @@
+data:
+  identifier: '02232'
+  localized_concepts:
+    eng: 561d5f6c-4a40-56a2-bb1c-67f5e3991304
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 9e595e17-129c-581c-b084-719f26fc4db4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: distance between the dipping datum point and the upper reference point
+  examples: []
+  id: 02232-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference height
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 561d5f6c-4a40-56a2-bb1c-67f5e3991304

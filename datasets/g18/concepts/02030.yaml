@@ -1,0 +1,45 @@
+data:
+  identifier: '02030'
+  localized_concepts:
+    eng: 4607bcc1-d7ed-57bc-a591-984666202fce
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.4.9
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 14a74f46-05c3-5326-8541-6c98b53b6873
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device which allows switching from one bank to another. This device may
+      be included in a measuring system or may be part of the refueling station
+  examples: []
+  id: 02030-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.4.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sequential control device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4607bcc1-d7ed-57bc-a591-984666202fce

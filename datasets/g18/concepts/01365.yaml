@@ -1,0 +1,44 @@
+data:
+  identifier: '01365'
+  localized_concepts:
+    eng: 1130adf4-e79e-5aa5-bb55-59c06a067bff
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.3.4
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 9d4a1912-b15b-550d-80d3-a7ffd089ac5a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: discrete load on the load receptor of more than Max plus 9 dt
+  examples: []
+  id: 01365-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.3.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overload
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1130adf4-e79e-5aa5-bb55-59c06a067bff

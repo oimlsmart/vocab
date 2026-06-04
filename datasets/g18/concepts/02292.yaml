@@ -1,0 +1,45 @@
+data:
+  identifier: 02292
+  localized_concepts:
+    eng: 4006bf23-bd62-5f6f-8933-55d346625036
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.53'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: cfa2b644-6df6-50e6-910c-ae3384805ed5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of a measuring instrument to maintain its performance characteristics
+      over a period of use
+  examples: []
+  id: 02292-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.53'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4006bf23-bd62-5f6f-8933-55d346625036

@@ -1,0 +1,46 @@
+data:
+  identifier: '02217'
+  localized_concepts:
+    eng: b99f65b9-868f-5831-864b-93913a1ac094
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.50
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 44fa7b04-b834-53bc-abbd-8987e2aa1e63
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: series of operations intended to verify the compliance of the equipment
+      under test (EUT) with the specified requirements
+  examples: []
+  id: 02217-eng
+  notes:
+  - content: '[OIML D 11:2004, 3.20]'
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.50
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b99f65b9-868f-5831-864b-93913a1ac094

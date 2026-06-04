@@ -1,0 +1,53 @@
+data:
+  identifier: 00902
+  localized_concepts:
+    eng: 784d14df-b6dd-500d-9e74-994c7cb8457e
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 8e567a2b-6f94-5526-af2a-11f39406594d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'b) a) a digital display can be realized as a primary display or as a
+      secondary display: primary display: Either incorporated in the indicator housing
+      orin the terminal housing or realized as a display in a separate housing (i.e.
+      terminal without keys), e.g. for use in combination with a weighing module.
+      secondary display: Additional peripheral device (optional) which repeats the
+      weighing result and any other primary indication, or provides further, non-metrological
+      information'
+  examples: []
+  id: 00902-eng
+  notes:
+  - content: The terms “primary display” and “secondary display” should not be confused
+      with the terms “primary indication” and “secondary indication” (T.1.3.1 and
+      T.1.3.2)
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital display
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 784d14df-b6dd-500d-9e74-994c7cb8457e

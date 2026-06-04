@@ -1,0 +1,47 @@
+data:
+  identifier: 01878
+  localized_concepts:
+    eng: cd556c87-00ae-544a-84cc-5173db8aff32
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+    locality:
+      type: clause
+      reference_from: '2.39'
+    type: authoritative
+  domains:
+  - concept_id: section-R135
+    ref_type: section
+status: valid
+id: ebbb2cde-0942-5768-8a05-6e042e55c87a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: decision of legal relevance, based on the evaluation report, that [VIML,
+      2.6] the type of measuring instrument complies with the relevant statutory requirements
+      and is suitable for use in the regulated area in such a way that it is expected
+      to provide reliable measurement results over a defined period of time
+  examples: []
+  id: 01878-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R135:2004
+      locality:
+        type: clause
+        reference_from: '2.39'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: cd556c87-00ae-544a-84cc-5173db8aff32

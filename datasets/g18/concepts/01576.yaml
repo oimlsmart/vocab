@@ -1,0 +1,45 @@
+data:
+  identifier: '01576'
+  localized_concepts:
+    eng: 000eb042-e12c-54e2-a7f3-27bb668ebb58
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.i.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 5d7bc1ba-8bb7-5152-afb8-2a2fa550d9a1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the meter that displays the measurement results
+  examples: []
+  id: 01576-eng
+  notes:
+  - content: (see also Annex B)
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.i.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indicating device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 000eb042-e12c-54e2-a7f3-27bb668ebb58

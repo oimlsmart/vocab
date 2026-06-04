@@ -1,0 +1,45 @@
+data:
+  identifier: '00130'
+  localized_concepts:
+    eng: 6d534b8b-1291-5956-ab27-5d04681d4b75
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: 6764537c-9d75-514f-a6ab-e1988a739bd2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a period of time during which the pattern approval is recognized by the
+      approving legal metrology agency as being in effect
+  examples: []
+  id: 00130-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: validity of pattern approval
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6d534b8b-1291-5956-ab27-5d04681d4b75

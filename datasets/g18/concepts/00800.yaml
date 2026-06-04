@@ -1,0 +1,45 @@
+data:
+  identifier: 00800
+  localized_concepts:
+    eng: 76b8c33f-b09b-5f96-8dce-dbc7c4a547cb
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 9c3b089e-26dd-5143-ba97-a1ef3a12975b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: intrinsic error of a weighing instrument as determined prior to performance
+      and span stability tests
+  examples: []
+  id: 00800-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial intrinsic error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 76b8c33f-b09b-5f96-8dce-dbc7c4a547cb

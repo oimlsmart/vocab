@@ -1,0 +1,45 @@
+data:
+  identifier: '00234'
+  localized_concepts:
+    eng: 94d5f246-ebd2-5df1-b1cd-05da75b14eba
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.11'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 83330beb-98dc-56ef-8d87-f07a91e5c0ab
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the intrinsic error after a period of use and the
+      initial intrinsic error of a measuring instrument
+  examples: []
+  id: 00234-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 94d5f246-ebd2-5df1-b1cd-05da75b14eba

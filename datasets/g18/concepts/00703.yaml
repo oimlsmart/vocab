@@ -1,0 +1,44 @@
+data:
+  identifier: '00703'
+  localized_concepts:
+    eng: a44b5f8b-0580-5775-9814-02252a934940
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.1.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 6625fc81-ab8f-594a-9656-286e690168d3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: tension force applied to a load cell
+  examples: []
+  id: 00703-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.1.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tension loading
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a44b5f8b-0580-5775-9814-02252a934940

@@ -1,0 +1,46 @@
+data:
+  identifier: 00928
+  localized_concepts:
+    eng: 0a77f754-f8a4-5ea9-955f-bcaebd5780d0
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.5
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: a8a3c976-3e1b-559a-9d52-add584fbc571
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for subtracting a preset tare value from a gross or net weight
+      value and indicating the result of the calculation. The weighing range for net
+      loads is reduced accordingly
+  examples: []
+  id: 00928-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preset tare device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a77f754-f8a4-5ea9-955f-bcaebd5780d0

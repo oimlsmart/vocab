@@ -1,0 +1,45 @@
+data:
+  identifier: 00197
+  localized_concepts:
+    eng: bff8b095-a680-521d-8fe4-8dfb3dd4cf6d
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.15'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: f5d3c27b-1a7a-5c9c-957b-8b5df4dc5465
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: public (government or local government) body authorized by law on a national
+      level to be responsible for metrological supervision as a whole or in part
+  examples: []
+  id: 00197-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.15'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bff8b095-a680-521d-8fe4-8dfb3dd4cf6d

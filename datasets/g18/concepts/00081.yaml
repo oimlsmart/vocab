@@ -1,0 +1,47 @@
+data:
+  identifier: 00081
+  localized_concepts:
+    eng: fe04dd2d-440e-58dd-9ef9-8332f46fe067
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-B003
+    ref_type: section
+status: valid
+id: 78896646-15f8-5ab0-b50a-6c02958f87cb
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: identifiable group of measuring instruments belonging to the same manufactured
+      type within the same category that have the same design features and metrological
+      principles for measurement but which may differ in some metrological and technical
+      performance characteristics, as defined in the relevant Recommendation
+  examples: []
+  id: 00081-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B003:2003
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: family of measuring instruments
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fe04dd2d-440e-58dd-9ef9-8332f46fe067

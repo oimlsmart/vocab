@@ -1,0 +1,45 @@
+data:
+  identifier: '01761'
+  localized_concepts:
+    eng: b96d59e0-ba66-5bfa-a4c7-9ca7f93e74ca
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+    locality:
+      type: clause
+      reference_from: '3.4'
+    type: authoritative
+  domains:
+  - concept_id: section-R132
+    ref_type: section
+status: valid
+id: 662de907-a3bb-52ee-8fe8-22cee4359fce
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: first derivative of the electron paramagnetic absorption spectrum with
+      respect to the magnetic field
+  examples: []
+  id: 01761-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R132:2001
+      locality:
+        type: clause
+        reference_from: '3.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: EPR spectrum
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b96d59e0-ba66-5bfa-a4c7-9ca7f93e74ca

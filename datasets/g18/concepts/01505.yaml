@@ -1,0 +1,46 @@
+data:
+  identifier: '01505'
+  localized_concepts:
+    eng: 18074829-e7fd-5999-8bca-5e39a6821f62
+  sources:
+  - origin:
+      ref:
+        source: OIML R114:1995
+    locality:
+      type: clause
+      reference_from: '2.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R114
+    ref_type: section
+status: valid
+id: 9490d041-0452-56c5-8732-5202cb83090a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a clinical electrical thermometer, as covered by this Recommendation,
+      is a contact thermometer comprising a temperature probe and an indicating unit,
+      and that is designed to measure human or animal body temperature
+  examples: []
+  id: 01505-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R114:1995
+      locality:
+        type: clause
+        reference_from: '2.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: clinical electrical thermometer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 18074829-e7fd-5999-8bca-5e39a6821f62

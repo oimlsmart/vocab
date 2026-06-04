@@ -1,0 +1,46 @@
+data:
+  identifier: '01124'
+  localized_concepts:
+    eng: 61ed1007-91d8-5aba-a1b0-c76b0338b8f0
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+    locality:
+      type: clause
+      reference_from: '3.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R093
+    ref_type: section
+status: valid
+id: c7a1b23b-cfee-58b5-8bbe-61a14dee2248
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that is used to measure vertex powers and prismatic effects
+      of spectacle and contact lenses, to orientate and mark uncut lenses, and to
+      verify the correct mounting of lenses in spectacle frames
+  examples: []
+  id: 01124-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R093:1999
+      locality:
+        type: clause
+        reference_from: '3.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: focimeter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 61ed1007-91d8-5aba-a1b0-c76b0338b8f0

@@ -1,0 +1,46 @@
+data:
+  identifier: 00597
+  localized_concepts:
+    eng: f397c4e8-cea6-5491-ac8b-2e9fbcd4b3c9
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.8.6
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: b815154e-6c96-5314-8760-e2b020c57c56
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: unambiguous separation of software into legally relevant software and
+      non-legally relevant software. If no software separation exists, the whole software
+      is to be considered as legally relevant
+  examples: []
+  id: 00597-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.8.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: software separation
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f397c4e8-cea6-5491-ac8b-2e9fbcd4b3c9

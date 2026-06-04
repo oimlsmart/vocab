@@ -1,0 +1,48 @@
+data:
+  identifier: 01913
+  localized_concepts:
+    eng: ae410211-714d-5672-819c-625321712a71
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.4.10
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: e393afc1-efce-5cff-b677-cac21dce8443
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'closeness of the agreement between the results of successive The changed
+      conditions may include: leather area measurements carried out under changed
+      conditions • lea ofmeasurement mecha • lea • ope • loc • tim'
+  examples: []
+  id: 01913-eng
+  notes:
+  - content: ther-measuring instrument (e.g. use of a nical or electronic pinwheel,
+      etc.); ther material; rator; ation; and e.
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.4.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reproducibility error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ae410211-714d-5672-819c-625321712a71

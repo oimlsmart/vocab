@@ -1,0 +1,44 @@
+data:
+  identifier: '01412'
+  localized_concepts:
+    eng: f76e194c-5a98-5172-ac9d-fd465b466408
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R109
+    ref_type: section
+status: valid
+id: ab97b6e0-f7ff-50e8-8411-c54d5199b767
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a pressure less than ambient pressure
+  examples: []
+  id: 01412-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vacuum
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f76e194c-5a98-5172-ac9d-fd465b466408

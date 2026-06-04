@@ -1,0 +1,47 @@
+data:
+  identifier: 00190
+  localized_concepts:
+    eng: 051f381a-8ae3-5324-8cc5-741e0c7f9d11
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.8'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 25b5ed48-e1f9-5cd3-a7c3-f6c6febf2849
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: function of an investigation to ascertain that the legal requirements
+      related to the matter under investigation are observed.
+  examples: []
+  id: 00190-eng
+  notes:
+  - content: A more general form of the definition is given in the VIML under 2.21
+      for inspection of a measuring instrument)
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inspection
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 051f381a-8ae3-5324-8cc5-741e0c7f9d11

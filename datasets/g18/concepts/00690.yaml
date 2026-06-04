@@ -1,0 +1,45 @@
+data:
+  identifier: 00690
+  localized_concepts:
+    eng: acf363f0-6d85-54f7-bb5c-6dc06acba909
+  sources:
+  - origin:
+      ref:
+        source: OIML R055:1981
+    locality:
+      type: clause
+      reference_from: '1.1'
+    type: authoritative
+  domains:
+  - concept_id: section-R055
+    ref_type: section
+status: valid
+id: c02da0e6-26c8-5a49-bcab-ac59bcb94e0b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument designed to indicate to the driver, the instantaneous speed
+      of his vehicle
+  examples: []
+  id: 00690-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R055:1981
+      locality:
+        type: clause
+        reference_from: '1.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: speedometer
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: acf363f0-6d85-54f7-bb5c-6dc06acba909

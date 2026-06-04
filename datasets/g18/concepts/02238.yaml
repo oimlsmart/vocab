@@ -1,0 +1,45 @@
+data:
+  identifier: 02238
+  localized_concepts:
+    eng: 6502af6c-d013-5fdf-bd27-9c76547cd994
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 7110899a-6226-52c4-89f9-027d57fccb3d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: capacity below which the maximum permissible error is exceeded, taking
+      account of the shape of the tank and the calibration method
+  examples: []
+  id: 02238-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lower limit of accurate capacity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6502af6c-d013-5fdf-bd27-9c76547cd994

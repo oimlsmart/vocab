@@ -1,0 +1,44 @@
+data:
+  identifier: '02035'
+  localized_concepts:
+    eng: f0a32ae1-9cff-5fd4-bc2c-b6d2683c9f5a
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.5.5
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: b4ff7cc2-c4f0-5c64-8f93-142f86586118
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: checking facility operating without the intervention of an operator
+  examples: []
+  id: 02035-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.5.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f0a32ae1-9cff-5fd4-bc2c-b6d2683c9f5a

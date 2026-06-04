@@ -1,0 +1,44 @@
+data:
+  identifier: '01110'
+  localized_concepts:
+    eng: 9e9a7c07-63b3-5f81-847a-a17ff0072b97
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: bab5ac5d-21bc-5f5c-8384-2ed745015cc9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: quantity of product in a prepackage
+  examples: []
+  id: 01110-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: content of a prepackage
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9e9a7c07-63b3-5f81-847a-a17ff0072b97

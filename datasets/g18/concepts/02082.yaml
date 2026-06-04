@@ -1,0 +1,45 @@
+data:
+  identifier: 02082
+  localized_concepts:
+    eng: 21bf4e1b-4243-5a15-b6eb-536a811fce7a
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+    locality:
+      type: clause
+      reference_from: T.2.16
+    type: authoritative
+  domains:
+  - concept_id: section-R140
+    ref_type: section
+status: valid
+id: 95bb7cca-40bd-543b-b1af-c63725ed356a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: difference between the error of indication and the intrinsic error of
+      a measuring system or of its constituent elements
+  examples: []
+  id: 02082-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R140:2007
+      locality:
+        type: clause
+        reference_from: T.2.16
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 21bf4e1b-4243-5a15-b6eb-536a811fce7a

@@ -1,0 +1,47 @@
+data:
+  identifier: '00166'
+  localized_concepts:
+    eng: 1405c6f6-496c-592d-b441-3002fdae5fba
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-D027
+    ref_type: section
+status: valid
+id: 7dc18f18-64f3-5e25-8ecc-bcf9f74b515c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: procedure (other than type approval) which includes the examination and
+      marking and/or issuing of a verification certificate, that ascertains and confirms
+      that the measuring instrument complies with the statutory requirements [VIML,
+      2.13]
+  examples: []
+  id: 00166-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D027:2001
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verification of a measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1405c6f6-496c-592d-b441-3002fdae5fba

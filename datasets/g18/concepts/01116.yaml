@@ -1,0 +1,45 @@
+data:
+  identifier: '01116'
+  localized_concepts:
+    eng: 66ea360b-e2aa-5057-a69d-d290506ef58c
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: 6f140046-8205-5657-ae17-2db7e33607ab
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: prepackage that is made, formed, presented, marked or filled in any way
+      that may mislead a consumer about the quantity of contents that it contains
+  examples: []
+  id: 01116-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: misleading prepackage
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 66ea360b-e2aa-5057-a69d-d290506ef58c

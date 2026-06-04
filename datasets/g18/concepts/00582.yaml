@@ -1,0 +1,44 @@
+data:
+  identifier: 00582
+  localized_concepts:
+    eng: 1b702fb5-0915-56af-87ce-0aa8ac80fda0
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: dadc12e3-7f02-5110-aaf2-2acd9f6aa21d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: system used to transport the load over the load receptor
+  examples: []
+  id: 00582-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load transport system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1b702fb5-0915-56af-87ce-0aa8ac80fda0

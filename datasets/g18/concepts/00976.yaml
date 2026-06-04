@@ -1,0 +1,47 @@
+data:
+  identifier: 00976
+  localized_concepts:
+    eng: 02f73561-198c-5917-8a5a-b25088a2501a
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: ad1c41a3-014d-5ad7-8aac-6276fa0c06d3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: shortest distance that an observer is able freely to approach the displaying
+      device to take a reading under normal conditions of use. This approach is considered
+      to be free for the observer if there is a clear space of at least 0.8 m in front
+      of the displaying device (see Figure 2)
+  examples: []
+  id: 00976-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum reading distance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 02f73561-198c-5917-8a5a-b25088a2501a

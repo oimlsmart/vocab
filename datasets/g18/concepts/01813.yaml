@@ -1,0 +1,46 @@
+data:
+  identifier: 01813
+  localized_concepts:
+    eng: 77a29ccc-dda9-55e5-a541-d2f34f16431c
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 7a8c8b85-8cf5-5292-b37d-43c3e3f4ef40
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: value expressed in units of mass for weighing vehicles or test loads
+      that are stationary that is the difference between two consecutive indicated
+      or printed values
+  examples: []
+  id: 01813-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale interval for stationary load
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 77a29ccc-dda9-55e5-a541-d2f34f16431c

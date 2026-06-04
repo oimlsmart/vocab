@@ -1,0 +1,46 @@
+data:
+  identifier: '00725'
+  localized_concepts:
+    eng: 45d67eff-9d45-535b-899d-5bda9776822a
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.3.14
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 646923a2-322f-5546-86ea-1853349d1bcc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ratio of the maximum capacity, Emax, to the minimum load cell verification
+      interval, vmin. This ratio describes the resolution of the load cell independent
+      from the load cell capacity
+  examples: []
+  id: 00725-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.3.14
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative vmin or Y
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 45d67eff-9d45-535b-899d-5bda9776822a

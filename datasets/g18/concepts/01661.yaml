@@ -1,0 +1,45 @@
+data:
+  identifier: '01661'
+  localized_concepts:
+    eng: 7adf8e85-0721-590f-9af6-34de81800eed
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.35.3
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 6b32d08d-29b4-5734-8912-383e57896c4d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test intended to verify whether the equipment under test is able to
+      accomplish its intended functions
+  examples: []
+  id: 01661-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.35.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7adf8e85-0721-590f-9af6-34de81800eed

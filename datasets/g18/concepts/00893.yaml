@@ -1,0 +1,44 @@
+data:
+  identifier: 00893
+  localized_concepts:
+    eng: 3a066da8-9755-5c5b-ab7c-0973d4df320e
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 91f6f19c-22f8-5ed5-915a-273d3db896f9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the instrument intended to receive the load
+  examples: []
+  id: 00893-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load receptor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3a066da8-9755-5c5b-ab7c-0973d4df320e

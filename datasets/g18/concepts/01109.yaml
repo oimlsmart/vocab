@@ -1,0 +1,45 @@
+data:
+  identifier: 01109
+  localized_concepts:
+    eng: da03b9b3-6f18-5828-a764-1d821ac0dfea
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+    locality:
+      type: clause
+      reference_from: '2.2'
+    type: authoritative
+  domains:
+  - concept_id: section-R087
+    ref_type: section
+status: valid
+id: 89beaab4-52ef-54e9-a753-70eccd0bbad5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: sum of individual prepackage errors considering their arithmetic sign
+      divided by the number of prepackages in the sample
+  examples: []
+  id: 01109-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R087:2004
+      locality:
+        type: clause
+        reference_from: '2.2'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: average error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: da03b9b3-6f18-5828-a764-1d821ac0dfea

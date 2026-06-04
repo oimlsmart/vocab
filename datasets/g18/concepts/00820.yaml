@@ -1,0 +1,45 @@
+data:
+  identifier: 00820
+  localized_concepts:
+    eng: 7d666e57-409b-5814-a379-91430927f93d
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+    locality:
+      type: clause
+      reference_from: '3.3'
+    type: authoritative
+  domains:
+  - concept_id: section-R065
+    ref_type: section
+status: valid
+id: ee69720c-b4b4-52cf-9147-683cb2cc9549
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument that measures the force applied by the force generating device
+      of a material testing machine
+  examples: []
+  id: 00820-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R065:2006
+      locality:
+        type: clause
+        reference_from: '3.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: force measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7d666e57-409b-5814-a379-91430927f93d

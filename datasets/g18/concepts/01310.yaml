@@ -1,0 +1,45 @@
+data:
+  identifier: '01310'
+  localized_concepts:
+    eng: df9aa0dd-0b15-5658-b971-150d7b2c7f97
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.6.5
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: 4cd8a7ee-ecae-573e-a558-874c6a2ff239
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test to verify that the EUT is capable of maintaining its performance
+      characteristics over a period of use
+  examples: []
+  id: 01310-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.6.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: span stability test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: df9aa0dd-0b15-5658-b971-150d7b2c7f97

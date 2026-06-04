@@ -1,0 +1,47 @@
+data:
+  identifier: 02168
+  localized_concepts:
+    eng: 70675b2b-447b-52b6-8ca1-307e8b521d23
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 64c50e6d-f9de-584b-945d-d02705313f12
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: design or principle of a software module or hardware unit, or design
+      or principle of a feature that is considered to comply with a particular requirement.
+      An acceptable solution provides an example of how a particular requirement may
+      be met. It does not prejudice any other solution that also meets the requirement
+  examples: []
+  id: 02168-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: acceptable solution
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 70675b2b-447b-52b6-8ca1-307e8b521d23

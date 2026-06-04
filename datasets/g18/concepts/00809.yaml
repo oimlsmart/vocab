@@ -1,0 +1,46 @@
+data:
+  identifier: 00809
+  localized_concepts:
+    eng: 07718e59-4b24-5db2-a630-f462e1fb6938
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: e0fd3ca7-63d3-571d-85df-05f4b351ca91
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[b quantity that is not the subject of the measurement but which influences
+      the value of the measurand or the indication of the filling instrument ased
+      on VIM:1993, 2.7]'
+  examples: []
+  id: 00809-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence quantity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 07718e59-4b24-5db2-a630-f462e1fb6938

@@ -1,0 +1,45 @@
+data:
+  identifier: 00668
+  localized_concepts:
+    eng: 3a0e0829-9628-5061-b334-e1563130b417
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.3
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 3712af02-82e6-5977-b2e2-3de49e5e741c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: inte set of specified values of influence factors fixed to ensure valid
+      r-comparison of the results of measurements
+  examples: []
+  id: 00668-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions [VIM:1993, 5.7 [1]]
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3a0e0829-9628-5061-b334-e1563130b417

@@ -1,0 +1,45 @@
+data:
+  identifier: '00242'
+  localized_concepts:
+    eng: d35bae18-ec7e-54b5-a0ee-5e9907f5603a
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: '3.17'
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 6cd81e78-239d-5452-bf2b-8d86c94702ac
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: ability of a measuring instrument to maintain its performance characteristics
+      over a period of use
+  examples: []
+  id: 00242-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: '3.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d35bae18-ec7e-54b5-a0ee-5e9907f5603a

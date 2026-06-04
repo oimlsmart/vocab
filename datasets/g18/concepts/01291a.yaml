@@ -1,0 +1,45 @@
+data:
+  identifier: 01291a
+  localized_concepts:
+    eng: d6c188ae-c644-5f63-b353-6ab9620215e1
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.4.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: dbaf1953-e6c9-5641-ad4e-65a0ecb783ed
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an indication allowing the determination of an equilibrium position to
+      a fraction of the scale interval
+  examples: []
+  id: 01291a-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.4.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analogue indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d6c188ae-c644-5f63-b353-6ab9620215e1

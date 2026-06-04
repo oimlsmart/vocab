@@ -1,0 +1,44 @@
+data:
+  identifier: '01334'
+  localized_concepts:
+    eng: 946c3a60-6603-5070-bc59-baaf98be47b1
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.4.1
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 44e6f827-13be-5156-ba65-78c9669ce517
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero by an operator
+  examples: []
+  id: 01334-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.4.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-automatic zero-setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 946c3a60-6603-5070-bc59-baaf98be47b1

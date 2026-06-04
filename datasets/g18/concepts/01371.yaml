@@ -1,0 +1,49 @@
+data:
+  identifier: '01371'
+  localized_concepts:
+    eng: 285f8adf-c072-5d86-b8ac-030398c1a84a
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.9
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 158de5ae-350e-5c95-8e98-c21ccc1c5cf5
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[ closeness of the agreement between the results of successive For an
+      instrument, this is its ability to provide measurements of the same measurand
+      carried out under the same weighi conditions of measurement under VIM: 1993,
+      3.6] condit'
+  examples: []
+  id: 01371-eng
+  notes:
+  - content: ng results that agree one with the other the same or constant operating
+      ions.
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repeatability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 285f8adf-c072-5d86-b8ac-030398c1a84a

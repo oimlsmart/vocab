@@ -1,0 +1,44 @@
+data:
+  identifier: '00251'
+  localized_concepts:
+    eng: d8993d03-33b1-5fdc-ac54-bdd9430e58e6
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: 3.20.2
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 0eea420c-bce0-5c24-bb0e-0ce33b5c9968
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: description of a series of tests for certain types of equipment
+  examples: []
+  id: 00251-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: 3.20.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test program
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d8993d03-33b1-5fdc-ac54-bdd9430e58e6

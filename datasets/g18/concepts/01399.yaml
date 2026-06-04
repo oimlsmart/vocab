@@ -1,0 +1,48 @@
+data:
+  identifier: 01399
+  localized_concepts:
+    eng: 40c78eb0-94a7-5c89-8b55-9c2f672359e6
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: b50725db-6a29-5ab9-ab64-cbf5f60c8e23
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[V conditions of use for which specified metrological characteristics
+      of an instrument are intended to lie within given limits IM: 1993, 5.5]'
+  examples: []
+  id: 01399-eng
+  notes:
+  - content: These conditions of use are the range of weight values and the range
+      of influence quantity values for which the indication of an instrument is intended
+      to lie within maximum permissible errors.
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating condition
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 40c78eb0-94a7-5c89-8b55-9c2f672359e6

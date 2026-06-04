@@ -1,0 +1,44 @@
+data:
+  identifier: '01340'
+  localized_concepts:
+    eng: efcb58ca-1076-5364-889e-eb3617e2c0fc
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: b2edee0e-f8ea-5986-a1f6-872e88b5e11f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument fitted with the appropriate safety and dust control features
+  examples: []
+  id: 01340-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: air-enclosed integrated system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: efcb58ca-1076-5364-889e-eb3617e2c0fc

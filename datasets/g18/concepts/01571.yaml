@@ -1,0 +1,45 @@
+data:
+  identifier: '01571'
+  localized_concepts:
+    eng: 57646d7a-8ff9-5563-9e52-7cf3f40751ca
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.g.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 574c1cba-0e63-5d96-975c-e3a1fd20b6d1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: gas elimination device used for continuously separating, and removing,
+      any mixed air or gases contained in the liquid
+  examples: []
+  id: 01571-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.g.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas separator
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 57646d7a-8ff9-5563-9e52-7cf3f40751ca

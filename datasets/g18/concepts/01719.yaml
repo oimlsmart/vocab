@@ -1,0 +1,44 @@
+data:
+  identifier: 01719
+  localized_concepts:
+    eng: 39cb4d14-0ac4-581e-ba07-ebfb6e443442
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.20'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 42d55e90-32dd-5858-824a-9041e3659fe3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a multi-dimensional measuring instrument equipped with electronic devices
+  examples: []
+  id: 01719-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic multi-dimensional measuring instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 39cb4d14-0ac4-581e-ba07-ebfb6e443442

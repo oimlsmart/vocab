@@ -1,0 +1,45 @@
+data:
+  identifier: 01790
+  localized_concepts:
+    eng: 178b0b01-e9aa-52dd-93f6-331080367b28
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.1.6.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: f5e4cbcb-e050-5fb1-90ec-fb0ad40472d9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the weigh zone that is not the load receptor but which is located
+      on either end of the load receptor
+  examples: []
+  id: 01790-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.1.6.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: apron
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 178b0b01-e9aa-52dd-93f6-331080367b28

@@ -1,0 +1,49 @@
+data:
+  identifier: '00104'
+  localized_concepts:
+    eng: 4946c7fd-ad56-59e4-a3fa-3fff4ebf91cf
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: a2736996-666f-544a-9982-81aaf3afdf37
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: principal laboratory including any necessary specialized laboratory or
+      laboratories designated by the Issuing Authority to carry out examination and
+      testing of a sample or samples of a measuring instrument submitted for type
+      evaluation, with the principal laboratory assuming responsibility for the evaluation
+      results reported
+  examples: []
+  id: 00104-eng
+  notes:
+  - content: See Note under 3.11.
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: testing laboratory
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4946c7fd-ad56-59e4-a3fa-3fff4ebf91cf

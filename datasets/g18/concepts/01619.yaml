@@ -1,0 +1,45 @@
+data:
+  identifier: 01619
+  localized_concepts:
+    eng: 6e950914-b526-51cd-854b-65624cd72e91
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.5
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: 4a15f5bd-fafe-5027-9e4b-eeee64802204
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a table which shows the relation between the height of the liquid level
+      and the volume contained in the tank at that level under specified conditions
+  examples: []
+  id: 01619-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tank calibration table
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6e950914-b526-51cd-854b-65624cd72e91

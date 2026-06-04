@@ -1,0 +1,47 @@
+data:
+  identifier: 00970
+  localized_concepts:
+    eng: af183c96-0ad3-5017-a3ce-0bae90b1c332
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.3.1
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: b92c2996-b5eb-5521-ae92-39e7659baf10
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'numerical value, representing a weight, that is introduced into the
+      instrument and is intended to be applied to other weighings without determining
+      individual tares. “Introduced” includes procedures such as: keying in, recalling
+      from a data storage device, or inserting via an interface'
+  examples: []
+  id: 00970-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.3.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preset tare value
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: af183c96-0ad3-5017-a3ce-0bae90b1c332

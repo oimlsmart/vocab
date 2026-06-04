@@ -1,0 +1,44 @@
+data:
+  identifier: 00359
+  localized_concepts:
+    eng: bb847e63-6d87-5483-a768-c6b187352291
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.2.10
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 04a461fc-f3e4-56ee-82f6-9635e5a2a0aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device used to produce hardcopies (printouts) of the measurement results
+  examples: []
+  id: 00359-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.2.10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: printing device (printer)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bb847e63-6d87-5483-a768-c6b187352291

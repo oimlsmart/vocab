@@ -1,0 +1,44 @@
+data:
+  identifier: 00969
+  localized_concepts:
+    eng: 8b8ad3d0-483d-56c5-99f0-10731876f76a
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 39f08733-9090-56f4-aa6f-d64e2216c49b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weight value of a load, determined by a tare weighing device
+  examples: []
+  id: 00969-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tare value, T
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8b8ad3d0-483d-56c5-99f0-10731876f76a

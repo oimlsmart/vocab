@@ -1,0 +1,50 @@
+data:
+  identifier: 00598
+  localized_concepts:
+    eng: 68167eb5-4a6c-58ec-8f6a-499f13bd25ed
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.8.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 09b08a63-7056-542a-aec3-120ac50a3cbe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[ device employing electronic sub-assemblies and performing a specific
+      function. Electronic devices are usually manufactured as be separate units and
+      are capable of being tested independently fo OIML D 11: 2004, 3.2] in we pr'
+  examples: []
+  id: 00598-eng
+  notes:
+  - content: An electronic device, as defined above, may a complete instrument (e.g.
+      an instrument r direct sales to the public), a module (e.g. dicator, analog
+      data processing device, ighing module) or a peripheral device (e.g. inter, secondary
+      display).
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.8.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 68167eb5-4a6c-58ec-8f6a-499f13bd25ed

@@ -1,0 +1,45 @@
+data:
+  identifier: '01227'
+  localized_concepts:
+    eng: 78a1ba3f-6e3c-5046-ab9e-41ba2db3b764
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.13.4
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: c2cf60f9-9f1e-592a-b9b4-23da318b80dc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a device that provides the electronic devices with the required electrical
+      energy, using one or several sources of D.C. or A.C
+  examples: []
+  id: 01227-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.13.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: power supply
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 78a1ba3f-6e3c-5046-ab9e-41ba2db3b764

@@ -1,0 +1,46 @@
+data:
+  identifier: '01260'
+  localized_concepts:
+    eng: 59a4c076-cfd9-50bb-8bd7-e002463080a6
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+    locality:
+      type: clause
+      reference_from: T.2
+    type: authoritative
+  domains:
+  - concept_id: section-R106-1
+    ref_type: section
+status: valid
+id: a2e872b0-c1d4-55a0-9a2e-6027eac86e5a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (-) In this Recommendation the term “device” is
+  examples: []
+  id: 01260-eng
+  notes:
+  - content: applied to any part which uses any means to perform one or more specific
+      functions.
+  sources:
+  - origin:
+      ref:
+        source: OIML R106-1:1997
+      locality:
+        type: clause
+        reference_from: T.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: construction
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 59a4c076-cfd9-50bb-8bd7-e002463080a6

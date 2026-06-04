@@ -1,0 +1,44 @@
+data:
+  identifier: '02234'
+  localized_concepts:
+    eng: 251e78b6-d953-5a43-b6bc-bc24728e84ed
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+    locality:
+      type: clause
+      reference_from: '3.10'
+    type: authoritative
+  domains:
+  - concept_id: section-R071
+    ref_type: section
+status: valid
+id: 85ca05fc-0dc5-5c52-8236-545897d48ddd
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: reference conditions applicable for the calibration certificate
+  examples: []
+  id: 02234-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R071:2008
+      locality:
+        type: clause
+        reference_from: '3.10'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 251e78b6-d953-5a43-b6bc-bc24728e84ed

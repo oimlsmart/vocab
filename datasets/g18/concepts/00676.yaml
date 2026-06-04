@@ -1,0 +1,45 @@
+data:
+  identifier: '00676'
+  localized_concepts:
+    eng: b6f4aa48-1e11-52f7-a164-3000fd0d33f8
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+    locality:
+      type: clause
+      reference_from: T
+    type: authoritative
+  domains:
+  - concept_id: section-R053
+    ref_type: section
+status: valid
+id: 2961245a-b564-53ac-a4b5-5aac9a782d02
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: that part of the elastic sensing element, whose displacement is converted
+      into an indication of the instrument
+  examples: []
+  id: 00676-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R053:1982
+      locality:
+        type: clause
+        reference_from: T
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b6f4aa48-1e11-52f7-a164-3000fd0d33f8

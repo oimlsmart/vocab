@@ -1,0 +1,45 @@
+data:
+  identifier: 02259
+  localized_concepts:
+    eng: 69f9d6e9-5b67-5c88-a875-b0e0252003a6
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.20'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: bdbed6b0-7196-5db9-8d26-aca05e485e01
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: change in the level of liquid Δh divided by the corresponding relative
+      change in volume ΔV/V for the contained volume V at the level h
+  examples: []
+  id: 02259-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sensitivity of a tank
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 69f9d6e9-5b67-5c88-a875-b0e0252003a6

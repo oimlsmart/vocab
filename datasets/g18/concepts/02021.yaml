@@ -1,0 +1,54 @@
+data:
+  identifier: '02021'
+  localized_concepts:
+    eng: 589eee00-ab5e-59dc-86f7-2f67eecd3eed
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.3.12
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 34cf2f74-f3d2-577b-854a-d52d228a3527
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'for the mass, a fault the magnitude of which is greater than the larger
+      of these two values: - one tenth of the magnitude of the maximum permissible
+      error for the measuring system and for the measured mass, - the minimum specified
+      mass deviation. For the price to pay, the price corresponding to the significant
+      fault for the mass. The following are not considered to be significant faults:
+      - faults arising from simultaneous and mutually independent causes in the measuring
+      instrument itself or in its checking facilities, - transitory faults being momentary
+      variations in the indication, which cannot be interpreted, memorized or transmitted
+      as a measurement result, - faults implying the impossibility of performing any
+      measurement.'
+  examples: []
+  id: 02021-eng
+  notes:
+  - content: No fault is allowed for the unit price.
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.3.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: significant fault
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 589eee00-ab5e-59dc-86f7-2f67eecd3eed

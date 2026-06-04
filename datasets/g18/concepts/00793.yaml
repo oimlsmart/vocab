@@ -1,0 +1,44 @@
+data:
+  identifier: 00793
+  localized_concepts:
+    eng: add549f2-f704-50ce-9154-a1c50049d705
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.11
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 510233ca-2e6c-5363-aaa6-34c17ed1221d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: load that is used in static tests only
+  examples: []
+  id: 00793-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: static test load
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: add549f2-f704-50ce-9154-a1c50049d705

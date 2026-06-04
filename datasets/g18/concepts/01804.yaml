@@ -1,0 +1,45 @@
+data:
+  identifier: 01804
+  localized_concepts:
+    eng: bb1823ec-bf9e-5bfb-807d-1a7ad325b92a
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: e0025c6f-4692-561e-a7d8-f6ddaa77d1ef
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: determination of the mass of a vehicle that is entirely supported on
+      the load receptor(s)
+  examples: []
+  id: 01804-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: full draught weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: bb1823ec-bf9e-5bfb-807d-1a7ad325b92a

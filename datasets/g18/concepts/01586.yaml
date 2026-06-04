@@ -1,0 +1,45 @@
+data:
+  identifier: 01586
+  localized_concepts:
+    eng: 3d27faf3-be3a-5934-9dda-484b95e808d3
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.p.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 6fdf2299-e60e-59b0-972a-3217b858df68
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the equipment under test (EUT) iscapable
+      of accomplishing its intended functions
+  examples: []
+  id: 01586-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.p.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3d27faf3-be3a-5934-9dda-484b95e808d3

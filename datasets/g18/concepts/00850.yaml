@@ -1,0 +1,45 @@
+data:
+  identifier: 00850
+  localized_concepts:
+    eng: c6da4525-1849-504e-b4e4-c40d3a4cf65e
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+    locality:
+      type: clause
+      reference_from: '3.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R075-1
+    ref_type: section
+status: valid
+id: 9422fd1c-879c-5b71-96c4-54e7ca1b863f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a sub-assembly, a combination of subassemblies or a complete meter subject
+      to a test
+  examples: []
+  id: 00850-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R075-1:2002
+      locality:
+        type: clause
+        reference_from: '3.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equipment under test (EUT)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c6da4525-1849-504e-b4e4-c40d3a4cf65e

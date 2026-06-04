@@ -1,0 +1,45 @@
+data:
+  identifier: '01546'
+  localized_concepts:
+    eng: ca2366c2-0f37-5e1c-9463-8eef84922412
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+    locality:
+      type: clause
+      reference_from: T.c.3.2
+    type: authoritative
+  domains:
+  - concept_id: section-R117-1
+    ref_type: section
+status: valid
+id: 65a664d0-1b1f-510a-873c-6a95da5c4909
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'values of the conditions which characterize the liquid during measurement
+      at the point of measurement (example: temperature and pressure of the liquid)'
+  examples: []
+  id: 01546-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R117-1:2007
+      locality:
+        type: clause
+        reference_from: T.c.3.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metering conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ca2366c2-0f37-5e1c-9463-8eef84922412

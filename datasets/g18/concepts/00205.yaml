@@ -1,0 +1,45 @@
+data:
+  identifier: '00205'
+  localized_concepts:
+    eng: 8e1b07ef-8b8a-507e-940b-8834f03f2600
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.23'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: 7bb20f6d-40f3-5351-80ac-cfaac46addc9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: moment of the first use by the end-user of a measuring instrument for
+      the purposes for which it was designed
+  examples: []
+  id: 00205-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: putting into service (use)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8e1b07ef-8b8a-507e-940b-8834f03f2600

@@ -1,0 +1,45 @@
+data:
+  identifier: 01925
+  localized_concepts:
+    eng: 539c8fb1-025c-5e68-99ef-09fd00b3c226
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: c51bf168-c353-53e4-bbed-835feedd094a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: particular quantity subject to measurement
+  examples: []
+  id: 01925-eng
+  notes:
+  - content: '[VIM:1993, 2.6]'
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurand
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 539c8fb1-025c-5e68-99ef-09fd00b3c226

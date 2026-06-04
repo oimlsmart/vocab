@@ -1,0 +1,45 @@
+data:
+  identifier: '00427'
+  localized_concepts:
+    eng: 7f0e9726-f25a-54e5-b16e-67792cd1195d
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.5
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: ed3445d6-dca7-5618-917e-c8906ce24b11
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a error (of indication) divided by the actual volume dapted from VIM:1993,
+      3.12]'
+  examples: []
+  id: 00427-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7f0e9726-f25a-54e5-b16e-67792cd1195d

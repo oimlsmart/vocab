@@ -1,0 +1,44 @@
+data:
+  identifier: 00578
+  localized_concepts:
+    eng: 63f0efd4-e908-52f4-b048-3daf373a48da
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.1
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 84b0577d-97ff-5954-8da6-04f591eb2227
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: part of the instrument intended to receive the load
+  examples: []
+  id: 00578-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: load receptor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 63f0efd4-e908-52f4-b048-3daf373a48da

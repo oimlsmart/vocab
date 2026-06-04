@@ -1,0 +1,44 @@
+data:
+  identifier: '02131'
+  localized_concepts:
+    eng: 21ccdc37-f718-59cd-9a6a-f8bdc0f14bda
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+    locality:
+      type: clause
+      reference_from: 2.7.2
+    type: authoritative
+  domains:
+  - concept_id: section-R143
+    ref_type: section
+status: valid
+id: 1d3a8612-3a5b-5cac-86a8-499671839f82
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: means allowing the adjustment of the gas analytical system by the user
+  examples: []
+  id: 02131-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R143:2009
+      locality:
+        type: clause
+        reference_from: 2.7.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustment means
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 21ccdc37-f718-59cd-9a6a-f8bdc0f14bda

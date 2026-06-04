@@ -1,0 +1,45 @@
+data:
+  identifier: '01500'
+  localized_concepts:
+    eng: 1aeb69b0-43bc-5cc5-acf2-d4deaf424624
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R113
+    ref_type: section
+status: valid
+id: 5b8b6a66-e7b5-5bca-b40e-1bfb5f30383e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an indication of a detector’s ability to respond to certain classes of
+      compounds more readily and to a greater degree than to others
+  examples: []
+  id: 01500-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R113:1994
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selectivity
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1aeb69b0-43bc-5cc5-acf2-d4deaf424624

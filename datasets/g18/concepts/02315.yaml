@@ -1,0 +1,46 @@
+data:
+  identifier: '02315'
+  localized_concepts:
+    eng: d3d5beca-700e-5015-851b-b0e206ccf994
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+    locality:
+      type: clause
+      reference_from: '3.17'
+    type: authoritative
+  domains:
+  - concept_id: section-R085-1
+    ref_type: section
+status: valid
+id: 8fc9608c-8461-5c55-a24a-a83a8763a84c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: point clearly marked on the principal gauge hatch located along the vertical
+      axis ascending from the dipping datum point to indicate the reference position
+      to which ullage is measured
+  examples: []
+  id: 02315-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R085-1:2008
+      locality:
+        type: clause
+        reference_from: '3.17'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upper reference point
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d3d5beca-700e-5015-851b-b0e206ccf994

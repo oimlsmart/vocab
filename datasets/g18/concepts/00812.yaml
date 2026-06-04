@@ -1,0 +1,47 @@
+data:
+  identifier: 00812
+  localized_concepts:
+    eng: 6485e6ec-6660-58e3-b73b-8ad2daeed72c
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: e8597ae3-2e94-587f-a170-d86f6c913e67
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[b conditions of use, giving the ranges of the measurand and of the
+      influence quantities for which the metrological characteristics are intended
+      to lie within the maximum permissible deviations specified in this Recommendation
+      ased on VIM:1993, 5.5]'
+  examples: []
+  id: 00812-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6485e6ec-6660-58e3-b73b-8ad2daeed72c

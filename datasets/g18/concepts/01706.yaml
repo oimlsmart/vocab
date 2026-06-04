@@ -1,0 +1,45 @@
+data:
+  identifier: '01706'
+  localized_concepts:
+    eng: c49cc990-9d1c-56a6-91e1-ea6baecfc96f
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.7'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 76b29174-ecf3-50d3-a3a3-0ef72f5367f8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an instrument which requires the intervention of an operator to carry
+      out the measurements but automatically determines the results
+  examples: []
+  id: 01706-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.7'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-automatic instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c49cc990-9d1c-56a6-91e1-ea6baecfc96f

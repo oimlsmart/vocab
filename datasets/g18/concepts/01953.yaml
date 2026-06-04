@@ -1,0 +1,49 @@
+data:
+  identifier: 01953
+  localized_concepts:
+    eng: 4accfbe7-7e65-51b1-b806-0ce334b0ef37
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.17
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: e5406d55-8599-5f5e-b5ba-87a34833e7ec
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '( conditions to which the measured volume of gas is converted examples:
+      base temperature and base pressure).'
+  examples: []
+  id: 01953-eng
+  notes:
+  - content: Operating and base conditions relate to the volume of gas to be measured
+      or indicated only and should not be confused with “rated operating conditions”
+      and “reference conditions” (VIM:1993, 5.05 and 5.07) which refer to influence
+      quantities.
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.17
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 4accfbe7-7e65-51b1-b806-0ce334b0ef37

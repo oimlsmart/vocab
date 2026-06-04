@@ -1,0 +1,47 @@
+data:
+  identifier: 00186
+  localized_concepts:
+    eng: 6443d877-8bb7-5ce6-b328-a4ada486bda4
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.4'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: d8fb4481-22c2-57d4-b134-4489015ca5ad
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the whole of legal metrology activities which contribute to metrological
+      assurance [VIML, 2.1]
+  examples: []
+  id: 00186-eng
+  notes:
+  - content: 'Legal metrological control includes: - legal control of measuring instruments;
+      - metrological supervision; - metrological expertise.'
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.4'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legal metrological control
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6443d877-8bb7-5ce6-b328-a4ada486bda4

@@ -1,0 +1,46 @@
+data:
+  identifier: '00452'
+  localized_concepts:
+    eng: f022603f-4945-5fd8-99d7-5cf9e48aeac7
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.4
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 6b741087-35b9-524b-bea5-ccb79a593653
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a conditions of use giving the range of values of the influence factors,
+      for which the errors (of indication) of the water meter are required to be within
+      the maximum permissible errors dapted from VIM:1993, 5.5].'
+  examples: []
+  id: 00452-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated operating conditions (ROC)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: f022603f-4945-5fd8-99d7-5cf9e48aeac7

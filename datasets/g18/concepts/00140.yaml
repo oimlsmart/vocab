@@ -1,0 +1,48 @@
+data:
+  identifier: '00140'
+  localized_concepts:
+    eng: b553411f-1919-5bd9-843a-f67eb2b55f33
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+    locality:
+      type: clause
+      reference_from: 1.2.6
+    type: authoritative
+  domains:
+  - concept_id: section-D020
+    ref_type: section
+status: valid
+id: a2244efc-87eb-5f63-a0ea-536a542375c2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: all the information, equipment and operations relevant to a given This
+      concept embraces all aspects relating to measurement the pe (VIM:1993, 2.08)
+      measur princi influe standa
+  examples: []
+  id: 00140-eng
+  notes:
+  - content: rformance and quality of the ement ; it includes, for example, the ple,
+      method, procedure, values of the nce quantities and the measurement rds.
+  sources:
+  - origin:
+      ref:
+        source: OIML D020:1988
+      locality:
+        type: clause
+        reference_from: 1.2.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement process
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b553411f-1919-5bd9-843a-f67eb2b55f33

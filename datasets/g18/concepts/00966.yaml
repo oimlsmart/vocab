@@ -1,0 +1,45 @@
+data:
+  identifier: 00966
+  localized_concepts:
+    eng: 436e9106-65fc-5b3d-803c-9a707d4cb8f3
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.5.2
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 4667661e-4398-53cc-867a-b70cb93c5192
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (--) The definitions in T.5.2 apply only when the
+  examples: []
+  id: 00966-eng
+  notes:
+  - content: indication has been zero before the load has been applied to the instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.5.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing results
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 436e9106-65fc-5b3d-803c-9a707d4cb8f3

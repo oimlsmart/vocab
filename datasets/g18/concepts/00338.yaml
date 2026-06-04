@@ -1,0 +1,46 @@
+data:
+  identifier: 00338
+  localized_concepts:
+    eng: 85ff5104-2f55-5d30-9263-3fdd15d90f7b
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+    locality:
+      type: clause
+      reference_from: 2.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R021
+    ref_type: section
+status: valid
+id: 548e2c61-3b6e-5fce-8282-c36287142c26
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument intended to measure duration and distance on the basis of
+      a signal delivered by a distance measurement transducer, and to calculate and
+      indicate the fare to be paid on the basis of the measured distance and/or duration
+  examples: []
+  id: 00338-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R021:2007
+      locality:
+        type: clause
+        reference_from: 2.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taximeter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 85ff5104-2f55-5d30-9263-3fdd15d90f7b

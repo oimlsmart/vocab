@@ -1,0 +1,49 @@
+data:
+  identifier: '00131'
+  localized_concepts:
+    eng: 0aadda98-6da7-5838-915c-fe1b25247eab
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+    locality:
+      type: clause
+      reference_from: 1.1.7
+    type: authoritative
+  domains:
+  - concept_id: section-D019
+    ref_type: section
+status: valid
+id: ace8ad2c-adc3-592e-93d8-2e15487a8f54
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the sphere within which a particular government or a given agency of
+      such a government has power to make or enforce law or regulation
+  examples: []
+  id: 00131-eng
+  notes:
+  - content: 'Examples: The spheres of legal authority of (1) a particular national
+      government, (2) a particular provincial government, (3) the legal metrology
+      agency of a particular country, and (4) the agency of a particular city government
+      charged with enforcing pollution laws.'
+  sources:
+  - origin:
+      ref:
+        source: OIML D019:1988
+      locality:
+        type: clause
+        reference_from: 1.1.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: jurisdiction
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0aadda98-6da7-5838-915c-fe1b25247eab

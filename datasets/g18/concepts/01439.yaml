@@ -1,0 +1,45 @@
+data:
+  identifier: 01439
+  localized_concepts:
+    eng: 996378b6-562a-54aa-a284-856074713bd0
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.6.1
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: 4eab7ebe-89cf-5854-8b03-1bd7c9efe0a1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the level of the piston, with respect to a clearly defined part of the
+      support column or the base of a pressure balance
+  examples: []
+  id: 01439-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.6.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operating level of the piston
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 996378b6-562a-54aa-a284-856074713bd0

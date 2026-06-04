@@ -1,0 +1,46 @@
+data:
+  identifier: 01393
+  localized_concepts:
+    eng: a0caae3d-a091-55b4-9b17-a76a8f06dcd9
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.5.7
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: e88f563a-41ef-540a-870d-74e169abb0aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: capability of an instrument to maintain the difference between the indication
+      at maximum capacity and the indication at zero over a period of use within specified
+      limits
+  examples: []
+  id: 01393-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.5.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: span stability
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a0caae3d-a091-55b4-9b17-a76a8f06dcd9

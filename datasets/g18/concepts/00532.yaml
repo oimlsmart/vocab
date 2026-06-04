@@ -1,0 +1,45 @@
+data:
+  identifier: '00532'
+  localized_concepts:
+    eng: 2e01343a-71b6-5a6d-b42e-75bce52c4880
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+    locality:
+      type: clause
+      reference_from: T.6.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R050-1
+    ref_type: section
+status: valid
+id: 834d8b60-3680-54cf-9f56-1b139201384f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: an influence quantity having a value within the limits specified inthis
+      Recommendation but outside the rated operating conditions of the belt weigher
+  examples: []
+  id: 00532-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R050-1:1997
+      locality:
+        type: clause
+        reference_from: T.6.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2e01343a-71b6-5a6d-b42e-75bce52c4880

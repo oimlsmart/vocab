@@ -1,0 +1,47 @@
+data:
+  identifier: '00437'
+  localized_concepts:
+    eng: 5673c67d-4aee-5912-8009-6780ad8fe851
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.15
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 5d3defb2-5f81-51f0-9a7c-6fc6b92f3e5c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[ smallest difference between indications of an indicating device that
+      can be meaningfully distinguished adapted from VIM:1993, 5.12].'
+  examples: []
+  id: 00437-eng
+  notes:
+  - content: For a digital device, this is the change in the indication when the least
+      significant digit changes by one step.
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution (of an indicating device)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5673c67d-4aee-5912-8009-6780ad8fe851

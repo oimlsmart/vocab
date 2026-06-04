@@ -1,0 +1,47 @@
+data:
+  identifier: '00577'
+  localized_concepts:
+    eng: 6fdb937c-5aca-5d18-964b-4cd6b41713d9
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 76d8cf35-9e89-5938-a424-f3d0d48c5ac8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (-) In this Recommendation the term “device” is
+  examples: []
+  id: 00577-eng
+  notes:
+  - content: used for any means by which a specific function is performed irrespective
+      of the physical realization, e.g. by a mechanism, a key or software initiating
+      an operation. The device may be a small part or a major portion of an instrument.
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: construction
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6fdb937c-5aca-5d18-964b-4cd6b41713d9

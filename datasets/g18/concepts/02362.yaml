@@ -1,0 +1,49 @@
+data:
+  identifier: '02362'
+  localized_concepts:
+    eng: 0fe398ae-4e71-57de-936b-9b14cd077305
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.29'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 3291bbd4-4a22-5339-9eb4-cc866e64ea5c
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: facility that is incorporated in the instrument and that enables 1. “Acted
+      upon” means any adequate response significant faults to be detected and acted
+      upon
+  examples: []
+  id: 02362-eng
+  notes:
+  - content: by the instrument (luminous or acoustic signal, blocking of process,
+      etc.);
+  - content: 2. Adapted from OIML D 11:2004, 3.18.
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.29'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: checking facility
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0fe398ae-4e71-57de-936b-9b14cd077305

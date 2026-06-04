@@ -1,0 +1,47 @@
+data:
+  identifier: '00114'
+  localized_concepts:
+    eng: c338d837-23e9-5428-9d59-b80d3379988d
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+    locality:
+      type: clause
+      reference_from: '3.23'
+    type: authoritative
+  domains:
+  - concept_id: section-B010-1
+    ref_type: section
+status: valid
+id: aabed502-b682-5ae3-8dbe-78fa466d2335
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: systematic examination against specified requirements by personnel, not
+      being directly responsible for the activity, to determine whether activities
+      related to an agreed arrangement are implemented effectively and are suitable
+      to achieve the stated objectives
+  examples: []
+  id: 00114-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML B010-1:2004
+      locality:
+        type: clause
+        reference_from: '3.23'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: internal audit
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c338d837-23e9-5428-9d59-b80d3379988d

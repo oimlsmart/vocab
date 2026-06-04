@@ -1,0 +1,45 @@
+data:
+  identifier: 01935
+  localized_concepts:
+    eng: 3018f11e-b415-5ca0-9aaa-0c041fef04c8
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.1.12
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: caa3ae83-298e-568d-a2d0-7d43b49effb3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: (part of the) gas meter and/or associated devices which is exposed to
+      one of the tests
+  examples: []
+  id: 01935-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.1.12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equipment under test (EUT)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3018f11e-b415-5ca0-9aaa-0c041fef04c8

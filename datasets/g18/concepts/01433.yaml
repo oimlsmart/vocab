@@ -1,0 +1,46 @@
+data:
+  identifier: '01433'
+  localized_concepts:
+    eng: 63b9bfff-60cb-579c-b08d-e782a585f5e0
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+    locality:
+      type: clause
+      reference_from: 2.4.5
+    type: authoritative
+  domains:
+  - concept_id: section-R110
+    ref_type: section
+status: valid
+id: e573936b-4118-5d0a-9345-b49039e2ac02
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the maximum allowed difference (either positive or negative) between
+      the pressure balance indication and the corresponding (conventional) true value
+      of the measured pressure
+  examples: []
+  id: 01433-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R110:1994
+      locality:
+        type: clause
+        reference_from: 2.4.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible errors
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 63b9bfff-60cb-579c-b08d-e782a585f5e0

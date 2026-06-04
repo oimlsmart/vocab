@@ -1,0 +1,46 @@
+data:
+  identifier: 02286
+  localized_concepts:
+    eng: 1c9388ab-d923-5391-a102-61645e668012
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.47'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: 31b4a445-9150-5d25-8a49-112ab47607aa
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity whose value lies within the limits defined by the
+      relevant requirements, but outside the established rated operating conditions
+      for the tank
+  examples: []
+  id: 02286-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.47'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disturbance
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1c9388ab-d923-5391-a102-61645e668012

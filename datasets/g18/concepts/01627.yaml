@@ -1,0 +1,46 @@
+data:
+  identifier: '01627'
+  localized_concepts:
+    eng: 17e678f6-d5e5-5143-a720-42615d71e0df
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+    locality:
+      type: clause
+      reference_from: T.11
+    type: authoritative
+  domains:
+  - concept_id: section-R125
+    ref_type: section
+status: valid
+id: ed8d4b84-2af6-5a0f-a8af-e5c3c9c1fce6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a tank roof which forms part of the external surfaces of the tank but
+      which floats freely on the surface of the liquid, except at low levels when
+      the weight of the roof is taken on its supports on the tank bottom
+  examples: []
+  id: 01627-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R125:1998
+      locality:
+        type: clause
+        reference_from: T.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: external floating roof
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 17e678f6-d5e5-5143-a720-42615d71e0df

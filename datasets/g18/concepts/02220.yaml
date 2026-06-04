@@ -1,0 +1,49 @@
+data:
+  identifier: '02220'
+  localized_concepts:
+    eng: 2c88ac51-2f37-5ea7-a407-004eb40e123a
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.53
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: c3349a7d-98f5-5fc5-bfb1-4b1e87b540a4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'legally relevant parameter with a value that depends on the type Example:
+      Considering a measuring system of of instrument only. Type-specific parameters
+      are part of the legally relevant software'
+  examples: []
+  id: 02220-eng
+  notes:
+  - content: liquids other than water, the range of kinematic viscosity of a turbine
+      is a type- specific parameter fixed by the type approval of the turbine. All
+      the manufactured turbines of the same type have the same range of viscosity.
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.53
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: type-specific parameter
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 2c88ac51-2f37-5ea7-a407-004eb40e123a

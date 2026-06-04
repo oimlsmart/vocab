@@ -1,0 +1,44 @@
+data:
+  identifier: 01379
+  localized_concepts:
+    eng: 8d6e5750-b2a9-5ec7-9f3a-67ad972fca02
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.4.2.3
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: a899ab7b-15da-57a3-983d-100c19310b5b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: hardcopy of the weighing result produced from a printer
+  examples: []
+  id: 01379-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.4.2.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: printout
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8d6e5750-b2a9-5ec7-9f3a-67ad972fca02

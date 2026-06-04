@@ -1,0 +1,45 @@
+data:
+  identifier: '01041'
+  localized_concepts:
+    eng: 75545868-1adc-5eaa-aef0-d528647c7b3f
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+    locality:
+      type: clause
+      reference_from: '3.32'
+    type: authoritative
+  domains:
+  - concept_id: section-R081
+    ref_type: section
+status: valid
+id: 98a00b81-296a-56db-a439-40caa9576068
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a set of specified values of influence factors to ensure valid inter-comparisons
+      of the results of a measurement
+  examples: []
+  id: 01041-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R081:1998
+      locality:
+        type: clause
+        reference_from: '3.32'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference conditions
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 75545868-1adc-5eaa-aef0-d528647c7b3f

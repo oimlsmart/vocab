@@ -1,0 +1,45 @@
+data:
+  identifier: '00615'
+  localized_concepts:
+    eng: 17e64cbc-c5de-5cea-9ac9-dd34406fae97
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.10.8.4
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 42a0108f-eaeb-50b6-9067-ac7c94608344
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for setting the indication to zero automatically at the time the
+      instrument is switched on and before it is ready for use
+  examples: []
+  id: 00615-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.10.8.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial zero setting device
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 17e64cbc-c5de-5cea-9ac9-dd34406fae97

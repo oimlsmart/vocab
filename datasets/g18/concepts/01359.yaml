@@ -1,0 +1,44 @@
+data:
+  identifier: 01359
+  localized_concepts:
+    eng: 6dc801cd-37b4-54c1-be42-280ec721b409
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.3.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: 8d718c27-6755-54ea-bb00-451a686e13fe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: scale interval of a control indicating device
+  examples: []
+  id: 01359-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.3.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control scale interval, d
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 6dc801cd-37b4-54c1-be42-280ec721b409

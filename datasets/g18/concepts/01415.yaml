@@ -1,0 +1,45 @@
+data:
+  identifier: '01415'
+  localized_concepts:
+    eng: 8808b9ad-5b3e-5610-a982-77d0c3360e06
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+    locality:
+      type: clause
+      reference_from: '2.5'
+    type: authoritative
+  domains:
+  - concept_id: section-R109
+    ref_type: section
+status: valid
+id: a3ca1c12-e1d2-503a-9075-1477832c9df4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: the difference between the indication of the instrument to be verified
+      and that of the standard instrument for the same pressure
+  examples: []
+  id: 01415-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R109:1993
+      locality:
+        type: clause
+        reference_from: '2.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absolute error of measurement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 8808b9ad-5b3e-5610-a982-77d0c3360e06

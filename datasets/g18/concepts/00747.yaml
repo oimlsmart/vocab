@@ -1,0 +1,46 @@
+data:
+  identifier: '00747'
+  localized_concepts:
+    eng: 3a6aec25-7bb4-57f6-8458-5175ed981b72
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+    locality:
+      type: clause
+      reference_from: 2.5.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R060
+    ref_type: section
+status: valid
+id: 774ed53b-5bf3-5172-a71b-c60b3383e96b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the specified rated operating
+      conditions of the load cell. (For example, a specific temperature or a specific
+      power voltage in which the load cell can be tested).
+  examples: []
+  id: 00747-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R060:2000
+      locality:
+        type: clause
+        reference_from: 2.5.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 3a6aec25-7bb4-57f6-8458-5175ed981b72

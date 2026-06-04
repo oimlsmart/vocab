@@ -1,0 +1,44 @@
+data:
+  identifier: '02036'
+  localized_concepts:
+    eng: 63f429eb-534a-5b7e-a8cf-319a16be83b4
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+    locality:
+      type: clause
+      reference_from: T.5.6
+    type: authoritative
+  domains:
+  - concept_id: section-R139
+    ref_type: section
+status: valid
+id: 21d925bc-e51a-58fa-ac9f-bfc441c0145d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: automatic checking facility operating during the entire measurement operation
+  examples: []
+  id: 02036-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R139:2007
+      locality:
+        type: clause
+        reference_from: T.5.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permanent automatic checking facility (type P)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 63f429eb-534a-5b7e-a8cf-319a16be83b4

@@ -1,0 +1,45 @@
+data:
+  identifier: '01253'
+  localized_concepts:
+    eng: fe96d3a3-7d3f-57ba-b740-a81301d94092
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+    locality:
+      type: clause
+      reference_from: T.34
+    type: authoritative
+  domains:
+  - concept_id: section-R105
+    ref_type: section
+status: valid
+id: a6c959b3-8bbd-51c4-b9ee-a0a4dd711650
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: a test intended to verify whether the EUT is capable of maintaining its
+      performance characteristics over a period of use
+  examples: []
+  id: 01253-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R105:1993
+      locality:
+        type: clause
+        reference_from: T.34
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durability test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: fe96d3a3-7d3f-57ba-b740-a81301d94092

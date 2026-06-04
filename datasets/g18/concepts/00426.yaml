@@ -1,0 +1,44 @@
+data:
+  identifier: '00426'
+  localized_concepts:
+    eng: 1524dd7c-214d-5f78-9a68-96bee8a83de0
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+    locality:
+      type: clause
+      reference_from: 2.2.4
+    type: authoritative
+  domains:
+  - concept_id: section-R049-1
+    ref_type: section
+status: valid
+id: 31cba857-b783-5410-a6ab-7142fbf8df95
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '[a indicated volume minus the actual volume dapted from VIM:1993, 5.20]'
+  examples: []
+  id: 00426-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R049-1:2006
+      locality:
+        type: clause
+        reference_from: 2.2.4
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error (of indication)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 1524dd7c-214d-5f78-9a68-96bee8a83de0

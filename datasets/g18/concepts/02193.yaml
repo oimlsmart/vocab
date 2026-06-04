@@ -1,0 +1,46 @@
+data:
+  identifier: 02193
+  localized_concepts:
+    eng: d46d2f6f-0bd7-5431-8e15-839ad57d2563
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+    locality:
+      type: clause
+      reference_from: 3.1.26
+    type: authoritative
+  domains:
+  - concept_id: section-D031
+    ref_type: section
+status: valid
+id: 4196db4c-0d20-50c9-952c-f199a0c31714
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: assurance that the programs, data, or parameters have not been subjected
+      to any unauthorized or unintended changes while in use, transfer, storage, repair
+      or maintenance
+  examples: []
+  id: 02193-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D031:2008
+      locality:
+        type: clause
+        reference_from: 3.1.26
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: integrity of programs, data, or parameters
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d46d2f6f-0bd7-5431-8e15-839ad57d2563

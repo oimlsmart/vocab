@@ -1,0 +1,45 @@
+data:
+  identifier: '00621'
+  localized_concepts:
+    eng: 104c342f-ca5c-579d-9233-0a4564802650
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.11
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 11617da8-cfd5-5757-85e0-0b78f39047b6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: adjustment intended to eliminate the difference between the static load
+      value and the dynamic load value
+  examples: []
+  id: 00621-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dynamic setting
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 104c342f-ca5c-579d-9233-0a4564802650

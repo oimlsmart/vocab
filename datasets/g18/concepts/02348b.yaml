@@ -1,0 +1,46 @@
+data:
+  identifier: 02348b
+  localized_concepts:
+    eng: 0a7c2372-c8dd-5e5b-a330-7c063fc35f72
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+    locality:
+      type: clause
+      reference_from: '3.13'
+    type: authoritative
+  domains:
+  - concept_id: section-R099-1
+    ref_type: section
+status: valid
+id: 443f5643-8763-50ad-99fd-79d7d0175bc1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: elapsed time between the moment power is applied to an instrument and
+      the moment at which the instrument is capable of complying with the metrological
+      requirements
+  examples: []
+  id: 02348b-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R099-1:2008
+      locality:
+        type: clause
+        reference_from: '3.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: warm-up time
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 0a7c2372-c8dd-5e5b-a330-7c063fc35f72

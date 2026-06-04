@@ -1,0 +1,45 @@
+data:
+  identifier: 00931
+  localized_concepts:
+    eng: 7b11da7b-f4b6-5bbb-8bb2-b18d7d73d290
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+    locality:
+      type: clause
+      reference_from: T.2.7.8
+    type: authoritative
+  domains:
+  - concept_id: section-R076-1
+    ref_type: section
+status: valid
+id: 9855baa3-9302-5e2c-9fb2-00bf0f471507
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: device for attaching one or more load receptors to one or more load-measuring
+      devices, whatever intermediate load-transmitting devices are used
+  examples: []
+  id: 00931-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R076-1:2006
+      locality:
+        type: clause
+        reference_from: T.2.7.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selection device for load receptors and load-measuring devices
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 7b11da7b-f4b6-5bbb-8bb2-b18d7d73d290

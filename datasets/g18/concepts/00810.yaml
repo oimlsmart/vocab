@@ -1,0 +1,45 @@
+data:
+  identifier: 00810
+  localized_concepts:
+    eng: d2c0d124-99bf-53d0-9357-7b091f0420e7
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.5.1.1
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 323e8a80-94d4-5764-974d-99186ebb9134
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: influence quantity having a value within the specified rated operating
+      conditions of the filling instrument
+  examples: []
+  id: 00810-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.5.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influence factor
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: d2c0d124-99bf-53d0-9357-7b091f0420e7

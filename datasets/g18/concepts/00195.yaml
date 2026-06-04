@@ -1,0 +1,50 @@
+data:
+  identifier: 00195
+  localized_concepts:
+    eng: ca43f497-cdb6-5858-bd9e-43f3a6e860c8
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+    locality:
+      type: clause
+      reference_from: '2.13'
+    type: authoritative
+  domains:
+  - concept_id: section-D009
+    ref_type: section
+status: valid
+id: fb110ab6-ddd6-57db-8a46-8bad07ded2a2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'any verification of a measuring instrument after a previous verification
+      and including: - mandatory periodic verification; - verification after repair
+      [VIML, 2.16]'
+  examples: []
+  id: 00195-eng
+  notes:
+  - content: Subsequent verification of a measuring instrument may be carried out
+      before expiry of the period of validity of a previous verification either at
+      the request of the user (owner) or when its verification is declared t be no
+      longer valid.
+  sources:
+  - origin:
+      ref:
+        source: OIML D009:2004
+      locality:
+        type: clause
+        reference_from: '2.13'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: subsequent verification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: ca43f497-cdb6-5858-bd9e-43f3a6e860c8

@@ -1,0 +1,45 @@
+data:
+  identifier: '02110'
+  localized_concepts:
+    eng: 169f2d93-3483-5d68-aab8-ee0c196c2507
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+    locality:
+      type: clause
+      reference_from: '2.6'
+    type: authoritative
+  domains:
+  - concept_id: section-R141
+    ref_type: section
+status: valid
+id: bf5cdab5-d69b-5389-aea7-63cbd543e858
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: number of photosensitive elements which form the thermographic instrument
+      photodetector
+  examples: []
+  id: 02110-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R141:2008
+      locality:
+        type: clause
+        reference_from: '2.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: number of sensitive elements (detecting elements of the thermogram)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 169f2d93-3483-5d68-aab8-ee0c196c2507

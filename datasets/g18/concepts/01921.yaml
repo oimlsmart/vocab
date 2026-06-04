@@ -1,0 +1,45 @@
+data:
+  identifier: 01921
+  localized_concepts:
+    eng: dc1d05e7-a33d-579e-87d7-fc7d12a54d88
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+    locality:
+      type: clause
+      reference_from: T.6.1
+    type: authoritative
+  domains:
+  - concept_id: section-R136-1
+    ref_type: section
+status: valid
+id: 29aee4c1-d1c6-573f-a0eb-b02e08814bb2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test carried out on a complete leather-measuring instrument using the
+      type of leather material which it is intended to measure
+  examples: []
+  id: 01921-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R136-1:2004
+      locality:
+        type: clause
+        reference_from: T.6.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: dc1d05e7-a33d-579e-87d7-fc7d12a54d88

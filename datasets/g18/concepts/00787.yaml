@@ -1,0 +1,47 @@
+data:
+  identifier: 00787
+  localized_concepts:
+    eng: a2379471-a4a2-557c-9c7b-d1ac1e6a82b3
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+    locality:
+      type: clause
+      reference_from: T.3.5
+    type: authoritative
+  domains:
+  - concept_id: section-R061-1
+    ref_type: section
+status: valid
+id: 5c5db223-5b1a-58f9-80d9-e1f0b236b081
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: '• • • combination of operations including: delivery of material to the
+      load receptor; a weighing operation; and the discharge of a single discrete
+      load, after the completion of which the weighing instrument returns to its initial
+      state'
+  examples: []
+  id: 00787-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R061-1:2004
+      locality:
+        type: clause
+        reference_from: T.3.5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weighing cycle
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: a2379471-a4a2-557c-9c7b-d1ac1e6a82b3

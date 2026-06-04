@@ -1,0 +1,45 @@
+data:
+  identifier: '01354'
+  localized_concepts:
+    eng: afa9abf1-242f-5830-aacb-216b08a64557
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+    locality:
+      type: clause
+      reference_from: T.2.9
+    type: authoritative
+  domains:
+  - concept_id: section-R107-1
+    ref_type: section
+status: valid
+id: ef72d512-3db9-5606-ac8c-3462a3ca0845
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: electronic, optical, radio or other hardware or software that enables
+      information to be automatically passed between instruments and modules
+  examples: []
+  id: 01354-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R107-1:2007
+      locality:
+        type: clause
+        reference_from: T.2.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interface
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: afa9abf1-242f-5830-aacb-216b08a64557

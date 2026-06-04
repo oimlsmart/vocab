@@ -1,0 +1,45 @@
+data:
+  identifier: '00252'
+  localized_concepts:
+    eng: e87cc7ed-edeb-5317-bcf1-937718d8b6d6
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+    locality:
+      type: clause
+      reference_from: 3.20.3
+    type: authoritative
+  domains:
+  - concept_id: section-D011
+    ref_type: section
+status: valid
+id: 366b5b4e-3d80-58b8-9cfa-2032876b4a62
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: test intended to verify whether the EUT is able to accomplish its intended
+      functions
+  examples: []
+  id: 00252-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML D011:2004
+      locality:
+        type: clause
+        reference_from: 3.20.3
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance test
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: e87cc7ed-edeb-5317-bcf1-937718d8b6d6

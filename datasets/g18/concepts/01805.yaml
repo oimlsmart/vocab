@@ -1,0 +1,46 @@
+data:
+  identifier: 01805
+  localized_concepts:
+    eng: 43fe0250-8782-5d88-bb46-db79c894d960
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+    locality:
+      type: clause
+      reference_from: T.3.1.2
+    type: authoritative
+  domains:
+  - concept_id: section-R134
+    ref_type: section
+status: valid
+id: 5e77490f-935e-5a3a-9333-6c3d3e1aece9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: weighing of a vehicle in two or more parts successively on the same load
+      receptor. The results are automatically added to indicate or print the vehicle
+      weight
+  examples: []
+  id: 01805-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R134:2003
+      locality:
+        type: clause
+        reference_from: T.3.1.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: partial weighing
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 43fe0250-8782-5d88-bb46-db79c894d960

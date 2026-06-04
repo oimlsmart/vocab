@@ -1,0 +1,44 @@
+data:
+  identifier: 00569
+  localized_concepts:
+    eng: 5e4f3318-c5d6-596f-9df9-d8d6a424a943
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.1.6
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: 05a9f0ee-6c5e-577b-9f0f-7004b2b947ee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: instrument equipped with electronic devices
+  examples: []
+  id: 00569-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.1.6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic instrument
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 5e4f3318-c5d6-596f-9df9-d8d6a424a943

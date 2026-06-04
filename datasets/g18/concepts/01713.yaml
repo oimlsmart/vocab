@@ -1,0 +1,45 @@
+data:
+  identifier: '01713'
+  localized_concepts:
+    eng: 67e00d00-1eb7-595f-a6f0-0b2586383a36
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+    locality:
+      type: clause
+      reference_from: '2.14'
+    type: authoritative
+  domains:
+  - concept_id: section-R129
+    ref_type: section
+status: valid
+id: 1e5a3a44-8b0b-5ac3-ba40-0dc31948c92b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: for this Recommendation, the weight of the object measured on a weighing
+      instrument
+  examples: []
+  id: 01713-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R129:2000
+      locality:
+        type: clause
+        reference_from: '2.14'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: weight (Wt)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 67e00d00-1eb7-595f-a6f0-0b2586383a36

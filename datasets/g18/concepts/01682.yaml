@@ -1,0 +1,48 @@
+data:
+  identifier: 01682
+  localized_concepts:
+    eng: 06068db6-2eaf-56e7-b825-a76b757e6169
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+    locality:
+      type: clause
+      reference_from: '4.8'
+    type: authoritative
+  domains:
+  - concept_id: section-R127
+    ref_type: section
+status: valid
+id: 44b472b7-2b3f-5a72-bee5-e3296fa07ed0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: condition that exists in material under ionizing irradiation whereby
+      the energies, number, and direction of secondary electrons induced by the radiation
+      are uniform throughout the volume of interest. Thus, for such a volume, the
+      sum of the energies of the secondary electrons entering is equal to the sum
+      of the energies of the secondary electrons leaving that volume
+  examples: []
+  id: 01682-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R127:1999
+      locality:
+        type: clause
+        reference_from: '4.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electron equilibrium
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 06068db6-2eaf-56e7-b825-a76b757e6169

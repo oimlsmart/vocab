@@ -1,0 +1,47 @@
+data:
+  identifier: 02283
+  localized_concepts:
+    eng: c12c9c7e-3283-53d8-be87-0f41b5831062
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+    locality:
+      type: clause
+      reference_from: '2.44'
+    type: authoritative
+  domains:
+  - concept_id: section-R080-1
+    ref_type: section
+status: valid
+id: c2d8b566-b57f-5fc8-bfa0-d8973f9386fc
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: smallest volume of liquid for which the measurement is metrologically
+      acceptable for the tank or individually for each of its compartments. It shall
+      be specified only for measuring systems suitable for measuring partial volumes.
+      Alternatively, the terms “minimum delivery” or “minimum receipt” may be used.
+  examples: []
+  id: 02283-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R080-1:2009
+      locality:
+        type: clause
+        reference_from: '2.44'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum measured quantity MMQ (Vmin)
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: c12c9c7e-3283-53d8-be87-0f41b5831062

@@ -1,0 +1,45 @@
+data:
+  identifier: '00651'
+  localized_concepts:
+    eng: b9773224-42e7-5e15-ba17-763f40853f3f
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+    locality:
+      type: clause
+      reference_from: T.4.4.2
+    type: authoritative
+  domains:
+  - concept_id: section-R051-1
+    ref_type: section
+status: valid
+id: f7dc4730-ecf1-5c96-8569-9db9a94131f6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: indication in which the scale marks are composed of a sequence ofaligned
+      figures that do not permit interpolation to fractions of the scale interval
+  examples: []
+  id: 00651-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R051-1:2006
+      locality:
+        type: clause
+        reference_from: T.4.4.2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital indication
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: b9773224-42e7-5e15-ba17-763f40853f3f

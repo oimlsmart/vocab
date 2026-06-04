@@ -1,0 +1,44 @@
+data:
+  identifier: 01973
+  localized_concepts:
+    eng: 9e272a70-fc3b-5ef8-bcfa-1d9adbb919c2
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+    locality:
+      type: clause
+      reference_from: 2.4.7
+    type: authoritative
+  domains:
+  - concept_id: section-R137-1
+    ref_type: section
+status: valid
+id: 3ec78220-e830-5ceb-8a70-01724cac5d5a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '2024-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: description of a series of tests for a certain type of equipment
+  examples: []
+  id: 01973-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: OIML R137-1:2006
+      locality:
+        type: clause
+        reference_from: 2.4.7
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test program
+  language_code: eng
+  entry_status: valid
+date_accepted: '2024-01-01T00:00:00+00:00'
+id: 9e272a70-fc3b-5ef8-bcfa-1d9adbb919c2
