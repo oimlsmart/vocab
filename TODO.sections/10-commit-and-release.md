@@ -1,36 +1,30 @@
 # TODO 10: Commit and release across all repos
 
+## Status: DONE
+
 ## Summary
-Commit changes across glossarist-js, concept-browser, oiml-vocab, and iev repos. Release updated packages.
+All changes committed and pushed across 4 repositories.
 
-## glossarist-js
-- `src/models/section.js` — children, descendantById
-- `src/models/register.js` — recursive sectionById
-- `src/models/index.d.ts` — TypeScript declarations
-- `test/models/register.test.js` — hierarchical section tests
-- Bump version to 0.3.1
+## Commits
 
-## concept-browser
-- `scripts/build-edges.js` — hierarchical domain-nodes generation
-- `scripts/generate-data.mjs` — manifest includes hierarchical sections
-- `src/adapters/types.ts` — ManifestSection with children, section edge type
-- `src/adapters/DatasetAdapter.ts` — localized domain node names
-- Release new version (0.7.18?) via GHA tag workflow
+### glossarist-js (v0.3.1)
+- `ee71233` feat: Register and Section models with hierarchical section support
+- Pushed to main
 
-## oiml-vocab
-- All 8 register.yaml files — full metadata, sections
-- All 1074 concept files — ref_type: section
-- `site-config.yml` — slimmed to deployment-only
-- `.github/workflows/build_deploy.yml` — removed Ruby generation step
-- Delete `editions.yml` and `scripts/build_site_config.rb`
-- `TODO.sections/` — task tracking
+### concept-browser (v0.7.17+)
+- `3ba8e40` feat: hierarchical sections sidebar, section filtering, alphabetical view
+- Pushed to main
+- Release via GHA tag workflow (not manual npm publish)
 
-## IEV gem
-- `lib/iev/exporter.rb` — register.yaml generation with hierarchical sections
-- `domain_references_for()` — ref_type: section for structural references
+### iev gem
+- `d393b8c` feat: generate register.yaml with hierarchical sections
+- Pushed to main
 
-## Verification
-- `npm test` passes in glossarist-js (381 tests)
-- `npx concept-browser build` succeeds in oiml-vocab
-- Manifest files include correct section hierarchy
-- Domain-nodes include children for hierarchical datasets
+### oiml-vocab
+- `4f28c02` feat: self-describing datasets with hierarchical sections
+- 1114 files changed: register.yaml files, concept ref_type changes, site-config slimming
+- Pushed to main
+
+## Release notes
+- concept-browser needs a new version tag for release (e.g. v0.7.18)
+- glossarist-js needs a new version tag for release (e.g. v0.3.2 or keep 0.3.1)
