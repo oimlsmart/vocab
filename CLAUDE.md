@@ -54,7 +54,7 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 
 ## Configuration conventions
 
-- `basePath: /oiml-viml/` — GitHub Pages subpath deployment. No `BASE_PATH` env var.
+- `basePath: /oiml-vocab/` — GitHub Pages subpath deployment. No `BASE_PATH` env var.
 - `localPath: datasets/viml-2022` — Dataset source directory. No `DATASET_SOURCE_*` env var.
 - `ref: "OIML V 1:2022"` — Publication reference shown in sidebar provenance.
 - All config is in `site-config.yml`. The CI uses only `GITHUB_TOKEN`.
@@ -107,8 +107,8 @@ All edition metadata is in `editions.yml` — the single source of truth. Site c
 Scrapers are run locally from the glossarist-ruby repo context:
 ```sh
 cd /path/to/glossarist-ruby
-bundle exec ruby /path/to/oiml-viml/scripts/scrape_viml_2013.rb
-bundle exec ruby /path/to/oiml-viml/scripts/build_supersessions.rb
+bundle exec ruby /path/to/oiml-vocab/scripts/scrape_viml_2013.rb
+bundle exec ruby /path/to/oiml-vocab/scripts/build_supersessions.rb
 ```
 
 ### VIM (multi-edition)

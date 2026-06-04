@@ -1,8 +1,8 @@
 ---
 id: viml
-domain: metanorma.github.io/oiml-viml
-uriBase: https://metanorma.github.io/oiml-viml
-basePath: "/oiml-viml/"
+domain: metanorma.github.io/oiml-vocab
+uriBase: https://metanorma.github.io/oiml-vocab
+basePath: "/oiml-vocab/"
 title: OIML Vocabularies
 subtitle: International Vocabularies of Metrology
 description: Terminology from the International Vocabularies of Metrology published
@@ -22,7 +22,7 @@ datasets:
   uri: urn:oiml:pub:v:1:2022
   uriAliases:
   - urn:oiml:pub:v:1:2022*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/viml-2022
   ref: OIML V 1:2022
   title: OIML V 1:2022
@@ -53,7 +53,7 @@ datasets:
   uri: urn:oiml:pub:v:1:2013
   uriAliases:
   - urn:oiml:pub:v:1:2013*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/viml-2013
   ref: OIML V 1:2013
   title: OIML V 1:2013
@@ -85,7 +85,7 @@ datasets:
   uri: urn:oiml:pub:v:1:2000
   uriAliases:
   - urn:oiml:pub:v:1:2000*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/viml-2000
   ref: OIML V 1:2000
   title: OIML V 1:2000
@@ -116,7 +116,7 @@ datasets:
   uri: urn:oiml:pub:v:1:1968
   uriAliases:
   - urn:oiml:pub:v:1:1968*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/viml-1968
   ref: OIML V 1:1968
   title: OIML V 1:1968
@@ -148,7 +148,7 @@ datasets:
   uri: urn:jcgm:pub:200:2012
   uriAliases:
   - urn:jcgm:pub:200:2012*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/vim
   ref: OIML V 2-200:2012
   title: OIML V 2-200:2012
@@ -179,7 +179,7 @@ datasets:
   uri: urn:jcgm:pub:200:2010
   uriAliases:
   - urn:jcgm:pub:200:2010*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/vim-2010
   ref: OIML V 2-200:2010
   title: OIML V 2-200:2010
@@ -211,7 +211,7 @@ datasets:
   uri: urn:jcgm:pub:200:2007
   uriAliases:
   - urn:jcgm:pub:200:2007*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/vim-2007
   ref: OIML V 2-200:2007
   title: OIML V 2-200:2007
@@ -243,7 +243,7 @@ datasets:
   uri: urn:jcgm:pub:200:1993
   uriAliases:
   - urn:jcgm:pub:200:1993*
-  sourceRepo: https://github.com/metanorma/oiml-viml
+  sourceRepo: https://github.com/metanorma/oiml-vocab
   localPath: datasets/vim-1993
   ref: OIML V 2:1993
   title: OIML V 2:1993

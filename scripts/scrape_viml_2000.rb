@@ -13,7 +13,7 @@
 #
 # Usage:
 #   cd /path/to/glossarist/glossarist-ruby
-#   bundle exec ruby /path/to/oiml-viml/scripts/scrape_viml_2000.rb
+#   bundle exec ruby /path/to/oiml-vocab/scripts/scrape_viml_2000.rb
 
 require "nokogiri"
 require_relative "viml_edition_scraper"

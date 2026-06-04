@@ -3,7 +3,7 @@
 Le **Vocabulaire international de métrologie légale (VIML)** est publié par
 l'Organisation Internationale de Métrologie Légale (OIML) sous la référence **OIML V 1:2000**.
 
-Il s'agit de l'**édition 2000**, remplacée par [OIML V 1:2013](/oiml-viml/viml-2013/concept/0.01).
+Il s'agit de l'**édition 2000**, remplacée par [OIML V 1:2013](/oiml-vocab/viml-2013/concept/0.01).
 Elle comprend 44 définitions de termes utilisés en métrologie légale réparties en 4 sections.
 
 ## Structure

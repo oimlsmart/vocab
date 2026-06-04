@@ -77,7 +77,7 @@ def build_edition_dataset(edition)
     "id" => id,
     "uri" => edition["urn_prefix"],
     "uriAliases" => ["#{edition['urn_prefix']}*"],
-    "sourceRepo" => "https://github.com/metanorma/oiml-viml",
+    "sourceRepo" => "https://github.com/metanorma/oiml-vocab",
     "localPath" => edition["dataset_path"],
     "ref" => ref,
     "title" => ref,
