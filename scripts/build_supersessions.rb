@@ -10,7 +10,7 @@
 #
 # Usage:
 #   cd /path/to/glossarist/glossarist-ruby
-#   bundle exec ruby /path/to/oiml-viml/scripts/build_supersessions.rb [--dry-run]
+#   bundle exec ruby /path/to/oiml-vocab/scripts/build_supersessions.rb [--dry-run]
 
 require "yaml"
 require "fileutils"

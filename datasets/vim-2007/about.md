@@ -4,7 +4,7 @@ The **International Vocabulary of Metrology (VIM)** is co-published by the
 Joint Committee for Guides in Metrology (JCGM) as **JCGM 200:2007** and by
 OIML as **OIML V 2-200:2007**.
 
-This is the **2007 edition**, superseded by [OIML V 2-200:2010](/oiml-viml/vim-2010/concept/1.1).
+This is the **2007 edition**, superseded by [OIML V 2-200:2010](/oiml-vocab/vim-2010/concept/1.1).
 It provides 143 concept definitions across 5 chapters.
 
 ## Structure

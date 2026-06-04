@@ -4,7 +4,7 @@ The **International Vocabulary of Metrology (VIM)** was originally published as
 **ISO Guide 99:1993** (also known as **ISO/TAG 4:1993**), co-published by OIML as
 **OIML V 2:1993** and by the JCGM predecessor as **JCGM 200:1993**.
 
-This is the **1993 edition**, superseded by [OIML V 2-200:2007](/oiml-viml/vim-2007/concept/1.1).
+This is the **1993 edition**, superseded by [OIML V 2-200:2007](/oiml-vocab/vim-2007/concept/1.1).
 It provides 120 concept definitions across 6 chapters. This edition uses a different
 chapter structure from later editions, with separate chapters for "Measurement results"
 and "Measuring instruments" instead of the consolidated "Devices for measurement" chapter.

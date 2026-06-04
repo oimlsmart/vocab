@@ -11,7 +11,7 @@
 #
 # Usage:
 #   cd /path/to/glossarist/glossarist-ruby
-#   bundle exec ruby /path/to/oiml-viml/scripts/scrape_viml_1968.rb
+#   bundle exec ruby /path/to/oiml-vocab/scripts/scrape_viml_1968.rb
 
 require "nokogiri"
 require "cgi"
