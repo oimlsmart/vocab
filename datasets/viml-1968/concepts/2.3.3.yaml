@@ -2,21 +2,24 @@
 data:
   identifier: 2.3.3
   localized_concepts:
-    fra: 9c81f425-699f-5011-89f1-43551a5be3d5
+    fra: eb095bcc-ae91-4b59-856b-5c3641005dd0
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 5b79e337-fe26-56dc-aff4-ddc224a4f52b
+id: 1af35a60-1913-4c25-a7fa-d3cc584074ef
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble d'opérations, autres que les opérations métrologiques, ayant
+      pour but de contrôler que l'instrument de mesurage répond aux conditions réglementaires,
+      en particulier en ce qui concerne les inscriptions, les dimensions, les emplacements
+      de poinçonnage etc...
   examples: []
   id: 2.3.3-fra
   notes: []
@@ -24,8 +27,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: EXAMEN ADMINISTRATIF EXTERNE
+    designation: Examen administratif externe
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9c81f425-699f-5011-89f1-43551a5be3d5
+id: eb095bcc-ae91-4b59-856b-5c3641005dd0

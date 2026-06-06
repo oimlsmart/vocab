@@ -2,21 +2,22 @@
 data:
   identifier: '1.2'
   localized_concepts:
-    fra: 3def00b8-7a6a-5516-b747-ec842fbc2f0f
+    fra: b647bdfb-ab84-4b80-a376-f65cac665efe
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 7da0bc26-604d-53f7-87e7-c45dc57fa2a7
+id: e5b60fde-2989-409a-addd-92de51ac583b
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Agents du Service national de métrologie légale habilités à exercer les
+      fonctions de vérification. L'ensemble de ces agents constitue un corps hiérarchisé.
   examples: []
   id: 1.2-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: AGENTS DE VÉRIFICATION
+    designation: Agents de vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3def00b8-7a6a-5516-b747-ec842fbc2f0f
+id: b647bdfb-ab84-4b80-a376-f65cac665efe

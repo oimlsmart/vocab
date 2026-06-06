@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 3.3.1
+  localized_concepts:
+    fra: 13ecadb3-1d8d-447f-8122-66b04226cda9
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 59301c29-fb1d-4b10-a2c6-e7a63e143e02
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Document certifiant que la vérification d'un instrument de mesurage a
+      été effectuée.
+  examples: []
+  id: 3.3.1-fra
+  notes:
+  - content: Dans le certificat de vérification peuvent être rappolées les prescriptions
+      et les instructions fixant les conditions de cette vérification. Peuvent aussi
+      y être indiqués les résultats obtenus et la durée de validité du document ainsi
+      établi.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Certificat de vérification
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 13ecadb3-1d8d-447f-8122-66b04226cda9

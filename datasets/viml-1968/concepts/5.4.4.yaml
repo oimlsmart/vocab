@@ -2,30 +2,39 @@
 data:
   identifier: 5.4.4
   localized_concepts:
-    fra: 13d67887-7715-534f-a5ec-638a09b12aca
+    fra: 257b818d-b0ed-4c29-bc3b-8e9911ad4f53
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 75d4f1e2-7488-530a-b628-e61b2585e494
+id: bcbad6bc-83b5-47ad-b8ee-645e5a4b7281
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Moyenne arithmétique d'une série de résultats de mesurages calculée après
+      avoir pris en considération le poids de chacun des résultats particuliers.
+  examples:
+  - content: 'Les résultats de trois mesurages d''une même grandeur sont : 10,4 ;
+      10,6 ; 10,1 mm. Si on attribue au premier mesurage un degré de conflance exprimé
+      par le poids 1, au 2° le poids 2 et au 3° le poids 1 :'
+  - content: "$$"
+  - content: "\\mathrm {l a m o y e n e p o n d e r r e e} = \\frac {1 0 , 4 \\times
+      1 + 1 0 , 6 \\times 2 + 1 0 , 1 \\times 1}{4} \\mathrm {m m} = 1 0, 4 2 \\mathrm
+      {m m}."
+  - content: "$$"
   id: 5.4.4-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MOYENNE PONDÉRÉE
+    designation: Moyenne pondérée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 13d67887-7715-534f-a5ec-638a09b12aca
+id: 257b818d-b0ed-4c29-bc3b-8e9911ad4f53

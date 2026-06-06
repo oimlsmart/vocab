@@ -2,21 +2,22 @@
 data:
   identifier: '3.3'
   localized_concepts:
-    fra: 673455fd-68ab-5b19-964e-49632b437de6
+    fra: 479e2e17-3767-4a94-abe6-a3754b506bc0
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 967ec0bf-8785-5236-b30d-f8f57dc640c3
+id: 5b320375-4ec1-4b8a-8b36-97b4d0511bfb
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Outil portant, en creux ou en relief, la matrice d'une des marques ci-avant
+      et servant à apposer cette marque.
   examples: []
   id: 3.3-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: POINÇON
+    designation: Poinçon
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 673455fd-68ab-5b19-964e-49632b437de6
+id: 479e2e17-3767-4a94-abe6-a3754b506bc0

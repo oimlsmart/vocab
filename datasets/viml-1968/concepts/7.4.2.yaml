@@ -2,21 +2,21 @@
 data:
   identifier: 7.4.2
   localized_concepts:
-    fra: 424cf7e2-27f0-50bb-9df3-ffa2c1c20fe5
+    fra: 8b0af72e-682c-43e2-8e16-bc0b03d269b5
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ce231218-09d8-5c83-ba26-d8fcdeb91c93
+id: 79e68894-6572-4b24-9e26-5a63cb8c9207
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble des échelons compris entre deux repères déterminés de l'échelle.
   examples: []
   id: 7.4.2-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ZONE DE L'ÉCHELLE
+    designation: Zone de l'échelle
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 424cf7e2-27f0-50bb-9df3-ffa2c1c20fe5
+id: 8b0af72e-682c-43e2-8e16-bc0b03d269b5

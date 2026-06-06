@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 7.4.5.1
+  localized_concepts:
+    fra: 8630ca44-b54b-49b2-bb22-c2c545d35762
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: ae8f1e79-8f2f-4cad-9986-6bb1eb2b6793
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Échelle numérique dont le premier chiffre à droite, c''est-à-dire celui
+      qui appartient à l''échelle qui a la plus petite valeur d''échelon, se déplace
+      d''une manière continue et permet la lecture à une fraction de l''intervalle
+      entre deux nombres consécutifs. Généralement, l''interpolation d''une indication
+      semi-numérique s''effectue au moyen d''une échelle supplémentaire à traits.
+      Exemple : Indication du compteur 27832,4'
+  examples: []
+  id: 7.4.5.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Échelle semi-numérique
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 8630ca44-b54b-49b2-bb22-c2c545d35762

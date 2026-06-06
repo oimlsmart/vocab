@@ -1,0 +1,55 @@
+---
+data:
+  identifier: '9.2'
+  localized_concepts:
+    fra: 7da01268-daf8-40e5-bf93-8641f599410a
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 1a50ad3a-e297-4d69-a807-72d84f61072d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Étendue des valeurs de la grandeur à mesurer pour lesquelles les indications
+      d'un instrument de mesurage, obtenues dans les conditions usuelles d'emploi
+      en un seul mesurage, ne doivent pas être entachées d'une erreur supérieure à
+      l'erreur maximale tolérée.
+  examples: []
+  id: 9.2-fra
+  notes:
+  - content: 1. Dans certains cas, les valeurs absolues des erreurs maximales tolérées
+      peuvent être respectées dans l'étendue de la portée minimale, mais alors les
+      erreurs relatives risquent de devenir trop importantes pour permettre l'utilisation
+      pratique de l'instrument (cas des environs du zéro).
+  - content: 2. Certains instruments de mesurage peuvent avoir plusieurs étendues
+      de mesurage.
+  - content: 3. L'étendue de mesurage peut être couverte par l'étendue de l'échelle
+      (7.4.2.1) ou bien elle peut n'en constituer qu'une partie seulement.
+  - content: 'Aux instruments de la première catégorie appartiennent entre autres
+      : les thermomètres médicaux, les aréométres, etc...'
+  - content: Comme exemple des Instruments de la deuxième catégorie, on peut citer
+      les manomètres à tube Bourdon avec lesquels on ne doit pas mesurer des pressions,
+      d'une part, au-dessous d'une certaine valeur car l'erreur des indications serait
+      alors excessive, d'autre part, au-dessus d'une certaine valeur par suite d'une
+      résistance et d'une durabillité Insuffisantes (les conditions usuelles d'emploi
+      et des raisons de sécurité n'autorisent d'ailleurs pas l'utilisation de ces
+      manomètres dans cette dernière zone, quoique les erreurs puissent éventuellement
+      y rester dans les limites tolérées).
+  - content: '4. Pour les compteurs, au lleu de l''étendue de mesurage de la grandeur
+      mesurée (p. ex. pour les compteur d''eau : le volume), on applique l''étendue
+      des charges (par ex. pour les compteurs d''eau : le débit).'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Étendue de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 7da01268-daf8-40e5-bf93-8641f599410a

@@ -2,30 +2,33 @@
 data:
   identifier: 5.3.2
   localized_concepts:
-    fra: 61e48aa3-9cfb-5529-b1df-8a09718416c8
+    fra: 97a91881-e28f-46f3-9273-838d65934117
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: bf8c5baf-4994-5d64-911e-b36ef57ea65f
+id: f80944d4-11ba-4472-9af1-6d77ef302c34
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Opération consistant à capter l'indication de l'instrument de mesurage.
   examples: []
   id: 5.3.2-fra
-  notes: []
+  notes:
+  - content: La « lecture » de l'indication n'est qu'une espèce d'observation parmi
+      tous les genres d'observations — la réception d'un signal acoustique en représente
+      une autre espèce.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: OBSERVATION (DE L'INDICATION)
+    designation: Observation de l'indication
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 61e48aa3-9cfb-5529-b1df-8a09718416c8
+id: 97a91881-e28f-46f3-9273-838d65934117

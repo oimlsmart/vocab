@@ -2,21 +2,21 @@
 data:
   identifier: 1.1.1
   localized_concepts:
-    fra: 67778314-9617-5b4a-a4f4-00260255b6eb
+    fra: 37a66bba-78b2-4377-83a3-f1e012faa1e0
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 8acd6f05-29e2-5baf-bdcf-79b65231511d
+id: fff7af2c-db37-4398-827c-14bb29a76c6b
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Organisme directeur du Service national de métrologie légale.
   examples: []
   id: 1.1.1-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: BUREAU NATIONAL DE MÉTROLOGIE LÉGALE
+    designation: Bureau national de métrologie légale
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 67778314-9617-5b4a-a4f4-00260255b6eb
+id: 37a66bba-78b2-4377-83a3-f1e012faa1e0

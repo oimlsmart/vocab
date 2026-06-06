@@ -2,30 +2,37 @@
 data:
   identifier: 5.2.3
   localized_concepts:
-    fra: 9278d70d-233a-5205-a2db-9ba6bb898176
+    fra: 2a525985-775a-4fa3-9ee7-cbea3c970611
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 53bfcfb0-4b18-57b8-a10e-16b8b4b4c487
+id: 46cce26e-a843-4ba2-8c7a-5fac1642058e
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Méthode de mesurage consistant à déterminer les valeurs d'un certain
+      nombre de grandeurs à mesurer d'après les résultats de mesurages directs ou
+      indirects de diverses combinaisons de ces valeurs et en résolvant le système
+      d'équations correspondantes.
+  examples:
+  - content: mesurages de la masse de chacun des poids particuliers d'une série de
+      poids, quand la masse de l'un d'eux est connue et quand sont connus les résultats
+      des comparalsons entre elles des masses des différentes combinalsons possibles
+      des poids.
   id: 5.2.3-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTHODE DE MESURAGE COMBINATOIRE EN SÉRIES FERMÉES
+    designation: Méthode de mesurage combinatoire en séries fermées
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9278d70d-233a-5205-a2db-9ba6bb898176
+id: 2a525985-775a-4fa3-9ee7-cbea3c970611

@@ -2,21 +2,25 @@
 data:
   identifier: 4.7.3
   localized_concepts:
-    fra: 4b1ef186-f8fb-5375-937d-2e779aadef0c
+    fra: 4e390fdd-d468-4a04-ad63-2218c4c631ad
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f31e819c-b060-5f1e-b370-5592e470d683
+id: 5a667b14-7a94-4ca3-982a-c2bb79d689a9
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Système cohérent d''unités de mesure fondé sur les six unités de base
+      suivantes : le mètre, unité de longueur le kilogramme, unité de masse la seconde,
+      unité de temps l''ampère, unité d''intensité du courant électrique le kelvin,
+      unité de température thermodynamique la candela, unité d''intensité lumineuse
+      adopté et recommandé par la Conférence Générale des Poids et Mesures.'
   examples: []
   id: 4.7.3-fra
   notes: []
@@ -24,8 +28,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: SYSTÈME INTERNATIONAL D'UNITÉS (SI)
+    designation: Système International d'Unités (SI)
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 4b1ef186-f8fb-5375-937d-2e779aadef0c
+id: 4e390fdd-d468-4a04-ad63-2218c4c631ad

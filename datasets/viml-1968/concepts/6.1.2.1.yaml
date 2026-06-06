@@ -2,30 +2,40 @@
 data:
   identifier: 6.1.2.1
   localized_concepts:
-    fra: 03f19eab-2a02-5b7b-bf96-436a549dd8c5
+    fra: 25213a93-5273-4e56-8b9f-034ee6ba5807
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 37b04bab-392d-5a4f-8c66-170734c2b490
+id: b5c8cfbb-f423-4b62-84dd-90be2d271645
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Appareil mesureur qui donne, par une simple indication (unique), la valeur
+      d'une grandeur mesuree (sans imprimer ni enregistrer cette indication).
+  examples:
+  - content: pied à coulisse — ampèremètre — manomètre.
   id: 6.1.2.1-fra
-  notes: []
+  notes:
+  - content: 1. L'indication peut être donnée par un dispositif à variation continue
+      ou discontinue.
+  - content: 2. Par opposition à l'apparell mesureur indicateur, l'apparell mesureur
+      intégrateur ou l'apparell mesureur totalsateur donne la valeur d'une grandeur
+      mesurée par la différence de deux indications (à différents moments).
+  - content: '3. Lorsque l''appareil mesureur indicateur envisagé ne peut pas être
+      confondu avec un simple dispositif indicateur, il est permis de le désigner
+      par l''expression abrégée : appareil indicateur.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: APPAREIL MESUREUR INDICATEUR
+    designation: Appareil mesureur indicateur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 03f19eab-2a02-5b7b-bf96-436a549dd8c5
+id: 25213a93-5273-4e56-8b9f-034ee6ba5807

@@ -2,30 +2,33 @@
 data:
   identifier: '0.4'
   localized_concepts:
-    fra: c5406d9d-2ca9-595a-a8cc-0b19e2849475
+    fra: 1729d467-acf3-4c3c-9d40-81b12c58afda
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 6134fa4d-7338-5ba9-8559-ae6d2c206a01
+id: 127886bd-5778-49d3-9231-0fed353fbab4
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Partie de la Métrologie qui traite des problèmes théoriques de mesurage.
+  examples:
+  - content: A la métrologie théorique appartiennent, entre autres, la théorie des
+      grandeurs et des unités de mesure, la théorie des erreurs de mesurage, la théorie
+      informationnelle des mesurages.
   id: 0.4-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTROLOGIE THÉORIQUE
+    designation: Métrologie théorique
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c5406d9d-2ca9-595a-a8cc-0b19e2849475
+id: 1729d467-acf3-4c3c-9d40-81b12c58afda

@@ -2,30 +2,34 @@
 data:
   identifier: 7.4.3.2
   localized_concepts:
-    fra: 5efcd611-f863-5b37-a0e9-14949cf2632e
+    fra: a10695e8-1638-4c46-9e90-819d0f5c4829
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e9c1d5e8-90ad-5053-8983-3e6c35dd8400
+id: c8d33960-9cbf-4f31-801f-cfb75a4745da
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Valeur de la grandeur mesurée correspondant à l'échelon.
   examples: []
   id: 7.4.3.2-fra
-  notes: []
+  notes:
+  - content: 1. La valeur de l'échelon est exprimée avec la même unité de mesure que
+      l'indication donnée par l'instrument de mesurage.
+  - content: 2. Dans les instruments à étendues multiples, la plus petite des valeurs
+      d'échelon des diverses échelles représente la • valeur de l'échelon • de l'instrument.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: VALEUR DE L'ÉCHELON
+    designation: Valeur de l'échelon
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 5efcd611-f863-5b37-a0e9-14949cf2632e
+id: a10695e8-1638-4c46-9e90-819d0f5c4829

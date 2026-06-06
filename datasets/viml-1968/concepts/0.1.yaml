@@ -2,30 +2,47 @@
 data:
   identifier: '0.1'
   localized_concepts:
-    fra: 5d0c270c-091a-5ddf-aa21-29f15fc8ef21
+    fra: 4c7d00e6-c15e-4522-82ae-07941c276449
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 9d68f195-5d0e-50a9-805b-8a632ade3e23
+id: bf3a03fa-1b10-4168-87b3-2de3a7cba03a
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Domaine des connaissances relatives aux mesurages.
   examples: []
   id: 0.1-fra
-  notes: []
+  notes:
+  - content: '1. Les principeaux domaînes de la métrologie concernent :'
+  - content: les unités de mesure et leurs étalons (leur établissement, reproduction,
+      conservation et transmission),
+  - content: les mesurages (leurs méthodes, leur exécution, l'estimation de leur précision
+      etc.),
+  - content: les instruments de mesurage (leurs propriétés examinées du point de vue
+      de leur destination),
+  - content: les observateurs (leurs qualités se rapportant à l'exécution des mesurages,
+      par ex. la lecture des indications des instruments de mesurage).
+  - content: 2. La métrologie embrasse tous les problèmes aussl bien théoriques que
+      pratiques se rapportant aux mesurages, quelle que soit la précision de ceux-ci.
+  - content: '3. Selon la grandeur envisagée, la métrologie se divise en : métrologie
+      des longueurs, métrologie du temps, etc...'
+  - content: et, selon le domaine d'application, en métrologie industrielle, métrologie
+      technique, métrologie astronomique, métrologie médicale, etc...
+  - content: 4. Sont comprises également dans la métrologie les déterminations des
+      constantes physiques et des propriétés des matériaux et des substances.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTROLOGIE
+    designation: Métrologie
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 5d0c270c-091a-5ddf-aa21-29f15fc8ef21
+id: 4c7d00e6-c15e-4522-82ae-07941c276449

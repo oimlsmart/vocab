@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '9.1'
+  localized_concepts:
+    fra: 5d8bf6fe-077f-44b6-bc13-2f4faf80147d
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 3a55e4b5-ab7e-43b1-a964-8bd7f403dec9
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Conditions qui doivent être respectées pour employer correctement l'instrument
+      de mesurage, compte tenu de sa conception, de sa réalisation et de sa destination.
+  examples: []
+  id: 9.1-fra
+  notes:
+  - content: '1. Les conditions usuelles d''emploi peuvent se rapporter entre autres:
+      à l''espece et à l''état de la matière mesurée, aux valeurs de la grandeur mesurée,
+      aux valeurs des grandeurs d''influence, aux conditions d''observation des indications
+      etc...'
+  - content: 2. Lorsque ces conditions sont indiquées sur l'instrument ou dans un
+      mode d'emploi de celui-ci, elles sont appelées « conditions nominales ».
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Conditions usuelles d'emploi
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5d8bf6fe-077f-44b6-bc13-2f4faf80147d

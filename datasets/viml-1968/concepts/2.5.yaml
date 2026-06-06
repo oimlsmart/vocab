@@ -2,30 +2,33 @@
 data:
   identifier: '2.5'
   localized_concepts:
-    fra: b65bafdd-8670-5f89-b55e-d046cb09f60c
+    fra: fd564d4b-495c-4acb-8c72-05f46c304d9f
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: a2e115a9-176d-5712-a005-e9a7c4fa03f8
+id: bbd436af-bac2-4e51-be1f-e793c75ab8bd
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble d'opérations ayant pour but de déterminer les valeurs des erreurs
+      d'un instrument de mesurage (et éventuellement d'autres caractéristiques métrologiques).
   examples: []
   id: 2.5-fra
-  notes: []
+  notes:
+  - content: L'étalonnage peut être effectué en vue de permettre l'emploi de l'instrument
+      en tant qu'étalon.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉTALONNAGE
+    designation: Étalonnage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b65bafdd-8670-5f89-b55e-d046cb09f60c
+id: fd564d4b-495c-4acb-8c72-05f46c304d9f

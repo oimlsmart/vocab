@@ -2,21 +2,23 @@
 data:
   identifier: 7.4.1
   localized_concepts:
-    fra: c084c626-fc9c-583c-b1ed-5e07384e7c20
+    fra: 3a613b04-f985-479d-a7ed-8ed3594fcb56
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b92c06ce-73a2-5f90-9960-3da167522df4
+id: bff7eef9-d25e-41c2-a9b3-49010acacc03
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble des nombres inscrits sur une échelle et correspondant aux valeurs
+      de la grandeur mesurée déterminées par les repères ou bien indiquant seulement
+      les numéros d'ordre des repères.
   examples: []
   id: 7.4.1-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: CHIFFRAISON D'UNE ÉCHELLE
+    designation: Chiffraison d'une échelle
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c084c626-fc9c-583c-b1ed-5e07384e7c20
+id: 3a613b04-f985-479d-a7ed-8ed3594fcb56

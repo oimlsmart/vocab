@@ -2,21 +2,22 @@
 data:
   identifier: 2.4.8
   localized_concepts:
-    fra: 859541af-b088-5624-98a5-56c154e7a39e
+    fra: 149f2ce3-0913-436f-ae74-c13dea78c1fd
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 6e77005b-352b-5eab-b20f-2bd8d0196ce3
+id: 0fdb106b-4dfb-4a41-8dc1-c9a68a5c4224
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Vérification à effectuer pour que l'emploi de l'instrument de mesurage
+      ne soit pas interdit.
   examples: []
   id: 2.4.8-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: VÉRIFICATION OBLIGATOIRE
+    designation: Vérification obligatoire
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 859541af-b088-5624-98a5-56c154e7a39e
+id: 149f2ce3-0913-436f-ae74-c13dea78c1fd

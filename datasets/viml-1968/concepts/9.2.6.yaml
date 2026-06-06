@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 9.2.6
+  localized_concepts:
+    fra: 69d1eded-1a8b-4a54-83a3-45d082b8ea7d
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 81cd5a7f-ce07-4a86-98f8-f40796cfaee1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeur de la charge correspondant à la limite minimale de l'étendue de
+      la charge.
+  examples: []
+  id: 9.2.6-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Charge minimale d'un compteur
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 69d1eded-1a8b-4a54-83a3-45d082b8ea7d

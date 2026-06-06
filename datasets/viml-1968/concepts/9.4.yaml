@@ -1,0 +1,45 @@
+---
+data:
+  identifier: '9.4'
+  localized_concepts:
+    fra: c2d43c24-3181-4c37-9132-c17988bf0d09
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: a596c195-8c96-421c-9654-8f7085750a9d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'La sensibilité d''un instrument de mesurage, pour une valeur donnée
+      de la grandeur mesurée, s''exprime par le quotient de l''accroissement de la
+      variable observée par l''accroissement correspondant de la grandeur mesurée
+      : $$ k = \frac {\mathrm {d} l}{\mathrm {d} G} $$'
+  examples: []
+  id: 9.4-fra
+  notes:
+  - content: 1. Dans les instruments les plus courants, où l'accroissement de la variable
+      observée se traduit par le déplacement relatif d'un index et d'une échelle,
+      la sensibilité s'exprime conventionnellement par le quotient de ce déplacement
+      $dl$ le long de la base de l'échelle par l'accroissement $dG$ de la grandeur
+      mesurée qui l'a provoqué.
+  - content: Cette valeur peut être constante ou variable le long de l'échelle.
+  - content: 2. En pratique, on peut prendre comme valeur de la sensibilité des instruments
+      de mesurage à échelle le quotient de la longueur de l'échelon par la valeur
+      de celui-ci.
+  - content: 3. Dans le cas où le numérateur et le dénominateur sont des grandeurs
+      de la même espèce, la sensibilité s'appello rapport de transmission.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Sensibilité d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c2d43c24-3181-4c37-9132-c17988bf0d09

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 9.2.8
+  localized_concepts:
+    fra: b2e0da72-da01-4ff0-9a42-a20d3c77ac05
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: a5adfff4-8c9b-45b6-8b65-143274b31670
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Nombre de mesurages par unités de temps au-dessus [au-dessous] duquel
+      les résultats de mesurage obtenus avec l'instrument sont susceptibles d'être
+      entachés d'une erreur supérieure à l'erreur maximale tolérée.
+  examples: []
+  id: 9.2.8-fra
+  notes:
+  - content: Cette notion s'applique aux instruments de mesurage répétiteurs à fonctionnement
+      discontinu (par ex. doseuses volumétrlques ou pondérales, peseuses).
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Cadence de mesurage maximale
+  - type: expression
+    normative_status: admitted
+    designation: Cadence de mesurage minimale
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: b2e0da72-da01-4ff0-9a42-a20d3c77ac05

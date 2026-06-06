@@ -2,30 +2,54 @@
 data:
   identifier: '1.1'
   localized_concepts:
-    fra: ca2ca16e-b864-52d8-846f-7e3f0729fe0c
+    fra: 4fed119e-bfa9-4745-b356-fb5b0eb2e677
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 4a06b90c-c497-5478-b140-512d17f902ef
+id: 83845236-b47a-479a-9ac1-ec4dc1fb1ec5
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Organisme national ayant pour but de résoudre les problèmes de métrologie
+      légale dans un pays donné.
   examples: []
   id: 1.1-fra
-  notes: []
+  notes:
+  - content: 'Les principales fonctions d''un Service national de métrologie légale
+      consistent en général à :'
+  - content: assurer la conservation des étalons nationaux et garantir leur précision
+      par leur comparaison aux étalons internationaux, garautir et s'il y a lieu donner
+      aux étalons secondaires une précision convenable à leur emploi dans les pays
+      par comparaison aux étalons nationaux;
+  - content: "— effectuer des travaux scientifiques et techniques dans tous les domaines
+      de la métrologie et des méthodes de mesurage, prendre part aux travaux des autres
+      organismes nationaux intéressés à la métrologie;"
+  - content: "— élaborer les projets de lois se rapportant à la métrologie légale
+      et promulger la réglementation correspondante;"
+  - content: "- réglementer et conseller, surveiller et contrôler la fabrication et
+      la réparation des instruments de mosurage ;"
+  - content: "— contrôler l'utilisation de ces instruments et des opérations de mesurage
+      lorsque cette utilisation et ces opérations sont convertes par la garantie publique;"
+  - content: "— éventuellement, détecter les fraudes de mesurage ou de débit de marchandises
+      et déférer leurs auteurs en justice;"
+  - content: "— coordonner l'activité des Autorités de surveillance métrologique qui,
+      bien que ne lui étant pas organiquement assujetties, collaborent avec lui pour
+      assurer le respect de la réglementation de métrologie légale;"
+  - content: "— organisor l'enseignement de la métrologie légale ;"
+  - content: "- représenter le pays dans les Instances internationales du métrologie
+      légale."
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: SERVICE NATIONAL DE MÉTROLOGIE LÉGALE
+    designation: Service national de métrologie légale
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ca2ca16e-b864-52d8-846f-7e3f0729fe0c
+id: 4fed119e-bfa9-4745-b356-fb5b0eb2e677

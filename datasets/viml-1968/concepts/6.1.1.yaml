@@ -2,30 +2,83 @@
 data:
   identifier: 6.1.1
   localized_concepts:
-    fra: b3f81c18-32a4-5b7b-a980-7b204429a19c
+    fra: e9ff709e-3093-4dcc-afd9-2b58680223c6
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 10c5206a-4ec7-55d6-b37f-e99df1269233
+id: f4ae887f-e1b7-496b-bd6f-941211e82e55
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Instrument de mesurage reproduisant d''une façon permanente, pendant
+      l''emploi, une ou plusieurs valeurs connues d''une grandeur donnée. Examples
+      : polds mesure de capacité (à une ou plusieurs valeurs, avec ou sans échelle)
+      règle (à une ou plusieurs valeurs, avec ou sans échelle) résistance électrique
+      condensateur bobine d''induction cale-étalon calibre à mâchoire de contrôle
+      des diamètres de cylindres. Un manomètre à tube en U, un thermomètre à llqulde,
+      un pled à coulisse, un distributeur de carburant à récipients mesureurs ne constituent
+      pas des mosures matériallisées bien que certains de ces instruments puissent
+      comporter une telle mesure dans leur ensemble de mesurage.'
   examples: []
   id: 6.1.1-fra
-  notes: []
+  notes:
+  - content: 1. La mesure matérialliséo sert à des opérations de mesurage avec ou
+      sans l'alde d'un autre instrument de mesurage.
+  - content: 'Certalnes mesures reproduisent seulement une valeur d''une grandeur
+      et, pour effectuer avec celles-ci un mesurage, il est nécessaire d''employer,
+      en outre, d''autres instruments de mesurage (par exemple : les poids ne permettent
+      le mesurage d''une masse qu''avec l''aide d''une balance).'
+  - content: Les mesures de ce premier genre s'appellent « mesures matériallises non-autosuffisantes
+      ».
+  - content: 'Les autres mesures matériallisées ont les deux fonctions en même temps,
+      c''est-à-dire reproduisent la valeur de la grandeur et permettent d''effectuer
+      le mesurage sans l''aide d''autres instruments de mesurage (exemples : règles,
+      mesures matériallisées de capacité).'
+  - content: Les mesures de ce deuxième genre s'appellent « mesures matériallisées
+      auto-suffisantes ».
+  - content: 2. Le trait caractéristique de la mesure matériallisée est qu'elle ne
+      possède en général pas d'index.
+  - content: 'Dans certains cas, cet index peut appartenir à l''instrument qui, conjointement
+      avec cette mesure, sert au mesurage (par exemple : la balance conjointement
+      avec le poids), ou bien il peut être formé par le corps mesuré même (par exemple
+      : le ménisque formé par le liquide dans le col d''une mesure de capacité à col
+      gradué).'
+  - content: 3. Un autre trait caractéristique d'une mesure matérielisée est qu'elle
+      ne comprend en général aucun élément mobile pendant le mesurage.
+  - content: 4. Une mesure matérialisée peut reproduire une seule valeur de la grandeur
+      (mesure matériallisée à une valeur) ou bien plusieurs valeurs distinctes (mesure
+      matérialisée à plusieurs valeurs distinctes) ou enfin peut permettre de reproduire
+      les valeurs de cette grandeur dans une étendue continue (mesures matérialisées
+      graduées).
+  - content: Les mesures matériallisées à plusieurs valeurs distinctes ne permettent
+      pas, par voie d'interpolation, d'indiquer les valeurs contenues entre les repères.
+  - content: 'Exemples pour la remarque 4 :'
+  - content: 'a) mesures matériallisées à une valeur : cale-étalon — résistances électriques
+      à une scule valeur ;'
+  - content: 'b) mesure matérielisée à plusieurs valeurs distinctes : calibre à 2
+      valeurs correspondant aux longueurs limites d''une dimension ;'
+  - content: 'c) mesures matériallisées graduées : règle graduée — pl petite graduée.'
+  - content: 5. Les mesures matérielisées peuvent reproduire les valeurs des grandeurs
+      qu'elles concernent avec des précisions diverses mais qu'il dolvent être toujours
+      connues.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MESURE MATÉRIALISÉE
+    designation: Mesure matérialisée
+  - type: expression
+    normative_status: admitted
+    designation: Mesure matérialisée autosuffisante
+  - type: expression
+    normative_status: admitted
+    designation: Mesure matérialisée non-autosuffisante
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b3f81c18-32a4-5b7b-a980-7b204429a19c
+id: e9ff709e-3093-4dcc-afd9-2b58680223c6

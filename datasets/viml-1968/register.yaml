@@ -1,62 +1,68 @@
 ---
 schema_type: glossarist
 schema_version: '3'
-
 id: viml-1968
-ref: "OIML V 1:1968"
+ref: OIML V 1:1968
 year: 1968
-urn: "urn:oiml:pub:v:1:1968"
+urn: urn:oiml:pub:v:1:1968
 urnAliases:
-  - "urn:oiml:pub:v:1:1968*"
+- urn:oiml:pub:v:1:1968*
 status: superseded
-
 owner: OIML
 sourceRepo: https://github.com/metanorma/oiml-vocab
 tags:
-  - metrology
-  - legal
-  - oiml
-  - vocabulary
-
+- metrology
+- legal
+- oiml
+- vocabulary
 languages:
-  - fra
+- fra
 languageOrder:
-  - fra
-
+- fra
 ordering: systematic
-
 description:
-  eng: "First edition, French only. 210 terms across 9 sections covering metrology, legal metrology, activities, documents and marks, quantities and units, measurements, measuring instruments and standards, instrument construction, and errors. OCR-derived dataset containing typographical errors."
-  fra: "Première édition, en français uniquement. 210 termes répartis en 9 sections couvrant la métrologie, la métrologie légale, les activités, les documents et marques, les grandeurs et unités, les mesurages, les instruments de mesure et les étalons, la construction des instruments, et les erreurs. Jeu de données issu d'une OCR contenant des erreurs typographiques."
-
+  eng: First edition, French only. 276 terms across 10 sections covering metrology, legal metrology, activities, documents and marks, quantities and units, measurements, measuring instruments and standards, instrument construction, errors, and conditions of use and metrological qualities. OCR-derived dataset containing typographical errors.
+  fra: Première édition, en français uniquement. 276 termes répartis en 10 sections couvrant la métrologie, la métrologie légale, les activités, les documents et marques, les grandeurs et unités, les mesurages, les instruments de mesure et les étalons, la construction des instruments, les erreurs, et les conditions d'emploi et qualités métrologiques. Jeu de données issu d'une OCR contenant des erreurs typographiques.
 about:
   fra: about-fra.md
-
 sections:
-  - id: "0"
-    names:
-      fra: "Métrologie"
-  - id: "1"
-    names:
-      fra: "Métrologie légale"
-  - id: "2"
-    names:
-      fra: "Activités de métrologie légale"
-  - id: "3"
-    names:
-      fra: "Documents et marques"
-  - id: "4"
-    names:
-      fra: "Grandeurs et unités de mesure"
-  - id: "5"
-    names:
-      fra: "Mesurages"
-  - id: "6"
-    names:
-      fra: "Instruments de mesurage et étalons"
-  - id: "7"
-    names:
-      fra: "Instruments de mesurage — Construction"
-  - id: "8"
-    names:
-      fra: "Erreurs"
+- id: '0'
+  names:
+    eng: Metrology
+    fra: Métrologie
+- id: '1'
+  names:
+    eng: Legal metrology
+    fra: Métrologie légale
+- id: '2'
+  names:
+    eng: Legal metrology activities
+    fra: Activités de métrologie légale
+- id: '3'
+  names:
+    eng: Documents and marks
+    fra: Documents et marques
+- id: '4'
+  names:
+    eng: Quantities and units of measurement
+    fra: Grandeurs et unités de mesure
+- id: '5'
+  names:
+    eng: Measurements
+    fra: Mesurages
+- id: '6'
+  names:
+    eng: Measuring instruments and standards
+    fra: Instruments de mesurage et étalons
+- id: '7'
+  names:
+    eng: Measuring instruments — Construction
+    fra: Instruments de mesurage — Construction
+- id: '8'
+  names:
+    eng: Errors
+    fra: Erreurs
+- id: '9'
+  names:
+    eng: Conditions of use and metrological qualities
+    fra: Conditions d'emploi et qualités métrologiques

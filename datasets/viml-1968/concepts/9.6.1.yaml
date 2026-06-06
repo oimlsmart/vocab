@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 9.6.1
+  localized_concepts:
+    fra: a435e447-3fb9-48f5-811a-846deb30c652
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 30ffc5bb-8cf2-401a-b5de-32d9963a43ce
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Phénomène présenté par un instrument de mesurage qui donne, dans une
+      série de mesurages d'une même valeur de la grandeur mesurée, des indications
+      différentes.
+  examples: []
+  id: 9.6.1-fra
+  notes:
+  - content: 1. La « dispersion des indications » pent être exprimée quantitativement
+      par l'écart moyen quadratique (8.2.4) ou par l'étendue de dispersion des indications
+      .
+  - content: 2. A ce terme se rapporte aussi la remarque 3 relative au terme 8.2.4.
+  - content: '3. Il est nécessaire d''indiquer les conditions dans lesquelles on effectue
+      la série de mesurages en question : si ces mesurages dolvent se succéder directement
+      l''un après l''autre ; si, entre chacun d''eux, il dolt y avoir un certain intervalle
+      de temps ; s''ils doivent être exécutés par le même observateur ou par des observateurs
+      différents etc...'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Dispersion des indications
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: a435e447-3fb9-48f5-811a-846deb30c652

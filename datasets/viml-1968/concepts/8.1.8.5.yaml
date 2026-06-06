@@ -2,21 +2,23 @@
 data:
   identifier: 8.1.8.5
   localized_concepts:
-    fra: d5dbcd3e-de0e-54ba-aa82-427ffefc5137
+    fra: db15ddfa-9dc0-4e4d-87a4-62e863142dbe
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 8389e685-937b-5790-ad8c-0715771d520f
+id: aabe0b26-7465-4b3c-b962-44d30e4b7772
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Valeur exprimée par l'expression 2l.s pour un seul mesurage et par 2l.s<sub>r</sub>
+      pour la moyenne arithmétique d'une série de mesurages. Elle correspond au terme
+      statistique « intervalle de confiance ».
   examples: []
   id: 8.1.8.5-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ZONE D'INCERTITUDE DE MESURAGE
+    designation: Zone d'incertitude de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: d5dbcd3e-de0e-54ba-aa82-427ffefc5137
+id: db15ddfa-9dc0-4e4d-87a4-62e863142dbe

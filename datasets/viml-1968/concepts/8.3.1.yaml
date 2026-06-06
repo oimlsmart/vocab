@@ -2,21 +2,22 @@
 data:
   identifier: 8.3.1
   localized_concepts:
-    fra: 4f0e045c-34b7-50f4-bdc0-2b57a2781d7b
+    fra: 29e1e469-a5c8-4ffe-b07a-9abf2f4d5754
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c2626220-c215-51ac-b4f5-78dc49b9b125
+id: 5ae72296-2d14-4813-93b4-94619ec3fc87
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Valeurs extrêmes de l'erreur tolérée (en plus et en moins) par les règlements
+      pour un instrument de mesurage, lorsque celui-ci est en service.
   examples: []
   id: 8.3.1-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREURS MAXIMALES TOLÉRÉES EN SERVICE
+    designation: Erreurs maximales tolérées en service
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 4f0e045c-34b7-50f4-bdc0-2b57a2781d7b
+id: 29e1e469-a5c8-4ffe-b07a-9abf2f4d5754

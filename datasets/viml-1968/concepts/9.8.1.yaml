@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 9.8.1
+  localized_concepts:
+    fra: 12de8460-c143-45f8-add3-7f5e1ef60617
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: e403236c-8ed2-4129-8afb-153965cd2aa2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Variation de la grandeur mesurée qui ne provoque pas de variation décelable
+      de l'indication (pour un opérateur moyen et dans des conditions déterminées
+      d'emploi de l'instrument).
+  examples:
+  - content: Si l'aiguille d'un instrument de pesage ne se déplace pas, après que
+      l'on alt place lógèrement une masse de 50 mg sur le plateau, l'erreur de mobilité
+      est de 50 mg.
+  id: 9.8.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur de mobilité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 12de8460-c143-45f8-add3-7f5e1ef60617

@@ -2,30 +2,38 @@
 data:
   identifier: 6.1.6
   localized_concepts:
-    fra: fe638ef2-cb74-5b75-8214-6f95465f7bad
+    fra: f7356efe-b700-4a7a-b394-2350395a438f
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: fbce3279-b6de-58bc-92b3-8dd99864f95c
+id: da381bb0-1b8b-4889-872d-f481b4d272c8
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Instrument qui sert à mesurer les grandeurs d'influence ou bien les grandeurs
+      qui caractérisent les qualités métrologiques d'un instrument de mesurage pendant
+      son emploi ou son examen.
+  examples:
+  - content: thermomètre mesurant la température du gaz ou de l'amblance pendant le
+      mesurage du débit d'un gaz,
+  - content: manomètre différentiel mesurant la perte de charge dans un compteur d'eau,
+  - content: niveau à bulle pour vérifier l'horizontalité d'une balance, « poids d'erreurs
+      » pour la vérification des balances,
+  - content: chronomètre pour contrôler le débit d'un compteur d'hydrocarbures.
   id: 6.1.6-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: TRANSDUCTEUR DE MESURAGE
+    designation: Instrument de mesurage auxiliaire
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: fe638ef2-cb74-5b75-8214-6f95465f7bad
+id: f7356efe-b700-4a7a-b394-2350395a438f

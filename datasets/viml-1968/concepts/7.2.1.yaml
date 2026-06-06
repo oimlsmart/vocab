@@ -2,30 +2,40 @@
 data:
   identifier: 7.2.1
   localized_concepts:
-    fra: 883c0e8a-e626-557e-b524-12dcafac05b4
+    fra: 3b95e388-198f-4630-a457-6d7f9dc4d7eb
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 741af092-6ca9-515e-ae4f-b32077b40353
+id: 8d0ee499-376b-423c-89da-208c3f819e6e
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Représentation simplifiée des éléments essentiels et de leurs liaisons
+      fonctionnelles d'un instrument de mesurage ou d'une installation de mesurage.
+  examples:
+  - content: Schéma de principe du thermomètre thermoélectrique correspondant au schéma
+      de structure présenté au point 7.2.
+  - content: '1 : thermocouple,'
+  - content: '2 : fils de junction,'
+  - content: '5 : ressort spirale du millivoltmètre,'
+  - content: '3 : cadre du galvanomètre,'
+  - content: '6 : aigulle,'
+  - content: '4 : aimant constant du millivoltmètre,'
+  - content: "$\\alpha$ : anglo de la rotation de l'aigulle."
   id: 7.2.1-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: SCHÉMA DE STRUCTURE
+    designation: Schéma de principe
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 883c0e8a-e626-557e-b524-12dcafac05b4
+id: 3b95e388-198f-4630-a457-6d7f9dc4d7eb

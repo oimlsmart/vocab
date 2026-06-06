@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 9.6.5
+  localized_concepts:
+    fra: 5ac7efe5-5585-4a12-82ac-5f592fca46af
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 7a1eb9a9-a685-4142-b351-0cbc2d2e96b0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeurs extrêmes de l'erreur de fidélité (en plus et en moins) tolérées
+      par les règlements.
+  examples: []
+  id: 9.6.5-fra
+  notes:
+  - content: L'instrument est dit « fidèle » (dans les limites tolérées) quand les
+      erreurs maximales tolérées de fidélité ne sont pas dépassées.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreurs maximales tolérées de fidélité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5ac7efe5-5585-4a12-82ac-5f592fca46af

@@ -2,30 +2,39 @@
 data:
   identifier: '8.5'
   localized_concepts:
-    fra: aa61effd-f3ee-5ed1-9e7a-3a80d9fc1576
+    fra: 51ecc610-964f-441f-9c07-5b6f4990a72e
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 1a44e286-e5c2-54a7-b365-7274ddf05915
+id: 426c3703-df0e-4d26-8138-0fa583a3066f
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Erreur commise par l'observateur pendant le processus de mesurage.
+  examples:
+  - content: a) Lors d'un mesurage d'une intensité lumineuse ou d'une température
+      de luminance, effectué à l'alde d'un photomètre à contraste ou d'un pyromètre
+      optique à filament disparaisant ; erreur due à une égallisation incorrecte de
+      l'éclairement de deux zones.
+  - content: 'b) Lors d''un mesurage effectué à l''aide d''un pont électrique à courant
+      alternatif : erreur due à un réglage incorrect du minimum de l''intensité du
+      son dans le récepteur téléphonique.'
+  - content: Dans ces deux exemples, l'erreur de lecture de l'indication des appareils
+      de mesure utilisés no représente qu'une petite fraction de l'erreur totale d'observation.
   id: 8.5-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR D'OBSERVATION
+    designation: Erreur d'observation
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: aa61effd-f3ee-5ed1-9e7a-3a80d9fc1576
+id: 51ecc610-964f-441f-9c07-5b6f4990a72e

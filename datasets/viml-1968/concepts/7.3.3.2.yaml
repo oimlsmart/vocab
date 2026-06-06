@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 7.3.3.2
+  localized_concepts:
+    fra: a306c74a-c42e-4439-a785-5e7c439c8cb7
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: c0370c2e-40d1-410a-9606-ea4c2e6aad8b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Trait ou autre signe porté par le dispositif indicateur et correspondant
+      à une ou plusieurs valeurs déterminées de la grandeur mesurée.
+  examples: []
+  id: 7.3.3.2-fra
+  notes:
+  - content: Sur les échelles numériques et semi-numériques, les chiffres sont aussi
+      considérés comme des repères.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Repère
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: a306c74a-c42e-4439-a785-5e7c439c8cb7

@@ -2,21 +2,23 @@
 data:
   identifier: 2.3.2
   localized_concepts:
-    fra: 765bcf82-8d34-5ce5-827f-bc48e02e6900
+    fra: a7fdddb4-53ea-4cb1-9522-9eace513ec71
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 47f6fc1f-1602-5109-bb59-c0f413cf7f70
+id: 754d0ab2-3339-4a0e-8093-07f8eb75e757
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Examen partiel de certains éléments séparés d'un instrument de mesurage
+      ou bien d'un instrument entier dont la vérification définitive sera effectuée
+      au lieu d'installation.
   examples: []
   id: 2.3.2-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: EXAMEN PRÉALABLE
+    designation: Examen préalable
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 765bcf82-8d34-5ce5-827f-bc48e02e6900
+id: a7fdddb4-53ea-4cb1-9522-9eace513ec71

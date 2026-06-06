@@ -2,30 +2,37 @@
 data:
   identifier: 8.1.5.2
   localized_concepts:
-    fra: 88f91361-3e99-5f4b-b862-392b791b6d32
+    fra: b73939b8-8f5a-435e-88a4-29790bbce314
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 7ab2608c-0a55-5a78-a3a6-a6ba6f761d5e
+id: f22e8ae8-9cf8-4328-bf7d-f98498fdcb16
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Valeur de l'erreur, abstraction faite de son signe.
+  examples:
+  - content: Si l'erreur maximale tolérée d'un instrument de mesurage est égale à
+      ± 0,2 mm, la valeur absolue de cette erreur est | ± 0,2 | mm = 0,2 mm.
+  - content: Dans l'exemple cité ci-dessus la valeur absolue de l'erreur est aussl
+      $ \mid \pm 0, 2 \mid \mathrm{mm}=0, 2 \mathrm{mm}. $
   id: 8.1.5.2-fra
-  notes: []
+  notes:
+  - content: Il faut faire une distinction entre le terme « erreur absolue » et le
+      terme « valeur absolue de l'erreur »; dans ce dernier cas, le qualificatif «
+      absolue » se rapporte seulement au signe.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: VALEUR ABSOLUE DE L'ERREUR
+    designation: Valeur absolue de l'erreur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 88f91361-3e99-5f4b-b862-392b791b6d32
+id: b73939b8-8f5a-435e-88a4-29790bbce314

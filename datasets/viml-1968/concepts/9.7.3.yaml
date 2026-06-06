@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 9.7.3
+  localized_concepts:
+    fra: 2a6caaf2-2ade-4fd2-9923-e7bd31072aab
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: f4ad27ef-b681-4110-a76f-6c556b5fbaa2
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeur maximale de l'erreur de réversibilité admise par les règlements.
+  examples: []
+  id: 9.7.3-fra
+  notes:
+  - content: L'instrument de mesurage est dit « réversible » (dans les limites tolérées)
+      lorsque l'erreur maximale tolérée de réversibilité n'est pas dépassée.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur maximale tolérée de réversibilité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 2a6caaf2-2ade-4fd2-9923-e7bd31072aab

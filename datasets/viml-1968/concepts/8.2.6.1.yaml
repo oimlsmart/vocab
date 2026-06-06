@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 8.2.6.1
+  localized_concepts:
+    fra: adb9fa60-af88-429e-9390-6283dc66f2bb
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 9b77934f-4af1-4be4-95b8-b314884580c0
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Erreur d'un instrument de mesurage provenant du fait que les valeurs
+      des grandeurs d'influence sont différentes de celles qui correspondent aux conditions
+      de référence.
+  examples: []
+  id: 8.2.6.1-fra
+  notes:
+  - content: Chacune des grandeurs d'influence (4.1.2), lorsque sa valeur s'écarte
+      de sa valeur de référence (9.1.1) ou de son domalne de référence (9.1.2), provoque
+      sa propre erreur complémentaire.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur complémentaire d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: adb9fa60-af88-429e-9390-6283dc66f2bb

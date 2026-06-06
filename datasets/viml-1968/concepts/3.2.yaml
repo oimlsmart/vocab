@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '3.2'
+  localized_concepts:
+    fra: 211dfec8-72e2-4bd9-8f77-ce16e6ed5228
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: f03ce6b3-59e6-46ea-a794-a74a231e3607
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Signes portés par un instrument de mesurage permettant de le reconnaître
+      ou témoignant de certains de ses traits caractéristiques ou de sa qualité.
+  examples:
+  - content: Marque de fabrique, marque de vérification.
+  id: 3.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Marques d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 211dfec8-72e2-4bd9-8f77-ce16e6ed5228

@@ -2,21 +2,21 @@
 data:
   identifier: 3.2.4
   localized_concepts:
-    fra: 6ec6a12b-f751-558c-beca-b8da6748f3a9
+    fra: '08447d9a-68f7-4fe7-b32f-bddca7c77ab4'
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 44f15cef-b49e-5f9c-b4de-8764dfd80807
+id: 789b8645-f55e-4e10-8168-c72a8808e124
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Signe indiquant l'année au cours de laquelle la vérification a été effectuée.
   examples: []
   id: 3.2.4-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: MARQUE ANNUELLE
+    designation: Marque annuelle
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 6ec6a12b-f751-558c-beca-b8da6748f3a9
+id: '08447d9a-68f7-4fe7-b32f-bddca7c77ab4'

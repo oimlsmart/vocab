@@ -1,0 +1,44 @@
+---
+data:
+  identifier: '7.2'
+  localized_concepts:
+    fra: 549714fc-1a2b-468c-9b2a-9e937e582024
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 5854e7cb-1aa3-45f3-9b2b-2cf43a423300
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Présentation symbolique de la chaîne de mesurage de l'instrument avec
+      indication des grandeurs transformées dans cet instrument.
+  examples:
+  - content: Schéma de structure du thermomètre thermoélectrique (thermocouple).
+  - content: "$T$ : température,"
+  - content: '1 : thermocouple,'
+  - content: "$E$ : force électromotrice — $I$ : intensité du courant,"
+  - content: 'II : élément transducteur E,'
+  - content: 'M : couple de rotation,'
+  - content: 'III : système magnéto-électrique du millivoltmètre'
+  - content: "$\\alpha$ : angle de la rotation de l'alguille,"
+  - content: 'IV : ressort spirale du millivoltmètre'
+  id: 7.2-fra
+  notes:
+  - content: Les éléments transducteurs sont en général représentés sous forme de
+      rectangles. A côté des lignes de laison sont placés les symboles des grandeurs
+      qui sortent de l'un des éléments transducteurs et entrent dans le solvant.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Schéma de structure
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 549714fc-1a2b-468c-9b2a-9e937e582024

@@ -2,30 +2,60 @@
 data:
   identifier: 8.1.4
   localized_concepts:
-    fra: 693bc0a5-9c94-5ca0-a92e-36d798f83d43
+    fra: d8ca36ab-7c77-42bf-a467-0bc4467533d1
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 107e4532-4590-544b-8442-d44ae79cfba8
+id: 0d490827-ad29-4e9b-8ec4-3e49ee1f5d63
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Loi reliant l'erreur commise sur le résultat d'un mesurage indirect d'une
+      grandeur aux erreurs commises lors des mesurages directs des grandeurs composantes.
+  examples:
+  - content: 'Si la grandeur $Y$ mesurée indirectement est ille avec les grandeurs
+      composantes indépendantes $X_{1}, X_{2}, \dots X_{m}$ (mesurées directement)
+      par l''équation :'
+  - content: "$$"
+  - content: Y = F \left(X _ {1}, X _ {2} \dots X _ {m}\right))
+  - content: "$$"
+  - content: 'a) l''erreur systématique $\Delta Y$ de mesurage indirect de la grandeur
+      $Y$ s''exprime (en général approximativement seulement) par la loi suivante
+      de composition des erreurs :'
+  - content: "$$"
+  - content: "\\Delta Y = \\frac {\\partial F}{\\partial X _ {1}} \\Delta X _ {1}
+      + \\frac {\\partial F}{\\partial X _ {2}} \\Delta X _ {2} + \\dots + \\frac
+      {\\partial F}{\\partial X _ {m}} \\Delta X _ {m}"
+  - content: "$$"
+  - content: ou $\Delta X_{1}, \Delta X_{2} \dots \Delta X_{m}$ représentent les erreurs
+      systématiques de mesurage direct des grandeurs $X_{1}, X_{2} \dots X_{m}$
+  - content: 'b) L''écart moyen quadratique de mesurage indirect de la grandeur $Y$
+      s''exprime (en général approximativement seulement) par la lol suivante de composition
+      des écarts moyens quadratiques :'
+  - content: "$$"
+  - content: s _ {\mathrm {Y}} = \sqrt {\left(\frac {\partial F}{\partial X _ {1}}\right)
+      ^ {2} s _ {1} ^ {2} + \left(\frac {\partial F}{\partial X _ {2}}\right) ^ {2}
+      s _ {2} ^ {2} + \dots + \left(\frac {\partial F}{\partial X _ {m}}\right) ^
+      {2} s _ {m} ^ {2}}
+  - content: "$$"
+  - content: ou $s_1, s_2 \dots s_m$ représentent les écarts moyens quadratiques de
+      mesurage direct des grandeurs $X_1, X_2 \dots X_m$.
+  - content: Les données partelles dans les formules ci-dessus doivent être calculées
+      pour un point déterminé.
   id: 8.1.4-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: LOI DE COMPOSITION DES ERREURS
+    designation: Loi de composition des erreurs
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 693bc0a5-9c94-5ca0-a92e-36d798f83d43
+id: d8ca36ab-7c77-42bf-a467-0bc4467533d1

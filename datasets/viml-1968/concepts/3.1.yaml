@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '3.1'
+  localized_concepts:
+    fra: d2592b3e-4037-4c43-bc56-081c1bab2936
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: c86c6ee7-5cf0-46ba-8f03-8489ed34ff4d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Loi ou, dans certains pays, décret ayant pour objet de fixer les unités
+      légales de mesure, d'instituer et organiser le Service national de métrologie
+      légale ainsi que de rendre obligatoire le contrôle des instruments de mesurage.
+  examples: []
+  id: 3.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Loi relative à la métrologie légale
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: d2592b3e-4037-4c43-bc56-081c1bab2936

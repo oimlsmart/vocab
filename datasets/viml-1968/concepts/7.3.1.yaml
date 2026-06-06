@@ -2,30 +2,34 @@
 data:
   identifier: 7.3.1
   localized_concepts:
-    fra: 69347814-809a-50e1-adf6-dadfb6714bf6
+    fra: 90a9b8a3-325b-4e9d-82d0-048fb97f1c9e
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 194cec55-7992-5806-a915-913436fcbf95
+id: cd2881d1-8922-48fc-8c2b-f1d049f7c620
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Élément d'un appareil mesureur servant à la prise d'informations relatives
+      à la grandeur à mesurer.
+  examples:
+  - content: thermocouple d'un thermomètre, organe déprimogène d'un débitmètre,
+  - content: tube Bourdon d'un manomètre, flotteur d'un apparcil mesureur de niveau.
   id: 7.3.1-fra
-  notes: []
+  notes:
+  - content: Le capteur constitue en même temps le premier élément transducteur.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: CAPTEUR
+    designation: Capteur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 69347814-809a-50e1-adf6-dadfb6714bf6
+id: 90a9b8a3-325b-4e9d-82d0-048fb97f1c9e

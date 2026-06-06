@@ -2,30 +2,37 @@
 data:
   identifier: 6.1.2.4
   localized_concepts:
-    fra: 68bd667c-f5b6-5f21-abf9-f2f8b8025efe
+    fra: b9003521-fa49-4de8-9a94-4a12c15ea80b
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c814537d-a4e2-562e-8e6b-e6ae9fdace68
+id: 2be653ce-611c-41ea-b417-e13bff5f0d79
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Appareil mesureur qui détermine la valeur d'une grandeur en faisant la
+      somme de valeurs mesurées partielles. Si un appareil mesureur totalisateur sert
+      à distribuer des quantités de matière ou d'énergie qui sont constantes pendant
+      une même série d'opérations, et qui sont toujours multiples d'une quantité définie,
+      il est appelé « distributeur discontinu ».
+  examples:
+  - content: distributeur discontinu de carburant à une ou deux capacités mesureuses.
   id: 6.1.2.4-fra
-  notes: []
+  notes:
+  - content: Le dispositif indicateur d'un appareil mesureur totalisateur peut comporter
+      un organe permettant de le remettre au zéro (7.7.).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: APPAREIL MESUREUR TOTALISATEUR
+    designation: Appareil mesureur totalisateur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 68bd667c-f5b6-5f21-abf9-f2f8b8025efe
+id: b9003521-fa49-4de8-9a94-4a12c15ea80b

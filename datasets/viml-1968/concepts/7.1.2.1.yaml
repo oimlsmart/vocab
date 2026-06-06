@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 7.1.2.1
+  localized_concepts:
+    fra: b18ecb4d-c277-498e-9e17-45ba018d56e9
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 5188e051-ca66-49af-8a68-2af6bec3c865
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Réalisation définitive d'un instrument de mesurage dont tous les éléments
+      influant sur les qualités métrologiques sont convenablement définis.
+  examples: []
+  id: 7.1.2.1-fra
+  notes:
+  - content: Les instruments d'un même modèle doivent être conformes entre eux en
+      ce qui concerne l'exécution (dimension, construction, matériaux, technologie)
+      dans les limites de tolérances fixées.
+  - content: Cependant, des instruments d'un même modèle peuvent avoir des étendues
+      de mesurage différentes.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Modèle d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: b18ecb4d-c277-498e-9e17-45ba018d56e9

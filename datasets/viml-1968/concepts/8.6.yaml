@@ -2,21 +2,23 @@
 data:
   identifier: '8.6'
   localized_concepts:
-    fra: fb0c7bad-3598-5879-87c6-19c2b900994c
+    fra: fcb1868b-4993-4eb3-8cc7-853945a5977d
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ad64a3b2-2d60-51e7-ab63-425b692c135f
+id: 48a684ba-7550-48b5-8e89-b86581bc1232
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Courbe qui représente l'erreur d'un instrument de mesurage en fonction,
+      soit de la grandeur mesurée, soit de toute autre grandeur qui influe sur cette
+      erreur.
   examples: []
   id: 8.6-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: COURBE D'ERREURS D'UN INSTRUMENT DE MESURAGE
+    designation: Courbe d'erreurs d'un instrument de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: fb0c7bad-3598-5879-87c6-19c2b900994c
+id: fcb1868b-4993-4eb3-8cc7-853945a5977d

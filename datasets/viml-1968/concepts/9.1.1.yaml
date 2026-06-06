@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 9.1.1
+  localized_concepts:
+    fra: 30d89e14-6281-4fc6-9f4f-669a7f6e36a2
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 76114e44-c2bb-46b5-b8e0-db02989c3dca
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeur d'une grandeur d'influence (4.1.2) pour laquelle sont fixées les
+      erreurs de base (8.2.6) maximales tolérées.
+  examples: []
+  id: 9.1.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Valeur de référence
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 30d89e14-6281-4fc6-9f4f-669a7f6e36a2

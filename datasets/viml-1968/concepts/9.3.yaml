@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '9.3'
+  localized_concepts:
+    fra: eaeb3722-673f-4da6-b233-232fbac6f47c
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: fd83557c-2733-4830-ba22-2b437fec400e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Qualité d'un instrument de mesurage dont le dispositif indicateur est
+      réalisé de telle sorte qu'il permet de connaître l'indication sans ambiguité.
+  examples: []
+  id: 9.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Sûreté de lecture d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: eaeb3722-673f-4da6-b233-232fbac6f47c

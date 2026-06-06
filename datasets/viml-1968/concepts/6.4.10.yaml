@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 6.4.10
+  localized_concepts:
+    fra: e4620fd1-7f4a-413d-ad72-e4a1e945eaf4
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: d1f71452-dbe4-46cc-9963-3ded9cdaabd8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Étalon reconnu par une décision officielle nationale pour servir de base
+      dans un pays à la fixation des valeurs de tous les autres étalons de la grandeur
+      donnée.
+  examples: []
+  id: 6.4.10-fra
+  notes:
+  - content: En général, dans un pays, l'étalon national constitue aussi l'étalon
+      primaire.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Étalon national
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: e4620fd1-7f4a-413d-ad72-e4a1e945eaf4

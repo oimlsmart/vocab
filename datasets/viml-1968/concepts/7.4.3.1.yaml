@@ -2,30 +2,34 @@
 data:
   identifier: 7.4.3.1
   localized_concepts:
-    fra: 38afd4e3-d7d2-5a42-bb69-221b37489e3d
+    fra: a3e489ce-81d3-48d0-aedf-d97b67295412
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: bf24a39a-30cb-522e-8fe9-007ce465130c
+id: f7e00ad8-df05-4cc8-84f9-872f781f5697
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Longueur rectiligne ou curviligne mesurée le long de la base de l'échelle
+      et comprise entre les axes de deux repères consécutifs.
   examples: []
   id: 7.4.3.1-fra
-  notes: []
+  notes:
+  - content: Dans les instruments à étendues multiples, la plus petite des longueurs
+      d'échelon des diverses échelles représente « la longueur de l'échelon de l'instrument
+      ».
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: LONGUEUR DE L'ÉCHELON
+    designation: Longueur de l'échelon
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 38afd4e3-d7d2-5a42-bb69-221b37489e3d
+id: a3e489ce-81d3-48d0-aedf-d97b67295412

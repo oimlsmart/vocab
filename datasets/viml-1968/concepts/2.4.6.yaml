@@ -2,21 +2,22 @@
 data:
   identifier: 2.4.6
   localized_concepts:
-    fra: e10ed812-1629-55e0-89ca-e73c768085bf
+    fra: e6cb51ce-b9f8-46bc-9a1d-502b375a8a25
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b3dd9ddc-6fec-51c5-9118-fb889e8df8d6
+id: 4ddd90f8-e6f0-453f-8e98-55d93fa9d4b0
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Vérification ultérieure d'un instrument de mesurage, effectuée périodiquement
+      à des intervalles de temps et suivant des modalités fixées par les règlements.
   examples: []
   id: 2.4.6-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: VÉRIFICATION PÉRIODIQUE
+    designation: Vérification périodique
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e10ed812-1629-55e0-89ca-e73c768085bf
+id: e6cb51ce-b9f8-46bc-9a1d-502b375a8a25

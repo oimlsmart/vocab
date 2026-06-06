@@ -2,30 +2,38 @@
 data:
   identifier: 6.4.3
   localized_concepts:
-    fra: fc8ca011-2f91-5107-ae72-4a8b09bff7d5
+    fra: 7f97c453-fc46-4e4c-9e62-6f9e2333c827
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 9c3b5fc2-6e32-5661-9c6f-67206c16ca28
+id: 50f63275-4870-4e15-aec6-fb36123b45c4
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Groupe d'instruments de mesurage de même modèle et de mêmes caractéristiques
+      métrologiques associés pour remplir, en commun, par leur moyen, le rôle d'etalon.
+      La valeur de l'etalon collectif est la moyenne arithmétique pondérée des valeurs
+      fournies par les divers instruments.
+  examples:
+  - content: étalon collectif de dureté composé par un groupe de blocs de dureté;
+  - content: étalon collectif de pression matérielisé par un groupe de manomètres
+      à piston,
+  - content: éton collectif d'intensité luminouse constitue par un certain nombre
+      de lamps à incandescence.
   id: 6.4.3-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉTALON PRIMAIRE
+    designation: Étalon collectif
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: fc8ca011-2f91-5107-ae72-4a8b09bff7d5
+id: 7f97c453-fc46-4e4c-9e62-6f9e2333c827

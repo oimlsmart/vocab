@@ -2,30 +2,40 @@
 data:
   identifier: '8.1'
   localized_concepts:
-    fra: c7d37fef-d893-53df-a636-07b5bb76b2b3
+    fra: db748b43-121b-4a09-b35d-0a358aeb370e
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f1838c65-3dd6-5a8d-8c04-c69129606d7d
+id: 20bf4784-9cd8-4fe6-a6d9-d5be7251b0e9
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Discordance entre le résultat du mesurage (5.4.) et la valeur de la grandeur
+      mesurée.
   examples: []
   id: 8.1-fra
-  notes: []
+  notes:
+  - content: '1. La valeur de la grandeur mesurée est une valeur de comparaison égale
+      suivant les cas à :'
+  - content: la valeur vraie de la grandeur (généralement inconnue),
+  - content: la valeur conventionnellement vrale,
+  - content: la moyenne arithmétique des résultats d'une série de mesurages.
+  - content: 2. La discordance peut être exprime comme la différence entre ces deux
+      valeurs (8.1.5 — Erreur absolue)
+  - content: ou bien comme le quotient de cette différence par la valeur de la grandeur
+      mesurée (8.1.6 — Erreur relative).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR DE MESURAGE
+    designation: Erreur de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c7d37fef-d893-53df-a636-07b5bb76b2b3
+id: db748b43-121b-4a09-b35d-0a358aeb370e

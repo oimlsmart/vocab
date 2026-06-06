@@ -2,30 +2,34 @@
 data:
   identifier: 0.3.1
   localized_concepts:
-    fra: 6bff80e3-164f-548a-9628-f3a1181da211
+    fra: 7148291d-4527-4703-b23a-33e669b7ffb5
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 031c3bfc-042c-5469-9890-e9661d0be892
+id: 454e5ba3-865f-4fc6-9a1e-c8ec2d448182
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Partie de la Métrologie qui traite des problèmes des mesurages dans la
+      technique.
   examples: []
   id: 0.3.1-fra
-  notes: []
+  notes:
+  - content: Bien que d'autres domalnes soient compris dans la métrologie technique,
+      cette expression est souvent utilisée avec une signification incorrecte pour
+      la seule métrologie des longueurs et des angles.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTROLOGIE TECHNIQUE
+    designation: Métrologie technique
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 6bff80e3-164f-548a-9628-f3a1181da211
+id: 7148291d-4527-4703-b23a-33e669b7ffb5

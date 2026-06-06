@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '9.10'
+  localized_concepts:
+    fra: 7c436cae-f1ba-4398-8690-9cb75616e2c4
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: e962a93e-3d92-4022-8f80-5fedfdcf9d19
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Qualité qui caractérise l'aptitude d'un instrument de mesurage à donner
+      des indications proches de la valeur vraie de la grandeur mesurée.
+  examples: []
+  id: 9.10-fra
+  notes:
+  - content: La précision est la qualité globale de l'instrument du point do vue des
+      erreurs.
+  - content: La précision est d'autant plus grande que les indications sont plus proches
+      de la valeur vraie.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Précision d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 7c436cae-f1ba-4398-8690-9cb75616e2c4

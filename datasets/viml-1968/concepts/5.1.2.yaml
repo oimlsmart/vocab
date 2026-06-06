@@ -2,30 +2,33 @@
 data:
   identifier: 5.1.2
   localized_concepts:
-    fra: 7680a078-c4a5-5af6-a6c1-4c30687b9372
+    fra: ff24b17f-84fd-4e7e-b5df-cbb07cc5a3f8
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: acaea569-452a-5310-97e4-e24cd5a9aa2e
+id: bf6c7846-7747-4a21-bfaf-0ea13f0c9271
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Succession des opérations nécessaires à l'exécution d'un mesurage.
   examples: []
   id: 5.1.2-fra
-  notes: []
+  notes:
+  - content: ''
+  - content: Les opérations de mesurage comprennent aussi, s'il y a lieu, les calculs
+      nécessaires pour déterminer la valeur de la grandeur mesurée.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: PROCESSUS DE MESURAGE
+    designation: Processus de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 7680a078-c4a5-5af6-a6c1-4c30687b9372
+id: ff24b17f-84fd-4e7e-b5df-cbb07cc5a3f8

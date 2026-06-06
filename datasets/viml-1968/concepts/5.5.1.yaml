@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 5.5.1
+  localized_concepts:
+    fra: 92c57d50-a14e-4ed7-91aa-0e50490efd67
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: ede43e13-cf57-436b-94a2-a668d9259dee
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Étroitesse de l''accord entre les résultats des mesurages d''une même
+      grandeur dans le cas où les mesurages individuels sont effectués : suivant différentes
+      méthodes, au moyen de différents instruments de mesurage, par différents observateurs,
+      dans différents laboratoires, après des intervalles de temps assez longs par
+      rapport à la durée d''un seul mesurage, dans différentes conditions usuelles
+      d''emploi des instruments utilisés.'
+  examples: []
+  id: 5.5.1-fra
+  notes:
+  - content: 1. On parle aussi de reproductibilité lorsque certains seulement des
+      facteurs énumérés cl-dessus sont différents lors des divers mesurages individuels,
+      ces facteurs doivent être bien précisés dans chaque cas particulier.
+  - content: 2. Le plus souvent, on estime la reproductibilité des mesurages d'après
+      l'incertitude de mesurage.
+  - content: Par suite d'un plus grand nombre de sources d'erreurs fortuites, cette
+      incertitude est en général plus grande que pour la détermination de la répétabilité
+      d'un mesurage; la reproductibilité est inférieure à la répétabilité.
+  - content: 3. Les résultats des mesurages individuels doivent être corrigés des
+      erreurs systématiques.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Reproductibilité des mesurages
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 92c57d50-a14e-4ed7-91aa-0e50490efd67

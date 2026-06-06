@@ -2,30 +2,45 @@
 data:
   identifier: 8.1.4.1
   localized_concepts:
-    fra: ebd988a7-cc15-5158-a6d1-8d02d93fa03d
+    fra: adcd6950-fa4d-49cd-a39c-83e15bfe72fb
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 3b8949bf-76c4-56b1-be2a-30a0cddece08
+id: 394ccc61-a403-43b8-9391-4a85a41d69e3
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Partie de l'erreur du mesurage indirect d'une grandeur qui résultat de
+      l'erreur commise sur une grandeur composante.
+  examples:
+  - content: 'Dans les exemples du 8.1.4 les expressions :'
+  - content: "$$"
+  - content: "\\frac {\\partial F}{\\partial X _ {1}} \\Delta X _ {1}, \\frac {\\partial
+      F}{\\partial X _ {2}} \\Delta X _ {2}, \\dots \\frac {\\partial F}{\\partial
+      X _ {m}} \\Delta X _ {m}"
+  - content: "$$"
+  - content: 'on'
+  - content: "$$"
+  - content: "\\frac {\\partial F}{\\partial X _ {1}} s _ {1}, \\frac {\\partial F}{\\partial
+      X _ {2}} s _ {2}, \\dots \\frac {\\partial F}{\\partial X _ {m}} s _ {m}"
+  - content: "$$"
+  - content: représentent les erreurs systématiques partielles ou les écarts moyens
+      quadratiques partiels du mesurage direct des grandcurs $ X_{1}, X_{2} \dots
+      X_{m}. $
   id: 8.1.4.1-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR PARTIELLE
+    designation: Erreur partielle
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ebd988a7-cc15-5158-a6d1-8d02d93fa03d
+id: adcd6950-fa4d-49cd-a39c-83e15bfe72fb

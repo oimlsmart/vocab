@@ -2,21 +2,21 @@
 data:
   identifier: 4.1.1
   localized_concepts:
-    fra: 9a11c602-c6ca-5477-9b1f-d66820f1d6bb
+    fra: b3dc67fe-3477-4693-be60-5169dcdd483d
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: bd30e004-802a-5cf0-bedd-9e8bb9f04caf
+id: 8d9436d9-bd9f-4a96-a0db-f9f64046da48
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Grandeur assujettie à un mesurage.
   examples: []
   id: 4.1.1-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: GRANDEUR À MESURER
+    designation: Grandeur à mesurer
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9a11c602-c6ca-5477-9b1f-d66820f1d6bb
+id: b3dc67fe-3477-4693-be60-5169dcdd483d

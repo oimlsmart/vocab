@@ -2,21 +2,23 @@
 data:
   identifier: '1.3'
   localized_concepts:
-    fra: 1e23f964-62d9-561a-a9e7-c9915e821bce
+    fra: 2d1efca3-333f-4398-a074-8a37f01c99b1
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: fa2787cf-f608-5a94-ac60-aab77e6f79fa
+id: ae0af613-857a-4092-a3a6-f691edbb3b63
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Organismes nationaux indépendants du Service national de métrologie légale
+      et collaborant avec ce Service pour assurer le respect des prescriptions concernant
+      la métrologie légale.
   examples: []
   id: 1.3-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: AUTORITÉS DE SURVEILLANCE MÉTROLOGIQUE
+    designation: Autorités de surveillance métrologique
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 1e23f964-62d9-561a-a9e7-c9915e821bce
+id: 2d1efca3-333f-4398-a074-8a37f01c99b1

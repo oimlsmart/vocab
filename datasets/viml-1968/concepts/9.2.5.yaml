@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 9.2.5
+  localized_concepts:
+    fra: 9838e2ba-b99d-4946-ba44-fd3d6b920217
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 59cb371d-534d-411a-aba9-63a8a8d05349
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeur de la charge correspondant à la Iimite maximale de l'étendue de
+      la charge.
+  examples: []
+  id: 9.2.5-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Charge maximale d'un compteur
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 9838e2ba-b99d-4946-ba44-fd3d6b920217

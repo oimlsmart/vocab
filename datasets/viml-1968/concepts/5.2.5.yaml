@@ -2,30 +2,39 @@
 data:
   identifier: 5.2.5
   localized_concepts:
-    fra: e14fbe79-7029-5cb0-86b9-4f030bf7ee57
+    fra: 903b8077-daa1-4f53-b454-7956c0c45fab
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: abf18ef9-ba41-536e-91c3-2b7ff5f4eead
+id: 2a30fb7b-c51c-4a2c-b8d1-a78cdaad4666
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Méthode de mesurage basée sur la comparaison de la valeur d'une grandeur
+      à mesurer à une valeur connue de la même grandeur ou à une valeur connue d'une
+      autre grandeur fonction de la grandeur à mesurer.
   examples: []
   id: 5.2.5-fra
-  notes: []
+  notes:
+  - content: 1. Un mesurage par comparaison est donc, d'après la définition, aussi
+      bien le mesurage du volume d'un liquide au moyen d'une mesure matérielisée de
+      capacité que le mesurage d'une pression au moyen d'un manomètre à ressort dans
+      lequel la pression se transforme en une déformation d'un élément elastique.
+  - content: 2. Cependant, on considère parfois que c'est seulement dans le cas où
+      la comparaison s'effectue entre deux grandeurs de même nature que la méthode
+      est dite « par comparaison ».
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTHODE DE MESURAGE PAR COMPARAISON
+    designation: Méthode de mesurage par comparaison
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e14fbe79-7029-5cb0-86b9-4f030bf7ee57
+id: 903b8077-daa1-4f53-b454-7956c0c45fab

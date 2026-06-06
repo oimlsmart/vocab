@@ -2,30 +2,35 @@
 data:
   identifier: 7.3.3
   localized_concepts:
-    fra: e7de1373-ce08-5604-abc5-b5e26ee546c5
+    fra: d6f516fc-1f5f-4bf8-8f8e-b5cfc524b1d2
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c79b4196-7a65-54c9-a662-1832cdb2c9ac
+id: 8217b455-fd47-4474-87d8-6eac46efa92f
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Ensemble des organes d'un appareil mesureur destinés à indiquer les résultats
+      de mesurage.
+  examples:
+  - content: Dans les appareils mesureurs munis d'un dispositif indicateur simple,
+      ce dispositif se compose généralement d'une échelle et d'un index ; dans les
+      compteurs, le dispositif indicateur (ou blon une partie de celui-ci) est généralement
+      constitué par un totalisateur.
   id: 7.3.3-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: DISPOSITIF INDICATEUR
+    designation: Dispositif indicateur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e7de1373-ce08-5604-abc5-b5e26ee546c5
+id: d6f516fc-1f5f-4bf8-8f8e-b5cfc524b1d2

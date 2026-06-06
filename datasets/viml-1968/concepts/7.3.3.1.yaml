@@ -2,30 +2,37 @@
 data:
   identifier: 7.3.3.1
   localized_concepts:
-    fra: a1b13f10-58cd-5e49-8077-1ab06da4ab06
+    fra: bcea18c3-c475-4692-b754-50b90ca7c00c
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 59ef82d7-268f-52dc-8ab6-514c03b2676a
+id: 932601dc-1c7b-4e4b-be47-53a30ad39501
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Partie fixe ou mobile du dispositif indicateur (aiguille, spot lumineux,
+      surface d'un liquide, plume d'enregistrement, pointe etc...) dont la position
+      par rapport aux repères permet de déterminer le résultat du mesurage.
+  examples:
+  - content: une balance à bras égaux est munie d'une échelle fixe devant laquelle
+      se déplace une aiguille qui forme l'index ;
+  - content: dans un compteur watthcuremètre à rouleaux, les fenêtres du dispositif
+      indicateur constituent les index fixes
+  - content: au travers desquels apparaissent les chiffres des échelles mobiles.
   id: 7.3.3.1-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: INDEX
+    designation: Index
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a1b13f10-58cd-5e49-8077-1ab06da4ab06
+id: bcea18c3-c475-4692-b754-50b90ca7c00c

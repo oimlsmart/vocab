@@ -2,30 +2,34 @@
 data:
   identifier: 4.1.2
   localized_concepts:
-    fra: 930cf7bc-1087-5a5a-bbe8-ae2b58e221f2
+    fra: 3e89644c-9762-469f-b24b-ff1357934856
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e74fe553-a4d9-5acd-942b-2f3276503604
+id: 59190241-cee6-4de2-a604-43e8bbf2ef40
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Grandeur qui ne fait pas l'objet du mesurage mais qui influe sur la valeur
+      de la grandeur à mesurer ou sur les indications de l'instrument mesureur ou
+      sur la valeur de la mesure matérielisée reproduisant la grandeur.
   examples: []
   id: 4.1.2-fra
-  notes: []
+  notes:
+  - content: La grandeur d'influence peut provenir de l'ambiance ou de l'instrument
+      de mesurage lui-même.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: GRANDEUR D'INFLUENCE
+    designation: Grandeur d'influence
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 930cf7bc-1087-5a5a-bbe8-ae2b58e221f2
+id: 3e89644c-9762-469f-b24b-ff1357934856

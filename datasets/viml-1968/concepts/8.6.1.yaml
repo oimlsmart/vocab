@@ -2,21 +2,22 @@
 data:
   identifier: 8.6.1
   localized_concepts:
-    fra: 52df694e-e81c-5377-a6cc-f5377cd531e7
+    fra: bd5c39f5-3dd9-4ba0-a900-f24cd07b2e55
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: d73bcdb8-c058-54e5-bf38-866e0bc2fcfb
+id: c95f60ba-9edc-4aaa-a10d-7d025fd2f94a
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Courbe qui exprime la correspondance entre les valeurs de la grandeur
+      mesurée et les valeurs indiquées par l'instrument.
   examples: []
   id: 8.6.1-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: COURBE D'ÉTALONNAGE D'UN INSTRUMENT DE MESURAGE
+    designation: Courbe d'étalonnage d'un instrument de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 52df694e-e81c-5377-a6cc-f5377cd531e7
+id: bd5c39f5-3dd9-4ba0-a900-f24cd07b2e55

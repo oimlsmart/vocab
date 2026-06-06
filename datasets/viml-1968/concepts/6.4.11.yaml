@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 6.4.11
+  localized_concepts:
+    fra: cc34728e-f9b9-4ad9-b8da-94881207d26e
+  domains:
+  - concept_id: section-6
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 3778d8fc-11c0-43f4-a499-9df4359167b7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Ancienne dénomination des Étalons internationaux ou nationaux de longueur
+      et de masse dans le Système métrique décimal d''unités de mesure : Prototype
+      international du mètre — Prototype international du kilogramme.'
+  examples: []
+  id: 6.4.11-fra
+  notes:
+  - content: Le terme « prototype », dans le sens ci-dessus, a uniquement une valeur
+      historique et ne devrait pas être utilisé dans les documents officiels concernant
+      les étalons contemporains.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Prototype international / national
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: cc34728e-f9b9-4ad9-b8da-94881207d26e

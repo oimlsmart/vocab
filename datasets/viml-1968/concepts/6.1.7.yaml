@@ -2,30 +2,36 @@
 data:
   identifier: 6.1.7
   localized_concepts:
-    fra: 321dc224-4fb5-51d0-af81-66ce88d82d34
+    fra: a44cfa15-be4c-442b-bb91-00927f33911a
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: d155f971-db05-536b-bde6-79e574a0184f
+id: 5a18e8e6-7533-4451-a906-67df86d7b578
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Instrument qui sert à transformer, suivant une loi déterminée, la grandeur
+      mesurée (ou bien une grandeur déjà transformée de la grandeur mesurée) en une
+      autre grandeur ou en une autre valeur de la même grandeur, avec une précision
+      spécifiée et qui constitue un ensemble pouvant être utilisé séparément.
+  examples:
+  - content: thermocouple (avec tube protecteur, tête et autres éléments supplémentaires),
+  - content: transformateur de mesure, shunt interchangeable pour un ampèremètre.
   id: 6.1.7-fra
-  notes: []
+  notes:
+  - content: On utilise aussi la dénomination « traducteur ».
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: DISPOSITIF AUXILIAIRE DE MESURAGE
+    designation: Transducteur de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 321dc224-4fb5-51d0-af81-66ce88d82d34
+id: a44cfa15-be4c-442b-bb91-00927f33911a

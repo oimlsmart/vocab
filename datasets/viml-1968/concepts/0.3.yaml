@@ -2,30 +2,35 @@
 data:
   identifier: '0.3'
   localized_concepts:
-    fra: d45792ee-8c95-53eb-a8e5-2cec08909763
+    fra: 5e363fb9-9657-41f6-9e4f-a8d4e5d3f589
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: efaaa608-ce4b-5bb1-84df-3c95a8fa3765
+id: 1893f826-75ca-4f30-9a54-bc3dc1401a9f
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Partie de la Métrologie qui traite des mesurages pour des applications
+      définies.
   examples: []
   id: 0.3-fra
-  notes: []
+  notes:
+  - content: Par opposition à la métrologie générale, la métrologie appliquée concerne
+      les mesurages d'une certaine grandeur ou blen les mesurages des grandeurs faisant
+      partie d'un certain domaine, selon les exemples donnés au point 0.1, remarque
+      3.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTROLOGIE APPLIQUÉE
+    designation: Métrologie appliquée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: d45792ee-8c95-53eb-a8e5-2cec08909763
+id: 5e363fb9-9657-41f6-9e4f-a8d4e5d3f589

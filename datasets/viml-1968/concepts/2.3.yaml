@@ -2,21 +2,23 @@
 data:
   identifier: '2.3'
   localized_concepts:
-    fra: 0346a13c-b76b-5966-99e0-3025c26ebadc
+    fra: 37987c76-f746-4a14-b582-cc853dbc4d88
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 9be9bf85-ab6e-585a-9329-3bb51fb0d336
+id: a9ab7562-76a7-451c-9bcd-0588245810da
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble des opérations effectuées en vue de contrôler que l'instrument
+      de mesurage répond aux exigences des règlements sur la vérification ou aux recommandations
+      d'une norme ou à des spécifications techniques...
   examples: []
   id: 2.3-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: EXAMEN D'UN INSTRUMENT DE MESURAGE
+    designation: Examen d'un instrument de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 0346a13c-b76b-5966-99e0-3025c26ebadc
+id: 37987c76-f746-4a14-b582-cc853dbc4d88

@@ -2,30 +2,33 @@
 data:
   identifier: 4.6.6
   localized_concepts:
-    fra: 0c927262-42a9-59fc-a3e8-92d40725c070
+    fra: a9ea09ec-8494-4ad3-b2ad-693c1ccbd18b
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: a0d56b94-92ec-57d7-b870-4d3f67246f65
+id: fffbb21b-8793-4cc0-9ee2-2186e9d33b4b
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Unité de mesure qui n'appartient pas au système d'unités de mesure envisagé.
+  examples:
+  - content: La calorie, égale à 4,1868 joules, est une unité hors-système de la quantité
+      de chaleur (travall) dans les systèmes d'unités de mesure basés sur le mètre,
+      le kilogramme et la seconde.
   id: 4.6.6-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: UNITÉ DE MESURE HORS-SYSTÈME
+    designation: Unité de mesure hors-système
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 0c927262-42a9-59fc-a3e8-92d40725c070
+id: a9ea09ec-8494-4ad3-b2ad-693c1ccbd18b

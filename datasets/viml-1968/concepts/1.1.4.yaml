@@ -2,21 +2,26 @@
 data:
   identifier: 1.1.4
   localized_concepts:
-    fra: 8f6ff2d0-8c13-5470-a393-ae2fb9d2a91a
+    fra: 2f044bf3-0f62-4097-b637-e0d0eb5cf2dd
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 33d5018d-b87e-557c-92ab-040436cf249b
+id: aae00393-6211-4ac7-806f-0570fc629362
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Organisme du Service national de métrologie légale dont le but est :
+      a) d''assurer une précision convenable aux étalons des bureaux locaux de vérification,
+      des bureaux de vérification ambulants et des centres de vérification sur un
+      territoire déterminé, b) de surveiller l''activité de ces bureaux, d''effectuer
+      la surveillance métrologique sur ce territoire, c) d''exécuter les vérifications
+      de certains instruments de mesurage qui lui sont réservées.'
   examples: []
   id: 1.1.4-fra
   notes: []
@@ -24,8 +29,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: BUREAU RÉGIONAL DE VÉRIFICATION
+    designation: Bureau régional de vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 8f6ff2d0-8c13-5470-a393-ae2fb9d2a91a
+id: 2f044bf3-0f62-4097-b637-e0d0eb5cf2dd

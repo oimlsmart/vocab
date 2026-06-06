@@ -2,30 +2,33 @@
 data:
   identifier: 4.6.1
   localized_concepts:
-    fra: f972a4f2-c66e-51b5-ae87-d9eecce6c03d
+    fra: c6bbe8cd-733d-46c7-b807-5af22aed0d95
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: af06ae40-cda9-5ccc-b1f9-387411d5ba3f
+id: e555330a-528e-4431-bbf8-0aa6f1b7aa3f
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Signe conventionnel désignant l'unité de mesure.
+  examples:
+  - content: 'm : symbole du mètre;'
+  - content: 'A : symbole de l''ampère ;'
+  - content: "° : syrubole du degré angulaire."
   id: 4.6.1-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: SYMBOLE DE L'UNITÉ DE MESURE
+    designation: Symbole de l'unité de mesure
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f972a4f2-c66e-51b5-ae87-d9eecce6c03d
+id: c6bbe8cd-733d-46c7-b807-5af22aed0d95

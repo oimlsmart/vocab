@@ -2,30 +2,44 @@
 data:
   identifier: 5.4.1
   localized_concepts:
-    fra: f071b170-1a87-56a8-9985-856c32c68632
+    fra: 2e8c478c-0584-4a54-9a88-593bd00c535b
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 16928f01-e585-5494-b09d-4149cf885082
+id: 95655cf5-5ec7-4c1f-adb5-007155bd02aa
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Résultat d'un mesurage avant corrections (8.1.1.1) et avant la détermination
+      de l'incertitude de mesurage (8.1.8.3 ou 8.1.8.4).
+  examples:
+  - content: '1. On a mesuré à l''aide d''un pied à coulisse le diamètre d''un cylindre
+      ; l''indication lue sur l''instrument : 14,7 mm représente le résultat brut
+      du mesurage.'
+  - content: '2. Si dans une série de 10 mesurages du même cylindre on a obtenu en
+      mm les valeurs : 14,9 ; 14,6 ; 14,8 ; 14,6 ;'
+  - content: '14,9 ; 14,7 ; 14,7 ; 14,8 ; 14,9 ; 14,8, le résultat brut de cette série
+      de mesurages sera :'
+  - content: "$$"
+  - content: d = \frac {1 4 , 9 + 1 4 , 6 + \dots + 1 4 , 8}{1 0} = 1 4, 7 7 \mathrm
+      {m m} \approx 1 4, 8 \mathrm {m m}
+  - content: "$$"
   id: 5.4.1-fra
-  notes: []
+  notes:
+  - content: Lors d'une série de mesurages d'une même grandeur, le résultat brut du
+      mesurage est la moyenne arithmétique des résultats bruts des mesurages particuliers.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: RÉSULTAT BRUT D'UN MESURAGE
+    designation: Résultat brut d'un mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f071b170-1a87-56a8-9985-856c32c68632
+id: 2e8c478c-0584-4a54-9a88-593bd00c535b

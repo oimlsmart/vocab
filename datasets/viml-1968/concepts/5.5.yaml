@@ -2,30 +2,36 @@
 data:
   identifier: '5.5'
   localized_concepts:
-    fra: a09eb79d-46ee-56b8-9709-3c5d7e7e4059
+    fra: 64d3c512-061a-4820-a9c4-9d70da2b222a
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 7c0f088e-a960-5c18-8e75-960782390579
+id: 844a1cfa-088d-445e-968c-cf40f3dae61f
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Étroitesse de l'accord entre les résultats de mesurages successifs d'une
+      même grandeur effectués avec la même méthode, par le même observateur, avec
+      les mêmes instruments de mesurage, dans le même laboratoire, et à des intervalles
+      de temps assez courts.
   examples: []
   id: 5.5-fra
-  notes: []
+  notes:
+  - content: 'Le plus souvent, on estime la répétabillité des mesurages sur la base
+      de l''incertitude de mesurage (8.1.8.3 et 8.1.8.4) : plus l''incertitude est
+      petite, plus la répétabillité est rigoureuse.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: RÉPÉTABILITÉ DES MESURAGES
+    designation: Répétabilité des mesurages
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a09eb79d-46ee-56b8-9709-3c5d7e7e4059
+id: 64d3c512-061a-4820-a9c4-9d70da2b222a

@@ -2,30 +2,39 @@
 data:
   identifier: 4.7.1
   localized_concepts:
-    fra: 120c4566-9dc0-5f62-acfe-cbcd841fa1b3
+    fra: d0f8c6bc-2189-4a5a-8bf9-8079f34bf91b
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: dcf11cc2-2cda-504a-98fc-4e0ee47e58ea
+id: 719eed8d-45e1-45aa-91e8-d33265c55c09
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Système d'unités de mesure composé d'un ensemble d'unités de base et
+      d'unités dérivées cohérentes.
+  examples:
+  - content: 'Les unités suivantes : m, kg, s, $ m^{2}, m^{3}, $ $ \mathrm{H z}=\mathrm{s}^{-1},
+      $ $ m.\mathrm{s}^{-1}, $ $ m.\mathrm{s}^{-2}, $ $ m^{-3}.\mathrm{k g}, $ $ N=m.\mathrm{k
+      g}.\mathrm{s}^{-2}, $ $ m^{-1}.\mathrm{k g}.\mathrm{s}^{-2}, $ $ J=m^{2}.\mathrm{k
+      g}.\mathrm{s}^{-2}, $ $ W=m^{2}.\mathrm{k g}.\mathrm{s}^{-3} $ représentent
+      un ensemble cohérent d''unités de mesure de la mécanique appartenant au Système
+      International d''Unités (SI).'
   id: 4.7.1-fra
-  notes: []
+  notes:
+  - content: Dans le cas d'unités appartenant à un système cohérent, les équations
+      entre valeurs numériques ont la forme des équations entre grandeurs.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: SYSTÈME COHÉRENT D'UNITÉS DE MESURE
+    designation: Système cohérent d'unités de mesure
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 120c4566-9dc0-5f62-acfe-cbcd841fa1b3
+id: d0f8c6bc-2189-4a5a-8bf9-8079f34bf91b

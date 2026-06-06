@@ -2,30 +2,33 @@
 data:
   identifier: 6.4.5
   localized_concepts:
-    fra: cc8644b3-2cb5-566c-afde-50fa6c915a9a
+    fra: 4e4171ba-d3d9-4b24-9c96-32df30ead1c8
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: abac1906-8465-5c14-82eb-1a58891b6f80
+id: c9906367-9bb8-49b2-9d43-fd4a66a2966b
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Étalon destiné soit à contrôler l'invariabilité de l'étalon primaire,
+      soit à remplacer cet étalon s'il est endommagé ou s'il a disparu.
   examples: []
   id: 6.4.5-fra
-  notes: []
+  notes:
+  - content: L'étalon-témoin n'est, en pratique, jamais utilisé dans les travaux métrologiques
+      courants, même pour la vérification des autres étalons, par exemple.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉTALON SECONDAIRE
+    designation: Étalon-témoin
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: cc8644b3-2cb5-566c-afde-50fa6c915a9a
+id: 4e4171ba-d3d9-4b24-9c96-32df30ead1c8

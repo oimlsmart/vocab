@@ -2,30 +2,37 @@
 data:
   identifier: 8.2.2
   localized_concepts:
-    fra: 2fe1f4cb-7abf-5f95-a102-1ac4eedf67c0
+    fra: 01a29c14-9b36-4378-954c-bd518d408608
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ca6da3fa-eea1-59ff-93c1-dfdf15e1b9dc
+id: 13b5974d-5a9e-4e95-a0a4-9831142aeb7e
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Différence $v_{1} - v_{0}$ entre la valeur indiquée par l'appareil mesureur
+      $v_{i}$ et la valeur conventionnellement vraie de la grandeur mesuree $v_{c}$.
+  examples:
+  - content: L'indication d'un ampèremètre est $v_{i} = 40 \mathrm{~A}$ ; si la valeur
+      conventionnellement vrale de l'intensité du courant mesuré est $v_{c} = 41 \mathrm{~A}$
+      ; l'erreur d'indication de l'ampèremètre est $e_{i} = 40 \mathrm{~A} - 41 \mathrm{~A}
+      = -1 \mathrm{~A}$.
   id: 8.2.2-fra
-  notes: []
+  notes:
+  - content: Si aucune confusion n'est à craindre, on peut utiliser l'expression simplifiée
+      « erreur d'un appareil mesureur ».
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR D'UNE MESURE MATÉRIALISÉE
+    designation: Erreur d'un appareil mesureur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 2fe1f4cb-7abf-5f95-a102-1ac4eedf67c0
+id: 01a29c14-9b36-4378-954c-bd518d408608

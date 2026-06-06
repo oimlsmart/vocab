@@ -2,21 +2,24 @@
 data:
   identifier: 8.1.5
   localized_concepts:
-    fra: ea018b90-1062-5f59-8e41-bf50cedaae35
+    fra: e74cf39d-6490-4f2f-b70a-db1406e5ffa3
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b0d9b669-038b-559d-83da-b811ca778c52
+id: b6360777-96d2-4939-9720-091ad9bd52b7
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Différence algébrique entre le résultat du mesurage et la valeur de
+      comparaison : erreur absolue = résultat du mesurage — valeur de comparaison.
+      Cette valeur de comparaison peut être la valeur vraie, (4.2.1.) la valeur conventionnellement
+      vraie (4.2.1.1.), ou la moyenne arithmétique des résultats d''une série de mesurages.'
   examples: []
   id: 8.1.5-fra
   notes: []
@@ -24,8 +27,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR ABSOLUE
+    designation: Erreur absolue
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ea018b90-1062-5f59-8e41-bf50cedaae35
+id: e74cf39d-6490-4f2f-b70a-db1406e5ffa3

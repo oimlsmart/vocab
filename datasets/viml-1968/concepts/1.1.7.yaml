@@ -2,21 +2,23 @@
 data:
   identifier: 1.1.7
   localized_concepts:
-    fra: 812c500b-e503-5d8a-9c32-ad02a156b783
+    fra: 00eadbda-c74f-41b1-8398-9cf545daafe8
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 70fbbd02-8a93-5e75-80e3-a9ca59bab4f7
+id: 20674ee4-d7a6-4eff-bb4c-d49b414e4345
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Organisme du Service national de métrologie légale dont le but est de
+      vérifier les instruments de mesurage dans un établissement défini qui fabrique,
+      répare ou utilise des instruments de mesurage déterminés.
   examples: []
   id: 1.1.7-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: CENTRE DE VÉRIFICATION
+    designation: Centre de vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 812c500b-e503-5d8a-9c32-ad02a156b783
+id: 00eadbda-c74f-41b1-8398-9cf545daafe8

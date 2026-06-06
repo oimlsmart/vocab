@@ -2,30 +2,38 @@
 data:
   identifier: 6.4.1
   localized_concepts:
-    fra: e28708a3-d7fc-502e-be82-cc8ffbc560a9
+    fra: 53f44f32-a4c5-40c3-ac39-3ff6bcec3715
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b37b75f0-8a05-5578-a81c-4741920cf0fa
+id: 11c647ca-efba-4866-825a-7bace56515a1
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: 'Mode de reproduction de l''unité de mesure susceptible de remplacer
+      un étalon primaire par : soit des valeurs fixes de certaines propriétés des
+      corps, soit des constantes physiques.'
+  examples:
+  - content: méthode étalon de reproduction du mètre en longueurs d'ondes lumineuses,
+  - content: méthode étalon de reproduction de l'échelle thermométrique à l'aide de
+      six points fixes,
+  - content: méthode étalon de reproduction de l'unité de temps et des fréquences
+      basée sur l'observation astronomique,
+  - content: méthode étalon de reproduction de l'unité de masse volumique d'un liquide.
   id: 6.4.1-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉTALON INDIVIDUEL
+    designation: Méthode étalon
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e28708a3-d7fc-502e-be82-cc8ffbc560a9
+id: 53f44f32-a4c5-40c3-ac39-3ff6bcec3715

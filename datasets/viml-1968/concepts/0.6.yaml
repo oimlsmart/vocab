@@ -2,21 +2,24 @@
 data:
   identifier: '0.6'
   localized_concepts:
-    fra: 28fd9199-31a2-523d-9032-5b84707966aa
+    fra: 7c0581e1-944c-4e0b-ac26-96f3e2843e4b
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: d5bc3a9f-d0eb-5752-9343-3c66b519d476
+id: d2a64472-d589-44e6-b2ba-8661b0b910c6
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Partie de la métrologie se rapportant aux unités de mesure, aux méthodes
+      de mesurage et aux instruments de mesurage en ce qui concerne les exigences
+      techniques et juridiques réglementées qui ont pour but d'assurer la garantie
+      publique du point de vue de la sécurité et de la précision convenable des mesurages.
   examples: []
   id: 0.6-fra
   notes: []
@@ -24,8 +27,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTROLOGIE LÉGALE
+    designation: Métrologie légale
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 28fd9199-31a2-523d-9032-5b84707966aa
+id: 7c0581e1-944c-4e0b-ac26-96f3e2843e4b

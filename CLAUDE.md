@@ -99,7 +99,7 @@ Four VIML editions are available as separate datasets:
 | 2022 (current) | `datasets/viml-2022/` | 135 | Bilingual EN/FR, scraped from viml.oiml.info |
 | 2013 | `datasets/viml-2013/` | 135 | Bilingual EN/FR, scraped from Word HTML (includes section A) |
 | 2000 | `datasets/viml-2000/` | 44 | Bilingual EN/FR, scraped from PDF HTML |
-| 1968 | `datasets/viml-1968/` | ~30 (OCR artifacts) | French only, OCR quality poor — needs manual review |
+| 1968 | `datasets/viml-1968/` | 276 | French only, OCR-derived — 302 index entries map to 276 unique concepts |
 
 Cross-edition `supersedes` relations are encoded declaratively in each concept's `related` array — only the newer concept declares what it supersedes. `superseded_by` is derived at render time by concept-browser from incoming `supersedes` graph edges.
 

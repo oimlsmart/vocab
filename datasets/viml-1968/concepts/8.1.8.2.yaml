@@ -2,30 +2,37 @@
 data:
   identifier: 8.1.8.2
   localized_concepts:
-    fra: 639d19b9-cb64-566a-86b5-a672f10d6e1b
+    fra: 35ae860d-ee06-4e4c-a1c4-ed8946faf72f
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: a81cabea-559b-5632-81ba-100bd955bb70
+id: e7821167-5f7e-4f23-b53a-7738f145d7c6
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Erreurs extrêmes (en plus et en moins) dont la probabilité de ne pas
+      être dépassées par l'erreur sur la moyenne arithmétique d'une série de mesurages
+      a une valeur P telle que l'on peut estimer que la différence 1 - P est négligeable.
   examples: []
   id: 8.1.8.2-fra
-  notes: []
+  notes:
+  - content: 1. On calcul en général les erreurs limites de la moyenne arithmétique
+      d'une série de mesurages de la même façon que celles relatives à un seul mesurage
+      mais en utilisant l'écart moyen quadratique $s_r$.
+  - content: 2. Pour un petit nombre de mesurages, on se sert des valeurs t calculées
+      selon la distribution de Student.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREURS LIMITES DE LA MOYENNE ARITHMÉTIQUE
+    designation: Erreurs limites de la moyenne arithmétique d'une série de mesurages
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 639d19b9-cb64-566a-86b5-a672f10d6e1b
+id: 35ae860d-ee06-4e4c-a1c4-ed8946faf72f

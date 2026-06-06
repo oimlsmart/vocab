@@ -2,30 +2,40 @@
 data:
   identifier: 5.3.1
   localized_concepts:
-    fra: e71a20e6-27b2-528b-8baf-cb2640d5c143
+    fra: e186cd52-b80c-48c8-ace5-78dbebc225a2
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: a11c629d-bb2f-59e0-9aba-4797ff49a41c
+id: b561cd6b-2718-4538-a232-3844a5c7d4f6
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Facteur par lequel on doit multiplier l'indication de l'instrument pour
+      obtenir le résultat du mesurage.
   examples: []
   id: 5.3.1-fra
-  notes: []
+  notes:
+  - content: 1. La constante d'un instrument qui indique directement la valeur de
+      la grandeur mesurée est égale à 1.
+  - content: 2. Lorsque l'échelle d'un instrument n'indique pas une unité déterminée
+      ou bien si elle indique des unités de mesure autres que celle relative à la
+      grandeur mesurée, la constante est un nombre concret,
+  - content: lorsque l'échelle est exprimée en unités de la grandeur mesurée, la constante
+      est un nombre abstrait.
+  - content: 3. Les instruments à étendues multiples mais à échelle unique ont plusieurs
+      constantes qui correspondent, par exemple, aux différentes positions d'un commutateur.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: CONSTANTE D'UN INSTRUMENT DE MESURAGE
+    designation: Constante d'un instrument de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e71a20e6-27b2-528b-8baf-cb2640d5c143
+id: e186cd52-b80c-48c8-ace5-78dbebc225a2

@@ -2,30 +2,43 @@
 data:
   identifier: '7.5'
   localized_concepts:
-    fra: 5cf76e4b-f887-5a08-a20c-84809b5dcfa2
+    fra: 9105c7db-7263-4ab6-b65e-8ccb31693c7a
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 48824f1c-d664-5c99-b3a2-5fd6cc7ac5a5
+id: 1d7082df-c394-4fd9-a16e-c9ac0762e273
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Élément d'un dispositif indicateur portant la ou les échelles.
   examples: []
   id: 7.5-fra
-  notes: []
+  notes:
+  - content: 1. Le cadran peut être plan, cylindrique ou tronconique,
+  - content: s'il est cylindrique ou tronconique, on l'appelle « tambour gradué »,
+  - content: dans certains instruments optiques, le cadran plan circulaire est souvent
+      appelé « limbe ».
+  - content: 2. Dans les dispositifs indicateurs numériques, les rouleaux ou disques
+      chiffrés remplissent la fonction d'échelle.
+  - content: 3. L'échelle peut être matériellement tracée ou projetée optiquement.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: CADRAN
+    designation: Cadran
+  - type: expression
+    normative_status: admitted
+    designation: Limbe
+  - type: expression
+    normative_status: admitted
+    designation: Tambour gradué
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 5cf76e4b-f887-5a08-a20c-84809b5dcfa2
+id: 9105c7db-7263-4ab6-b65e-8ccb31693c7a

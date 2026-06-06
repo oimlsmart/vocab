@@ -2,21 +2,22 @@
 data:
   identifier: 4.7.2
   localized_concepts:
-    fra: 6c973c35-7d3a-597f-8774-7f6dfeee9a00
+    fra: 8a999552-529e-4074-a3d9-4e2f67cb96b3
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 99e9f10e-4456-5571-ae0b-99929a34235f
+id: 05b59c1f-51c4-4116-9639-c0a04b59c667
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Système d'unités de mesure basé sur les prototypes du mètre et du kilogramme
+      ainsi que sur la division décimale.
   examples: []
   id: 4.7.2-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: SYSTÈME MÉTRIQUE DÉCIMAL
+    designation: Système métrique décimal
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 6c973c35-7d3a-597f-8774-7f6dfeee9a00
+id: 8a999552-529e-4074-a3d9-4e2f67cb96b3

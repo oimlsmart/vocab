@@ -2,30 +2,45 @@
 data:
   identifier: 7.1.1
   localized_concepts:
-    fra: cdc45017-f737-5131-bd4b-3c6a772b72ee
+    fra: 44f244a8-6da1-4914-a678-984eb83400fb
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c5720b63-a23e-59fa-87c8-7549b3989889
+id: '08b13c26-748e-4a56-bbc3-2857c3b43a7c'
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Catégorie d'instruments de mesurage fondés sur le même principe de mesurage
+      (5.1.1) Les différentes réalisations pratiques mettant en ceuvre un même principe
+      constituent des variantes du système fondé sur ce principe.
   examples: []
   id: 7.1.1-fra
-  notes: []
+  notes:
+  - content: '1. Le système de l''instrument de mesurage fixe le principe de mesurage
+      appliqué, sans entrer dans les moyens de réalisation : par exemple, le thermomètre
+      thermoélectrique dans lequel la force thermoélectrique est déterminée soit à
+      l''aide d''un millivoltmètre, soit à l''aide d''un compensateur électrique,
+      est un instrument du système thermoélectrique. Les deux réalisations possibles
+      indiquées ci-dessus constituent deux variantes de ce système.'
+  - content: De même, les balances à bras égaux et les bascules décimales, qui appartiennent
+      au système des instruments de pesage à leviers, correspondent à deux variantes
+      de ce système.
+  - content: '2. L''adjonction de dispositifs supplémentaires qui influent sur les
+      propriétés métrologiques de l''instrument : dispositifs de téléindication, d''enregistrement,
+      de conservation et de reproduction des valeurs mesurées ne change pas le système
+      de l''instrument de mesurage mais fixe une de ses variantes.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: SYSTÈME D'UN INSTRUMENT DE MESURAGE
+    designation: Système d'un instrument de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: cdc45017-f737-5131-bd4b-3c6a772b72ee
+id: 44f244a8-6da1-4914-a678-984eb83400fb

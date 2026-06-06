@@ -2,30 +2,35 @@
 data:
   identifier: 5.3.4
   localized_concepts:
-    fra: 8202077d-0353-5d80-98c6-4e7c359d85cd
+    fra: 5f86776b-63a1-4cc4-bc33-f0c110908e82
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: cb9e8bb8-dd42-523b-bd5f-f81a06d67a6e
+id: f4437dc8-0253-41db-b5a0-f557f3e92eee
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Valeur de la grandeur partielle reproduite par la mesure matérialisée
+      et indiquée sur cette mesure.
+  examples:
+  - content: Dans une éprouvette graduée de 100 cm$^3$, chaque volume délimité par
+      un trait quelconque, autre que le trait 100, représente un volume nominal partiel
+      de l'éprouvette.
   id: 5.3.4-fra
-  notes: []
+  notes:
+  - content: Mèmes remarques qu'au point 5.8.3.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: VALEUR NOMINALE PARTIELLE D'UNE MESURE MATÉRIALISÉE
+    designation: Valeur nominale partielle d'une mesure matérialisée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 8202077d-0353-5d80-98c6-4e7c359d85cd
+id: 5f86776b-63a1-4cc4-bc33-f0c110908e82

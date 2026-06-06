@@ -2,21 +2,23 @@
 data:
   identifier: 3.2.6
   localized_concepts:
-    fra: 72066620-a0ec-577d-a8f9-979a23e87c09
+    fra: 24644837-8aa6-4d1c-8684-f14e080e82fa
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 01a8bc33-781b-5fa9-9736-ecf01f80a62d
+id: efecca62-6201-4a6b-bd72-ad8375c1dc9b
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble des marques dont la destruction ou la détérioration suggère
+      que certains des organes composant un instrument de mesurage ont pu être enlevés,
+      déplacés, modifiés ou altérés. Ces marques sont aussi appelées marques de scellement.
   examples: []
   id: 3.2.6-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: MARQUES DE PROTECTION
+    designation: Marques de protection
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 72066620-a0ec-577d-a8f9-979a23e87c09
+id: 24644837-8aa6-4d1c-8684-f14e080e82fa

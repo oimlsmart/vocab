@@ -2,30 +2,39 @@
 data:
   identifier: '4.3'
   localized_concepts:
-    fra: a619461a-b26d-592d-bc96-4226e90b5fea
+    fra: 2e2f6d2b-16ff-4373-ab53-f19b63fcc17f
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 537e8bb4-ebf2-5ebd-90c6-32274c67ff71
+id: 02c82baa-f8bb-436e-bec2-ac85c3101452
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Ensemble qui comprend un groupe donné de grandeurs de base et de grandeurs
+      dérivées correspondantes et qui embrasse tous les domaines de la science ou
+      bien l'un de ses domaines seulement.
+  examples:
+  - content: 'système de grandeurs de la mécanique : $l, m, l$'
+  - content: 'système de grandeurs de la mécanique et de l''électricité : $l, m, t,
+      I$'
   id: 4.3-fra
-  notes: []
+  notes:
+  - content: 1. Comme dénomination abrégée d'un système de grandeurs défini, on utilise
+      les symboles de l'ensemble de ses grandeurs de base.
+  - content: 2. A chaque système de grandeurs on peut rattacher un nombre quelconque
+      de systèmes d'unités.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: SYSTÈME DE GRANDEURS
+    designation: Système de grandeurs
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a619461a-b26d-592d-bc96-4226e90b5fea
+id: 2e2f6d2b-16ff-4373-ab53-f19b63fcc17f

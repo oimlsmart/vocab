@@ -2,21 +2,23 @@
 data:
   identifier: 7.1.2.2
   localized_concepts:
-    fra: a3a5bf01-a818-5b1f-a4c9-9ed9837ea349
+    fra: 1b28b7e2-ab6a-4b84-a8f2-3e100504e0c7
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ce36666a-1db1-5e7a-b0f2-0de13bd10b69
+id: d488772c-2505-4e07-98e8-be5c4ba7801d
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Modèle d'un instrument de mesurage ayant reçu la sanction des Autorités
+      compétentes de l'État (2.2.1) en ce qui concerne ses qualités métrologiques
+      réglementaires.
   examples: []
   id: 7.1.2.2-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: MODÈLE APPROUVÉ
+    designation: Modèle approuvé
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a3a5bf01-a818-5b1f-a4c9-9ed9837ea349
+id: 1b28b7e2-ab6a-4b84-a8f2-3e100504e0c7

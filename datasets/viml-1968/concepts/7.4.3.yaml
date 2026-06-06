@@ -2,30 +2,34 @@
 data:
   identifier: 7.4.3
   localized_concepts:
-    fra: 04beb222-1a40-5270-b4a4-1553009f4d91
+    fra: 10b75879-c647-4659-bec6-7d608e2f4554
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b09e6635-3dc0-5d3d-8ec7-3cd1453ef476
+id: a4f72b49-c021-42b0-99b8-08a12412dab2
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Intervalle entre deux repères successifs quelconques de l'échelle.
   examples: []
   id: 7.4.3-fra
-  notes: []
+  notes:
+  - content: 1. Dans les échelles à tralts, l'échelon est l'intervalle entre les axes
+      de deux tralts successifs.
+  - content: 2. Dans une échelle numérique, l'échelon est l'intervalle entre deux
+      nombres consécutifs.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉCHELON
+    designation: Échelon
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 04beb222-1a40-5270-b4a4-1553009f4d91
+id: 10b75879-c647-4659-bec6-7d608e2f4554

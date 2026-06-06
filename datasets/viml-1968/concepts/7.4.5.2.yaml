@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 7.4.5.2
+  localized_concepts:
+    fra: 656b457b-52ef-4f8b-8573-f4cdfe492b55
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 51544bed-9ef8-4a5e-8f60-dfd406867110
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Échelle dans laquelle les longueurs des échelons ne sont pas proportionnelles
+      à leurs valeurs. Exemple : échelles quadratiques logarithmiques, etc...'
+  examples: []
+  id: 7.4.5.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Échelle non-linéaire
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 656b457b-52ef-4f8b-8573-f4cdfe492b55

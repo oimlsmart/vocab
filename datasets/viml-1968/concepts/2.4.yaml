@@ -2,21 +2,25 @@
 data:
   identifier: '2.4'
   localized_concepts:
-    fra: 79bc93f1-231c-5660-b41f-04cd378a9fdf
+    fra: 284fc7db-03ff-40f8-bd58-34301e81727e
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: fdb5ab4d-6dd5-5313-a84f-8e738cb9ba80
+id: 8f9327a4-a58b-40b0-a8e6-a8b74fb6ede5
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble d'opérations effectuées par un organisme du Service national
+      de métrologie légale (ou bien par un autre organisme légalement autorisé) ayant
+      pour but de constater et d'affirmer que l'instrument de mesurage satisfait entièrement
+      aux exigences des règlements sur la vérification. La vérification comprend l'examen
+      et le poinçonnage.
   examples: []
   id: 2.4-fra
   notes: []
@@ -24,8 +28,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: VÉRIFICATION
+    designation: Vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 79bc93f1-231c-5660-b41f-04cd378a9fdf
+id: 284fc7db-03ff-40f8-bd58-34301e81727e

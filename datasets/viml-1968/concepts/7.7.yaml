@@ -2,30 +2,39 @@
 data:
   identifier: '7.7'
   localized_concepts:
-    fra: 94ae5792-084c-51ec-9b03-d15f7bade23f
+    fra: cfe4e891-d833-47fc-a10e-d3634efdd508
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 81b8867c-a749-545c-9cca-71bff074a73e
+id: 48868cd8-fbb6-43ba-834b-64dd19db7d25
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Partie ou ensemble d'un dispositif indicateur totalisant les indications
+      d'un appareil mesureur.
   examples: []
   id: 7.7-fra
-  notes: []
+  notes:
+  - content: 1. L'augmentation des indications d'un totalisateur peut se faire d'une
+      façon continue ou discontinue, indépendamment de la continuité ou discontinuité
+      de fonctionnement de l'apparell mesureur.
+  - content: 2. Il existe des totalisateurs qui enregistrent toutes les indications
+      successives de l'appareil lors de l'ensemble do ses mesurages et qui ne peuvent
+      être remis à volonté à zéro et des totalisateurs dits partiels qui n'enregistrent
+      que les indications de l'appareil pour un certain mesurage (ou un certain nombre
+      de mesurages) et qui peuvent être remis à zéro enfin de ces mesurages.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: TOTALISATEUR
+    designation: Totalisateur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 94ae5792-084c-51ec-9b03-d15f7bade23f
+id: cfe4e891-d833-47fc-a10e-d3634efdd508

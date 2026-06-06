@@ -2,21 +2,22 @@
 data:
   identifier: 8.5.1.2
   localized_concepts:
-    fra: e5e36a92-6d66-58bb-a51b-d90d4d2bbff9
+    fra: 40ebbaa6-c8eb-4a98-b880-5bc861725b86
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: eaaac14e-dfb4-5fcb-ab5d-5e16977dfeaf
+id: 5cd76cdc-41ca-480f-b84c-d06e3b885b2e
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Erreur de lecture résultant de l'évaluation inexacte de la position de
+      l'index par rapport à deux repères voisins entre lesquels l'index est situé.
   examples: []
   id: 8.5.1.2-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR D'INTERPOLATION
+    designation: Erreur d'interpolation
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e5e36a92-6d66-58bb-a51b-d90d4d2bbff9
+id: 40ebbaa6-c8eb-4a98-b880-5bc861725b86

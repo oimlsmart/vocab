@@ -2,21 +2,22 @@
 data:
   identifier: 2.4.9
   localized_concepts:
-    fra: 9a71d6a8-456b-5db4-b58e-f9b294ada5cb
+    fra: f310a5bb-8b83-4655-8fa8-55a54e2f705e
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: be477c29-fdd3-5686-b9b9-57ebf438b05a
+id: 3180e65f-76ba-491e-a949-ffb6e2ff6398
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble des opérations administratives, matérielles, etc... qu'effectue
+      la personne qui présente un instrument de mesurage à la vérification [l'étalonnage]
   examples: []
   id: 2.4.9-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: PRÉSENTATION À LA VÉRIFICATION (ÉTALONNAGE)
+    designation: Présentation à la vérification / à l'étalonnage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9a71d6a8-456b-5db4-b58e-f9b294ada5cb
+id: f310a5bb-8b83-4655-8fa8-55a54e2f705e

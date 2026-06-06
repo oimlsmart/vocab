@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 9.8.4
+  localized_concepts:
+    fra: 51d1c587-f071-4ca0-a552-277b82d07190
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: ada4173a-08ad-4d03-8464-3b871acb8cb3
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: La plus petite charge qui met en mouvement le dispositif indicateur d'un
+      compteur.
+  examples: []
+  id: 9.8.4-fra
+  notes:
+  - content: Le seuil de démarrage est une qualité analogue au seuil de mobilité,
+      mals so rapporte à la charge du compteur et non à la grandeur mesurée.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Seuil de démarrage d'un compteur
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 51d1c587-f071-4ca0-a552-277b82d07190

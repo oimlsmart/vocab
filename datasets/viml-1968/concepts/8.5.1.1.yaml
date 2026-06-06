@@ -2,21 +2,23 @@
 data:
   identifier: 8.5.1.1
   localized_concepts:
-    fra: 3c7c8acc-774c-5b08-8420-1675e949f278
+    fra: 25435674-b253-47e4-86c3-18d22e9bbe09
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 4b106e32-d630-5e8b-bcfd-3a98cfb898cb
+id: 7e1f28b1-feb2-4f89-8857-31fc4deae839
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Erreur de lecture qui se produit lorsque, l'index étant à une certaine
+      distance de la surface de l'échelle, la lecture n'est pas effectuée dans la
+      direction d'observation prévue pour l'instrument utilisé.
   examples: []
   id: 8.5.1.1-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR DE PARALLAXE
+    designation: Erreur de parallaxe
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3c7c8acc-774c-5b08-8420-1675e949f278
+id: 25435674-b253-47e4-86c3-18d22e9bbe09
