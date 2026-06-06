@@ -2,30 +2,39 @@
 data:
   identifier: 5.2.5.2.1
   localized_concepts:
-    fra: 15e477a8-1796-5de7-bb17-3be2ed1de6d9
+    fra: 0d14dc9f-9098-47d2-8787-be7e2a0907f2
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: a41179cf-8307-5f39-9cea-002e553adad8
+id: 66656591-f193-4292-a65a-d0e1ebe836f8
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Méthode de mesurage différentiel où la différence entre la valeur de
+      la grandeur à mesurer et la valeur connue de la même grandeur qui lui est comparée
+      est amenée à zéro.
+  examples:
+  - content: détermination d'une masse lorsque la position finale d'équilibre de la
+      balance est la même que la position initiale,
+  - content: détermination d'une tension électrique au moyen d'un compensateur, mesurage
+      d'une résistance électrique avec
+  - content: un pont de Wheatstone et un indicateur de zéro.
   id: 5.2.5.2.1-fra
-  notes: []
+  notes:
+  - content: La grandeur à mesurer peut être remplacée par une grandeur d'une autre
+      espèce qui, ello, est comparée à une grandeur de la même espèce.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTHODE DE MESURAGE PAR COÏNCIDENCE
+    designation: Méthode de mesurage par coïncidence
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 15e477a8-1796-5de7-bb17-3be2ed1de6d9
+id: 0d14dc9f-9098-47d2-8787-be7e2a0907f2

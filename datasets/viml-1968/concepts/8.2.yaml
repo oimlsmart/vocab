@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '8.2'
+  localized_concepts:
+    fra: 1738d6a4-818b-4a99-808a-8d9d27424941
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 40513f49-cc59-4937-8b81-f74b684352e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Erreur provenant de l'instrument utilisé pour le mesurage.
+  examples:
+  - content: 'Erreur qui résultat entre autres :'
+  - content: du frottement entre les éléments mobiles de l'instrument,
+  - content: de la disposition incorrecte des traits de l'échelle, de l'inégalité
+      des bras d'une balance.
+  id: 8.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur instrumentale
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 1738d6a4-818b-4a99-808a-8d9d27424941

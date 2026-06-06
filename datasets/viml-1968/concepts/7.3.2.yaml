@@ -2,30 +2,38 @@
 data:
   identifier: 7.3.2
   localized_concepts:
-    fra: b78bfd13-53b2-5863-bb76-80dae9179bc1
+    fra: 6a977839-6a91-4d7c-a2ac-1c7e05337e84
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f60ba5ce-6dab-5651-8e17-f221ed4ac5a6
+id: 32ad6d6c-14fe-4fbd-8cc8-5affa434811d
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Transducteur de mesurage (6.1.7) qui, étant une partie d'un appareil
+      mesureur ou d'une installation de mesurage, ne constitue cependant pas un ensemble
+      pouvant être utilisé séparément.
   examples: []
   id: 7.3.2-fra
-  notes: []
+  notes:
+  - content: 1. Le système d'éléments transducteurs qui composent le thermomètre thermoélectrique
+      est représenté on 7.2.
+  - content: 2. Les divers éléments transducteurs ne sont pas toujours délimités matériellement
+      (par ex, dans le thermomètre thermoélectrique, l'élément transducteur $E \rightarrow
+      I$ n'est pas matériellement distinct de l'élément transducteur $T \rightarrow
+      E$).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉLÉMENT TRANSDUCTEUR D'UN APPAREIL MESUREUR
+    designation: Élément transducteur d'un appareil mesureur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b78bfd13-53b2-5863-bb76-80dae9179bc1
+id: 6a977839-6a91-4d7c-a2ac-1c7e05337e84

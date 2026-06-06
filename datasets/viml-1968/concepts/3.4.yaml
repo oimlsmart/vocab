@@ -1,0 +1,42 @@
+---
+data:
+  identifier: '3.4'
+  localized_concepts:
+    fra: 53b72460-4390-4795-a1fa-229d1efe003d
+  domains:
+  - concept_id: section-3
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: b39534a3-8d5c-4865-9a4b-be23c2078591
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Ensemble de mots, de lettres, de chiffres, de signes portés par l'instrument
+      de mesurage indiquant l'origine, la destination de celui-ci, son fonctionnement,
+      ses traits caractéristiques, son mode d'utilisation etc...
+  examples:
+  - content: a) Bascule à équilibre automatique...
+  - content: 'Marque de fabrique : AB5'
+  - content: 'Portée maximale : 15 kg - Portée minimale : 100 g'
+  - content: Echelon $ \cong 5 \mathrm{~g} $
+  - content: b) Compteur d'énergie électrique...
+  - content: 'Marque de fabrique : C2'
+  - content: Monophasé 2 fils
+  - content: 220 V-5 A'-50 Hz-650 t/kWh
+  - content: 'Signe de modèle : ... — Année de fabrication : 1966'
+  id: 3.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Inscriptions d'identification d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 53b72460-4390-4795-a1fa-229d1efe003d

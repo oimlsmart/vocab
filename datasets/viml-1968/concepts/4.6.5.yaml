@@ -2,30 +2,38 @@
 data:
   identifier: 4.6.5
   localized_concepts:
-    fra: fad46564-4dc9-538f-8631-88018c656f59
+    fra: 8222f862-201f-42b8-993b-64134396aaa0
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 41230f40-d187-583a-99b0-40fef74d519b
+id: 2b30958c-84a7-4738-b4a7-5f9f7373d351
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Unité de mesure qui s'exprime au moyen des unités de base par une formule
+      dont le coefficient numérique est égal à 1.
+  examples:
+  - content: 'Le newton est l''unité dérivée cohérente de la force dans le Système
+      International (SI) : $ 1 \mathrm{~N}=1 \mathrm{~m}. \mathrm{kg}. $ $ s^{-2}
+      $'
   id: 4.6.5-fra
-  notes: []
+  notes:
+  - content: 1. L'expression « unité de mesure cohérente » est une abréviation d'une
+      dénomination plus précise « unité de mesure dans un système cohérent » car,
+      pour une unité isolée, la notion de cohérence n'a évidemment pas de sens.
+  - content: 2. Cette notion s'applique seulement aux unités de mesure dérivées.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: UNITÉ DE MESURE COHÉRENTE
+    designation: Unité de mesure cohérente
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: fad46564-4dc9-538f-8631-88018c656f59
+id: 8222f862-201f-42b8-993b-64134396aaa0

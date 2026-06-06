@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 9.10.2
+  localized_concepts:
+    fra: bba88896-6036-443c-8a58-203a0089ec0f
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: f6b01413-1aef-438c-9e99-6765c318d86f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Les erreurs limites de précision sont un ensemble de deux valeurs obtenues
+      : l''une, en ajoutant à l''erreur de justesse la valeur absolue de l''erreur
+      limite de fidélité, l''autre, en retranchant de l''erreur de justesse la valeur
+      absolue de l''erreur limite de fidélité.'
+  examples:
+  - content: Dans l'exemple relatif aux points 9.5.1 et 9.6.4, les erreurs limites
+      de précision ayant une probabilité 99,73 % de ne pas être dépassées sont égales
+      à (— 0,08 ± 0,51) $ \mu A $ c'est-à-dire — 0,59 $ \mu A $ et + 0,43 $ \mu A.
+      $
+  id: 9.10.2-fra
+  notes:
+  - content: Pour les besoins de la métrologie légale, on définit les erreurs limites
+      de précision d'un instrument de mesurage, pour une valeur donnée do la grandeur
+      à mesurer, comme étant les différences algébriques entre les valeurs limites,
+      supérieure $v_{i\max}$ ou inférieure $v_{i\min}$, des indications que donne
+      l'instrument dans les conditions usuelles d'emplol, toutes erreurs comprises,
+      et la valeur conventonnellement vrale $v_{c}$ de la grandeur mesurée.
+  - content: Pratiquement, ces valeurs limites sont déterminées comme il a été indiqué
+      en 9.6.4.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreurs limites de précision
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: bba88896-6036-443c-8a58-203a0089ec0f

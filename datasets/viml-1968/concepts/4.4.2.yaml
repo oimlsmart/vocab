@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 4.4.2
+  localized_concepts:
+    fra: 2e3a4880-b704-44ad-9681-b19be8779388
+  domains:
+  - concept_id: section-4
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: c848b634-0bff-4685-a5a4-f1511f3ee91f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Équation dans laquelle les symboles littéraux représentent des unités
+      de mesure. Cette équation a pour objet : soit de définir les unités de mesure
+      des grandeurs dérivées, dans un certain système d''unités de mesure, à partir
+      des unités des grandeurs de base ou des unités d''autres grandeurs dérivées
+      de ce système, soit d''établir la relation entre l''unité de mesure d''une grandeur
+      et ses multiples ou sous-multiples, soit de donner l''équivalence entre les
+      unités de mesure d''une même grandeur dans des systèmes différents d''unités.'
+  examples:
+  - content: "$$"
+  - content: 1 \mathrm {c m} = 0, 0 1 \mathrm {m}; \quad 1 \mathrm {m} ^ {2} = 1 \mathrm
+      {m}, 1 \mathrm {m}; \quad 1 \mathrm {W} = 1 \mathrm {V}, 1 \mathrm {A}; \quad
+      1 \mathrm {m} / \mathrm {s} = \frac {1 \mathrm {m}}{1 \mathrm {s}};
+  - content: "$$"
+  - content: "$$"
+  - content: 1 k p = 1 k g \cdot 9, 8 0 6 6 5 m / s ^ {2} = 9, 8 0 6 6 5 N.
+  - content: "$$"
+  - content: 'Généralement : l''équation entre unités de mesure de l''unité $[x_{n+1}]$
+      exprimée par les unités $[x_1][x_2]\dots[x_n]$ est la suivante :'
+  - content: "$$"
+  - content: "[ x _ {n} + 1 ] = \\mathrm {K} [ x _ {1} ] ^ {\\alpha_ {1}} [ x _ {2}
+      ] ^ {\\alpha_ {2}} \\dots [ x _ {n} ] ^ {\\alpha_ {n}}"
+  - content: "$$"
+  - content: ou $ \alpha_{1}, \alpha_{2} \dots \alpha_{n} $ et K sont des valeurs
+      numériques.
+  id: 4.4.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Équation entre unités de mesure
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 2e3a4880-b704-44ad-9681-b19be8779388

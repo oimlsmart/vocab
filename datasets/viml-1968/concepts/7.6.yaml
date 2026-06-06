@@ -2,21 +2,22 @@
 data:
   identifier: '7.6'
   localized_concepts:
-    fra: 4c5cf60f-37e5-5fe4-8ac6-634ed4879dca
+    fra: fe42d5ec-5178-4690-9c5e-b2d049cc2359
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 8116841c-0031-5356-a546-851be41a1e29
+id: 2b76a7f2-f8b0-421c-b3ff-2c0b96506e60
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Bande, disque ou feuille (ordinairement en papier) sur laquelle sont
+      enregistrées, sous forme d'un diagramme, les indications d'un appareil mesureur.
   examples: []
   id: 7.6-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: SUPPORT D'ENREGISTREMENT
+    designation: Support d'enregistrement
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 4c5cf60f-37e5-5fe4-8ac6-634ed4879dca
+id: fe42d5ec-5178-4690-9c5e-b2d049cc2359

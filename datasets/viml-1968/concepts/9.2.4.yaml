@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 9.2.4
+  localized_concepts:
+    fra: cf39c3f5-fe68-44a6-adf7-2a49651e87f3
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: c077bd4a-027a-4524-9076-bba124344eba
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Étendue des valeurs de la charge pour laquelle les indications d'un compteur,
+      obtenues dans les conditions usuelles d'emploi, ne doivent pas être entachées
+      d'une erreur supérieure à l'erreur maximale tolérée.
+  examples: []
+  id: 9.2.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Étendue de la charge d'un compteur
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: cf39c3f5-fe68-44a6-adf7-2a49651e87f3

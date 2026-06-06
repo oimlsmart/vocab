@@ -2,21 +2,23 @@
 data:
   identifier: '2.2'
   localized_concepts:
-    fra: 9f8923fe-b069-5b5e-a52e-a1dfe1aab382
+    fra: be81ed58-1271-4279-8778-9bfa0d3217f5
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 18ce7dbb-0c8f-58bf-908f-0f30579b83fb
+id: ce0e50cc-63b8-4233-8a65-04985e3ecdbf
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Examen d'un ou plusieurs instruments de mesurage d'un même modèle qui
+      sont présentés par un fabricant au Service national de métrologie légale ; cet
+      examen comporte les essais nécessaires en vue de l'approbation du modèle.
   examples: []
   id: 2.2-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ESSAI D'UN MODÈLE
+    designation: Essai d'un modèle
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9f8923fe-b069-5b5e-a52e-a1dfe1aab382
+id: be81ed58-1271-4279-8778-9bfa0d3217f5

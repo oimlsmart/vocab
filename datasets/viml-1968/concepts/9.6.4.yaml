@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 9.6.4
+  localized_concepts:
+    fra: c8935425-a8aa-4c3a-9990-37d23b5220d4
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: '08f57086-abdf-4f45-8ecf-5962f054d193'
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Erreurs limites d'un seul mesurage (8.1.8.1) d'une valeur donnée de la
+      grandeur à mesurer effectué dans les conditions déterminées d'emploi de l'instrument,
+      les erreurs de justesse n'étant pas prises en considération.
+  examples: []
+  id: 9.6.4-fra
+  notes:
+  - content: '1. On calculo en général les erreurs limites de fidélité comme le produit
+      de l''erreur moyenne quadratique de fidélité par un nombre $t$ (entier ou fractionnaires),
+      on a alors : $e_1 = + t s$ et $e_2 = - t s$'
+  - content: ou $s$ est calculé selon 8.1.7.1 et le nombre $t$ est fixé en fonction
+      de la probabilité $P$ de ne pas dépasser les valeurs $e_1$ et $e_2$.
+  - content: Dans le cas de la distribution normale des erreurs, et pour un suffisamment
+      grand nombre de mesurages, on pose en général $l = 3$, ce qui correspondant
+      à la probabilité $P = 99,73\%$ de ne pas dépasser des erreurs limites de fidélité
+      $e_1 = 3s$ et $e_2 = -3s$;
+  - content: Pour $ P = 95\% $ , on a $ t = 1,96 $ et pour $ P = 99\% $ , on a $ t
+      = 2,58 $ ...
+  - content: Dans l'exemple du point 9.6.3, les erreurs limites de fidélité qui ne
+      seront pas dépassées avec une probabilité de 99,73 % sont $ e_{1}=+0,17\times
+      3\mu A=+0,51\mu A $ et $ e_{2}=-0,17\times 3\mu A=-0,51\mu A $ , c'est-à-dire
+      que l'étendue limite d'infidélité est égale à 1,02 $ \mu A. $
+  - content: 2. Pour les besoins de la métrologie légale, on définit les erreurs limites
+      de fidélité d'un instrument de mesurage, pour une valeur donuée de la grandeur
+      à mesurer, comme étant les différences algébriques entre les valeurs limites
+      supérieure $v_{i_{\max}}$ et inférieure $v_{i_{\min}}$ des indications que peut
+      donner l'instrument sans tenir compte des erreurs de lecture, et la valeur moyenne
+      $v_{i}$ des indications.
+  - content: L'étendue limite d'infidélité est égale dans co cas à $ v_{i}_{\max }-v_{i}_{\min
+      } $
+  - content: 'Pour simplifier les calculs, on prend généralement :'
+  - content: "$v_{i} = 1/2 \\left(v_{i_{\\max}} + v_{i_{\\min}}\\right)$ et les erreurs
+      limites de fidélité sont alors égales à $\\pm 1/2 \\left(v_{i_{\\max}} - v_{i_{\\min}}\\right)$."
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreurs limites de fidélité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c8935425-a8aa-4c3a-9990-37d23b5220d4

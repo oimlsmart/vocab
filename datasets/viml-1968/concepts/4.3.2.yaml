@@ -2,30 +2,36 @@
 data:
   identifier: 4.3.2
   localized_concepts:
-    fra: 345ca177-581f-51a6-a627-7fd5d2c9fa15
+    fra: dd037e0a-034a-4930-9b85-b16d91d4bd19
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: d6b869d4-0896-5af2-b899-708c52cdb976
+id: 6a3ddde2-fd31-42e4-9905-43633f57f4ee
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Grandeur définie dans un système de grandeurs comme étant une fonction
+      des grandeurs de base de ce système.
+  examples:
+  - content: La force $F$, défunie dans le système de grandeurs $l, m, t$ par l'équation
+      $F = m \cdot \frac{\mathrm{d}^2 l}{\mathrm{d} t^2}$
+  - content: L'intensité du champ magnétique $H$ à une distance $r$ d'un conducteur
+      rectiligne parcouru par un courant $I$, dans le système rationalisé des grandeurs
+      $l, m, t, I$, définie par l'équation $H = I / 2 \pi r$.
   id: 4.3.2-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: GRANDEUR DÉRIVÉE
+    designation: Grandeur dérivée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 345ca177-581f-51a6-a627-7fd5d2c9fa15
+id: dd037e0a-034a-4930-9b85-b16d91d4bd19

@@ -2,30 +2,36 @@
 data:
   identifier: 2.2.2
   localized_concepts:
-    fra: 02e9df24-80a7-5d1b-ae35-7a17544bdfc9
+    fra: f4a95d08-0d7d-4219-93c6-11f93691ffff
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 61a0c3ee-fe45-54e0-8618-c1867431358e
+id: 58ec0127-01ce-4981-b268-63df61ec3676
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Approbation, pour une durée limitée, d'un modèle d'instrument de mesurage
+      afin de permettre des essais approfondis de longue durée sur un assez grand
+      nombre d'instruments conformes à ce modèle, mis en service dans les conditions
+      usuelles d'emploi.
   examples: []
   id: 2.2.2-fra
-  notes: []
+  notes:
+  - content: La décision d'approbation peut éventuellement fixer lo nombre d'instruments
+      dont la construction est autorisée, les lleux d'installation, les accessoires
+      de vérification dont ces instruments doivent être munis.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: APPROBATION D'UN MODÈLE A TITRE PROVISOIRE
+    designation: Approbation d'un modèle à titre provisoire
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 02e9df24-80a7-5d1b-ae35-7a17544bdfc9
+id: f4a95d08-0d7d-4219-93c6-11f93691ffff

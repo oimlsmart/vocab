@@ -2,21 +2,25 @@
 data:
   identifier: 1.1.6
   localized_concepts:
-    fra: 3db177ca-383f-541e-98dd-503deb01b37b
+    fra: a8e37b67-2f54-4170-9372-c2466bcc85ee
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 02ed4c54-9569-5472-8dcf-c155d58893d7
+id: 7c0f9fd8-1b40-48f1-8ee5-85fded03cfda
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Organisme du Service national de métrologie légale dont le but est de
+      vérifier les instruments de mesurage appartenant à des catégories déterminées
+      sur une portion du territoire de ce Service et d'effectuer une surveillance
+      métrologique ambulante. Il peut avoir un siège temporaire dans un bâtiment ou
+      se trouver dans un véhicule spécial.
   examples: []
   id: 1.1.6-fra
   notes: []
@@ -24,8 +28,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: BUREAU DE VÉRIFICATION AMBULANT
+    designation: Bureau de vérification ambulant
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3db177ca-383f-541e-98dd-503deb01b37b
+id: a8e37b67-2f54-4170-9372-c2466bcc85ee

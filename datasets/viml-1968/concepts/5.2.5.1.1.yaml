@@ -2,30 +2,35 @@
 data:
   identifier: 5.2.5.1.1
   localized_concepts:
-    fra: bbae4f68-0ea6-5904-b6c6-2e20db819b60
+    fra: 897f29a4-d7ac-41cd-b2d6-8ab60c55c2f2
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 33f7cefe-bbbd-5de0-ac72-2c60f9ddca70
+id: ef615eb2-6898-4f19-8b1f-6c0c5cf3828c
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Méthode de mesurage par comparaison directe dans laquelle la valeur d'une
+      grandeur à mesurer est remplacée par une valeur connue de la même grandeur,
+      choisie de telle manière que les effets provoqués sur le dispositif indicateur
+      par ces deux valeurs soient les mêmes.
+  examples:
+  - content: Détermination d'une masse, au moyen d'une balance et de poïds marqués,
+      par la méthode de substitution de Borda.
   id: 5.2.5.1.1-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: MÉTHODE DE MESURAGE PAR SUBSTITUTION
+    designation: Méthode de mesurage par substitution
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: bbae4f68-0ea6-5904-b6c6-2e20db819b60
+id: 897f29a4-d7ac-41cd-b2d6-8ab60c55c2f2

@@ -2,30 +2,38 @@
 data:
   identifier: 8.1.7.2
   localized_concepts:
-    fra: a90e95e0-d385-5245-83c4-ba7fd98ba20e
+    fra: 07db4128-f3bb-42d4-ac82-819f4e1dc527
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f6503b62-b47d-5174-bb8b-a7d7f796cfbc
+id: c1dc6d3a-3f39-41c3-8cf8-c07fa310cc33
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Indice caractérisant la dispersion de la moyenne arithmétique d''une
+      série de mesurages indépendants de la même valeur d''une grandeur mesurée, donné
+      par la formule : $$ s _ {r} = \frac {s}{\sqrt {n}} $$ ou $s$ est une estimation
+      de l''écart moyen quadratique d''un seul mesurage d''une série et $n$ le nombre
+      de mesurages de la série.'
   examples: []
   id: 8.1.7.2-fra
-  notes: []
+  notes:
+  - content: L'augmentation du nombre des mesurages permet de diminuer l'importance
+      des erreurs fortultes, en acceptant comme le résultat d'une série de mesurages
+      une moyenne des résultats particuliers.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉCART-TYPE DE LA MOYENNE ARITHMÉTIQUE
+    designation: Écart moyen quadratique de la moyenne arithmétique d'une série de
+      mesurages
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a90e95e0-d385-5245-83c4-ba7fd98ba20e
+id: 07db4128-f3bb-42d4-ac82-819f4e1dc527

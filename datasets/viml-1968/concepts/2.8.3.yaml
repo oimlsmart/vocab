@@ -2,21 +2,23 @@
 data:
   identifier: 2.8.3
   localized_concepts:
-    fra: f5f66b04-8ded-5c66-aec2-520cdbd1a0bb
+    fra: 0ccc9186-0e9d-42fc-9297-0862839a6035
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 0752de9b-5670-5bae-9e1b-3d6cd8c0d26b
+id: 30eb7d78-2a36-44b7-a4b7-c144630fc7f5
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Exécuter matériellement l''échelle d''un instrument de mesurage à partir
+      de repères déjà déterminés (s''il y a lieu par interpolation entre des repères
+      principaux). ## CHAPITRE 3'
   examples: []
   id: 2.8.3-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: CALIBRER
+    designation: Graduer
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f5f66b04-8ded-5c66-aec2-520cdbd1a0bb
+id: 0ccc9186-0e9d-42fc-9297-0862839a6035

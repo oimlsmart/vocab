@@ -2,30 +2,43 @@
 data:
   identifier: 6.1.2.3
   localized_concepts:
-    fra: d6e1f9e2-57dd-594a-9427-7cc89ae5deef
+    fra: fea1740a-101d-47a7-ac8c-c8d640595bc3
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e363ae3d-333a-517c-9be9-63ca51c8267d
+id: c6c56550-8171-4f29-80f4-0cff130c9285
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Apparcil mesureur intégrateur qui indique progressivement les valeurs
+      de la grandeur mesuree accumulées pendant un certain temps.
+  examples:
+  - content: Un intégrimètre, qui additionne les valeurs successives des aires partlelles
+      d'un graphique lorsqu'on suit par le traçoir la courbe qui délimite cette aire,
+      représente un compteur continu. Cependant, le planimètre à contournement qui
+      donne la valeur de l'aire d'une courbe fermée, après avoir entouré totalement
+      cette courbe, est un intégrateur mais pas un compteur.
   id: 6.1.2.3-fra
-  notes: []
+  notes:
+  - content: Dans le dispositif indicateur d'un compteur continu, le premier élément
+      mobile (disque, rouleau chiffré, etc) quil a la plus petite valeur d'échelon
+      se déplace ordinairement de façon continue au cours du mesurage.
+  - content: 'Cependant, cette continulté de mouvement n''existe pas toujours pour
+      les dispositifs indicateurs de certains autres appareils mesureurs intégrateurs.
+      Exemples : compteur de chaleur à fonctionnement cyclique — moulinet hydrométrique
+      dont le dispositif indicateur est entrainé par des impulsions discontinues.'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: COMPTEUR
+    designation: Compteur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: d6e1f9e2-57dd-594a-9427-7cc89ae5deef
+id: fea1740a-101d-47a7-ac8c-c8d640595bc3

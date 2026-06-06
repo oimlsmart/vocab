@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 9.10.1
+  localized_concepts:
+    fra: 82b73aee-9c95-4ae5-98f7-4f317e7a9997
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 73968823-2f1f-44d3-aef8-adc58de20476
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Erreur globale d'un instrument de mesurage, dans les conditions déterminées
+      d'emploi, et comprenant l'erreur de justesse ainsi que l'erreur de fidélité.
+  examples: []
+  id: 9.10.1-fra
+  notes:
+  - content: L'erreur de précision est la différence entre la valeur nominale d'une
+      mesure matériallisée ou l'indication d'un appareil mesureur et la valeur conventlonnellement
+      vraie de la grandeur mesure.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur de précision
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 82b73aee-9c95-4ae5-98f7-4f317e7a9997

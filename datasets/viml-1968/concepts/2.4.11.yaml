@@ -2,21 +2,22 @@
 data:
   identifier: 2.4.11
   localized_concepts:
-    fra: c9f8b55f-a51f-569e-8ef3-49aa16e554b3
+    fra: 70f425df-b0de-4169-9656-d157fdcc228e
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 7f83ee6f-9e45-5b86-9d21-b2b9353faab6
+id: c7efe644-0b92-41da-8807-eb5069e11e40
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Abrogation de fait de la validité de la vérification d'un instrument
+      de mesurage lorsque celui-ci ne répond plus aux exigences des règlements.
   examples: []
   id: 2.4.11-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: PERTE DE VALIDITÉ DE LA VÉRIFICATION
+    designation: Perte de validité de la vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c9f8b55f-a51f-569e-8ef3-49aa16e554b3
+id: 70f425df-b0de-4169-9656-d157fdcc228e

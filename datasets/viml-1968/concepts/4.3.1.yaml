@@ -2,30 +2,43 @@
 data:
   identifier: 4.3.1
   localized_concepts:
-    fra: 5418e4f2-0292-52c0-b582-3b2c74b20f28
+    fra: 38228ffe-eb24-410c-8006-435cf46dfb0e
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 0f2d423e-3e59-5002-a320-3ea41eec793b
+id: 52ad48f4-6e95-4f4b-b518-9e41b277826c
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Dénomination des grandeurs qui, dans un système de grandeurs, sont admises
+      comme étant indépendantes les unes des autres et au moyen desquelles les grandeurs
+      qui en dérivent dans ce système peuvent être exprimées par des équations de
+      définition.
+  examples:
+  - content: 'Dans le domaine des grandeurs mécaniques, on accepte généralement comme
+      grandeurs de base: la longueur, la masse et le temps et on y ajoute en plus
+      la température pour le domaine des grandeurs thermiques.'
   id: 4.3.1-fra
-  notes: []
+  notes:
+  - content: Cette définition ne préjuge pas le nombre des grandeurs que l'on peut
+      admettre comme indépendantes.
+  - content: Elle ne répond pas non plus à la question de savoir si l'on peut admettre
+      une grandeur donnée comme grandeur de base lorsque certaines autres grandeurs
+      ont déjà été choisies comme telles car, si on a déjà accepté par exemple les
+      grandeurs de base longueur et temps, il n'est plus possible d'accepter la vitesse
+      linéaire comme grandeur independante.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: GRANDEUR DE BASE
+    designation: Grandeur de base
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 5418e4f2-0292-52c0-b582-3b2c74b20f28
+id: 38228ffe-eb24-410c-8006-435cf46dfb0e

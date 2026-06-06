@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 9.2.7
+  localized_concepts:
+    fra: 93a50777-abad-406a-b157-6f4dca1a7eed
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 7c7b64ad-3905-49da-8988-fa4366838f8a
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'a) pour les instruments de mesurage autres que les compteurs : valeur
+      de la partie de la grandeur mesurée qui excède la portée maximale de l''instrument,
+      b) pour les compteurs : valeur de la partie de la charge qui excède la charge
+      maximale du compteur.'
+  examples: []
+  id: 9.2.7-fra
+  notes:
+  - content: 1. Pour la limite de la valeur tolérée de la surcharge, on utilise la
+      dénomination surcharge maximale tolérée.
+  - content: 2. On distingue les surcharges de « faible durée » et de « longue durée
+      ».
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Surcharge d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 93a50777-abad-406a-b157-6f4dca1a7eed

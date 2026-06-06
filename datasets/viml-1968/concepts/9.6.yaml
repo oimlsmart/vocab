@@ -1,0 +1,36 @@
+---
+data:
+  identifier: '9.6'
+  localized_concepts:
+    fra: 6311153b-4ad5-4bdf-99e2-3aec89c18de6
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: e1905f96-aa87-4a41-9696-d5643d9e0754
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Qualité qui caractérise l'aptitude d'un instrument de mesurage à donner,
+      pour une même valeur de la grandeur mesurée, des indications concordant entre
+      elles, les erreurs systématiques des valeurs variables n'étant pas prises en
+      considération.
+  examples: []
+  id: 9.6-fra
+  notes:
+  - content: D'après cette définition, la fidélité caractérise l'aptitude d'un instrument
+      à donner des indications qui ne sont pas entachées d'erreurs fortuites.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Fidélité d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 6311153b-4ad5-4bdf-99e2-3aec89c18de6

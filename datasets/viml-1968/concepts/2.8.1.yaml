@@ -2,21 +2,22 @@
 data:
   identifier: 2.8.1
   localized_concepts:
-    fra: 174797b1-6ca5-5a5b-80b2-1ec81c34ec64
+    fra: 5346e036-f0c8-428a-a1db-58dd0b7b37ab
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 9431d0cd-6204-51c1-ae6f-555680c44e04
+id: a19e92a2-dd9b-44e7-a1fa-004335176ad7
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Amener un instrument de mesurage à un fonctionnement et à une justesse
+      convenables pour son emploi.
   examples: []
   id: 2.8.1-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: OBLITÉRATION DE LA MARQUE DE VÉRIFICATION
+    designation: Ajuster
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 174797b1-6ca5-5a5b-80b2-1ec81c34ec64
+id: 5346e036-f0c8-428a-a1db-58dd0b7b37ab

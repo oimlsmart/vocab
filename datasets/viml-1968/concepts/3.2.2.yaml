@@ -2,21 +2,23 @@
 data:
   identifier: 3.2.2
   localized_concepts:
-    fra: c572ba2d-a94b-5427-a3a9-d66c162a6f60
+    fra: 1dac5af6-b133-4bab-9e3c-aabd1733cae8
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b8a29ba1-2286-514d-9564-70b69031b7a0
+id: 9e38a4e9-5e2d-465f-b6c8-2051db7eb6f5
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Marque certifiant qu'un instrument de mesurage a satisfait aux épreuves
+      de la vérification. Partie de la marque de vérification identifiant le bureau
+      qui a effectué cette vérification.
   examples: []
   id: 3.2.2-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: MARQUE PRINCIPALE DE VÉRIFICATION
+    designation: Marque principale de vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c572ba2d-a94b-5427-a3a9-d66c162a6f60
+id: 1dac5af6-b133-4bab-9e3c-aabd1733cae8

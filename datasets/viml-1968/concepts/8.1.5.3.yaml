@@ -2,30 +2,43 @@
 data:
   identifier: 8.1.5.3
   localized_concepts:
-    fra: 5b6bb143-8c81-52a8-bd1a-e31e5392e02c
+    fra: dea96c46-2cb7-4c11-bfc8-b65fe7101b8a
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: bad6954e-8cd2-5576-9606-75710cc9dc7a
+id: 292fdb4b-f283-4867-9b76-b96aaf67dc2f
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Différence algébrique entre un des résultats d'une série de mesurages
+      et la moyenne arithmétique de l'ensemble des résultats de cette série.
+  examples:
+  - content: 'si les résultats de 5 mesurages d''un même diamètre exécutés à l''alde
+      d''un même pied à coulisse, par la même observateur, à la même température amblante
+      etc... (et ayant des poids égaux) sont les suivantes :'
+  - content: "$d_{1} = 15,6 \\mathrm{~mm}$ ; $d_{2} = 15,8 \\mathrm{~mm}$ ; $d_{3}
+      = 15,8 \\mathrm{~mm}$ ; $d_{4} = 15,6 \\mathrm{~mm}$ ; $d_{5} = 15,7 \\mathrm{~mm}$
+      ;"
+  - content: la moyenne arithmétique de ces résultats est égale à $\bar{d} = 1/5 (15,6
+      + \dots + 15,7)$ mm = 15,7 mm.
+  - content: "$ v_{1}=d_{1}-\\overline{d}=1 5, 6 \\mathrm{~ mm}-1 5, 7 \\mathrm{~
+      mm}=-0, 1 \\mathrm{~ mm} $ et $ v_{2}=\\overline{d_{2}}-d=1 5, 8 \\mathrm{~
+      mm}-1 5, 7 \\mathrm{~ mm}=+0, 1 \\mathrm{~ mm} $ etc."
   id: 8.1.5.3-fra
-  notes: []
+  notes:
+  - content: En abrégé, on appelle simplement cette erreur « erreur apparente ».
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR ABSOLUE APPARENTE
+    designation: Erreur absolue apparente
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 5b6bb143-8c81-52a8-bd1a-e31e5392e02c
+id: dea96c46-2cb7-4c11-bfc8-b65fe7101b8a

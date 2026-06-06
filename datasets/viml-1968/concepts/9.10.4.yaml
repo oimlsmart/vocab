@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 9.10.4
+  localized_concepts:
+    fra: 2119566a-1ca8-40cc-ac80-ddf840d8aaa7
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 82fa37cc-fb63-40aa-9364-29f72620f3e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Caractéristique des instruments de mesurage qui sont soumis aux mêmes
+      conditions de précision.
+  examples: []
+  id: 9.10.4-fra
+  notes:
+  - content: Le plus souvent le signe indicatif de la classe de précision indique
+      l'erreur maximale tolérée de précision exprimée en pour cent de la plus grande
+      indication que peut donner l'instrument (par ex. l'expression « ampère-métro
+      de la classe 0,2 » signifie que l'erreur limite de précision de l'instrument
+      considéré ne dépasse pas 0,2 % de son indication la plus grande),
+  - content: ou bien il constitue simplement un numéro d'ordre de classe, ce qui no
+      donne pas directement une indication de la précision (par ex. cales-étalons
+      de la classe de précision 0).
+  - content: 'L''expression • dé précision • est souvent omise et on dit: ampèremètre
+      de classe 0,2 — cales-étalons de classe 0.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Classe de précision
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 2119566a-1ca8-40cc-ac80-ddf840d8aaa7

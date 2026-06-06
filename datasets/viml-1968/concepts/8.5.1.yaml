@@ -2,21 +2,22 @@
 data:
   identifier: 8.5.1
   localized_concepts:
-    fra: a2d070da-44b5-5800-96e9-f08a6defc8ed
+    fra: 18310676-f218-4594-9501-daf3549d9dfa
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 36844324-12ba-5f1e-841c-bdda5f86a589
+id: 24202025-4269-45c9-944d-124fcc1b3f57
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Erreur d'observation résultant de la lecture inexacte de l'indication
+      d'un instrument de mesurage par l'observateur.
   examples: []
   id: 8.5.1-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR DE LECTURE
+    designation: Erreur de lecture
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a2d070da-44b5-5800-96e9-f08a6defc8ed
+id: 18310676-f218-4594-9501-daf3549d9dfa

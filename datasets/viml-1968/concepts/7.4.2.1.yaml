@@ -2,30 +2,37 @@
 data:
   identifier: 7.4.2.1
   localized_concepts:
-    fra: c30ae530-b7d6-5e74-b6b2-8ddcd8bb7787
+    fra: ab0ca9cf-1e9d-4615-b6ae-165f0dc3f44c
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 5d0192c7-87b3-5744-8a39-380d06b6f951
+id: fca5adf4-100f-44bd-b70e-361c976adf42
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Zone comprise entre les repères correspondant à la valeur minimale et
+      la valeur maximale de l'échelle.
   examples: []
   id: 7.4.2.1-fra
-  notes: []
+  notes:
+  - content: 1. Cortains instruments de mesurage peuvent avoir plusieurs étendues
+      partielles d'échelle,
+  - content: 'exemple : thermomètres à liquide avec élargissements locaux du tube
+      capillaire.'
+  - content: 2. Dans les compteurs, l'étendue du dispositif indicateur remplace l'étendue
+      de l'échelle.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉTENDUE DE L'ÉCHELLE
+    designation: Étendue de l'échelle
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c30ae530-b7d6-5e74-b6b2-8ddcd8bb7787
+id: ab0ca9cf-1e9d-4615-b6ae-165f0dc3f44c

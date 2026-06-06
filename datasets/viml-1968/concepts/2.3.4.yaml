@@ -2,21 +2,23 @@
 data:
   identifier: 2.3.4
   localized_concepts:
-    fra: 7528c0b8-b5b1-5369-a3fe-a5a14eb3c72f
+    fra: 184840c0-049d-43d4-b5d6-1d746c4edbdc
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 8798cef3-3df1-57d3-ab0f-7c93f0f0cfa2
+id: 1ea617b3-24f8-4f44-83e1-3e5465dbd67a
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble d'opérations ayant pour but de s'assurer que l'instrument de
+      mesurage satisfait aux conditions réglementaires en ce qui concerne ses qualités
+      métrologiques.
   examples: []
   id: 2.3.4-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: EXAMEN MÉTROLOGIQUE
+    designation: Examen métrologique
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 7528c0b8-b5b1-5369-a3fe-a5a14eb3c72f
+id: 184840c0-049d-43d4-b5d6-1d746c4edbdc

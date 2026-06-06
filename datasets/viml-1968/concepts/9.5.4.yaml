@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 9.5.4
+  localized_concepts:
+    fra: 6a61055d-f378-4b52-b74f-5d162664833c
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 425370dd-523d-430b-8ca6-0d69eb5658e4
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Facteur par lequel on doit multiplier l'indication de l'instrument de
+      mesurage pour la corriger de l'erreur de justesse.
+  examples:
+  - content: 'Si l''indication d''un compteur d''énergie électrique, fonctionnant
+      à intensité constante ou peu variable, est 52,3 kWh et si le facteur de correction
+      est 1,01 : la valeur conventionnellement vrale de l''énergie déblitée dans le
+      circuit mesuré est 52,3.1,01 = 52,8 kWh.'
+  id: 9.5.4-fra
+  notes:
+  - content: En général, le facteur de correction a une valeur variable le long de
+      l'étendue de mesure.
+  - content: 'Toutefois, dans certains cas, il peut avoir une valeur constante par
+      exemple : lorsque la correction est nécessité par un changement de la densité
+      du liquide d''un manomètre à liquide ; dans le cas des compteurs lorsque la
+      valeur de la charge est constante ou peu variable.'
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Facteur de correction de justesse
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 6a61055d-f378-4b52-b74f-5d162664833c

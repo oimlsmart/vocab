@@ -2,30 +2,39 @@
 data:
   identifier: 8.2.1
   localized_concepts:
-    fra: 24eaabc0-78d4-5843-8159-ba35571bad6a
+    fra: a8325f2f-8f59-4afa-82c2-c988a3def0fd
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 3a8e65f5-2be9-5f31-ba21-7016f3376d5b
+id: 26663358-a379-4a9b-9d26-c87659afc4ee
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Différence $v_{\mathrm{n}}$ — $v_{\mathrm{e}}$ entre la valeur nominale
+      $v_{\mathrm{n}}$ et la valeur conventionnelle vrale $v_{\mathrm{e}}$ reproduite
+      par la mesure matérielisée.
+  examples:
+  - content: 'Dans l''exemple relatif au point 8.2.5 : $ e_{i} = v_{n} - v_{c} = 1\,000\,\mathrm{ml}
+      - 1\,005\,\mathrm{ml} = -5\,\mathrm{ml} $'
+  - content: la dénomination est done trop petite par rapport à la valeur vraie de
+      la mesure.
   id: 8.2.1-fra
-  notes: []
+  notes:
+  - content: 1. Voir 5.3. remarque 1.
+  - content: 2. Si aucune confusion n'est à cralindre, on utilise l'expression simplifiée
+      • erreur d'une mesure matériallisée •
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR INSTRUMENTALE
+    designation: Erreur d'une mesure matérialisée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 24eaabc0-78d4-5843-8159-ba35571bad6a
+id: a8325f2f-8f59-4afa-82c2-c988a3def0fd

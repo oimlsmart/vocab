@@ -2,30 +2,33 @@
 data:
   identifier: 2.4.4
   localized_concepts:
-    fra: c9ea5f0a-f929-5f8e-b3ae-783b49213a72
+    fra: 9ededc96-90b5-4466-bd5f-a1e8e54f12c3
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 4cdb3bd8-0a82-53ab-9451-0bfcd78be0a4
+id: 82a41c81-58f6-4662-ada6-694057d7a461
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Vérification ultérieure d'un instrument de mesurage pour laquelle on
+      exige un examen complet de l'instrument, comme lors de la vérification primitive.
   examples: []
   id: 2.4.4-fra
-  notes: []
+  notes:
+  - content: En général la vérification après réparation de l'instrument est une vérification
+      complète.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: VÉRIFICATION COMPLÈTE
+    designation: Vérification complète
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c9ea5f0a-f929-5f8e-b3ae-783b49213a72
+id: 9ededc96-90b5-4466-bd5f-a1e8e54f12c3

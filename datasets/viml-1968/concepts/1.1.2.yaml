@@ -2,21 +2,23 @@
 data:
   identifier: 1.1.2
   localized_concepts:
-    fra: 1339c543-6997-5c59-9326-615f2663e5a8
+    fra: 0cf54f2e-044d-40f1-a60c-6b22d98e6383
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 383421a5-72f1-5226-bafc-f0046de63a7f
+id: b09cd1c1-b65b-4b87-9512-a2a359bc2adb
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Organisme du Service national de métrologie légale chargé d'exécuter
+      les travaux scientifiques et les recherches se rapportant à l'activité de ce
+      Service.
   examples: []
   id: 1.1.2-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: INSTITUT NATIONAL DE MÉTROLOGIE LÉGALE
+    designation: Institut national de métrologie légale
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 1339c543-6997-5c59-9326-615f2663e5a8
+id: 0cf54f2e-044d-40f1-a60c-6b22d98e6383

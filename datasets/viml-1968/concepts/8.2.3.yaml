@@ -2,21 +2,22 @@
 data:
   identifier: 8.2.3
   localized_concepts:
-    fra: 8f4ff11d-11b1-552b-a6e8-3aec23289990
+    fra: 47fde020-ad0c-4c33-9131-03f73bb7aecc
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 81841012-0b8d-5479-8739-14f9a9dd1c03
+id: d9bd492b-4fd3-4aad-b501-4ea09f6783a4
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Indication d'un instrument de mesurage pour la valeur zéro de la grandeur
+      mesurée.
   examples: []
   id: 8.2.3-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR D'UN APPAREIL MESUREUR
+    designation: Erreur de zéro
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 8f4ff11d-11b1-552b-a6e8-3aec23289990
+id: 47fde020-ad0c-4c33-9131-03f73bb7aecc

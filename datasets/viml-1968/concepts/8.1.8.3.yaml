@@ -2,21 +2,21 @@
 data:
   identifier: 8.1.8.3
   localized_concepts:
-    fra: 4f321ae6-075c-5027-a497-bf4df29f36d9
+    fra: 2a0a1581-2ecf-4ba6-a8ba-45e20d5085da
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f3452af9-bc6c-5ab9-8ad2-57bb7f13e505
+id: 4c5c465d-8db6-4c01-a38e-c1dba1f75e3a
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Incertitude exprimée par la formule : $ \pm l. s $'
   examples: []
   id: 8.1.8.3-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: INCERTITUDE D'UN SEUL MESURAGE DANS UNE SÉRIE
+    designation: Incertitude d'un seul mesurage d'une série
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 4f321ae6-075c-5027-a497-bf4df29f36d9
+id: 2a0a1581-2ecf-4ba6-a8ba-45e20d5085da

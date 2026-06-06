@@ -2,30 +2,40 @@
 data:
   identifier: 6.1.2.2
   localized_concepts:
-    fra: ec2ab5dc-c118-514c-8ce2-aecbc56555c4
+    fra: ffd8872c-8cf6-4942-a9ca-e06485048999
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 5cc8abc4-b5d4-534d-9056-c3a6cc0c3dd6
+id: 9eecb43f-356b-42fe-a6f9-0f26c32b9611
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Appareil mesureur qui détermine la valeur d'une grandeur au moyen d'une
+      intégration.
+  examples:
+  - content: compteur de volume des liquides ou des gaz, compteur d'énergie électrique,
+  - content: planimètre,
+  - content: intégrimètre,
+  - content: machine planimétrique,
+  - content: appareil de pesage continu sur un transporteur.
   id: 6.1.2.2-fra
-  notes: []
+  notes:
+  - content: 1. On assimile à une intégration l'addition de valeurs partelles suffisamment
+      petites.
+  - content: 2. Le dispositif indicateur d'un appareil mesureur intégrateur peut comporter
+      un organe permettant de le remettre à zéro.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: APPAREIL MESUREUR INTÉGRATEUR
+    designation: Appareil mesureur intégrateur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ec2ab5dc-c118-514c-8ce2-aecbc56555c4
+id: ffd8872c-8cf6-4942-a9ca-e06485048999

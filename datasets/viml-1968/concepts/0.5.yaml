@@ -2,21 +2,21 @@
 data:
   identifier: '0.5'
   localized_concepts:
-    fra: c0ac1186-2b35-5924-9094-8011f1f17bb1
+    fra: b2abe875-7dd6-4372-a908-e329aefd04fb
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 53b7ade1-718c-53a2-85f8-f69c5aedd4d0
+id: 330d2afe-150b-4066-81b6-3771f805b8ba
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Partie de la Métrologie qui traite de la technique d'exécution des mesurages.
   examples: []
   id: 0.5-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: TECHNIQUE DES MESURAGES
+    designation: Technique des mesurages
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c0ac1186-2b35-5924-9094-8011f1f17bb1
+id: b2abe875-7dd6-4372-a908-e329aefd04fb

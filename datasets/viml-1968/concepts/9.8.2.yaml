@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 9.8.2
+  localized_concepts:
+    fra: 841a15dd-8906-4c29-8aaa-a924777c6db9
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: b722fc23-4d85-4e0d-9cf9-06a60ea1e1c7
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: La plus grande des erreurs de mobilité possibles dans des conditions
+      de mesurage déterminées.
+  examples: []
+  id: 9.8.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur limite de mobilité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 841a15dd-8906-4c29-8aaa-a924777c6db9

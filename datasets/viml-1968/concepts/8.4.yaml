@@ -2,30 +2,34 @@
 data:
   identifier: '8.4'
   localized_concepts:
-    fra: 9cf38723-d3c6-5d90-a831-7a9b5a8c2793
+    fra: 10da40dc-4c4b-4b73-a5e4-1464e368df57
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e65f9ef9-f9da-5b79-8fea-36ccb60438db
+id: ee5bc6c5-7cb9-4b3b-b9ae-0f8ef4254fc8
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Erreur due à l'utilisation d'une méthode de mesurage qui est incorrecte
+      compte tenu de la nature des instruments de mesurage utilisés.
+  examples:
+  - content: Mesurage d'une force à l'aide d'un dynamomètre à ressort pour lequel
+      on a supposé une relation linéaire entre la déformation et la force, alors qu'en
+      réalité la fonction qui lie ces deux grandeurs n'est pas linéaire.
   id: 8.4-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR DE MÉTHODE
+    designation: Erreur de méthode
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9cf38723-d3c6-5d90-a831-7a9b5a8c2793
+id: 10da40dc-4c4b-4b73-a5e4-1464e368df57

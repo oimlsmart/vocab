@@ -2,21 +2,22 @@
 data:
   identifier: 3.1.4
   localized_concepts:
-    fra: 5c1b0cd8-ce5d-5640-9fae-73f951a3da8b
+    fra: 8f6a4406-0026-404a-86cd-ed8f039b8732
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: aeea29ae-a71d-53b5-b5ae-f3295a7deba7
+id: b0cae6cb-8f44-41f2-bf81-732c1afb08e9
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: MENTS DE MESURAGE Instruction se rapportant à la méthode imposée pour
+      vérifier certains instruments de mesurage.
   examples: []
   id: 3.1.4-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: INSTRUCTION RELATIVE À LA VÉRIFICATION
+    designation: Instruction relative à la vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 5c1b0cd8-ce5d-5640-9fae-73f951a3da8b
+id: 8f6a4406-0026-404a-86cd-ed8f039b8732

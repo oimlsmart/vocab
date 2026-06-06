@@ -2,30 +2,36 @@
 data:
   identifier: '4.5'
   localized_concepts:
-    fra: 612d3ee1-063d-5f67-bae9-4bf5c7c67fd8
+    fra: 3808eae4-0061-4e8b-9610-6489596454f3
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 44df9fc5-5b93-5772-b3d4-a584d0df0418
+id: deb25de3-7504-4087-baf7-58f72ae5cff9
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Ensemble de valeurs d'une grandeur, déterminées suivant des prescriptions
+      et admises par convention.
+  examples:
+  - content: Échelle internationale pratique des températures basée sur les températures
+      fixes de fusion ou d'ébullition d'une série de corps purs déterminés et sur
+      l'utilisation d'instruments de mesurage et de formules d'interpolation définit.
+  - content: Échelle de dureté de Mobs, basée sur les duretés d'une série de minéraux
+      déterminés.
   id: 4.5-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉCHELLE (DE REPÉRAGE) D'UNE GRANDEUR
+    designation: Échelle de repérage d'une grandeur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 612d3ee1-063d-5f67-bae9-4bf5c7c67fd8
+id: 3808eae4-0061-4e8b-9610-6489596454f3

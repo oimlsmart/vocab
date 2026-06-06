@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 9.2.2
+  localized_concepts:
+    fra: 9e069693-673c-41f4-b7fa-1d4a005b1d8d
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 4108d3e8-c459-4f5e-a9c7-8500410ee0d6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeur de la grandeur à mesurer correspondant à la limite minimale de
+      l'étendue de mesurage.
+  examples: []
+  id: 9.2.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Portée minimale
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 9e069693-673c-41f4-b7fa-1d4a005b1d8d

@@ -2,21 +2,22 @@
 data:
   identifier: 6.1.5
   localized_concepts:
-    fra: 3be316e2-a90f-5373-9283-e7a0cf14b694
+    fra: d7be03c1-2286-4896-9442-78e397eb2da8
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: acf4456f-e481-5332-a2e8-e97413f56bc7
+id: 3abdc5d0-d69e-49bd-a6d1-2f7135df489e
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Instrument de mesurage qui répond à toutes les conditions réglementaires
+      exigibles.
   examples: []
   id: 6.1.5-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: INSTRUMENT DE MESURAGE AUXILIAIRE
+    designation: Instrument de mesurage légal
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3be316e2-a90f-5373-9283-e7a0cf14b694
+id: d7be03c1-2286-4896-9442-78e397eb2da8

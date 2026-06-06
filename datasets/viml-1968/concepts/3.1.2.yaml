@@ -2,21 +2,22 @@
 data:
   identifier: 3.1.2
   localized_concepts:
-    fra: cc79342f-faca-5470-b10c-61de37ad049c
+    fra: 45e57757-26f6-4891-b63b-36ec041d8a89
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f0830364-0f59-5b12-bb14-dffac99d7b87
+id: 7b508671-957d-4dfc-ac72-9293673c5bbd
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Prescriptions réglementaires fixant les conditions d'approbation des
+      modèles pour une certaine catégorie d'instruments de mesurage.
   examples: []
   id: 3.1.2-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: PRESCRIPTIONS RELATIVES À L'APPROBATION DES MODÈLES
+    designation: Prescriptions relatives à l'approbation des modèles
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: cc79342f-faca-5470-b10c-61de37ad049c
+id: 45e57757-26f6-4891-b63b-36ec041d8a89

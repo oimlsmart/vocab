@@ -2,21 +2,22 @@
 data:
   identifier: '5.1'
   localized_concepts:
-    fra: 901c572b-852d-535c-a394-903ca79b0c2b
+    fra: 0afdbdb6-8420-454b-b5e3-2cdfcd11d035
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b2f8c746-b1c4-5ef3-8adc-7c968fb1ce32
+id: 2d837b2c-eace-4220-835a-af3539ffd389
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Ensemble d'opérations expérimentales ayant pour but de déterminer la
+      valeur d'une grandeur (4.2).
   examples: []
   id: 5.1-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: MESURAGE
+    designation: Mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 901c572b-852d-535c-a394-903ca79b0c2b
+id: 0afdbdb6-8420-454b-b5e3-2cdfcd11d035

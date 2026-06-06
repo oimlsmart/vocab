@@ -2,21 +2,24 @@
 data:
   identifier: 1.1.5
   localized_concepts:
-    fra: 94104f29-1a36-5718-bc9d-192ee4d03561
+    fra: '03196622-064b-4b32-8e06-b9c4e64fd88d'
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: baaebd62-b79b-5f5b-af14-0ea2be0c4890
+id: 9e282c77-5fd1-4476-8030-07a75dfb4ced
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Organisme du Service national de métrologie légale possédant un siège
+      permanent et dont le but est de vérifier, dans une portion du territoire du
+      bureau régional, certains instruments de mesurage déterminés et d'effectuer
+      la surveillance métrologique dans un domaine de mesurage défini.
   examples: []
   id: 1.1.5-fra
   notes: []
@@ -24,8 +27,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: BUREAU LOCAL DE VÉRIFICATION
+    designation: Bureau local de vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 94104f29-1a36-5718-bc9d-192ee4d03561
+id: '03196622-064b-4b32-8e06-b9c4e64fd88d'

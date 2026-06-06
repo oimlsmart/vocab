@@ -2,30 +2,34 @@
 data:
   identifier: 8.1.9
   localized_concepts:
-    fra: c1d0a9fd-d7bd-5bb0-a169-744f35b9681f
+    fra: c51e76ff-893b-4437-86df-291e7e88fb64
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 054248ff-f2aa-5a00-92af-46634b013eea
+id: c771c735-dca8-4cec-b91d-c508a0f4caee
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Imprécision qui s'exprime par l'ensemble des erreurs globales limites
+      du mesurage comprenant toutes les erreurs systématiques ainsi que les erreurs
+      fortuites limites.
   examples: []
   id: 8.1.9-fra
-  notes: []
+  notes:
+  - content: Toutes les erreurs systématiques étant corrigées, l'imprécision est égale
+      à l'incertitude de mesurage.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: IMPRÉCISION DE MESURAGE
+    designation: Imprécision de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c1d0a9fd-d7bd-5bb0-a169-744f35b9681f
+id: c51e76ff-893b-4437-86df-291e7e88fb64

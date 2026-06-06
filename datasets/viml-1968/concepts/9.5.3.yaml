@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 9.5.3
+  localized_concepts:
+    fra: 664a731a-02d7-4ad6-8780-64a5894b6bb1
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 5e3b6f8d-962e-47b4-bbac-490c65409adf
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Pour une mesure matérielisée : valeur $ \overline{\nu_{c}}-\nu_{n} $
+      que l''on doit ajouter algébriquement à la dénomination (ou valeur nominale)
+      $ \nu_{n} $ de la mesure matérielisée pour la faire coïncider avec la valeur
+      conventionnellement vraie $ \overline{\nu_{c}} $ de cette mesure. Pour un appareil
+      mesureur : valeur $v_{c} - \overline{v_{i}}$ que l''on doit ajouter algébriquement
+      à la valeur moyenne $\overline{v_{i}}$ des indications de l''instrument (supposées
+      obtenues sans erreur de lecture) pour la faire coïncider avec la valeur conventionnellement
+      vraie $v_{c}$ de la grandeur mesuree.'
+  examples:
+  - content: Dans l'exemple relatif au point 9.5.1 la correction de justesse est +
+      0,08 $\mu$A.
+  id: 9.5.3-fra
+  notes:
+  - content: 1. La correction de justesse d'un instrument de mesurage est égale à
+      l'erreur de justesse changée de signo.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Correction de justesse
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 664a731a-02d7-4ad6-8780-64a5894b6bb1

@@ -2,30 +2,39 @@
 data:
   identifier: '6.2'
   localized_concepts:
-    fra: 3d1ef819-eaef-5ecd-b697-e340bf4da0f8
+    fra: b91eb6b0-8472-4075-9042-ca4aad5da7e3
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 1b442a78-623e-50bf-b566-61fbd29d02e5
+id: 1cb46286-54d0-4791-b190-075c06763299
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: 'Dispositif qui n''étant pas par lui-même un instrument de mesurage sert
+      : soit à maintenir les grandeurs mesurées ou les grandeurs d''influence à des
+      valeurs convenables, soit à faciliter l''exécution des opérations de mesurage,
+      soit encore à changer la sensibilité ou l''étendue de mesurage d''un instrument.'
+  examples:
+  - content: amplificateur, loupe à lire les indications, thermostat pour vérifier
+      les thermomètres,
+  - content: pompe d'allimentation, dégazeur, limiteur de déblt d'une installation
+      de mesurage avec compteur de liquides.
   id: 6.2-fra
-  notes: []
+  notes:
+  - content: Le dispositif auxillaire peut être un élément organique de l'instrument
+      ou bien un élément séparé.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: INSTALLATION DE MESURAGE
+    designation: Dispositif auxiliaire de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3d1ef819-eaef-5ecd-b697-e340bf4da0f8
+id: b91eb6b0-8472-4075-9042-ca4aad5da7e3

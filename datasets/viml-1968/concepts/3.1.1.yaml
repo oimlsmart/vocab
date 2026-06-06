@@ -2,21 +2,24 @@
 data:
   identifier: 3.1.1
   localized_concepts:
-    fra: 20d53d21-2edb-50bd-983c-fad53f9e7527
+    fra: b7595f28-c738-4b1e-9001-377aaca73290
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 17c94210-419b-52db-91aa-7d7af0e5a76c
+id: 18ca2a71-3816-463d-b3b4-101284745be2
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Prescriptions réglementaires fixant les conditions de la vérification
+      d'instruments de mesurage appartenant à une catégorie pour laquelle l'approbation
+      de modèle est obligatoire [à une catégorie pour laquelle il n'est pas exigé
+      d'approbation de modèle].
   examples: []
   id: 3.1.1-fra
   notes: []
@@ -24,8 +27,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: PRESCRIPTIONS RELATIVES À LA VÉRIFICATION
+    designation: Prescriptions relatives à la vérification d'instruments de mesurage
+      assujettis / dispensés
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 20d53d21-2edb-50bd-983c-fad53f9e7527
+id: b7595f28-c738-4b1e-9001-377aaca73290

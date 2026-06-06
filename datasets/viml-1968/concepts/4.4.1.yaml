@@ -2,30 +2,48 @@
 data:
   identifier: 4.4.1
   localized_concepts:
-    fra: 8732694d-e970-51a3-950f-06f4838090da
+    fra: 19fdcc26-e5bd-4a08-9dd2-1122a54b2be5
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e8aa5764-3696-5bc6-9ef6-8e6923980b78
+id: 0a6d9cd6-b15f-4501-b11f-c83b9c83a4fb
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Équation dans laquelle les symboles littéraux représentent des valeurs
+      numériques correspondant aux unités de mesure utilisées.
+  examples:
+  - content: 1. $ v_{m / s}=\frac{\pi}{60} d_{m} \omega_{t / m} $ est une équation
+      entre valeurs numériques pour la vitesse linéaire $ v $ d'un point situé sur
+      un cercle de diamètre $ d $ tournant autour de son centre avec la vitesse angulaire
+      $ \omega $ valable pour les unités suivantes $ v $ en mètre par seconde, $ d
+      $ en mètre, $ \omega $ en tour par minute.
+  - content: 2. On peut présenter l'équation cl-dessus aussi sous la forme $ \{v\}
+      = \frac{\pi}{60} \{d\} \{w\} $
+  - content: ou { $v$ } est la valeur numérique de $v$ pour l'unité m/s
+  - content: "{ $d$ } est la valeur numérique de $d$ pour l'unité m"
+  - content: "{ $ \\omega $ } est la valeur numérique de $ \\omega $ pour l'unité
+      t/min"
   id: 4.4.1-fra
-  notes: []
+  notes:
+  - content: 1. L'équation entre valeurs numériques, pour les unités d'un système
+      cohérent d'unités de mesure, peut être considérée aussi comme une équation entre
+      grandeurs.
+  - content: 2. Pour éllminor des malentendus, il serait désirable d'utiliser dans
+      les équations entre valeurs numériques des symboles différents de ceux utilisés
+      dans les équations entre grandeurs.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉQUATION ENTRE VALEURS NUMÉRIQUES
+    designation: Équation entre valeurs numériques
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 8732694d-e970-51a3-950f-06f4838090da
+id: 19fdcc26-e5bd-4a08-9dd2-1122a54b2be5

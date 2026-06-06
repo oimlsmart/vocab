@@ -2,30 +2,44 @@
 data:
   identifier: 6.1.2.7
   localized_concepts:
-    fra: 51aa949b-7e60-5341-aae3-3518916bca05
+    fra: 7258fa19-c711-4b34-883e-30f32dbab5b8
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c891c48e-41a6-5138-9703-49fa6b5330c3
+id: d6fdf30a-0b2c-4631-b2b2-96fe02cce390
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Appareil mesureur qui inscrit sur un support d'enregistrement les indications
+      ou informations qu'il donne pour les mesurages effectués d'une ou de plusieurs
+      grandeurs. L'enregistrement peut être effectué sous forme d'un diagramme (continu
+      ou discontinu) ou par impression de valeurs numériques.
   examples: []
   id: 6.1.2.7-fra
-  notes: []
+  notes:
+  - content: 1. Lorsque l' « appareil mesureur enregistreur » envisagé ne peut pas
+      être confondu avec un simple « dispositif enregistreur », il est permis de le
+      désigner par le terme « enregistreur ».
+  - content: '2. Les appareils mesureurs enregistreurs de certaines grandeurs particulières
+      sont désignés par les expressions obtenues soit en ajoutant le mot enregistreur
+      au nom de l''appareil mesureur correspondant (ex. : voltmètre enregistreur,
+      manomètre enregistreur), soit en ajoutant le suffixe « graphe » à une dénomination
+      caractérisant la grandeur mesurée (ex. thermographe, barographe).'
+  - content: 3. L'enregistrement s'effectue généralement en fonction d'une autre grandeur
+      (dans la plupart des cas en fonction du temps), mais il peut aussi simplement
+      consister à noter les valeurs successives de la grandeur mesurée.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: APPAREIL MESUREUR ENREGISTREUR
+    designation: Appareil mesureur enregistreur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 51aa949b-7e60-5341-aae3-3518916bca05
+id: 7258fa19-c711-4b34-883e-30f32dbab5b8

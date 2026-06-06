@@ -2,30 +2,33 @@
 data:
   identifier: '4.6'
   localized_concepts:
-    fra: 2507b8da-5e29-526a-ad4e-09ce82f87cae
+    fra: 2d9f0609-d77c-45bb-a9d1-b9cbf3886509
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 51eb1a7b-1e19-5ea8-a9da-2b95b7027074
+id: 62dbdcf2-b6bd-4c6d-ba51-e6ec2cbb28ae
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Valeur d'une grandeur admise conventionnellement comme ayant une valeur
+      numérique égale à 1.
   examples: []
   id: 4.6-fra
-  notes: []
+  notes:
+  - content: On fixe l'unité de mesure d'une grandeur pour rendre possible la comparaison
+      quantitative, entre elles, des différentes valeurs de cette même grandeur .
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: UNITÉ DE MESURE
+    designation: Unité de mesure
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 2507b8da-5e29-526a-ad4e-09ce82f87cae
+id: 2d9f0609-d77c-45bb-a9d1-b9cbf3886509

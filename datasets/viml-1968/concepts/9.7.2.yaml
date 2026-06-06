@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 9.7.2
+  localized_concepts:
+    fra: 34a1065b-259f-4fcc-8364-2843ee2ef4b5
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 55af0406-2f7c-4086-bcce-efb4e6115219
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: La plus grande différence des indications d'un instrument de mesurage
+      qui peut être obtenue dans une série de mesurages lorsqu'on atteint la même
+      valeur de la grandeur mesurée soit en croissant, soit en décroissant.
+  examples: []
+  id: 9.7.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur limite de réversibilité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 34a1065b-259f-4fcc-8364-2843ee2ef4b5

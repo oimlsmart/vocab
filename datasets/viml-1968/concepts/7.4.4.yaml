@@ -2,30 +2,32 @@
 data:
   identifier: 7.4.4
   localized_concepts:
-    fra: eef5ec01-117a-5c4e-898f-ab366425b175
+    fra: 7a3ab028-ffe9-4748-9e3b-aae161e97462
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 205cdfb1-4981-55a9-b06f-565ef0148b01
+id: ed8d2b0d-8649-44cd-a6d2-b2b9b98f78d1
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Échelle dont les repères sont constitués par un ensemble de traits.
   examples: []
   id: 7.4.4-fra
-  notes: []
+  notes:
+  - content: ''
+  - content: L'échelle à traits est à indication continue.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉCHELLE À TRAITS
+    designation: Échelle à traits
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: eef5ec01-117a-5c4e-898f-ab366425b175
+id: 7a3ab028-ffe9-4748-9e3b-aae161e97462

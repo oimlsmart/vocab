@@ -2,21 +2,22 @@
 data:
   identifier: 8.6.2
   localized_concepts:
-    fra: 88e1a063-df7f-5dcf-a2a5-5e31030197a8
+    fra: eee49ec2-ff08-4eb0-81f5-528c6066bc3b
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 87e4e2c6-f3b7-5430-a6ec-57b885af9118
+id: 0b4e5419-255b-4b26-a47f-36271ad5d172
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Courbe qui exprime, en fonction d'un certain paramètre, les corrections
+      à apporter aux résultats obtenus avec un instrument de mesurage.
   examples: []
   id: 8.6.2-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: COURBE DE CORRECTION D'UN INSTRUMENT DE MESURAGE
+    designation: Courbe de correction d'un instrument de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 88e1a063-df7f-5dcf-a2a5-5e31030197a8
+id: eee49ec2-ff08-4eb0-81f5-528c6066bc3b

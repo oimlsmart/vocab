@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 7.4.4.2.2
+  localized_concepts:
+    fra: 5e7facd0-3f82-404b-a459-677f10ba852e
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 50704c38-1b97-4c4e-ba39-31691edf9d84
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Échelle dont les échelons ont la même valeur.
+  examples: []
+  id: 7.4.4.2.2-fra
+  notes:
+  - content: Une échelle à valeur d'échelon constante peut avoir une longueur d'échelon
+      constante ou variable ; dans le premier cas, elle est dite « régullère ».
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Échelle à valeur d'échelon constante
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 5e7facd0-3f82-404b-a459-677f10ba852e

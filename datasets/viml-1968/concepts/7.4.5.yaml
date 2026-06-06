@@ -2,21 +2,27 @@
 data:
   identifier: 7.4.5
   localized_concepts:
-    fra: d7e14156-3456-54bf-8d87-8f42dfb63f68
+    fra: 696cb653-688e-4449-b79d-7cfbb7c2e3b5
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b557680a-26e4-5562-8b39-c46ff30777df
+id: 7645858f-52fa-47ca-bf41-dbf7f7e3c6f6
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Échelle dont les repères apparaissent de façon discontinue et sont constitués
+      par des chiffres alignés indiquant directement la valeur numérique de la grandeur
+      mesurée. L''échelle numérique est à indication discontinue. Remarques : L''ensemble
+      des chiffres constituent une échelle numérique peut être placé sur une ou plusieurs
+      surfaces planes (ou non) sur lesquelles les chiffres à lire apparaissent brusquement.
+      Exemple : échelle numérique composée de quatre séries de chiffres placés sur
+      des rouleaux : les chiffros à lire apparaissent dans la fenêtre.'
   examples: []
   id: 7.4.5-fra
   notes: []
@@ -24,8 +30,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉCHELLE NUMÉRIQUE
+    designation: Échelle numérique
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: d7e14156-3456-54bf-8d87-8f42dfb63f68
+id: 696cb653-688e-4449-b79d-7cfbb7c2e3b5

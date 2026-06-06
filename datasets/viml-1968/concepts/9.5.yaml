@@ -1,0 +1,35 @@
+---
+data:
+  identifier: '9.5'
+  localized_concepts:
+    fra: a236deac-6a4f-4c07-b31f-a8d4da303e35
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 6e4d8c90-2156-46a1-a958-af9867dd2dad
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Qualité qui caractérise l'aptitude d'un instrument de mesurage à donner
+      des indications égales à la valeur vraie de la grandeur mesurée, les erreurs
+      de fidélité n'étant pas prises en considération.
+  examples: []
+  id: 9.5-fra
+  notes:
+  - content: D'après cette définition, la justesse caractérise l'aptitude d'un instrument
+      à donner des indications qui ne solent pas entachées d'erreurs systématiques.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Justesse d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: a236deac-6a4f-4c07-b31f-a8d4da303e35

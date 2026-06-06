@@ -2,21 +2,22 @@
 data:
   identifier: 3.1.3
   localized_concepts:
-    fra: 9700facf-ff89-525b-a1f4-21b1f96997c8
+    fra: 7eb50581-8118-4e74-828c-ceebefa4c532
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 1d48758f-6f00-5acc-970f-1ede6170c4cc
+id: 69434cf4-ccd4-4d43-aaa0-d8f186cf280c
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Document officiel déterminant les catégories d'instruments de mesurage
+      qui doivent être soumis à la vérification.
   examples: []
   id: 3.1.3-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: SPÉCIFICATION DES INSTRUMENTS DE MESURAGE ASSUJETTIS À LA VÉRIFICATION
+    designation: Spécification des instruments de mesurage assujettis à la vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9700facf-ff89-525b-a1f4-21b1f96997c8
+id: 7eb50581-8118-4e74-828c-ceebefa4c532

@@ -2,30 +2,38 @@
 data:
   identifier: 8.1.7.1
   localized_concepts:
-    fra: a3f097c7-236c-53d3-b76d-23399674aac1
+    fra: afe248bb-6405-4924-818a-d8bf0e622d89
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 577fa266-e51f-578d-84c0-fdaa491383bc
+id: 42a43a37-7e44-4a45-8e06-c3171b47856b
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Indice caractérisant la dispersion des résultats obtenus dans une série
+      de n mesurages de la même valeur d''une grandeur mesurée, donné par la formule
+      : $$ s = \sqrt {\frac {\sum_ {i = 1} ^ {n} \left(x _ {i} - \bar {x}\right) ^
+      {3}}{n - 1}} $$ $x$ étant le $i^{\mathrm{ome}}$ résultat de mesurage $(i = 1,
+      2, 3, \dots n)$ et $\bar{x}$ la moyenne arithmétique des $n$ résultats considérés.'
   examples: []
   id: 8.1.7.1-fra
-  notes: []
+  notes:
+  - content: 1. La valeur s calculée d'après cette définition est en fait une estimation
+      de l'écart moyen quadratique apparent car, d'une part on calcule s d'après des
+      données expérimentales et d'autre part les différences $(x_i - \overline{x})$
+      représentent les erreurs absolues apparentes.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉCART-TYPE D'UN SEUL MESURAGE DANS UNE SÉRIE
+    designation: Écart moyen quadratique d'un seul mesurage dans une série de mesurages
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a3f097c7-236c-53d3-b76d-23399674aac1
+id: afe248bb-6405-4924-818a-d8bf0e622d89

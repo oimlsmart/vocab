@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 7.3.1.1
+  localized_concepts:
+    fra: bcd109ab-8612-4c4d-822d-f0de67f9fd75
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: fd73175d-1091-4023-a72d-ce38be28d4d8
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Partie sensible du capteur qui se trouve sous l'influence directe de
+      la grandeur mesurée.
+  examples: []
+  id: 7.3.1.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Élément récepteur du capteur
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: bcd109ab-8612-4c4d-822d-f0de67f9fd75

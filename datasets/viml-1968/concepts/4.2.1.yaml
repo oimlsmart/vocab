@@ -2,30 +2,40 @@
 data:
   identifier: 4.2.1
   localized_concepts:
-    fra: 4cf7c04b-ce6a-57b3-a8ec-99e8d0581cb1
+    fra: 2c6f1865-2525-4b34-bf88-d7038e4f99a1
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 2f93b928-9637-55a9-90e3-f4ebd290a345
+id: b3fba239-2910-47a3-9bbc-fc16a1e21ff9
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Valeur qui caractérise une grandeur parfaitement définie dans les conditions
+      qui existent au moment où cette valeur est examinée.
+  examples:
+  - content: La longueur vraie d'une règle en métal est la longueur qui est déterminée
+      par la distance entre les deux plans des extrémités de la règle, supposés parfaitement
+      parallèles et perpendiculaires à l'axe de colle-ci, lorsque toutes les grandeurs
+      d'influence ainsi que les conditions opératoires sont parfaitement définies.
   id: 4.2.1-fra
-  notes: []
+  notes:
+  - content: La valeur vraie d'une grandeur est une notion idéale et en général elle
+      ne peut pas être connue.
+  - content: On peut cependant dire que la valeur vraie du Kilogramme étalon prototype
+      international déposé au Bureau International des Poids et Mesures est, par définition
+      et dans des conditions déterminées, de 1 kg.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: VALEUR VRAIE D'UNE GRANDEUR
+    designation: Valeur vraie d'une grandeur
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 4cf7c04b-ce6a-57b3-a8ec-99e8d0581cb1
+id: 2c6f1865-2525-4b34-bf88-d7038e4f99a1

@@ -2,30 +2,37 @@
 data:
   identifier: 4.6.3
   localized_concepts:
-    fra: 395f51d8-be7d-5e50-8a90-24f83a3bd51c
+    fra: e041c65d-42b6-41ec-af9d-7c6a75431ec6
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 911d8642-1528-5219-bf65-d15ea06e8d05
+id: 911a95ca-9b5e-4fc2-8f4f-718cc7023574
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Unité de mesure d'une des grandeurs de base.
+  examples:
+  - content: Le métre est l'unité de base de la grandeur de base « longueur » dans
+      le Système International d'Unités.
+  - content: 'Du mettre (conjointement avec d''autres unités de mesure de base) découlent
+      les unités dérivées de ce système : unités de vitesse, de force, de potentiel
+      électrique...'
   id: 4.6.3-fra
-  notes: []
+  notes:
+  - content: Des unités de mesure de base découlent les unités de mesure dérivées
+      d'un système d'unités de mesure.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: UNITÉ DE MESURE DE BASE
+    designation: Unité de mesure de base
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 395f51d8-be7d-5e50-8a90-24f83a3bd51c
+id: e041c65d-42b6-41ec-af9d-7c6a75431ec6

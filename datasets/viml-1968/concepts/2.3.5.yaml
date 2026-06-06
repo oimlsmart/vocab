@@ -2,21 +2,24 @@
 data:
   identifier: 2.3.5
   localized_concepts:
-    fra: 9534ded2-8967-512c-8ab1-5650868ace46
+    fra: 70b6a053-e68c-4561-9fcc-0e9bf8584446
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 39a01a2a-1e98-5b25-9834-18059c730b61
+id: 899a64bc-0439-4129-8424-5ff5fb6fb038
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Examen d'un instrument de mesurage ayant pour but de s'assurer que la
+      marque de poinçonnage est valable, que l'instrument n'a pas subi de transformation
+      après la vérification, et que ses erreurs ne dépassent pas les valeurs maximales
+      tolérées en service.
   examples: []
   id: 2.3.5-fra
   notes: []
@@ -24,8 +27,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: EXAMEN DE SURVEILLANCE
+    designation: Examen de surveillance
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9534ded2-8967-512c-8ab1-5650868ace46
+id: 70b6a053-e68c-4561-9fcc-0e9bf8584446

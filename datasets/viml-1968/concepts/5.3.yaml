@@ -1,0 +1,42 @@
+---
+data:
+  identifier: '5.3'
+  localized_concepts:
+    fra: 532faad6-2aec-44f1-94cf-8a04f0a1dfca
+  domains:
+  - concept_id: section-5
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 4c5f9721-3dec-4553-9424-6b95c76011c1
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeur de la grandeur mesurée indiquée par l'instrument de mesurage.
+  examples: []
+  id: 5.3-fra
+  notes:
+  - content: 1. La notion d'indication d'un instrument de mesurage se rapporte aussi
+      aux mesures matériallisées comme par ex. les poids, les mesures matériallisées
+      de capacité etc...;
+  - content: dans ces cas, l'indication équivaut à la valeur nominale de la mesure
+      matériallisée ou bien à sa dénomination.
+  - content: 2. En tant qu'« indication », on entend aussi une indication présumée,
+      obtenue par interpolation de la position de l'index de l'instrument entre des
+      repères volsins.
+  - content: 3. La valour de la grandeur mesurée peut être indiquée directement en
+      unités de mesure de cette grandeur ou en certaines unités conventionnelles.
+      Dans ce cas, l'indication directe doit être multiplée par la constante de l'instrument.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Indication d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 532faad6-2aec-44f1-94cf-8a04f0a1dfca

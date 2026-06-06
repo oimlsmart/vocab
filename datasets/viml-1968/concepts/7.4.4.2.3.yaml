@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 7.4.4.2.3
+  localized_concepts:
+    fra: 6089506f-d36c-4a90-a983-be5d4eb02de0
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 25c78801-3c45-4eb5-a182-602f775eaba6
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Échelle dont la longueur de chaque échelon est proportionnelle à la valeur
+      de cet échelon (le coefficient de proportionnalité étant constant).
+  examples: []
+  id: 7.4.4.2.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Échelle linéaire
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 6089506f-d36c-4a90-a983-be5d4eb02de0

@@ -2,21 +2,21 @@
 data:
   identifier: 2.4.7
   localized_concepts:
-    fra: 04edf07b-8960-5ae5-9948-fa602b2b49aa
+    fra: 970eef32-3940-4ae2-9835-d14198c33eda
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e91aeac0-f3f2-593e-a29b-8938bb8e1c8e
+id: d92d4233-d518-4379-90c8-1eb6153130db
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Vérification d'un instrument de mesurage exécutée pour des raisons exceptionnelles.
   examples: []
   id: 2.4.7-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: VÉRIFICATION EXCEPTIONNELLE
+    designation: Vérification exceptionnelle
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 04edf07b-8960-5ae5-9948-fa602b2b49aa
+id: 970eef32-3940-4ae2-9835-d14198c33eda

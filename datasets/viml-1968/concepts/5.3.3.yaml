@@ -2,30 +2,38 @@
 data:
   identifier: 5.3.3
   localized_concepts:
-    fra: bb1bed5a-a524-5973-872a-60d5b1fc2f8b
+    fra: c4b8a2ac-da19-4054-866f-87d33d3f7fee
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ec904b89-c442-566a-9719-58411f276306
+id: e5796dc7-ecf1-4bb7-847f-199af0ae1d99
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Valeur totale de la grandeur reproduite par la mesure matérialisée et
+      qui est indiquée sur cette mesure.
+  examples:
+  - content: Dans une éprouvette graduée de capacité totale 100 cm$^3$, le volume
+      délimité par le trait de 100 cm$^3$ représente la valeur nominale totale de
+      l'éprouvette.
   id: 5.3.3-fra
-  notes: []
+  notes:
+  - content: 1. Voir point 5.3 romarque 1.
+  - content: 2. Co terme s'applique aux mesures matériallisées à plusieurs valeurs
+      distinctes ainsi qu'aux mesures matériallisées graduées (6.1.1 exemples b et
+      c de la remarque 4).
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: VALEUR NOMINALE TOTALE D'UNE MESURE MATÉRIALISÉE
+    designation: Valeur nominale totale d'une mesure matérialisée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: bb1bed5a-a524-5973-872a-60d5b1fc2f8b
+id: c4b8a2ac-da19-4054-866f-87d33d3f7fee

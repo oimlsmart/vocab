@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 2.7.1
+  localized_concepts:
+    fra: 2f4cada1-d96c-4970-95f2-11a527c68237
+  domains:
+  - concept_id: section-2
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: '0251818c-de4f-4399-bb75-21ef2e2b57e8'
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Annulation de la ou des marques de vérification lorsqu'il a été constaté
+      que l'instrument de mesurage ne répond plus aux exigences réglementaires.
+  examples: []
+  id: 2.7.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Oblitération de la marque de vérification
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 2f4cada1-d96c-4970-95f2-11a527c68237

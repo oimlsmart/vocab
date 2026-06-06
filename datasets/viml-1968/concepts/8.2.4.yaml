@@ -2,30 +2,51 @@
 data:
   identifier: 8.2.4
   localized_concepts:
-    fra: b738e320-9528-554b-833f-43f7301b262c
+    fra: 7495fb6f-11f9-4f0c-98ab-14ea59f22dbf
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 864f1a5b-25fc-55d7-8761-422bedfbf77d
+id: 195687e7-1cd1-4282-9f09-54e11cfe046d
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Indice caractérisant la dispersion des indications (9.6.1) d''un instrument
+      de mesurage obtenues dans une série de $n$ mesurages de la même valeur d''une
+      grandeur mesurée, et donné par la formule : $$ s = \sqrt {\frac {\sum_ {i =
+      1} ^ {n} \left(x _ {i} - \bar {x}\right) ^ {2}}{n - 1}} $$ $x_{i}$ étant la
+      $i^{eme}$ indication de l''instrument ($i = 1,2,3,\dots n$) et $\bar{x}$ la
+      moyenne arithmétique des $n$ indications considérées.'
   examples: []
   id: 8.2.4-fra
-  notes: []
+  notes:
+  - content: 1. Selon les conditions dans lesquelles on effectue les mesurages, s
+      peut représenter une mesure des différentes propriétés de l'instrument (fidélité,
+      stabilité...)
+  - content: 2. La valeur calculée d'après cette définition est en fait une estimation
+      de l'écart moyen quadratique apparent car d'une part on calcule $s$ d'après
+      des données expérimentales et d'autre part les différences $(x_{i} - \overline{x})$
+      représentent des erreurs absolues apparentes.
+  - content: 3. La notion envisagée se rapporte aussi bien aux appareils mesureurs
+      qu'aux mesures matérielisées graduées.
+  - content: Il est à remarquer qu'en ce qui concerne les mesures matérielisées qui
+      ne reprodusent qu'une seule valeur (ou plusieurs valeurs séparées) d'une grandeur,
+      il n'est théoriquement pas tout à fait correct de parler de dispersion de leurs
+      « indications » étant donné qu'elles représentent des valeurs constantes.
+  - content: Cependant, dans ce cas, on peut s'intéresser à la dispersion de la valeur
+      reproduite de la grandeur, dispersion que l'on peut connaître par des comparaisons
+      avec un étalon.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR DE ZÉRO
+    designation: Écart moyen quadratique d'une seule indication dans une série d'indications
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b738e320-9528-554b-833f-43f7301b262c
+id: 7495fb6f-11f9-4f0c-98ab-14ea59f22dbf

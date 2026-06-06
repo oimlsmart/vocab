@@ -2,21 +2,26 @@
 data:
   identifier: 2.4.3
   localized_concepts:
-    fra: 733946ab-3007-5671-abdf-d84b9a0bb26f
+    fra: 41dd4776-f0e5-437d-beb4-2503642649bd
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 10282487-773d-55d2-aded-5454d869fc09
+id: 1eea226b-597d-4fd9-8638-2bb9253557e1
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Toute vérification d''un instrument de mesurage qui suit la vérification
+      primitive : vérification périodique réglementaire, vérification après réparation,
+      ou vérification avant l''expiration de la période de validité de la vérification
+      périodique effectuée soit : à la demande de l''usager, parce que la marque de
+      poinçonnage, pour n''importe quelle cause, n''est plus valable pour le restant
+      de cette période de validité.'
   examples: []
   id: 2.4.3-fra
   notes: []
@@ -24,8 +29,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: VÉRIFICATION ULTÉRIEURE
+    designation: Vérification ultérieure
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 733946ab-3007-5671-abdf-d84b9a0bb26f
+id: 41dd4776-f0e5-437d-beb4-2503642649bd

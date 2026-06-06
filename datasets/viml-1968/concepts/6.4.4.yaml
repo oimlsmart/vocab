@@ -2,30 +2,36 @@
 data:
   identifier: 6.4.4
   localized_concepts:
-    fra: cae6796e-a5c7-55e7-a087-145a54ae4563
+    fra: c09ecd55-fcd8-4066-9e94-e4274d1b1d0b
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: d9231cec-6a20-5def-9fde-c8cb1a398fda
+id: 0f932529-d7b5-4e59-a9e4-d22830f9d9ad
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Étalon, relatif à une grandeur déterminée, qui présente les plus haute
+      qualités métrologiques dans un domaine déterminé.
   examples: []
   id: 6.4.4-fra
-  notes: []
+  notes:
+  - content: 1. La qualité d'étalon primaire est valable aussi bien pour les unités
+      de base que pour les unités dérivées.
+  - content: 2. L'étalon primaire n'est jamais utilisé directement pour des mesurages
+      en dehors de sa comparaison avec les étalons témoins et avec des étalons de
+      référence.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉTALON-TÉMOIN
+    designation: Étalon primaire
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: cae6796e-a5c7-55e7-a087-145a54ae4563
+id: c09ecd55-fcd8-4066-9e94-e4274d1b1d0b

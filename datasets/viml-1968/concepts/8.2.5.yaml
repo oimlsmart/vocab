@@ -2,30 +2,37 @@
 data:
   identifier: 8.2.5
   localized_concepts:
-    fra: 62f20337-c05b-50ea-891b-02ef48bea4bd
+    fra: 8b9b0984-a221-428e-8e85-bc7db05c8835
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: d359cf31-ce55-5b4b-81fa-a3bd9e2be6b6
+id: 7929e06e-0a3b-4701-87f9-1065fb063cc5
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Différence $ \nu_{\mathrm{c}} $ — $ \nu_{\mathrm{n}} $ entre la valeur
+      conventionnellement vraie $ \nu_{\mathrm{a}} $ reproduite par la mesure materialisée
+      et la valeur nominale $ \nu_{\mathrm{n}} $ de cette mesure.
+  examples:
+  - content: Une mesure de capacité contient $v_{0} = 1005 \mathrm{ml}$ et sa dénomination
+      est « 1 litre », soit $v_{n} = 1000 \mathrm{ml}$,
+  - content: l'erreur de calibrage de cette mesure est égale à ; $e = 1005 \mathrm{ml}
+      - 1000 \mathrm{ml} = -5 \mathrm{ml}$,
+  - content: la valeur vraie de la mesure étant trop grande par rapport à sa dénomination.
   id: 8.2.5-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉCART-TYPE D'UNE SEULE INDICATION
+    designation: Erreur de calibrage d'une mesure matérialisée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 62f20337-c05b-50ea-891b-02ef48bea4bd
+id: 8b9b0984-a221-428e-8e85-bc7db05c8835

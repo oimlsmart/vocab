@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 9.7.1
+  localized_concepts:
+    fra: '049b6388-5988-4381-9ccc-dcd153b589b8'
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: d17ca5ea-a3ec-4d0c-adb8-beb3d23cc97e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Différence des indications d'un instrument de mesurage lorsqu'on atteint
+      la même valeur de la grandeur mesurée soit en croissant, soit en décroissant.
+  examples: []
+  id: 9.7.1-fra
+  notes:
+  - content: Dans certains cas, on détermine l'erreur de réversibilité par la différence
+      des valeurs de la grandeur mesurée correspondant chacune à une même indication
+      obtenue soit en croissant, soit en décroissant.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur de réversibilité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: '049b6388-5988-4381-9ccc-dcd153b589b8'

@@ -2,30 +2,33 @@
 data:
   identifier: 8.1.1.1
   localized_concepts:
-    fra: 2c167e4f-21b6-5638-b726-802ea039af0f
+    fra: 1aec2817-79b4-4610-b744-464c86e4f04d
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 9f2229c7-8087-54d5-8813-712c4657189d
+id: 6b12d37e-8236-49b3-9276-800d2f0fa8f3
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Valeur qu'il faut ajouter algébriquement au résultat brut du mesurage
+      (5.4.1.) pour obtenir le résultat corrigé (5.4.2.).
   examples: []
   id: 8.1.1.1-fra
-  notes: []
+  notes:
+  - content: 'La correction est égale à l''erreur absolue du résultat brut du mesurage
+      changé de signe :'
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: CORRECTION
+    designation: Correction
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 2c167e4f-21b6-5638-b726-802ea039af0f
+id: 1aec2817-79b4-4610-b744-464c86e4f04d

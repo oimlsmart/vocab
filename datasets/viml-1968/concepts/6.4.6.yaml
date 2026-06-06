@@ -2,21 +2,22 @@
 data:
   identifier: 6.4.6
   localized_concepts:
-    fra: 07432029-54ff-5571-bfec-4f53c9b5eb8c
+    fra: 6f1a53ba-a780-4b47-a62c-e919d89d3640
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: cef8e8fc-b5d9-5ba7-b40f-5a4025c5e818
+id: 2e556dd5-304a-479f-8725-0b58c49fef57
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Étalon dont la valeur est fixée par comparaison directe ou indirecte
+      avec un étalon primaire ou bien par une méthode étalon.
   examples: []
   id: 6.4.6-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉTALON DE TRAVAIL
+    designation: Étalon secondaire
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 07432029-54ff-5571-bfec-4f53c9b5eb8c
+id: 6f1a53ba-a780-4b47-a62c-e919d89d3640

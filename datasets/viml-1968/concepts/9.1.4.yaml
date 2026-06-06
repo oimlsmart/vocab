@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 9.1.4
+  localized_concepts:
+    fra: b83a6c8d-ca38-46f8-b7e2-057642ba533c
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 4c7db41d-3ed6-4ffd-9cba-f2003e5d684d
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Étendue des valeurs que peut prendre une grandeur d'influence et à l'intérieur
+      de laquelle les erreurs complémentaires (8.2.6.1) correspondantes ne dépassent
+      pas des valeurs maximales tolérées.
+  examples: []
+  id: 9.1.4-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Domaine nominal d'utilisation
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: b83a6c8d-ca38-46f8-b7e2-057642ba533c

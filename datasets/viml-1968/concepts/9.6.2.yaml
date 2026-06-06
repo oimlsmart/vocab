@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 9.6.2
+  localized_concepts:
+    fra: 31a85b97-7e67-4c97-80b7-e2cd25374071
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: afa65027-ff23-4ee6-81cc-cb6121d6e404
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Mesure de la dispersion des indications d''un instrument de mesurage
+      exprimée par la différence entre la plus grande $v_{i\max}$ et la plus petite
+      $v_{i\min}$ des indications qui, dans une série de mesurages, correspondent
+      à une même valeur de la grandeur mesurée : $$ W = v _ {i \max } - v _ {i \min
+      } $$'
+  examples: []
+  id: 9.6.2-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Étendue de dispersion des indications
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: 31a85b97-7e67-4c97-80b7-e2cd25374071

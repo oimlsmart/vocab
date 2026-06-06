@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 8.2.6.3
+  localized_concepts:
+    fra: c0060244-c71d-4435-906f-5c73d42426f1
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: fe66c350-8279-4ec2-ad07-ff792b555a95
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Erreur due aux frottements des éléments mobiles de l'instrument de mesurage.
+  examples: []
+  id: 8.2.6.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur due au frottement
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: c0060244-c71d-4435-906f-5c73d42426f1

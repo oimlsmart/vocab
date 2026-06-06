@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 7.4.4.1
+  localized_concepts:
+    fra: e6a56fc2-a0da-40c0-ba6e-a8f93a6faf34
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 271eb931-04f6-4552-ab6b-86842541585e
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Ligne (matérialisée ou non) qui passe par les milieux des repères les
+      plus courts d''une échelle à traits. Examples :'
+  examples: []
+  id: 7.4.4.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Base d'une échelle à traits
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: e6a56fc2-a0da-40c0-ba6e-a8f93a6faf34

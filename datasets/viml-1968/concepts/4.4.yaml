@@ -2,30 +2,36 @@
 data:
   identifier: '4.4'
   localized_concepts:
-    fra: 6ed1af8f-2504-5f81-b0db-4cb7d6916e78
+    fra: ce0f4e15-fda1-4827-8c0f-461a4a4c195b
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: bb0795d0-1d34-571a-a898-817255b4e876
+id: a8272a9d-4aa6-40ad-9374-7b66c1cd6149
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Équation dans laquelle les symboles littéraux représentent des grandeurs.
+  examples:
+  - content: "$l = v.l$ — équation entre grandeurs du chemin $l$ parcouru dans un
+      temps $t$ par un mobile animé d'un mouvement uniforme avec la vitesse $v,$"
+  - content: "$S = \\frac{b.h}{2}$ — équation entre grandeurs de l'aire $S$ d'un triangle
+      dont un côté est $b$ et la hauteur correspondante $h$."
   id: 4.4-fra
-  notes: []
+  notes:
+  - content: L'équation entre grandeurs est valable indépendamment des unités de mesure
+      et ne nécessite pas l'utilisation d'unités déterminées à l'avance.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ÉQUATION ENTRE GRANDEURS
+    designation: Équation entre grandeurs
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 6ed1af8f-2504-5f81-b0db-4cb7d6916e78
+id: ce0f4e15-fda1-4827-8c0f-461a4a4c195b

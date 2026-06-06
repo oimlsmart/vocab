@@ -2,30 +2,34 @@
 data:
   identifier: 8.1.5.1
   localized_concepts:
-    fra: eedc7faa-e434-56d8-b3e0-f9d36c475d1e
+    fra: 8de829d8-d11b-47c7-9a0b-dc50a963ae0b
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 8286cc8c-4ac3-56da-9651-504b039bc0da
+id: b1942b31-2a90-4da5-b948-5f097ffb4218
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Différence algébrique entre le résultat du mesurage et la valeur conventionnellement
+      vraie (4.2.1.1.) de la grandeur mesurée.
+  examples:
+  - content: Le résultat d'un mesurage est 10,1 mm ; al la valeur conventionnellement
+      vraie do la grandeur est 10,3 mm l'erreur absolue véritable est (10,1 — 10,3)
+      mm = — 0,2 mm.
   id: 8.1.5.1-fra
   notes: []
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: ERREUR ABSOLUE VÉRITABLE
+    designation: Erreur absolue véritable
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: eedc7faa-e434-56d8-b3e0-f9d36c475d1e
+id: 8de829d8-d11b-47c7-9a0b-dc50a963ae0b

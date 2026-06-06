@@ -2,30 +2,39 @@
 data:
   identifier: '4.1'
   localized_concepts:
-    fra: 05579784-2d59-5337-afc5-82fe51b16525
+    fra: f6e44ddd-a391-4788-a7ac-822daafd0e64
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 42aa7260-60d1-5fc9-9d6e-43e170a7f924
+id: ab61437c-ac7e-496e-98c6-70c1a72a91cc
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
-  examples: []
+  definition:
+  - content: Attribut d'un phénomène ou d'un corps qui est susceptible d'être distinguée
+      qualitativement et déterminée quantitativement.
+  examples:
+  - content: 'a) grandours dans un sens général :'
+  - content: longueur, temps, masse, température, dureté, résistance électrique
+  - content: 'b) grandeurs, dans un sens déterminé :'
+  - content: longueur d'une tige, résistance électrique d'un fil
   id: 4.1-fra
-  notes: []
+  notes:
+  - content: 1. Lo terme « grandeur » signifie aussl bien une grandeur avec la sens
+      général qu'une grandeur déterminée.
+  - content: 2. Si aucune confusion n'est à craindre, on peut omettre l'expression
+      mesurable.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: GRANDEUR (MESURABLE)
+    designation: Grandeur mesurable
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 05579784-2d59-5337-afc5-82fe51b16525
+id: f6e44ddd-a391-4788-a7ac-822daafd0e64

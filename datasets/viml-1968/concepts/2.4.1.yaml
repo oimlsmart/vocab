@@ -2,21 +2,22 @@
 data:
   identifier: 2.4.1
   localized_concepts:
-    fra: 38c4ea84-e9fb-50cb-9ee2-ec6a015f19e1
+    fra: d77f2a08-4e62-4597-b274-2815954dc251
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 3830ca83-a287-5b61-9e6a-4d39689cf00d
+id: a82c434e-4eff-4464-8fb4-231303c65263
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Vérification d'un lot homogène d'instruments de mesurage en se basant
+      sur le résultat de l'examen d'un ou de plusieurs exemplaires de ce lot.
   examples: []
   id: 2.4.1-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: VÉRIFICATION PAR ÉCHANTILLONNAGE
+    designation: Vérification par échantillonnage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 38c4ea84-e9fb-50cb-9ee2-ec6a015f19e1
+id: d77f2a08-4e62-4597-b274-2815954dc251

@@ -2,30 +2,33 @@
 data:
   identifier: 7.1.2.3
   localized_concepts:
-    fra: b80fcad8-a036-5a46-9464-34ee2ebc0cb2
+    fra: 89d72234-c023-444a-b4a0-989d5517012d
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e23e0c40-5d5e-57e4-9bf5-f6bdd7adab24
+id: 305bb8fe-d438-4b43-8f0d-900bd37de891
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Exemplaire d'un instrument de mesurage dont le modèle est approuvé et
+      qui joue le rôle d'un témoin (conjointement à une documentation convenable).
   examples: []
   id: 7.1.2.3-fra
-  notes: []
+  notes:
+  - content: Dans certains cas d'instruments trop importants ou d'un prix de revient
+      trop élevé, une documentation détaillée peut suffire seule.
   sources: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: EXEMPLAIRE TÉMOIN D'UN MODÈLE APPROUVÉ
+    designation: Exemplaire témoin d'un modèle approuvé
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b80fcad8-a036-5a46-9464-34ee2ebc0cb2
+id: 89d72234-c023-444a-b4a0-989d5517012d

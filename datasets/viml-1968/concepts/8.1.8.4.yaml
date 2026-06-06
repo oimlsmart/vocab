@@ -2,21 +2,21 @@
 data:
   identifier: 8.1.8.4
   localized_concepts:
-    fra: 9225603f-123c-5fc6-8999-125ab6f07f74
+    fra: caa94f64-28cf-4a3c-a1db-a89cfebe0b0b
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 000aaace-5b71-56c3-82c8-20980574ff5c
+id: 69b1e349-8c10-4dc4-a985-536822b015a9
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Incertitude exprimée par la formule : $ \pm l \cdot s_{r} $'
   examples: []
   id: 8.1.8.4-fra
   notes: []
@@ -24,8 +24,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: INCERTITUDE DE LA MOYENNE ARITHMÉTIQUE
+    designation: Incertitude de la moyenne arithmétique d'une série
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9225603f-123c-5fc6-8999-125ab6f07f74
+id: caa94f64-28cf-4a3c-a1db-a89cfebe0b0b

@@ -2,15 +2,14 @@
 data:
   identifier: 3.2.3
   localized_concepts:
-    fra: 0dadf442-f943-51de-aed1-59608655c150
+    fra: d6a19b9f-411b-493e-aa26-1ba236d47a96
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 0e0b3f53-50c8-5fe9-b635-79c0f3be2b0a
+id: ea7d9252-7b10-4bd2-8399-67f6192c8ee9
 schema_version: '3'
-
 ---
 data:
   dates:
@@ -24,8 +23,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: MARQUE DU BUREAU
+    designation: Marque du bureau
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 0dadf442-f943-51de-aed1-59608655c150
+id: d6a19b9f-411b-493e-aa26-1ba236d47a96

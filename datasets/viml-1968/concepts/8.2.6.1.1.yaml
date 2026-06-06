@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 8.2.6.1.1
+  localized_concepts:
+    fra: ca973d98-8beb-4d9e-953d-97428d009e14
+  domains:
+  - concept_id: section-8
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 4befef17-eb55-4f35-91ed-51d2a1aaebfe
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Différence entre les valeurs mesurées d'une grandeur, lorsqu'une grandeur
+      d'influence prend successivement deux valeurs spécifiées, sans qu'on change
+      la grandeur mesurée.
+  examples: []
+  id: 8.2.6.1.1-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Variation d'indication d'un instrument de mesurage
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: ca973d98-8beb-4d9e-953d-97428d009e14

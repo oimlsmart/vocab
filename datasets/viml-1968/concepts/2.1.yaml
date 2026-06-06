@@ -2,21 +2,23 @@
 data:
   identifier: '2.1'
   localized_concepts:
-    fra: 605880e1-41bc-5c62-a84a-92a3d746e49b
+    fra: 73e9f566-7a0c-40ea-ba79-5b02419d8164
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: d377f13a-6456-5391-bf53-62aed8593603
+id: 15a26d87-9c68-47e3-ac91-fb24b3b09719
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: 'Ensemble d''opérations comprenant : a) l''essai de modèles d''instruments
+      de mesurage en vue de leur approbation, b) la vérification ou l''étalonnage
+      d''instruments de mesurage, c) la surveillance métrologique.'
   examples: []
   id: 2.1-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: CONTRÔLE DES INSTRUMENTS DE MESURAGE
+    designation: Contrôle des instruments de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 605880e1-41bc-5c62-a84a-92a3d746e49b
+id: 73e9f566-7a0c-40ea-ba79-5b02419d8164

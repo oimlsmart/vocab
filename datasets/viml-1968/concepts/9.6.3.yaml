@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 9.6.3
+  localized_concepts:
+    fra: a7cef61e-b359-4879-9edb-5454b6c74611
+  domains:
+  - concept_id: section-9
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: 2271c1cf-04f5-4259-adef-dc52b72e8b5f
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: 'Un des indices de dispersion des indications d''un instrument de mesurage
+      : erreur moyenne quadratique, erreur probable, erreur moyenne, etc... On adopte
+      souvent l''écart moyen quadratique (8.2.4), qui est appelé alors « erreur moyenne
+      quadratique de fidélité », pour une série d''indications consécutives dans des
+      conditions déterminées d''emploi de l''instrument.'
+  examples:
+  - content: 'Dans l''exemple du point 9.5.1, les différences entre les résultats
+      $v_{i}$ obtenus et leurs valeurs moyennes $v_{i}$ sont : $-0,07; +0,04; +0,28;
+      -0,16; -0,03; +0,09; +0,02; -0,034; +0,01; +0,16 \mu A$'
+  - content: 'l''errent moyenne quadratique de fidélité d''un des résultats du mesurage
+      est :'
+  - content: "$$"
+  - content: s = \sqrt {\frac {0 . 0 7 ^ {2} + 0 . 0 4 ^ {2} + \dots + 0 . 1 6 ^ {2}}{1
+      0 - 1}} = 0. 1 7 \mu \mathrm {A}
+  - content: "$$"
+  id: 9.6.3-fra
+  notes: []
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Erreur de fidélité
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: a7cef61e-b359-4879-9edb-5454b6c74611

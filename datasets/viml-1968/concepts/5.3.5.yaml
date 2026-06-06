@@ -2,21 +2,23 @@
 data:
   identifier: 5.3.5
   localized_concepts:
-    fra: 6953cbbc-0700-5a3e-9f91-15067c589fd5
+    fra: c9fb5921-5edd-4165-ba0c-7fa9baaff276
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 886afb8e-5dfd-5494-862e-ff02a596af94
+id: 9caaa530-d6b7-4aad-8774-cfab0d6d90ba
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Valeur de la grandeur reproduite par la mesure matérialisée déterminée
+      par un mesurage effectué à l'aide d'instruments de mesurage présentant une erreur
+      globale pratiquement négligeable.
   examples: []
   id: 5.3.5-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: VALEUR CONVENTIONNELLEMENT VRAIE D'UNE MESURE MATÉRIALISÉE
+    designation: Valeur conventionnellement vraie d'une mesure matérialisée
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 6953cbbc-0700-5a3e-9f91-15067c589fd5
+id: c9fb5921-5edd-4165-ba0c-7fa9baaff276

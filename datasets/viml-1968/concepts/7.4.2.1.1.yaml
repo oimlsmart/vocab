@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 7.4.2.1.1
+  localized_concepts:
+    fra: f71f20a2-0b78-43be-9c00-ba2fa5e3d8e8
+  domains:
+  - concept_id: section-7
+    source: urn:oiml:pub:v:1:1968
+    ref_type: section
+status: valid
+id: a09db07b-d592-4525-9bfb-fd9e5122329b
+schema_version: '3'
+---
+data:
+  dates:
+  - date: '1968-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: Valeur de la grandeur mesurée correspondant à la limite minimale de l'échelle.
+  examples: []
+  id: 7.4.2.1.1-fra
+  notes:
+  - content: Dans les instruments à étondues multiples, la « valeur minimale » de
+      l'échelle de l'Instrument est égale à la plus petite des valeurs minimales des
+      diverses échelles.
+  sources: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Valeur minimale de l'échelle
+language_code: fra
+entry_status: valid
+date_accepted: '1968-01-01T00:00:00+00:00'
+id: f71f20a2-0b78-43be-9c00-ba2fa5e3d8e8

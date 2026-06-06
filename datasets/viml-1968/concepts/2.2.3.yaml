@@ -2,21 +2,23 @@
 data:
   identifier: 2.2.3
   localized_concepts:
-    fra: 8749763a-70e2-53ee-8d3f-cf782ddc3071
+    fra: c2e1c0fb-7418-476b-8415-10e9e908223c
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 83f5206e-86eb-5b17-b49c-022dec8f106b
+id: 6379c24f-c30f-4f87-af7b-22a8bb566baa
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Décision prise par les Autorités compétentes de l'État, en général par
+      le Service national de métrologie légale, d'admettre à la vérification des instruments
+      de mesurage réglementés sans approbation de modèle.
   examples: []
   id: 2.2.3-fra
   notes: []
@@ -24,8 +26,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ADMISSION À LA VÉRIFICATION
+    designation: Admission à la vérification
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 8749763a-70e2-53ee-8d3f-cf782ddc3071
+id: c2e1c0fb-7418-476b-8415-10e9e908223c

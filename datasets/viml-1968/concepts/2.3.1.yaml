@@ -2,21 +2,22 @@
 data:
   identifier: 2.3.1
   localized_concepts:
-    fra: f9f5f104-8a3a-54cb-8004-947c880c9fe7
+    fra: 613c58f4-f472-41dc-ba27-ea9724571130
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b3f44044-f782-5b6f-9988-587b1eed5d00
+id: 1fae2e1a-f731-406a-b197-fb9b20f96625
 schema_version: '3'
-
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Examen des instruments de mesurage en vue de s'assurer de leur conformité
+      avec leur modèle approuvé.
   examples: []
   id: 2.3.1-fra
   notes: []
@@ -24,8 +25,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: EXAMEN DE CONFORMITÉ AVEC LE MODÈLE APPROUVÉ
+    designation: Examen de conformité avec le modèle approuvé
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f9f5f104-8a3a-54cb-8004-947c880c9fe7
+id: 613c58f4-f472-41dc-ba27-ea9724571130
