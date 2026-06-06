@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 01468
+  identifier: '01468'
   localized_concepts:
     eng: b57604c9-cb46-5c54-be02-f203b9697adb
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 025ced08-0f09-50c7-8e33-b691b173acdf
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.4'
 ---
 data:
   dates:

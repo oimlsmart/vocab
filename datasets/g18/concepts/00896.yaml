@@ -1,21 +1,27 @@
+---
 data:
-  identifier: 00896
-  localized_concepts:
-    eng: a5e2205b-a911-536e-b167-7ab077459df6
-  sources:
-  - origin:
-      ref:
-        source: OIML R076-1:2006
-    locality:
-      type: clause
-      reference_from: T.2.2
-    type: authoritative
   domains:
   - concept_id: section-R076-1
     ref_type: section
-status: valid
+  identifier: '00896'
+  localized_concepts:
+    eng: a5e2205b-a911-536e-b167-7ab077459df6
+  sources:
+  - locality:
+      reference_from: T.2.2
+      type: clause
+    origin:
+      ref:
+        source: OIML R076-1:2006
+    type: authoritative
 id: 0054eecb-5ccd-533d-ac3c-c888e98d3029
 schema_version: '3'
+status: valid
+related:
+- ref:
+    id: '4.04'
+    source: urn:oiml:pub:v:1:2022
+  type: see
 ---
 data:
   dates:

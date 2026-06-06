@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00193
+  identifier: '00193'
   localized_concepts:
     eng: 1428a22c-7140-57fe-80cc-594f6fd619dd
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 54f7fbdb-f5e2-50db-942a-32b943aa145a
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.13'
 ---
 data:
   dates:

@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 01940
+  identifier: '01940'
   localized_concepts:
     eng: 94e461f5-9347-5466-9e2b-17c7ebf05cdd
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 365ff1dd-f091-5895-ab3a-d1f43118b61d
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '1.19'
 ---
 data:
   dates:

@@ -2,12 +2,17 @@
 data:
   identifier: '3.07'
   localized_concepts:
-    eng: 09a0085b-e36a-5077-97d8-588f01b0b432
+    eng: '09a0085b-e36a-5077-97d8-588f01b0b432'
     fra: d663816c-aeee-567c-abf2-559f2c608d05
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:2013
     ref_type: section
+  related:
+  - type: supersedes
+    ref:
+      source: urn:oiml:pub:v:1:2000
+      id: '3.10'
 status: valid
 id: c43d6aaa-1495-5d28-8f5d-921fc06c7418
 schema_version: '3'

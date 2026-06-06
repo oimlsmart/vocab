@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 02079
+  identifier: '02079'
   localized_concepts:
     eng: 4be838f4-d900-5219-83ce-50a3ae024f3d
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: c381590a-f8b9-5b7f-8b8a-6d4d755b7907
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:2007
+    id: '2.21'
 ---
 data:
   dates:

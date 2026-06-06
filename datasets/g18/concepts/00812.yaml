@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00812
+  identifier: '00812'
   localized_concepts:
     eng: 6485e6ec-6660-58e3-b73b-8ad2daeed72c
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: e8597ae3-2e94-587f-a170-d86f6c913e67
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.5'
 ---
 data:
   dates:

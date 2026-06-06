@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.6'
   localized_concepts:
@@ -7,6 +8,11 @@ data:
   - concept_id: section-3
     source: urn:oiml:pub:v:2:2007
     ref_type: section
+  related:
+  - type: supersedes
+    ref:
+      source: urn:oiml:pub:v:2:1993
+      id: '4.2'
 status: valid
 id: 4298dd8c-c391-427d-9d16-a26622bcca9a
 schema_version: '3'
@@ -67,4 +73,3 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: b541d13c-2a51-4ed8-8f7f-bf2d72ce60ae
----

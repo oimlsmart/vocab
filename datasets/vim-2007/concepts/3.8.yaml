@@ -1,12 +1,18 @@
+---
 data:
   identifier: '3.8'
   localized_concepts:
     eng: 38d48ccf-549f-4d2f-962b-9c679f23d188
-    fra: 0960924b-e47e-42c4-bb09-98c41031034c
+    fra: '0960924b-e47e-42c4-bb09-98c41031034c'
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:2:2007
     ref_type: section
+  related:
+  - type: supersedes
+    ref:
+      source: urn:oiml:pub:v:2:1993
+      id: '4.14'
 status: valid
 id: 504882d0-3b75-4624-9788-46cbc7779660
 schema_version: '3'
@@ -63,4 +69,3 @@ data:
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0960924b-e47e-42c4-bb09-98c41031034c
----

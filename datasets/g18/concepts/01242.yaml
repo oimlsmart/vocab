@@ -1,3 +1,4 @@
+---
 data:
   identifier: '01242'
   localized_concepts:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 3b35eb40-9d24-5b30-9fa3-72acf85de2aa
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.5'
 ---
 data:
   dates:

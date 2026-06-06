@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00165'
   localized_concepts:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: cd1d0f9d-f8e1-5028-a14f-3c429b830075
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.5'
 ---
 data:
   dates:

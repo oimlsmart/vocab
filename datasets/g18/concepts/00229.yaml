@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00229
+  identifier: '00229'
   localized_concepts:
     eng: ae9fc15b-a293-56b7-aea8-6545fd65a14f
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: da5c2f8c-9c33-5033-8c76-234b1b754b48
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.21'
 ---
 data:
   dates:

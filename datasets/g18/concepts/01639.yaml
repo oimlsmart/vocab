@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 01639
+  identifier: '01639'
   localized_concepts:
     eng: 52698b5b-78c0-57e6-974a-888a5df15698
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: f3f15ff3-d16a-5fe3-8a16-0a484d7a00a5
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '3.12'
 ---
 data:
   dates:

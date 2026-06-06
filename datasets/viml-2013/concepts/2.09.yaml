@@ -8,6 +8,15 @@ data:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: section
+  related:
+  - type: supersedes
+    ref:
+      source: urn:oiml:pub:v:1:2000
+      id: '2.13'
+  - type: supersedes
+    ref:
+      source: urn:oiml:pub:v:1:2000
+      id: '2.11'
 status: valid
 id: 1e08b49c-a061-5e83-a0bd-620c31fc245d
 schema_version: '3'
@@ -16,6 +25,10 @@ related:
   ref:
     source: urn:oiml:pub:v:1:2000
     id: '2.13'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.11'
 ---
 data:
   dates:

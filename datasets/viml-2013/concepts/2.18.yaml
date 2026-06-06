@@ -2,12 +2,17 @@
 data:
   identifier: '2.18'
   localized_concepts:
-    eng: 048ff314-aeba-53e2-8aec-3ed782b2363d
+    eng: '048ff314-aeba-53e2-8aec-3ed782b2363d'
     fra: 448efc6e-7423-51c7-99c2-bd1d1eba528e
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:1:2013
     ref_type: section
+  related:
+  - type: supersedes
+    ref:
+      source: urn:oiml:pub:v:1:2000
+      id: '2.22'
 status: valid
 id: 24d111d8-323a-54e7-9762-4bc65128fc27
 schema_version: '3'
