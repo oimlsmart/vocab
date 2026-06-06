@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 01947
+  identifier: '01947'
   localized_concepts:
     eng: 43469e86-e621-50c2-9426-77290a6518f7
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 0d74c8be-df75-570b-8e1a-592cc9255410
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.21'
 ---
 data:
   dates:

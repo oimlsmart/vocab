@@ -1,3 +1,4 @@
+---
 data:
   identifier: '02147'
   localized_concepts:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: ed39ec3b-d76c-5369-989f-9534659f2ae1
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:2007
+    id: '4.11'
 ---
 data:
   dates:

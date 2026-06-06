@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 01878
+  identifier: '01878'
   localized_concepts:
     eng: cd556c87-00ae-544a-84cc-5173db8aff32
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: ebbb2cde-0942-5768-8a05-6e042e55c87a
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.6'
 ---
 data:
   dates:

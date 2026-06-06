@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00183
+  identifier: '00183'
   localized_concepts:
     eng: b07b5c7e-d458-5171-afc2-fbda4827297b
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 16c5cc17-531e-5915-a7f6-ba1f3dc5d9f5
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '1.2'
 ---
 data:
   dates:

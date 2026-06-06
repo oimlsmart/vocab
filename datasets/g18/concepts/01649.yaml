@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 01649
+  identifier: '01649'
   localized_concepts:
     eng: a837b606-e2de-5550-9463-103a49f5501d
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 75be862a-e038-5588-a554-1d8a599b421f
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.5'
 ---
 data:
   dates:

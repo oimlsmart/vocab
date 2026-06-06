@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00452'
   localized_concepts:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 6b741087-35b9-524b-bea5-ccb79a593653
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.5'
 ---
 data:
   dates:

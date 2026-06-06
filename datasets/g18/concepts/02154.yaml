@@ -1,3 +1,4 @@
+---
 data:
   identifier: '02154'
   localized_concepts:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: dfd8064c-a5c2-5836-84eb-c4b4cfedb5a8
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.5'
 ---
 data:
   dates:

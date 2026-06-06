@@ -1,21 +1,27 @@
+---
 data:
-  identifier: 00584
-  localized_concepts:
-    eng: 12283422-5d37-52ec-bd91-6abfd8e452a0
-  sources:
-  - origin:
-      ref:
-        source: OIML R051-1:2006
-    locality:
-      type: clause
-      reference_from: T.2.7
-    type: authoritative
   domains:
   - concept_id: section-R051-1
     ref_type: section
-status: valid
+  identifier: '00584'
+  localized_concepts:
+    eng: 12283422-5d37-52ec-bd91-6abfd8e452a0
+  sources:
+  - locality:
+      reference_from: T.2.7
+      type: clause
+    origin:
+      ref:
+        source: OIML R051-1:2006
+    type: authoritative
 id: 8eb60bde-7e54-5b8a-983b-5c45c7c3e8d5
 schema_version: '3'
+status: valid
+related:
+- ref:
+    id: '4.04'
+    source: urn:oiml:pub:v:1:2022
+  type: see
 ---
 data:
   dates:

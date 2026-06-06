@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00738
+  identifier: '00738'
   localized_concepts:
     eng: 83651579-4eb5-5f19-9fee-8b59c1a85d3d
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: c631ca48-8afa-5806-ad8a-e6b4c8447e5b
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.27'
 ---
 data:
   dates:

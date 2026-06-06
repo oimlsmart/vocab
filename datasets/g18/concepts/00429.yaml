@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00429
+  identifier: '00429'
   localized_concepts:
     eng: dd429787-f21f-5fc1-a8d7-621d7afe680c
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 4cb3f176-694c-53ba-9c81-88b89a01d30e
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.24'
 ---
 data:
   dates:

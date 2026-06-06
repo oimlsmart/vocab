@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 01967
+  identifier: '01967'
   localized_concepts:
     eng: 3daa2332-b83e-54af-bb80-cb0bed700779
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: dd34df31-70f9-5e1b-afc6-f01669f01aff
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '2.7'
 ---
 data:
   dates:

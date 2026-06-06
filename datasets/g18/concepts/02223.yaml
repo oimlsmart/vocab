@@ -1,21 +1,27 @@
+---
 data:
+  domains:
+  - concept_id: section-D031
+    ref_type: section
   identifier: '02223'
   localized_concepts:
     eng: d7921471-e0d1-5cc5-861f-07b613fb40b9
   sources:
-  - origin:
+  - locality:
+      reference_from: 3.1.56
+      type: clause
+    origin:
       ref:
         source: OIML D031:2008
-    locality:
-      type: clause
-      reference_from: 3.1.56
     type: authoritative
-  domains:
-  - concept_id: section-D031
-    ref_type: section
-status: valid
 id: 4364dab9-7167-5bee-ba2f-a7d007c355da
 schema_version: '3'
+status: valid
+related:
+- ref:
+    id: '2.45'
+    source: urn:oiml:pub:v:2:2012
+  type: see
 ---
 data:
   dates:

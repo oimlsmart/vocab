@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00085
+  identifier: '00085'
   localized_concepts:
     eng: dd7e7b2f-c70f-5c74-84f5-d81ca0716da1
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: ffeb838b-8c3f-5a2d-881f-37e2e1badf0d
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:1:2000
+    id: '2.5'
 ---
 data:
   dates:

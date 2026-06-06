@@ -1,21 +1,27 @@
+---
 data:
-  identifier: 00901
-  localized_concepts:
-    eng: 453937e2-962f-541d-9e8b-8b614d3ade8e
-  sources:
-  - origin:
-      ref:
-        source: OIML R076-1:2006
-    locality:
-      type: clause
-      reference_from: T.2.2.5
-    type: authoritative
   domains:
   - concept_id: section-R076-1
     ref_type: section
-status: valid
+  identifier: '00901'
+  localized_concepts:
+    eng: 453937e2-962f-541d-9e8b-8b614d3ade8e
+  sources:
+  - locality:
+      reference_from: T.2.2.5
+      type: clause
+    origin:
+      ref:
+        source: OIML R076-1:2006
+    type: authoritative
 id: 83113bfd-5e7d-51cb-ad3a-bf0649544c46
 schema_version: '3'
+status: valid
+related:
+- ref:
+    id: '5.10'
+    source: urn:oiml:pub:v:1:2022
+  type: see
 ---
 data:
   dates:

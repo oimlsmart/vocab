@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 02092
+  identifier: '02092'
   localized_concepts:
     eng: 544da044-14ae-5ea6-ac7d-94aeec69baa7
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 708a791a-7779-5c37-8c4e-1332225ca021
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '2.7'
 ---
 data:
   dates:

@@ -1,21 +1,27 @@
+---
 data:
-  identifier: 00190
-  localized_concepts:
-    eng: 051f381a-8ae3-5324-8cc5-741e0c7f9d11
-  sources:
-  - origin:
-      ref:
-        source: OIML D009:2004
-    locality:
-      type: clause
-      reference_from: '2.8'
-    type: authoritative
   domains:
   - concept_id: section-D009
     ref_type: section
-status: valid
+  identifier: '00190'
+  localized_concepts:
+    eng: 051f381a-8ae3-5324-8cc5-741e0c7f9d11
+  sources:
+  - locality:
+      reference_from: '2.8'
+      type: clause
+    origin:
+      ref:
+        source: OIML D009:2004
+    type: authoritative
 id: 25b5ed48-e1f9-5cd3-a7c3-f6c6febf2849
 schema_version: '3'
+status: valid
+related:
+- ref:
+    id: A.11
+    source: urn:oiml:pub:v:1:2022
+  type: see
 ---
 data:
   dates:

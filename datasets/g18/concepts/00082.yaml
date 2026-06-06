@@ -1,21 +1,27 @@
+---
 data:
-  identifier: 00082
-  localized_concepts:
-    eng: 69db601e-7f29-5967-9452-870ade3f2ed4
-  sources:
-  - origin:
-      ref:
-        source: OIML B003:2003
-    locality:
-      type: clause
-      reference_from: '2.4'
-    type: authoritative
   domains:
   - concept_id: section-B003
     ref_type: section
-status: valid
+  identifier: '00082'
+  localized_concepts:
+    eng: 69db601e-7f29-5967-9452-870ade3f2ed4
+  sources:
+  - locality:
+      reference_from: '2.4'
+      type: clause
+    origin:
+      ref:
+        source: OIML B003:2003
+    type: authoritative
 id: 1384688d-d714-5cbf-8ed6-118ffebba355
 schema_version: '3'
+status: valid
+related:
+- ref:
+    id: '4.04'
+    source: urn:oiml:pub:v:1:2022
+  type: see
 ---
 data:
   dates:

@@ -1,5 +1,6 @@
+---
 data:
-  identifier: 00239
+  identifier: '00239'
   localized_concepts:
     eng: 48bbd503-ebfa-5f38-9777-2171b5edca9a
   sources:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: 13f3a2f5-198c-5a73-bd27-a3638c701ac5
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '5.5'
 ---
 data:
   dates:

@@ -1,7 +1,8 @@
+---
 data:
-  identifier: 00809
+  identifier: '00809'
   localized_concepts:
-    eng: 07718e59-4b24-5db2-a630-f462e1fb6938
+    eng: '07718e59-4b24-5db2-a630-f462e1fb6938'
   sources:
   - origin:
       ref:
@@ -16,6 +17,11 @@ data:
 status: valid
 id: e0fd3ca7-63d3-571d-85df-05f4b351ca91
 schema_version: '3'
+related:
+- type: see
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '2.7'
 ---
 data:
   dates:
