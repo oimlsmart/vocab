@@ -53,7 +53,7 @@ data:
   - content: valeur d'une grandeur servant de base de comparaison pour les valeurs
       de grandeurs de même nature
   examples:
-  - content: ', where a third concept might be ‘off-system measurement unit’. The
+  - content: ", where a third concept might be ‘off-system measurement unit’. The
       partitive relation (or part-whole relation) is also hierarchical and connects
       a comprehensive concept to two or more partitive concepts which fitted together
       constitute the parent concept. The diagrams show such relations as a rake or
@@ -82,7 +82,7 @@ data:
       Clause 4 around ‘metrological properties of a measuring instrument or measuring
       system’ Figure A.11  Concept diagram for part of Clause 4 around ‘operating
       condition’ Figure A.12  Concept diagram for part of Clause 5 around ‘measurement
-      standard’ (‘etalon’)'
+      standard’ (‘etalon’)"
   id: 5.18-fra
   language_code: fra
   notes:
@@ -91,25 +91,7 @@ data:
   - content: 'Une valeur de référence associée à son incertitude de mesure se rapporte
       généralement à : a) un matériau, par exemple un matériau de référence certifié,
       b) un dispositif, par exemple un laser stabilisé, c) une procédure de mesure
-      de référence, d) une comparaison d''étalons. Annex A (Informative) Concept diagrams
-      (This annex in English only) The 12 concept diagrams in this informative Annex
-      are intended to provide  a visual presentation of the relations between the
-      concepts defined and termed in the preceding chapters;  a possibility for checking
-      whether the definitions offer adequate relations;  a background for identifying
-      further needed concepts; and  a check that terms are sufficiently systematic.
-      It should be recalled, however, that a given concept may be describable by many
-      characteristics and only essential delimiting characteristics are included in
-      the definition. The area available on a page limits the number of concepts that
-      can be presented legibly, but all diagrams in principle are interrelated as
-      shown by some overlapping concepts with reference. The relations used are of
-      three types as defined by ISO 704 and ISO 1087-1. Two are hierarchical, i.e.
-      having superordinate and subordinate concepts, the third is non-hierarchical.
-      The hierarchical generic relation (or genus-species relation) connects a generic
-      concept and a specific concept; the latter inherits all characteristics of the
-      former. The diagrams show such relations as a tree, where a short branch with
-      three dots indicates that one or more other specific concepts exist, but are
-      not included for presentation and a heavy starting line of a tree shows a separate
-      terminological dimension. For'
+      de référence, d) une comparaison d''étalons.'
   terms:
   - type: expression
     normative_status: preferred

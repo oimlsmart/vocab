@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.13'
   localized_concepts:
@@ -18,12 +17,12 @@ data:
     type: accepted
   definition:
   - content: unit of measurement of a base quantity in a given system of quantities
-      NOTE ln any given coherent system of units there Is only one base unit for each
-      base quantIty.
   examples: []
   id: 1.13-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: ln any given coherent system of units there Is only one base unit for
+      each base quantIty.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,12 +37,12 @@ data:
     type: accepted
   definition:
   - content: unité de mesure d'une grandeur de base dans un système donné de grandeurs
-      NOTE Dans tout système d'unités cohérent, il y a une seule unité de base pour
-      chaque grandeur de base.
   examples: []
   id: 1.13-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Dans tout système d'unités cohérent, il y a une seule unité de base pour
+      chaque grandeur de base.
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.19'
   localized_concepts:
@@ -21,40 +20,11 @@ data:
   id: 4.19-eng
   language_code: eng
   notes:
-  - content: 2 et préambule du
-  - content: '3'
-  - content: '2'
-  - content: 3 étalons, chaîne de raccordement aux  6. î 0  note 2 étalons, raccordement
-      aux  6.10  note 3 instrument. constante d'un 5.8 instrument de mesure  4.1 et
-      préambule du chapitre 4 instrument de mesure, a1ustage d'un  4.30 instrument
-      de mesure, calibrage d'un 4.29 ,nstrument de mesure, erreu1 au point de contrôle
-      d'un 5.22 instrument de mesure, erreur à zéro d'un  5.23 instrument de mesure,
-      erreur d'indication d'un  5.20 instrument de mesure, erreur intrinsèque d'un  5.24
-      instrument de mesure, erreur de justesse d'un  5.25 instrument de mesure, erreur
-      réduite conventionnelle d'un 5.28 instrument de mesure, erreurs maximales tolérées
-      d'un 5.21 instrument de mesure, exactitude d'un 5.18 instrument de mesure, fidélité
-      d'un  5.27 instrument de mesure, Justesse d'un  5.26 instrument de mesure, indication
-      d'un  3.2 instrument de mesure, limites d'erreur tolérées  5.21 instrument de
-      mesure, réglage d'un  4.31 intégrateur, appareil de mesure  4.9 international,
-      étalon 6.2 international, Système, d'unités, SI 1.12 intervalle de mesure 5.2
-      intrinsèque, erreur, d'un instrument de mesure  5.24 J justesse, erreur de,
-      d'un instrument de mesure  5.25 justesse d'un instrument de mesure  5.26 L mesure,
-      erreur de 3.10
-  - content: 2 mesure, étendue de  5.4 mesure, exactitude de 3.5 mesure, exactitude
-      d'un instrument de 5.18 mesure, incertitude de 3.9 mesure, indication d'un instrument
-      de 3.2
-  - content: 2 et préambule du chapitre 4 mesure, instrument de  4. î et préambule
-      du chapitre 4 mesure, instrument de, ajustage d'un  4.30 mesure, instrument
-      de, calibrage d'un  4.29 mesure, instrument de, erreur à zéro d'un  5.23 mesure,
-      instrument de, erreur d'indication d'un  5.20 mesure, instrument de, erreur
-      intrinsèque d'un  5.24 mesure, instrument de, erreur de justesse d'un  5.25
-      mesure, instrument de, erreur au point de contrôle d'un 5.22 mesure, instrument
-      de, erreur réduite conventionnelle d'un 5.28 mesure, instrument de, erreurs
-      maximales tolérées d'un 5.21 mesure, instrument de, exactitude d'un  5.18 mesure,
-      instrument de, fidélité d'un  5.27 mesure, instrument de, Justesse d'un  5.25
-      mesure, instrument de, limites d'erreur tolérées d'un 5.21 mesure, instrument
-      de, réglage d'un 4.31 mesure, intervalle de 5.2 limites, conditions 5.6 mesure
-      matérialisée mesure, méthode de 4.2 et préambule du chapitre 4
+  - content: For an analogue display this may be called the scale range.
+  - content: The range of indications is expressed in the units marked on the display,
+      regardless of the units of the measurand, and is normally stated in terms of
+      its lower and upper limits, for example, 100°C to 200°C.
+  - content: See 5.2 Note.
   terms:
   - type: expression
     normative_status: preferred
@@ -74,10 +44,10 @@ data:
   language_code: fra
   notes:
   - content: Pour un affichage analogique, cet ensemble peut être appelé étendue d'échelle.
-      2  L'étendue des indications est exprimée en unité de l'affichage, quelle que
-      soit l'unité du mesurande, et est normalement spécifiée par ses limites inférieure
-      et supérieure, par exemple, 100 °Cà 200 °C.
-  - content: de 5.2.
+  - content: L'étendue des indications est exprimée en unité de l'affichage, quelle
+      que soit l'unité du mesurande, et est normalement spécifiée par ses limites
+      inférieure et supérieure, par exemple, 100°C à 200°C.
+  - content: Voir note de 5.2.
   terms:
   - type: expression
     normative_status: preferred

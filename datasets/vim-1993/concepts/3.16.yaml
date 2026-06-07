@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.16'
   localized_concepts:
@@ -18,12 +17,13 @@ data:
     type: accepted
   definition:
   - content: numerical factor by which the uncorrected result of a measurement is
-      multiplied to compensate for systematic error NOTE Since the systematic  error
-      cannot  be known perfectly, the compensation cannot be complete.
+      multiplied to compensate for systematic error
   examples: []
   id: 3.16-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: Since the systematic  error cannot  be known perfectly, the compensation
+      cannot be complete.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,18 +38,13 @@ data:
     type: accepted
   definition:
   - content: facteur numérique par lequel on multiplie le résultat brut d'un mesurage
-      pour compenser une erreur systématique NOTE Puisque l'erreur systématique ne
-      peut pas être connue parfaitement, la compensation ne peut pas être complète.
-      Many different terms are employed to describe the artefacts which are used in
-      measurement. This  Vocabulary  defines  only  a  selection  of preferred  terms;  the  following  list  is  more
-      complete and is arranged in an approximate order of increasing complexity. These
-      terms are not mutually exclusive. element component part measuring transducer
-      measuring device reference material material measure measuring instrument apparatus
-      equipment measuring chain measuring system measuring installation
+      pour compenser une erreur systématique
   examples: []
   id: 3.16-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Puisque l'erreur systématique ne peut pas être connue parfaitement, la
+      compensation ne peut pas être complète
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.4'
   localized_concepts:
@@ -64,62 +63,8 @@ data:
   id: 2.4-fra
   language_code: fra
   notes:
-  - content: méthode de zéro  2.4  note métrologie  2.2 mobilité, seuil de  5.11 mode
-      opératoire  2.5  note mode opératoire de mesure  2.5 morte, zone  5.13 moyenne,
-      écart-type expérimental de la  3.8  note 2 moyenne, erreur de la  3.8  note
-      3 M R, matériau de référence  6.13 M RC, matériau de référence certifié 6.14
-      multiple d'une unité de mesure  1.16 N national, étalon 6.3
-  - content: 2 nominale, valeur  5.3 non-linéaire, échelle 4.24
-  - content: 1 et 4.7 note 1
-  - content: 2 numérique, appareil de mesure à affichage  4.11 numérique, valeur,
-      d'une grandeur  1.21 0
-  - content: opératoire, mode, de mesure 2.5 p
-  - content: 1 partie  préambule du chapitre 4 point de contrôle d'un instrument de
-      mesure, erreur au 5.22
-  - content: 2 primaire, étalon  6.4 principe de mesure  2.3 Q quadratique, échelle
-      4.24 note R raccordement aux étalons  6.10  note 3 raccordement aux étalons,
-      chaîne de  6.10  note 2 rapport d'étalonnage  6.11  note 3 réduite, erreur,
-      conventionnelle d'un instrument de mesure  5.28 référence, conditions de  5.7
-      référence, étalon de  6.6 référence, étendues de  5.7  note référence, matériau
-      de, (MR)  6.13 et préambule du chapitre 4 référence, matériau de, certifié (MRC)  6.14
-      référence, valeur de  1.20  note 1 référence, valeurs de  5.7  note réglage
-      d'un instrument de mesure 4.31 régulière, échelle 4.23 note relative, erreur  3.12
-      repérage, échelle de  1.22 repères  4.17 répétabilité des résultats de mesurage  3.6
-      répétabilité, conditions de  3.6  note 1 réponse  2.8  note et préambule du
-      chapitre 5 réponse, temps de  5.17 reproductibilité des résultats de mesurage
-      3.7 résolution d'un dispositif afficheur  5.12 résultat brut 3.3 résultat corrigé
-      3.4 résultat d'un mesurage 3.1 résultats, répétabilité des, de mesurage  3.6
-      résultats, reproductibilité des, de mesurage  3.7 s sans dimension, grandeur  1.6
-      secondaire, étalon 6.5
-  - content: 3 sensibilité 5.10
-  - content: '2'
-  - content: 1 seuil de mobilité  5.11 SI, Système international d'unités  1.12 signal
-      de mesure  2.8 sous-multiple d'une unité de mesure  1.17 stimulus  2.8  note
-      et préambule du chapitre 5 substitution, méthode de  2.4  note symboles de grandeurs  1.1  note
-      4 symbole d'une unité de mesure  1.8 systématique, erreur  3.14 système cohérent
-      d'unités de mesure  1.11 système de grandeurs  1.2 Système international d'unités
-      SI 1.12 système de mesure 4.5 et préambule du chapitre 4 système d'unités de
-      mesure 1.9 système, unité de mesure hors 1.15 T temps de réponse 5.17 tolérées,
-      erreurs maximales, d'un instrument de mesure  5.21 tolérées, limites d'erreur,
-      d'un instrument de mesure  5.21 totalisateur, appareil de mesure 4.8 traçabilité  6.10
-  - content: 1 transducteur de mesure  4.3 et préambule du chapitre 4 transfert, caractéristique
-      de  5.9
-  - content: transfert, étalon de  6.8 transformée, valeur, d'un mesurande  2.9 travail,
-      étalon de  6.7 u un, grandeur de dimension  1.6 unité de mesure  1.7 unité de
-      mesure dérivée cohérente  1.10 unité de mesure de base  1.13 unité de mesure
-      dérivée 1.14 unité de mesure hors système  1.15 unité de mesure, multiple d'une  1.16
-      unité de mesure, sous-multiple d'une  1.17 unité de mesure, symbole d'une  1.8
-      unités de mesure, système d' 1.9 unités de mesure, système cohérent d'  1.11
-      unités, Système international d', SI  1.12 V
-  - content: 2 valeur assignée  1.20  note 1 valeur conventionnelle 5.28 note valeur
-      conventionnellement vraie d'une grandeur  1.20 valeur convenue  1.20  note 1
-      valeur d'une division d'échelle  4.22 valeur d'une grandeur  1.18 valeur nominale
-      5.3 valeur numérique d'une grandeur  1.21 valeur de référence  1.20  note 1
-      valeur transformée d'un mesurande  2.9 valeur vraie d'une grandeur  1.19 valeurs
-      assignées  5.5  note valeurs de référence  5.7  note z zéro décalé, échelle
-      à 4.25 voyageur, étalon 6.9 vraie, valeur conventionnellement, d'une grandeur  1.20
-      vraie, valeur, d'une grandeur  1.19 zéro, erreur à, d'un instrument de mesure  5.23
-      zéro, méthode de  2.4  note zone morte 5.13 Metrology 1993                                                                 59
+  - content: 'La méthode de mesure peut être qualifiée de diverses façons telles que:
+      méthode de substitution, méthode différentielle, méthode de zéro.'
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.11'
   localized_concepts:
@@ -38,12 +37,13 @@ data:
     type: accepted
   definition:
   - content: appareil de mesure qui fournit un signal de sortie ou un affichage sous
-      forme numérique NOTE Ce terme se rattache à la forme de présentation des signaux
-      de sortie ou de l'affichage, non au principe de fonctionnement de l'instrument
+      forme numérique
   examples: []
   id: 4.11-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Ce terme se rattache à la forme de présentation des signaux de sortie
+      ou de l'affichage, non au principe de fonctionnement de l'instrument
   terms:
   - type: expression
     normative_status: preferred

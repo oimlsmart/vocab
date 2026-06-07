@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.12'
   localized_concepts:
@@ -18,12 +17,13 @@ data:
     type: accepted
   definition:
   - content: set of operations necessary to preserve the metrological characteristics
-      of a measurement standard within appropriate limits NOTE The  operations  commonly  include  penodic
-      calibration, storage under suitable conditions and care in use.
+      of a measurement standard within appropriate limits
   examples: []
   id: 6.12-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The  operations  commonly  include  penodic calibration, storage under
+      suitable conditions and care in use.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,13 +38,13 @@ data:
     type: accepted
   definition:
   - content: ensemble des opérations nécessaires à la pré-servation  des  caractéristiques
-      métrologiques d'un étalon dans des limites convenables NOTE Les opérations comprennent  habituellement
-      un étalonnage  périodique,  un stockage  dans  des conditions appropriées et
-      des précautions iors de l'utilisation.
+      métrologiques d'un étalon dans des limites convenables
   examples: []
   id: 6.12-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Les opérations comprennent  habituellement un étalonnage  périodique,  un
+      stockage  dans  des conditions appropriées et des précautions iors de l'utilisation.
   terms:
   - type: expression
     normative_status: preferred

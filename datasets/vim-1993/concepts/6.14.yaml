@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.14'
   localized_concepts:
@@ -26,38 +25,25 @@ data:
   id: 6.14-eng
   language_code: eng
   notes:
-  - content: 'The definition of a "reference material certificate" is given in 4.2*.
-      CRMs are generally prepared in batches for which the property  values  are  determined  within  stated
-      uncertainty  limits  by  measurements  on  samples representative of the whole
-      oatch. The certified propert,es of cert:fied reference materials are sometimes
-      conveniently and rel1ably real1zed when the material is incorporatea Into a
-      specia:ty fabricated device, e.g. a substance of known tri;:;le-po1nt into a
-      triple-point cell, a g,ass of known optical densIty Into a transmission filter,
-      spheres of uniform particie sIze mounted on a microscope slide. Such dev,ces
-      may aiso be cons1dered as CRMs. Ali CRMs lie within tr,e defin1tion of "measurement
-      standards" or "etalons" given In the ''''International Vocabulary of basic and
-      general terms in metrology (VIM)". Sorne RMs and CRMs have properties which,
-      because they cannot be correlated wIth an established chemical structure or
-      for other reasons, cannot be determined by exactly defined physical and chemical
-      measurement methods.  Such materials  ;nclude  certain  biological materials
-      such as vaccines to which an International unit  has  been  ass1gned  by  the  World  Health
-      Organization. CRMs are generally prepared in batches for which the property  values  are  determined  within  stated
-      uncertainty  limits  by  measurements  on  samples representative of the whole
-      oatch. The certified propert,es of cert:fied reference materials are sometimes
-      conveniently and rel1ably real1zed when the material is incorporatea Into a
-      specia:ty fabricated device, e.g. a substance of known tri;:;le-po1nt into a
-      triple-point cell, a g,ass of known optical densIty Into a transmission filter,
-      spheres of uniform particie sIze mounted on a microscope slide. Such dev,ces
-      may aiso be cons1dered as CRMs. Ali CRMs lie within tr,e defin1tion of "measurement
-      standards" or "etalons" given In the ''''International Vocabulary of basic and
-      general terms in metrology (VIM)". Sorne RMs and CRMs have properties which,
-      because they cannot be correlated wIth an established chemical structure or
-      for other reasons, cannot be determined by exactly defined physical and chemical
-      measurement methods.  Such materials  ;nclude  certain  biological materials
-      such as vaccines to which an International unit  has  been  ass1gned  by  the  World  Health
-      Organization. This definition, including the Notes, rs taken from ISO Guide
-      30:1992. "''  The term "Reference r:1atena: ce1tifica:e" ment1or:td in Note
-      1 above Is Qiven in ISO Gurde 3C î 992'
+  - content: The definition of a "reference material certificate" is given in 4.2*.
+  - content: CRMs are generally prepared in batches for which the property values
+      are determined within stated uncertainty limits by measurements on samples representative
+      of the whole batch.
+  - content: The certified properties of certified reference materials are sometimes
+      conveniently and reliably realized when the material is incorporated into a
+      specially fabricated device, e.g. a substance of known triple-point into a triple-point
+      cell, a glass of known optical density into a transmission filter, spheres of
+      uniform particle size mounted on a microscope slide. Such devices may also be
+      considered as CRMs.
+  - content: All CRMs lie within the definition of "measurement standards" or "etalons"
+      given in the "International Vocabulary of basic and general terms in metrology
+      (VIM)".
+  - content: Some RMs and CRMs have properties which, because they cannot be correlated
+      with an established chemical structure or for other reasons, cannot be determined
+      by exactly defined physical and chemical measurement methods. Such materials
+      include certain biological materials such as vaccines to which an International
+      unit has been assigned by the World Health Organization.
+  - content: This definition, including the Notes, is taken from ISO Guide 30:1992.
   terms:
   - type: expression
     normative_status: preferred
@@ -80,211 +66,27 @@ data:
   id: 6.14-fra
   language_code: fra
   notes:
-  - content: 'La définition d''un «certificat de matériau de référence)} est donnée
-      en 4.2*. Les MRC sont en général préparés en lots dont les valeurs de propriété
-      sont déterminées, dans les limites d''incertitude indiquées, par des mesurages
-      sur des échantillons représentatifs du lot entier. Les propriétés certifiées
-      de matériaux de référence sont parfois commodément  et f1ablement réalisées
-      lo:sque le matériau est incorpore dans un dispositif fabriqué spécialement,
-      par exemple une substance dont le point triple est connu dans une cellule triple
-      point; un verre de densité optique connue dans un filtre de transmission; des
-      sphères à granulométrie uniforme montées  sur  une  lame  de  microscope.  De  tels
-      dispositifs peuvent également être considérés comme des MRC. Tous les MRC répondent
-      à la définition "des étalons,, donnée dans le "Vocabulaire international des
-      termes fondamentaux et généraux de métrologie (VIM),,_ Certains MR et MRC ont
-      des propriétés qui, parce qu''elles ne peuvent être rapportées à une structure
-      chimique établie, ou pour d''autres raisons, ne peuvent être  déterminées  par  des  méthodes  de  mesure
-      physiques et chimiques exactement définies. De tels matériaux comprennent certains
-      matériaux biologiques tels que des vaccins auxquels une unité internationale
-      a été attribuée par l''Organisation mondiale de la santé. Les MRC sont en général
-      préparés en lots dont les valeurs de propriété sont déterminées, dans les limites
-      d''incertitude indiquées, par des mesurages sur des échantillons représentatifs
-      du lot entier. Les propriétés certifiées de matériaux de référence sont parfois
-      commodément  et f1ablement réalisées lo:sque le matériau est incorpore dans
-      un dispositif fabriqué spécialement, par exemple une substance dont le point
-      triple est connu dans une cellule triple point; un verre de densité optique
-      connue dans un filtre de transmission; des sphères à granulométrie uniforme
-      montées  sur  une  lame  de  microscope.  De  tels dispositifs peuvent également
-      être considérés comme des MRC. Tous les MRC répondent à la définition "des étalons,,
-      donnée dans le "Vocabulaire international des termes fondamentaux et généraux
-      de métrologie (VIM),,_ Certains MR et MRC ont des propriétés qui, parce qu''elles
-      ne peuvent être rapportées à une structure chimique établie, ou pour d''autres
-      raisons, ne peuvent être  déterminées  par  des  méthodes  de  mesure physiques
-      et chimiques exactement définies. De tels matériaux comprennent certains matériaux
-      biologiques tels que des vaccins auxquels une unité internationale a été attribuée
-      par l''Organisation mondiale de la santé. Cette définition (y compris les notes)
-      est extraite du Guide ISO 30 1992. ''  Le terrne «certificat de maténau de référence))
-      mentionné dans la nore 1 c,-dessus es1 donné dê!ns le Guide ISO 30:1992. BIPM:
-      The International System of Units, SI. ISO 31, Ouantities and units - Parts
-      0 BIPM: The International System of Units, SI. ISO 31, Ouantities and units
-      - Parts 0 to 13. [3]  ISO 1000:1992, SI units and recommen-dations for the use
-      of their multiples and of certain other units. 14]  ISO Guide 30:1992, Terms
-      and definitions used in connection with reference ma-terials. [51  ISO 3534:1993,
-      Statistics - Vocabulary and symbols - Part 1: Probability and general statistical
-      terms. IEC Publication 50: International Electro-technical Vocabulary - Chapters
-      111, 1 51,301, 302 and 303. OIML: Vocabulary of Legal Metrology. IUPAP:  Symbols,  Units,  Nomenclature
-      and Fundamental Constants in Physics. Document 1.U.P.A.P.-25 (SUNAMCO 87-1).
-      IUPAC: Ouantities, Units and Symbols in Physical Chemistry. IEC Publication
-      50: International Electro- technical Vocabulary - Chapters 111, 1 51, 301, 302
-      and 303. OIML: Vocabulary of Legal Metrology. IUPAP:  Symbols,  Units,  Nomenclature
-      and Fundamental Constants in Physics. Document 1.U.P.A.P.-25 (SUNAMCO 87-1).
-      IUPAC: Ouantities, Units and Symbols in Physical Chemistry. [1O] Guide to the
-      expression of uncertainty in measurement. [Published by ISO in the name of BIPM,
-      IEC, IFCC, IUPAC, IUPAP and OIML.l [11] IFCC/IUPAC:  Approved  recommendation
-      (1978).  Ouantities  and  units  in  clinical chemistry. Clin Chim Acta 1979:96:
-      157F-83F. 11]  BIPM: Le Système international d''unités, SI. ISO 31, Grandeurs
-      et unités - Parties 0à 13. ISO 1000:1992, Unités SI et recomman-dations pour
-      l''emploi de leurs multiples et de certaines autres unités. Guide ISO 30:1992,
-      Termes et définitions utilisés en rapport avec les matériaux de référence. ISO
-      3534:1993, Statistique - Vocabulaire et symboles - Partie 1: Probabilité et
-      termes statistiques généraux. CEi Publication 50: Vocabulaire  Électro-technique
-      International -  Chapitres 111, 151, 301, 302 et 303. ISO 31, Grandeurs et unités
-      - Parties 0 à 13. ISO 1000:1992, Unités SI et recomman-dations pour l''emploi
-      de leurs multiples et de certaines autres unités. Guide ISO 30:1992, Termes
-      et définitions utilisés en rapport avec les matériaux de référence. ISO 3534:1993,
-      Statistique - Vocabulaire et symboles - Partie 1: Probabilité et termes statistiques
-      généraux. CEi Publication 50: Vocabulaire  Électro-technique International -  Chapitres
-      111, 151, 301, 302 et 303. [71  OIML: Vocabulaire de métrologie légale. IUPAP
-      (UIPPA}: Symbols, Units, Nomencla-ture and Fundamental Constants in Physics.
-      Document I.U.P.A.P.-25 (SUNAMCO 87-1). IUPAC  (UICPA):  Ouantities,  Units  and
-      Symbols in Physical Chemistry. IUPAP (UIPPA}: Symbols, Units, Nomencla-ture
-      and Fundamental Constants in Physics. Document I.U.P.A.P.-25 (SUNAMCO 87-1).
-      IUPAC  (UICPA):  Ouantities,  Units  and Symbols in Physical Chemistry. [1Ol
-      Guide pour l''expression de l''incertitude de mesure. [Publié par l''ISO au
-      nom du BIPM, de la CEi, de la FICC, de l''OIML, de l''UICPA et de l''UIPPA.]
-      [î 1] IFCC/IUPAC (FICC/UICPA): Approved rec-ommendation (1978). Ouantities and
-      units in  clinical  chemistry.  Clin  Chim  Acta 1979:96:157F-83F. A absolute
-      error of measurement  3.10  Note 2 absolute value of error  3.10  Note 2 accuracy
-      class  5.19 accuracy of measurement 3.5 accuracy of a measuring instrument  5.18
-      adjustment of a measuring instrument  4.30 adjustment, user, of a measuring
-      instrument  4.31 analogue  4.6  Note 1  &  4.7  Note analogue display  4.12  Note
-      2 analogue indicating instrument  4.10 analogue measuring instrument  4.10 apparatus  Ch
-      4: Preamble'
-  - content: 1 B band, dead 5.13 base quantity 1.3
-  - content: 1 bias, freedom from, of a measuring instrument  5.26 bias of a measuring
-      instrument  5.25 C calibration 6.11
-  - content: 3 calibration report  6.11  Note 3 categories of quantities  1. î  Note
-      3 certificate, calibration  6.11  Note 3 certified reference material (CRM)  6.14
-  - content: '2 characteristic, response 5.9 check standard 6.7 Ï''fote 2 class, accuracy  5.19
-      class index  5.19  Note coherent derived unit of measurement  1 .10 coherent
-      system of units of measurement  1.11 collective standard  6.1  Note 1 component  Ch
-      4: Preamble conditions, limiting  5.6 conditions, rated operating  5.5 conditions,
-      reference  5.7 conditions, repeatability  3.6  Note 1 conservation of a measurement
-      standard  6.12 constant, instrument  5.8 conventional reference scale  1.22
-      conventional true value of a quantity 1.20'
-  - content: 1 corrected result 3.4 correction 3.15 correction factor 3.16 D datum
-      error of a measuring instrument  5.22 dead band  5.13 derived quantity 1.4 derived
-      unit of measurement  1.14
-  - content: 1 detector 4.15 deviation 3.11 deviation, experimental standard 3.8
-  - content: 2 deviation, standard, experimental 3.8 device, displaying 4.12 device,
-      displaying, resolution of a 5.12 device, indicating 4.12
-  - content: '4'
-  - content: dial  4.27 differential method 2.4 Note
-  - content: 1  &  4.7  Note 1 digital display  4.12  Note 2 digital indicating instrument  4.11
-      digital measuring instrument  4.11 dimension one, quantity of  1.6 dimension
-      of a quantity  1.5 dimensionless quantity  1.6
-  - content: 1 discrimination threshold 5.11
-  - content: '2'
-  - content: '2'
-  - content: '3 displaying device 4.12 displaying device, resolution of a  5.12 displaying
-      measuring instrument  4.6 division, scale  4.20 drift 5.16 E element  Ch 4:
-      Preamble equipment  Ch 4: Preamble instrument, measuring, indicating  4.6 instrument,
-      measuring, indication of a  3.2 instrument, measuring, integrating  4.9 instrument,
-      measuring, intrinsic error of a  5.24'
-  - content: 2 error, datum, of a measuring instrument  5.22 error, fiducial, of a
-      measuring instrument  5.28 error of indication of a measuring instrument  5.20
-      error, intrinsic, of a measuring instrument  5.24 error, maximum permissible,
-      of a measuring instrument 5.21
-  - content: 3 error of measurement  3.10
-  - content: 2 error, relative 3.12 error of a measuring instrument, limits of permissible  5.21
-      error, random 3.13 error, systematic 3.14
-  - content: 1 etalon 6.1 expanded scaie 4.26 experimental standard deviation  3.8
-      experimental standard dev,ation of the mean  3.8
-  - content: 2 F factor, correction 3.16 fiducial error of a measuring instrument  5.28
-      fiducial value  5.28  Note freedom from bias of a measuring instrument  5.26
-      G
-  - content: 2 index 4.16
-  - content: indicating device  4.12 indicating instrument, analogue  4.10 indicating
-      instrument, digital  4. î 1 indicating measuring instrument  4.6 indication,
-      direct  3.2  Note 1 indication, error of, of a measuring instrument  5.20 indication
-      of a measuring instrument  3.2 indication, range of  4.19 influence quantity
-      2.7
-  - content: '2  &  Ch 4: Preamble instrument.analogue indicating 4.10 instrument
-      constant  5.8 instrument, digital indicating  4.11 instrument, accuracy of a
-      measuring  5.18 instrument, analogue measuring  4.10 instrument, digital measuring  4.11
-      instrument, measuring  4.1  &  Ch 4: Preamble instrument, measuring, adjustment
-      of a  4.30 instrument, measuring, bias of a  5.25 instrument, measuring, datum
-      error of a  5.22 instrument, measuring, displaying  4.6 instrument, measuring,
-      error of indication of a  5.20 instrument. measuring, fiducial error of a  5.28
-      instrument, measuring, freedom from bias of a  5.26 instrument, measuring, gauging
-      of a  4.29 instrument, measuring, limits of permissible error ofa  5.21 instrument,
-      measuring, maximum permissible errors of a  5.21 instrument, measuring, recording  4.7
-      instrument, measuring, repeatability of a  5.27 instrument, measuring, scale
-      of a  4.17 instrument, measuring, totalizing  4.8 instrument, measuring, user
-      adjustment of a  4.31 instrument, measuring, zero error of a  5.23 integra1ing
-      measuring instrument  4.9 international measurement standard  6.2 interr,ational
-      System of Units, Si  1.12 interval, scale  4.22 intrinsic error of a measuring
-      instrument  5.24 K kind, quantities of the same  .l  �✓ote 2 L length, scaie
-      4.18'
-  - content: '1 iimiting conditions 5.6 limits of permissible error of a measuring
-      instrument  5.21 linear scale 4.23 logarithmic scale 4.24 Note M mark, scale
-      4.17 Note material measure  4.2  &  Ch 4: Preamble material, reference (RM)  6.13  &  Ch
-      4: Preamble materia!, reference, certified (CRM)  6.14 maximum permissibie errors
-      of a measuring instrument  5.21'
-  - content: '2 mean, standard error of the  3.8  t''>lote 3 measurable quantity  1.1
-      measurand 2.6 measurand, transformed value of a  2.9 measure, material  4.2  &  Ch
-      4: Preamble measurement  2.1'
-  - content: '2 measurement accuracy of  3.5 measurement, base unit of  1.13 measurement,
-      coherent derived unit of  1.10 measurement, coherent system of units of  1.11
-      measurement derived unit of  1.14 measurement, error of  3.10 measurement method  2.5  Note
-      measurement, method of  2.4 measurement, multiple of a unit of  1.16 measurement,
-      off-system unit of  1.15 measurement, principle of  2.3 measurement procedure  2.5
-      measurement, result of a  3. î measurement signai  2.8 measurement standard
-      6.1 measurement standard, conservation of a  6.12 measurement standard, international  6.2
-      measurement standard, national  6.3 measurement, submultiple of a unit of  1.17
-      measurement, symbol of a unit of  1.8 measurement, system of units of  1.9 measurement,
-      uncertainty of  3.9 measurement, unit of  1.7 measurements, repeatability of
-      results of  3.6 measurements, reproducibility of results of  3.7 measuring chain  4.4  &  Ch
-      4: Preamble measuring device  Ch 4: Preamble measuring installation  4.5  Note
-      2  &  Ch 4: Preamble measuring instrument  4.1  &  Ch 4: Preamble measuring
-      instrument, accuracy of a  5.18 measuring instrument, adjustment of a 4.30 measuring
-      instrument, analogue  4.10 measuring instrument, bias of a 5.25 measuring instrument,
-      datum error of a  5.22 measuring instrument, digital 4.11 measuring instrument,
-      displaying  4.6 measuring instrument, error of indication of a  5.20 measuring
-      instrument, fiducial error of a  5.28 measuring instrument, freedom from bias
-      of a  5.26 measuring instrument, gauging of a  4.29 measuring instrument, indicating  4.6
-      measuring instrument, indication of a  3.2 measuring instrument, integrating  4.9
-      measuring instrument, intrinsic error of a  5.24 measuring instrument, limits
-      of permissible error of a 5.21 measuring instrument, maximum permissible errors
-      ofa  5.21 measuring instrument, recording  4.7 measuring instrument, repeatability
-      of a  5.27 measuring instrument, scale of a  4.17 measuring instrument, totalizing  4.8
-      measuring instrument, user adjustment of a  4.31 measuring instrument, zero
-      error of a  5.23 measuring range  5.4 measuring system  4.5  &  Ch 4: Preamble
-      measuring transducer  4.3  &  Ch 4: Preamble method, differential  2.4  Note
-      method, measurement  2.5  Note method of measurement  2.4 method, nul!  2.4  Note'
-  - content: metrology 2.2 multiple of a unit of measurement  1.16 N national measurement
-      standard  6.3 nominal range  5.1 nominal value 5.3
-  - content: numbering, scale  4.28 numerical value of a quantity 1.21
-  - content: 1 permissible errors, maximum, of a measuring instrument  5.21 permissible
-      error of a measuring instrument, limits of  5.21
-  - content: 2 primary standard  6.4 principle of measurment  2.3 procedure, measurement  2.5
-      Q quantity, base 1.3 quantity, conventional true value of a  1.20 quantity,
-      derived  1.4 quantity, dimension of a  1.5 quantity of dimension one  1.6 quantity,
-      dimensionless  1.6 quantity, influence 2.7 quantity, measurable 1.1 quantity,
-      numerical value of a  1 .21 quantity, particular  1.1  Note 1 quantity, supplied  4.2  Note
-      quantity, true value of a  1.19 quantity, value of a  î .18
-  - content: 3 quantities of the same kind  1.1  Note 2 quantities, symbols for  1.1  Note
-      4 quantities, system of  1.2 R random error 3.13 range 5.2 Note range of indication
-      4. î 9 range, measuring 5.4 range, nominal 5.1
-  - content: 'range, scale  4.19  Note 1 range, working 5.4 rated operating conditions  5.5
-      rated values  5.5  Note readout device  4.12  Note 4 recording device 4.13 recording
-      measuring instrument  4.7 reference conditions  5.7 reference material (RM)  6.13  &  Ch
-      4: Preamble reference material, certified (CRM)  6.14 reference ranges  5.7  �fote
-      reference scale, conventional  1.22 reference standard  6.6'
-  - content: 1 reference-value scale  1.22 reference values  5.7  Note regular scale  4.23  Note
-      relative error  3. î 2 0 off-system unit of measurement  1.15 repeatability
-      conditions  3.6  Note 1 repeatability of a measuring instrument repeatabiiity
-      of results of measurements
+  - content: La définition d'un «certificat de matériau de référence» est donnée en
+      4.2*.
+  - content: Les MRC sont en général préparés en lots dont les valeurs de propriété
+      sont déterminées, dans les limites d'incertitude indiquées, par des mesurages
+      sur des échantillons représentatifs du lot entier.
+  - content: Les propriétés certifiées de matériaux de référence sont parfois commodément
+      et fiablement réalisées lorsque le matériau est incorporé dans un dispositif
+      fabriqué spécialement, par exemple une substance dont le point triple est connu
+      dans une cellule triple point; un verre de densité optique connue dans un filtre
+      de transmission; des sphères à granulométrie uniforme montées sur une lame de
+      microscope. De tels dispositifs peuvent également être considérés comme des
+      MRC.
+  - content: Tous les MRC répondent à la définition «des étalons» donnée dans le «Vocabulaire
+      international des termes fondamentaux et généraux de métrologie (VIM)».
+  - content: Certains MR et MRC ont des propriétés qui, parce qu'elles ne peuvent
+      être rapportées à une structure chimique établie, ou pour d'autres raisons,
+      ne peuvent être déterminées par des méthodes de mesure physiques et chimiques
+      exactement définies. De tels matériaux comprennent certains matériaux biologiques
+      tels que des vaccins auxquels une unité internationale a été attribuée par l'Organisation
+      mondiale de la santé.
+  - content: Cette définition (y compris les notes) est extraite du Guide ISO 30:1992.
   terms:
   - type: expression
     normative_status: preferred

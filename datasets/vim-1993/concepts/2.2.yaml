@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.2'
   localized_concepts:
@@ -17,13 +16,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: science of measurement NOTE Metrology 1ncludes ail aspects both theoret1oa1
-      and pr;,ctical  with  reference  to  measuremems, whatever their uncertainty,
-      and 1n whatever fields of science or technology they occur
+  - content: science of measurement
   examples: []
   id: 2.2-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: Metrology 1ncludes ail aspects both theoret1oa1 and pr;,ctical  with  reference  to  measuremems,
+      whatever their uncertainty, and 1n whatever fields of science or technology
+      they occur
   terms:
   - type: expression
     normative_status: preferred
@@ -37,13 +37,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: science de la mesure NOTE La métrologie embrasse tous les aspects aussi
-      bien théoriques que pratiques se rapportant aux mesurages, quelie que soit l'incertitude
-      de ceux-ci, aans quelque aoma1ne de la science et de la technologie que ce soit.
+  - content: science de la mesure
   examples: []
   id: 2.2-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: La métrologie embrasse tous les aspects aussi bien théoriques que pratiques
+      se rapportant aux mesurages, quelie que soit l'incertitude de ceux-ci, aans
+      quelque aoma1ne de la science et de la technologie que ce soit.
   terms:
   - type: expression
     normative_status: preferred

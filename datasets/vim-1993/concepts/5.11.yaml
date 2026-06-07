@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.11'
   localized_concepts:
@@ -19,13 +18,13 @@ data:
   definition:
   - content: largest change in a stimulus that produces no detectable  change  in  the  response  of  a
       measuring  instrument,  the  change  in  the stimulus taking place slowly and
-      monotonically NOTE The discrimination threshold may depend on, for example,
-      noise (internai or external) or friction. lt may also depend on the value of
-      the stimulus.
+      monotonically
   examples: []
   id: 5.11-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The discrimination threshold may depend on, for example, noise (internai
+      or external) or friction. lt may also depend on the value of the stimulus.
   terms:
   - type: expression
     normative_status: preferred
@@ -41,13 +40,13 @@ data:
   definition:
   - content: variation la plus grande du signal d'entrée qui ne provoque pas de variation  détectable  de
       la réponse d'un instrument de mesure, la variation du signal d'entrée étant
-      lente et monotone NOTE Le seuil de mobilité peut dépendre, par exemple, du bruit
-      (interne ou externe) ou du frottement; il peut aussi dépendre de la valeur du
-      signal d'entrée.
+      lente et monotone
   examples: []
   id: 5.11-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Le seuil de mobilité peut dépendre, par exemple, du bruit (interne ou
+      externe) ou du frottement; il peut aussi dépendre de la valeur du signal d'entrée.
   terms:
   - type: expression
     normative_status: preferred

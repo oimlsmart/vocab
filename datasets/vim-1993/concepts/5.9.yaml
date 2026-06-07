@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.9'
   localized_concepts:
@@ -18,9 +17,10 @@ data:
     type: accepted
   definition:
   - content: relationship  between  a  stimulus  and  the corresponding response,
-      for defined conditions EXAMPLE  the e.m.f. (electromotive force) of a thermo-couple
-      as a function of temperature.
-  examples: []
+      for defined conditions
+  examples:
+  - content: the e.m.f. (electromotive force) of a thermo-couple as a function of
+      temperature.
   id: 5.9-eng
   language_code: eng
   notes:

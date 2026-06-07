@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.27'
   localized_concepts:
@@ -18,12 +17,13 @@ data:
     type: accepted
   definition:
   - content: fixed or moving part of a displaying device that carries the scale or
-      scales NOTE ln some displaying dev1ces the dial takes the form of drums or dises
-      beanng numbers and mov1ng relative to a fixed index or window.
+      scales
   examples: []
   id: 4.27-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: ln some displaying dev1ces the dial takes the form of drums or dises
+      beanng numbers and mov1ng relative to a fixed index or window.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,13 +38,13 @@ data:
     type: accepted
   definition:
   - content: partie fixe ou mobile d'un dispositif d'affichage qui porte la ou les
-      échelles NOTE Dans certains dispositifs d'affichage, le cadran prend la forme
-      de rouleaux ou de disques chiffrés se déplaçant par rapport à un index fixe
-      ou à une fenêtre.
+      échelles
   examples: []
   id: 4.27-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Dans certains dispositifs d'affichage, le cadran prend la forme de rouleaux
+      ou de disques chiffrés se déplaçant par rapport à un index fixe ou à une fenêtre.
   terms:
   - type: expression
     normative_status: preferred

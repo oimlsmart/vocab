@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.14'
   localized_concepts:
@@ -38,14 +37,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'unité de mesure d''une grandeur dérivée dans un système donné de grandeurs
-      NOTE Pour certaines unités dérivées, il existe des noms et des symboles spéciaux;
-      par exemple, dans le SI: Grandeur Unité SI dérivée Nom Symbole force energie
-      pression newton JOUie pascal N j Pa'
+  - content: unité de mesure d'une grandeur dérivée dans un système donné de grandeurs
   examples: []
   id: 1.14-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: 'Pour certaines unités dérivées, il existe des noms et des symboles spéciaux;
+      par exemple, dans le SI: Grandeur Unité SI dérivée Nom Symbole force energie
+      pression newton JOUie pascal N j Pa'
   terms:
   - type: expression
     normative_status: preferred

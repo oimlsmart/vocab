@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.25'
   localized_concepts:
@@ -17,13 +16,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: systematic error of the indication of a measuring instrument NOTE The
-      bias of a measuring instrument 1s normally est1mated by averaging the error
-      of indication over an appropriate number of repeated measurements.
+  - content: systematic error of the indication of a measuring instrument
   examples: []
   id: 5.25-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The bias of a measuring instrument 1s normally est1mated by averaging
+      the error of indication over an appropriate number of repeated measurements.
   terms:
   - type: expression
     normative_status: preferred
@@ -37,13 +36,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: erreur systématique d'indication d'un instrument de mesure NOTE L'erreur
-      de justesse est normalement estimée en prenant la moyenne de l'erreur d'indication
-      sur un nombre approprié d'observations répétées.
+  - content: erreur systématique d'indication d'un instrument de mesure
   examples: []
   id: 5.25-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: L'erreur de justesse est normalement estimée en prenant la moyenne de
+      l'erreur d'indication sur un nombre approprié d'observations répétées.
   terms:
   - type: expression
     normative_status: preferred
