@@ -16,8 +16,8 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: MENTS DE MESURAGE Instruction se rapportant à la méthode imposée pour
-      vérifier certains instruments de mesurage.
+  - content: Instruction se rapportant à la méthode imposée pour vérifier
+      certains instruments de mesurage.
   examples: []
   id: 3.1.4-fra
   notes: []
@@ -25,7 +25,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Instruction relative à la vérification
+    designation: Instruction relative à la vérification de certains instruments de mesurage
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'

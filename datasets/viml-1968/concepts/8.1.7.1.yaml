@@ -24,7 +24,7 @@ data:
   examples: []
   id: 8.1.7.1-fra
   notes:
-  - content: 1. La valeur s calculée d'après cette définition est en fait une estimation
+  - content: La valeur s calculée d'après cette définition est en fait une estimation
       de l'écart moyen quadratique apparent car, d'une part on calcule s d'après des
       données expérimentales et d'autre part les différences $(x_i - \overline{x})$
       représentent les erreurs absolues apparentes.

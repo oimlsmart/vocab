@@ -16,11 +16,13 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: Ensemble d'opérations effectuées par un organisme du Service national
-      de métrologie légale (ou bien par un autre organisme légalement autorisé) ayant
-      pour but de constater et d'affirmer que l'instrument de mesurage satisfait entièrement
-      aux exigences des règlements sur la vérification. La vérification comprend l'examen
-      et le poinçonnage.
+  - content: |-
+      Ensemble d'opérations effectuées par un organisme du Service national de
+      métrologie légale (ou bien par un autre organisme légalement autorisé)
+      ayant pour but de constater et d'affirmer que l'instrument de mesurage
+      satisfait entièrement aux exigences des règlements sur la vérification.
+
+      La vérification comprend l'examen et le poinçonnage.
   examples: []
   id: 2.4-fra
   notes: []

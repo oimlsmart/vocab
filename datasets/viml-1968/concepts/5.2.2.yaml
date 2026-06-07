@@ -23,7 +23,11 @@ data:
       sa masse et de ses dimensions géométriques, mesurage do la résistivité d''un
       conducteur en se basant sur les mesurages de sa résistance, de sa longueur et
       de la surface de sa section.'
-  examples: []
+  examples:
+  - content: mesurage de la masse volumique d’un corps en se basant sur les mesurages
+      de sa masse et de ses dimensions géométriques
+  - content: mesurage de la résistivité d’un conducteur en se basant sur les mesurages
+      de sa résistance, de sa longueur et de la surface de sa section
   id: 5.2.2-fra
   notes: []
   sources: []

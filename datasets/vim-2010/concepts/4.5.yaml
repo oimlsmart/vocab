@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.5'
   localized_concepts:
@@ -25,11 +26,12 @@ data:
       of a nominal indication interval
   examples:
   - content: For a nominal indication interval of −10 V to +10 V, the range of the
-      nominal indication interval is 20 V. Note Range of a nominal indication interval
-      is sometimes termed “span of a nominal interval”.
+      nominal indication interval is 20 V
   id: 4.5-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: Note Range of a nominal indication interval is sometimes termed “span
+      of a nominal interval”.
   terms:
   - type: expression
     normative_status: preferred
@@ -47,12 +49,13 @@ data:
       nominal des indications
   examples:
   - content: Pour un intervalle nominal des indications de –10 V à +10 V, l'étendue
-      de mesure est 20 V. Note En anglais, l'étendue de mesure est quelquefois dénommée
-      « span of a nominal interval ». En français, le terme « intervalle de mesure
-      » est parfois improprement employé.
+      de mesure est 20 V
   id: 4.5-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Note En anglais, l'étendue de mesure est quelquefois dénommée « span
+      of a nominal interval ». En français, le terme « intervalle de mesure » est
+      parfois improprement employé.
   terms:
   - type: expression
     normative_status: preferred

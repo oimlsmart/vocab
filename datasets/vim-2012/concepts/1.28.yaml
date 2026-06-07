@@ -1,7 +1,8 @@
+---
 data:
   identifier: '1.28'
   localized_concepts:
-    eng: 00841b9c-a0cb-4a8b-8075-6b5da0e13a95
+    eng: '00841b9c-a0cb-4a8b-8075-6b5da0e13a95'
     fra: e7d12d4e-aa69-44b6-93fd-753d51a9f845
   domains:
   - concept_id: section-1
@@ -21,7 +22,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{quantity-value scale,1.27}} for {{ordinal quantities,1.26}}'
+  - content: "{{quantity-value scale,1.27}} for {{ordinal quantities,1.26}}"
   examples:
   - content: Rockwell C hardness scale.
   - content: Scale of octane numbers for petroleum fuel.
@@ -39,21 +40,20 @@ data:
     designation: ordinal value scale
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 00841b9c-a0cb-4a8b-8075-6b5da0e13a95
+id: '00841b9c-a0cb-4a8b-8075-6b5da0e13a95'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{échelle de valeurs,1.27}} pour {{grandeurs ordinales,1.26}}'
-  examples: []
+  - content: "{{échelle de valeurs,1.27}} pour {{grandeurs ordinales,1.26}}"
+  examples:
+  - content: EXEMPLE 1 Échelle de dureté C de Rockwell.
+  - content: EXEMPLE 2 Échelle des indices d'octane pour les carburants.
   id: 1.28-fra
   language_code: fra
   notes:
-  - content: 'EXEMPLE 1 Échelle de dureté C de Rockwell.
-
-      EXEMPLE 2 Échelle des indices d''octane pour les carburants.'
   - content: Une échelle ordinale peut être établie par des {{mesurages,2.1}} conformément
       à une {{procédure de mesure,2.6}}.
   terms:

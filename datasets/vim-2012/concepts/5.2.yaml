@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.2'
   localized_concepts:
@@ -21,8 +22,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement standard,5.1}} recognized by signatories to an international
-      agreement and intended to serve worldwide'
+  - content: "{{measurement standard,5.1}} recognized by signatories to an international
+      agreement and intended to serve worldwide"
   examples:
   - content: The international prototype of the kilogram.
   - content: Chorionic gonadotrophin, World Health Organization (WHO) 4th international
@@ -46,22 +47,18 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{étalon,5.1}} reconnu par les signataires d''un accord international
-      pour une utilisation mondiale'
-  examples: []
+  - content: "{{étalon,5.1}} reconnu par les signataires d'un accord international
+      pour une utilisation mondiale"
+  examples:
+  - content: EXEMPLE 1 Le prototype international du kilogramme.
+  - content: EXEMPLE 2 Gonadotrophine chorionique, 4e étalon international de l'Organisation
+      mondiale de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule.
+  - content: |-
+      EXEMPLE 3 Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence internationale pour l'énergie atomique (AIEA) pour des {{mesurages,2.1}} de rapports molaires différentiels
+       relatif d'isotopes stables.
   id: 5.2-fra
   language_code: fra
-  notes:
-  - content: 'EXEMPLE 1 Le prototype international du kilogramme.
-
-      EXEMPLE 2 Gonadotrophine chorionique, 4e étalon international de l''Organisation
-      mondiale de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule.
-
-      EXEMPLE 3 Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par
-      l''Agence internationale pour l''énergie atomique (AIEA) pour des {{mesurages,2.1}}
-      de rapports molaires différentiels
-
-       relatif d''isotopes stables.'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred

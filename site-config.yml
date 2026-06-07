@@ -91,6 +91,34 @@ pages:
       source: about-fra.md
 defaults:
   language: eng
+datasetTranslations:
+  viml-2022:
+    fra:
+      description: Édition actuelle comprenant 135 termes répartis en 8 sections couvrant la métrologie de base, les aspects juridiques, les activités, les documents et marques, la classification des instruments, la construction et le fonctionnement, les logiciels et l'évaluation de conformité.
+  viml-2013:
+    fra:
+      description: Remplacée par l'édition 2022. 135 termes répartis en 8 sections couvrant les concepts de base, les activités de métrologie légale, les documents et marques, la classification des instruments, la construction et le fonctionnement, les logiciels en métrologie légale et l'évaluation de conformité.
+  viml-2000:
+    fra:
+      description: Remplacée par l'édition 2013. 44 termes répartis en 4 sections couvrant les termes de base en métrologie légale, les activités, les documents et marques, ainsi que les unités et instruments de mesure.
+  viml-1968:
+    fra:
+      description: Première édition, en français uniquement. 276 termes répartis en 10 sections couvrant la métrologie, la métrologie légale, les activités, les documents et marques, les grandeurs et unités, les mesurages, les instruments de mesure et les étalons, la construction des instruments, les erreurs, et les conditions d'emploi et qualités métrologiques. Jeu de données issu d'une OCR contenant des erreurs typographiques.
+  vim-2012:
+    fra:
+      description: Édition actuelle comprenant 144 concepts répartis en 5 chapitres couvrant les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons.
+  vim-2010:
+    fra:
+      description: Remplacée par l'édition 2012. 143 concepts répartis en 5 chapitres avec des définitions corrigées couvrant les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons.
+  vim-2007:
+    fra:
+      description: Remplacée par l'édition 2010. 143 concepts répartis en 5 chapitres couvrant les grandeurs et unités, les mesurages, les dispositifs de mesure, les propriétés des dispositifs de mesure et les étalons.
+  vim-1993:
+    fra:
+      description: Remplacée par l'édition 2007. 120 concepts répartis en 6 chapitres couvrant les grandeurs et unités, les mesurages, les résultats de mesure, les instruments de mesure, les caractéristiques des instruments de mesure et les étalons.
+  g18:
+    fra:
+      description: Liste alphabétique des termes définis dans les Recommandations et Documents OIML — 2132 termes issus de 88 publications sources.
 copyright: OIML
 datasetGroups:
 - id: viml

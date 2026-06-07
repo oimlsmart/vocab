@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.27'
   localized_concepts:
@@ -54,15 +55,13 @@ data:
   - content: ensemble ordonné de {{valeurs,1.19}} de {{grandeurs,1.1}} d'une {{nature,1.2}}
       donnée, utilisé pour classer des grandeurs de cette nature en ordre croissant
       ou décroissant de leurs expressions quantitatives
-  examples: []
+  examples:
+  - content: EXEMPLE 1 Échelle des températures Celsius.
+  - content: EXEMPLE 2 Échelle de temps.
+  - content: EXEMPLE 3 Échelle de dureté C de Rockwell.
   id: 1.27-fra
   language_code: fra
-  notes:
-  - content: 'EXEMPLE 1 Échelle des températures Celsius.
-
-      EXEMPLE 2 Échelle de temps.
-
-      EXEMPLE 3 Échelle de dureté C de Rockwell.'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred

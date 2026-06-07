@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.19'
   localized_concepts:
@@ -49,18 +50,16 @@ data:
   definition:
   - content: propriété d'un {{instrument de mesure,3.1}} selon laquelle celui-ci conserve
       ses propriétés métrologiques constantes au cours du temps
-  examples: []
+  examples:
+  - content: EXEMPLE 1 Par la durée d'un intervalle de temps au cours duquel une propriété
+      métrologique évolue d'une quantité donnée.
+  - content: EXEMPLE 2 Par la variation d'une propriété au cours d'un intervalle de
+      temps déterminé.
   id: 4.19-fra
   language_code: fra
   notes:
-  - content: 'La stabilité d''un instrument de mesure peut être exprimée quantitativement
+  - content: La stabilité d'un instrument de mesure peut être exprimée quantitativement
       de plusieurs façons.
-
-      EXEMPLE 1 Par la durée d''un intervalle de temps au cours duquel une propriété
-      métrologique évolue d''une quantité donnée.
-
-      EXEMPLE 2 Par la variation d''une propriété au cours d''un intervalle de temps
-      déterminé.'
   terms:
   - type: expression
     normative_status: preferred

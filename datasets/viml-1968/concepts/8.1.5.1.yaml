@@ -19,9 +19,12 @@ data:
   - content: Différence algébrique entre le résultat du mesurage et la valeur conventionnellement
       vraie (4.2.1.1.) de la grandeur mesurée.
   examples:
-  - content: Le résultat d'un mesurage est 10,1 mm ; al la valeur conventionnellement
-      vraie do la grandeur est 10,3 mm l'erreur absolue véritable est (10,1 — 10,3)
-      mm = — 0,2 mm.
+  - content: |-
+      Le résultat d'un mesurage est 10,1 mm ; al la valeur conventionnellement vraie do la grandeur est 10,3 mm l'erreur absolue véritable est (10,1:
+
+      * 10,3) mm =
+
+      * 0,2 mm.
   id: 8.1.5.1-fra
   notes: []
   sources: []

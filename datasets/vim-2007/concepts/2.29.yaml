@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.29'
   localized_concepts:
@@ -24,10 +25,11 @@ data:
       quantity values, • associated with the quantity value of a certified reference
       material, • obtained from a calibration certificate, • about drift, • obtained
       from the accuracy class of a verified measuring instrument, • obtained from
-      limits deduced through personal experience. Note See also GUM, 2.3.3.
+      limits deduced through personal experience
   id: 2.29-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: Note See also GUM, 2.3.3.
   terms:
   - type: expression
     normative_status: preferred
@@ -51,11 +53,11 @@ data:
       faisant autorité, • associés à la valeur d'un matériau de référence certifié,
       • obtenues à partir d'un certificat d'étalonnage, • concernant la dérive, •
       obtenues à partir de la classe d'exactitude d'un instrument de mesure vérifié,
-      • obtenues à partir de limites déduites de l'expérience personnelle. Note Voir
-      aussi le GUM, 2.3.3.
+      • obtenues à partir de limites déduites de l'expérience personnelle
   id: 2.29-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Note Voir aussi le GUM, 2.3.3.
   terms:
   - type: expression
     normative_status: preferred

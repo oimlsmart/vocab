@@ -16,12 +16,18 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'Organisme du Service national de métrologie légale dont le but est :
-      a) d''assurer une précision convenable aux étalons des bureaux locaux de vérification,
-      des bureaux de vérification ambulants et des centres de vérification sur un
-      territoire déterminé, b) de surveiller l''activité de ces bureaux, d''effectuer
-      la surveillance métrologique sur ce territoire, c) d''exécuter les vérifications
-      de certains instruments de mesurage qui lui sont réservées.'
+  - content: |-
+      Organisme du Service national de métrologie légale dont le but est :
+
+      . d'assurer une précision convenable aux étalons des bureaux locaux de
+      vérification, des bureaux de vérification ambulants et des centres de
+      vérification sur un territoire déterminé,
+
+      . de surveiller l'activité de ces bureaux, d'effectuer la surveillance
+      métrologique sur ce territoire,
+
+      . d'exécuter les vérifications de certains instruments de mesurage qui lui
+      sont réservées.
   examples: []
   id: 1.1.4-fra
   notes: []

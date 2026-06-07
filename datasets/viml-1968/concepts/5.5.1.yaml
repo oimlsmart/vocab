@@ -25,15 +25,15 @@ data:
   examples: []
   id: 5.5.1-fra
   notes:
-  - content: 1. On parle aussi de reproductibilité lorsque certains seulement des
-      facteurs énumérés cl-dessus sont différents lors des divers mesurages individuels,
-      ces facteurs doivent être bien précisés dans chaque cas particulier.
-  - content: 2. Le plus souvent, on estime la reproductibilité des mesurages d'après
+  - content: On parle aussi de reproductibilité lorsque certains seulement des facteurs
+      énumérés ci-dessus sont différents lors des divers mesurages individuels, ces
+      facteurs doivent être bien précisés dans chaque cas particulier.
+  - content: Le plus souvent, on estime la reproductibilité des mesurages d'après
       l'incertitude de mesurage. Par suite d'un plus grand nombre de sources d'erreurs
       fortuites, cette incertitude est en général plus grande que pour la détermination
       de la répétabilité d'un mesurage; la reproductibilité est inférieure à la répétabilité.
-  - content: 3. Les résultats des mesurages individuels doivent être corrigés des
-      erreurs systématiques.
+  - content: Les résultats des mesurages individuels doivent être corrigés des erreurs
+      systématiques.
   sources: []
   terms:
   - type: expression

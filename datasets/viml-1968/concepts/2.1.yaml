@@ -16,9 +16,15 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'Ensemble d''opérations comprenant : a) l''essai de modèles d''instruments
-      de mesurage en vue de leur approbation, b) la vérification ou l''étalonnage
-      d''instruments de mesurage, c) la surveillance métrologique.'
+  - content: |-
+      Ensemble d''opérations comprenant :
+
+      . l''essai de modèles d''instruments de mesurage en vue de leur
+      approbation,
+
+      . la vérification ou l''étalonnage d''instruments de mesurage,
+
+      . la surveillance métrologique.
   examples: []
   id: 2.1-fra
   notes: []

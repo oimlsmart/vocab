@@ -16,11 +16,14 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: Opération de contrôle que l'on exerce sur la fabrication, la mise en
-      service et la réparation des instruments de mesurage ou encore sur leur utilisation
-      pour s'assurer qu'ils sont utilisés correctement et loyalement. Elle s'étend
-      aussi au contrôle de la justesse des quantités indiquées sur les produits préparés
-      à l'avance.
+  - content: |-
+      Opération de contrôle que l'on exerce sur la fabrication, la mise en
+      service et la réparation des instruments de mesurage ou encore sur leur
+      utilisation pour s'assurer qu'ils sont utilisés correctement et
+      loyalement.
+
+      Elle s'étend aussi au contrôle de la justesse des quantités indiquées sur
+      les produits préparés à l'avance.
   examples: []
   id: 2.6-fra
   notes: []

@@ -22,13 +22,13 @@ data:
   examples: []
   id: 8.1.2-fra
   notes:
-  - content: 1. On ne peut pas tenir compte de l'erreur fortuite sous forme d'une
-      correction apportée au résultat brut du mesurage ; on peut seulement, à la fin
-      d'une série de mesurages exécutés dans des conditions pratiquement identiques
-      (à l'aide du même instrument de mesurage et par le même observateur, dans les
-      mêmes conditions d'amblance etc...), fixer les limites dans lesquelles so trouve,
-      avec une probabilité donnée, cette erreur.
-  - content: 2. On utilise aussi le terme « erreur accidentelle » ou « erreur aléatoire
+  - content: On ne peut pas tenir compte de l'erreur fortuite sous forme d'une correction
+      apportée au résultat brut du mesurage ; on peut seulement, à la fin d'une série
+      de mesurages exécutés dans des conditions pratiquement identiques (à l'aide
+      du même instrument de mesurage et par le même observateur, dans les mêmes conditions
+      d'amblance etc...), fixer les limites dans lesquelles so trouve, avec une probabilité
+      donnée, cette erreur.
+  - content: On utilise aussi le terme « erreur accidentelle » ou « erreur aléatoire
       ».
   sources: []
   terms:

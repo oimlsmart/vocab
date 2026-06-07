@@ -21,10 +21,12 @@ data:
       limite de fidélité, l''autre, en retranchant de l''erreur de justesse la valeur
       absolue de l''erreur limite de fidélité.'
   examples:
-  - content: Dans l'exemple relatif aux points 9.5.1 et 9.6.4, les erreurs limites
-      de précision ayant une probabilité 99,73 % de ne pas être dépassées sont égales
-      à (— 0,08 ± 0,51) $ \mu A $ c'est-à-dire — 0,59 $ \mu A $ et + 0,43 $ \mu A.
-      $
+  - content: |-
+      Dans l'exemple relatif aux points 9.5.1 et 9.6.4, les erreurs limites de précision ayant une probabilité 99,73 % de ne pas être dépassées sont égales à (:
+
+      * 0,08 ± 0,51) $ \mu A $ c'est-à-dire
+
+      * 0,59 $ \mu A $ et + 0,43 $ \mu A. $
   id: 9.10.2-fra
   notes:
   - content: Pour les besoins de la métrologie légale, on définit les erreurs limites

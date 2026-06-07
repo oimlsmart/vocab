@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.1'
   localized_concepts:
@@ -35,8 +36,8 @@ data:
       measurement uncertainty of 0.006.
   - content: Set of reference solutions of cortisol in human serum having a certified
       quantity value with measurement uncertainty for each solution.
-  - content: '{{Reference material,5.13}} providing quantity values with measurement
-      uncertainties for the mass concentration of each of ten different proteins.'
+  - content: "{{Reference material,5.13}} providing quantity values with measurement
+      uncertainties for the mass concentration of each of ten different proteins."
   id: 5.1-eng
   language_code: eng
   notes:
@@ -96,29 +97,24 @@ data:
   - content: réalisation de la définition d'une {{grandeur,1.1}} donnée, avec une
       {{valeur,1.19}} déterminée et une {{incertitude de mesure,2.26}} associée, utilisée
       comme référence
-  examples: []
+  examples:
+  - content: EXEMPLE 1 Étalon de masse de 1 kg avec une {{incertitude-type,2.30}}
+      associée de 3 µg.
+  - content: EXEMPLE 2 Résistance étalon de 100 Ω avec une incertitude-type associée
+      de 1 µΩ.
+  - content: EXEMPLE 3 Étalon de fréquence à césium avec une incertitude-type associée
+      de 2 · 10–15.
+  - content: |-
+      EXEMPLE 4 Solution tampon de référence ayant un pH de 7,072 avec une incertitude-type associée de 0,006.
+       
+  - content: EXEMPLE 5 Série de solutions de référence de cortisol dans du sérum humain,
+      dont chaque solution a une valeur certifiée avec une incertitude de mesure.
+  - content: EXEMPLE 6 {{Matériau de référence,5.13}} fournissant des valeurs avec
+      les incertitudes de mesure associées pour la concentration en masse de dix protéines
+      différentes.
   id: 5.1-fra
   language_code: fra
   notes:
-  - content: 'EXEMPLE 1 Étalon de masse de 1 kg avec une {{incertitude-type,2.30}}
-      associée de 3 µg.
-
-      EXEMPLE 2 Résistance étalon de 100 Ω avec une incertitude-type associée de 1
-      µΩ.
-
-      EXEMPLE 3 Étalon de fréquence à césium avec une incertitude-type associée de
-      2 · 10–15.
-
-      EXEMPLE 4 Solution tampon de référence ayant un pH de 7,072 avec une incertitude-type
-      associée de 0,006.
-
-       
-
-      EXEMPLE 5 Série de solutions de référence de cortisol dans du sérum humain,
-      dont chaque solution a une valeur certifiée avec une incertitude de mesure.
-
-      EXEMPLE 6 {{Matériau de référence,5.13}} fournissant des valeurs avec les incertitudes
-      de mesure associées pour la concentration en masse de dix protéines différentes.'
   - content: La «réalisation de la définition d'une grandeur donnée» peut être fournie
       par un {{système de mesure,3.2}}, une {{mesure matérialisée,3.6}} ou un matériau
       de référence.

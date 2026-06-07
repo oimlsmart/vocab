@@ -22,9 +22,12 @@ data:
       entre deux nombres consécutifs. Généralement, l''interpolation d''une indication
       semi-numérique s''effectue au moyen d''une échelle supplémentaire à traits.
       Exemple : Indication du compteur 27832,4'
-  examples: []
+  examples:
+  - content: Indication du compteur 27832,4
   id: 7.4.5.1-fra
-  notes: []
+  notes:
+  - content: Généralement, l’interpolation d’une indication semi-numérique s’effectue
+      au moyen d’une échelle supplémentaire à traits.
   sources: []
   terms:
   - type: expression

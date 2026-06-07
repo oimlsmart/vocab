@@ -16,11 +16,14 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: Organisme du Service national de métrologie légale dont le but est de
-      vérifier les instruments de mesurage appartenant à des catégories déterminées
-      sur une portion du territoire de ce Service et d'effectuer une surveillance
-      métrologique ambulante. Il peut avoir un siège temporaire dans un bâtiment ou
-      se trouver dans un véhicule spécial.
+  - content: |-
+      Organisme du Service national de métrologie légale dont le but est de
+      vérifier les instruments de mesurage appartenant à des catégories
+      déterminées sur une portion du territoire de ce Service et d'effectuer une
+      surveillance métrologique ambulante.
+
+      Il peut avoir un siège temporaire dans un bâtiment ou se trouver dans un
+      véhicule spécial.
   examples: []
   id: 1.1.6-fra
   notes: []
