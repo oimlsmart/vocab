@@ -2,13 +2,13 @@
 data:
   identifier: '0.4'
   localized_concepts:
-    fra: 1729d467-acf3-4c3c-9d40-81b12c58afda
+    fra: b398a690-99a2-4da2-a786-e97e5986794b
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 127886bd-5778-49d3-9231-0fed353fbab4
+id: c264c19d-26af-4058-8921-e707b8061a10
 schema_version: '3'
 ---
 data:
@@ -31,4 +31,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 1729d467-acf3-4c3c-9d40-81b12c58afda
+id: b398a690-99a2-4da2-a786-e97e5986794b

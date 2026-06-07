@@ -2,13 +2,13 @@
 data:
   identifier: 5.2.5.3
   localized_concepts:
-    fra: a9a52c88-54da-4c19-a5ab-368125d9475c
+    fra: 4d634f3a-0ac1-4572-b3b5-ffc8f4fe5b81
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 56c55efc-f6b1-4f81-b633-1e167ce287bf
+id: 538771d1-3c63-4dbc-9e30-d22f9a4becfb
 schema_version: '3'
 ---
 data:
@@ -19,9 +19,9 @@ data:
   - content: Méthode de mesurage par comparaison dans laquelle la valeur de la grandeur
       mesurée est déterminée par la déviation d'un dispositif indicateur.
   examples:
-  - content: mesurage de la pression au moyen d'un manomètre à aiguille,
-  - content: mesurage d'une tension électrique au moyen d'un voltmètre à spot lumineux,
-  - content: mesurage d'une masse au moyen d'une balance à équilibre automatique.
+  - content: mesurage de la pression au moyen d'un manomètre à aiguille, mesurage
+      d'une tension électrique au moyen d'un voltmètre à spot lumineux, mesurage d'une
+      masse au moyen d'une balance à équilibre automatique.
   id: 5.2.5.3-fra
   notes: []
   sources: []
@@ -32,4 +32,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a9a52c88-54da-4c19-a5ab-368125d9475c
+id: 4d634f3a-0ac1-4572-b3b5-ffc8f4fe5b81

@@ -2,13 +2,13 @@
 data:
   identifier: '7.3'
   localized_concepts:
-    fra: e6887e33-d70b-4f5c-ab2f-a1290ea80cd9
+    fra: 673f5398-4211-4e45-8c5e-2283d87b5cf1
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 89d677a4-72d2-4917-9277-e867647945fe
+id: 863d9b8d-3f93-4f40-b9d8-d009a2bc787d
 schema_version: '3'
 ---
 data:
@@ -22,16 +22,12 @@ data:
   examples:
   - content: 'Le thermomètre thermoélectrique, avec un millivoltmètre comme organe
       indicateur, peut être présenté comme une suite d''éléments transducteurs suivants
-      :'
-  - content: thermocouple, transformant la température $T$ en une force électromotrice
-      $E$ fonction de $T$;
-  - content: élément transducteur sous forme d'un circuit électrique fermé ou sous
-      l'influence de la force électromotrice $E$ se produit le courant $I$ fonction
-      de $E$;
-  - content: système magnétoélectrique d'un millivoltmètre transformant le courant
-      $I$ en couple de rotation $M$ fonction de $I$ ;
-  - content: ressort transformant le couple de rotation $M$ en angle $\alpha$ fonction
-      de $M$.
+      : thermocouple, transformant la température $T$ en une force électromotrice
+      $E$ fonction de $T$; élément transducteur sous forme d''un circuit électrique
+      fermé ou sous l''influence de la force électromotrice $E$ se produit le courant
+      $I$ fonction de $E$; système magnétoélectrique d''un millivoltmètre transformant
+      le courant $I$ en couple de rotation $M$ fonction de $I$ ; ressort transformant
+      le couple de rotation $M$ en angle $\alpha$ fonction de $M$.'
   id: 7.3-fra
   notes: []
   sources: []
@@ -42,4 +38,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e6887e33-d70b-4f5c-ab2f-a1290ea80cd9
+id: 673f5398-4211-4e45-8c5e-2283d87b5cf1

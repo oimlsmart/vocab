@@ -2,13 +2,13 @@
 data:
   identifier: 7.4.2.1
   localized_concepts:
-    fra: ab0ca9cf-1e9d-4615-b6ae-165f0dc3f44c
+    fra: 1a9e42a8-ab56-4e36-91e5-d2c8798cfe59
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: fca5adf4-100f-44bd-b70e-361c976adf42
+id: cc554fad-841d-419d-966d-ae4d282f9f14
 schema_version: '3'
 ---
 data:
@@ -21,10 +21,9 @@ data:
   examples: []
   id: 7.4.2.1-fra
   notes:
-  - content: 1. Cortains instruments de mesurage peuvent avoir plusieurs étendues
-      partielles d'échelle,
-  - content: 'exemple : thermomètres à liquide avec élargissements locaux du tube
-      capillaire.'
+  - content: '1. Cortains instruments de mesurage peuvent avoir plusieurs étendues
+      partielles d''échelle, exemple : thermomètres à liquide avec élargissements
+      locaux du tube capillaire.'
   - content: 2. Dans les compteurs, l'étendue du dispositif indicateur remplace l'étendue
       de l'échelle.
   sources: []
@@ -35,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ab0ca9cf-1e9d-4615-b6ae-165f0dc3f44c
+id: 1a9e42a8-ab56-4e36-91e5-d2c8798cfe59

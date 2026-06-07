@@ -2,13 +2,13 @@
 data:
   identifier: 6.3.1
   localized_concepts:
-    fra: debbf10d-f0e9-42cb-a75d-380a69b1179f
+    fra: 92acd5a9-6bf7-45c8-991e-13d6734ec87b
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 4a371a8f-6389-4958-8d06-1ce96f0fdca0
+id: e262211c-8d97-4656-b5cd-db2724490c81
 schema_version: '3'
 ---
 data:
@@ -25,9 +25,8 @@ data:
   id: 6.3.1-fra
   notes:
   - content: Alors qu'une « installation de mesurage » est constituée par les moyens
-      nécessaires à un mesurage défini,
-  - content: "« l'équipement de mesurage » est un ensemble d'instruments ou d'installations
-      qui permettent d'effectuer des mesurages divers."
+      nécessaires à un mesurage défini, « l'équipement de mesurage » est un ensemble
+      d'instruments ou d'installations qui permettent d'effectuer des mesurages divers.
   sources: []
   terms:
   - type: expression
@@ -36,4 +35,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: debbf10d-f0e9-42cb-a75d-380a69b1179f
+id: 92acd5a9-6bf7-45c8-991e-13d6734ec87b

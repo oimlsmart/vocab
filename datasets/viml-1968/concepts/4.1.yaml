@@ -2,13 +2,13 @@
 data:
   identifier: '4.1'
   localized_concepts:
-    fra: f6e44ddd-a391-4788-a7ac-822daafd0e64
+    fra: e84b846e-ebec-4b3e-8395-3f05b4a192f3
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ab61437c-ac7e-496e-98c6-70c1a72a91cc
+id: 9de74379-e6fd-4e0a-bd75-6bc786ba8639
 schema_version: '3'
 ---
 data:
@@ -19,10 +19,9 @@ data:
   - content: Attribut d'un phénomène ou d'un corps qui est susceptible d'être distinguée
       qualitativement et déterminée quantitativement.
   examples:
-  - content: 'a) grandours dans un sens général :'
-  - content: longueur, temps, masse, température, dureté, résistance électrique
-  - content: 'b) grandeurs, dans un sens déterminé :'
-  - content: longueur d'une tige, résistance électrique d'un fil
+  - content: 'a) grandours dans un sens général : longueur, temps, masse, température,
+      dureté, résistance électrique b) grandeurs, dans un sens déterminé : longueur
+      d''une tige, résistance électrique d''un fil'
   id: 4.1-fra
   notes:
   - content: 1. Lo terme « grandeur » signifie aussl bien une grandeur avec la sens
@@ -37,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f6e44ddd-a391-4788-a7ac-822daafd0e64
+id: e84b846e-ebec-4b3e-8395-3f05b4a192f3

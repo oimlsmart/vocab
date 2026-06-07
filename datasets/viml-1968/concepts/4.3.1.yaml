@@ -2,13 +2,13 @@
 data:
   identifier: 4.3.1
   localized_concepts:
-    fra: 38228ffe-eb24-410c-8006-435cf46dfb0e
+    fra: a450497d-e3b0-4281-8286-db1572a61016
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 52ad48f4-6e95-4f4b-b518-9e41b277826c
+id: 9bf659ba-e65e-4526-afb0-6fc882f37a79
 schema_version: '3'
 ---
 data:
@@ -27,12 +27,11 @@ data:
   id: 4.3.1-fra
   notes:
   - content: Cette définition ne préjuge pas le nombre des grandeurs que l'on peut
-      admettre comme indépendantes.
-  - content: Elle ne répond pas non plus à la question de savoir si l'on peut admettre
-      une grandeur donnée comme grandeur de base lorsque certaines autres grandeurs
-      ont déjà été choisies comme telles car, si on a déjà accepté par exemple les
-      grandeurs de base longueur et temps, il n'est plus possible d'accepter la vitesse
-      linéaire comme grandeur independante.
+      admettre comme indépendantes. Elle ne répond pas non plus à la question de savoir
+      si l'on peut admettre une grandeur donnée comme grandeur de base lorsque certaines
+      autres grandeurs ont déjà été choisies comme telles car, si on a déjà accepté
+      par exemple les grandeurs de base longueur et temps, il n'est plus possible
+      d'accepter la vitesse linéaire comme grandeur independante.
   sources: []
   terms:
   - type: expression
@@ -41,4 +40,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 38228ffe-eb24-410c-8006-435cf46dfb0e
+id: a450497d-e3b0-4281-8286-db1572a61016

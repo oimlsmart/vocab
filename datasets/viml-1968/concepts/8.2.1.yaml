@@ -2,13 +2,13 @@
 data:
   identifier: 8.2.1
   localized_concepts:
-    fra: a8325f2f-8f59-4afa-82c2-c988a3def0fd
+    fra: 27d17c6b-e11d-4fc7-a720-91c95b94ec3b
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 26663358-a379-4a9b-9d26-c87659afc4ee
+id: b3bfa275-875a-40e7-8034-ea440267edb3
 schema_version: '3'
 ---
 data:
@@ -21,9 +21,8 @@ data:
       par la mesure matérielisée.
   examples:
   - content: 'Dans l''exemple relatif au point 8.2.5 : $ e_{i} = v_{n} - v_{c} = 1\,000\,\mathrm{ml}
-      - 1\,005\,\mathrm{ml} = -5\,\mathrm{ml} $'
-  - content: la dénomination est done trop petite par rapport à la valeur vraie de
-      la mesure.
+      - 1\,005\,\mathrm{ml} = -5\,\mathrm{ml} $ la dénomination est done trop petite
+      par rapport à la valeur vraie de la mesure.'
   id: 8.2.1-fra
   notes:
   - content: 1. Voir 5.3. remarque 1.
@@ -37,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a8325f2f-8f59-4afa-82c2-c988a3def0fd
+id: 27d17c6b-e11d-4fc7-a720-91c95b94ec3b

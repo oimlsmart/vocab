@@ -2,13 +2,13 @@
 data:
   identifier: 8.1.2
   localized_concepts:
-    fra: fa6dfd81-1759-48ec-9d9a-ea25cf208cd0
+    fra: dd1fac59-754b-4477-ae85-bf50ff987b0d
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 72dddf41-fbc1-449c-b8f1-2730edc78f4a
+id: 768d1516-ee25-44ca-ac62-1439eb0cf4d4
 schema_version: '3'
 ---
 data:
@@ -23,11 +23,11 @@ data:
   id: 8.1.2-fra
   notes:
   - content: 1. On ne peut pas tenir compte de l'erreur fortuite sous forme d'une
-      correction apportée au résultat brut du mesurage ;
-  - content: on peut seulement, à la fin d'une série de mesurages exécutés dans des
-      conditions pratiquement identiques (à l'aide du même instrument de mesurage
-      et par le même observateur, dans les mêmes conditions d'amblance etc...), fixer
-      les limites dans lesquelles so trouve, avec une probabilité donnée, cette erreur.
+      correction apportée au résultat brut du mesurage ; on peut seulement, à la fin
+      d'une série de mesurages exécutés dans des conditions pratiquement identiques
+      (à l'aide du même instrument de mesurage et par le même observateur, dans les
+      mêmes conditions d'amblance etc...), fixer les limites dans lesquelles so trouve,
+      avec une probabilité donnée, cette erreur.
   - content: 2. On utilise aussi le terme « erreur accidentelle » ou « erreur aléatoire
       ».
   sources: []
@@ -38,4 +38,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: fa6dfd81-1759-48ec-9d9a-ea25cf208cd0
+id: dd1fac59-754b-4477-ae85-bf50ff987b0d

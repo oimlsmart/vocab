@@ -2,13 +2,13 @@
 data:
   identifier: 6.1.3
   localized_concepts:
-    fra: 19f7ae27-79e9-4308-9920-e8cdd4d8c50e
+    fra: 24a08dd2-7019-49d7-8093-60f414c504cd
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c483f7a4-4251-461e-8265-ddfa593c7fcf
+id: e17365f4-07e8-4eae-8e78-056133912e1c
 schema_version: '3'
 ---
 data:
@@ -20,9 +20,8 @@ data:
       d'autres instruments).
   examples:
   - content: calbre usuel pour le contrôle des dimensions, balance du commerce, compteur
-      d'énergie électrique,
-  - content: machine d'essai des matériaux,
-  - content: instruments de mesurage pour le contrôle d'un processus de fabrication.
+      d'énergie électrique, machine d'essai des matériaux, instruments de mesurage
+      pour le contrôle d'un processus de fabrication.
   id: 6.1.3-fra
   notes: []
   sources: []
@@ -33,4 +32,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 19f7ae27-79e9-4308-9920-e8cdd4d8c50e
+id: 24a08dd2-7019-49d7-8093-60f414c504cd

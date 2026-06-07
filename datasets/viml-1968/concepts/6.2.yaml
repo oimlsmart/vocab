@@ -2,13 +2,13 @@
 data:
   identifier: '6.2'
   localized_concepts:
-    fra: b91eb6b0-8472-4075-9042-ca4aad5da7e3
+    fra: 883688a0-88f2-49d3-9604-b21f4bac6aa3
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 1cb46286-54d0-4791-b190-075c06763299
+id: 330d8c2b-53af-4082-81c1-93bbe46ca881
 schema_version: '3'
 ---
 data:
@@ -22,8 +22,7 @@ data:
       soit encore à changer la sensibilité ou l''étendue de mesurage d''un instrument.'
   examples:
   - content: amplificateur, loupe à lire les indications, thermostat pour vérifier
-      les thermomètres,
-  - content: pompe d'allimentation, dégazeur, limiteur de déblt d'une installation
+      les thermomètres, pompe d'allimentation, dégazeur, limiteur de déblt d'une installation
       de mesurage avec compteur de liquides.
   id: 6.2-fra
   notes:
@@ -37,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b91eb6b0-8472-4075-9042-ca4aad5da7e3
+id: 883688a0-88f2-49d3-9604-b21f4bac6aa3

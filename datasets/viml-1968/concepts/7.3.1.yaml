@@ -2,13 +2,13 @@
 data:
   identifier: 7.3.1
   localized_concepts:
-    fra: 90a9b8a3-325b-4e9d-82d0-048fb97f1c9e
+    fra: 60adf0d6-30d9-4c61-b7a3-0b0725c70b51
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: cd2881d1-8922-48fc-8c2b-f1d049f7c620
+id: b446d156-5d60-424e-8b74-dca2af390c95
 schema_version: '3'
 ---
 data:
@@ -19,8 +19,8 @@ data:
   - content: Élément d'un appareil mesureur servant à la prise d'informations relatives
       à la grandeur à mesurer.
   examples:
-  - content: thermocouple d'un thermomètre, organe déprimogène d'un débitmètre,
-  - content: tube Bourdon d'un manomètre, flotteur d'un apparcil mesureur de niveau.
+  - content: thermocouple d'un thermomètre, organe déprimogène d'un débitmètre, tube
+      Bourdon d'un manomètre, flotteur d'un apparcil mesureur de niveau.
   id: 7.3.1-fra
   notes:
   - content: Le capteur constitue en même temps le premier élément transducteur.
@@ -32,4 +32,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 90a9b8a3-325b-4e9d-82d0-048fb97f1c9e
+id: 60adf0d6-30d9-4c61-b7a3-0b0725c70b51

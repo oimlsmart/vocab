@@ -2,13 +2,13 @@
 data:
   identifier: 8.1.4.1
   localized_concepts:
-    fra: adcd6950-fa4d-49cd-a39c-83e15bfe72fb
+    fra: 897835a1-690c-452d-8594-a41f53b11bbf
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 394ccc61-a403-43b8-9391-4a85a41d69e3
+id: '02901fa8-d1a0-4188-a33c-5e9405301159'
 schema_version: '3'
 ---
 data:
@@ -19,20 +19,13 @@ data:
   - content: Partie de l'erreur du mesurage indirect d'une grandeur qui résultat de
       l'erreur commise sur une grandeur composante.
   examples:
-  - content: 'Dans les exemples du 8.1.4 les expressions :'
-  - content: "$$"
-  - content: "\\frac {\\partial F}{\\partial X _ {1}} \\Delta X _ {1}, \\frac {\\partial
-      F}{\\partial X _ {2}} \\Delta X _ {2}, \\dots \\frac {\\partial F}{\\partial
-      X _ {m}} \\Delta X _ {m}"
-  - content: "$$"
-  - content: 'on'
-  - content: "$$"
-  - content: "\\frac {\\partial F}{\\partial X _ {1}} s _ {1}, \\frac {\\partial F}{\\partial
-      X _ {2}} s _ {2}, \\dots \\frac {\\partial F}{\\partial X _ {m}} s _ {m}"
-  - content: "$$"
-  - content: représentent les erreurs systématiques partielles ou les écarts moyens
-      quadratiques partiels du mesurage direct des grandcurs $ X_{1}, X_{2} \dots
-      X_{m}. $
+  - content: 'Dans les exemples du 8.1.4 les expressions : $$ \frac {\partial F}{\partial
+      X _ {1}} \Delta X _ {1}, \frac {\partial F}{\partial X _ {2}} \Delta X _ {2},
+      \dots \frac {\partial F}{\partial X _ {m}} \Delta X _ {m} $$ on $$ \frac {\partial
+      F}{\partial X _ {1}} s _ {1}, \frac {\partial F}{\partial X _ {2}} s _ {2},
+      \dots \frac {\partial F}{\partial X _ {m}} s _ {m} $$ représentent les erreurs
+      systématiques partielles ou les écarts moyens quadratiques partiels du mesurage
+      direct des grandcurs $ X_{1}, X_{2} \dots X_{m}. $'
   id: 8.1.4.1-fra
   notes: []
   sources: []
@@ -43,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: adcd6950-fa4d-49cd-a39c-83e15bfe72fb
+id: 897835a1-690c-452d-8594-a41f53b11bbf

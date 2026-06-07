@@ -2,13 +2,13 @@
 data:
   identifier: 6.4.2
   localized_concepts:
-    fra: 1af78a9b-d499-4fe7-81e2-746678690aad
+    fra: '016682f1-d0c4-4e24-bfa8-64f0d66ad8f3'
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 1d477f9d-e1ea-4a79-af67-3476a0122d3c
+id: be4a4162-b46e-4dad-aad1-9c54a07f6789
 schema_version: '3'
 ---
 data:
@@ -18,10 +18,9 @@ data:
   definition:
   - content: Instrument de mesurage susceptible de remplir seul le rôle d'un étalon.
   examples:
-  - content: étalon en platine de 1 kg (cople de l'étalon international),
-  - content: étalon en fonte de fer de 1 kg pour la vérification des poids usuels,
-  - content: cale-étalon, interféromètre-étalon, manomètre-étalon,
-  - content: pile-étalon, ampèremètre-étalon.
+  - content: étalon en platine de 1 kg (cople de l'étalon international), étalon en
+      fonte de fer de 1 kg pour la vérification des poids usuels, cale-étalon, interféromètre-étalon,
+      manomètre-étalon, pile-étalon, ampèremètre-étalon.
   id: 6.4.2-fra
   notes: []
   sources: []
@@ -32,4 +31,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 1af78a9b-d499-4fe7-81e2-746678690aad
+id: '016682f1-d0c4-4e24-bfa8-64f0d66ad8f3'

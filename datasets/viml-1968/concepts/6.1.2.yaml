@@ -2,13 +2,13 @@
 data:
   identifier: 6.1.2
   localized_concepts:
-    fra: 3d2e8f0d-9e6c-4c00-bf49-efa0d5312e8d
+    fra: 73dadd6b-6aa5-4e94-ba66-96c0f4aa732c
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 67014d18-639d-4dd6-8275-8cdb59e52f57
+id: b2f8ce48-a6d2-43b2-9017-c1cbbee096f1
 schema_version: '3'
 ---
 data:
@@ -24,16 +24,15 @@ data:
       — compteur d'eau — balance.
   id: 6.1.2-fra
   notes:
-  - content: '1. L''apparell mesureur (parfois appelé apparell de mesure) peut :'
-  - content: 'soit indiquer directement la valeur de la grandeur mesurée : « appareil
-      à lecture directe » (par exemple : ampèremètre, manomètre à ressort...),'
-  - content: 'soit indiquer uniquement que la valeur de la grandeur mesurée est égale
-      à une valeur connue de cette même grandeur : « appareil de comparaison • (par
-      exemple : balance à fléau simple, galvanomètre de zéro...),'
-  - content: 'solt enfin permettre de mesurer une petite différence entre la valeur
-      de la grandeur mesurée et une valeur connue de cette même grandeur : « apparell
-      différentiel » (par exemple : indicateur optique d''un comparateur pour mesurer
-      des longueurs...),'
+  - content: '1. L''apparell mesureur (parfois appelé apparell de mesure) peut : soit
+      indiquer directement la valeur de la grandeur mesurée : « appareil à lecture
+      directe » (par exemple : ampèremètre, manomètre à ressort...), soit indiquer
+      uniquement que la valeur de la grandeur mesurée est égale à une valeur connue
+      de cette même grandeur : « appareil de comparaison • (par exemple : balance
+      à fléau simple, galvanomètre de zéro...), solt enfin permettre de mesurer une
+      petite différence entre la valeur de la grandeur mesurée et une valeur connue
+      de cette même grandeur : « apparell différentiel » (par exemple : indicateur
+      optique d''un comparateur pour mesurer des longueurs...),'
   - content: 2. La plupart des appareils mesureurs comportent une chaîne de mesurage
       (7.3.1) dans laquelle se produit la transformation de la grandeur mesurée en
       une grandeur perceptible par un observateur (longueur, angle, son, contraste
@@ -43,16 +42,14 @@ data:
       dosage, trilage, émission de signaux codés...)'
   - content: '4. Pour les appareils mesureurs destinés à mesurer certaines grandeurs
       définies on utilise, au lieu de la dénomination générale « appareil mesureur
-      », des dénominations spéciales :'
-  - content: 'les unes font apparaître le nom des grandeurs mesurées ou le nom des
-      unités de mesure employées (par exemple : manomètre, thermomètre, plantmètre,
-      voltmètre),'
-  - content: 'd''autres rappellent le principe de mesurage utilisé (par exemple :
-      comparateur) ou l''usage auquel l''apparec est dostlné (par exemple : dosimètre),'
-  - content: 'd''autres utilisent le nom de l''inventeur ou du constructeur (par exemple
-      : balance Roberval ou Béranger, tube de Pitot , Venturi, compteur de Geiger-Muller),'
-  - content: 'd''autres enfin reprennent la désignation commerciale choisie par le
-      fabricant (par exemple : rotamétre).'
+      », des dénominations spéciales : les unes font apparaître le nom des grandeurs
+      mesurées ou le nom des unités de mesure employées (par exemple : manomètre,
+      thermomètre, plantmètre, voltmètre), d''autres rappellent le principe de mesurage
+      utilisé (par exemple : comparateur) ou l''usage auquel l''apparec est dostlné
+      (par exemple : dosimètre), d''autres utilisent le nom de l''inventeur ou du
+      constructeur (par exemple : balance Roberval ou Béranger, tube de Pitot , Venturi,
+      compteur de Geiger-Muller), d''autres enfin reprennent la désignation commerciale
+      choisie par le fabricant (par exemple : rotamétre).'
   sources: []
   terms:
   - type: expression
@@ -70,4 +67,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3d2e8f0d-9e6c-4c00-bf49-efa0d5312e8d
+id: 73dadd6b-6aa5-4e94-ba66-96c0f4aa732c

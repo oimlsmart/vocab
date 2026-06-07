@@ -2,13 +2,13 @@
 data:
   identifier: 7.4.4.2.4
   localized_concepts:
-    fra: fd1ad91d-5075-4690-b43d-eaa3e2914ba4
+    fra: 272f641a-a3b3-44c0-95e8-d486ee0a5541
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 91225c21-6350-4c25-bb1d-dd222fc7551a
+id: 5e49edaf-b1a9-4e94-a495-0cb33ee01549
 schema_version: '3'
 ---
 data:
@@ -18,9 +18,8 @@ data:
   definition:
   - content: Échelle dont les échelons ont la même longueur et la même valeur.
   examples:
-  - content: 'Fig. 1 : échelle régullère dans toute l''étendue.'
-  - content: 'Fig. 2 : échelle régullère dans l''étendue de 9 à 36 $ \mathrm{m}^{3}/\mathrm{h}.
-      $'
+  - content: 'Fig. 1 : échelle régullère dans toute l''étendue. Fig. 2 : échelle régullère
+      dans l''étendue de 9 à 36 $ \mathrm{m}^{3}/\mathrm{h}. $'
   id: 7.4.4.2.4-fra
   notes:
   - content: L'échelle régullère représente un cas particulier de l'échelle linéaire.
@@ -32,4 +31,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: fd1ad91d-5075-4690-b43d-eaa3e2914ba4
+id: 272f641a-a3b3-44c0-95e8-d486ee0a5541

@@ -2,13 +2,13 @@
 data:
   identifier: 5.2.5.2.1
   localized_concepts:
-    fra: 0d14dc9f-9098-47d2-8787-be7e2a0907f2
+    fra: d68d4563-8ecf-47ef-a933-e4c2cc1a2c9c
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 66656591-f193-4292-a65a-d0e1ebe836f8
+id: 2eee77eb-5129-46b1-999a-b667aa686e9a
 schema_version: '3'
 ---
 data:
@@ -21,10 +21,9 @@ data:
       est amenée à zéro.
   examples:
   - content: détermination d'une masse lorsque la position finale d'équilibre de la
-      balance est la même que la position initiale,
-  - content: détermination d'une tension électrique au moyen d'un compensateur, mesurage
-      d'une résistance électrique avec
-  - content: un pont de Wheatstone et un indicateur de zéro.
+      balance est la même que la position initiale, détermination d'une tension électrique
+      au moyen d'un compensateur, mesurage d'une résistance électrique avec un pont
+      de Wheatstone et un indicateur de zéro.
   id: 5.2.5.2.1-fra
   notes:
   - content: La grandeur à mesurer peut être remplacée par une grandeur d'une autre
@@ -37,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 0d14dc9f-9098-47d2-8787-be7e2a0907f2
+id: d68d4563-8ecf-47ef-a933-e4c2cc1a2c9c

@@ -2,13 +2,13 @@
 data:
   identifier: 8.1.3
   localized_concepts:
-    fra: f63a3b29-998f-4b7b-b7f0-6209fd21372a
+    fra: 21557bf5-37d6-40b1-8d0c-21e62aa7d33c
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 006ae065-4cfe-4480-86a2-cf78a6161790
+id: ee3001f0-9f7d-4d48-9999-12396595548f
 schema_version: '3'
 ---
 data:
@@ -18,10 +18,8 @@ data:
   definition:
   - content: Erreur souvent grossière qui résultat d'une exécution incorrecte du mesurage.
   examples:
-  - content: 'Erreurs qui résultent :'
-  - content: de la lecture fausse d'une indication,
-  - content: de l'usage d'un instrument devenu défectueux,
-  - content: du mauvals emploi d'un instrument.
+  - content: 'Erreurs qui résultent : de la lecture fausse d''une indication, de l''usage
+      d''un instrument devenu défectueux, du mauvals emploi d''un instrument.'
   id: 8.1.3-fra
   notes: []
   sources: []
@@ -32,4 +30,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f63a3b29-998f-4b7b-b7f0-6209fd21372a
+id: 21557bf5-37d6-40b1-8d0c-21e62aa7d33c

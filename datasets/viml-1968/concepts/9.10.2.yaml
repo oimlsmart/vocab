@@ -2,13 +2,13 @@
 data:
   identifier: 9.10.2
   localized_concepts:
-    fra: bba88896-6036-443c-8a58-203a0089ec0f
+    fra: 05724a02-fefb-4279-996f-53d93163bc3e
   domains:
   - concept_id: section-9
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f6b01413-1aef-438c-9e99-6765c318d86f
+id: 2d6e0199-93d8-4034-a14a-f57bcf91664a
 schema_version: '3'
 ---
 data:
@@ -32,9 +32,8 @@ data:
       à mesurer, comme étant les différences algébriques entre les valeurs limites,
       supérieure $v_{i\max}$ ou inférieure $v_{i\min}$, des indications que donne
       l'instrument dans les conditions usuelles d'emplol, toutes erreurs comprises,
-      et la valeur conventonnellement vrale $v_{c}$ de la grandeur mesurée.
-  - content: Pratiquement, ces valeurs limites sont déterminées comme il a été indiqué
-      en 9.6.4.
+      et la valeur conventonnellement vrale $v_{c}$ de la grandeur mesurée. Pratiquement,
+      ces valeurs limites sont déterminées comme il a été indiqué en 9.6.4.
   sources: []
   terms:
   - type: expression
@@ -43,4 +42,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: bba88896-6036-443c-8a58-203a0089ec0f
+id: 05724a02-fefb-4279-996f-53d93163bc3e

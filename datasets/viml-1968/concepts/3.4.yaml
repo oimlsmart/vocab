@@ -2,13 +2,13 @@
 data:
   identifier: '3.4'
   localized_concepts:
-    fra: 53b72460-4390-4795-a1fa-229d1efe003d
+    fra: 629d0d19-c4b6-4b42-8222-8f113df76a1d
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b39534a3-8d5c-4865-9a4b-be23c2078591
+id: 2ff97125-1413-48a9-9769-c6196d7919ba
 schema_version: '3'
 ---
 data:
@@ -20,15 +20,10 @@ data:
       de mesurage indiquant l'origine, la destination de celui-ci, son fonctionnement,
       ses traits caractéristiques, son mode d'utilisation etc...
   examples:
-  - content: a) Bascule à équilibre automatique...
-  - content: 'Marque de fabrique : AB5'
-  - content: 'Portée maximale : 15 kg - Portée minimale : 100 g'
-  - content: Echelon $ \cong 5 \mathrm{~g} $
-  - content: b) Compteur d'énergie électrique...
-  - content: 'Marque de fabrique : C2'
-  - content: Monophasé 2 fils
-  - content: 220 V-5 A'-50 Hz-650 t/kWh
-  - content: 'Signe de modèle : ... — Année de fabrication : 1966'
+  - content: 'a) Bascule à équilibre automatique... Marque de fabrique : AB5 Portée
+      maximale : 15 kg - Portée minimale : 100 g Echelon $ \cong 5 \mathrm{~g} $ b)
+      Compteur d''énergie électrique... Marque de fabrique : C2 Monophasé 2 fils 220
+      V-5 A''-50 Hz-650 t/kWh Signe de modèle : ... — Année de fabrication : 1966'
   id: 3.4-fra
   notes: []
   sources: []
@@ -39,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 53b72460-4390-4795-a1fa-229d1efe003d
+id: 629d0d19-c4b6-4b42-8222-8f113df76a1d

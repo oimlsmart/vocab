@@ -2,13 +2,13 @@
 data:
   identifier: 4.4.2
   localized_concepts:
-    fra: 2e3a4880-b704-44ad-9681-b19be8779388
+    fra: 59313b06-d35b-4228-b284-9468af0f97fc
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c848b634-0bff-4685-a5a4-f1511f3ee91f
+id: d0226268-81d0-46a3-8135-29bd98929666
 schema_version: '3'
 ---
 data:
@@ -24,22 +24,15 @@ data:
       et ses multiples ou sous-multiples, soit de donner l''équivalence entre les
       unités de mesure d''une même grandeur dans des systèmes différents d''unités.'
   examples:
-  - content: "$$"
-  - content: 1 \mathrm {c m} = 0, 0 1 \mathrm {m}; \quad 1 \mathrm {m} ^ {2} = 1 \mathrm
-      {m}, 1 \mathrm {m}; \quad 1 \mathrm {W} = 1 \mathrm {V}, 1 \mathrm {A}; \quad
-      1 \mathrm {m} / \mathrm {s} = \frac {1 \mathrm {m}}{1 \mathrm {s}};
-  - content: "$$"
-  - content: "$$"
-  - content: 1 k p = 1 k g \cdot 9, 8 0 6 6 5 m / s ^ {2} = 9, 8 0 6 6 5 N.
-  - content: "$$"
-  - content: 'Généralement : l''équation entre unités de mesure de l''unité $[x_{n+1}]$
-      exprimée par les unités $[x_1][x_2]\dots[x_n]$ est la suivante :'
-  - content: "$$"
-  - content: "[ x _ {n} + 1 ] = \\mathrm {K} [ x _ {1} ] ^ {\\alpha_ {1}} [ x _ {2}
-      ] ^ {\\alpha_ {2}} \\dots [ x _ {n} ] ^ {\\alpha_ {n}}"
-  - content: "$$"
-  - content: ou $ \alpha_{1}, \alpha_{2} \dots \alpha_{n} $ et K sont des valeurs
-      numériques.
+  - content: "$$ 1 \\mathrm {c m} = 0, 0 1 \\mathrm {m}; \\quad 1 \\mathrm {m} ^ {2}
+      = 1 \\mathrm {m}, 1 \\mathrm {m}; \\quad 1 \\mathrm {W} = 1 \\mathrm {V}, 1
+      \\mathrm {A}; \\quad 1 \\mathrm {m} / \\mathrm {s} = \\frac {1 \\mathrm {m}}{1
+      \\mathrm {s}}; $$ $$ 1 k p = 1 k g \\cdot 9, 8 0 6 6 5 m / s ^ {2} = 9, 8 0
+      6 6 5 N. $$ Généralement : l'équation entre unités de mesure de l'unité $[x_{n+1}]$
+      exprimée par les unités $[x_1][x_2]\\dots[x_n]$ est la suivante : $$ [ x _ {n}
+      + 1 ] = \\mathrm {K} [ x _ {1} ] ^ {\\alpha_ {1}} [ x _ {2} ] ^ {\\alpha_ {2}}
+      \\dots [ x _ {n} ] ^ {\\alpha_ {n}} $$ ou $ \\alpha_{1}, \\alpha_{2} \\dots
+      \\alpha_{n} $ et K sont des valeurs numériques."
   id: 4.4.2-fra
   notes: []
   sources: []
@@ -50,4 +43,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 2e3a4880-b704-44ad-9681-b19be8779388
+id: 59313b06-d35b-4228-b284-9468af0f97fc

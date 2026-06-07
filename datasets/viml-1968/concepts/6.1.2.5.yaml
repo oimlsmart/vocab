@@ -2,13 +2,13 @@
 data:
   identifier: 6.1.2.5
   localized_concepts:
-    fra: 007761cf-94af-4af0-a7b1-bb28af0cfa35
+    fra: ecf8526a-cd97-4224-875a-c4df66dc57df
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 401c7cbb-8647-4f0c-93db-a258194b150c
+id: 0a13cd34-b377-43e9-9bc2-d491c1f285ba
 schema_version: '3'
 ---
 data:
@@ -31,4 +31,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 007761cf-94af-4af0-a7b1-bb28af0cfa35
+id: ecf8526a-cd97-4224-875a-c4df66dc57df

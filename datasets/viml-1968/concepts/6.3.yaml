@@ -2,13 +2,13 @@
 data:
   identifier: '6.3'
   localized_concepts:
-    fra: 0d4424f1-e0a3-4160-8a5b-ab16849ee74f
+    fra: 1d62e5d9-7c8c-4751-8538-d386a5753acb
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b26d8679-8125-4505-abeb-9fe35f3a8afe
+id: af385169-431d-4035-b067-bcede55fd5d5
 schema_version: '3'
 ---
 data:
@@ -22,7 +22,7 @@ data:
       une méthode donnée.
   examples:
   - content: installation pour mesurer la résistivité des matériaux électrotechniques,
-  - content: installation de mesurage du volume des hydrocarbures par compteur continu.
+      installation de mesurage du volume des hydrocarbures par compteur continu.
   id: 6.3-fra
   notes: []
   sources: []
@@ -33,4 +33,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 0d4424f1-e0a3-4160-8a5b-ab16849ee74f
+id: 1d62e5d9-7c8c-4751-8538-d386a5753acb

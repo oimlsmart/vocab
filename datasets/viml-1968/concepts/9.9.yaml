@@ -2,13 +2,13 @@
 data:
   identifier: '9.9'
   localized_concepts:
-    fra: 5811aa2d-550b-4931-88f0-ecc895051c77
+    fra: 927f4b5b-7af8-46a1-bd1f-67a75ef86ca4
   domains:
   - concept_id: section-9
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 580197f9-90f8-4cb0-b172-54f24993ffc6
+id: 75d2494e-aa0d-464c-b6d6-70168033cf34
 schema_version: '3'
 ---
 data:
@@ -24,12 +24,10 @@ data:
   id: 9.9-fra
   notes:
   - content: 'Pour déterminer le temps de réponse, il faut fixer pour chaque catégorie
-      d''instruments :'
-  - content: a) la valeur initiale à partir de laquelle doit être effectué le changement
-      de la grandeur mesurée,
-  - content: b) la valeur de ce changement,
-  - content: c) la différence entre l'indication définitive et l'indication à la fin
-      de la période acceptée comme temps de réponse.
+      d''instruments : a) la valeur initiale à partir de laquelle doit être effectué
+      le changement de la grandeur mesurée, b) la valeur de ce changement, c) la différence
+      entre l''indication définitive et l''indication à la fin de la période acceptée
+      comme temps de réponse.'
   sources: []
   terms:
   - type: expression
@@ -38,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 5811aa2d-550b-4931-88f0-ecc895051c77
+id: 927f4b5b-7af8-46a1-bd1f-67a75ef86ca4
