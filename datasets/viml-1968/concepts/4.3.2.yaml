@@ -2,13 +2,13 @@
 data:
   identifier: 4.3.2
   localized_concepts:
-    fra: dd037e0a-034a-4930-9b85-b16d91d4bd19
+    fra: f6a66baf-f764-475c-a5f6-084a7a7f4ada
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 6a3ddde2-fd31-42e4-9905-43633f57f4ee
+id: 4757d8bc-7ad7-4790-838e-b78be5e375be
 schema_version: '3'
 ---
 data:
@@ -20,10 +20,10 @@ data:
       des grandeurs de base de ce système.
   examples:
   - content: La force $F$, défunie dans le système de grandeurs $l, m, t$ par l'équation
-      $F = m \cdot \frac{\mathrm{d}^2 l}{\mathrm{d} t^2}$
-  - content: L'intensité du champ magnétique $H$ à une distance $r$ d'un conducteur
-      rectiligne parcouru par un courant $I$, dans le système rationalisé des grandeurs
-      $l, m, t, I$, définie par l'équation $H = I / 2 \pi r$.
+      $F = m \cdot \frac{\mathrm{d}^2 l}{\mathrm{d} t^2}$ L'intensité du champ magnétique
+      $H$ à une distance $r$ d'un conducteur rectiligne parcouru par un courant $I$,
+      dans le système rationalisé des grandeurs $l, m, t, I$, définie par l'équation
+      $H = I / 2 \pi r$.
   id: 4.3.2-fra
   notes: []
   sources: []
@@ -34,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: dd037e0a-034a-4930-9b85-b16d91d4bd19
+id: f6a66baf-f764-475c-a5f6-084a7a7f4ada

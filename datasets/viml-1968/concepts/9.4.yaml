@@ -2,13 +2,13 @@
 data:
   identifier: '9.4'
   localized_concepts:
-    fra: c2d43c24-3181-4c37-9132-c17988bf0d09
+    fra: 47971e2f-b1ef-4e7a-ba20-3b91b569f616
   domains:
   - concept_id: section-9
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: a596c195-8c96-421c-9654-8f7085750a9d
+id: 165dcd29-75f1-4949-b1db-4f060c1fc02b
 schema_version: '3'
 ---
 data:
@@ -27,8 +27,8 @@ data:
       observée se traduit par le déplacement relatif d'un index et d'une échelle,
       la sensibilité s'exprime conventionnellement par le quotient de ce déplacement
       $dl$ le long de la base de l'échelle par l'accroissement $dG$ de la grandeur
-      mesurée qui l'a provoqué.
-  - content: Cette valeur peut être constante ou variable le long de l'échelle.
+      mesurée qui l'a provoqué. Cette valeur peut être constante ou variable le long
+      de l'échelle.
   - content: 2. En pratique, on peut prendre comme valeur de la sensibilité des instruments
       de mesurage à échelle le quotient de la longueur de l'échelon par la valeur
       de celui-ci.
@@ -42,4 +42,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: c2d43c24-3181-4c37-9132-c17988bf0d09
+id: 47971e2f-b1ef-4e7a-ba20-3b91b569f616

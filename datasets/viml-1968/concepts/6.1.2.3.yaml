@@ -2,13 +2,13 @@
 data:
   identifier: 6.1.2.3
   localized_concepts:
-    fra: fea1740a-101d-47a7-ac8c-c8d640595bc3
+    fra: 7e04b902-f4af-4b95-ba83-902d5a43c4fe
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: c6c56550-8171-4f29-80f4-0cff130c9285
+id: e21ff9bd-fdcb-413b-aea3-54524ee59fc3
 schema_version: '3'
 ---
 data:
@@ -26,13 +26,13 @@ data:
       cette courbe, est un intégrateur mais pas un compteur.
   id: 6.1.2.3-fra
   notes:
-  - content: Dans le dispositif indicateur d'un compteur continu, le premier élément
-      mobile (disque, rouleau chiffré, etc) quil a la plus petite valeur d'échelon
-      se déplace ordinairement de façon continue au cours du mesurage.
-  - content: 'Cependant, cette continulté de mouvement n''existe pas toujours pour
-      les dispositifs indicateurs de certains autres appareils mesureurs intégrateurs.
-      Exemples : compteur de chaleur à fonctionnement cyclique — moulinet hydrométrique
-      dont le dispositif indicateur est entrainé par des impulsions discontinues.'
+  - content: 'Dans le dispositif indicateur d''un compteur continu, le premier élément
+      mobile (disque, rouleau chiffré, etc) quil a la plus petite valeur d''échelon
+      se déplace ordinairement de façon continue au cours du mesurage. Cependant,
+      cette continulté de mouvement n''existe pas toujours pour les dispositifs indicateurs
+      de certains autres appareils mesureurs intégrateurs. Exemples : compteur de
+      chaleur à fonctionnement cyclique — moulinet hydrométrique dont le dispositif
+      indicateur est entrainé par des impulsions discontinues.'
   sources: []
   terms:
   - type: expression
@@ -41,4 +41,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: fea1740a-101d-47a7-ac8c-c8d640595bc3
+id: 7e04b902-f4af-4b95-ba83-902d5a43c4fe

@@ -2,13 +2,13 @@
 data:
   identifier: 4.6.7
   localized_concepts:
-    fra: d5e401de-8e6a-48df-b739-e19aa0695b81
+    fra: e912c569-396e-4d34-bf47-3706eedf2db9
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: '07995a94-13b6-4060-9cca-b4e0f5a7db39'
+id: ab28b8fa-af38-4dd4-9ac8-c7f34abc7c07
 schema_version: '3'
 ---
 data:
@@ -20,8 +20,8 @@ data:
       est formée selon le principe d'échelonnement admis pour l'unité correspondante.
   examples:
   - content: L'une des unités multiples décimales du mètre est le kilomètre (km) et
-      l'une des unités sous-multiples décimales est le millimètre (mm).
-  - content: Une des unités multiples non décimales de la seconde est l'heure.
+      l'une des unités sous-multiples décimales est le millimètre (mm). Une des unités
+      multiples non décimales de la seconde est l'heure.
   id: 4.6.7-fra
   notes: []
   sources: []
@@ -32,4 +32,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: d5e401de-8e6a-48df-b739-e19aa0695b81
+id: e912c569-396e-4d34-bf47-3706eedf2db9

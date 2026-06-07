@@ -2,13 +2,13 @@
 data:
   identifier: 5.4.1
   localized_concepts:
-    fra: 2e8c478c-0584-4a54-9a88-593bd00c535b
+    fra: 66dd56eb-40c4-4a51-8a1a-d5c149f6df3f
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 95655cf5-5ec7-4c1f-adb5-007155bd02aa
+id: 2fbc2859-091c-411c-a5ee-aedf57c46fed
 schema_version: '3'
 ---
 data:
@@ -23,13 +23,10 @@ data:
       ; l''indication lue sur l''instrument : 14,7 mm représente le résultat brut
       du mesurage.'
   - content: '2. Si dans une série de 10 mesurages du même cylindre on a obtenu en
-      mm les valeurs : 14,9 ; 14,6 ; 14,8 ; 14,6 ;'
-  - content: '14,9 ; 14,7 ; 14,7 ; 14,8 ; 14,9 ; 14,8, le résultat brut de cette série
-      de mesurages sera :'
-  - content: "$$"
-  - content: d = \frac {1 4 , 9 + 1 4 , 6 + \dots + 1 4 , 8}{1 0} = 1 4, 7 7 \mathrm
-      {m m} \approx 1 4, 8 \mathrm {m m}
-  - content: "$$"
+      mm les valeurs : 14,9 ; 14,6 ; 14,8 ; 14,6 ; 14,9 ; 14,7 ; 14,7 ; 14,8 ; 14,9
+      ; 14,8, le résultat brut de cette série de mesurages sera : $$ d = \frac {1
+      4 , 9 + 1 4 , 6 + \dots + 1 4 , 8}{1 0} = 1 4, 7 7 \mathrm {m m} \approx 1 4,
+      8 \mathrm {m m} $$'
   id: 5.4.1-fra
   notes:
   - content: Lors d'une série de mesurages d'une même grandeur, le résultat brut du
@@ -42,4 +39,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 2e8c478c-0584-4a54-9a88-593bd00c535b
+id: 66dd56eb-40c4-4a51-8a1a-d5c149f6df3f

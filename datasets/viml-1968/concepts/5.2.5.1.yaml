@@ -2,13 +2,13 @@
 data:
   identifier: 5.2.5.1
   localized_concepts:
-    fra: a46dc850-5883-49ed-8b95-1656f1c483d2
+    fra: fdf301ee-44c6-40e5-901d-3e85f59d41d7
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 6a609cca-ebee-4c01-b8ec-efa157926536
+id: 2c283f37-edaf-442b-94be-751d7d6772d5
 schema_version: '3'
 ---
 data:
@@ -20,11 +20,10 @@ data:
       à mesurer est comparée à une valeur connue de la même grandeur reproduite par
       une mesure matérielisée qui entre directement dans le mesurage.
   examples:
-  - content: mesurage d'une longueur à l'aide d'une règle graduée,
-  - content: mesurage du volume d'un liquide au moyen d'une mesure matériallisée de
-      capacité,
-  - content: mesurage d'une masse au moyen d'une balance équilibrant la masse à mesurer
-      du corps considéré par la masse correspondante d'une somme de poids marqués.
+  - content: mesurage d'une longueur à l'aide d'une règle graduée, mesurage du volume
+      d'un liquide au moyen d'une mesure matériallisée de capacité, mesurage d'une
+      masse au moyen d'une balance équilibrant la masse à mesurer du corps considéré
+      par la masse correspondante d'une somme de poids marqués.
   id: 5.2.5.1-fra
   notes: []
   sources: []
@@ -35,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a46dc850-5883-49ed-8b95-1656f1c483d2
+id: fdf301ee-44c6-40e5-901d-3e85f59d41d7

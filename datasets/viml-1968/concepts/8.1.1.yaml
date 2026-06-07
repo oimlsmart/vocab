@@ -2,13 +2,13 @@
 data:
   identifier: 8.1.1
   localized_concepts:
-    fra: 1b248c40-aacd-4e7f-906f-e97937cbff40
+    fra: 67cc7e95-6c09-47df-b5c4-b90fe1612a6c
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 3136d418-6e57-43e7-a5c6-c768ebe64d5d
+id: a84cc516-d317-4709-90fa-d0e5f12139c1
 schema_version: '3'
 ---
 data:
@@ -20,19 +20,16 @@ data:
       de la même valeur d'une certaine grandeur reste constante en valeur absolue
       et en signe ou qui varie selon une loi définie quand les conditions changent.
   examples:
-  - content: 'erreurs systématiques constantes :'
-  - content: erreur qul résultat du pesage à l'alde d'un poids dont la masse est supposée
-      égale à sa masse nominale de 1 kg tandis que sa masse vraie conventionnelle
-      est de 1,010 kg,
-  - content: erreur qui résultat du fait que l'on se sert, à une température amblante
-      de $ 2 0^{\circ} \mathrm{C} $ , d'une règle callbrée à $ 0^{\circ} \mathrm{C}
-      $ sans Introduire de correction convenable,
-  - content: erreur qui résultat de ce que, dans le circuit d'un thermomètre thermoélectrique,
-      se produit des forces thermoélectriques parasites.
-  - content: 'Erreur systématique variable :'
-  - content: erreur d'indication d'un instrument de mesurage occasionné, lors de plusieurs
-      mesurages consécutifs de la même valeur, par une variation systématique de la
-      température.
+  - content: 'erreurs systématiques constantes : erreur qul résultat du pesage à l''alde
+      d''un poids dont la masse est supposée égale à sa masse nominale de 1 kg tandis
+      que sa masse vraie conventionnelle est de 1,010 kg, erreur qui résultat du fait
+      que l''on se sert, à une température amblante de $ 2 0^{\circ} \mathrm{C} $
+      , d''une règle callbrée à $ 0^{\circ} \mathrm{C} $ sans Introduire de correction
+      convenable, erreur qui résultat de ce que, dans le circuit d''un thermomètre
+      thermoélectrique, se produit des forces thermoélectriques parasites. Erreur
+      systématique variable : erreur d''indication d''un instrument de mesurage occasionné,
+      lors de plusieurs mesurages consécutifs de la même valeur, par une variation
+      systématique de la température.'
   id: 8.1.1-fra
   notes:
   - content: 1. Les causes des erreurs systématiques peuvent être connues ou inconnues.
@@ -54,4 +51,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 1b248c40-aacd-4e7f-906f-e97937cbff40
+id: 67cc7e95-6c09-47df-b5c4-b90fe1612a6c

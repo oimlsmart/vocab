@@ -2,13 +2,13 @@
 data:
   identifier: 7.3.3.1
   localized_concepts:
-    fra: bcea18c3-c475-4692-b754-50b90ca7c00c
+    fra: e58bc38a-161f-459a-8de4-30860246bef2
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 932601dc-1c7b-4e4b-be47-53a30ad39501
+id: 80a2184a-7aad-440e-9143-5150b02ba03d
 schema_version: '3'
 ---
 data:
@@ -21,10 +21,9 @@ data:
       par rapport aux repères permet de déterminer le résultat du mesurage.
   examples:
   - content: une balance à bras égaux est munie d'une échelle fixe devant laquelle
-      se déplace une aiguille qui forme l'index ;
-  - content: dans un compteur watthcuremètre à rouleaux, les fenêtres du dispositif
-      indicateur constituent les index fixes
-  - content: au travers desquels apparaissent les chiffres des échelles mobiles.
+      se déplace une aiguille qui forme l'index ; dans un compteur watthcuremètre
+      à rouleaux, les fenêtres du dispositif indicateur constituent les index fixes
+      au travers desquels apparaissent les chiffres des échelles mobiles.
   id: 7.3.3.1-fra
   notes: []
   sources: []
@@ -35,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: bcea18c3-c475-4692-b754-50b90ca7c00c
+id: e58bc38a-161f-459a-8de4-30860246bef2

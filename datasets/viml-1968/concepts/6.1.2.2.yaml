@@ -2,13 +2,13 @@
 data:
   identifier: 6.1.2.2
   localized_concepts:
-    fra: ffd8872c-8cf6-4942-a9ca-e06485048999
+    fra: 97b12180-7bb2-4d6c-ad23-45314a4ec44a
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 9eecb43f-356b-42fe-a6f9-0f26c32b9611
+id: f93da4e2-390b-48bf-b2eb-45906ed28872
 schema_version: '3'
 ---
 data:
@@ -20,10 +20,8 @@ data:
       intégration.
   examples:
   - content: compteur de volume des liquides ou des gaz, compteur d'énergie électrique,
-  - content: planimètre,
-  - content: intégrimètre,
-  - content: machine planimétrique,
-  - content: appareil de pesage continu sur un transporteur.
+      planimètre, intégrimètre, machine planimétrique, appareil de pesage continu
+      sur un transporteur.
   id: 6.1.2.2-fra
   notes:
   - content: 1. On assimile à une intégration l'addition de valeurs partelles suffisamment
@@ -38,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ffd8872c-8cf6-4942-a9ca-e06485048999
+id: 97b12180-7bb2-4d6c-ad23-45314a4ec44a

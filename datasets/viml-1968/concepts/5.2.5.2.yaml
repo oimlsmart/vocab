@@ -2,13 +2,13 @@
 data:
   identifier: 5.2.5.2
   localized_concepts:
-    fra: 4f7813ea-a25b-42d2-bc31-5844605f68b0
+    fra: 0eb326ba-d628-4349-92c1-7b7b06e3e200
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: fb21647c-160e-45d2-8d73-62602b824d9f
+id: db4a7727-c79b-4e05-bab8-db41a297120e
 schema_version: '3'
 ---
 data:
@@ -21,8 +21,8 @@ data:
       de la grandeur à mesurer, et le mesurage de la différence des valeurs de ces
       deux grandeurs.
   examples:
-  - content: comparaison de deux longueurs au moyen d'un comparateur,
-  - content: comparaison de deux tensions électriques au moyen d'un voltmètre différentiel.
+  - content: comparaison de deux longueurs au moyen d'un comparateur, comparaison
+      de deux tensions électriques au moyen d'un voltmètre différentiel.
   id: 5.2.5.2-fra
   notes: []
   sources: []
@@ -33,4 +33,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 4f7813ea-a25b-42d2-bc31-5844605f68b0
+id: 0eb326ba-d628-4349-92c1-7b7b06e3e200

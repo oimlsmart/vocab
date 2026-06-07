@@ -2,13 +2,13 @@
 data:
   identifier: 4.2.1.1
   localized_concepts:
-    fra: e01ca485-780c-455d-a1cc-9ca413c6d93b
+    fra: aa4f6802-5a2d-4e99-8c12-bdb16f1f733d
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 423cfbe3-0f6a-494d-8742-956a0e29cfc1
+id: dac8df10-514d-4ba0-b1e1-e1c82a87ef8c
 schema_version: '3'
 ---
 data:
@@ -24,11 +24,9 @@ data:
       tolérées sont égales à $ \pm 2\% $ , est vérifié à l'alde d'un compteur-étalon
       dont l'orreur d'indication ne dépasse pas $ \pm 1\% $ , le compteur-étalon indiquera
       des valeurs conventionnellement vrales de l'énergie électrique pour les buts
-      de la vérification ;
-  - content: lorsque à son tour le compteur-étalon sera lui-même vérifié à l'aide
-      d'un wattmètre-étalon et d'un chronomètre,
-  - content: les valeurs obtenues représentront aussi des valeurs conventionnellement
-      vraies pour les buts de cette autre vérification.
+      de la vérification ; lorsque à son tour le compteur-étalon sera lui-même vérifié
+      à l'aide d'un wattmètre-étalon et d'un chronomètre, les valeurs obtenues représentront
+      aussi des valeurs conventionnellement vraies pour les buts de cette autre vérification.
   id: 4.2.1.1-fra
   notes:
   - content: On détermine généralement la valeur conventionnelle vraie de la grandeur
@@ -42,4 +40,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e01ca485-780c-455d-a1cc-9ca413c6d93b
+id: aa4f6802-5a2d-4e99-8c12-bdb16f1f733d

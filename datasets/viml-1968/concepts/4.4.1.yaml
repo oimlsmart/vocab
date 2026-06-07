@@ -2,13 +2,13 @@
 data:
   identifier: 4.4.1
   localized_concepts:
-    fra: 19fdcc26-e5bd-4a08-9dd2-1122a54b2be5
+    fra: ae279d53-a2ac-4351-8c38-ea28971159e8
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 0a6d9cd6-b15f-4501-b11f-c83b9c83a4fb
+id: eb6d2a9b-644d-41fb-9564-44c510cd229c
 schema_version: '3'
 ---
 data:
@@ -25,11 +25,9 @@ data:
       $ \omega $ valable pour les unités suivantes $ v $ en mètre par seconde, $ d
       $ en mètre, $ \omega $ en tour par minute.
   - content: 2. On peut présenter l'équation cl-dessus aussi sous la forme $ \{v\}
-      = \frac{\pi}{60} \{d\} \{w\} $
-  - content: ou { $v$ } est la valeur numérique de $v$ pour l'unité m/s
-  - content: "{ $d$ } est la valeur numérique de $d$ pour l'unité m"
-  - content: "{ $ \\omega $ } est la valeur numérique de $ \\omega $ pour l'unité
-      t/min"
+      = \frac{\pi}{60} \{d\} \{w\} $ ou { $v$ } est la valeur numérique de $v$ pour
+      l'unité m/s { $d$ } est la valeur numérique de $d$ pour l'unité m { $ \omega
+      $ } est la valeur numérique de $ \omega $ pour l'unité t/min
   id: 4.4.1-fra
   notes:
   - content: 1. L'équation entre valeurs numériques, pour les unités d'un système
@@ -46,4 +44,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 19fdcc26-e5bd-4a08-9dd2-1122a54b2be5
+id: ae279d53-a2ac-4351-8c38-ea28971159e8

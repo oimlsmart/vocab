@@ -2,13 +2,13 @@
 data:
   identifier: 5.5.1
   localized_concepts:
-    fra: 92c57d50-a14e-4ed7-91aa-0e50490efd67
+    fra: aa6ff2f1-362c-451e-8439-c56c93da17a0
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ede43e13-cf57-436b-94a2-a668d9259dee
+id: caed2bdd-ea68-40b2-a4ba-f1b39465c932
 schema_version: '3'
 ---
 data:
@@ -29,10 +29,9 @@ data:
       facteurs énumérés cl-dessus sont différents lors des divers mesurages individuels,
       ces facteurs doivent être bien précisés dans chaque cas particulier.
   - content: 2. Le plus souvent, on estime la reproductibilité des mesurages d'après
-      l'incertitude de mesurage.
-  - content: Par suite d'un plus grand nombre de sources d'erreurs fortuites, cette
-      incertitude est en général plus grande que pour la détermination de la répétabilité
-      d'un mesurage; la reproductibilité est inférieure à la répétabilité.
+      l'incertitude de mesurage. Par suite d'un plus grand nombre de sources d'erreurs
+      fortuites, cette incertitude est en général plus grande que pour la détermination
+      de la répétabilité d'un mesurage; la reproductibilité est inférieure à la répétabilité.
   - content: 3. Les résultats des mesurages individuels doivent être corrigés des
       erreurs systématiques.
   sources: []
@@ -43,4 +42,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 92c57d50-a14e-4ed7-91aa-0e50490efd67
+id: aa6ff2f1-362c-451e-8439-c56c93da17a0

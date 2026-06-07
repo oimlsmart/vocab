@@ -2,13 +2,13 @@
 data:
   identifier: 4.2.1
   localized_concepts:
-    fra: 2c6f1865-2525-4b34-bf88-d7038e4f99a1
+    fra: '08fac78c-74ee-43f8-9b18-fa29cac1be80'
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b3fba239-2910-47a3-9bbc-fc16a1e21ff9
+id: ae713e1c-5d1b-4bf6-a879-c42d604d3271
 schema_version: '3'
 ---
 data:
@@ -26,10 +26,9 @@ data:
   id: 4.2.1-fra
   notes:
   - content: La valeur vraie d'une grandeur est une notion idéale et en général elle
-      ne peut pas être connue.
-  - content: On peut cependant dire que la valeur vraie du Kilogramme étalon prototype
-      international déposé au Bureau International des Poids et Mesures est, par définition
-      et dans des conditions déterminées, de 1 kg.
+      ne peut pas être connue. On peut cependant dire que la valeur vraie du Kilogramme
+      étalon prototype international déposé au Bureau International des Poids et Mesures
+      est, par définition et dans des conditions déterminées, de 1 kg.
   sources: []
   terms:
   - type: expression
@@ -38,4 +37,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 2c6f1865-2525-4b34-bf88-d7038e4f99a1
+id: '08fac78c-74ee-43f8-9b18-fa29cac1be80'

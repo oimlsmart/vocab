@@ -2,20 +2,22 @@
 data:
   identifier: 3.2.3
   localized_concepts:
-    fra: d6a19b9f-411b-493e-aa26-1ba236d47a96
+    fra: 5f69dec3-06ee-4ec7-b405-a8a01865a434
   domains:
   - concept_id: section-3
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ea7d9252-7b10-4bd2-8399-67f6192c8ee9
+id: b7637dd7-96ff-4297-a28f-a6aa5f006c89
 schema_version: '3'
 ---
 data:
   dates:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: Partie de la marque de vérification identifiant le bureau qui a effectué
+      cette vérification.
   examples: []
   id: 3.2.3-fra
   notes: []
@@ -27,4 +29,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: d6a19b9f-411b-493e-aa26-1ba236d47a96
+id: 5f69dec3-06ee-4ec7-b405-a8a01865a434

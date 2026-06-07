@@ -2,13 +2,13 @@
 data:
   identifier: 8.2.5
   localized_concepts:
-    fra: 8b9b0984-a221-428e-8e85-bc7db05c8835
+    fra: 9749c167-8a74-469a-ba89-4a0a00a18ac4
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 7929e06e-0a3b-4701-87f9-1065fb063cc5
+id: 28ee7332-c393-40ad-95f3-44b5f93cc198
 schema_version: '3'
 ---
 data:
@@ -21,10 +21,9 @@ data:
       et la valeur nominale $ \nu_{\mathrm{n}} $ de cette mesure.
   examples:
   - content: Une mesure de capacité contient $v_{0} = 1005 \mathrm{ml}$ et sa dénomination
-      est « 1 litre », soit $v_{n} = 1000 \mathrm{ml}$,
-  - content: l'erreur de calibrage de cette mesure est égale à ; $e = 1005 \mathrm{ml}
-      - 1000 \mathrm{ml} = -5 \mathrm{ml}$,
-  - content: la valeur vraie de la mesure étant trop grande par rapport à sa dénomination.
+      est « 1 litre », soit $v_{n} = 1000 \mathrm{ml}$, l'erreur de calibrage de cette
+      mesure est égale à ; $e = 1005 \mathrm{ml} - 1000 \mathrm{ml} = -5 \mathrm{ml}$,
+      la valeur vraie de la mesure étant trop grande par rapport à sa dénomination.
   id: 8.2.5-fra
   notes: []
   sources: []
@@ -35,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 8b9b0984-a221-428e-8e85-bc7db05c8835
+id: 9749c167-8a74-469a-ba89-4a0a00a18ac4

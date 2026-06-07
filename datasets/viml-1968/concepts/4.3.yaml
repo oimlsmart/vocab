@@ -2,13 +2,13 @@
 data:
   identifier: '4.3'
   localized_concepts:
-    fra: 2e2f6d2b-16ff-4373-ab53-f19b63fcc17f
+    fra: dced95a8-62b4-4459-be75-1daeb4597dfb
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 02c82baa-f8bb-436e-bec2-ac85c3101452
+id: 86205281-31a1-44dd-9435-4a7a659e629b
 schema_version: '3'
 ---
 data:
@@ -20,9 +20,8 @@ data:
       dérivées correspondantes et qui embrasse tous les domaines de la science ou
       bien l'un de ses domaines seulement.
   examples:
-  - content: 'système de grandeurs de la mécanique : $l, m, l$'
-  - content: 'système de grandeurs de la mécanique et de l''électricité : $l, m, t,
-      I$'
+  - content: 'système de grandeurs de la mécanique : $l, m, l$ système de grandeurs
+      de la mécanique et de l''électricité : $l, m, t, I$'
   id: 4.3-fra
   notes:
   - content: 1. Comme dénomination abrégée d'un système de grandeurs défini, on utilise
@@ -37,4 +36,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 2e2f6d2b-16ff-4373-ab53-f19b63fcc17f
+id: dced95a8-62b4-4459-be75-1daeb4597dfb

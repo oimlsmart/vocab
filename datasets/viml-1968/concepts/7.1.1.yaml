@@ -2,13 +2,13 @@
 data:
   identifier: 7.1.1
   localized_concepts:
-    fra: 44f244a8-6da1-4914-a678-984eb83400fb
+    fra: b25b3a8e-0597-4459-8341-b43e97b11701
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: '08b13c26-748e-4a56-bbc3-2857c3b43a7c'
+id: 4c8a67d0-fea8-42c5-b298-e5dc96aac3dc
 schema_version: '3'
 ---
 data:
@@ -27,10 +27,9 @@ data:
       thermoélectrique dans lequel la force thermoélectrique est déterminée soit à
       l''aide d''un millivoltmètre, soit à l''aide d''un compensateur électrique,
       est un instrument du système thermoélectrique. Les deux réalisations possibles
-      indiquées ci-dessus constituent deux variantes de ce système.'
-  - content: De même, les balances à bras égaux et les bascules décimales, qui appartiennent
-      au système des instruments de pesage à leviers, correspondent à deux variantes
-      de ce système.
+      indiquées ci-dessus constituent deux variantes de ce système. De même, les balances
+      à bras égaux et les bascules décimales, qui appartiennent au système des instruments
+      de pesage à leviers, correspondent à deux variantes de ce système.'
   - content: '2. L''adjonction de dispositifs supplémentaires qui influent sur les
       propriétés métrologiques de l''instrument : dispositifs de téléindication, d''enregistrement,
       de conservation et de reproduction des valeurs mesurées ne change pas le système
@@ -43,4 +42,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 44f244a8-6da1-4914-a678-984eb83400fb
+id: b25b3a8e-0597-4459-8341-b43e97b11701

@@ -2,13 +2,13 @@
 data:
   identifier: 5.2.4
   localized_concepts:
-    fra: 9f0f19df-1274-4e3b-8edd-02075acf9456
+    fra: 60ff95f5-88c0-44a5-8799-647cafee480b
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 98d65f6e-c354-4e80-95f0-b1a11eb48565
+id: 5f431a87-6917-4805-8d8e-e5e661e89174
 schema_version: '3'
 ---
 data:
@@ -19,12 +19,11 @@ data:
   - content: Méthode de mesurage basée sur les mesurages des grandeurs de base entrant
       dans la définition de la grandeur.
   examples:
-  - content: mesurage de la pression à l'alde d'un manomètre à piston basé sur la
-      définition de la pression comme étant le rapport entre la force et la surface
-      sur laquelle cette force agit,
-  - content: mesurage de l'accélération de la pesanteur basé sur le chemin parcouru
-      pendant un certain temps par un corps qui tombe en chute libre,
-  - content: 'mesurage de la pression à l''aide d''un manomètre à tube en U avec lequel
+  - content: 'mesurage de la pression à l''alde d''un manomètre à piston basé sur
+      la définition de la pression comme étant le rapport entre la force et la surface
+      sur laquelle cette force agit, mesurage de l''accélération de la pesanteur basé
+      sur le chemin parcouru pendant un certain temps par un corps qui tombe en chute
+      libre, mesurage de la pression à l''aide d''un manomètre à tube en U avec lequel
       la pression se déduit tout d''abord de mesurages de masse volumique, d''accélération
       de la pesanteur et de longueur, ramenés à leur tour à des mesurages de grandeurs
       de base : longueur, masse, temps.'
@@ -39,4 +38,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 9f0f19df-1274-4e3b-8edd-02075acf9456
+id: 60ff95f5-88c0-44a5-8799-647cafee480b

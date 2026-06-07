@@ -2,13 +2,13 @@
 data:
   identifier: 7.4.4
   localized_concepts:
-    fra: 7a3ab028-ffe9-4748-9e3b-aae161e97462
+    fra: 52bbbc6a-bde2-4a47-a5ec-4c9b5712c052
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: ed8d2b0d-8649-44cd-a6d2-b2b9b98f78d1
+id: 59790492-a3cd-42d4-84b0-fc8487518caa
 schema_version: '3'
 ---
 data:
@@ -20,8 +20,7 @@ data:
   examples: []
   id: 7.4.4-fra
   notes:
-  - content: ''
-  - content: L'échelle à traits est à indication continue.
+  - content: " L'échelle à traits est à indication continue."
   sources: []
   terms:
   - type: expression
@@ -30,4 +29,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 7a3ab028-ffe9-4748-9e3b-aae161e97462
+id: 52bbbc6a-bde2-4a47-a5ec-4c9b5712c052

@@ -2,13 +2,13 @@
 data:
   identifier: 6.4.3
   localized_concepts:
-    fra: 7f97c453-fc46-4e4c-9e62-6f9e2333c827
+    fra: b77c1505-e031-4aa9-ada8-da96994c32cc
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 50f63275-4870-4e15-aec6-fb36123b45c4
+id: e0836b8f-f320-45b4-9a65-bb63a7008cca
 schema_version: '3'
 ---
 data:
@@ -22,10 +22,9 @@ data:
       fournies par les divers instruments.
   examples:
   - content: étalon collectif de dureté composé par un groupe de blocs de dureté;
-  - content: étalon collectif de pression matérielisé par un groupe de manomètres
-      à piston,
-  - content: éton collectif d'intensité luminouse constitue par un certain nombre
-      de lamps à incandescence.
+      étalon collectif de pression matérielisé par un groupe de manomètres à piston,
+      éton collectif d'intensité luminouse constitue par un certain nombre de lamps
+      à incandescence.
   id: 6.4.3-fra
   notes: []
   sources: []
@@ -36,4 +35,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 7f97c453-fc46-4e4c-9e62-6f9e2333c827
+id: b77c1505-e031-4aa9-ada8-da96994c32cc

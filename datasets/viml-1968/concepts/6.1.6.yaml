@@ -2,13 +2,13 @@
 data:
   identifier: 6.1.6
   localized_concepts:
-    fra: f7356efe-b700-4a7a-b394-2350395a438f
+    fra: fd922efa-8649-4cb0-a376-372e2012e3b8
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: da381bb0-1b8b-4889-872d-f481b4d272c8
+id: 50034dda-0a8c-4890-8dd3-b0b2142a50a2
 schema_version: '3'
 ---
 data:
@@ -21,11 +21,10 @@ data:
       son emploi ou son examen.
   examples:
   - content: thermomètre mesurant la température du gaz ou de l'amblance pendant le
-      mesurage du débit d'un gaz,
-  - content: manomètre différentiel mesurant la perte de charge dans un compteur d'eau,
-  - content: niveau à bulle pour vérifier l'horizontalité d'une balance, « poids d'erreurs
-      » pour la vérification des balances,
-  - content: chronomètre pour contrôler le débit d'un compteur d'hydrocarbures.
+      mesurage du débit d'un gaz, manomètre différentiel mesurant la perte de charge
+      dans un compteur d'eau, niveau à bulle pour vérifier l'horizontalité d'une balance,
+      « poids d'erreurs » pour la vérification des balances, chronomètre pour contrôler
+      le débit d'un compteur d'hydrocarbures.
   id: 6.1.6-fra
   notes: []
   sources: []
@@ -36,4 +35,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: f7356efe-b700-4a7a-b394-2350395a438f
+id: fd922efa-8649-4cb0-a376-372e2012e3b8

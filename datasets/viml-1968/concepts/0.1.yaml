@@ -2,13 +2,13 @@
 data:
   identifier: '0.1'
   localized_concepts:
-    fra: 4c7d00e6-c15e-4522-82ae-07941c276449
+    fra: c755a9da-06b0-4f64-9e85-3f2dba6b45f4
   domains:
   - concept_id: section-0
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: bf3a03fa-1b10-4168-87b3-2de3a7cba03a
+id: 5211b708-94d7-4258-803c-5723f681f22c
 schema_version: '3'
 ---
 data:
@@ -20,21 +20,19 @@ data:
   examples: []
   id: 0.1-fra
   notes:
-  - content: '1. Les principeaux domaînes de la métrologie concernent :'
-  - content: les unités de mesure et leurs étalons (leur établissement, reproduction,
-      conservation et transmission),
-  - content: les mesurages (leurs méthodes, leur exécution, l'estimation de leur précision
-      etc.),
-  - content: les instruments de mesurage (leurs propriétés examinées du point de vue
-      de leur destination),
-  - content: les observateurs (leurs qualités se rapportant à l'exécution des mesurages,
-      par ex. la lecture des indications des instruments de mesurage).
+  - content: '1. Les principeaux domaînes de la métrologie concernent : les unités
+      de mesure et leurs étalons (leur établissement, reproduction, conservation et
+      transmission), les mesurages (leurs méthodes, leur exécution, l''estimation
+      de leur précision etc.), les instruments de mesurage (leurs propriétés examinées
+      du point de vue de leur destination), les observateurs (leurs qualités se rapportant
+      à l''exécution des mesurages, par ex. la lecture des indications des instruments
+      de mesurage).'
   - content: 2. La métrologie embrasse tous les problèmes aussl bien théoriques que
       pratiques se rapportant aux mesurages, quelle que soit la précision de ceux-ci.
   - content: '3. Selon la grandeur envisagée, la métrologie se divise en : métrologie
-      des longueurs, métrologie du temps, etc...'
-  - content: et, selon le domaine d'application, en métrologie industrielle, métrologie
-      technique, métrologie astronomique, métrologie médicale, etc...
+      des longueurs, métrologie du temps, etc... et, selon le domaine d''application,
+      en métrologie industrielle, métrologie technique, métrologie astronomique, métrologie
+      médicale, etc...'
   - content: 4. Sont comprises également dans la métrologie les déterminations des
       constantes physiques et des propriétés des matériaux et des substances.
   sources: []
@@ -45,4 +43,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 4c7d00e6-c15e-4522-82ae-07941c276449
+id: c755a9da-06b0-4f64-9e85-3f2dba6b45f4

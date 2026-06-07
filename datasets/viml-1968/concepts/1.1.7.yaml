@@ -2,13 +2,13 @@
 data:
   identifier: 1.1.7
   localized_concepts:
-    fra: 00eadbda-c74f-41b1-8398-9cf545daafe8
+    fra: c7df49aa-5eb1-4d91-b0b6-572fcd6fa03b
   domains:
   - concept_id: section-1
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 20674ee4-d7a6-4eff-bb4c-d49b414e4345
+id: 34c58c7a-731e-4185-a253-eab211de6806
 schema_version: '3'
 ---
 data:
@@ -30,4 +30,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 00eadbda-c74f-41b1-8398-9cf545daafe8
+id: c7df49aa-5eb1-4d91-b0b6-572fcd6fa03b

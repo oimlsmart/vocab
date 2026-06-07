@@ -2,13 +2,13 @@
 data:
   identifier: 6.4.1
   localized_concepts:
-    fra: 53f44f32-a4c5-40c3-ac39-3ff6bcec3715
+    fra: e5f2cadc-8caf-43f8-884d-4287942abb36
   domains:
   - concept_id: section-6
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 11c647ca-efba-4866-825a-7bace56515a1
+id: 75d12a35-badc-4097-bfe4-a8a05db0c4ee
 schema_version: '3'
 ---
 data:
@@ -21,11 +21,10 @@ data:
       corps, soit des constantes physiques.'
   examples:
   - content: méthode étalon de reproduction du mètre en longueurs d'ondes lumineuses,
-  - content: méthode étalon de reproduction de l'échelle thermométrique à l'aide de
-      six points fixes,
-  - content: méthode étalon de reproduction de l'unité de temps et des fréquences
-      basée sur l'observation astronomique,
-  - content: méthode étalon de reproduction de l'unité de masse volumique d'un liquide.
+      méthode étalon de reproduction de l'échelle thermométrique à l'aide de six points
+      fixes, méthode étalon de reproduction de l'unité de temps et des fréquences
+      basée sur l'observation astronomique, méthode étalon de reproduction de l'unité
+      de masse volumique d'un liquide.
   id: 6.4.1-fra
   notes: []
   sources: []
@@ -36,4 +35,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 53f44f32-a4c5-40c3-ac39-3ff6bcec3715
+id: e5f2cadc-8caf-43f8-884d-4287942abb36

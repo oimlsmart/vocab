@@ -2,13 +2,13 @@
 data:
   identifier: 8.1.5.3
   localized_concepts:
-    fra: dea96c46-2cb7-4c11-bfc8-b65fe7101b8a
+    fra: 9675a7c5-d9d5-44bd-b0ad-374f60652f79
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 292fdb4b-f283-4867-9b76-b96aaf67dc2f
+id: 8d120ef6-a8b0-493d-b39c-f30dbac56487
 schema_version: '3'
 ---
 data:
@@ -21,15 +21,13 @@ data:
   examples:
   - content: 'si les résultats de 5 mesurages d''un même diamètre exécutés à l''alde
       d''un même pied à coulisse, par la même observateur, à la même température amblante
-      etc... (et ayant des poids égaux) sont les suivantes :'
-  - content: "$d_{1} = 15,6 \\mathrm{~mm}$ ; $d_{2} = 15,8 \\mathrm{~mm}$ ; $d_{3}
-      = 15,8 \\mathrm{~mm}$ ; $d_{4} = 15,6 \\mathrm{~mm}$ ; $d_{5} = 15,7 \\mathrm{~mm}$
-      ;"
-  - content: la moyenne arithmétique de ces résultats est égale à $\bar{d} = 1/5 (15,6
-      + \dots + 15,7)$ mm = 15,7 mm.
-  - content: "$ v_{1}=d_{1}-\\overline{d}=1 5, 6 \\mathrm{~ mm}-1 5, 7 \\mathrm{~
-      mm}=-0, 1 \\mathrm{~ mm} $ et $ v_{2}=\\overline{d_{2}}-d=1 5, 8 \\mathrm{~
-      mm}-1 5, 7 \\mathrm{~ mm}=+0, 1 \\mathrm{~ mm} $ etc."
+      etc... (et ayant des poids égaux) sont les suivantes : $d_{1} = 15,6 \mathrm{~mm}$
+      ; $d_{2} = 15,8 \mathrm{~mm}$ ; $d_{3} = 15,8 \mathrm{~mm}$ ; $d_{4} = 15,6
+      \mathrm{~mm}$ ; $d_{5} = 15,7 \mathrm{~mm}$ ; la moyenne arithmétique de ces
+      résultats est égale à $\bar{d} = 1/5 (15,6 + \dots + 15,7)$ mm = 15,7 mm. $
+      v_{1}=d_{1}-\overline{d}=1 5, 6 \mathrm{~ mm}-1 5, 7 \mathrm{~ mm}=-0, 1 \mathrm{~
+      mm} $ et $ v_{2}=\overline{d_{2}}-d=1 5, 8 \mathrm{~ mm}-1 5, 7 \mathrm{~ mm}=+0,
+      1 \mathrm{~ mm} $ etc.'
   id: 8.1.5.3-fra
   notes:
   - content: En abrégé, on appelle simplement cette erreur « erreur apparente ».
@@ -41,4 +39,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: dea96c46-2cb7-4c11-bfc8-b65fe7101b8a
+id: 9675a7c5-d9d5-44bd-b0ad-374f60652f79

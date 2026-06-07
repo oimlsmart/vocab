@@ -2,13 +2,13 @@
 data:
   identifier: '4.5'
   localized_concepts:
-    fra: 3808eae4-0061-4e8b-9610-6489596454f3
+    fra: 8e773e1a-0cd4-41f7-8a5b-94bbc3ff8c18
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: deb25de3-7504-4087-baf7-58f72ae5cff9
+id: ebe1cd2c-c07f-4236-af52-c4e399ffc380
 schema_version: '3'
 ---
 data:
@@ -22,8 +22,7 @@ data:
   - content: Échelle internationale pratique des températures basée sur les températures
       fixes de fusion ou d'ébullition d'une série de corps purs déterminés et sur
       l'utilisation d'instruments de mesurage et de formules d'interpolation définit.
-  - content: Échelle de dureté de Mobs, basée sur les duretés d'une série de minéraux
-      déterminés.
+      Échelle de dureté de Mobs, basée sur les duretés d'une série de minéraux déterminés.
   id: 4.5-fra
   notes: []
   sources: []
@@ -34,4 +33,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3808eae4-0061-4e8b-9610-6489596454f3
+id: 8e773e1a-0cd4-41f7-8a5b-94bbc3ff8c18

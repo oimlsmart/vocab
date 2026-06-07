@@ -2,13 +2,13 @@
 data:
   identifier: 5.3.1
   localized_concepts:
-    fra: e186cd52-b80c-48c8-ace5-78dbebc225a2
+    fra: 266e0028-511f-4f92-bbb1-89626d9d5afd
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: b561cd6b-2718-4538-a232-3844a5c7d4f6
+id: 234b5f7d-bd9c-4db7-b73c-055aae9987ef
 schema_version: '3'
 ---
 data:
@@ -25,9 +25,8 @@ data:
       la grandeur mesurée est égale à 1.
   - content: 2. Lorsque l'échelle d'un instrument n'indique pas une unité déterminée
       ou bien si elle indique des unités de mesure autres que celle relative à la
-      grandeur mesurée, la constante est un nombre concret,
-  - content: lorsque l'échelle est exprimée en unités de la grandeur mesurée, la constante
-      est un nombre abstrait.
+      grandeur mesurée, la constante est un nombre concret, lorsque l'échelle est
+      exprimée en unités de la grandeur mesurée, la constante est un nombre abstrait.
   - content: 3. Les instruments à étendues multiples mais à échelle unique ont plusieurs
       constantes qui correspondent, par exemple, aux différentes positions d'un commutateur.
   sources: []
@@ -38,4 +37,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: e186cd52-b80c-48c8-ace5-78dbebc225a2
+id: 266e0028-511f-4f92-bbb1-89626d9d5afd

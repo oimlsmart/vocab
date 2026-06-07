@@ -2,13 +2,13 @@
 data:
   identifier: '7.2'
   localized_concepts:
-    fra: 549714fc-1a2b-468c-9b2a-9e937e582024
+    fra: 0ba4b615-1ae6-4931-bdf0-654d5afdde23
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 5854e7cb-1aa3-45f3-9b2b-2cf43a423300
+id: ecf387d4-a866-402b-a7d3-cf0257f9b6a6
 schema_version: '3'
 ---
 data:
@@ -19,15 +19,11 @@ data:
   - content: Présentation symbolique de la chaîne de mesurage de l'instrument avec
       indication des grandeurs transformées dans cet instrument.
   examples:
-  - content: Schéma de structure du thermomètre thermoélectrique (thermocouple).
-  - content: "$T$ : température,"
-  - content: '1 : thermocouple,'
-  - content: "$E$ : force électromotrice — $I$ : intensité du courant,"
-  - content: 'II : élément transducteur E,'
-  - content: 'M : couple de rotation,'
-  - content: 'III : système magnéto-électrique du millivoltmètre'
-  - content: "$\\alpha$ : angle de la rotation de l'alguille,"
-  - content: 'IV : ressort spirale du millivoltmètre'
+  - content: 'Schéma de structure du thermomètre thermoélectrique (thermocouple).
+      $T$ : température, 1 : thermocouple, $E$ : force électromotrice — $I$ : intensité
+      du courant, II : élément transducteur E, M : couple de rotation, III : système
+      magnéto-électrique du millivoltmètre $\alpha$ : angle de la rotation de l''alguille,
+      IV : ressort spirale du millivoltmètre'
   id: 7.2-fra
   notes:
   - content: Les éléments transducteurs sont en général représentés sous forme de
@@ -41,4 +37,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 549714fc-1a2b-468c-9b2a-9e937e582024
+id: 0ba4b615-1ae6-4931-bdf0-654d5afdde23

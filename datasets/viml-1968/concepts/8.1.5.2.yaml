@@ -2,13 +2,13 @@
 data:
   identifier: 8.1.5.2
   localized_concepts:
-    fra: b73939b8-8f5a-435e-88a4-29790bbce314
+    fra: c2abc017-f60d-4736-96cf-ecee899576f3
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: f22e8ae8-9cf8-4328-bf7d-f98498fdcb16
+id: 53597e1d-50bb-440f-8cfb-8131fda6e047
 schema_version: '3'
 ---
 data:
@@ -19,9 +19,9 @@ data:
   - content: Valeur de l'erreur, abstraction faite de son signe.
   examples:
   - content: Si l'erreur maximale tolérée d'un instrument de mesurage est égale à
-      ± 0,2 mm, la valeur absolue de cette erreur est | ± 0,2 | mm = 0,2 mm.
-  - content: Dans l'exemple cité ci-dessus la valeur absolue de l'erreur est aussl
-      $ \mid \pm 0, 2 \mid \mathrm{mm}=0, 2 \mathrm{mm}. $
+      ± 0,2 mm, la valeur absolue de cette erreur est | ± 0,2 | mm = 0,2 mm. Dans
+      l'exemple cité ci-dessus la valeur absolue de l'erreur est aussl $ \mid \pm
+      0, 2 \mid \mathrm{mm}=0, 2 \mathrm{mm}. $
   id: 8.1.5.2-fra
   notes:
   - content: Il faut faire une distinction entre le terme « erreur absolue » et le
@@ -35,4 +35,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: b73939b8-8f5a-435e-88a4-29790bbce314
+id: c2abc017-f60d-4736-96cf-ecee899576f3

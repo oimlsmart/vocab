@@ -2,13 +2,13 @@
 data:
   identifier: 9.5.1
   localized_concepts:
-    fra: 3845b923-3ee1-4ff1-bfbd-8a0532ae640f
+    fra: 5bafcebe-1dd7-4d95-81e1-2741b6562827
   domains:
   - concept_id: section-9
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: aaf3d7fe-6548-4814-828a-61a7943724ec
+id: 9a058b2a-7156-4328-88c6-d9114106d10b
 schema_version: '3'
 ---
 data:
@@ -20,38 +20,27 @@ data:
       d'un instrument de mesurage dans des conditions déterminées d'emploi.
   examples:
   - content: 'Si un courant électrique est mesuré avec un microampèremètre et si les
-      10 valeurs suivantes en microampères ont été trouvées :'
-  - content: '6,27 ; 6,38 ; 6,62 ; 6,18 ; 6,31 ; 6,43 ; 6,36 ; 6,00 ; 6,35 ; 6,50
-      ; la moyenne arithmétique de ces valeurs est :'
-  - content: "$$"
-  - content: "\\bar {v} _ {i} = \\frac {6 , 2 7 + 6 , 3 8 + 6 , 6 2 + \\dots + 6 ,
-      5 0}{1 0} = 6, 3 4 \\mu \\mathrm {A} (\\text {v a l e u r i n d l i q u e s})"
-  - content: "$$"
-  - content: 'et al en mesurant le même courant par une méthode beaucoup plus précise,
-      on a obtenu :'
-  - content: "$v_{a} = 6.42 \\mu \\mathrm{A}$ (valeur conventionnellement vraie)"
-  - content: 'l''erreur de justesse du microampèremètre est égale à :'
-  - content: "$$"
-  - content: e y = v _ {i} - v _ {a} = 6, 3 4 - 6, 4 2 = - 0, 0 8 \mu \mathrm {A}.
-  - content: "$$"
+      10 valeurs suivantes en microampères ont été trouvées : 6,27 ; 6,38 ; 6,62 ;
+      6,18 ; 6,31 ; 6,43 ; 6,36 ; 6,00 ; 6,35 ; 6,50 ; la moyenne arithmétique de
+      ces valeurs est : $$ \bar {v} _ {i} = \frac {6 , 2 7 + 6 , 3 8 + 6 , 6 2 + \dots
+      + 6 , 5 0}{1 0} = 6, 3 4 \mu \mathrm {A} (\text {v a l e u r i n d l i q u e
+      s}) $$ et al en mesurant le même courant par une méthode beaucoup plus précise,
+      on a obtenu : $v_{a} = 6.42 \mu \mathrm{A}$ (valeur conventionnellement vraie)
+      l''erreur de justesse du microampèremètre est égale à : $$ e y = v _ {i} - v
+      _ {a} = 6, 3 4 - 6, 4 2 = - 0, 0 8 \mu \mathrm {A}. $$'
   id: 9.5.1-fra
   notes:
   - content: 'Pratiquement, on détermine l''erreur de justesse $e_j$ d''une mesure
       matérialisée comme étant la différence entre sa valeur nominale $v_n$ et la
       moyenne arithmétique $\overline{v_0}$ des valeurs vraies conventionnelles de
       la mesure matérialisée trouvées comme résultats d''une série de mesurages consécutifs,
-      effectués dans les conditions usuelles d''emploi :'
-  - content: "$$"
-  - content: e y = v _ {n} - \overline {{v _ {0}}}
-  - content: "$$"
-  - content: 'De la même façon, on détermine l''erreur de justesse d''un instrument
+      effectués dans les conditions usuelles d''emploi : $$ e y = v _ {n} - \overline
+      {{v _ {0}}} $$ De la même façon, on détermine l''erreur de justesse d''un instrument
       mesureur comme étant la différence entre la moyenne arithmétique $\bar{v}_i$
       des indications données par l''instrument dans une série de mesurages consécutifs
       d''une même grandeur, effectués dans les conditions usuelles d''emploi, et la
-      valeur conventionnellement vraie $v_0$ de la grandeur mesuree :'
-  - content: "$$"
-  - content: e _ {1} = \overline {{v _ {i}}} - v _ {e}
-  - content: "$$"
+      valeur conventionnellement vraie $v_0$ de la grandeur mesuree : $$ e _ {1} =
+      \overline {{v _ {i}}} - v _ {e} $$'
   sources: []
   terms:
   - type: expression
@@ -60,4 +49,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 3845b923-3ee1-4ff1-bfbd-8a0532ae640f
+id: 5bafcebe-1dd7-4d95-81e1-2741b6562827

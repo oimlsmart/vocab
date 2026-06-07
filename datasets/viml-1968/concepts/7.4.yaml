@@ -2,13 +2,13 @@
 data:
   identifier: '7.4'
   localized_concepts:
-    fra: 58383a34-3d44-42fa-8a51-880633f14337
+    fra: 4029d153-e069-4203-ad70-e95ae84323fa
   domains:
   - concept_id: section-7
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: e3be4d21-777b-408b-989e-8d2de5a51a8d
+id: 2c07c820-7a11-4256-9b4d-d7d9212ef0c0
 schema_version: '3'
 ---
 data:
@@ -23,10 +23,9 @@ data:
   notes:
   - content: 1. Les repères de l'échelle peuvent être chiffrés ou non, la chiffraison
       peut être abstraite ou correspondre aux unités de mesure utilisées.
-  - content: 2. Certains instruments, dits à étendues multiples, peuvent avoir soit
+  - content: '2. Certains instruments, dits à étendues multiples, peuvent avoir soit
       plusieurs échelles, soit une seule échelle à chiffraison changeante ou à commutateur
-      de multiplication.
-  - content: 'Exemple : échelle graduée et chiffrée.'
+      de multiplication. Exemple : échelle graduée et chiffrée.'
   sources: []
   terms:
   - type: expression
@@ -35,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 58383a34-3d44-42fa-8a51-880633f14337
+id: 4029d153-e069-4203-ad70-e95ae84323fa

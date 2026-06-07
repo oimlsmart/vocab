@@ -2,13 +2,13 @@
 data:
   identifier: '4.4'
   localized_concepts:
-    fra: ce0f4e15-fda1-4827-8c0f-461a4a4c195b
+    fra: 8022c41b-15bd-4575-a36f-97675b6fa95f
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: a8272a9d-4aa6-40ad-9374-7b66c1cd6149
+id: 7fc2d720-a257-4644-bd98-e98947839adb
 schema_version: '3'
 ---
 data:
@@ -19,9 +19,9 @@ data:
   - content: Équation dans laquelle les symboles littéraux représentent des grandeurs.
   examples:
   - content: "$l = v.l$ — équation entre grandeurs du chemin $l$ parcouru dans un
-      temps $t$ par un mobile animé d'un mouvement uniforme avec la vitesse $v,$"
-  - content: "$S = \\frac{b.h}{2}$ — équation entre grandeurs de l'aire $S$ d'un triangle
-      dont un côté est $b$ et la hauteur correspondante $h$."
+      temps $t$ par un mobile animé d'un mouvement uniforme avec la vitesse $v,$ $S
+      = \\frac{b.h}{2}$ — équation entre grandeurs de l'aire $S$ d'un triangle dont
+      un côté est $b$ et la hauteur correspondante $h$."
   id: 4.4-fra
   notes:
   - content: L'équation entre grandeurs est valable indépendamment des unités de mesure
@@ -34,4 +34,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: ce0f4e15-fda1-4827-8c0f-461a4a4c195b
+id: 8022c41b-15bd-4575-a36f-97675b6fa95f

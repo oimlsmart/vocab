@@ -2,13 +2,13 @@
 data:
   identifier: 4.6.4
   localized_concepts:
-    fra: a0927896-97e8-4393-bffc-eb010d21a028
+    fra: 5bbb7b30-8d5b-4650-9c52-581f4f366e5a
   domains:
   - concept_id: section-4
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 3cc10949-e55d-4930-b635-5cb47127ba2f
+id: 3b80b92e-c0f9-4034-86f6-fd00fa46432e
 schema_version: '3'
 ---
 data:
@@ -18,17 +18,15 @@ data:
   definition:
   - content: Unité de mesure d'une grandeur dérivée.
   examples:
-  - content: 'Dans le Système International d''Unités (SI) :'
-  - content: m . s⁻¹ = unité de vitesse linéaire,
-  - content: 1 Wb = 1 m² . kg . s⁻² . A⁻¹ = unité de flux magnétique, mais cette unité
-      peut aussi être exprimée par deux autres unités dérivées C. Ω par exemple.
+  - content: 'Dans le Système International d''Unités (SI) : m . s⁻¹ = unité de vitesse
+      linéaire, 1 Wb = 1 m² . kg . s⁻² . A⁻¹ = unité de flux magnétique, mais cette
+      unité peut aussi être exprimée par deux autres unités dérivées C. Ω par exemple.'
   id: 4.6.4-fra
   notes:
   - content: 'Pour quelques unités dérivées, il existe des noms et des symboles spéciaux,
       par exemple : newton (N), joule (J), volt (V), comme unités SI de force, d''énergie,
-      de potentiel électrique'
-  - content: Souvent il sera avantageux de ne pas exprimer les unités dérivées au
-      moyen des unités de base mals au moyen d'autres unités dérivées.
+      de potentiel électrique Souvent il sera avantageux de ne pas exprimer les unités
+      dérivées au moyen des unités de base mals au moyen d''autres unités dérivées.'
   sources: []
   terms:
   - type: expression
@@ -37,4 +35,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: a0927896-97e8-4393-bffc-eb010d21a028
+id: 5bbb7b30-8d5b-4650-9c52-581f4f366e5a

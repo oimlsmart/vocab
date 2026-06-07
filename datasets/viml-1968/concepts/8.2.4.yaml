@@ -2,13 +2,13 @@
 data:
   identifier: 8.2.4
   localized_concepts:
-    fra: 7495fb6f-11f9-4f0c-98ab-14ea59f22dbf
+    fra: e79c96c3-19c9-4347-9edb-e01d1052abf3
   domains:
   - concept_id: section-8
     source: urn:oiml:pub:v:1:1968
     ref_type: section
 status: valid
-id: 195687e7-1cd1-4282-9f09-54e11cfe046d
+id: 71decfab-3a1d-439f-bce3-a059e2924aed
 schema_version: '3'
 ---
 data:
@@ -33,14 +33,13 @@ data:
       des données expérimentales et d'autre part les différences $(x_{i} - \overline{x})$
       représentent des erreurs absolues apparentes.
   - content: 3. La notion envisagée se rapporte aussi bien aux appareils mesureurs
-      qu'aux mesures matérielisées graduées.
-  - content: Il est à remarquer qu'en ce qui concerne les mesures matérielisées qui
-      ne reprodusent qu'une seule valeur (ou plusieurs valeurs séparées) d'une grandeur,
-      il n'est théoriquement pas tout à fait correct de parler de dispersion de leurs
-      « indications » étant donné qu'elles représentent des valeurs constantes.
-  - content: Cependant, dans ce cas, on peut s'intéresser à la dispersion de la valeur
-      reproduite de la grandeur, dispersion que l'on peut connaître par des comparaisons
-      avec un étalon.
+      qu'aux mesures matérielisées graduées. Il est à remarquer qu'en ce qui concerne
+      les mesures matérielisées qui ne reprodusent qu'une seule valeur (ou plusieurs
+      valeurs séparées) d'une grandeur, il n'est théoriquement pas tout à fait correct
+      de parler de dispersion de leurs « indications » étant donné qu'elles représentent
+      des valeurs constantes. Cependant, dans ce cas, on peut s'intéresser à la dispersion
+      de la valeur reproduite de la grandeur, dispersion que l'on peut connaître par
+      des comparaisons avec un étalon.
   sources: []
   terms:
   - type: expression
@@ -49,4 +48,4 @@ data:
 language_code: fra
 entry_status: valid
 date_accepted: '1968-01-01T00:00:00+00:00'
-id: 7495fb6f-11f9-4f0c-98ab-14ea59f22dbf
+id: e79c96c3-19c9-4347-9edb-e01d1052abf3
