@@ -21,13 +21,13 @@ data:
   examples: []
   id: 5.3.1-fra
   notes:
-  - content: 1. La constante d'un instrument qui indique directement la valeur de
-      la grandeur mesurée est égale à 1.
-  - content: 2. Lorsque l'échelle d'un instrument n'indique pas une unité déterminée
+  - content: La constante d'un instrument qui indique directement la valeur de la
+      grandeur mesurée est égale à 1.
+  - content: Lorsque l'échelle d'un instrument n'indique pas une unité déterminée
       ou bien si elle indique des unités de mesure autres que celle relative à la
       grandeur mesurée, la constante est un nombre concret, lorsque l'échelle est
       exprimée en unités de la grandeur mesurée, la constante est un nombre abstrait.
-  - content: 3. Les instruments à étendues multiples mais à échelle unique ont plusieurs
+  - content: Les instruments à étendues multiples mais à échelle unique ont plusieurs
       constantes qui correspondent, par exemple, aux différentes positions d'un commutateur.
   sources: []
   terms:

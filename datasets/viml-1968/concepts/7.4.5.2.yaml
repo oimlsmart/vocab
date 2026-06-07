@@ -16,9 +16,10 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'Échelle dans laquelle les longueurs des échelons ne sont pas proportionnelles
-      à leurs valeurs. Exemple : échelles quadratiques logarithmiques, etc...'
-  examples: []
+  - content: Échelle dans laquelle les longueurs des échelons ne sont pas proportionnelles
+      à leurs valeurs.
+  examples:
+  - content: échelles quadratiques logarithmiques, etc...
   id: 7.4.5.2-fra
   notes: []
   sources: []

@@ -23,13 +23,13 @@ data:
   examples: []
   id: 9.2-fra
   notes:
-  - content: 1. Dans certains cas, les valeurs absolues des erreurs maximales tolérées
+  - content: Dans certains cas, les valeurs absolues des erreurs maximales tolérées
       peuvent être respectées dans l'étendue de la portée minimale, mais alors les
       erreurs relatives risquent de devenir trop importantes pour permettre l'utilisation
       pratique de l'instrument (cas des environs du zéro).
-  - content: 2. Certains instruments de mesurage peuvent avoir plusieurs étendues
-      de mesurage.
-  - content: '3. L''étendue de mesurage peut être couverte par l''étendue de l''échelle
+  - content: Certains instruments de mesurage peuvent avoir plusieurs étendues de
+      mesurage.
+  - content: 'L''étendue de mesurage peut être couverte par l''étendue de l''échelle
       (7.4.2.1) ou bien elle peut n''en constituer qu''une partie seulement. Aux instruments
       de la première catégorie appartiennent entre autres : les thermomètres médicaux,
       les aréométres, etc... Comme exemple des Instruments de la deuxième catégorie,
@@ -40,7 +40,7 @@ data:
       conditions usuelles d''emploi et des raisons de sécurité n''autorisent d''ailleurs
       pas l''utilisation de ces manomètres dans cette dernière zone, quoique les erreurs
       puissent éventuellement y rester dans les limites tolérées).'
-  - content: '4. Pour les compteurs, au lleu de l''étendue de mesurage de la grandeur
+  - content: 'Pour les compteurs, au lleu de l''étendue de mesurage de la grandeur
       mesurée (p. ex. pour les compteur d''eau : le volume), on applique l''étendue
       des charges (par ex. pour les compteurs d''eau : le débit).'
   sources: []

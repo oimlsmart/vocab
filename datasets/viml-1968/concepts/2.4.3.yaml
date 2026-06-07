@@ -16,12 +16,21 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'Toute vérification d''un instrument de mesurage qui suit la vérification
-      primitive : vérification périodique réglementaire, vérification après réparation,
-      ou vérification avant l''expiration de la période de validité de la vérification
-      périodique effectuée soit : à la demande de l''usager, parce que la marque de
-      poinçonnage, pour n''importe quelle cause, n''est plus valable pour le restant
-      de cette période de validité.'
+  - content: |-
+      Toute vérification d'un instrument de mesurage qui suit la vérification
+      primitive :
+
+      * vérification périodique réglementaire,
+
+      * vérification après réparation,
+
+      * ou vérification avant l'expiration de la période de validité de la
+      vérification périodique effectuée soit :
+
+      ** à la demande de l'usager,
+
+      ** parce que la marque de poinçonnage, pour n'importe quelle cause,
+      n'est plus valable pour le restant de cette période de validité.
   examples: []
   id: 2.4.3-fra
   notes: []

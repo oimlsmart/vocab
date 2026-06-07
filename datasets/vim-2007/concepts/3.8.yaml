@@ -33,11 +33,11 @@ data:
   - content: a) Sensing coil of a platinum resistance thermometer, b) rotor of a turbine
       flow meter, c) Bourdon tube of a pressure gauge, d) float of a level-measuring
       instrument, e) photocell of a spectrometer, f) thermotropic liquid crystal which
-      changes colour as a function of temperature. Note In some fields the term "detector"
-      is used for this concept.
+      changes colour as a function of temperature
   id: 3.8-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: Note In some fields the term "detector" is used for this concept.
   terms:
   - type: expression
     normative_status: preferred
@@ -57,15 +57,16 @@ data:
   - content: a) Bobine sensible d'un thermomètre à résistance de platine, b) rotor
       d'un débitmètre à turbine, c) tube de Bourdon d'un manomètre, d) flotteur d'un
       appareil de mesure de niveau, e) récepteur photoélectrique d'un spectrophotomètre,
-      f) cristal liquide thermotrope dont la couleur change en fonction de la température.
-      Note Dans certains domaines, le terme « détecteur » est employé pour ce concept.
+      f) cristal liquide thermotrope dont la couleur change en fonction de la température
   id: 3.8-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Note Dans certains domaines, le terme « détecteur » est employé pour
+      ce concept.
   terms:
   - type: expression
     normative_status: preferred
     designation: capteur, m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0960924b-e47e-42c4-bb09-98c41031034c
+id: '0960924b-e47e-42c4-bb09-98c41031034c'

@@ -19,9 +19,14 @@ data:
   - content: Ensemble d'installations de mesurage destinées à exécuter les mesurages
       de grandeurs d'une ou plusieurs espèces.
   examples:
-  - content: 'L''équipement de mesurage d''un bureau de vérification comprend : des
-      étalons de longueur, de capacité, de masse — des instruments de pesage — des
-      socles supports — des réservoirs d''eau, etc...'
+  - content: |-
+      L'équipement de mesurage d'un bureau de vérification comprend : des étalons de longueur, de capacité, de masse:
+
+      * des instruments de pesage
+
+      * des socles supports
+
+      * des réservoirs d'eau, etc...
   id: 6.3.1-fra
   notes:
   - content: Alors qu'une « installation de mesurage » est constituée par les moyens

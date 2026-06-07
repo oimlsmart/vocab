@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.26'
   localized_concepts:
@@ -21,10 +22,10 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{quantity,1.1}}, defined by a conventional {{measurement procedure,2.6}},
+  - content: "{{quantity,1.1}}, defined by a conventional {{measurement procedure,2.6}},
       for which a total ordering relation can be established, according to magnitude,
       with other quantities of the same {{kind,1.2}}, but for which no algebraic operations
-      among those quantities exist'
+      among those quantities exist"
   examples:
   - content: Rockwell C hardness.
   - content: Octane number for petroleum fuel.
@@ -51,21 +52,19 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{grandeur,1.1}} définie par une {{procédure de mesure,2.6}} adoptée
-      par convention, qui peut être classée avec d''autres grandeurs de même {{nature,1.2}}
-      selon l''ordre croissant ou décroissant de leurs expressions quantitatives,
-      mais pour laquelle aucune relation algébrique entre ces grandeurs n''existe'
-  examples: []
+  - content: "{{grandeur,1.1}} définie par une {{procédure de mesure,2.6}} adoptée
+      par convention, qui peut être classée avec d'autres grandeurs de même {{nature,1.2}}
+      selon l'ordre croissant ou décroissant de leurs expressions quantitatives, mais
+      pour laquelle aucune relation algébrique entre ces grandeurs n'existe"
+  examples:
+  - content: EXEMPLE 1 Dureté C de Rockwell.
+  - content: EXEMPLE 2 Indice d'octane pour les carburants.
+  - content: EXEMPLE 3 Magnitude d'un séisme sur l'échelle de Richter.
+  - content: EXEMPLE 4 Niveau subjectif de douleur abdominale sur une échelle de zéro
+      à cinq.
   id: 1.26-fra
   language_code: fra
   notes:
-  - content: 'EXEMPLE 1 Dureté C de Rockwell.
-
-      EXEMPLE 2 Indice d''octane pour les carburants.
-
-      EXEMPLE 3 Magnitude d''un séisme sur l''échelle de Richter.
-
-      EXEMPLE 4 Niveau subjectif de douleur abdominale sur une échelle de zéro à cinq.'
   - content: Les grandeurs ordinales ne peuvent prendre part qu'à des relations empiriques
       et n'ont ni {{unités de mesure,1.9}}, ni {{dimensions,1.7}}. Les différences
       et les rapports de grandeurs ordinales n'ont pas de signification.

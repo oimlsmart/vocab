@@ -16,10 +16,13 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: Ensemble d'opérations ayant pour but l'apposition sur un instrument de
-      mesurage de marques constatant que cet instrument répond aux prescriptions sur
-      la vérification. Certaines de ces marques peuvent protéger certains éléments
-      de l'instrument qui ont une influence sur ses propriétés métrologiques contre
+  - content: |-
+      Ensemble d'opérations ayant pour but l'apposition sur un instrument de
+      mesurage de marques constatant que cet instrument répond aux prescriptions
+      sur la vérification.
+
+      Certaines de ces marques peuvent protéger certains éléments de
+      l'instrument qui ont une influence sur ses propriétés métrologiques contre
       des modifications ou altéra-tions effectuées après la vérification.
   examples: []
   id: 2.7-fra

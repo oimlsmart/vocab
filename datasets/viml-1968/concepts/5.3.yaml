@@ -20,16 +20,16 @@ data:
   examples: []
   id: 5.3-fra
   notes:
-  - content: 1. La notion d'indication d'un instrument de mesurage se rapporte aussi
+  - content: La notion d'indication d'un instrument de mesurage se rapporte aussi
       aux mesures matériallisées comme par ex. les poids, les mesures matériallisées
       de capacité etc...; dans ces cas, l'indication équivaut à la valeur nominale
       de la mesure matériallisée ou bien à sa dénomination.
-  - content: 2. En tant qu'« indication », on entend aussi une indication présumée,
-      obtenue par interpolation de la position de l'index de l'instrument entre des
-      repères volsins.
-  - content: 3. La valour de la grandeur mesurée peut être indiquée directement en
-      unités de mesure de cette grandeur ou en certaines unités conventionnelles.
-      Dans ce cas, l'indication directe doit être multiplée par la constante de l'instrument.
+  - content: En tant qu'« indication », on entend aussi une indication présumée, obtenue
+      par interpolation de la position de l'index de l'instrument entre des repères
+      volsins.
+  - content: La valour de la grandeur mesurée peut être indiquée directement en unités
+      de mesure de cette grandeur ou en certaines unités conventionnelles. Dans ce
+      cas, l'indication directe doit être multiplée par la constante de l'instrument.
   sources: []
   terms:
   - type: expression

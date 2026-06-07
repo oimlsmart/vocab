@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.13'
   localized_concepts:
@@ -25,23 +26,16 @@ data:
       properties, which has been established to be fit for its intended use in {{measurement,2.1}}
       or in examination of {{nominal properties,1.30}}
   examples:
-  - content: 'Examples of reference materials embodying quantities:
-
-      a) water of stated purity, the dynamic viscosity of which is used to calibrate
-      viscometers;
-
-      b) human serum without an assigned quantity value for the amount-of-substance
-      concentration of the inherent cholesterol, used only as a measurement precision
-      control material;
-
-      c) fish tissue containing a stated mass fraction of a dioxin, used as a {{calibrator,5.12}}.'
-  - content: 'Examples of reference materials embodying nominal properties:
-
+  - content: |-
+      Examples of reference materials embodying quantities:
+      a) water of stated purity, the dynamic viscosity of which is used to calibrate viscometers;
+      b) human serum without an assigned quantity value for the amount-of-substance concentration of the inherent cholesterol, used only as a measurement precision control material;
+      c) fish tissue containing a stated mass fraction of a dioxin, used as a {{calibrator,5.12}}.
+  - content: |-
+      Examples of reference materials embodying nominal properties:
       a) colour chart indicating one or more specified colours;
-
       b) DNA compound containing a specified nucleotide sequence;
-
-      c) urine containing 19-androstenedione.'
+      c) urine containing 19-androstenedione.
   - content: Substance of known triple-point in a triple-point cell.
   - content: Glass of known optical density in a transmission filter holder.
   - content: Spheres of uniform size mounted on a microscope slide.
@@ -54,8 +48,8 @@ data:
       can be used for {{measurement precision,2.15}} control whereas only reference
       materials with assigned quantity values can be used for {{calibration,2.39}}
       or {{measurement trueness,2.14}} control.
-  - content: '''Reference material'' comprises materials embodying {{quantities,1.1}}
-      as well as nominal properties.'
+  - content: "'Reference material' comprises materials embodying {{quantities,1.1}}
+      as well as nominal properties."
   - content: A reference material is sometimes incorporated into a specially fabricated
       device.
   - content: Some reference materials have assigned quantity values that are metrologically
@@ -89,7 +83,22 @@ data:
   - content: matériau suffisamment homogène et stable en ce qui concerne des propriétés
       spécifiées, qui a été préparé pour être adapté à son utilisation prévue pour
       un {{mesurage,2.1}} ou pour l'examen de {{propriétés qualitatives,1.30}}
-  examples: []
+  examples:
+  - content: |-
+      EXEMPLE 1 Exemples de matériaux de référence supports de grandeurs:
+      a) eau de pureté déterminée, dont la viscosité dynamique est utilisée pour l'étalonnage de viscosimètres;
+      b) sérum humain sans valeur assignée à la concentration de cholestérol intrinsèque, utilisé seulement pour le contrôle de la fidélité de mesure;
+      c) tissu de poisson contenant une fraction massique déterminée de dioxine, utilisé comme {{étalon,5.1}} dans un étalonnage.
+  - content: |-
+      EXEMPLE 2 Exemples de matériaux de référence supports de propriétés qualitatives:
+      a) nuancier de couleurs indiquant une ou plusieurs couleurs spécifiées;
+      b) ADN contenant une séquence spécifiée de nucléotides;
+      c) urine contenant de la 19-androstènedione.
+  - content: EXEMPLE 1 Substance dont le point triple est connu dans une cellule triple
+      point.
+  - content: EXEMPLE 2 Verre de densité optique connue dans un support de filtre de
+      transmission.
+  - content: EXEMPLE 3 Sphères à granulométrie uniforme montées sur une lame de microscope.
   id: 5.13-fra
   language_code: fra
   notes:
@@ -100,35 +109,10 @@ data:
       servir à contrôler la {{fidélité de mesure,2.15}}, tandis que seuls des matériaux
       à valeurs assignées peuvent servir à l'{{étalonnage,2.39}} ou au contrôle de
       la {{justesse de mesure,2.14}}.
-  - content: 'Les matériaux de référence comprennent des matériaux caractérisés par
+  - content: Les matériaux de référence comprennent des matériaux caractérisés par
       des {{grandeurs,1.1}} et des matériaux caractérisés par des propriétés qualitatives.
-
-      EXEMPLE 1 Exemples de matériaux de référence supports de grandeurs:
-
-      a) eau de pureté déterminée, dont la viscosité dynamique est utilisée pour l''étalonnage
-      de viscosimètres;
-
-      b) sérum humain sans valeur assignée à la concentration de cholestérol intrinsèque,
-      utilisé seulement pour le contrôle de la fidélité de mesure;
-
-      c) tissu de poisson contenant une fraction massique déterminée de dioxine, utilisé
-      comme {{étalon,5.1}} dans un étalonnage.
-
-      EXEMPLE 2 Exemples de matériaux de référence supports de propriétés qualitatives:
-
-      a) nuancier de couleurs indiquant une ou plusieurs couleurs spécifiées;
-
-      b) ADN contenant une séquence spécifiée de nucléotides;
-
-      c) urine contenant de la 19-androstènedione.'
-  - content: 'Un matériau de référence est quelquefois incorporé dans un dispositif
+  - content: Un matériau de référence est quelquefois incorporé dans un dispositif
       fabriqué spécialement.
-
-      EXEMPLE 1 Substance dont le point triple est connu dans une cellule triple point.
-
-      EXEMPLE 2 Verre de densité optique connue dans un support de filtre de transmission.
-
-      EXEMPLE 3 Sphères à granulométrie uniforme montées sur une lame de microscope.'
   - content: Certains matériaux de référence ont des valeurs assignées qui sont métrologiquement
       traçables à une {{unité de mesure,1.9}} en dehors d'un {{système d'unités,1.13}}.
       Ces matériaux comprennent des vaccins auxquels des unités internationales (UI)

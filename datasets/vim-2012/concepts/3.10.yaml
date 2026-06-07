@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.10'
   localized_concepts:
@@ -46,15 +47,14 @@ data:
   definition:
   - content: suite d'éléments d'un {{système de mesure,3.2}} qui constitue un seul
       chemin du signal depuis le {{capteur,3.8}} jusqu'à l'élément de sortie
-  examples: []
+  examples:
+  - content: EXEMPLE 1 Chaîne de mesure électroacoustique comprenant un microphone,
+      un atténuateur, un filtre, un amplificateur et un voltmètre.
+  - content: EXEMPLE 2 Chaîne de mesure mécanique comprenant un tube de Bourdon, un
+      système de leviers, deux roues dentées et un cadran mécanique.
   id: 3.10-fra
   language_code: fra
-  notes:
-  - content: 'EXEMPLE 1 Chaîne de mesure électroacoustique comprenant un microphone,
-      un atténuateur, un filtre, un amplificateur et un voltmètre.
-
-      EXEMPLE 2 Chaîne de mesure mécanique comprenant un tube de Bourdon, un système
-      de leviers, deux roues dentées et un cadran mécanique.'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred

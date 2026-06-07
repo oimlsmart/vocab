@@ -22,7 +22,7 @@ data:
   examples: []
   id: 9.6.4-fra
   notes:
-  - content: '1. On calculo en général les erreurs limites de fidélité comme le produit
+  - content: 'On calculo en général les erreurs limites de fidélité comme le produit
       de l''erreur moyenne quadratique de fidélité par un nombre $t$ (entier ou fractionnaires),
       on a alors : $e_1 = + t s$ et $e_2 = - t s$ ou $s$ est calculé selon 8.1.7.1
       et le nombre $t$ est fixé en fonction de la probabilité $P$ de ne pas dépasser
@@ -35,15 +35,15 @@ data:
       probabilité de 99,73 % sont $ e_{1}=+0,17\times 3\mu A=+0,51\mu A $ et $ e_{2}=-0,17\times
       3\mu A=-0,51\mu A $ , c''est-à-dire que l''étendue limite d''infidélité est
       égale à 1,02 $ \mu A. $'
-  - content: '2. Pour les besoins de la métrologie légale, on définit les erreurs
-      limites de fidélité d''un instrument de mesurage, pour une valeur donuée de
-      la grandeur à mesurer, comme étant les différences algébriques entre les valeurs
-      limites supérieure $v_{i_{\max}}$ et inférieure $v_{i_{\min}}$ des indications
-      que peut donner l''instrument sans tenir compte des erreurs de lecture, et la
-      valeur moyenne $v_{i}$ des indications. L''étendue limite d''infidélité est
-      égale dans co cas à $ v_{i}_{\max }-v_{i}_{\min } $ Pour simplifier les calculs,
-      on prend généralement : $v_{i} = 1/2 \left(v_{i_{\max}} + v_{i_{\min}}\right)$
-      et les erreurs limites de fidélité sont alors égales à $\pm 1/2 \left(v_{i_{\max}}
+  - content: 'Pour les besoins de la métrologie légale, on définit les erreurs limites
+      de fidélité d''un instrument de mesurage, pour une valeur donuée de la grandeur
+      à mesurer, comme étant les différences algébriques entre les valeurs limites
+      supérieure $v_{i_{\max}}$ et inférieure $v_{i_{\min}}$ des indications que peut
+      donner l''instrument sans tenir compte des erreurs de lecture, et la valeur
+      moyenne $v_{i}$ des indications. L''étendue limite d''infidélité est égale dans
+      co cas à $ v_{i}_{\max }-v_{i}_{\min } $ Pour simplifier les calculs, on prend
+      généralement : $v_{i} = 1/2 \left(v_{i_{\max}} + v_{i_{\min}}\right)$ et les
+      erreurs limites de fidélité sont alors égales à $\pm 1/2 \left(v_{i_{\max}}
       - v_{i_{\min}}\right)$.'
   sources: []
   terms:

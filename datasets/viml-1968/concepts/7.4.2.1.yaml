@@ -18,14 +18,14 @@ data:
   definition:
   - content: Zone comprise entre les repères correspondant à la valeur minimale et
       la valeur maximale de l'échelle.
-  examples: []
+  examples:
+  - content: Dans les compteurs, l’étendue du dispositif indicateur remplace l’étendue
+      de l’échelle.
   id: 7.4.2.1-fra
   notes:
-  - content: '1. Cortains instruments de mesurage peuvent avoir plusieurs étendues
-      partielles d''échelle, exemple : thermomètres à liquide avec élargissements
-      locaux du tube capillaire.'
-  - content: 2. Dans les compteurs, l'étendue du dispositif indicateur remplace l'étendue
-      de l'échelle.
+  - content: 'Certains instruments de mesurage peuvent avoir plusieurs étendues partielles
+      d’échelle, exemple : thermomètres à liquide avec élargissements locaux du tube
+      capillaire.'
   sources: []
   terms:
   - type: expression

@@ -16,8 +16,11 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: Agents du Service national de métrologie légale habilités à exercer les
-      fonctions de vérification. L'ensemble de ces agents constitue un corps hiérarchisé.
+  - content: |-
+      Agents du Service national de métrologie légale habilités à exercer les
+      fonctions de vérification.
+
+      L'ensemble de ces agents constitue un corps hiérarchisé.
   examples: []
   id: 1.2-fra
   notes: []

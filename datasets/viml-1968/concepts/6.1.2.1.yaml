@@ -19,17 +19,22 @@ data:
   - content: Appareil mesureur qui donne, par une simple indication (unique), la valeur
       d'une grandeur mesuree (sans imprimer ni enregistrer cette indication).
   examples:
-  - content: pied à coulisse — ampèremètre — manomètre.
+  - content: |-
+      pied à coulisse:
+
+      * ampèremètre
+
+      * manomètre.
   id: 6.1.2.1-fra
   notes:
-  - content: 1. L'indication peut être donnée par un dispositif à variation continue
+  - content: L'indication peut être donnée par un dispositif à variation continue
       ou discontinue.
-  - content: 2. Par opposition à l'apparell mesureur indicateur, l'apparell mesureur
+  - content: Par opposition à l'apparell mesureur indicateur, l'apparell mesureur
       intégrateur ou l'apparell mesureur totalsateur donne la valeur d'une grandeur
       mesurée par la différence de deux indications (à différents moments).
-  - content: '3. Lorsque l''appareil mesureur indicateur envisagé ne peut pas être
-      confondu avec un simple dispositif indicateur, il est permis de le désigner
-      par l''expression abrégée : appareil indicateur.'
+  - content: 'Lorsque l''appareil mesureur indicateur envisagé ne peut pas être confondu
+      avec un simple dispositif indicateur, il est permis de le désigner par l''expression
+      abrégée : appareil indicateur.'
   sources: []
   terms:
   - type: expression

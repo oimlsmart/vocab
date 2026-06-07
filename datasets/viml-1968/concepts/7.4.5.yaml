@@ -16,16 +16,18 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'Échelle dont les repères apparaissent de façon discontinue et sont constitués
+  - content: Échelle dont les repères apparaissent de façon discontinue et sont constitués
       par des chiffres alignés indiquant directement la valeur numérique de la grandeur
-      mesurée. L''échelle numérique est à indication discontinue. Remarques : L''ensemble
-      des chiffres constituent une échelle numérique peut être placé sur une ou plusieurs
-      surfaces planes (ou non) sur lesquelles les chiffres à lire apparaissent brusquement.
-      Exemple : échelle numérique composée de quatre séries de chiffres placés sur
-      des rouleaux : les chiffros à lire apparaissent dans la fenêtre.'
-  examples: []
+      mesurée.
+  examples:
+  - content: 'échelle numérique composée de quatre séries de chiffres placés sur des
+      rouleaux : les chiffres à lire apparaissent dans la fenêtre.'
   id: 7.4.5-fra
-  notes: []
+  notes:
+  - content: L’échelle numérique est à indication discontinue.
+  - content: L’ensemble des chiffres constituent une échelle numérique peut être placé
+      sur une ou plusieurs surfaces planes (ou non) sur lesquelles les chiffres à
+      lire apparaissent brusquement.
   sources: []
   terms:
   - type: expression

@@ -22,10 +22,10 @@ data:
   examples: []
   id: 8.1.8.2-fra
   notes:
-  - content: 1. On calcul en général les erreurs limites de la moyenne arithmétique
-      d'une série de mesurages de la même façon que celles relatives à un seul mesurage
+  - content: On calcul en général les erreurs limites de la moyenne arithmétique d'une
+      série de mesurages de la même façon que celles relatives à un seul mesurage
       mais en utilisant l'écart moyen quadratique $s_r$.
-  - content: 2. Pour un petit nombre de mesurages, on se sert des valeurs t calculées
+  - content: Pour un petit nombre de mesurages, on se sert des valeurs t calculées
       selon la distribution de Student.
   sources: []
   terms:
