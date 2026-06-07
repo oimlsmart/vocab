@@ -36,11 +36,11 @@ data:
   definition:
   - content: device, used in measurement, that provides an output quantity having
       a specified relation to the input quantity
-  examples: []
+  examples:
+  - content: Thermocouple, electric current transformer, strain gauge, pH electrode,
+      Bourdon tube, bimetallic strip.
   id: 0.11-eng
-  notes:
-  - content: Example Thermocouple, electric current transformer, strain gauge, pH
-      electrode, Bourdon tube, bimetallic strip.
+  notes: []
   sources:
   - origin:
       ref:
@@ -65,11 +65,11 @@ data:
   definition:
   - content: dispositif, employé en mesurage, qui fait correspondre à une grandeur
       d'entrée une grandeur de sortie selon une loi déterminée
-  examples: []
+  examples:
+  - content: Thermocouple, transformateur de courant électrique, jauge de contrainte,
+      électrode de pH, tube de Bourdon, bilame.
   id: 0.11-fra
-  notes:
-  - content: Exemple Thermocouple, transformateur de courant électrique, jauge de
-      contrainte, électrode de pH, tube de Bourdon, bilame.
+  notes: []
   sources:
   - origin:
       ref:

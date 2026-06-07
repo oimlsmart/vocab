@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.11'
   localized_concepts:
@@ -21,7 +22,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement unit,1.9}} for a {{derived quantity,1.5}}'
+  - content: "{{measurement unit,1.9}} for a {{derived quantity,1.5}}"
   examples:
   - content: The metre per second, symbol m/s, and the centimetre per second, symbol
       cm/s, are derived units of speed in the {{SI,1.16}}. The kilometre per hour,
@@ -44,16 +45,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{unité de mesure,1.9}} d''une {{grandeur dérivée,1.5}}'
-  examples: []
-  id: 1.11-fra
-  language_code: fra
-  notes:
-  - content: EXEMPLES Le mètre par seconde, symbole m/s, et le centimètre par seconde,
-      symbole cm/s, sont des unités dérivées de vitesse dans le {{SI,1.16}}. Le kilomètre
+  - content: "{{unité de mesure,1.9}} d'une {{grandeur dérivée,1.5}}"
+  examples:
+  - content: Le mètre par seconde, symbole m/s, et le centimètre par seconde, symbole
+      cm/s, sont des unités dérivées de vitesse dans le {{SI,1.16}}. Le kilomètre
       par heure, symbole km/h, est une unité de vitesse en dehors du SI mais dont
       l'usage est accepté avec le SI. Le noeud, égal à un mille marin par heure, est
       une unité de vitesse en dehors du SI.
+  id: 1.11-fra
+  language_code: fra
+  notes: []
   terms:
   - type: expression
     normative_status: preferred

@@ -22,16 +22,16 @@ data:
   id: 5.2-eng
   language_code: eng
   notes:
-  - content: for a nominal range of -10 V to +10 V, the span is 20 V. NOTE   ln some
-      fields of knowledge, the difference between the greatest and smallest values
-      Is called range. Certains des termes définis dans ce chapitre sont applicables
-      aussi bien à un appareil de mesure,  à  un  dispositif  de  mesure,  à  un transducteur
-      de mesure ou à un système de mesure  et,  par  analogie,  à  une  mesure matérialisée
-      ou à un matériau de référence. Pour cette raison, le terme «instrument de mesure»
-      s'entend ici comme terme générique couvrant toutes ces acceptions possibles.
-      Le signal d'entrée d'un système de mesure peut être appelé stimulus, en anglais,
-      et le signal de sortie peut être appelé réponse. Dans ce chapitre, on désigne
-      par «mesurande)) la  grandeur  appliquée  à  un  instrument  de mesure.
+  - content: for a nominal range of -10 V to +10 V, the span is 20 V
+  - content: ln some fields of knowledge, the difference between the greatest and
+      smallest values Is called range. Certains des termes définis dans ce chapitre
+      sont applicables aussi bien à un appareil de mesure,  à  un  dispositif  de  mesure,  à  un
+      transducteur de mesure ou à un système de mesure  et,  par  analogie,  à  une  mesure
+      matérialisée ou à un matériau de référence. Pour cette raison, le terme «instrument
+      de mesure» s'entend ici comme terme générique couvrant toutes ces acceptions
+      possibles. Le signal d'entrée d'un système de mesure peut être appelé stimulus,
+      en anglais, et le signal de sortie peut être appelé réponse. Dans ce chapitre,
+      on désigne par «mesurande)) la  grandeur  appliquée  à  un  instrument  de mesure.
   terms:
   - type: expression
     normative_status: preferred
@@ -50,9 +50,9 @@ data:
   id: 5.2-fra
   language_code: fra
   notes:
-  - content: peur un calibre de -10 V à +10 V, l'intervalle de mesure est 20 V. NOTE   Dans
-      certains domaines scientifiques, la diffé-rence entre la pius grande et la plus
-      petite valeur est appelée étendue.
+  - content: peur un calibre de -10 V à +10 V, l'intervalle de mesure est 20 V
+  - content: Dans certains domaines scientifiques, la diffé-rence entre la pius grande
+      et la plus petite valeur est appelée étendue.
   terms:
   - type: expression
     normative_status: preferred

@@ -64,12 +64,11 @@ data:
   - content: "{{valeur,1.19}} attribuée à une {{grandeur,1.1}} par un accord pour
       un usage donné"
   examples:
-  - content: EXEMPLE 1 Valeur conventionnelle de l'accélération due à la pesanteur
-      ou accélération normale de la pesanteur, gn = 9,806 65 ms−2.
-  - content: EXEMPLE 2 Valeur conventionnelle de la constante de Josephson, KJ-90
-      = 483 597,9 GHz V-1.
-  - content: EXEMPLE 3 Valeur conventionnelle d'un étalon de masse donné, m = 100.003
-      47 g.
+  - content: Valeur conventionnelle de l'accélération due à la pesanteur ou accélération
+      normale de la pesanteur, gn = 9,806 65 ms−2.
+  - content: Valeur conventionnelle de la constante de Josephson, KJ-90 = 483 597,9
+      GHz V-1.
+  - content: Valeur conventionnelle d'un étalon de masse donné, m = 100.003 47 g.
   id: 2.12-fra
   language_code: fra
   notes:

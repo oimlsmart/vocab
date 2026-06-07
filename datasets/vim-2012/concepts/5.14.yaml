@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.14'
   localized_concepts:
@@ -21,9 +22,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{reference material,5.13}}, accompanied by documentation issued by
+  - content: "{{reference material,5.13}}, accompanied by documentation issued by
       an authoritative body and providing one or more specified property values with
-      associated uncertainties and traceabilities, using valid procedures'
+      associated uncertainties and traceabilities, using valid procedures"
   examples:
   - content: Human serum with assigned {{quantity value,1.19}} for the concentration
       of cholesterol and associated {{measurement uncertainty,2.26}} stated in an
@@ -32,8 +33,8 @@ data:
   id: 5.14-eng
   language_code: eng
   notes:
-  - content: '''Documentation'' is given in the form of a ''certificate'' (see ISO
-      Guide 31:2000).'
+  - content: "'Documentation' is given in the form of a 'certificate' (see ISO Guide
+      31:2000)."
   - content: Procedures for the production and certification of certified reference
       materials are given, e.g. in ISO Guide 34 and ISO Guide 35.
   - content: In this definition, “uncertainty” covers both 'measurement uncertainty'
@@ -63,18 +64,18 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{matériau de référence,5.13}}, accompagné d''une documentation délivrée
+  - content: "{{matériau de référence,5.13}}, accompagné d'une documentation délivrée
       par un organisme faisant autorité et fournissant une ou plusieurs valeurs de
       propriétés spécifiées avec les incertitudes et les traçabilités associées, en
-      utilisant des procédures valables'
-  examples: []
+      utilisant des procédures valables"
+  examples:
+  - content: Sérum humain dont la {{valeur,1.19}} assignée à la concentration de cholestérol
+      et l'{{incertitude de mesure,2.26}} associée sont indiquées dans un certificat
+      et qui sert d'{{étalon,5.1}} dans un {{étalonnage,2.39}} ou de matériau de contrôle
+      de la {{justesse de mesure,2.14}}.
   id: 5.14-fra
   language_code: fra
   notes:
-  - content: EXEMPLE Sérum humain dont la {{valeur,1.19}} assignée à la concentration
-      de cholestérol et l'{{incertitude de mesure,2.26}} associée sont indiquées dans
-      un certificat et qui sert d'{{étalon,5.1}} dans un {{étalonnage,2.39}} ou de
-      matériau de contrôle de la {{justesse de mesure,2.14}}.
   - content: La documentation mentionnée est délivrée sous la forme d'un «certificat»
       (voir le Guide ISO 31:2000).
   - content: Des procédures pour la production et la certification de matériaux de

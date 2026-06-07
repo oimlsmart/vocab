@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.8'
   localized_concepts:
@@ -47,14 +48,14 @@ data:
   definition:
   - content: élément d'un {{système de mesure,3.2}} qui est directement soumis à l'action
       du phénomène, du corps ou de la substance portant la {{grandeur,1.1}} à mesurer
-  examples: []
+  examples:
+  - content: Bobine sensible d'un thermomètre à résistance de platine, rotor d'un
+      débitmètre à turbine, tube de Bourdon d'un manomètre, flotteur d'un appareil
+      de mesure de niveau, récepteur photoélectrique d'un spectrophotomètre, cristal
+      liquide thermotrope dont la couleur change en fonction de la température.
   id: 3.8-fra
   language_code: fra
   notes:
-  - content: EXEMPLES Bobine sensible d'un thermomètre à résistance de platine, rotor
-      d'un débitmètre à turbine, tube de Bourdon d'un manomètre, flotteur d'un appareil
-      de mesure de niveau, récepteur photoélectrique d'un spectrophotomètre, cristal
-      liquide thermotrope dont la couleur change en fonction de la température.
   - content: Dans certains domaines, le terme «détecteur» est employé pour ce concept.
   terms:
   - type: expression

@@ -34,12 +34,12 @@ data:
       of measuring instruments,4.02}} that performs a specific function or functions
       and that can be separately evaluated according to prescribed metrological and
       technical performance requirements as specified in the relevant Recommendation
-  examples: []
-  id: 4.04-eng
-  notes:
-  - content: 'Example Typical modules of a weighing instrument are: weighing module,
-      load cell, indicator, analog or digital data processing device, terminal, primary
+  examples:
+  - content: 'Typical modules of a weighing instrument are: weighing module, load
+      cell, indicator, analog or digital data processing device, terminal, primary
       display.'
+  id: 4.04-eng
+  notes: []
   sources: []
   terms:
   - type: expression
@@ -59,12 +59,12 @@ data:
       d'instruments de mesure,4.02}} ayant une ou plusieurs fonctions spécifiques
       et qui peut être évaluée séparément, en application des exigences de performances
       métrologiques et techniques fixées dans la Recommandation applicable
-  examples: []
+  examples:
+  - content: 'Les modules typiques d''un instrument de pesage sont : le module de
+      pesage, la cellule de pesage, l''indicateur, le dispositif analogique ou numérique
+      d''élaboration des données, le terminal ou l''afficheur principal.'
   id: 4.04-fra
-  notes:
-  - content: 'Exemple Les modules typiques d''un instrument de pesage sont : le module
-      de pesage, la cellule de pesage, l''indicateur, le dispositif analogique ou
-      numérique d''élaboration des données, le terminal ou l''afficheur principal.'
+  notes: []
   sources: []
   terms:
   - type: expression

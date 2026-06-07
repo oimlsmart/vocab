@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00905'
   localized_concepts:
@@ -22,12 +23,12 @@ data:
   - date: '2024-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '[ part of an electronic device, employing electronic components and
-      having a recognizable function of its own OIML D 11: 2004, 3.3]'
-  examples: []
-  id: 00905-eng
-  notes:
-  - content: 'Examples: A/D converter, display'
+  - content: "[ part of an electronic device, employing electronic components and
+      having a recognizable function of its own OIML D 11: 2004, 3.3]"
+  examples:
+  - content: A/D converter, display
+  id: '00905-eng'
+  notes: []
   sources:
   - origin:
       ref:

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00908'
   localized_concepts:
@@ -24,11 +25,11 @@ data:
   definition:
   - content: additional device which repeats or further processes the weighing result
       and other primary indications
-  examples: []
-  id: 00908-eng
-  notes:
-  - content: 'Examples: Printer, secondary display, keyboard, terminal, data storage
-      device, personal computer.'
+  examples:
+  - content: Printer, secondary display, keyboard, terminal, data storage device,
+      personal computer.
+  id: '00908-eng'
+  notes: []
   sources:
   - origin:
       ref:

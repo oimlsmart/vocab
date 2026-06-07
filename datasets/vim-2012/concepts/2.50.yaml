@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.50'
   localized_concepts:
@@ -21,9 +22,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{quantity,1.1}} that must be measured, or a quantity, the {{value,1.19}}
+  - content: "{{quantity,1.1}} that must be measured, or a quantity, the {{value,1.19}}
       of which can be otherwise obtained, in order to calculate a {{measured quantity
-      value,2.10}} of a {{measurand,2.3}}'
+      value,2.10}} of a {{measurand,2.3}}"
   examples:
   - content: When the length of a steel rod at a specified temperature is the measurand,
       the actual temperature, the length at that actual temperature, and the linear
@@ -34,8 +35,8 @@ data:
   notes:
   - content: An input quantity in a measurement model is often an output quantity
       of a {{measuring system,3.2}}.
-  - content: '{{Indications,4.1}}, {{corrections,2.53}} and {{influence quantities,2.52}}
-      can be input quantities in a measurement model.'
+  - content: "{{Indications,4.1}}, {{corrections,2.53}} and {{influence quantities,2.52}}
+      can be input quantities in a measurement model."
   - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
       value" without ambiguity: "quantity that must be measured, or a quantity, the
       value of which can be otherwise obtained, in order to calculate a measured value
@@ -56,17 +57,17 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{grandeur,1.1}} qui doit être mesurée, ou grandeur dont la {{valeur,1.19}}
-      peut être obtenue autrement, pour calculer une {{valeur mesurée,2.10}} d''un
-      {{mesurande,2.3}}'
-  examples: []
+  - content: "{{grandeur,1.1}} qui doit être mesurée, ou grandeur dont la {{valeur,1.19}}
+      peut être obtenue autrement, pour calculer une {{valeur mesurée,2.10}} d'un
+      {{mesurande,2.3}}"
+  examples:
+  - content: Lorsque le mesurande est la longueur d'une tige d'acier à une température
+      spécifiée, la température réelle, la longueur à la température réelle et le
+      coefficient de dilatation thermique linéique de la tige sont des grandeurs d'entrée
+      dans un modèle de mesure.
   id: 2.50-fra
   language_code: fra
   notes:
-  - content: EXEMPLE Lorsque le mesurande est la longueur d'une tige d'acier à une
-      température spécifiée, la température réelle, la longueur à la température réelle
-      et le coefficient de dilatation thermique linéique de la tige sont des grandeurs
-      d'entrée dans un modèle de mesure.
   - content: Une grandeur d'entrée dans un modèle de mesure est souvent une grandeur
       de sortie d'un {{système de mesure,3.2}}.
   - content: Les {{indications,4.1}}, les {{corrections,2.53}} et les {{grandeurs

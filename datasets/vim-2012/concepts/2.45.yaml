@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.45'
   localized_concepts:
@@ -21,12 +22,12 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{verification,2.44}}, where the specified requirements are adequate
-      for an intended use'
+  - content: "{{verification,2.44}}, where the specified requirements are adequate
+      for an intended use"
   examples:
-  - content: '{{Measurement procedure,2.6}}, ordinarily used for the {{measurement,2.1}}
+  - content: "{{Measurement procedure,2.6}}, ordinarily used for the {{measurement,2.1}}
       of mass concentration of nitrogen in water, may be validated also for measurement
-      of mass concentration of nitrogen in human serum.'
+      of mass concentration of nitrogen in human serum."
   id: 2.45-eng
   language_code: eng
   notes: []
@@ -43,15 +44,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{vérification,2.44}}, où les exigences spécifiées sont adéquates pour
-      un usage déterminé'
-  examples: []
+  - content: "{{vérification,2.44}}, où les exigences spécifiées sont adéquates pour
+      un usage déterminé"
+  examples:
+  - content: Une {{procédure de mesure,2.6}}, habituellement utilisée pour le {{mesurage,2.1}}
+      de la concentration en masse d'azote dans l'eau, peut aussi être validée pour
+      le mesurage dans le sérum humain.
   id: 2.45-fra
   language_code: fra
-  notes:
-  - content: EXEMPLE Une {{procédure de mesure,2.6}}, habituellement utilisée pour
-      le {{mesurage,2.1}} de la concentration en masse d'azote dans l'eau, peut aussi
-      être validée pour le mesurage dans le sérum humain.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred

@@ -91,13 +91,12 @@ data:
       puissances de facteurs correspondant aux grandeurs de base, en omettant tout
       facteur numérique
   examples:
-  - content: EXEMPLE 1 Dans l'{{ISQ,1.6}}, la dimension de la force est notée dim
-      F= LMT–2.
-  - content: EXEMPLE 2 Dans le même système de grandeurs, dim ρB = ML–3 est la dimension
-      de la concentration en masse du constituant B, et ML–3 est aussi la dimension
-      de la masse volumique ρ.
+  - content: Dans l'{{ISQ,1.6}}, la dimension de la force est notée dim F= LMT–2.
+  - content: Dans le même système de grandeurs, dim ρB = ML–3 est la dimension de
+      la concentration en masse du constituant B, et ML–3 est aussi la dimension de
+      la masse volumique ρ.
   - content: |-
-      EXEMPLE 3 La période Td'un pendule de longueur len un endroit où l'accélération locale de la pesanteur vaut gest
+      La période Td'un pendule de longueur len un endroit où l'accélération locale de la pesanteur vaut gest
       ou
       où
       Par conséquent, dim C(g) = L–1/2 T.

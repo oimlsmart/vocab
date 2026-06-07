@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00886'
   localized_concepts:
@@ -25,13 +26,14 @@ data:
   - content: non-automatic weighing instrument mounted on or incorporated (1) A vehicle-mounted
       instrument is a into a vehicle complet mounted for tha mounted (2) A v parts
       o instrum patient chair w
-  examples: []
-  id: 00886-eng
+  examples:
+  - content: Postal scale on a vehicle (mobile post office). ehicle-incorporated instrument
+      uses f the vehicle for the weighing ent
+  - content: Garbage weighers, lifters, pallet lifters, fork lifters, whee eighers.
+  id: '00886-eng'
   notes:
-  - content: 'e weighing instrument which is firmly on a vehicle, and which is designed
-      t special purpose. Example: Postal scale on a vehicle (mobile post office).
-      ehicle-incorporated instrument uses f the vehicle for the weighing ent. Examples:
-      Garbage weighers, lifters, pallet lifters, fork lifters, whee eighers.'
+  - content: e weighing instrument which is firmly on a vehicle, and which is designed
+      t special purpose
   sources:
   - origin:
       ref:

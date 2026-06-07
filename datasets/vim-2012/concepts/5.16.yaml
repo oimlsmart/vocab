@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.16'
   localized_concepts:
@@ -32,8 +33,8 @@ data:
   notes:
   - content: In this definition, 'accuracy' covers, for example, {{measurement accuracy,2.13}}
       and 'accuracy of a nominal property value'.
-  - content: “Data” is a plural form, “datum” is the singular. “Data” is commonly
-      used in the singular sense, instead of “datum”.
+  - content: "“Data” is a plural form, “datum” is the singular. “Data” is commonly
+      used in the singular sense, instead of “datum”."
   terms:
   - type: expression
     normative_status: preferred
@@ -50,12 +51,12 @@ data:
   - content: donnée liée à une propriété d'un phénomène, d'un corps ou d'une substance,
       ou à un système de constituants de composition ou de structure connue, obtenue
       à partir d'une source identifiée, évaluée de façon critique et vérifiée en exactitude
-  examples: []
+  examples:
+  - content: Données de référence relatives à la solubilité de composés chimiques,
+      publiées par l'UICPA.
   id: 5.16-fra
   language_code: fra
   notes:
-  - content: EXEMPLE Données de référence relatives à la solubilité de composés chimiques,
-      publiées par l'UICPA.
   - content: Dans la définition, le terme «exactitude» peut désigner soit une {{exactitude
       de mesure,2.13}}, soit l'«exactitude de la valeur d'une propriété qualitative».
   - content: En anglais, «data» est une forme plurielle dont le singulier est «datum».

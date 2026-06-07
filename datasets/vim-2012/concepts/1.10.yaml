@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.10'
   localized_concepts:
@@ -21,8 +22,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement unit,1.9}} that is adopted by convention for a {{base
-      quantity,1.4}}'
+  - content: "{{measurement unit,1.9}} that is adopted by convention for a {{base
+      quantity,1.4}}"
   examples:
   - content: In the {{SI,1.16}}, the metre is the base unit of length. In the CGS
       systems, the centimetre is the base unit of length.
@@ -50,22 +51,20 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{unité de mesure,1.9}} adoptée par convention pour une {{grandeur de
-      base,1.4}}'
-  examples: []
+  - content: "{{unité de mesure,1.9}} adoptée par convention pour une {{grandeur de
+      base,1.4}}"
+  examples:
+  - content: Dans le {{SI,1.16}}, le mètre est l'unité de base de longueur. Dans les
+      systèmes CGS, le centimètre est l'unité de base de longueur.
+  - content: La hauteur de pluie, définie comme un volume surfacique (volume par aire)
+      a le mètre comme {{unité dérivée cohérente,1.12}} dans le SI.
   id: 1.10-fra
   language_code: fra
   notes:
-  - content: 'Dans chaque {{système cohérent d''unités,1.14}}, il y a une seule unité
-      de base pour chaque grandeur de base.
-
-      EXEMPLE Dans le {{SI,1.16}}, le mètre est l''unité de base de longueur. Dans
-      les systèmes CGS, le centimètre est l''unité de base de longueur.'
-  - content: 'Une unité de base peut aussi servir pour une {{grandeur dérivée,1.5}}
-      de même {{dimension,1.7}}.
-
-      EXEMPLE La hauteur de pluie, définie comme un volume surfacique (volume par
-      aire) a le mètre comme {{unité dérivée cohérente,1.12}} dans le SI.'
+  - content: Dans chaque {{système cohérent d'unités,1.14}}, il y a une seule unité
+      de base pour chaque grandeur de base
+  - content: Une unité de base peut aussi servir pour une {{grandeur dérivée,1.5}}
+      de même {{dimension,1.7}}
   - content: Pour un nombre d'entités, on peut considérer le nombre un, de symbole
       1, comme une unité de base dans tout {{système d'unités,1.13}}.
   terms:

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.29'
   localized_concepts:
@@ -24,19 +25,14 @@ data:
   - content: evaluation of a component of {{measurement uncertainty,2.26}} determined
       by means other than a {{Type A evaluation of measurement uncertainty,2.28}}
   examples:
-  - content: 'Evaluation based on information
-
+  - content: |-
+      Evaluation based on information
       - associated with authoritative published {{quantity values,1.19}},
-
       - associated with the quantity value of a {{certified reference material,5.14}},
-
       - obtained from a {{calibration,2.39}} certificate,
-
       - about drift,
-
       - obtained from the {{accuracy class,4.25}} of a verified {{measuring instrument,3.1}},
-
-      - obtained from limits deduced through personal experience.'
+      - obtained from limits deduced through personal experience.
   id: 2.29-eng
   language_code: eng
   notes:
@@ -59,24 +55,18 @@ data:
   definition:
   - content: évaluation d'une composante de l'{{incertitude de mesure,2.26}} par d'autres
       moyens qu'une {{évaluation de type A de l'incertitude,2.28}}
-  examples: []
+  examples:
+  - content: |-
+      Évaluation fondée sur des informations
+      - associées à des {{valeurs,1.19}} publiées faisant autorité,
+      - associées à la valeur d'un {{matériau de référence certifié,5.14}},
+      - obtenues à partir d'un certificat d'{{étalonnage,2.39}},
+      - concernant la dérive,
+      - obtenues à partir de la {{classe d'exactitude,4.25}} d'un {{instrument de mesure,3.1}} vérifié,
+      - obtenues à partir de limites déduites de l'expérience personnelle.
   id: 2.29-fra
   language_code: fra
   notes:
-  - content: 'EXEMPLES Évaluation fondée sur des informations
-
-      - associées à des {{valeurs,1.19}} publiées faisant autorité,
-
-      - associées à la valeur d''un {{matériau de référence certifié,5.14}},
-
-      - obtenues à partir d''un certificat d''{{étalonnage,2.39}},
-
-      - concernant la dérive,
-
-      - obtenues à partir de la {{classe d''exactitude,4.25}} d''un {{instrument de
-      mesure,3.1}} vérifié,
-
-      - obtenues à partir de limites déduites de l''expérience personnelle.'
   - content: Voir aussi le Guide ISO/CEI 98-3:2008, 2.3.3.
   terms:
   - type: expression

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00887'
   localized_concepts:
@@ -25,14 +26,14 @@ data:
   - content: non-automatic weighing instrument having a load receptor, in one or several
       parts, which determines the total mass of road vehicles, and which is designed
       to be moved to other locations
-  examples: []
-  id: 00887-eng
-  notes:
-  - content: 'Examples: Portable weighbridge, group of associated non-automatic axle
-      (or wheel) load weighers (1) This Recommendation covers only weighbridges and
-      groups of associated non- automatic axle (or wheel) load weighers that determine
-      simultaneously the total mass of a road vehicle with all axles (or wheels) being
-      simultaneously supported by appropriate parts of a load receptor.'
+  examples:
+  - content: Portable weighbridge, group of associated non-automatic axle (or wheel)
+      load weighers (1) This Recommendation covers only weighbridges and groups of
+      associated non- automatic axle (or wheel) load weighers that determine simultaneously
+      the total mass of a road vehicle with all axles (or wheels) being simultaneously
+      supported by appropriate parts of a load receptor.
+  id: '00887-eng'
+  notes: []
   sources:
   - origin:
       ref:

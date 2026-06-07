@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00600'
   localized_concepts:
@@ -22,12 +23,12 @@ data:
   - date: '2024-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '[O smallest physical entity that uses electron or hole conduction in
-      semi-conductors, gases or in a vacuum IML D 11: 2004, 3.4]'
-  examples: []
+  - content: "[O smallest physical entity that uses electron or hole conduction in
+      semi-conductors, gases or in a vacuum IML D 11: 2004, 3.4]"
+  examples:
+  - content: Electronic tube, transistor, integrated circuit.
   id: 00600-eng
-  notes:
-  - content: 'Examples: Electronic tube, transistor, integrated circuit.'
+  notes: []
   sources:
   - origin:
       ref:

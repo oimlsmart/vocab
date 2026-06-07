@@ -51,10 +51,10 @@ data:
   - content: "{{unité de mesure,1.9}} qui n'appartient pas à un {{système d'unités,1.13}}
       donné"
   examples:
-  - content: EXEMPLE 1 L'électronvolt (environ 1,602 18 ·10–19J) est une unité d'énergie
-      hors système pour le {{SI,1.16}}.
-  - content: EXEMPLE 2 Le jour, l'heure, la minute sont des unités de temps hors système
-      pour le SI.
+  - content: L'électronvolt (environ 1,602 18 ·10–19J) est une unité d'énergie hors
+      système pour le {{SI,1.16}}.
+  - content: Le jour, l'heure, la minute sont des unités de temps hors système pour
+      le SI.
   id: 1.15-fra
   language_code: fra
   notes: []

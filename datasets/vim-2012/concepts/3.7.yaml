@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.7'
   localized_concepts:
@@ -19,8 +20,6 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '3.7'
 ---
-null
-...
 ---
 data:
   dates:
@@ -43,8 +42,6 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: dd3b510b-8b09-47ba-b3ff-23ead25a0fad
 ---
-null
-...
 ---
 data:
   dates:
@@ -53,12 +50,12 @@ data:
   definition:
   - content: dispositif, employé en {{mesurage,2.1}}, qui fait correspondre à une
       {{grandeur,1.1}} d'entrée une grandeur de sortie selon une loi déterminée
-  examples: []
+  examples:
+  - content: Thermocouple, transformateur de courant électrique, jauge de contrainte,
+      électrode de pH, tube de Bourdon, bilame.
   id: 3.7-fra
   language_code: fra
-  notes:
-  - content: EXEMPLES Thermocouple, transformateur de courant électrique, jauge de
-      contrainte, électrode de pH, tube de Bourdon, bilame.
+  notes: []
   terms:
   - type: expression
     normative_status: preferred

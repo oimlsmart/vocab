@@ -1,3 +1,4 @@
+---
 data:
   identifier: '01330'
   localized_concepts:
@@ -22,13 +23,13 @@ data:
   - date: '2024-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '[O smallest physical entity that uses electron or hole conduction in
-      semiconductors, gases, or in a vacuum IML D 11: 2004, 3.4]'
-  examples: []
+  - content: "[O smallest physical entity that uses electron or hole conduction in
+      semiconductors, gases, or in a vacuum IML D 11: 2004, 3.4]"
+  examples:
+  - content: Electronic tubes, transistors, integrated circuits. (See 3.4 of OIML
+      D 11)
   id: 01330-eng
-  notes:
-  - content: 'Examples: Electronic tubes, transistors, integrated circuits. (See 3.4
-      of OIML D 11)'
+  notes: []
   sources:
   - origin:
       ref:

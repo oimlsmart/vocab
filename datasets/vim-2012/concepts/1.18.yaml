@@ -48,9 +48,9 @@ data:
   - content: "{{unité de mesure,1.9}} obtenue en divisant une unité de mesure donnée
       par un entier supérieur à un"
   examples:
-  - content: EXEMPLE 1 Le millimètre est un sous-multiple décimal du mètre.
-  - content: EXEMPLE 2 Pour l'angle plan, la seconde est un sous-multiple non décimal
-      de la minute.
+  - content: Le millimètre est un sous-multiple décimal du mètre.
+  - content: Pour l'angle plan, la seconde est un sous-multiple non décimal de la
+      minute.
   id: 1.18-fra
   language_code: fra
   notes:

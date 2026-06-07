@@ -85,24 +85,23 @@ data:
       sont indépendantes des autres mesurandes ou d'autres {{grandeurs,1.1}} dans
       le phénomène, le corps ou la substance en cours d'examen
   examples:
-  - content: EXEMPLE 1 Aptitude d'un système de mesure comprenant un spectromètre
-      de masse à mesurer le rapport des courants ioniques produits par deux composés
-      spécifiés sans dépendre d'autres sources spécifiées de courant électrique.
-  - content: EXEMPLE 2 Aptitude d'un système de mesure à mesurer la puissance d'une
-      composante d'un signal à une fréquence donnée sans perturbation par des composantes
-      du signal ou par d'autres signaux à d'autres fréquences.
-  - content: EXEMPLE 3 Aptitude d'un récepteur à discerner un signal désiré de signaux
-      non désirés, qui ont souvent des fréquences légèrement différentes de la fréquence
-      du signal désiré.
-  - content: EXEMPLE 4 Aptitude d'un système de mesure de rayonnement ionisant à répondre
-      à un rayonnement particulier à mesurer en présence d'un rayonnement concomitant.
-  - content: EXEMPLE 5 Aptitude d'un système de mesure à mesurer la concentration
-      en quantité de matière de créatinine dans le plasma sanguin par une procédure
-      de Jaffé sans être influencé par les concentrations de glucose, d'urate, de
-      cétone et de protéines.
-  - content: EXEMPLE 6 Aptitude d'un spectromètre de masse à mesurer les abondances
-      en quantité de matière de l'isotope 28Si et de l'isotope 30Si dans du silicium
-      provenant d'un dépôt géologique sans influence entre eux ou par l'isotope 29Si.
+  - content: Aptitude d'un système de mesure comprenant un spectromètre de masse à
+      mesurer le rapport des courants ioniques produits par deux composés spécifiés
+      sans dépendre d'autres sources spécifiées de courant électrique.
+  - content: Aptitude d'un système de mesure à mesurer la puissance d'une composante
+      d'un signal à une fréquence donnée sans perturbation par des composantes du
+      signal ou par d'autres signaux à d'autres fréquences.
+  - content: Aptitude d'un récepteur à discerner un signal désiré de signaux non désirés,
+      qui ont souvent des fréquences légèrement différentes de la fréquence du signal
+      désiré.
+  - content: Aptitude d'un système de mesure de rayonnement ionisant à répondre à
+      un rayonnement particulier à mesurer en présence d'un rayonnement concomitant.
+  - content: Aptitude d'un système de mesure à mesurer la concentration en quantité
+      de matière de créatinine dans le plasma sanguin par une procédure de Jaffé sans
+      être influencé par les concentrations de glucose, d'urate, de cétone et de protéines.
+  - content: Aptitude d'un spectromètre de masse à mesurer les abondances en quantité
+      de matière de l'isotope 28Si et de l'isotope 30Si dans du silicium provenant
+      d'un dépôt géologique sans influence entre eux ou par l'isotope 29Si.
   id: 4.13-fra
   language_code: fra
   notes:

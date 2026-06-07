@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00568'
   localized_concepts:
@@ -24,10 +25,10 @@ data:
   definition:
   - content: instrument which assigns a weighing result to a predetermined range of
       mass to determine a tariff or toll
-  examples: []
-  id: 00568-eng
-  notes:
-  - content: 'Examples: postal scales, garbage weighers.'
+  examples:
+  - content: postal scales, garbage weighers.
+  id: '00568-eng'
+  notes: []
   sources:
   - origin:
       ref:

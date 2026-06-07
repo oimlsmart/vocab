@@ -1,3 +1,4 @@
+---
 data:
   identifier: '01350'
   localized_concepts:
@@ -25,11 +26,11 @@ data:
   - content: legally relevant parameter with a value that depends on the type ofinstrument
       only Type-specific parameters are part of the legally relevant software. They
       are fixed at type approval of the instrument.
-  examples: []
+  examples:
+  - content: Parameters used for weight value calculation, stability analysis or price
+      calculation and rounding, software identification.
   id: 01350-eng
-  notes:
-  - content: 'Examples: Parameters used for weight value calculation, stability analysis
-      or price calculation and rounding, software identification.'
+  notes: []
   sources:
   - origin:
       ref:

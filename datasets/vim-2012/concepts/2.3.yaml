@@ -68,13 +68,13 @@ data:
   definition:
   - content: "{{grandeur,1.1}} que l'on veut mesurer"
   examples:
-  - content: EXEMPLE 1 La différence de potentiel entre les bornes d'une batterie
-      peut diminuer lorsqu'on la mesure en employant un voltmètre ayant une conductance
-      interne importante. La différence de potentiel en circuit ouvert peut alors
-      être calculée à partir des résistances internes de la batterie et du voltmètre.
-  - content: EXEMPLE 2 La longueur d'une tige en équilibre avec la température ambiante
-      de 23 °C sera différente de la longueur à la température spécifiée de 20 °C,
-      qui est le mesurande. Dans ce cas, une correction est nécessaire.
+  - content: La différence de potentiel entre les bornes d'une batterie peut diminuer
+      lorsqu'on la mesure en employant un voltmètre ayant une conductance interne
+      importante. La différence de potentiel en circuit ouvert peut alors être calculée
+      à partir des résistances internes de la batterie et du voltmètre.
+  - content: La longueur d'une tige en équilibre avec la température ambiante de 23
+      °C sera différente de la longueur à la température spécifiée de 20 °C, qui est
+      le mesurande. Dans ce cas, une correction est nécessaire.
   id: 2.3-fra
   language_code: fra
   notes:

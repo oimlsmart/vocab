@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00907'
   localized_concepts:
@@ -24,11 +25,11 @@ data:
   definition:
   - content: electronic device that only performs digital functions and provides a
       digitized output or display
-  examples: []
-  id: 00907-eng
-  notes:
-  - content: 'Examples: Printer, primary or secondary display, keyboard, terminal,
-      data storage device, personal computer.'
+  examples:
+  - content: Printer, primary or secondary display, keyboard, terminal, data storage
+      device, personal computer.
+  id: '00907-eng'
+  notes: []
   sources:
   - origin:
       ref:
