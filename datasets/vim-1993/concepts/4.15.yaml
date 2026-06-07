@@ -20,13 +20,14 @@ data:
   - content: device or substance that indicates the presence of a phenomenon without
       necessarily providing a value of an associated quantity
   examples:
-  - content: halogen leak detector; litmus paper. NOTES halogen leak detector; litmus
-      paper. NOTES An indication may be produced only when the value of the quantity
-      reaches a threshold, somet1mes called the detection limit of the detector. 2  ln
-      some fields the term "detector" is used for the concept of "sensor"
+  - content: halogen leak detector; litmus paper
   id: 4.15-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: halogen leak detector; litmus paper
+  - content: An indication may be produced only when the value of the quantity reaches
+      a threshold, somet1mes called the detection limit of the detector. 2  ln some
+      fields the term "detector" is used for the concept of "sensor"
   terms:
   - type: expression
     normative_status: preferred
@@ -43,14 +44,14 @@ data:
   - content: dispositif ou substance qui indique la présence d'un phénomène sans nécessairement
       fournir une valeur d'une grandeur associée
   examples:
-  - content: détecteur de fuite à halogène; papier au tournesol. NOTES détecteur de
-      fuite à halogène; papier au tournesol. NOTES On peut n'avoir une indication
-      que si la valeur de la  atteint un seuil donné, parfois appelé seuil de détection
-      du détecteur. 2  Dans certains domaines, le terme «détecteur)) est utilisé pour
-      le concept de «capteur».
+  - content: détecteur de fuite à halogène; papier au tournesol
   id: 4.15-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: détecteur de fuite à halogène; papier au tournesol
+  - content: On peut n'avoir une indication que si la valeur de la  atteint un seuil
+      donné, parfois appelé seuil de détection du détecteur. 2  Dans certains domaines,
+      le terme «détecteur)) est utilisé pour le concept de «capteur».
   terms:
   - type: expression
     normative_status: preferred

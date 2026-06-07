@@ -38,15 +38,15 @@ data:
       that is actually measured, but affects the relation between the {{indication,0.03}}
       and the measurement result
   examples:
-  - content: Example 1 Frequency in the direct measurement with an ammeter of the
-      constant amplitude of an alternating current.
-  - content: Example 2 Amount-of-substance concentration of bilirubin in a direct
-      measurement of hemoglobin amount-of-substance concentration in human blood plasma.
-  - content: Example 3 Temperature of a micrometer used for measurement of length
-      of a rod, but not the temperature of the rod itself, which can enter into the
-      definition of the measurand.
-  - content: Example 4 Background pressure in the ion source of a mass spectrometer
-      during a measurement of amount-of-substance fraction.
+  - content: Frequency in the direct measurement with an ammeter of the constant amplitude
+      of an alternating current.
+  - content: Amount-of-substance concentration of bilirubin in a direct measurement
+      of hemoglobin amount-of-substance concentration in human blood plasma.
+  - content: Temperature of a micrometer used for measurement of length of a rod,
+      but not the temperature of the rod itself, which can enter into the definition
+      of the measurand.
+  - content: Background pressure in the ion source of a mass spectrometer during a
+      measurement of amount-of-substance fraction.
   id: 0.07-eng
   notes:
   - content: An indirect measurement involves a combination of direct measurements,
@@ -83,16 +83,16 @@ data:
       effectivement mesurée, mais a un effet sur la relation entre l'{{indication,0.03}}
       et le résultat de mesure
   examples:
-  - content: Exemple 1 Fréquence lors du mesurage direct de l'amplitude constante
-      d'un courant alternatif au moyen d'un ampèremètre.
-  - content: Exemple 2 Concentration en quantité de matière de bilirubine lors du
-      mesurage direct de la concentration en quantité de matière d'hémoglobine dans
-      le plasma sanguin humain.
-  - content: Exemple 3 Température d'un micromètre lors du mesurage de la longueur
-      d'une tige, mais pas la température de la tige elle-même qui peut entrer dans
-      la définition du mesurande.
-  - content: Exemple 4 Pression ambiante dans la source d'ions d'un spectromètre de
-      masse lors du mesurage d'une fraction molaire.
+  - content: Fréquence lors du mesurage direct de l'amplitude constante d'un courant
+      alternatif au moyen d'un ampèremètre.
+  - content: Concentration en quantité de matière de bilirubine lors du mesurage direct
+      de la concentration en quantité de matière d'hémoglobine dans le plasma sanguin
+      humain.
+  - content: Température d'un micromètre lors du mesurage de la longueur d'une tige,
+      mais pas la température de la tige elle-même qui peut entrer dans la définition
+      du mesurande.
+  - content: Pression ambiante dans la source d'ions d'un spectromètre de masse lors
+      du mesurage d'une fraction molaire.
   id: 0.07-fra
   notes:
   - content: Un mesurage indirect implique une combinaison de mesurages directs, sur

@@ -98,20 +98,18 @@ data:
       {{valeur,1.19}} déterminée et une {{incertitude de mesure,2.26}} associée, utilisée
       comme référence
   examples:
-  - content: EXEMPLE 1 Étalon de masse de 1 kg avec une {{incertitude-type,2.30}}
-      associée de 3 µg.
-  - content: EXEMPLE 2 Résistance étalon de 100 Ω avec une incertitude-type associée
-      de 1 µΩ.
-  - content: EXEMPLE 3 Étalon de fréquence à césium avec une incertitude-type associée
-      de 2 · 10–15.
+  - content: Étalon de masse de 1 kg avec une {{incertitude-type,2.30}} associée de
+      3 µg.
+  - content: Résistance étalon de 100 Ω avec une incertitude-type associée de 1 µΩ.
+  - content: Étalon de fréquence à césium avec une incertitude-type associée de 2
+      · 10–15.
   - content: |-
-      EXEMPLE 4 Solution tampon de référence ayant un pH de 7,072 avec une incertitude-type associée de 0,006.
+      Solution tampon de référence ayant un pH de 7,072 avec une incertitude-type associée de 0,006.
        
-  - content: EXEMPLE 5 Série de solutions de référence de cortisol dans du sérum humain,
-      dont chaque solution a une valeur certifiée avec une incertitude de mesure.
-  - content: EXEMPLE 6 {{Matériau de référence,5.13}} fournissant des valeurs avec
-      les incertitudes de mesure associées pour la concentration en masse de dix protéines
-      différentes.
+  - content: Série de solutions de référence de cortisol dans du sérum humain, dont
+      chaque solution a une valeur certifiée avec une incertitude de mesure.
+  - content: "{{Matériau de référence,5.13}} fournissant des valeurs avec les incertitudes
+      de mesure associées pour la concentration en masse de dix protéines différentes."
   id: 5.1-fra
   language_code: fra
   notes:

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00705'
   localized_concepts:
@@ -24,11 +25,11 @@ data:
   definition:
   - content: load cell employing an assembly of electronic components having a recognizable
       function of its own
-  examples: []
+  examples:
+  - content: 'of electronics: p-n junction, amplifier, encoder, A/D converter, CPU,
+      I/O interface, etc. (not including strain gauge bridge circuits).'
   id: 00705-eng
-  notes:
-  - content: 'Examples of electronics: p-n junction, amplifier, encoder, A/D converter,
-      CPU, I/O interface, etc. (not including strain gauge bridge circuits).'
+  notes: []
   sources:
   - origin:
       ref:

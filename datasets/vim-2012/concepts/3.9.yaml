@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.9'
   localized_concepts:
@@ -47,11 +48,11 @@ data:
   - content: dispositif ou substance qui indique la présence d'un phénomène, d'un
       corps ou d'une substance lorsqu'une {{valeur,1.19}} de seuil d'une {{grandeur,1.1}}
       associée est dépassée
-  examples: []
+  examples:
+  - content: Détecteur de fuite à halogène, papier au tournesol.
   id: 3.9-fra
   language_code: fra
   notes:
-  - content: EXEMPLES Détecteur de fuite à halogène, papier au tournesol.
   - content: Dans certains domaines, le terme «détecteur» est employé pour le concept
       de {{capteur,3.8}}.
   - content: En chimie, le terme «indicateur» est souvent employé pour ce concept.

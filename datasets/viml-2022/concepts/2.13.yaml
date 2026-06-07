@@ -30,13 +30,11 @@ data:
   examples: []
   id: 2.13-eng
   notes:
-  - content: 'Subsequent verification includes
-
+  - content: |-
+      Subsequent verification includes
       — mandatory periodic verification,
-
       — verification after repair, and
-
-      — voluntary verification.'
+      — voluntary verification.
   - content: Subsequent verification of a {{measuring instrument,0.10}} may be carried
       out before expiry of the period of validity of a previous verification either
       at the request of the user (owner) or when its verification is declared to be
@@ -58,16 +56,14 @@ data:
   definition:
   - content: vérification d'un {{instrument de mesure,0.10}} qui suit une vérification
       précédente
-  examples: []
+  examples:
+  - content: |-
+      de vérifications ultérieures :
+      — vérification périodique obligatoire ;
+      — vérification après réparation ;
+      — vérification volontaire.
   id: 2.13-fra
   notes:
-  - content: 'Exemples de vérifications ultérieures :
-
-      — vérification périodique obligatoire ;
-
-      — vérification après réparation ;
-
-      — vérification volontaire.'
   - content: La vérification ultérieure d'un {{instrument de mesure,0.10}} peut être
       effectuée avant l'expiration de la période de validité d'une vérification précédente,
       soit à la demande de l'utilisateur (propriétaire), soit quand sa vérification

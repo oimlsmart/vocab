@@ -1,3 +1,4 @@
+---
 data:
   identifier: '02242'
   localized_concepts:
@@ -25,11 +26,11 @@ data:
   - content: device intended to perform a particular function, directly involved in
       elaborating, transmitting or displaying measurement - z results - r - p - m
       - p - c
-  examples: []
+  examples:
+  - content: 'of ancillary devices: ero setting device; epeating indicating device;
+      rinting device; emory device; rice indicating device; onversion device.'
   id: 02242-eng
-  notes:
-  - content: 'Examples of ancillary devices: ero setting device; epeating indicating
-      device; rinting device; emory device; rice indicating device; onversion device.'
+  notes: []
   sources:
   - origin:
       ref:

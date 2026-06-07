@@ -1,3 +1,4 @@
+---
 data:
   identifier: '01852'
   localized_concepts:
@@ -24,10 +25,10 @@ data:
   definition:
   - content: solution similar to the sample solution but which does not contain the
       analyte
-  examples: []
-  id: 01852-eng
-  notes:
-  - content: 'Example: Solvent.'
+  examples:
+  - content: Solvent.
+  id: '01852-eng'
+  notes: []
   sources:
   - origin:
       ref:

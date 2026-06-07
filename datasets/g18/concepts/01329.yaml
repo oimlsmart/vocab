@@ -1,7 +1,8 @@
+---
 data:
   identifier: '01329'
   localized_concepts:
-    eng: 032848a4-6e1c-5036-8438-7f95046fc843
+    eng: '032848a4-6e1c-5036-8438-7f95046fc843'
   sources:
   - origin:
       ref:
@@ -22,12 +23,12 @@ data:
   - date: '2024-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '[ part of an electronic device employing electronic components and having
-      a recognizable function of its own OIML D 11: 2004, 3.3]'
-  examples: []
-  id: 01329-eng
-  notes:
-  - content: 'Examples: A/D converter, display.'
+  - content: "[ part of an electronic device employing electronic components and having
+      a recognizable function of its own OIML D 11: 2004, 3.3]"
+  examples:
+  - content: A/D converter, display.
+  id: '01329-eng'
+  notes: []
   sources:
   - origin:
       ref:
@@ -43,4 +44,4 @@ data:
   language_code: eng
   entry_status: valid
 date_accepted: '2024-01-01T00:00:00+00:00'
-id: 032848a4-6e1c-5036-8438-7f95046fc843
+id: '032848a4-6e1c-5036-8438-7f95046fc843'

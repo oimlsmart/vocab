@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.3'
   localized_concepts:
@@ -21,8 +22,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measuring instrument,3.1}} providing an output signal carrying information
-      about the {{value,1.19}} of the {{quantity,1.1}} being measured'
+  - content: "{{measuring instrument,3.1}} providing an output signal carrying information
+      about the {{value,1.19}} of the {{quantity,1.1}} being measured"
   examples:
   - content: Voltmeter, micrometer, thermometer, electronic balance.
   id: 3.3-eng
@@ -44,13 +45,13 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{instrument de mesure,3.1}} qui fournit un signal de sortie porteur
-      d''informations sur la {{valeur,1.19}} de la {{grandeur,1.1}} mesurée'
-  examples: []
+  - content: "{{instrument de mesure,3.1}} qui fournit un signal de sortie porteur
+      d'informations sur la {{valeur,1.19}} de la {{grandeur,1.1}} mesurée"
+  examples:
+  - content: Voltmètre, micromètre à vis, thermomètre, balance électronique.
   id: 3.3-fra
   language_code: fra
   notes:
-  - content: EXEMPLES Voltmètre, micromètre à vis, thermomètre, balance électronique.
   - content: Un appareil de mesure indicateur peut fournir un enregistrement de son
       {{indication,4.1}}.
   - content: Un signal de sortie peut être présenté sous forme visuelle ou acoustique.

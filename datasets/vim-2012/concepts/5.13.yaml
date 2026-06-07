@@ -27,12 +27,12 @@ data:
       or in examination of {{nominal properties,1.30}}
   examples:
   - content: |-
-      Examples of reference materials embodying quantities:
+      of reference materials embodying quantities:
       a) water of stated purity, the dynamic viscosity of which is used to calibrate viscometers;
       b) human serum without an assigned quantity value for the amount-of-substance concentration of the inherent cholesterol, used only as a measurement precision control material;
       c) fish tissue containing a stated mass fraction of a dioxin, used as a {{calibrator,5.12}}.
   - content: |-
-      Examples of reference materials embodying nominal properties:
+      of reference materials embodying nominal properties:
       a) colour chart indicating one or more specified colours;
       b) DNA compound containing a specified nucleotide sequence;
       c) urine containing 19-androstenedione.
@@ -85,20 +85,18 @@ data:
       un {{mesurage,2.1}} ou pour l'examen de {{propriétés qualitatives,1.30}}
   examples:
   - content: |-
-      EXEMPLE 1 Exemples de matériaux de référence supports de grandeurs:
+      s de matériaux de référence supports de grandeurs:
       a) eau de pureté déterminée, dont la viscosité dynamique est utilisée pour l'étalonnage de viscosimètres;
       b) sérum humain sans valeur assignée à la concentration de cholestérol intrinsèque, utilisé seulement pour le contrôle de la fidélité de mesure;
       c) tissu de poisson contenant une fraction massique déterminée de dioxine, utilisé comme {{étalon,5.1}} dans un étalonnage.
   - content: |-
-      EXEMPLE 2 Exemples de matériaux de référence supports de propriétés qualitatives:
+      s de matériaux de référence supports de propriétés qualitatives:
       a) nuancier de couleurs indiquant une ou plusieurs couleurs spécifiées;
       b) ADN contenant une séquence spécifiée de nucléotides;
       c) urine contenant de la 19-androstènedione.
-  - content: EXEMPLE 1 Substance dont le point triple est connu dans une cellule triple
-      point.
-  - content: EXEMPLE 2 Verre de densité optique connue dans un support de filtre de
-      transmission.
-  - content: EXEMPLE 3 Sphères à granulométrie uniforme montées sur une lame de microscope.
+  - content: Substance dont le point triple est connu dans une cellule triple point.
+  - content: Verre de densité optique connue dans un support de filtre de transmission.
+  - content: Sphères à granulométrie uniforme montées sur une lame de microscope.
   id: 5.13-fra
   language_code: fra
   notes:

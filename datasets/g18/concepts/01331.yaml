@@ -1,3 +1,4 @@
+---
 data:
   identifier: '01331'
   localized_concepts:
@@ -24,11 +25,10 @@ data:
   definition:
   - content: electronic device that only performs digital functions and that provides
       a digitized output or display.
-  examples: []
+  examples:
+  - content: Printer, remote display, terminal, data storage device, personal computer
   id: 01331-eng
-  notes:
-  - content: 'Examples: Printer, remote display, terminal, data storage device, personal
-      computer'
+  notes: []
   sources:
   - origin:
       ref:

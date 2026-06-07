@@ -17,11 +17,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: series of elements of a measuring instrument or system  that  constitutes  the  path  of  the
-      measurement  signal  from  the  input  to  the output EXAMPLE  an electro-acoustic
-      measuring chain compris-ing a microphone, attenuator, filter, amplifier and
-      voltmeter.
-  examples: []
+  - content: series of elements of a measuring instrument or system  that constitutes the path of the
+      measurement signal from the input to the output
+  examples:
+  - content: an electro-acoustic measuring chain comprising a microphone, attenuator, filter, amplifier and voltmeter.
   id: 4.4-eng
   language_code: eng
   notes: []
@@ -39,10 +38,9 @@ data:
     type: accepted
   definition:
   - content: suite d'éléments d'un appareil de mesure ou d'un système de mesure qui
-      constitue le chemin du signal de mesure depuis l'entrée jusqu'à la sortie EXEMPLE  une  chaîne  de
-      mesure  électroacoustique comprenant un microphone, un atténuateur, un filtre,
-      un amplificateur et un voltmètre.
-  examples: []
+      constitue le chemin du signal de mesure depuis l'entrée jusqu'à la sortie
+  examples:
+  - content: Une chaîne de mesure électroacoustique comprenant un microphone, un atténuateur, un filtre, un amplificateur et un voltmètre.
   id: 4.4-fra
   language_code: fra
   notes: []

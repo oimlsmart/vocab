@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.6'
   localized_concepts:
@@ -21,9 +22,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measuring instrument,3.1}} reproducing or supplying, in a permanent
+  - content: "{{measuring instrument,3.1}} reproducing or supplying, in a permanent
       manner during its use, {{quantities,1.1}} of one or more given {{kinds,1.2}},
-      each with an assigned {{quantity value,1.19}}'
+      each with an assigned {{quantity value,1.19}}"
   examples:
   - content: Standard weight, volume measure (supplying one or several quantity values,
       with or without a {{quantity-value scale,1.27}}), standard electric resistor,
@@ -52,17 +53,17 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{instrument de mesure,3.1}} qui reproduit ou fournit, d''une manière
-      permanente pendant son emploi, des {{grandeurs,1.1}} d''une ou plusieurs {{natures,1.2}},
-      chacune avec une {{valeur,1.19}} assignée'
-  examples: []
+  - content: "{{instrument de mesure,3.1}} qui reproduit ou fournit, d'une manière
+      permanente pendant son emploi, des {{grandeurs,1.1}} d'une ou plusieurs {{natures,1.2}},
+      chacune avec une {{valeur,1.19}} assignée"
+  examples:
+  - content: Masse marquée, mesure de capacité (fournissant une ou plusieurs valeurs,
+      avec ou sans {{échelle de valeurs,1.27}}), résistance électrique étalon, règle
+      graduée, cale étalon, générateur de signaux étalons, {{matériau de référence
+      certifié,5.14}}.
   id: 3.6-fra
   language_code: fra
   notes:
-  - content: EXEMPLES Masse marquée, mesure de capacité (fournissant une ou plusieurs
-      valeurs, avec ou sans {{échelle de valeurs,1.27}}), résistance électrique étalon,
-      règle graduée, cale étalon, générateur de signaux étalons, {{matériau de référence
-      certifié,5.14}}.
   - content: L'{{indication,4.1}} d'une mesure matérialisée est sa valeur assignée.
   - content: Une mesure matérialisée peut être un {{étalon,5.1}}.
   terms:

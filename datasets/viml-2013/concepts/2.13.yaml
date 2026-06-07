@@ -53,11 +53,11 @@ data:
     type: accepted
   definition:
   - content: vérification d’un instrument de mesure qui suit une vérification précédente
-  examples: []
+  examples:
+  - content: 'de vérifications ultérieures : vérification périodique obligatoire ;
+      vérification après réparation ; vérification volontaire.'
   id: 2.13-fra
   notes:
-  - content: 'Exemples de vérifications ultérieures : vérification périodique obligatoire
-      ; vérification après réparation ; vérification volontaire.'
   - content: 2 La vérification ultérieure d’un instrument de mesure peut être effectuée
       avant l’expiration de la période de validité d’une vérification précédente,
       soit à la demande de l’utilisateur (propriétaire), soit quand sa vérification

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '02216'
   localized_concepts:
@@ -24,10 +25,11 @@ data:
   definition:
   - content: part of an electronic device employing electronic components and having
       a recognizable function of its own
-  examples: []
+  examples:
+  - content: Amplifiers, comparators, power converters, etc.
   id: 02216-eng
   notes:
-  - content: '1. Examples: Amplifiers, comparators, power converters, etc.'
+  - content: '1'
   - content: 2. [OIML D 11:2004, 3.3]
   sources:
   - origin:

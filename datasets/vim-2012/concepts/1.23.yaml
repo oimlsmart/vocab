@@ -51,15 +51,14 @@ data:
   - content: relation d'égalité entre des {{unités de base,1.10}}, des {{unités dérivées
       cohérentes,1.12}} ou d'autres {{unités de mesure,1.9}}
   examples:
-  - content: EXEMPLE 1 Pour les {{grandeurs,1.1}} données dans l'
-  - content: Exemple 1 de 1.22, [Q1] = [Q2] [Q3] où [Q1], [Q2] et [Q3] représentent
-      respectivement les unités de Q1, Q2 et Q3, pourvu que ces unités soient dans
-      un {{système cohérent d'unités,1.14}}.
-  - content: EXEMPLE 2 J := kg m2/s2, où J, kg, m et s sont respectivement les symboles
-      du joule, du kilogramme, du mètre et de la seconde. (Le symbole := signifie
-      «est par définition égal à», comme indiqué dans les séries ISO 80000 et CEI
-      80000.)
-  - content: EXEMPLE 3 1 km/h = (1/3,6) m/s.
+  - content: Pour les {{grandeurs,1.1}} données dans l'
+  - content: de 1.22, [Q1] = [Q2] [Q3] où [Q1], [Q2] et [Q3] représentent respectivement
+      les unités de Q1, Q2 et Q3, pourvu que ces unités soient dans un {{système cohérent
+      d'unités,1.14}}.
+  - content: J := kg m2/s2, où J, kg, m et s sont respectivement les symboles du joule,
+      du kilogramme, du mètre et de la seconde. (Le symbole := signifie «est par définition
+      égal à», comme indiqué dans les séries ISO 80000 et CEI 80000.)
+  - content: 1 km/h = (1/3,6) m/s.
   id: 1.23-fra
   language_code: fra
   notes: []

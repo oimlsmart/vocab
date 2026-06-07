@@ -67,16 +67,16 @@ data:
       sur la grandeur effectivement mesurée, mais a un effet sur la relation entre
       l'{{indication,4.1}} et le {{résultat de mesure,2.9}}"
   examples:
-  - content: EXEMPLE 1 Fréquence lors du mesurage direct de l'amplitude constante
-      d'un courant alternatif au moyen d'un ampèremètre.
-  - content: EXEMPLE 2 Concentration en quantité de matière de bilirubine lors du
-      mesurage direct de la concentration en quantité de matière d'hémoglobine dans
-      le plasma sanguin humain.
-  - content: EXEMPLE 3 Température d'un micromètre lors du mesurage de la longueur
-      d'une tige, mais pas la température de la tige elle-même qui peut entrer dans
-      la définition du {{mesurande,2.3}}.
-  - content: EXEMPLE 4 Pression ambiante dans la source d'ions d'un spectromètre de
-      masse lors du mesurage d'une fraction molaire.
+  - content: Fréquence lors du mesurage direct de l'amplitude constante d'un courant
+      alternatif au moyen d'un ampèremètre.
+  - content: Concentration en quantité de matière de bilirubine lors du mesurage direct
+      de la concentration en quantité de matière d'hémoglobine dans le plasma sanguin
+      humain.
+  - content: Température d'un micromètre lors du mesurage de la longueur d'une tige,
+      mais pas la température de la tige elle-même qui peut entrer dans la définition
+      du {{mesurande,2.3}}.
+  - content: Pression ambiante dans la source d'ions d'un spectromètre de masse lors
+      du mesurage d'une fraction molaire.
   id: 2.52-fra
   language_code: fra
   notes:

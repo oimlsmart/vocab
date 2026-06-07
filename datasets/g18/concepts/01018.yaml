@@ -1,3 +1,4 @@
+---
 data:
   identifier: '01018'
   localized_concepts:
@@ -24,10 +25,10 @@ data:
   definition:
   - content: a device intended to perform a particular function, directly involved
       in elaborating, memorizing, transmitting or displaying the measurement result
-  examples: []
-  id: 01018-eng
-  notes:
-  - content: Examples are a printing device or a remote indicator.
+  examples:
+  - content: are a printing device or a remote indicator.
+  id: '01018-eng'
+  notes: []
   sources:
   - origin:
       ref:

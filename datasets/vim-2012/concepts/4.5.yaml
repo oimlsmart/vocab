@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.5'
   localized_concepts:
@@ -49,12 +50,12 @@ data:
   definition:
   - content: valeur absolue de la différence entre les {{valeurs,1.19}} extrêmes d'un
       {{intervalle nominal des indications,4.4}}
-  examples: []
+  examples:
+  - content: Pour un intervalle nominal des indications de –10 V à +10 V, l'étendue
+      de mesure est 20 V.
   id: 4.5-fra
   language_code: fra
   notes:
-  - content: EXEMPLE Pour un intervalle nominal des indications de –10 V à +10 V,
-      l'étendue de mesure est 20 V.
   - content: En anglais, l'étendue de mesure est quelquefois dénommée «span of a nominal
       interval». En français, le terme «intervalle de mesure» est parfois improprement
       employé.

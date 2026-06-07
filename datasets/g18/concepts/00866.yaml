@@ -1,3 +1,4 @@
+---
 data:
   identifier: '00866'
   localized_concepts:
@@ -24,11 +25,11 @@ data:
   definition:
   - content: fault greater than the absolute value of the MPE which is not a transitory
       fault
-  examples: []
-  id: 00866-eng
-  notes:
-  - content: 'Example: If the MPE is ± 2 %, then the significant fault is a fault
-      larger than 2 %.'
+  examples:
+  - content: If the MPE is ± 2 %, then the significant fault is a fault larger than
+      2 %.
+  id: '00866-eng'
+  notes: []
   sources:
   - origin:
       ref:
