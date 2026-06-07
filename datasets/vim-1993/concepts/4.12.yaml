@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.12'
   localized_concepts:
@@ -22,21 +21,16 @@ data:
   id: 4.12-eng
   language_code: eng
   notes:
-  - content: This term may include the device by which the value suppiied by a material
-      measure 1s displayed or set. An analogue displaying dev1ce prov1des an analogue
-      display; a digital displaying device provides a digital display. A form of presentation
-      of the display e1ther by means of a digital display in which the ieast s1gnificant
-      digit rnoves continuously, thus perm1tt1ng interpolation, or by rneans of a
-      digital display supplemented by a scale and index, is called a semidigital display.
-      The English term readout device 1s used as a general descriptor of the means
-      whereby the response of a rneasuring instrument 1s made ava1lable. An analogue
-      displaying dev1ce prov1des an analogue display; a digital displaying device
-      provides a digital display. A form of presentation of the display e1ther by
-      means of a digital display in which the ieast s1gnificant digit rnoves continuously,
-      thus perm1tt1ng interpolation, or by rneans of a digital display supplemented
-      by a scale and index, is called a semidigital display. The English term readout
-      device 1s used as a general descriptor of the means whereby the response of
-      a rneasuring instrument 1s made ava1lable.
+  - content: This term may include the device by which the value supplied by a material
+      measure is displayed or set.
+  - content: An analogue displaying device provides an analogue display; a digital
+      display device provides a digital display.
+  - content: A form of presentation of the display either by means of a digital display
+      in which the least significant digit moves continuously, thus permitting interpolation,
+      or by means of a digital display supplemented by a scale and index, is called
+      a semidigital display.
+  - content: The English term readout device is used as a general descriptor of the
+      means whereby the response of a measuring instrument is made available.
   terms:
   - type: expression
     normative_status: preferred
@@ -57,13 +51,14 @@ data:
   language_code: fra
   notes:
   - content: Ce terme peut inclure le dispositif à l'aide duquel la valeur fournie
-      par une mesure mc1térialisée est affichée ou réglée. 2  Un  dispositif  d'affichage  analogique  fournit  un
-      affichage analogique; un dispositif d'affichage numé-rique fournit un affichage
-      numérique. 3 Une forme de présentation de l'affichage, soit au moyen d'un affichage
-      numérique dans lequel le chiffre le moins significatif se déplace continûment,
-      permet-tant ainsi l'interpolation, soit au moyen d'un affichage numérique complété
-      par une echelle et un index, est appelé affichage semi-numérique. 4 (Applicable
-      uniquement au texte anglais.)
+      par une mesure matérialisée est affichée ou réglée.
+  - content: Un dispositif d'affichage analogique fournit un affichage analogique;
+      un dispositif d'affichage numérique fournit un affichage numérique.
+  - content: Une forme de présentation de l'affichage, soit au moyen d'un affichage
+      numérique dans lequel le chiffre le moins significatif se déplace continuellement,
+      permettant ainsi l'interpolation, soit au moyen d'un affichage numérique complété
+      par une échelle et un index, est appelé affichage semi-numérique.
+  - content: "(Applicable uniquement au texte anglais.)"
   terms:
   - type: expression
     normative_status: preferred

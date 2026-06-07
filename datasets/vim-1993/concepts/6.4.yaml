@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.4'
   localized_concepts:
@@ -19,12 +18,13 @@ data:
   definition:
   - content: standard that is designated or widely acknowl-edged  as  having  the  highest  metrological
       qualities and whose value is accepted without reference  to  other  standards  of  the  same
-      quantity NOTE The concept of primary standard is equally valid for base quantities
-      and derived quantities.
+      quantity
   examples: []
   id: 6.4-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The concept of primary standard is equally valid for base quantities
+      and derived quantities.
   terms:
   - type: expression
     normative_status: preferred
@@ -40,12 +40,13 @@ data:
   definition:
   - content: étalon qui est désigné ou largement reconnu comme  présentant  les  plus  hautes  qualités
       métrologiques et dont la valeur est établie sans se référer  à  d'autres  étalons  de  la  même
-      grandeur NOTE Le concept d'étalon primaire est valable aussi bien pour les grandeurs
-      de base que pour les grandeurs dérivées.
+      grandeur
   examples: []
   id: 6.4-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Le concept d'étalon primaire est valable aussi bien pour les grandeurs
+      de base que pour les grandeurs dérivées.
   terms:
   - type: expression
     normative_status: preferred

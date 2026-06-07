@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.10'
   localized_concepts:
@@ -18,12 +17,13 @@ data:
     type: accepted
   definition:
   - content: measuring instrument in which the output or display  1s  a  continuous  function  of  the
-      measurand or of the input signal NOTE This term relates to the form of presentation
-      of the output or display, not to the principle of operation of the instrument.
+      measurand or of the input signal
   examples: []
   id: 4.10-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: This term relates to the form of presentation of the output or display,
+      not to the principle of operation of the instrument.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,13 +38,13 @@ data:
     type: accepted
   definition:
   - content: appareil de mesure pour lequel le signal de sortie ou l'affichage est
-      une fonction continue du mesurande ou du signal d'entrée NOTE Ce terme se rattache
-      à la forme de présentation des signaux de sortie ou de l'affichage, non au principe
-      de fonctionnement de l'instrument.
+      une fonction continue du mesurande ou du signal d'entrée
   examples: []
   id: 4.10-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Ce terme se rattache à la forme de présentation des signaux de sortie
+      ou de l'affichage, non au principe de fonctionnement de l'instrument.
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.28'
   localized_concepts:
@@ -18,13 +17,14 @@ data:
     type: accepted
   definition:
   - content: error of a measuring instrument divided by a value specified for the
-      instrument NOTE The specified value is generally called the fiducial value,
-      and may be, for example, the span or the upper limit of the nominal range of
-      the measuring instrument.
+      instrument
   examples: []
   id: 5.28-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The specified value is generally called the fiducial value, and may be,
+      for example, the span or the upper limit of the nominal range of the measuring
+      instrument.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,19 +38,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'rapport de l''erreur d''un instrument de mesure à une valeur spécifiée
-      pour l''instrument NOTE La valeur spécifiée est généralement appelée valeur
-      conventionnelle et peut être, par exemple, l''intervalle de mesure ou la limite
-      supérieure du calibre de l''instrument de mesure. ., 6  ETALONS ln  science
-      and technology, the English word "standard" is used with two different meanings:
-      as a widely adopted written technical standard, specification,  technical  recommendation  or
-      similar document (in French "norme"} and also as  a  measurement  standard  (in  French
-      "étalon"). This Vocabulary is concerned solely with  the  second  meaning  and  the  qualifier
-      "measurement" is generally omitted for brevity.'
+  - content: rapport de l'erreur d'un instrument de mesure à une valeur spécifiée
+      pour l'instrument
   examples: []
   id: 5.28-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: La valeur spécifiée est généralement appelée valeur conventionnelle et
+      peut être, par exemple, l'intervalle de mesure ou la limite supérieure du calibre
+      de l'instrument de mesure
   terms:
   - type: expression
     normative_status: preferred

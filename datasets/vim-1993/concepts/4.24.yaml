@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.24'
   localized_concepts:
@@ -19,12 +18,13 @@ data:
   definition:
   - content: scale in which each scale spacing is related to the corresponding scale
       interval by a coefficient of proportionality that is not constant throughout
-      the scale NOTE Sorne nonlinear scales are given special names such as logarithmic
-      scale, square-law scale.
+      the scale
   examples: []
   id: 4.24-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: Sorne nonlinear scales are given special names such as logarithmic scale,
+      square-law scale.
   terms:
   - type: expression
     normative_status: preferred
@@ -40,12 +40,12 @@ data:
   definition:
   - content: échelle dans laquelle la longueur et la valeur de chaque division sont
       reliées par un coefficient de proportionnalité non constant le long de l'échelle
-      NOTE Certaines échelles non-linéaires sont désignées par des  noms  spéciaux  tels  que  échelle  loga-rithmique,
-      échelle quadratique.
   examples: []
   id: 4.24-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Certaines échelles non-linéaires sont désignées par des  noms  spéciaux  tels  que  échelle  loga-rithmique,
+      échelle quadratique.
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.8'
   localized_concepts:
@@ -17,12 +16,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: standard used as an intermediary to compare standards NOTE The term transfer
-      device should be used when the intermediary is not a standard.
+  - content: standard used as an intermediary to compare standards
   examples: []
   id: 6.8-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The term transfer device should be used when the intermediary is not
+      a standard.
   terms:
   - type: expression
     normative_status: preferred
@@ -37,12 +37,12 @@ data:
     type: accepted
   definition:
   - content: étalon  utilisé  comme  intermédiaire  pour comparer entre eux des étalons
-      NOTE Le terme dispositif de transfert doit être utilisé lorsque l'intermédiaire
-      n'est pas un étalon.
   examples: []
   id: 6.8-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Le terme dispositif de transfert doit être utilisé lorsque l'intermédiaire
+      n'est pas un étalon.
   terms:
   - type: expression
     normative_status: preferred
