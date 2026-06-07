@@ -30,7 +30,7 @@ jobs:
       - name: Install concept-browser
         run: |
           # Replace file: dependencies with npm registry versions
-          npm install --ignore-scripts @glossarist/concept-browser@^0.7.26 --save --omit=dev
+          npm install --ignore-scripts @glossarist/concept-browser@^0.7.27 --save --omit=dev
           npm install --prefix node_modules/@glossarist/concept-browser sharp 2>/dev/null || true
 
       - name: Build site
