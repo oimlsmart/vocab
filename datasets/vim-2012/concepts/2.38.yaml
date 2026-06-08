@@ -29,15 +29,16 @@ data:
   notes:
   - content: A coverage factor is usually symbolized k (see also ISO/IEC Guide 98-3:2008,
       2.3.6).
-  - content: '[Annotation] Here "combined standard measurement uncertainty" can be
-      replaced with "combined standard uncertainty" and "expanded measurement uncertainty"
-      can be replaced with "expanded uncertainty" without ambiguity: "number larger
-      than one by which a combined standard uncertainty is multiplied to obtain an
-      expanded uncertainty".'
   terms:
   - type: expression
     normative_status: preferred
     designation: coverage factor
+  annotations:
+  - content: 'Here "combined standard measurement uncertainty" can be replaced with
+      "combined standard uncertainty" and "expanded measurement uncertainty" can be
+      replaced with "expanded uncertainty" without ambiguity: "number larger than
+      one by which a combined standard uncertainty is multiplied to obtain an expanded
+      uncertainty".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: adf3dfc8-38c2-4f96-81a5-222d1faa8fc4

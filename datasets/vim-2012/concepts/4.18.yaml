@@ -21,10 +21,10 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measured quantity value,2.10}}, obtained by a given {{measurement
+  - content: "{{measured quantity value,2.10}}, obtained by a given {{measurement
       procedure,2.6}}, for which the probability of falsely claiming the absence of
       a component in a material is β, given a probability α of falsely claiming its
-      presence'
+      presence"
   examples: []
   id: 4.18-eng
   language_code: eng
@@ -32,10 +32,6 @@ data:
   - content: IUPAC recommends default values for α and β equal to 0.05.
   - content: The abbreviation LOD is sometimes used.
   - content: The term “sensitivity” is discouraged for 'detection limit'.
-  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
-      value" without ambiguity: "measured value, obtained by a given measurement procedure,
-      for which the probability of falsely claiming the absence of a component in
-      a material is β, given a probability α of falsely claiming its presence".'
   terms:
   - type: expression
     normative_status: preferred
@@ -43,6 +39,11 @@ data:
   - type: expression
     normative_status: admitted
     designation: limit of detection
+  annotations:
+  - content: 'Here "measured quantity value" can be replaced by "measured value" without
+      ambiguity: "measured value, obtained by a given measurement procedure, for which
+      the probability of falsely claiming the absence of a component in a material
+      is β, given a probability α of falsely claiming its presence".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 198f39e7-23b7-4ab2-8f0a-544850b9b11d
@@ -52,16 +53,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{valeur mesurée,2.10}}, obtenue par une {{procédure de mesure,2.6}}
-      donnée, pour laquelle la probabilité de déclarer faussement l''absence d''un
-      constituant dans un matériau est β, étant donnée la probabilité α de déclarer
-      faussement sa présence'
+  - content: "{{valeur mesurée,2.10}}, obtenue par une {{procédure de mesure,2.6}}
+      donnée, pour laquelle la probabilité de déclarer faussement l'absence d'un constituant
+      dans un matériau est β, étant donnée la probabilité α de déclarer faussement
+      sa présence"
   examples: []
   id: 4.18-fra
   language_code: fra
   notes:
   - content: L'UICPA recommande des valeurs par défaut de α et β égales à 0,05.
-  - content: '[Applicable uniquement au texte anglais].'
+  - content: "[Applicable uniquement au texte anglais]."
   - content: Le terme «sensibilité» est à proscrire au sens de limite de détection.
   terms:
   - type: expression

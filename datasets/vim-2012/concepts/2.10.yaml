@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{quantity value,1.19}} representing a {{measurement result,2.9}}'
+  - content: "{{quantity value,1.19}} representing a {{measurement result,2.9}}"
   examples: []
   id: 2.10-eng
   language_code: eng
@@ -43,11 +43,6 @@ data:
   - content: In the GUM, the terms “result of measurement” and “estimate of the value
       of the measurand” or just “estimate of the measurand” are used for 'measured
       quantity value'.
-  - content: '[Annotation] The term "measured value" can be used instead of the full
-      term "measured quantity value" only if there is no possibility for ambiguity
-      or misinterpretation in the particular context. In particular, the term "measured
-      value" is sometimes used for indication, and this is not what is meant by "measured
-      quantity value".'
   terms:
   - type: expression
     normative_status: preferred
@@ -58,6 +53,11 @@ data:
   - type: expression
     normative_status: admitted
     designation: measured value
+  annotations:
+  - content: The term "measured value" can be used instead of the full term "measured
+      quantity value" only if there is no possibility for ambiguity or misinterpretation
+      in the particular context. In particular, the term "measured value" is sometimes
+      used for indication, and this is not what is meant by "measured quantity value".
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6a618627-cb3e-469c-af9e-5361ccfb62c6
@@ -67,7 +67,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{valeur d''une grandeur,1.19}} représentant un {{résultat de mesure,2.9}}'
+  - content: "{{valeur d'une grandeur,1.19}} représentant un {{résultat de mesure,2.9}}"
   examples: []
   id: 2.10-fra
   language_code: fra

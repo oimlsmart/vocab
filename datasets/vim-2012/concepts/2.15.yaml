@@ -1,7 +1,7 @@
 data:
   identifier: '2.15'
   localized_concepts:
-    eng: 0887a4cd-43c8-4867-bc43-6c6acb164bbd
+    eng: '0887a4cd-43c8-4867-bc43-6c6acb164bbd'
     fra: e113ae5f-426f-418f-b1af-c39fb1f4d53e
   domains:
   - concept_id: section-2
@@ -38,9 +38,6 @@ data:
       {{intermediate measurement precision,2.23}}, and {{measurement reproducibility,2.25}}.
   - content: Sometimes “measurement precision” is erroneously used to mean {{measurement
       accuracy,2.13}}.
-  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
-      ambiguity: "closeness of agreement between indications or measured values obtained
-      by replicate measurements on the same or similar objects under specified conditions".'
   terms:
   - type: expression
     normative_status: preferred
@@ -48,9 +45,13 @@ data:
   - type: expression
     normative_status: admitted
     designation: precision
+  annotations:
+  - content: 'Here "quantity value" can be replaced with "value" without ambiguity:
+      "closeness of agreement between indications or measured values obtained by replicate
+      measurements on the same or similar objects under specified conditions".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0887a4cd-43c8-4867-bc43-6c6acb164bbd
+id: '0887a4cd-43c8-4867-bc43-6c6acb164bbd'
 ---
 data:
   dates:

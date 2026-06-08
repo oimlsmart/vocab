@@ -41,12 +41,6 @@ data:
       standard measurement uncertainty of their difference is equal to the root mean
       square sum of their standard measurement uncertainties, while it is lower for
       positive covariance or higher for negative covariance.
-  - content: '[Annotation] Here "measured quantity values" can be replaced by "measured
-      values" and "standard measurement uncertainty" can be replaced by "standard
-      uncertainty" without ambiguity: "property of a set of measurement results for
-      a specified measurand, such that the absolute value of the difference of any
-      pair of measured values from two different measurement results is smaller than
-      some chosen multiple of the standard uncertainty of that difference".'
   terms:
   - type: expression
     normative_status: preferred
@@ -54,6 +48,13 @@ data:
   - type: expression
     normative_status: admitted
     designation: metrological compatibility
+  annotations:
+  - content: 'Here "measured quantity values" can be replaced by "measured values"
+      and "standard measurement uncertainty" can be replaced by "standard uncertainty"
+      without ambiguity: "property of a set of measurement results for a specified
+      measurand, such that the absolute value of the difference of any pair of measured
+      values from two different measurement results is smaller than some chosen multiple
+      of the standard uncertainty of that difference".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3cc33e3f-5a85-44e5-a444-c0720b63c14a

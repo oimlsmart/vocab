@@ -2,7 +2,7 @@ data:
   identifier: '2.26'
   localized_concepts:
     eng: f6496afb-4274-4997-a18a-d084f01f5fe0
-    fra: 08553c77-d20c-4eb9-83e5-da5f2213723b
+    fra: '08553c77-d20c-4eb9-83e5-da5f2213723b'
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:2:2012
@@ -47,13 +47,6 @@ data:
       measurement uncertainty is associated with a stated quantity value attributed
       to the measurand. A modification of this value results in a modification of
       the associated uncertainty.
-  - content: '[Annotation] Measurement uncertainty is part of a measurement result,
-      which is an outcome of a measurement. "non-negative" means "zero or positive".
-      The "information used" in the definition is the information obtained from performing
-      the measurement.'
-  - content: '[Annotation] A simplified equivalent wording of the definition is "non-negative
-      parameter characterizing the dispersion of the values being attributed to a
-      measurand, based on the information used."'
   terms:
   - type: expression
     normative_status: preferred
@@ -64,6 +57,13 @@ data:
   - type: expression
     normative_status: admitted
     designation: uncertainty
+  annotations:
+  - content: Measurement uncertainty is part of a measurement result, which is an
+      outcome of a measurement. "non-negative" means "zero or positive". The "information
+      used" in the definition is the information obtained from performing the measurement.
+  - content: A simplified equivalent wording of the definition is "non-negative parameter
+      characterizing the dispersion of the values being attributed to a measurand,
+      based on the information used."
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: f6496afb-4274-4997-a18a-d084f01f5fe0
@@ -97,10 +97,6 @@ data:
   - content: En général, pour des informations données, on sous-entend que l'incertitude
       de mesure est associée à une valeur déterminée attribuée au mesurande. Une modification
       de cette valeur entraîne une modification de l'incertitude associée.
-  - content: '[Annotation] Une incertitude de mesure fait partie d''un résultat de
-      mesure, qui est le résultat d''un mesurage. Le qualificatif «non négatif» signifie
-      «positif ou nul». Les «informations utilisées» dans la définition sont les informations
-      obtenues en effectuant le mesurage.'
   terms:
   - type: expression
     normative_status: preferred
@@ -108,6 +104,11 @@ data:
   - type: expression
     normative_status: admitted
     designation: incertitude, f
+  annotations:
+  - content: Une incertitude de mesure fait partie d'un résultat de mesure, qui est
+      le résultat d'un mesurage. Le qualificatif «non négatif» signifie «positif ou
+      nul». Les «informations utilisées» dans la définition sont les informations
+      obtenues en effectuant le mesurage.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 08553c77-d20c-4eb9-83e5-da5f2213723b
+id: '08553c77-d20c-4eb9-83e5-da5f2213723b'

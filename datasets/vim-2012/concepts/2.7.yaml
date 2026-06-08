@@ -30,17 +30,18 @@ data:
   id: 2.7-eng
   language_code: eng
   notes:
-  - content: "[Annotation] The definition systematically uses preferred terms and
-      so is long and complex. A shorter definition, coupled with a Note, might be
-      sufficient: \n\"measurement procedure used in the process of providing results
-      for assessing trueness of values obtained from other measurement procedures
-      for quantities of the same kind\""
   - content: Reference measurement procedures are often used in calibration and in
       assigning values to reference materials.
   terms:
   - type: expression
     normative_status: preferred
     designation: reference measurement procedure
+  annotations:
+  - content: "The definition systematically uses preferred terms and so is long and
+      complex. A shorter definition, coupled with a Note, might be sufficient: \n\"measurement
+      procedure used in the process of providing results for assessing trueness of
+      values obtained from other measurement procedures for quantities of the same
+      kind\""
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 29cc3a44-4237-4be6-ba60-726868190a1d
@@ -59,9 +60,6 @@ data:
   id: 2.7-fra
   language_code: fra
   notes:
-  - content: |-
-      [Annotation] La définition est longue et complexe (et utilise systématiquement en anglais les termes privilégiés). Une définition plus courte, associée à une note, pourrait suffire :
-      «procédure de mesure utilisée pour fournir des résultats destinés à évaluer la justesse des valeurs obtenues à partir d'autres procédures de mesure pour des grandeurs de même nature»
   - content: Des procédures de mesure de référence sont souvent utilisées dans les
       étalonnages et pour assigner des valeurs aux matériaux de référence.
   terms:
@@ -71,6 +69,10 @@ data:
   - type: expression
     normative_status: admitted
     designation: procédure opératoire de référence, f
+  annotations:
+  - content: |-
+      La définition est longue et complexe (et utilise systématiquement en anglais les termes privilégiés). Une définition plus courte, associée à une note, pourrait suffire :
+      «procédure de mesure utilisée pour fournir des résultats destinés à évaluer la justesse des valeurs obtenues à partir d'autres procédures de mesure pour des grandeurs de même nature»
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 23f5d9e7-40ea-4d75-8c87-ac3c2cd17d44

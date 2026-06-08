@@ -31,10 +31,7 @@ data:
       numerically, but measures for closeness of agreement are given in ISO 5725.
   - content: Measurement trueness is inversely related to {{systematic measurement
       error,2.17}}, but is not related to {{random measurement error,2.19}}.
-  - content: “Measurement accuracy” should not be used for 'measurement trueness'.
-  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
-      ambiguity: "closeness of agreement between the average of an infinite number
-      of replicate measured values and a reference value".'
+  - content: "“Measurement accuracy” should not be used for 'measurement trueness'."
   terms:
   - type: expression
     normative_status: preferred
@@ -45,6 +42,10 @@ data:
   - type: expression
     normative_status: admitted
     designation: trueness
+  annotations:
+  - content: 'Here "quantity value" can be replaced with "value" without ambiguity:
+      "closeness of agreement between the average of an infinite number of replicate
+      measured values and a reference value".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7186ec4d-b20c-40ba-ab6f-1880c44afe36

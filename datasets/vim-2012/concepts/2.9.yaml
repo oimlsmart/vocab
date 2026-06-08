@@ -40,15 +40,6 @@ data:
       measurement result was defined as a value attributed to a measurand and explained
       to mean an {{indication,4.1}}, or an uncorrected result, or a corrected result,
       according to the context.
-  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
-      ambiguity: "set of values being attributed to a measurand together with any
-      other available relevant information."'
-  - content: '[Annotation] This definition differs from the definition in the second
-      edition of the VIM (VIM2) ("value attributed to a measurand, obtained by measurement")
-      in recognition of 3.1.2 in the GUM ("In general, the result of a measurement
-      is only an approximation or estimate of the value of the measurand and thus
-      is complete only when accompanied by a statement of the uncertainty of that
-      estimate.")'
   terms:
   - type: expression
     normative_status: preferred
@@ -56,6 +47,16 @@ data:
   - type: expression
     normative_status: admitted
     designation: result of measurement
+  annotations:
+  - content: 'Here "quantity value" can be replaced with "value" without ambiguity:
+      "set of values being attributed to a measurand together with any other available
+      relevant information."'
+  - content: This definition differs from the definition in the second edition of
+      the VIM (VIM2) ("value attributed to a measurand, obtained by measurement")
+      in recognition of 3.1.2 in the GUM ("In general, the result of a measurement
+      is only an approximation or estimate of the value of the measurand and thus
+      is complete only when accompanied by a statement of the uncertainty of that
+      estimate.")
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: f3156b7b-6166-473a-a166-4622daa7ac4f
@@ -84,12 +85,6 @@ data:
       le résultat de mesure était défini comme une valeur attribuée à un mesurande
       et pouvait se référer à une {{indication,4.1}}, un résultat brut ou un résultat
       corrigé, selon le contexte.
-  - content: '[Annotation] Cette définition diffère de celle de la deuxième édition
-      du VIM (VIM2) («valeur attribuée à un mesurande, obtenue par mesurage») pour
-      tenir compte de 3.1.2 dans le GUM («En général, le résultat d''un mesurage est
-      seulement une approximation ou estimation de la valeur du mesurande et, de ce
-      fait, est seulement complet lorsqu''il est accompagné par une expression de
-      l''incertitude de cette estimation»).'
   terms:
   - type: expression
     normative_status: preferred
@@ -97,6 +92,13 @@ data:
   - type: expression
     normative_status: admitted
     designation: résultat d'un mesurage, m
+  annotations:
+  - content: Cette définition diffère de celle de la deuxième édition du VIM (VIM2)
+      («valeur attribuée à un mesurande, obtenue par mesurage») pour tenir compte
+      de 3.1.2 dans le GUM («En général, le résultat d'un mesurage est seulement une
+      approximation ou estimation de la valeur du mesurande et, de ce fait, est seulement
+      complet lorsqu'il est accompagné par une expression de l'incertitude de cette
+      estimation»).
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 46756881-ee22-4ba2-9808-cce0e95e5c90

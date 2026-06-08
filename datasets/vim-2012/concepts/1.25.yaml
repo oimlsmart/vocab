@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.25'
   localized_concepts:
@@ -34,10 +33,7 @@ data:
       giving the numerical value 9 of Tin joules.
   id: 1.25-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "numerical quantity value" can be replaced with "numerical
-      value" in the definition without ambiguity: "mathematical relation between numerical
-      values, based on a given quantity equation and specified measurement units".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -45,6 +41,10 @@ data:
   - type: expression
     normative_status: admitted
     designation: numerical quantity value equation
+  annotations:
+  - content: 'Here "numerical quantity value" can be replaced with "numerical value"
+      in the definition without ambiguity: "mathematical relation between numerical
+      values, based on a given quantity equation and specified measurement units".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 817d438a-8a2b-43a6-9c0e-ca1332b74663

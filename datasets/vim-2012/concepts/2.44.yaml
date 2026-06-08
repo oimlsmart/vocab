@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.44'
   localized_concepts:
@@ -47,13 +46,14 @@ data:
   - content: In chemistry, verification of the identity of the entity involved, or
       of activity, requires a description of the structure or properties of that entity
       or activity.
-  - content: '[Annotation] ANNOTATION (for Example 1) (informative) [5 June 2014]
-      By "measurement portion" here is meant amount of material, of proper size, for
-      measurement of any quantity of interest, removed from the reference material.'
   terms:
   - type: expression
     normative_status: preferred
     designation: verification
+  annotations:
+  - content: ANNOTATION (for Example 1) (informative) [5 June 2014] By "measurement
+      portion" here is meant amount of material, of proper size, for measurement of
+      any quantity of interest, removed from the reference material.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 47eb369c-2d34-4e9c-bd7e-b178c6152e32
@@ -89,14 +89,14 @@ data:
   - content: En chimie, la vérification de l'identité d'une entité, ou celle d'une
       activité, nécessite une description de la structure ou des propriétés de cette
       entité ou activité.
-  - content: "[Annotation] ANNOTATION (pour l'Exemple 1) (informative) [5 juin 2014]
-      Une «prise de mesure» signifie ici un prélèvement de taille appropriée effectué
-      sur le matériau de référence en vue de mesurer toute grandeur présentant de
-      l'intérêt."
   terms:
   - type: expression
     normative_status: preferred
     designation: vérification
+  annotations:
+  - content: ANNOTATION (pour l'Exemple 1) (informative) [5 juin 2014] Une «prise
+      de mesure» signifie ici un prélèvement de taille appropriée effectué sur le
+      matériau de référence en vue de mesurer toute grandeur présentant de l'intérêt.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 612a49f5-9cf9-428d-b753-2ac165cf7bd7

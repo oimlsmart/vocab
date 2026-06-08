@@ -34,9 +34,6 @@ data:
   - content: For information about statistical analysis, see e.g. ISO/IEC Guide 98-3.
   - content: See also ISO/IEC Guide 98-3:2008, 2.3.2, ISO 5725, ISO 13528, ISO/TS
       21748, ISO 21749.
-  - content: '[Annotation] Here "measured quantity values" can be replaced with "measured
-      values" without ambiguity: "evaluation of a component of uncertainty by a statistical
-      analysis of measured values obtained under defined measurement conditions".'
   terms:
   - type: expression
     normative_status: preferred
@@ -44,6 +41,10 @@ data:
   - type: expression
     normative_status: admitted
     designation: Type A evaluation
+  annotations:
+  - content: 'Here "measured quantity values" can be replaced with "measured values"
+      without ambiguity: "evaluation of a component of uncertainty by a statistical
+      analysis of measured values obtained under defined measurement conditions".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 412f986e-ce7f-478c-999b-ede3ac3973d3

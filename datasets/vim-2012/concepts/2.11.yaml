@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{quantity value,1.19}} consistent with the definition of a {{quantity,1.1}}'
+  - content: "{{quantity value,1.19}} consistent with the definition of a {{quantity,1.1}}"
   examples: []
   id: 2.11-eng
   language_code: eng
@@ -42,12 +42,6 @@ data:
       uncertainty,2.26}}, the measurand may be considered to have an “essentially
       unique” true quantity value. This is the approach taken by the GUM and associated
       documents, where the word “true” is considered to be redundant.
-  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
-      ambiguity: "value consistent with the definition of a quantity".'
-  - content: '[Annotation] ANNOTATION (for Note 1) (informative) [5 June 2014]:  Two
-      reasons that the set of true values is unknowable are: 1) the measurement model
-      used in a measurement may be incorrect, and 2) a mistake may be made in performing
-      the measurement.'
   terms:
   - type: expression
     normative_status: preferred
@@ -58,6 +52,13 @@ data:
   - type: expression
     normative_status: admitted
     designation: true value
+  annotations:
+  - content: 'Here "quantity value" can be replaced with "value" without ambiguity:
+      "value consistent with the definition of a quantity".'
+  - content: 'ANNOTATION (for Note 1) (informative) [5 June 2014]:  Two reasons that
+      the set of true values is unknowable are: 1) the measurement model used in a
+      measurement may be incorrect, and 2) a mistake may be made in performing the
+      measurement.'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0cb24fb8-2285-4724-bb68-b2df72494948
@@ -67,8 +68,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{valeur d''une grandeur,1.19}} compatible avec la définition de la
-      {{grandeur,1.1}}'
+  - content: "{{valeur d'une grandeur,1.19}} compatible avec la définition de la {{grandeur,1.1}}"
   examples: []
   id: 2.11-fra
   language_code: fra
@@ -89,10 +89,6 @@ data:
       de mesure,2.26}}, on peut considérer que le mesurande a une valeur vraie par
       essence unique. C'est l'approche adoptée dans le GUM, où le mot «vraie» est
       considéré comme redondant.
-  - content: '[Annotation] ANNOTATION (pour la Note 1) (informative) [5 juin 2014]
-      Deux des raisons pour lesquelles l''ensemble des valeurs vraies est impossible
-      à connaître sont : 1) le modèle de mesure utilisé dans un mesurage peut être
-      incorrect ; 2) une erreur a pu être commise en effectuant le mesurage.'
   terms:
   - type: expression
     normative_status: preferred
@@ -100,6 +96,11 @@ data:
   - type: expression
     normative_status: admitted
     designation: valeur vraie d'une grandeur, f
+  annotations:
+  - content: 'ANNOTATION (pour la Note 1) (informative) [5 juin 2014] Deux des raisons
+      pour lesquelles l''ensemble des valeurs vraies est impossible à connaître sont :
+      1) le modèle de mesure utilisé dans un mesurage peut être incorrect ; 2) une
+      erreur a pu être commise en effectuant le mesurage.'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: fe1ae253-cb6b-49c7-a834-11f2c1addadc

@@ -21,15 +21,12 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement error,2.16}} of a {{measuring instrument,3.1}} or {{measuring
-      system,3.2}} at a specified {{measured quantity value,2.10}}'
+  - content: "{{measurement error,2.16}} of a {{measuring instrument,3.1}} or {{measuring
+      system,3.2}} at a specified {{measured quantity value,2.10}}"
   examples: []
   id: 4.27-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
-      value" without ambiguity: "measurement error of a measuring instrument or measuring
-      system at a specified measured value".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -37,6 +34,10 @@ data:
   - type: expression
     normative_status: admitted
     designation: datum error
+  annotations:
+  - content: 'Here "measured quantity value" can be replaced by "measured value" without
+      ambiguity: "measurement error of a measuring instrument or measuring system
+      at a specified measured value".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: a6126bf1-0142-424a-abc1-5a0332c99e75
@@ -46,8 +47,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{erreur de mesure,2.16}} d''un {{instrument de mesure,3.1}} ou d''un
-      {{système de mesure,3.2}} pour une {{valeur mesurée,2.10}} spécifiée'
+  - content: "{{erreur de mesure,2.16}} d'un {{instrument de mesure,3.1}} ou d'un
+      {{système de mesure,3.2}} pour une {{valeur mesurée,2.10}} spécifiée"
   examples: []
   id: 4.27-fra
   language_code: fra

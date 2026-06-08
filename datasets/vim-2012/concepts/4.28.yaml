@@ -21,20 +21,21 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{datum measurement error,4.27}} where the specified {{measured quantity
-      value,2.10}} is zero'
+  - content: "{{datum measurement error,4.27}} where the specified {{measured quantity
+      value,2.10}} is zero"
   examples: []
   id: 4.28-eng
   language_code: eng
   notes:
   - content: Zero error should not be confused with absence of {{measurement error,2.16}}.
-  - content: '[Annotation] Here "datum measurement error" can be replaced by "datum
-      error" and "measured quantity value" can be replaced by "measured value" without
-      ambiguity: "datum error where the specified measured value is zero".'
   terms:
   - type: expression
     normative_status: preferred
     designation: zero error
+  annotations:
+  - content: 'Here "datum measurement error" can be replaced by "datum error" and
+      "measured quantity value" can be replaced by "measured value" without ambiguity:
+      "datum error where the specified measured value is zero".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6c46e007-cad0-4846-858b-e93e4d33f5f3
@@ -44,8 +45,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{erreur au point de contrôle,4.27}} lorsque la {{valeur mesurée,2.10}}
-      spécifiée est nulle'
+  - content: "{{erreur au point de contrôle,4.27}} lorsque la {{valeur mesurée,2.10}}
+      spécifiée est nulle"
   examples: []
   id: 4.28-fra
   language_code: fra

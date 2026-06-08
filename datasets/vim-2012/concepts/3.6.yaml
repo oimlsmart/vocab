@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.6'
   localized_concepts:
@@ -36,14 +35,14 @@ data:
   - content: The {{indication,4.1}} of a material measure is its assigned quantity
       value.
   - content: A material measure can be a {{measurement standard,5.1}}.
-  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
-      ambiguity: "measuring instrument reproducing or supplying, in a permanent manner
-      during its use, quantities of one or more given kinds, each with an assigned
-      value."'
   terms:
   - type: expression
     normative_status: preferred
     designation: material measure
+  annotations:
+  - content: 'Here "quantity value" can be replaced with "value" without ambiguity:
+      "measuring instrument reproducing or supplying, in a permanent manner during
+      its use, quantities of one or more given kinds, each with an assigned value."'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 87c8aa8c-43c4-4d68-b8a3-3bdfd1fe770d

@@ -19,8 +19,6 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '3.5'
 ---
-null
-...
 ---
 data:
   dates:
@@ -32,20 +30,19 @@ data:
   examples: []
   id: 3.5-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
-      ambiguity: "part of a displaying measuring instrument, consisting of an ordered
-      set of marks together with any associated values."'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: scale of a displaying measuring instrument
+  annotations:
+  - content: 'Here "quantity value" can be replaced with "value" without ambiguity:
+      "part of a displaying measuring instrument, consisting of an ordered set of
+      marks together with any associated values."'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2c68c07a-43f8-4de3-84cc-ab4993d85fdf
 ---
-null
-...
 ---
 data:
   dates:

@@ -29,12 +29,13 @@ data:
   - content: An indication interval is usually stated in terms of its smallest and
       greatest quantity values, for example “99 V to 201 V”.
   - content: In some fields, the term is “range of indications”.
-  - content: '[Annotation] Here "quantity values" can be replaced by "values" without
-      ambiguity: "set of values bounded by extreme possible indications".'
   terms:
   - type: expression
     normative_status: preferred
     designation: indication interval
+  annotations:
+  - content: 'Here "quantity values" can be replaced by "values" without ambiguity:
+      "set of values bounded by extreme possible indications".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0d13ccf8-0f26-440d-9e2a-e1004ff83f6a

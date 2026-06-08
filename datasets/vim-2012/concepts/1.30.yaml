@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.30'
   localized_concepts:
@@ -37,17 +36,18 @@ data:
       codes, or by other means.
   - content: "'Nominal property value' is not to be confused with {{nominal quantity
       value,4.6}}."
-  - content: "[Annotation] Nominal properties are distinguished from quantities, which
-      are properties that have a magnitude, that is, they can be compared in terms
-      of greater or lesser."
-  - content: "[Annotation] ANNOTATION (for Examples 2 and 3) (informative) [3 December
-      2013] While colour of a paint sample is sometimes considered to be a nominal
-      property, it is also recognized that a pure colour can be characterized by the
-      wavelength of electromagnetic radiation, which is a quantity that can be measured."
   terms:
   - type: expression
     normative_status: preferred
     designation: nominal property
+  annotations:
+  - content: Nominal properties are distinguished from quantities, which are properties
+      that have a magnitude, that is, they can be compared in terms of greater or
+      lesser.
+  - content: ANNOTATION (for Examples 2 and 3) (informative) [3 December 2013] While
+      colour of a paint sample is sometimes considered to be a nominal property, it
+      is also recognized that a pure colour can be characterized by the wavelength
+      of electromagnetic radiation, which is a quantity that can be measured.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3984d49d-3bd4-438d-bd99-b9de2c9b286f
@@ -72,13 +72,6 @@ data:
       mots, par des codes alphanumériques ou par d'autres moyens.
   - content: La valeur d'une propriété qualitative ne doit pas être confondue avec
       la {{valeur nominale,4.6}} d'une grandeur.
-  - content: "[Annotation] Les propriétés qualitatives se distinguent des grandeurs,
-      qui sont des propriétés que l'on peut exprimer quantitativement et classer dans
-      un ordre croissant ou décroissant."
-  - content: "[Annotation] ANNOTATION (pour les Exemples 2 et 3) (informative) [3
-      décembre 2013] La couleur d'un spécimen de peinture est parfois considérée comme
-      une propriété qualitative, mais une couleur pure peut être caractérisée par
-      la longueur d'onde d'une onde électromagnétique, qui est une grandeur mesurable."
   terms:
   - type: expression
     normative_status: preferred
@@ -86,6 +79,14 @@ data:
   - type: expression
     normative_status: admitted
     designation: attribut, m
+  annotations:
+  - content: Les propriétés qualitatives se distinguent des grandeurs, qui sont des
+      propriétés que l'on peut exprimer quantitativement et classer dans un ordre
+      croissant ou décroissant.
+  - content: ANNOTATION (pour les Exemples 2 et 3) (informative) [3 décembre 2013]
+      La couleur d'un spécimen de peinture est parfois considérée comme une propriété
+      qualitative, mais une couleur pure peut être caractérisée par la longueur d'onde
+      d'une onde électromagnétique, qui est une grandeur mesurable.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: f207e475-c0a8-46d4-b8a9-531631922bac

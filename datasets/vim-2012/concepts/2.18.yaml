@@ -25,9 +25,7 @@ data:
   examples: []
   id: 2.18-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "systematic measurement error" can be replaced with
-      "systematic error" without ambiguity: "estimate of a systematic error".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -35,6 +33,9 @@ data:
   - type: expression
     normative_status: admitted
     designation: bias
+  annotations:
+  - content: 'Here "systematic measurement error" can be replaced with "systematic
+      error" without ambiguity: "estimate of a systematic error".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: e179f6bd-1d25-4966-8a26-dda8d29b9303
