@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: réglage de zéro, m
+    designation: réglage de zéro
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6d1b2f73-e93b-4da5-bcc2-603e684e60f7

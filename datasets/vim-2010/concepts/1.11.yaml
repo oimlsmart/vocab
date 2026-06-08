@@ -57,7 +57,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité dérivée, f
+    designation: unité dérivée
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8beb7bdc-e222-4fcd-9ae6-329e1f27fc44

@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.8'
   localized_concepts:
@@ -61,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: signal de mesure, m
+    designation: signal de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0cc28f68-83f6-4f9f-9713-d848ac5f4628

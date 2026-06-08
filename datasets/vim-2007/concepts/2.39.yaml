@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.39'
   localized_concepts:
@@ -79,7 +78,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalonnage, m
+    designation: étalonnage
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: f731ff20-ce38-4f9d-b722-fac3fdabc063

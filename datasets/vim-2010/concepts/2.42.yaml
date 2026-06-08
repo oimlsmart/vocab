@@ -65,10 +65,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: chaîne de traçabilité métrologique, f
+    designation: chaîne de traçabilité métrologique
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: chaîne de traçabilité, f
+    designation: chaîne de traçabilité
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: bf72065b-7819-4299-88c2-faa0d5fdd984

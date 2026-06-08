@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: traçabilité, f
+    designation: traçabilité
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: '093a8ed7-484d-4a76-8a1a-98c6e5389c2c'

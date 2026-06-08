@@ -19,8 +19,6 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '4.11'
 ---
-null
-...
 ---
 data:
   dates:
@@ -50,8 +48,6 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: be0f81f9-530e-412a-99b6-874769784c24
 ---
-null
-...
 ---
 data:
   dates:
@@ -76,7 +72,9 @@ data:
     designation: condition de fonctionnement de référence
   - type: expression
     normative_status: admitted
-    designation: condition de référence, f
+    designation: condition de référence
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 4fdb0660-dc37-4288-9ef3-58485e126c9e

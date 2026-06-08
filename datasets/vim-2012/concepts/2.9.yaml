@@ -91,7 +91,9 @@ data:
     designation: résultat de mesure
   - type: expression
     normative_status: admitted
-    designation: résultat d'un mesurage, m
+    designation: résultat d'un mesurage
+    grammar_info:
+    - gender: m
   annotations:
   - content: Cette définition diffère de celle de la deuxième édition du VIM (VIM2)
       («valeur attribuée à un mesurande, obtenue par mesurage») pour tenir compte

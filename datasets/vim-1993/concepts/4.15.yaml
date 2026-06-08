@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.15'
   localized_concepts:
@@ -55,7 +54,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: détecteur, m
+    designation: détecteur
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: fada05ed-1d99-4226-97fe-3c526b1dcafb

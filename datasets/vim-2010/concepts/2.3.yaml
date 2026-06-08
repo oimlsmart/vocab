@@ -86,7 +86,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mesurande, m
+    designation: mesurande
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 575796f8-5ed1-4a0e-93e9-445131826721

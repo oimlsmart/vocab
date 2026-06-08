@@ -21,7 +21,7 @@ data:
       obtainable with a particular setting of the controls of a measuring instrument
       or measuring system and used to designate that setting
   examples:
-  - content: ', “100 V to 200 V”.'
+  - content: ", “100 V to 200 V”."
   id: 4.4-eng
   language_code: eng
   notes:
@@ -58,13 +58,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: intervalle nominal des indications, m
+    designation: intervalle nominal des indications
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: intervalle nominal, m
+    designation: intervalle nominal
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: calibre, m
+    designation: calibre
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a465d5b4-721e-4514-b946-175ebc3843d9

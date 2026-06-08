@@ -59,7 +59,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: comparabilité métrologique, f
+    designation: comparabilité métrologique
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8e00dd2c-d049-486f-9b9c-a20bb4e44bfb

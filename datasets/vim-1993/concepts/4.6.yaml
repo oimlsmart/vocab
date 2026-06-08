@@ -54,7 +54,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil {de mesure) afficheur, m
+    designation: appareil {de mesure) afficheur
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 340aab4b-02a9-409c-9407-3771398ce14d

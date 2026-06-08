@@ -54,7 +54,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: système de mesure, m
+    designation: système de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: e359c9ca-9632-4d53-a628-0c1aa1e45eca

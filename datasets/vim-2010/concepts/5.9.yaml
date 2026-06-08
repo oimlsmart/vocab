@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: dispositif de transfert, m
+    designation: dispositif de transfert
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6cc0373a-70f5-4867-8657-faf70dbc6cff

@@ -178,7 +178,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: reproductibilité (des résultats de mesurage), f
+    designation: reproductibilité (des résultats de mesurage)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8083fd1d-2cc9-4602-bd10-bfa5ff9c5505

@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.3'
   localized_concepts:
@@ -92,7 +91,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mesurande, m
+    designation: mesurande
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: be1b2ab0-ab1f-4a1f-b1af-70eb4f3d1ba4

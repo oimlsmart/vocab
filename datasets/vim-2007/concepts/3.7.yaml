@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.7'
   localized_concepts:
@@ -59,7 +58,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: transducteur de mesure, m
+    designation: transducteur de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a5e1a02c-577c-462d-8ab0-eb98439a8b05

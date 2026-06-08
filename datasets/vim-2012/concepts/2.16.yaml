@@ -80,7 +80,9 @@ data:
     designation: erreur de mesure
   - type: expression
     normative_status: admitted
-    designation: erreur, f
+    designation: erreur
+    grammar_info:
+    - gender: f
   annotations:
   - content: Une erreur de mesure est quelquefois considérée comme une grandeur ayant
       une valeur plutôt que comme une valeur d'une grandeur.

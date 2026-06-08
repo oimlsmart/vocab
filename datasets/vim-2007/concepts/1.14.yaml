@@ -60,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: système cohérent d'unités, m
+    designation: système cohérent d'unités
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 34218a61-7e44-4359-b072-995a1b3b5eff

@@ -56,10 +56,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: instrument de mesure, m
+    designation: instrument de mesure
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: appareil de mesure, m
+    designation: appareil de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2c5c06bb-a1f6-4894-b5e1-df4add005613

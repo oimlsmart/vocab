@@ -46,7 +46,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur relative, f
+    designation: erreur relative
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: dafd53d2-6ac1-4d89-ad8a-8bda1285fe7e

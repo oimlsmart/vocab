@@ -65,7 +65,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: hiérarchie d'étalonnage, f
+    designation: hiérarchie d'étalonnage
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: b948ef56-2dfe-44a9-9f8c-ffe04f10f565

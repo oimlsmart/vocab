@@ -31,8 +31,8 @@ data:
   id: 5.14-eng
   language_code: eng
   notes:
-  - content: ‘Documentation’ is given in the form of a ‘certificate’, see ISO Guide
-      31:2000.
+  - content: "‘Documentation’ is given in the form of a ‘certificate’, see ISO Guide
+      31:2000."
   - content: Procedures for the production and certification of certified reference
       materials are given, e.g., in ISO Guides 34 and 35.
   - content: In this definition, “uncertainty” covers both ‘measurement uncertainty’
@@ -90,7 +90,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: matériau de référence certifié, m
+    designation: matériau de référence certifié
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
     designation: MRC

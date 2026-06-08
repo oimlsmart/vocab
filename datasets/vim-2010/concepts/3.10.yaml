@@ -56,7 +56,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: chaîne de mesure, f
+    designation: chaîne de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 920951fc-ebac-43bc-91f6-1617672c561f

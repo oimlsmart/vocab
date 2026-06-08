@@ -55,7 +55,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: indication du blanc, f
+    designation: indication du blanc
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: f3780ae8-289a-4870-86bd-4a2277985f42

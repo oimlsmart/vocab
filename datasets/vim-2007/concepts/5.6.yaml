@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon de référence, m
+    designation: étalon de référence
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1fb80d48-1d72-4dcb-ba22-df4dabb91add

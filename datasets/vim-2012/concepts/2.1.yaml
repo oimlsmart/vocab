@@ -76,7 +76,9 @@ data:
     designation: mesurage
   - type: expression
     normative_status: admitted
-    designation: mesure, f
+    designation: mesure
+    grammar_info:
+    - gender: f
   annotations:
   - content: L'expression «obtenir expérimentalement» dans la définition doit être
       interprétée dans un sens étendu de façon à inclure non seulement une comparaison

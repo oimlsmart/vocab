@@ -32,8 +32,8 @@ data:
   - content: The subset mentioned in the definition is termed the “set of base quantities”.
   - content: Base quantities are referred to as being mutually independent since a
       base quantity cannot be expressed as a product of powers of the other base quantities.
-  - content: '''Number of entities'' can be regarded as a base quantity in any system
-      of quantities.'
+  - content: "'Number of entities' can be regarded as a base quantity in any system
+      of quantities."
   terms:
   - type: expression
     normative_status: preferred
@@ -66,7 +66,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur de base, f
+    designation: grandeur de base
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 993a5b82-c576-4c49-a758-7250fd1fd99e

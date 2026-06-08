@@ -54,7 +54,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon national, m
+    designation: étalon national
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 4ff5b4a8-01d6-418d-8865-9eb38e3d8434

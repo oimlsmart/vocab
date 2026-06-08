@@ -21,9 +21,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{indication,4.1}} obtained from a phenomenon, body, or substance similar
+  - content: "{{indication,4.1}} obtained from a phenomenon, body, or substance similar
       to the one under investigation, but for which a {{quantity,1.1}} of interest
-      is supposed not to be present, or is not contributing to the indication'
+      is supposed not to be present, or is not contributing to the indication"
   examples: []
   id: 4.2-eng
   language_code: eng
@@ -44,10 +44,10 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{indication,4.1}} obtenue à partir d''un phénomène, d''un corps ou
-      d''une substance semblable au phénomène, au corps ou à la substance en cours
-      d''étude, mais dont la {{grandeur,1.1}} d''intérêt est supposée ne pas être
-      présente ou ne contribue pas à l''indication'
+  - content: "{{indication,4.1}} obtenue à partir d'un phénomène, d'un corps ou d'une
+      substance semblable au phénomène, au corps ou à la substance en cours d'étude,
+      mais dont la {{grandeur,1.1}} d'intérêt est supposée ne pas être présente ou
+      ne contribue pas à l'indication"
   examples: []
   id: 4.2-fra
   language_code: fra
@@ -58,7 +58,9 @@ data:
     designation: indication du blanc
   - type: expression
     normative_status: admitted
-    designation: indication d'environnement, f
+    designation: indication d'environnement
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 42c33c99-ddd6-4eaa-af53-033dd94caea2

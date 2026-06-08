@@ -50,13 +50,19 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: biais de mesure, m
+    designation: biais de mesure
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: biais, m
+    designation: biais
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: erreur de justesse, f
+    designation: erreur de justesse
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: fcff4598-4c0f-4b80-ade1-10d864507e1e

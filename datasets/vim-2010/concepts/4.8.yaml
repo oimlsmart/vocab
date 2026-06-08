@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: condition de régime établi, f
+    designation: condition de régime établi
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: a945acdc-1612-4d4e-8503-2e0c500acd97

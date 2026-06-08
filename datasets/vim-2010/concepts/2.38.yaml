@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: facteur d'élargissement, m
+    designation: facteur d'élargissement
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 16b10ae3-82dc-4f34-8b56-7167d10eadfb

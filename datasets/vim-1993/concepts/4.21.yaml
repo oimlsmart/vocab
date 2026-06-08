@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: longueur d'une division (d'échelle), f
+    designation: longueur d'une division (d'échelle)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 545a52cf-ff27-4e71-b2d0-10937986a0d2

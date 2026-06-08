@@ -58,7 +58,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: équation aux unités, f
+    designation: équation aux unités
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8955d1c0-e962-44c0-a853-957ee72cce65

@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: courbe d’étalonnage, f
+    designation: courbe d’étalonnage
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: be357c62-2e35-4686-b879-fa1b6be5eec7

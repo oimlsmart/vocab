@@ -65,10 +65,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur ordinale, f
+    designation: grandeur ordinale
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: grandeur repérable, f
+    designation: grandeur repérable
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3f9f2abf-8416-4cff-9ece-7a1e86416bee

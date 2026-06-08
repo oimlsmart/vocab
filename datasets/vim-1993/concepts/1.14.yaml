@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité (de mesure) dérivée, f
+    designation: unité (de mesure) dérivée
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: '05431429-7041-4759-84ae-6f4ac008387b'

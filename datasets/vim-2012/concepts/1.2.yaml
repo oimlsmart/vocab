@@ -95,7 +95,9 @@ data:
     designation: nature de grandeur
   - type: expression
     normative_status: admitted
-    designation: nature, f
+    designation: nature
+    grammar_info:
+    - gender: f
   annotations:
   - content: Comme indiqué dans la NOTE 3, le terme «nature» n'est employé que dans
       des expressions telles que «grandeurs de même nature». Des grandeurs de même

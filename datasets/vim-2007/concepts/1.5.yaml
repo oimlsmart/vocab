@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.5'
   localized_concepts:
@@ -61,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur dérivée, f
+    designation: grandeur dérivée
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 075ad0f2-dde2-4183-a8cc-ba9441caab9c

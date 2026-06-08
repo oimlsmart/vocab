@@ -60,7 +60,9 @@ data:
     designation: fidélité intermédiaire de mesure
   - type: expression
     normative_status: admitted
-    designation: fidélité intermédiaire, f
+    designation: fidélité intermédiaire
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8f1da340-4802-4e5f-8292-14fa37eab228

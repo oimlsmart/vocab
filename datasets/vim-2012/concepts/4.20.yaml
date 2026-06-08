@@ -55,7 +55,9 @@ data:
     designation: biais instrumental
   - type: expression
     normative_status: admitted
-    designation: erreur de justesse d'un instrument, f
+    designation: erreur de justesse d'un instrument
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 836621f8-82a1-4830-bbac-7d73e558d720

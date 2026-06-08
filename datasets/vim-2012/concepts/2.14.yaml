@@ -74,7 +74,9 @@ data:
     designation: justesse de mesure
   - type: expression
     normative_status: admitted
-    designation: justesse, f
+    designation: justesse
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 71358f9a-5801-4a32-8bf1-1ada5aa7038d

@@ -62,7 +62,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: condition de fidélité intermédiaire, f
+    designation: condition de fidélité intermédiaire
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 74b817eb-f1b8-4bf4-b39f-1bff2656741e

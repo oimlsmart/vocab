@@ -55,7 +55,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur dérivée, f
+    designation: grandeur dérivée
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6f4be17d-c211-42cb-8249-b9f1c2edd7dc

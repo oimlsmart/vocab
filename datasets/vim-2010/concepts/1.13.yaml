@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: système d'unités, m
+    designation: système d'unités
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: b887f22a-cb77-429a-9ec5-548a59dd3524

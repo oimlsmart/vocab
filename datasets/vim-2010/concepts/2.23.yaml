@@ -52,10 +52,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: fidélité intermédiaire de mesure, f
+    designation: fidélité intermédiaire de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: fidélité intermédiaire, f
+    designation: fidélité intermédiaire
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: e873e161-a482-4a5d-b52d-16e9698d0c7f

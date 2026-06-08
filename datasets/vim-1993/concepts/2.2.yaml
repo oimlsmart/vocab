@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: métrologie, f
+    designation: métrologie
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9453b7fa-6e18-40dd-96c5-94b03de66df6

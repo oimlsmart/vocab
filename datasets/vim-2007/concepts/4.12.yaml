@@ -59,7 +59,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: sensibilité, f
+    designation: sensibilité
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 4681a484-c251-4125-b683-cfe479a9a7f0

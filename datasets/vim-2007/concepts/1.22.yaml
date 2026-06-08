@@ -55,7 +55,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: équation aux grandeurs, f
+    designation: équation aux grandeurs
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 40e47db2-8d4d-4615-9999-0c5a0f24235b

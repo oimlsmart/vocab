@@ -63,7 +63,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude instrumentale, f
+    designation: incertitude instrumentale
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: ef75d4c3-d7ef-4ce9-9fe9-20bdd28dc809

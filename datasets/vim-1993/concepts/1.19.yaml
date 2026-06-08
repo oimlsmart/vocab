@@ -60,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur vraie (d'une grandeur), f
+    designation: valeur vraie (d'une grandeur)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: e5eaf92a-97c1-47df-bd4d-d7ac87a99005

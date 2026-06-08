@@ -49,10 +49,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle d’un appareil de mesure afficheur, f
+    designation: échelle d’un appareil de mesure afficheur
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: échelle, f
+    designation: échelle
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: d2dc52e3-accc-4e89-9355-53e9051f4bb8

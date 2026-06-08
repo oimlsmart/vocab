@@ -62,7 +62,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: condition de reproductibilité, f
+    designation: condition de reproductibilité
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6bc3cce6-7973-4b07-8437-1d37dfa686bd

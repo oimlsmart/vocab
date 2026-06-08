@@ -68,7 +68,9 @@ data:
     designation: échelle de valeurs
   - type: expression
     normative_status: admitted
-    designation: échelle de mesure, f
+    designation: échelle de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9df46fc5-b8f9-4a41-ac7f-4765fda50a7f

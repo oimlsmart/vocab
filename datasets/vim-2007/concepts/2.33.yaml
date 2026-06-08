@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: bilan d'incertitude, m
+    designation: bilan d'incertitude
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: c82117d0-2a29-4c4b-989f-908955202dd6

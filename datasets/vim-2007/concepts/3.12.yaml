@@ -1,7 +1,7 @@
 data:
   identifier: '3.12'
   localized_concepts:
-    eng: 06519dcb-79f2-4608-b455-ae791879160a
+    eng: '06519dcb-79f2-4608-b455-ae791879160a'
     fra: 34c27502-8d50-4a72-a318-3062d25dede2
   domains:
   - concept_id: section-3
@@ -36,7 +36,7 @@ data:
     designation: zero adjustment
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 06519dcb-79f2-4608-b455-ae791879160a
+id: '06519dcb-79f2-4608-b455-ae791879160a'
 ---
 data:
   dates:
@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: réglage de zéro, m
+    designation: réglage de zéro
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 34c27502-8d50-4a72-a318-3062d25dede2

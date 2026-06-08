@@ -80,7 +80,9 @@ data:
     designation: erreur maximale tolérée
   - type: expression
     normative_status: admitted
-    designation: limite d'erreur, f
+    designation: limite d'erreur
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 756ff767-4c13-469a-a498-4cdf582f644f

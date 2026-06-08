@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.28'
   localized_concepts:
@@ -43,7 +42,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: chiffraison d'une échelle, f
+    designation: chiffraison d'une échelle
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 43b55260-5622-4654-88d1-d982651ca2ca

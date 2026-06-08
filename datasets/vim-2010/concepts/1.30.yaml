@@ -32,8 +32,8 @@ data:
   notes:
   - content: A nominal property has a value, which can be expressed in words, by alpha-numerical
       codes, or by other means.
-  - content: '''Nominal property value'' is not to be confused with nominal quantity
-      value.'
+  - content: "'Nominal property value' is not to be confused with nominal quantity
+      value."
   terms:
   - type: expression
     normative_status: preferred
@@ -63,10 +63,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: propriété qualitative, f
+    designation: propriété qualitative
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: attribut, m
+    designation: attribut
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: f2bf3d09-00f9-47fb-83fb-d2235146867d

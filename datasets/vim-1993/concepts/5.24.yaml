@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.24'
   localized_concepts:
@@ -43,7 +42,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur intrinsèque (d'un instrument de mesure), f
+    designation: erreur intrinsèque (d'un instrument de mesure)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: f95bab73-86f4-4abd-bf56-9c5b08f461f5

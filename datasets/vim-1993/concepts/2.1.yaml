@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.1'
   localized_concepts:
@@ -46,7 +45,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mesurage, m
+    designation: mesurage
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: ffea99b3-96db-446e-bd16-ff8dbdcf0c8c

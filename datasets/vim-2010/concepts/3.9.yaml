@@ -57,7 +57,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: détecteur, m
+    designation: détecteur
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 83faa0a0-1b6f-4db5-85e3-c7f556b6b508

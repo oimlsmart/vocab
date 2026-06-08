@@ -67,7 +67,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: procédure de mesure primaire, f
+    designation: procédure de mesure primaire
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 48027b57-e80e-4b25-8496-de9b576de793

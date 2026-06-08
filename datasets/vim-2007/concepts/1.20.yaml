@@ -74,7 +74,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur numérique, f
+    designation: valeur numérique
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 4a049f79-fdf8-4441-871a-bab8470fde77

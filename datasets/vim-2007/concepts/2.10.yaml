@@ -78,7 +78,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur mesurée, f
+    designation: valeur mesurée
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: b4a866b0-b919-4755-89f8-e4dd38bc9eec

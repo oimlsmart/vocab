@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: système cohérent d'unités (de mesure), m
+    designation: système cohérent d'unités (de mesure)
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7af73089-7280-484b-b626-781e13d354a2

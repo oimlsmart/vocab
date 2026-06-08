@@ -61,7 +61,9 @@ data:
     designation: conservation d'un étalon
   - type: expression
     normative_status: admitted
-    designation: maintenance d'un étalon, f
+    designation: maintenance d'un étalon
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3f49aa6e-a04e-4960-bd30-a64bf64ae4f1

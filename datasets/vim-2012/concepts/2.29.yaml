@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.29'
   localized_concepts:
@@ -74,7 +73,9 @@ data:
     designation: évaluation de type B de l'incertitude
   - type: expression
     normative_status: admitted
-    designation: évaluation de type B, f
+    designation: évaluation de type B
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 709708b3-d8e0-457a-a891-3b067281842a

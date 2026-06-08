@@ -67,7 +67,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité de base, f
+    designation: unité de base
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a7003b14-2b1c-43bf-89e7-412de8c86c18

@@ -50,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité (de mesure) (dérivée) cohérente, f
+    designation: unité (de mesure) (dérivée) cohérente
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0a88fb0a-56dd-4021-ad31-0675cf213adb

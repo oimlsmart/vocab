@@ -65,7 +65,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur systématique, f
+    designation: erreur systématique
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: d4afe12e-2e51-4bb8-ac47-5831145a6950

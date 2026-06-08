@@ -49,7 +49,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle non-linéaire, f
+    designation: échelle non-linéaire
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1fe9dc94-112b-438d-aeb8-49abf069deb1

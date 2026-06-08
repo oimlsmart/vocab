@@ -90,7 +90,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon intrinsèque, m
+    designation: étalon intrinsèque
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a78daa1f-be5f-445d-bd3e-58476794d46a

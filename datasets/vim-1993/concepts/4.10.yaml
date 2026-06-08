@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil de mesure (à affichage) analogique, m
+    designation: appareil de mesure (à affichage) analogique
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: e42cbd1f-533a-4f25-b963-401ee079c52b

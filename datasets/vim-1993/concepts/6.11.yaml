@@ -63,7 +63,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalonnage, m
+    designation: étalonnage
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: c30dc415-563d-40bd-8841-855accc9d7d5

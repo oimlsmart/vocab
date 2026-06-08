@@ -63,7 +63,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mesure matérialisée, f
+    designation: mesure matérialisée
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 369a9c16-6031-4609-9eb7-5119ce421295

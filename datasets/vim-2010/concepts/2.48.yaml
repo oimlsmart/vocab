@@ -67,10 +67,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: modèle de mesure, m
+    designation: modèle de mesure
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: modèle, m
+    designation: modèle
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7bf3b37d-48f1-4abe-a963-8ea2ad0bd52a

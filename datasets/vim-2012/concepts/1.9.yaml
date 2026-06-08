@@ -64,9 +64,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{grandeur,1.1}} scalaire réelle, définie et adoptée par convention,
+  - content: "{{grandeur,1.1}} scalaire réelle, définie et adoptée par convention,
       à laquelle on peut comparer toute autre grandeur de même {{nature,1.2}} pour
-      exprimer le rapport des deux grandeurs sous la forme d''un nombre'
+      exprimer le rapport des deux grandeurs sous la forme d'un nombre"
   examples: []
   id: 1.9-fra
   language_code: fra
@@ -94,7 +94,9 @@ data:
     designation: unité de mesure
   - type: expression
     normative_status: admitted
-    designation: unité, f
+    designation: unité
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: e8ce2c49-d9bc-4d8b-9bb1-e7c32b67d063

@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.15'
   localized_concepts:
@@ -53,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité (de mesure) hors système, f
+    designation: unité (de mesure) hors système
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 43b4f89d-a954-4f8a-ada9-86680f8d24c6

@@ -78,7 +78,9 @@ data:
     designation: propriété qualitative
   - type: expression
     normative_status: admitted
-    designation: attribut, m
+    designation: attribut
+    grammar_info:
+    - gender: m
   annotations:
   - content: Les propriétés qualitatives se distinguent des grandeurs, qui sont des
       propriétés que l'on peut exprimer quantitativement et classer dans un ordre

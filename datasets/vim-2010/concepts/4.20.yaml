@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: biais instrumental, m
+    designation: biais instrumental
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: fd2348f7-2a36-4ff9-9595-f1269e25722d

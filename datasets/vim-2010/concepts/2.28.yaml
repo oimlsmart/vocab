@@ -62,10 +62,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: évaluation de type A de l'incertitude, f
+    designation: évaluation de type A de l'incertitude
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: évaluation de type A, f
+    designation: évaluation de type A
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 5a367366-b805-42ca-a5f6-950e54e4dd25

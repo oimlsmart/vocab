@@ -74,7 +74,9 @@ data:
     designation: procédure de mesure
   - type: expression
     normative_status: admitted
-    designation: procédure opératoire, f
+    designation: procédure opératoire
+    grammar_info:
+    - gender: f
   annotations:
   - content: L'emploi des termes «méthode de mesure» et «procédure de mesure» diffère,
       pour des raisons historiques, d'un domaine à l'autre de la métrologie. En général,

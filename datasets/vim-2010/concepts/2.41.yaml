@@ -111,7 +111,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: traçabilité métrologique, f
+    designation: traçabilité métrologique
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6d1774c7-8bcd-4f85-81bc-cb8a098563b0

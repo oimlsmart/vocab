@@ -81,7 +81,9 @@ data:
     designation: fidélité de mesure
   - type: expression
     normative_status: admitted
-    designation: fidélité, f
+    designation: fidélité
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: e113ae5f-426f-418f-b1af-c39fb1f4d53e

@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{metrological traceability,2.41}} where the reference is the definition
-      of a {{measurement unit,1.9}} through its practical realization'
+  - content: "{{metrological traceability,2.41}} where the reference is the definition
+      of a {{measurement unit,1.9}} through its practical realization"
   examples: []
   id: 2.43-eng
   language_code: eng
@@ -45,8 +45,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{traçabilité métrologique,2.41}} où la référence est la définition
-      d''une {{unité de mesure,1.9}} sous la forme de sa réalisation pratique'
+  - content: "{{traçabilité métrologique,2.41}} où la référence est la définition
+      d'une {{unité de mesure,1.9}} sous la forme de sa réalisation pratique"
   examples: []
   id: 2.43-fra
   language_code: fra
@@ -59,7 +59,9 @@ data:
     designation: traçabilité métrologique à une unité de mesure
   - type: expression
     normative_status: admitted
-    designation: traçabilité métrologique à une unité, f
+    designation: traçabilité métrologique à une unité
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 5627e1f7-2353-4b74-8b25-9258c5555f6e

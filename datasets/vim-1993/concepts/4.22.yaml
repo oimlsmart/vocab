@@ -47,7 +47,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelon, m
+    designation: échelon
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3b9b3fd1-aabe-41c3-b3bf-5868bc7c9fbb

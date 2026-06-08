@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: validation, f
+    designation: validation
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 48a7ae6b-fb51-4c42-a363-fc2bc0d6fe73

@@ -90,10 +90,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Système international d'unités, m
+    designation: Système international d'unités
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: SI, m
+    designation: SI
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: d2911011-919a-4be0-8029-f997ae43a210

@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.10'
   localized_concepts:
@@ -61,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: chaîne de mesure, f
+    designation: chaîne de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 49e37277-cfd0-4470-ae3e-4d44afa48e8a

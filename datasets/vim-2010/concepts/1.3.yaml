@@ -54,7 +54,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: système de grandeurs, m
+    designation: système de grandeurs
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 939e68cf-c5b5-4367-9252-83c5795f4284

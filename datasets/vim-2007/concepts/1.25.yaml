@@ -58,7 +58,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: équation aux valeurs numériques, f
+    designation: équation aux valeurs numériques
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7d4ae2a7-f403-4a6b-9639-64d025005ae1

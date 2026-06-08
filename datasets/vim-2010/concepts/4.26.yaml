@@ -65,10 +65,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur maximale tolérée, f
+    designation: erreur maximale tolérée
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: limite d’erreur, f
+    designation: limite d’erreur
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: f57585c2-0e34-46ec-bc81-25cf27264609

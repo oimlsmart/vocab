@@ -58,7 +58,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: méthode de mesure, f
+    designation: méthode de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 467d5949-dc2a-4751-9f9c-224fd9f922d0

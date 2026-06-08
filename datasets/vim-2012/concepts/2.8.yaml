@@ -82,7 +82,9 @@ data:
     designation: procédure de mesure primaire
   - type: expression
     normative_status: admitted
-    designation: procédure opératoire primaire, f
+    designation: procédure opératoire primaire
+    grammar_info:
+    - gender: f
   annotations:
   - content: ANNOTATION (pour la Note 1) (informative) [9 juin 2016] Les termes «méthode
       primaire», «méthode primaire de mesure» et «méthode de mesure primaire» sont

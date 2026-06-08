@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.12'
   localized_concepts:
@@ -51,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: résolution (d'un dispositif afficheur), f
+    designation: résolution (d'un dispositif afficheur)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 702fb9b8-d17c-478e-8924-3ab5a53f155e

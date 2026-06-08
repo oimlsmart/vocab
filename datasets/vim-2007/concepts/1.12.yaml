@@ -85,7 +85,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité dérivée cohérente, f
+    designation: unité dérivée cohérente
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 80afd046-11b7-4959-ad17-a7e9ff543df3

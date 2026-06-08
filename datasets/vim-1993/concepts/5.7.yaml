@@ -49,7 +49,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: conditions de référence, f
+    designation: conditions de référence
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7004f311-4755-47e3-ab42-7ea56a5ab5e6

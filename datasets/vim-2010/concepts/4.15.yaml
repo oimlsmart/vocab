@@ -49,7 +49,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: résolution d'un dispositif afficheur, f
+    designation: résolution d'un dispositif afficheur
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2cd15666-ca4f-478f-8e11-89a64cab9efc

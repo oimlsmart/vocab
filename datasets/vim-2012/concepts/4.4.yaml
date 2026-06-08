@@ -65,10 +65,14 @@ data:
     designation: intervalle nominal des indications
   - type: expression
     normative_status: admitted
-    designation: intervalle nominal, m
+    designation: intervalle nominal
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: calibre, m
+    designation: calibre
+    grammar_info:
+    - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 924e950e-67cb-4022-b26c-b40443c27dd8

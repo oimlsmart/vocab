@@ -44,7 +44,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude-type relative, f
+    designation: incertitude-type relative
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a14b2867-73c8-4648-a3f1-64cf93096cfc

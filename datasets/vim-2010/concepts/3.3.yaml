@@ -58,10 +58,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil de mesure indicateur, m
+    designation: appareil de mesure indicateur
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: appareil indicateur, m
+    designation: appareil indicateur
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7030cf99-29fe-4386-a2d6-5e3ec2c48a04

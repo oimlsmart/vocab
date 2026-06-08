@@ -54,7 +54,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon voyageur, m
+    designation: étalon voyageur
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: b8ce1b61-fe26-4c34-8e2f-0c20ba28a7ee

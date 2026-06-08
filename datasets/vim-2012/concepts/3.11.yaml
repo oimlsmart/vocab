@@ -19,8 +19,6 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '3.11'
 ---
-null
-...
 ---
 data:
   dates:
@@ -52,8 +50,6 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3e86bc80-790b-4beb-8d08-64dd89af4ee7
 ---
-null
-...
 ---
 data:
   dates:
@@ -79,7 +75,9 @@ data:
     designation: ajustage d'un système de mesure
   - type: expression
     normative_status: admitted
-    designation: ajustage, m
+    designation: ajustage
+    grammar_info:
+    - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 77f74e40-ec97-4eee-b142-646a7429f490

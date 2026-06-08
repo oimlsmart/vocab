@@ -78,10 +78,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: résultat de mesure, m
+    designation: résultat de mesure
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: résultat d'un mesurage, m
+    designation: résultat d'un mesurage
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a09e6022-9789-4d28-9661-8251d47ca5a9

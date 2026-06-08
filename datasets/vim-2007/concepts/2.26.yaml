@@ -87,10 +87,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude de mesure, f
+    designation: incertitude de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: incertitude, f
+    designation: incertitude
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: da18766f-cf8e-4d70-bc07-a166e60996be

@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: résolution, f
+    designation: résolution
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: b83f9fd5-3ce9-4663-944d-fa1ce56df11e

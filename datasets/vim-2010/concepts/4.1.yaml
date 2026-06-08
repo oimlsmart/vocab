@@ -61,7 +61,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: indication, f
+    designation: indication
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6cd0d727-83f2-4de4-a9d0-d29f2ddb261f

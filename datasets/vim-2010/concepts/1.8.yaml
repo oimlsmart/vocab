@@ -82,7 +82,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur sans dimension, f
+    designation: grandeur sans dimension
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7d0d3288-741e-40b8-9c56-80c33b7b5e7b

@@ -95,7 +95,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur de référence, f
+    designation: valeur de référence
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 965dfd20-9c6b-4a50-b7fd-e9d681fc55f1

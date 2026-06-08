@@ -8,7 +8,7 @@ data:
     source: urn:oiml:pub:v:2:2007
     ref_type: section
 status: valid
-id: 08c2af2c-c339-42ed-9068-27a09c387cd5
+id: '08c2af2c-c339-42ed-9068-27a09c387cd5'
 schema_version: '3'
 related: []
 ---
@@ -19,7 +19,7 @@ data:
   definition:
   - content: set of quantity values bounded by extreme possible indications
   examples:
-  - content: ', “99 V to 201 V”.'
+  - content: ", “99 V to 201 V”."
   id: 4.3-eng
   language_code: eng
   notes:
@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: intervalle des indications, m
+    designation: intervalle des indications
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0cca11bb-a63f-48a7-8425-e0088c39112b

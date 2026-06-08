@@ -59,7 +59,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude élargie, f
+    designation: incertitude élargie
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 53bebb8a-ad2c-40c1-9285-a2787421ded2

@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle linéaire, f
+    designation: échelle linéaire
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: a164308d-7f2b-4548-92ae-cfc9d73e1faf

@@ -91,10 +91,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité de mesure, f
+    designation: unité de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: unité, f
+    designation: unité
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1cc5edce-886e-488c-b4f8-ffd03ac038a3
