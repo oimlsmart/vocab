@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.19'
   localized_concepts:
@@ -22,24 +21,11 @@ data:
   id: 1.19-eng
   language_code: eng
   notes:
-  - content: 'This is a value that would be obtained by a perfect measurement. True
-      values are by nature indeterminate. The indefinite article "a", rather than
-      the definite article "the", is used in conjunction with "true value" because
-      there  may  be  many  values  consistent  with  the definition of a given particular
-      quantity. True values are by nature indeterminate. The indefinite article "a",
-      rather than the definite article "the", is used in conjunction with "true value"
-      because there  may  be  many  values  consistent  with  the definition of a
-      given particular quantity. d''un échantillon d''eau (H20): 0,012 mol ou 12 mmol.'
-  - content: La valeur d'une grandeur peut être positive, négative ou nulle. La valeur
-      d'une grandeur peut être exprimée de plus d'une façon. Les vaieurs des grandeurs
-      de dimension un sont généralement exprimées sous la forme de nombres. Certaines
-      grandeurs, pour lesquelles on ne sait pas définir leur rapport à une unité,
-      peuvent être exprimées par référence à une échelle de repérage ou à un procédé
-      de mesure specifié ou aux deux. La valeur d'une grandeur peut être exprimée
-      de plus d'une façon. Les vaieurs des grandeurs de dimension un sont généralement
-      exprimées sous la forme de nombres. Certaines grandeurs, pour lesquelles on
-      ne sait pas définir leur rapport à une unité, peuvent être exprimées par référence
-      à une échelle de repérage ou à un procédé de mesure specifié ou aux deux.
+  - content: This is a value that would be obtained by a perfect measurement.
+  - content: True values are by nature indeterminate.
+  - content: The indefinite article "a", rather than the definite article "the", is
+      used in conjunction with "true value" because there may be many values consistent
+      with the definition of a given particular quantity.
   terms:
   - type: expression
     normative_status: preferred
@@ -65,7 +51,12 @@ data:
   examples: []
   id: 1.19-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: C'est une valeur que l'on obtiendrait par un mesurage parfait.
+  - content: Toute valeur vraie est par nature indéterminée.
+  - content: L'article indéfini «une» plutôt que l'article défini «la» est utilisé
+      en conjonction avec «valeur vraie» parce qu'il peut y avoir plusieurs valeurs
+      correspondant à la définition d'une grandeur particulière donnée.
   terms:
   - type: expression
     normative_status: preferred

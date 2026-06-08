@@ -21,11 +21,11 @@ data:
   id: 3.2-eng
   language_code: eng
   notes:
-  - content: The value read from the d1splaying device may be called the direct indication;
-      it is multiplied by the instrument constant to give the 1ndicat1on. The quantity
-      may be the measurand, a measurement signal, or another quantity to be used in
-      calculating the value of the measurand. For a material measure, the indication
-      is the value assigned to it
+  - content: The value read from the displaying device may be called the direct indication;
+      it is multiplied by the instrument constant to give the indication.
+  - content: The quantity may be the measurand, a measurement signal, or another quantity
+      to be used in calculating the value of the measurand.
+  - content: For a material measure, the indication is the value assigned to it.
   terms:
   - type: expression
     normative_status: preferred
@@ -46,12 +46,11 @@ data:
   notes:
   - content: La valeur lue sur le dispositif d'affichage peut être appelée indication
       directe; elle doit être multipliée par la constante de l'instrument pour obtenir
-      l'indication. La grandeur peut étre  le mesurande, un signal de mesure ou une
-      autre grandeur utilisée pour calculer la valeur du mesurande. Pour une mesure
-      matérialisée, l'indication est la valeur qui lui est assignée. La grandeur peut
-      étre  le mesurande, un signal de mesure ou une autre grandeur utilisée pour
-      calculer la valeur du mesurande. Pour une mesure matérialisée, l'indication
-      est la valeur qui lui est assignée.
+      l'indication.
+  - content: La grandeur peut être le mesurande, un signal de mesure ou une autre
+      grandeur utilisée pour calculer la valeur du mesurande.
+  - content: Pour une mesure matérialisée, l'indication est la valeur qui lui est
+      assignée.
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.7'
   localized_concepts:
@@ -168,19 +167,14 @@ data:
   id: 3.7-fra
   language_code: fra
   notes:
-  - content: 'Pour qu''une expression de la reproductibilité soit valable, il est
-      nécessaire de spécifier les conditions que l''on fait varier. Les conditions
-      que l''on fait varier peuvent comprendre:principe de mesureméthode de mesureobservateurinstrument
-      de mesureétalon de référencelieuconditions d''utilisationtemps. principe de
-      mesure méthode de mesure observateur instrument de mesure étalon de référence
-      lieu conditions d''utilisation temps. La reproductibilite peut s''exprimer quantitativement
-      àl''aide des caractéristiques de dispersion des résultats. Les résultats considérés
-      1c1 sont habituellement les résultats corrigés. Les conditions que l''on fait
-      varier peuvent comprendre: principe de mesure méthode de mesure observateur
-      instrument de mesure étalon de référence lieu conditions d''utilisation temps.
-      La reproductibilite peut s''exprimer quantitativement à l''aide des caractéristiques
-      de dispersion des résultats. Les résultats considérés 1c1 sont habituellement
-      les résultats corrigés.'
+  - content: Pour qu'une expression de la reproductibilité soit valable, il est nécessaire
+      de spécifier les conditions que l'on fait varier.
+  - content: 'Les conditions que l''on fait varier peuvent comprendre: principe de
+      mesure, méthode de mesure, observateur, instrument de mesure, étalon de référence,
+      lieu, conditions d''utilisation, temps.'
+  - content: La reproductibilité peut s'exprimer quantitativement à l'aide des caractéristiques
+      de dispersion des résultats.
+  - content: Les résultats considérés ici sont habituellement les résultats corrigés.
   terms:
   - type: expression
     normative_status: preferred
