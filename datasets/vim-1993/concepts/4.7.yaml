@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.7'
   localized_concepts:
@@ -24,11 +23,10 @@ data:
   id: 4.7-eng
   language_code: eng
   notes:
-  - content: The record (display) may be analogue (cont1nuous or discontinuous line)
-      or digital. Values of more than one quant1ty may be recorded (displayed) s1multaneously.
-      A recording instrument may also display an indication. Values of more than one
-      quant1ty may be recorded (displayed) s1multaneously. A recording instrument
-      may also display an indication.
+  - content: The record (display) may be analogue (continuous or discontinuous line)
+      or digital.
+  - content: Values of more than one quantity may be recorded (displayed) simultaneously.
+  - content: A recording instrument may also display an indication.
   terms:
   - type: expression
     normative_status: preferred
@@ -50,10 +48,10 @@ data:
   language_code: fra
   notes:
   - content: L'enregistrement (affichage) peut être analogique (ligne continue ou
-      discontinue) ou numérique. Les valeurs de plusieurs grandeurs peuvent être enregistrées
-      (affichées) simultanément. Un appareil enregistreur peut aussi afficher une
-      indication. Les valeurs de plusieurs grandeurs peuvent être enregistrées (affichées)
-      simultanément. Un appareil enregistreur peut aussi afficher une indication.
+      discontinue) ou numérique.
+  - content: Les valeurs de plusieurs grandeurs peuvent être enregistrées (affichées)
+      simultanément.
+  - content: Un appareil enregistreur peut aussi afficher une indication.
   terms:
   - type: expression
     normative_status: preferred

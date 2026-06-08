@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.8'
   localized_concepts:
@@ -25,15 +24,13 @@ data:
   id: 3.8-eng
   language_code: eng
   notes:
-  - content: Considering the series of 11 values as a sample of a distribution, .r
-      is an unbiased estimate of the mean p, and s2 is an unbiased estimate of the
-      variance a2, of that distribution. The expression .11.[;; is an estimate of
-      the standard deviation of the distribution of .r and is called the experimental
-      standard deviation of the mean. "Experimental standard dev1ation of the mean"
-      is sometImes incorrectly called standard error of the mean. The expression .11.[;;
-      is an estimate of the standard deviation of the distribution of .r and is called
-      the experimental standard deviation of the mean. "Experimental standard dev1ation
-      of the mean" is sometImes incorrectly called standard error of the mean.
+  - content: Considering the series of n values as a sample of a distribution, x̄
+      is an unbiased estimate of the mean μ, and s² is an unbiased estimate of the
+      variance σ² of that distribution.
+  - content: The expression s/√n is an estimate of the standard deviation of the distribution
+      of x̄ and is called the experimental standard deviation of the mean.
+  - content: '"Experimental standard deviation of the mean" is sometimes incorrectly
+      called standard error of the mean.'
   terms:
   - type: expression
     normative_status: preferred
@@ -55,15 +52,13 @@ data:
   id: 3.8-fra
   language_code: fra
   notes:
-  - content: En considérant la série de 11 valeurs comme échantillon d'une distribution,
-      x est un estimateur sans biais de la moyenne fi, et s2 est un estimateur sans
-      biais de la variance a2 de cette distribution. L'expression s!Fi est une estimation
-      de l'écart-type de la distribution de .r et est appelée écart-type expérimental
-      de la moyenne. L'écart-type expérimental de la moyenne est parfois appelé, à
-      tort, erreur de la moyenne. L'expression s!Fi est une estimation de l'écart-type
-      de la distribution de .r et est appelée écart-type expérimental de la moyenne.
-      L'écart-type expérimental de la moyenne est parfois appelé, à tort, erreur de
-      la moyenne.
+  - content: En considérant la série de n valeurs comme échantillon d'une distribution,
+      x̄ est un estimateur sans biais de la moyenne μ, et s² est un estimateur sans
+      biais de la variance σ² de cette distribution.
+  - content: L'expression s/√n est une estimation de l'écart-type de la distribution
+      de x̄ et est appelée écart-type expérimental de la moyenne.
+  - content: L'écart-type expérimental de la moyenne est parfois appelé, à tort, erreur
+      de la moyenne.
   terms:
   - type: expression
     normative_status: preferred

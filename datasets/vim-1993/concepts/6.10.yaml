@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.10'
   localized_concepts:
@@ -45,14 +44,11 @@ data:
   id: 6.10-fra
   language_code: fra
   notes:
-  - content: Ce concept est souvent exprimé par l'adjectif traçable. The  unbroken  chain  of  compar1sons  is  called  atraceability
-      chain. only to the French text.) The  unbroken  chain  of  compar1sons  is  called  a
-      traceability chain. only to the French text.) La chaîne ininterrompue de comparaisons
-      est appelée chaîne de raccordement aux étalons ou chaîne d'étalonnage. La manière
-      dont s'effectue la liaison aux étalons est appelée raccordement aux étalons.
-      La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement aux
-      étalons ou chaîne d'étalonnage. La manière dont s'effectue la liaison aux étalons
-      est appelée raccordement aux étalons. l\1e'.rology 1993                                                                   47
+  - content: Ce concept est souvent exprimé par l'adjectif traçable.
+  - content: La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement
+      aux étalons ou chaîne d'étalonnage.
+  - content: La manière dont s'effectue la liaison aux étalons est appelée raccordement
+      aux étalons.
   terms:
   - type: expression
     normative_status: preferred

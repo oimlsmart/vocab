@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.14'
   localized_concepts:
@@ -23,10 +22,10 @@ data:
   id: 3.14-eng
   language_code: eng
   notes:
-  - content: Systematic error is equal to error minus random error. Like true value,
-      systematic error and its causes cannot be completely known. For a measuring
-      instrument, see "bias" (5.25). Like true value, systematic error and its causes
-      cannot be completely known. For a measuring instrument, see "bias" (5.25).
+  - content: Systematic error is equal to error minus random error.
+  - content: Like true value, systematic error and its causes cannot be completely
+      known.
+  - content: For a measuring instrument, see "bias" (5.25).
   terms:
   - type: expression
     normative_status: preferred
@@ -46,12 +45,10 @@ data:
   id: 3.14-fra
   language_code: fra
   notes:
-  - content: L'erreur systèmat1que est égale à l'erreur moins l'erreur aléatoire.
-      Comme la valeur vraie, l'erreur systématique et ses causes ne peuvent pas être
-      connues complètement. Pour un instrument de mesure, voir «erreur de justesse»
-      (5.25). Comme la valeur vraie, l'erreur systématique et ses causes ne peuvent
-      pas être connues complètement. Pour un instrument de mesure, voir «erreur de
-      justesse» (5.25).
+  - content: L'erreur systématique est égale à l'erreur moins l'erreur aléatoire.
+  - content: Comme la valeur vraie, l'erreur systématique et ses causes ne peuvent
+      pas être connues complètement.
+  - content: Pour un instrument de mesure, voir «erreur de justesse» (5.25).
   terms:
   - type: expression
     normative_status: preferred
