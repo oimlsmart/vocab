@@ -21,15 +21,13 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement precision,2.15}} under {{reproducibility conditions of
-      measurement,2.24}}'
+  - content: "{{measurement precision,2.15}} under {{reproducibility conditions of
+      measurement,2.24}}"
   examples: []
   id: 2.25-eng
   language_code: eng
   notes:
   - content: Relevant statistical terms are given in ISO 5725-1:1994 and ISO 5725-2:1994.
-  - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
-      "measurement precision under reproducibility conditions".'
   terms:
   - type: expression
     normative_status: preferred
@@ -37,6 +35,9 @@ data:
   - type: expression
     normative_status: admitted
     designation: reproducibility
+  annotations:
+  - content: 'Here "of measurement" can be deleted without ambiguity: "measurement
+      precision under reproducibility conditions".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: d21d8a49-c2f2-42cb-9bfb-9b8f9410d543
@@ -46,7 +47,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de reproductibilité,2.24}}'
+  - content: "{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de reproductibilité,2.24}}"
   examples: []
   id: 2.25-fra
   language_code: fra

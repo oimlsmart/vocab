@@ -8,7 +8,7 @@ data:
     source: urn:oiml:pub:v:2:2012
     ref_type: section
 status: valid
-id: 088381cf-28ba-469b-a7a2-2b740d9fd904
+id: '088381cf-28ba-469b-a7a2-2b740d9fd904'
 schema_version: '3'
 related:
 - type: supersedes
@@ -21,14 +21,12 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement precision,2.15}} under a set of {{repeatability conditions
-      of measurement,2.20}}'
+  - content: "{{measurement precision,2.15}} under a set of {{repeatability conditions
+      of measurement,2.20}}"
   examples: []
   id: 2.21-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
-      "measurement precision under a set of repeatability conditions".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -36,6 +34,9 @@ data:
   - type: expression
     normative_status: admitted
     designation: repeatability
+  annotations:
+  - content: 'Here "of measurement" can be deleted without ambiguity: "measurement
+      precision under a set of repeatability conditions".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 7476fd7c-539f-45e6-a0ae-6b226b3a63d7
@@ -45,7 +46,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de répétabilité,2.20}}'
+  - content: "{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de répétabilité,2.20}}"
   examples: []
   id: 2.21-fra
   language_code: fra

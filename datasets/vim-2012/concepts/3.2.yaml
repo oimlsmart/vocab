@@ -19,8 +19,6 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '3.2'
 ---
-null
-...
 ---
 data:
   dates:
@@ -36,21 +34,20 @@ data:
   language_code: eng
   notes:
   - content: A measuring system may consist of only one measuring instrument.
-  - content: '[Annotation] Here "measured quantity values" can be replaced by "measured
-      values" without ambiguity: "set of one or more measuring instruments and often
-      other devices, including any reagent and supply, assembled and adapted to give
-      information used to generate measured values within specified intervals for
-      quantities of specified kinds".'
   terms:
   - type: expression
     normative_status: preferred
     designation: measuring system
+  annotations:
+  - content: 'Here "measured quantity values" can be replaced by "measured values"
+      without ambiguity: "set of one or more measuring instruments and often other
+      devices, including any reagent and supply, assembled and adapted to give information
+      used to generate measured values within specified intervals for quantities of
+      specified kinds".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: eb457120-85cf-4163-8f59-c36c8999df50
 ---
-null
-...
 ---
 data:
   dates:

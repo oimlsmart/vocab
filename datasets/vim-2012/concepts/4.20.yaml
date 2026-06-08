@@ -26,14 +26,14 @@ data:
   examples: []
   id: 4.20-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "reference quantity value" can be replaced by "reference
-      value" without ambiguity: "average of replicate indications minus a reference
-      value".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: instrumental bias
+  annotations:
+  - content: 'Here "reference quantity value" can be replaced by "reference value"
+      without ambiguity: "average of replicate indications minus a reference value".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: baf5e79f-f5d5-4284-9e88-7d904a176ab6

@@ -33,13 +33,14 @@ data:
       confusion with the statistical concept (see ISO/IEC Guide 98-3:2008, 6.2.2).
   - content: A coverage interval can be derived from an {{expanded measurement uncertainty,2.35}}
       (see ISO/IEC Guide 98-3:2008, 2.3.5).
-  - content: '[Annotation] Here "true quantity values" can be replaced with "true
-      values" without ambiguity: "interval containing the set of true values of a
-      measurand with a stated probability, based on the information available".'
   terms:
   - type: expression
     normative_status: preferred
     designation: coverage interval
+  annotations:
+  - content: 'Here "true quantity values" can be replaced with "true values" without
+      ambiguity: "interval containing the set of true values of a measurand with a
+      stated probability, based on the information available".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 953786af-6b64-43d9-a47c-ba00b6ca2e65

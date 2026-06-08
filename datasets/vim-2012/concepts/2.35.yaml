@@ -33,9 +33,6 @@ data:
   - content: Expanded measurement uncertainty is termed “overall uncertainty” in paragraph
       5 of Recommendation INC-1 (1980) (see the GUM) and simply “uncertainty” in IEC
       documents.
-  - content: '[Annotation] Here "combined standard measurement uncertainty" can be
-      replaced with "combined standard uncertainty" without ambiguity: "product of
-      a combined standard uncertainty and a factor larger than the number one".'
   terms:
   - type: expression
     normative_status: preferred
@@ -43,6 +40,10 @@ data:
   - type: expression
     normative_status: admitted
     designation: expanded uncertainty
+  annotations:
+  - content: 'Here "combined standard measurement uncertainty" can be replaced with
+      "combined standard uncertainty" without ambiguity: "product of a combined standard
+      uncertainty and a factor larger than the number one".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 76f370b6-5077-45a7-b85e-ff2345f245b7

@@ -21,15 +21,13 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement precision,2.15}} under a set of {{intermediate precision
-      conditions of measurement,2.22}}'
+  - content: "{{measurement precision,2.15}} under a set of {{intermediate precision
+      conditions of measurement,2.22}}"
   examples: []
   id: 2.23-eng
   language_code: eng
   notes:
   - content: Relevant statistical terms are given in ISO 5725-3:1994.
-  - content: '[Annotation] Here "of measurement" can be deleted without ambiguity:
-      "measurement precision under a set of intermediate precision conditions".'
   terms:
   - type: expression
     normative_status: preferred
@@ -37,6 +35,9 @@ data:
   - type: expression
     normative_status: admitted
     designation: intermediate precision
+  annotations:
+  - content: 'Here "of measurement" can be deleted without ambiguity: "measurement
+      precision under a set of intermediate precision conditions".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: cab02206-9f7a-496c-9c34-a74a09f73198
@@ -46,8 +47,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de fidélité
-      intermédiaire,2.22}}'
+  - content: "{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de fidélité
+      intermédiaire,2.22}}"
   examples: []
   id: 2.23-fra
   language_code: fra

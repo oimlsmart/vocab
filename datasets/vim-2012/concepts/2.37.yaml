@@ -31,13 +31,14 @@ data:
       the GUM.
   - content: The coverage probability is also termed “level of confidence” in the
       GUM.
-  - content: '[Annotation] Here "true quantity values" can be replaced with "true
-      values" without ambiguity: "probability that the set of true values of a measurand
-      is contained within a specified coverage interval".'
   terms:
   - type: expression
     normative_status: preferred
     designation: coverage probability
+  annotations:
+  - content: 'Here "true quantity values" can be replaced with "true values" without
+      ambiguity: "probability that the set of true values of a measurand is contained
+      within a specified coverage interval".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: be734bfa-f973-4423-b95d-74f2eb7cb31f

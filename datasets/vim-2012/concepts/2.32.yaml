@@ -21,20 +21,21 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{standard measurement uncertainty,2.30}} divided by the absolute value
-      of the {{measured quantity value,2.10}}'
+  - content: "{{standard measurement uncertainty,2.30}} divided by the absolute value
+      of the {{measured quantity value,2.10}}"
   examples: []
   id: 2.32-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "standard measurement uncertainty" can be replaced
-      with "standard uncertainty" and "measured quantity value" can be replaced with
-      "measured value" without ambiguity: "standard uncertainty divided by the absolute
-      value of the measured value".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: relative standard measurement uncertainty
+  annotations:
+  - content: 'Here "standard measurement uncertainty" can be replaced with "standard
+      uncertainty" and "measured quantity value" can be replaced with "measured value"
+      without ambiguity: "standard uncertainty divided by the absolute value of the
+      measured value".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 56a2ab2b-6984-4231-999d-380418a80e72

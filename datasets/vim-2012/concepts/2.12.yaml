@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.12'
   localized_concepts:
@@ -40,8 +39,6 @@ data:
       value,2.11}}.
   - content: A conventional quantity value is generally accepted as being associated
       with a suitably small {{measurement uncertainty,2.26}}, which might be zero.
-  - content: '[Annotation] Here "quantity value" can be replaced with "value" without
-      ambiguity: "value attributed by agreement to a quantity for a given purpose".'
   terms:
   - type: expression
     normative_status: preferred
@@ -52,6 +49,9 @@ data:
   - type: expression
     normative_status: admitted
     designation: conventional value
+  annotations:
+  - content: 'Here "quantity value" can be replaced with "value" without ambiguity:
+      "value attributed by agreement to a quantity for a given purpose".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 430b5fd3-b4b1-43ea-a902-7d433dd905bb

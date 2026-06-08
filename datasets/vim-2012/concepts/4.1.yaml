@@ -19,16 +19,14 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '4.1'
 ---
-null
-...
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{quantity value,1.19}} provided by a {{measuring instrument,3.1}} or
-      a {{measuring system,3.2}}'
+  - content: "{{quantity value,1.19}} provided by a {{measuring instrument,3.1}} or
+      a {{measuring system,3.2}}"
   examples: []
   id: 4.1-eng
   language_code: eng
@@ -40,26 +38,25 @@ data:
       {{material measures,3.6}}.
   - content: An indication and a corresponding value of the {{quantity,1.1}} being
       measured are not necessarily values of quantities of the same {{kind,1.2}}.
-  - content: '[Annotation] Indication is sometimes understood as a quantity, which
-      has a value, rather than as a value of a quantity.'
   terms:
   - type: expression
     normative_status: preferred
     designation: indication
+  annotations:
+  - content: Indication is sometimes understood as a quantity, which has a value,
+      rather than as a value of a quantity.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: ded26a39-2e36-405f-bae6-44f7a7821a1c
 ---
-null
-...
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{valeur,1.19}} fournie par un {{instrument de mesure,3.1}} ou un {{système
-      de mesure,3.2}}'
+  - content: "{{valeur,1.19}} fournie par un {{instrument de mesure,3.1}} ou un {{système
+      de mesure,3.2}}"
   examples: []
   id: 4.1-fra
   language_code: fra
@@ -72,12 +69,13 @@ data:
       matérialisées,3.6}}.
   - content: Une indication et la valeur de la {{grandeur,1.1}} mesurée correspondante
       ne sont pas nécessairement des valeurs de grandeurs de même {{nature,1.2}}.
-  - content: '[Annotation] Une indication est quelquefois considérée comme une grandeur
-      ayant une valeur plutôt que comme une valeur d''une grandeur.'
   terms:
   - type: expression
     normative_status: preferred
     designation: indication
+  annotations:
+  - content: Une indication est quelquefois considérée comme une grandeur ayant une
+      valeur plutôt que comme une valeur d'une grandeur.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 897c2e38-95ae-469f-9a49-f282f9b1ee05

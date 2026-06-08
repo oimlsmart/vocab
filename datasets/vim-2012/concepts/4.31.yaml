@@ -30,13 +30,14 @@ data:
   - content: A calibration curve expresses a one-to-one relation that does not supply
       a {{measurement result,2.9}} as it bears no information about the {{measurement
       uncertainty,2.26}}.
-  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
-      value" without ambiguity: "expression of the relation between indication and
-      corresponding measured value".'
   terms:
   - type: expression
     normative_status: preferred
     designation: calibration curve
+  annotations:
+  - content: 'Here "measured quantity value" can be replaced by "measured value" without
+      ambiguity: "expression of the relation between indication and corresponding
+      measured value".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 889802f1-2a71-4fe0-b280-585d9a2249bd

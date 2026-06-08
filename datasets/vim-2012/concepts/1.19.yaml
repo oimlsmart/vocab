@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.19'
   localized_concepts:
@@ -69,12 +68,6 @@ data:
       1, 2 and 8).
   - content: In the case of vector or tensor quantities, each component has a quantity
       value.
-  - content: '[Annotation] The term "quantity value" was chosen as the first (preferred)
-      term in order to take advantage of the adjectival use of a noun in the English
-      language. However, it is recognized that the more commonly used expression is
-      the second term, "value of a quantity", or even the third term, "value" (when
-      there is no possible ambiguity or confusion; for example, it is not necessary
-      to write "quantity value of a measurand").'
   terms:
   - type: expression
     normative_status: preferred
@@ -85,6 +78,13 @@ data:
   - type: expression
     normative_status: admitted
     designation: value
+  annotations:
+  - content: The term "quantity value" was chosen as the first (preferred) term in
+      order to take advantage of the adjectival use of a noun in the English language.
+      However, it is recognized that the more commonly used expression is the second
+      term, "value of a quantity", or even the third term, "value" (when there is
+      no possible ambiguity or confusion; for example, it is not necessary to write
+      "quantity value of a measurand").
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 33ae92c9-5f7f-4881-8094-1e9d0821f9c3

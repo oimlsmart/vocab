@@ -35,14 +35,15 @@ data:
       measurement uncertainty,2.34}}.
   - content: A measurement procedure is sometimes called a standard operating procedure,
       abbreviated SOP.
-  - content: '[Annotation] The use of the terms "measurement method" and "measurement
-      procedure" differs, for historical reasons, between different areas of metrology.
-      In general, a measurement method delimits a broader category of operations than
-      does a measurement procedure, which requires a detailed set of instructions.'
   terms:
   - type: expression
     normative_status: preferred
     designation: measurement procedure
+  annotations:
+  - content: The use of the terms "measurement method" and "measurement procedure"
+      differs, for historical reasons, between different areas of metrology. In general,
+      a measurement method delimits a broader category of operations than does a measurement
+      procedure, which requires a detailed set of instructions.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8cb7d373-8fbb-4957-9610-4f6bf1a51b31
@@ -67,11 +68,6 @@ data:
   - content: Une procédure de mesure est quelquefois appelée en anglais standard operating
       procedure, abrégé en SOP. Le terme «mode opératoire de mesure» était employé
       en français dans la deuxième édition du VIM.
-  - content: '[Annotation] L''emploi des termes «méthode de mesure» et «procédure
-      de mesure» diffère, pour des raisons historiques, d''un domaine à l''autre de
-      la métrologie. En général, une méthode de mesure recouvre une plus grande catégorie
-      d''opérations qu''une procédure de mesure, qui nécessite un ensemble détaillé
-      d''instructions.'
   terms:
   - type: expression
     normative_status: preferred
@@ -79,6 +75,11 @@ data:
   - type: expression
     normative_status: admitted
     designation: procédure opératoire, f
+  annotations:
+  - content: L'emploi des termes «méthode de mesure» et «procédure de mesure» diffère,
+      pour des raisons historiques, d'un domaine à l'autre de la métrologie. En général,
+      une méthode de mesure recouvre une plus grande catégorie d'opérations qu'une
+      procédure de mesure, qui nécessite un ensemble détaillé d'instructions.
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: e198b68e-e771-4b8b-9f73-d0809e00da40

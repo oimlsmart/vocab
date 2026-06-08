@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.27'
   localized_concepts:
@@ -31,11 +30,7 @@ data:
   - content: Rockwell C hardness scale.
   id: 1.27-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "quantity values" can be replaced with "values", and
-      "kind of quantity" can be replaced with "kind", without ambiguity: "ordered
-      set of values of quantities of a given kind used in ranking, according to magnitude,
-      quantities of that kind".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
@@ -43,6 +38,11 @@ data:
   - type: expression
     normative_status: admitted
     designation: measurement scale
+  annotations:
+  - content: 'Here "quantity values" can be replaced with "values", and "kind of quantity"
+      can be replaced with "kind", without ambiguity: "ordered set of values of quantities
+      of a given kind used in ranking, according to magnitude, quantities of that
+      kind".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3185fdc4-296d-4087-8b4f-c05ef7423ba3

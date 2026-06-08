@@ -29,16 +29,17 @@ data:
   examples: []
   id: 4.23-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "quantity value(s)" can be replaced by "value(s)"
-      in both instances without ambiguity: "duration between the instant when an input
-      value of a measuring instrument or measuring system is subjected to an abrupt
-      change between two specified constant values and the instant when a corresponding
-      indication settles within specified limits around its final steady value".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: step response time
+  annotations:
+  - content: 'Here "quantity value(s)" can be replaced by "value(s)" in both instances
+      without ambiguity: "duration between the instant when an input value of a measuring
+      instrument or measuring system is subjected to an abrupt change between two
+      specified constant values and the instant when a corresponding indication settles
+      within specified limits around its final steady value".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9c514273-6a92-4592-8cf8-3ad55d6bf3fb

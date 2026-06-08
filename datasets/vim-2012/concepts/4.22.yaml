@@ -27,16 +27,17 @@ data:
   examples: []
   id: 4.22-eng
   language_code: eng
-  notes:
-  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
-      value" and "quantity values" can be replaced by "values" in both instances without
-      ambiguity: "difference in indication for a given measured value, or in values
-      supplied by a material measure, when an influence quantity assumes successively
-      two different values".'
+  notes: []
   terms:
   - type: expression
     normative_status: preferred
     designation: variation due to an influence quantity
+  annotations:
+  - content: 'Here "measured quantity value" can be replaced by "measured value" and
+      "quantity values" can be replaced by "values" in both instances without ambiguity:
+      "difference in indication for a given measured value, or in values supplied
+      by a material measure, when an influence quantity assumes successively two different
+      values".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 98f00a79-b1ae-4e0f-be3e-95a779b61aa9

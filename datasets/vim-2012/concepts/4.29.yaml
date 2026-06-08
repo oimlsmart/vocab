@@ -1,7 +1,7 @@
 data:
   identifier: '4.29'
   localized_concepts:
-    eng: 08cc1843-f90b-4337-9547-5d23e43161d3
+    eng: '08cc1843-f90b-4337-9547-5d23e43161d3'
     fra: 2fd90cf1-b6c2-41e9-bbaf-d8932a749d95
   domains:
   - concept_id: section-4
@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement uncertainty,2.26}} where the specified {{measured quantity
-      value,2.10}} is zero'
+  - content: "{{measurement uncertainty,2.26}} where the specified {{measured quantity
+      value,2.10}} is zero"
   examples: []
   id: 4.29-eng
   language_code: eng
@@ -33,24 +33,24 @@ data:
       is due only to noise.
   - content: The concept of 'null measurement uncertainty' also applies when a difference
       is obtained between {{measurement,2.1}} of a sample and a blank.
-  - content: '[Annotation] Here "measured quantity value" can be replaced by "measured
-      value" without ambiguity: "measurement uncertainty where the specified measured
-      value is zero".'
   terms:
   - type: expression
     normative_status: preferred
     designation: null measurement uncertainty
+  annotations:
+  - content: 'Here "measured quantity value" can be replaced by "measured value" without
+      ambiguity: "measurement uncertainty where the specified measured value is zero".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 08cc1843-f90b-4337-9547-5d23e43161d3
+id: '08cc1843-f90b-4337-9547-5d23e43161d3'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{incertitude de mesure,2.26}} lorsque la {{valeur mesurée,2.10}} spécifiée
-      est nulle'
+  - content: "{{incertitude de mesure,2.26}} lorsque la {{valeur mesurée,2.10}} spécifiée
+      est nulle"
   examples: []
   id: 4.29-fra
   language_code: fra

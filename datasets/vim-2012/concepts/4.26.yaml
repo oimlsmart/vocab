@@ -19,8 +19,6 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '4.26'
 ---
-null
-...
 ---
 data:
   dates:
@@ -39,10 +37,6 @@ data:
       used where there are two extreme values.
   - content: The term “tolerance” should not be used to designate 'maximum permissible
       error'.
-  - content: '[Annotation] Here "reference quantity value" can be replaced by "reference
-      value" without ambiguity: "extreme value of measurement error, with respect
-      to a known reference value, permitted by specifications or regulations for a
-      given measurement, measuring instrument, or measuring system".'
   terms:
   - type: expression
     normative_status: preferred
@@ -53,12 +47,15 @@ data:
   - type: expression
     normative_status: admitted
     designation: limit of error
+  annotations:
+  - content: 'Here "reference quantity value" can be replaced by "reference value"
+      without ambiguity: "extreme value of measurement error, with respect to a known
+      reference value, permitted by specifications or regulations for a given measurement,
+      measuring instrument, or measuring system".'
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 862c065b-3515-4d23-a3e7-e6969952d505
 ---
-null
-...
 ---
 data:
   dates:
