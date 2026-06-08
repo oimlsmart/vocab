@@ -56,7 +56,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude de mesure à zéro, f
+    designation: incertitude de mesure à zéro
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: f9d333cd-f9db-4cf9-bcff-bcd921a84ab5

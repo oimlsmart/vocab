@@ -91,7 +91,9 @@ data:
     designation: compatibilité de mesure
   - type: expression
     normative_status: admitted
-    designation: compatibilité métrologique, f
+    designation: compatibilité métrologique
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: ecceedda-8ed9-4963-9a2d-3ca9236974ca

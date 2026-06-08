@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.52'
   localized_concepts:
@@ -94,7 +93,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur d'influence, f
+    designation: grandeur d'influence
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 89c12200-f2e4-40ba-9cce-c57289ab4f41

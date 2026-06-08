@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.25'
   localized_concepts:
@@ -45,7 +44,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle à zéro décalé, f
+    designation: échelle à zéro décalé
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 72e83668-95cb-4ce6-8e40-ce323ffb87e5

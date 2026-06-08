@@ -50,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mobilité, m
+    designation: mobilité
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
     designation: seuil de

@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: facteur de correction, m
+    designation: facteur de correction
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6b8be019-1fb6-4aa7-8753-674174183861

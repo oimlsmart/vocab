@@ -54,7 +54,9 @@ data:
     designation: condition de régime établi
   - type: expression
     normative_status: admitted
-    designation: condition de régime permanent, f
+    designation: condition de régime permanent
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: e12a713e-666f-4d82-b510-74e6367d305d

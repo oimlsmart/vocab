@@ -84,7 +84,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification, f
+    designation: vérification
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1d595c8a-56aa-4534-b86e-4ad49aa07eda

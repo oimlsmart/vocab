@@ -66,10 +66,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: ajustage d'un système de mesure, m
+    designation: ajustage d'un système de mesure
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: ajustage, m
+    designation: ajustage
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a441fc4f-9e33-4c64-aa99-b165b38d937d

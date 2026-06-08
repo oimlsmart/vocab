@@ -62,7 +62,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: intervalle élargi, m
+    designation: intervalle élargi
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: bccd7148-1f0d-4665-b0b0-3d8aae60b532

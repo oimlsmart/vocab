@@ -85,7 +85,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur vraie, f
+    designation: valeur vraie
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: c515431a-25f3-4c0f-a9d3-f9c55deab524

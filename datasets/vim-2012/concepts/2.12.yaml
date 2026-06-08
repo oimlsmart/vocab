@@ -84,7 +84,9 @@ data:
     designation: valeur conventionnelle
   - type: expression
     normative_status: admitted
-    designation: valeur conventionnelle d'une grandeur, m
+    designation: valeur conventionnelle d'une grandeur
+    grammar_info:
+    - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 86d804a2-f6ef-4dc9-86e3-cb1dc112f3ff

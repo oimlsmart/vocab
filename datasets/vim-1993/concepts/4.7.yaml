@@ -55,7 +55,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil (de mesure) enregistreur, m
+    designation: appareil (de mesure) enregistreur
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 85bf9a6b-b5e7-4baa-8e43-84fd30ee7239

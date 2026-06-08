@@ -28,8 +28,8 @@ data:
   notes:
   - content: In this definition ‘accuracy’ covers, for example, measurement accuracy
       and ‘accuracy of a nominal property value’.
-  - content: “Data” is a plural form, “datum” is the singular. “Data” is commonly
-      used in the singular sense, instead of “datum”.
+  - content: "“Data” is a plural form, “datum” is the singular. “Data” is commonly
+      used in the singular sense, instead of “datum”."
   terms:
   - type: expression
     normative_status: preferred
@@ -60,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: donnée de référence, f
+    designation: donnée de référence
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 33663abe-59bc-4560-b928-d059b8a3d8e5

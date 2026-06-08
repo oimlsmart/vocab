@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.17'
   localized_concepts:
@@ -47,7 +46,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle (d'un appareil de mesure), f
+    designation: échelle (d'un appareil de mesure)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 983af279-f081-400c-8611-a7c0df5315b0

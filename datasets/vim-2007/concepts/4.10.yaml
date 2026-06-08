@@ -60,10 +60,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: condition limite de fonctionnement, f
+    designation: condition limite de fonctionnement
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: condition limite, f
+    designation: condition limite
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a3f0e43f-459e-4b1f-b965-3650499e7498

@@ -56,7 +56,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: caractéristique de transfert, f
+    designation: caractéristique de transfert
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1ed0289b-3573-4b6e-b970-f56d098f2a1f

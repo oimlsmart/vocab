@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.24'
   localized_concepts:
@@ -54,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: facteur de conversion entre unités, m
+    designation: facteur de conversion entre unités
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: afa48f1e-0dc8-4360-9d34-4b9ff7e4f2e6

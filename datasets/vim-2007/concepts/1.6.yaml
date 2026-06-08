@@ -8,7 +8,7 @@ data:
     source: urn:oiml:pub:v:2:2007
     ref_type: section
 status: valid
-id: 0618ff9b-bde5-48f2-aadf-6efd856c7187
+id: '0618ff9b-bde5-48f2-aadf-6efd856c7187'
 schema_version: '3'
 related:
 - type: supersedes
@@ -61,10 +61,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Système international de grandeurs, m
+    designation: Système international de grandeurs
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: ISQ, m
+    designation: ISQ
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 4d788c71-2e78-4a44-b288-de4cb5b5ef26

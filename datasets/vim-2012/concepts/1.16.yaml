@@ -19,44 +19,32 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '1.16'
 ---
-null
-...
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{system of units,1.13}}, based on the {{International System of Quantities,1.6}},
+  - content: "{{system of units,1.13}}, based on the {{International System of Quantities,1.6}},
       their names and symbols, including a series of prefixes and their names and
       symbols, together with rules for their use, adopted by the General Conference
-      on Weights and Measures (CGPM)'
+      on Weights and Measures (CGPM)"
   examples: []
   id: 1.16-eng
   language_code: eng
   notes:
-  - content: 'The SI is founded on the seven {{base quantities,1.4}} of the {{ISQ,1.6}}
-      and the names and symbols of the corresponding {{base units,1.10}} that are
-      contained in the following table.
-
+  - content: |-
+      The SI is founded on the seven {{base quantities,1.4}} of the {{ISQ,1.6}} and the names and symbols of the corresponding {{base units,1.10}} that are contained in the following table.
 
       |===
-
       | lengthlongueur | metremètre
-
       | massmasse | kilogramkilogramme
-
       | timetemps | secondseconde
-
       | electric currentcourant électrique | ampereampère
-
       | thermodynamic temperaturetempérature thermodynamique | kelvinkelvin
-
       | amount of substancequantité de matière | molemole
-
       | luminous intensityintensité lumineuse | candelacandela
-
-      |==='
+      |===
   - content: The base units and the {{coherent derived units,1.12}} of the SI form
       a coherent set, designated the “set of coherent SI units”.
   - content: For a full description and explanation of the International System of
@@ -64,53 +52,31 @@ data:
       des Poids et Mesures (BIPM) and available on the BIPM website.
   - content: In {{quantity calculus,1.21}}, the quantity 'number of entities' is often
       considered to be a base quantity, with the base unit one, symbol 1.
-  - content: 'The SI prefixes for {{multiples of units,1.17}} and {{submultiples of
-      units,1.18}} are:
-
+  - content: |-
+      The SI prefixes for {{multiples of units,1.17}} and {{submultiples of units,1.18}} are:
 
       |===
-
       | 1024 | yottayotta
-
       | 1021 | zettazetta
-
       | 1018 | exaexa
-
       | 1015 | petapéta
-
       | 1012 | teratéra
-
       | 109 | gigagiga
-
       | 106 | megaméga
-
       | 103 | kilokilo
-
       | 102 | hectohecto
-
       | 101 | decadéca
-
       | 10-1 | decidéci
-
       | 10-2 | centicenti
-
       | 10-3 | millimilli
-
       | 10-6 | micromicro
-
       | 10-9 | nanonano
-
       | 10-12 | picopico
-
       | 10-15 | femtofemto
-
       | 10-18 | attoatto
-
       | 10-21 | zeptozepto
-
       | 10-24 | yoctoyocto
-
-      |==='
+      |===
   terms:
   - type: expression
     normative_status: preferred
@@ -122,44 +88,32 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2d18389c-b377-4a36-a635-d965f1e0e1c1
 ---
-null
-...
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{système d''unités,1.13}}, fondé sur le {{Système international de
-      grandeurs,1.6}}, comportant les noms et symboles des unités, une série de préfixes
-      avec leurs noms et symboles, ainsi que des règles pour leur emploi, adopté par
-      la Conférence générale des poids et mesures (CGPM)'
+  - content: "{{système d'unités,1.13}}, fondé sur le {{Système international de grandeurs,1.6}},
+      comportant les noms et symboles des unités, une série de préfixes avec leurs
+      noms et symboles, ainsi que des règles pour leur emploi, adopté par la Conférence
+      générale des poids et mesures (CGPM)"
   examples: []
   id: 1.16-fra
   language_code: fra
   notes:
-  - content: 'Le SI est fondé sur les sept {{grandeurs de base,1.4}} de l''{{ISQ,1.6}}.
-      Les noms et les symboles des {{unités de base,1.10}} sont donnés dans le tableau
-      suivant.
-
+  - content: |-
+      Le SI est fondé sur les sept {{grandeurs de base,1.4}} de l'{{ISQ,1.6}}. Les noms et les symboles des {{unités de base,1.10}} sont donnés dans le tableau suivant.
 
       |===
-
       | lengthlongueur | metremètre
-
       | massmasse | kilogramkilogramme
-
       | timetemps | secondseconde
-
       | electric currentcourant électrique | ampereampère
-
       | thermodynamic temperaturetempérature thermodynamique | kelvinkelvin
-
       | amount of substancequantité de matière | molemole
-
       | luminous intensityintensité lumineuse | candelacandela
-
-      |==='
+      |===
   - content: Les unités de base et les {{unités dérivées cohérentes,1.12}} du SI forment
       un ensemble cohérent, appelé «ensemble des unités SI cohérentes».
   - content: Pour une description et une explication complètes du Système international
@@ -169,60 +123,40 @@ data:
   - content: En {{algèbre des grandeurs,1.21}}, la grandeur «nombre d'entités» est
       souvent considérée comme une grandeur de base, avec l'unité de base un, symbole
       1.
-  - content: 'Les préfixes SI pour les {{multiples des unités,1.17}} et {{sous-multiples
-      des unités,1.18}} sont:
-
+  - content: |-
+      Les préfixes SI pour les {{multiples des unités,1.17}} et {{sous-multiples des unités,1.18}} sont:
 
       |===
-
       | 1024 | yottayotta
-
       | 1021 | zettazetta
-
       | 1018 | exaexa
-
       | 1015 | petapéta
-
       | 1012 | teratéra
-
       | 109 | gigagiga
-
       | 106 | megaméga
-
       | 103 | kilokilo
-
       | 102 | hectohecto
-
       | 101 | decadéca
-
       | 10-1 | decidéci
-
       | 10-2 | centicenti
-
       | 10-3 | millimilli
-
       | 10-6 | micromicro
-
       | 10-9 | nanonano
-
       | 10-12 | picopico
-
       | 10-15 | femtofemto
-
       | 10-18 | attoatto
-
       | 10-21 | zeptozepto
-
       | 10-24 | yoctoyocto
-
-      |==='
+      |===
   terms:
   - type: expression
     normative_status: preferred
     designation: Système international d'unités
   - type: expression
     normative_status: admitted
-    designation: SI, m
+    designation: SI
+    grammar_info:
+    - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: a835ac49-3816-4f1d-a448-9102e2697aaf

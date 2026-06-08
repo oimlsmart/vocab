@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.6'
   localized_concepts:
@@ -69,7 +68,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mesure matérialisée, f
+    designation: mesure matérialisée
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: b541d13c-2a51-4ed8-8f7f-bf2d72ce60ae

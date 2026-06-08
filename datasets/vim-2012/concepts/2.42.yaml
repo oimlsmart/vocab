@@ -70,7 +70,9 @@ data:
     designation: chaîne de traçabilité métrologique
   - type: expression
     normative_status: admitted
-    designation: chaîne de traçabilité, f
+    designation: chaîne de traçabilité
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8f6aa41f-a6b3-4afa-9648-94756121077f

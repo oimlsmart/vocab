@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement uncertainty,2.26}} specified as an upper limit and decided
-      on the basis of the intended use of {{measurement results,2.9}}'
+  - content: "{{measurement uncertainty,2.26}} specified as an upper limit and decided
+      on the basis of the intended use of {{measurement results,2.9}}"
   examples: []
   id: 2.34-eng
   language_code: eng
@@ -43,8 +43,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{incertitude de mesure,2.26}} spécifiée comme une limite supérieure
-      et choisie d''après les usages prévus des {{résultats de mesure,2.9}}'
+  - content: "{{incertitude de mesure,2.26}} spécifiée comme une limite supérieure
+      et choisie d'après les usages prévus des {{résultats de mesure,2.9}}"
   examples: []
   id: 2.34-fra
   language_code: fra
@@ -55,7 +55,9 @@ data:
     designation: incertitude cible
   - type: expression
     normative_status: admitted
-    designation: incertitude anticipée, f
+    designation: incertitude anticipée
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: f1cf8273-ad38-4e81-b310-0ee119f0b5e9

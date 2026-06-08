@@ -68,7 +68,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: multiple d'une unité, m
+    designation: multiple d'une unité
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 52b80e95-1459-4383-9a73-940c5547dc92

@@ -1,14 +1,14 @@
 data:
   identifier: '5.7'
   localized_concepts:
-    eng: 08bb816e-2be5-4182-b361-037aa3978d7a
+    eng: '08bb816e-2be5-4182-b361-037aa3978d7a'
     fra: 6ab86b36-9484-40b9-a89f-d44269e00008
   domains:
   - concept_id: section-5
     source: urn:oiml:pub:v:2:2007
     ref_type: section
 status: valid
-id: 090b4b48-8ae3-4149-a4f8-ac8579a1d583
+id: '090b4b48-8ae3-4149-a4f8-ac8579a1d583'
 schema_version: '3'
 related:
 - type: supersedes
@@ -40,7 +40,7 @@ data:
     designation: working standard
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 08bb816e-2be5-4182-b361-037aa3978d7a
+id: '08bb816e-2be5-4182-b361-037aa3978d7a'
 ---
 data:
   dates:
@@ -60,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon de travail, m
+    designation: étalon de travail
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6ab86b36-9484-40b9-a89f-d44269e00008

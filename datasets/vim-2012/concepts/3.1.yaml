@@ -19,8 +19,6 @@ related:
     source: urn:oiml:pub:v:2:2010
     id: '3.1'
 ---
-null
-...
 ---
 data:
   dates:
@@ -44,8 +42,6 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: e3946598-45f6-4b9b-8989-3babbe32528b
 ---
-null
-...
 ---
 data:
   dates:
@@ -68,7 +64,9 @@ data:
     designation: instrument de mesure
   - type: expression
     normative_status: admitted
-    designation: appareil de mesure, m
+    designation: appareil de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 5e1cbf69-babd-4a59-b99d-def1d6e29c2c

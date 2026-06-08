@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: temps de réponse à un échelon, m
+    designation: temps de réponse à un échelon
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 066f622c-2c50-4aa9-b3d9-f7ff3a2f9d6c

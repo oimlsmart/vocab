@@ -8,7 +8,7 @@ data:
     source: urn:oiml:pub:v:2:2007
     ref_type: section
 status: valid
-id: 02905e69-1b53-43c3-92d8-54c4fe3abbb8
+id: '02905e69-1b53-43c3-92d8-54c4fe3abbb8'
 schema_version: '3'
 related: []
 ---
@@ -47,7 +47,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: facteur d'élargissement, m
+    designation: facteur d'élargissement
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: a99b5f7c-2046-43ab-b911-7b32a82c3f43

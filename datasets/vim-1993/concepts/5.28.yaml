@@ -50,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur réduite conventionnelle (d'un instrument de mesure}, f
+    designation: erreur réduite conventionnelle (d'un instrument de mesure}
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9bc377d1-38d1-46d8-bad5-4665539d5a60

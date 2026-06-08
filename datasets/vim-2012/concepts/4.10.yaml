@@ -1,7 +1,7 @@
 data:
   identifier: '4.10'
   localized_concepts:
-    eng: 05196f4a-7ac4-4f22-a206-ea633e533d59
+    eng: '05196f4a-7ac4-4f22-a206-ea633e533d59'
     fra: 5b7d1805-9aff-42c3-ac7e-feac47e95de9
   domains:
   - concept_id: section-4
@@ -38,7 +38,7 @@ data:
     designation: limiting operating condition
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
-id: 05196f4a-7ac4-4f22-a206-ea633e533d59
+id: '05196f4a-7ac4-4f22-a206-ea633e533d59'
 ---
 data:
   dates:
@@ -63,7 +63,9 @@ data:
     designation: condition limite de fonctionnement
   - type: expression
     normative_status: admitted
-    designation: condition limite, f
+    designation: condition limite
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 5b7d1805-9aff-42c3-ac7e-feac47e95de9

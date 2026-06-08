@@ -73,7 +73,9 @@ data:
     designation: évaluation de type A de l'incertitude
   - type: expression
     normative_status: admitted
-    designation: évaluation de type A, f
+    designation: évaluation de type A
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 180a439e-049d-4e3c-bd3f-34429cb6fd72

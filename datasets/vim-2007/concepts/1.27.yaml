@@ -52,10 +52,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle de valeurs, f
+    designation: échelle de valeurs
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: échelle de mesure, f
+    designation: échelle de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0a4ecf61-dd2d-4703-aa3c-fc820e5b44a3

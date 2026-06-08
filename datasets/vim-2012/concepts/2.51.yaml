@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{quantity,1.1}}, the {{measured value,2.10}} of which is calculated
-      using the {{values,1.19}} of {{input quantities in a measurement model,2.50}}'
+  - content: "{{quantity,1.1}}, the {{measured value,2.10}} of which is calculated
+      using the {{values,1.19}} of {{input quantities in a measurement model,2.50}}"
   examples: []
   id: 2.51-eng
   language_code: eng
@@ -43,8 +43,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{grandeur,1.1}} dont la {{valeur mesurée,2.10}} est calculée en utilisant
-      les {{valeurs,1.19}} des {{grandeurs d''entrée dans un modèle de mesure,2.50}}'
+  - content: "{{grandeur,1.1}} dont la {{valeur mesurée,2.10}} est calculée en utilisant
+      les {{valeurs,1.19}} des {{grandeurs d'entrée dans un modèle de mesure,2.50}}"
   examples: []
   id: 2.51-fra
   language_code: fra
@@ -55,7 +55,9 @@ data:
     designation: grandeur de sortie dans un modèle de mesure
   - type: expression
     normative_status: admitted
-    designation: grandeur de sortie, f
+    designation: grandeur de sortie
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 306c757e-7078-4353-aae8-6ed3866f6e30

@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: algèbre des grandeurs, f
+    designation: algèbre des grandeurs
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 315c4622-29bc-4c4d-9370-7bbf6cb35488

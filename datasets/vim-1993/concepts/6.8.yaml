@@ -46,7 +46,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon de transfert, m
+    designation: étalon de transfert
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: b5f77d9b-2689-4883-8f34-448d9cd1b8d7

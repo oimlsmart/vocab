@@ -49,7 +49,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur de dimension un, f
+    designation: grandeur de dimension un
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1fd95b69-2e4c-406b-a7e1-786c22e94d20

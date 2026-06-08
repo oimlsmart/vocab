@@ -59,7 +59,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon international, m
+    designation: étalon international
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 48ff274c-a18e-4d4a-b884-7b0b96c34f1d

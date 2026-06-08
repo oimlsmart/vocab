@@ -148,7 +148,9 @@ data:
     designation: valeur d'une grandeur
   - type: expression
     normative_status: admitted
-    designation: valeur, f
+    designation: valeur
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: c4514b75-d7d2-49ed-a6f9-2cc246978f62

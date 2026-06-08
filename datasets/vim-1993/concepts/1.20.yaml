@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.20'
   localized_concepts:
@@ -70,7 +69,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur conventionnellement vraie (d'une grandeur), f
+    designation: valeur conventionnellement vraie (d'une grandeur)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 387262b4-7613-4d96-88b1-bca6d3a8cd79

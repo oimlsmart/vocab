@@ -135,7 +135,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon, m
+    designation: étalon
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 06b6e942-e909-4134-9fe3-3d7a467c6e38

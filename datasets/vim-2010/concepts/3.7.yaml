@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: transducteur de mesure, m
+    designation: transducteur de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 05a39a28-b579-481f-9cf6-416e5d86be64

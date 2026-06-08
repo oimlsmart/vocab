@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.1'
   localized_concepts:
@@ -54,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: calibre, m
+    designation: calibre
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: f98c023c-8878-4fbf-9283-9992d45dec3a

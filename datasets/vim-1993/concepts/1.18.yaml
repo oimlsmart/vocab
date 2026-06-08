@@ -49,7 +49,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur (d'une grandeur), f
+    designation: valeur (d'une grandeur)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: bcee67ab-3fe4-498a-8933-9f698778f4a4

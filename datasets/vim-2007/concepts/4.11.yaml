@@ -63,10 +63,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: condition de fonctionnement de référence, f
+    designation: condition de fonctionnement de référence
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: condition de référence, f
+    designation: condition de référence
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: d7def40e-efdd-48d3-91f5-3f158228b61e

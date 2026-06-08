@@ -65,7 +65,9 @@ data:
     designation: étendue de mesure
   - type: expression
     normative_status: admitted
-    designation: étendue nominale, f
+    designation: étendue nominale
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1be0bd13-b785-4d4b-9c55-329fc54fef3f

@@ -95,7 +95,9 @@ data:
     designation: valeur vraie
   - type: expression
     normative_status: admitted
-    designation: valeur vraie d'une grandeur, f
+    designation: valeur vraie d'une grandeur
+    grammar_info:
+    - gender: f
   annotations:
   - content: 'ANNOTATION (pour la Note 1) (informative) [5 juin 2014] Deux des raisons
       pour lesquelles l''ensemble des valeurs vraies est impossible à connaître sont :

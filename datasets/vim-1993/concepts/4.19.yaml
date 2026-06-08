@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étendue des indications, f
+    designation: étendue des indications
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3de080dc-6cdb-4218-80b5-747a5df9f593

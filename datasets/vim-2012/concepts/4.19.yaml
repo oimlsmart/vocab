@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.19'
   localized_concepts:
@@ -65,7 +64,9 @@ data:
     designation: stabilité
   - type: expression
     normative_status: admitted
-    designation: constance, f
+    designation: constance
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: b06e4604-83bd-412b-ba85-2490f1b8bef4

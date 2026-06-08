@@ -64,10 +64,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur d'entrée dans un modèle de mesure, f
+    designation: grandeur d'entrée dans un modèle de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: grandeur d'entrée, f
+    designation: grandeur d'entrée
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 759d48f5-ff3a-4ef3-9cbc-ce2b24498ea0

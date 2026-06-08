@@ -56,7 +56,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude-type composée, f
+    designation: incertitude-type composée
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: f6897383-4e84-4e82-87c1-200b1f379618

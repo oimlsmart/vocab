@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur au point de contrôle, f
+    designation: erreur au point de contrôle
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1d8d4484-a176-42da-80f2-491b15c36c48

@@ -64,10 +64,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: justesse de mesure, f
+    designation: justesse de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: justesse, f
+    designation: justesse
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8223f3e4-e409-4edb-82f8-7e6cbd3693bb

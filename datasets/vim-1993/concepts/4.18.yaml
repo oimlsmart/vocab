@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.18'
   localized_concepts:
@@ -49,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: longueur d'échelle, f
+    designation: longueur d'échelle
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 05c09201-b61c-4873-ada5-a4cc5eb6dfbf

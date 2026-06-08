@@ -55,8 +55,8 @@ data:
       la différence des valeurs mesurées pour toute paire de résultats de mesure est
       plus petite qu'un certain multiple choisi de l'incertitude-type de cette différence
   examples:
-  - content: ', l''incertitude de mesure évaluée est trop petite), soit la grandeur
-      mesurée a changé d''un mesurage à l''autre.'
+  - content: ", l'incertitude de mesure évaluée est trop petite), soit la grandeur
+      mesurée a changé d'un mesurage à l'autre."
   id: 2.47-fra
   language_code: fra
   notes:
@@ -73,7 +73,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: compatibilité de mesure, f
+    designation: compatibilité de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 16e337e1-e0ff-443a-95dc-887e26f0a126

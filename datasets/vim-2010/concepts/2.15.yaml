@@ -2,7 +2,7 @@ data:
   identifier: '2.15'
   localized_concepts:
     eng: c92567e2-a50b-4ba5-9992-2a06775a47c4
-    fra: 08efadfd-1224-4499-9ce3-e721cb42190f
+    fra: '08efadfd-1224-4499-9ce3-e721cb42190f'
   domains:
   - concept_id: section-2
     source: urn:oiml:pub:v:2:2010
@@ -74,10 +74,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: fidélité de mesure, f
+    designation: fidélité de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: fidélité, f
+    designation: fidélité
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 08efadfd-1224-4499-9ce3-e721cb42190f
+id: '08efadfd-1224-4499-9ce3-e721cb42190f'

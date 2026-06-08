@@ -103,7 +103,9 @@ data:
     designation: incertitude de mesure
   - type: expression
     normative_status: admitted
-    designation: incertitude, f
+    designation: incertitude
+    grammar_info:
+    - gender: f
   annotations:
   - content: Une incertitude de mesure fait partie d'un résultat de mesure, qui est
       le résultat d'un mesurage. Le qualificatif «non négatif» signifie «positif ou

@@ -87,7 +87,9 @@ data:
     designation: exactitude de mesure
   - type: expression
     normative_status: admitted
-    designation: exactitude, f
+    designation: exactitude
+    grammar_info:
+    - gender: f
   annotations:
   - content: Le terme «exactitude de mesure» a été utilisé historiquement dans des
       sens liés mais légèrement différents. Une seule valeur mesurée est quelquefois

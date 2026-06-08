@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: répétabilité (des résultats de mesurage), f
+    designation: répétabilité (des résultats de mesurage)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: eda61b97-4b4b-4bb0-bd85-23058b65346e

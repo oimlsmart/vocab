@@ -48,10 +48,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur de sortie dans un modèle de mesure, f
+    designation: grandeur de sortie dans un modèle de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: grandeur de sortie, f
+    designation: grandeur de sortie
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: d3206822-ff8f-4be1-9a8c-ddd6fb8dbc3e

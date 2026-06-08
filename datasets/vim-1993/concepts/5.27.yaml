@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.27'
   localized_concepts:
@@ -57,7 +56,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: fidélité (d'un instrument de mesure), f
+    designation: fidélité (d'un instrument de mesure)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 68818340-4844-42a5-ad37-33cfcbae5350

@@ -50,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon primaire, m
+    designation: étalon primaire
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: d07f9b95-4919-4fc1-851f-b02f774d9444

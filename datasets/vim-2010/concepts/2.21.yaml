@@ -50,10 +50,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: répétabilité de mesure, f
+    designation: répétabilité de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: répétabilité, f
+    designation: répétabilité
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: ef4d3740-7c52-48f1-bd63-0e9085811b82

@@ -71,10 +71,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur de mesure, f
+    designation: erreur de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: erreur, f
+    designation: erreur
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 31816dd9-e4d6-4f62-8a0c-9ecc53b3326e

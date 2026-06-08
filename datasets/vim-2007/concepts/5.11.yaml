@@ -55,7 +55,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: conservation d'un étalon, f
+    designation: conservation d'un étalon
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9136003c-5355-4307-8df8-a5d6f5ec67f4

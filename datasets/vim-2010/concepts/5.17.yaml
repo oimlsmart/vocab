@@ -56,7 +56,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: donnée de référence normalisée, f
+    designation: donnée de référence normalisée
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: d48c4ea6-6999-4ca0-a124-47e50da0dc0f

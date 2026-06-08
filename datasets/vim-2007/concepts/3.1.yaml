@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.1'
   localized_concepts:
@@ -62,10 +61,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: instrument de mesure, m
+    designation: instrument de mesure
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: appareil de mesure, m
+    designation: appareil de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0d68dd3b-a72a-45a4-bee0-1c5e9e9a9948

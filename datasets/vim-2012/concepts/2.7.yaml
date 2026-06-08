@@ -68,7 +68,9 @@ data:
     designation: procédure de mesure de référence
   - type: expression
     normative_status: admitted
-    designation: procédure opératoire de référence, f
+    designation: procédure opératoire de référence
+    grammar_info:
+    - gender: f
   annotations:
   - content: |-
       La définition est longue et complexe (et utilise systématiquement en anglais les termes privilégiés). Une définition plus courte, associée à une note, pourrait suffire :

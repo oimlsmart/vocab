@@ -63,7 +63,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon secondaire, m
+    designation: étalon secondaire
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: f0873243-a288-40e8-a15e-2406c0e8a1ad

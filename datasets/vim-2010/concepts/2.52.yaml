@@ -88,7 +88,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur d'influence, f
+    designation: grandeur d'influence
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: a7533c80-6418-47dd-9514-90026f04e259

@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.9'
   localized_concepts:
@@ -63,7 +62,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: détecteur, m
+    designation: détecteur
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: e70178cb-b387-46ae-8b5e-7a610d0b44f7

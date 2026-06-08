@@ -47,7 +47,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil de mesure (à affichage) numérique, m
+    designation: appareil de mesure (à affichage) numérique
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 1ae44022-6f1f-4665-9f93-bc0cf7f6506e

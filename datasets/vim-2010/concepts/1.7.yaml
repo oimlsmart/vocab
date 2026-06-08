@@ -1,7 +1,7 @@
 data:
   identifier: '1.7'
   localized_concepts:
-    eng: 080a3423-da75-4520-86ee-ffa087f07ccf
+    eng: '080a3423-da75-4520-86ee-ffa087f07ccf'
     fra: 2eb0c016-1c36-4bff-8611-fef013d2828b
   domains:
   - concept_id: section-1
@@ -64,7 +64,7 @@ data:
     designation: dimension
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 080a3423-da75-4520-86ee-ffa087f07ccf
+id: '080a3423-da75-4520-86ee-ffa087f07ccf'
 ---
 data:
   dates:
@@ -108,7 +108,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: dimension, f
+    designation: dimension
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2eb0c016-1c36-4bff-8611-fef013d2828b

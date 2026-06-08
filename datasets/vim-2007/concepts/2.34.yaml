@@ -48,10 +48,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude cible, f
+    designation: incertitude cible
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: incertitude anticipée, f
+    designation: incertitude anticipée
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9497727e-d8ef-4cf3-8e21-1f381718215d

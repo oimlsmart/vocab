@@ -104,7 +104,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: sélectivité, f
+    designation: sélectivité
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: c04eb2ec-be0c-4d7b-a7cb-aeb82f3f58ee

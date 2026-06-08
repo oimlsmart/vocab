@@ -64,7 +64,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur aléatoire, f
+    designation: erreur aléatoire
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: c4c7815f-bbd2-4823-bcbd-2fe7eefc0fd8

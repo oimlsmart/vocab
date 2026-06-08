@@ -64,10 +64,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: procédure de mesure, f
+    designation: procédure de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: procédure opératoire, f
+    designation: procédure opératoire
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 4cf60b8c-b65c-4f9d-84c9-27fb12871e38

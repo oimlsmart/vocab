@@ -77,7 +77,9 @@ data:
     designation: grandeur d'entrée dans un modèle de mesure
   - type: expression
     normative_status: admitted
-    designation: grandeur d'entrée, f
+    designation: grandeur d'entrée
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 377d1ad0-64c9-41bc-a023-163aa1cc4ce6

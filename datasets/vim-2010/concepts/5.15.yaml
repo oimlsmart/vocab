@@ -67,7 +67,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: commutabilité d'un matériau de référence, f
+    designation: commutabilité d'un matériau de référence
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: dbdcbec5-6307-4615-92d1-97a9c3e3f023

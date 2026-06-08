@@ -51,12 +51,14 @@ data:
   language_code: fra
   notes:
   - content: L'IUPAC recommande des valeurs par défaut de α et β égales à 0,05.
-  - content: '[Applicable uniquement au texte anglais].'
+  - content: "[Applicable uniquement au texte anglais]."
   - content: Le terme « sensibilité » est à proscrire au sens de limite de détection.
   terms:
   - type: expression
     normative_status: preferred
-    designation: limite de détection, f
+    designation: limite de détection
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3e363881-a2b4-43db-a9bc-72b6f5f7dc54

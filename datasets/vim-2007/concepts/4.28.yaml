@@ -50,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: erreur à zéro, f
+    designation: erreur à zéro
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 5f3ea942-9040-4b6b-9623-d38f1b433f25

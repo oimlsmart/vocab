@@ -61,10 +61,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Système international de grandeurs, m
+    designation: Système international de grandeurs
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: ISQ, m
+    designation: ISQ
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: e8f16b5b-cf64-496e-8479-3af230bb2788

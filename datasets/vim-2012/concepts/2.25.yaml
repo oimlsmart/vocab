@@ -60,7 +60,9 @@ data:
     designation: reproductibilité de mesure
   - type: expression
     normative_status: admitted
-    designation: reproductibilité, f
+    designation: reproductibilité
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6c5d5401-9ea4-416e-9169-869324f748a4

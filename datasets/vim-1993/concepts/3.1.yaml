@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.1'
   localized_concepts:
@@ -51,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: résultat d'un mesurage, m
+    designation: résultat d'un mesurage
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3b6eac1b-5876-4e68-abda-dc5d6a2c8f57

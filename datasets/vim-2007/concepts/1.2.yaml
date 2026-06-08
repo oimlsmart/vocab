@@ -82,10 +82,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: nature de grandeur, f
+    designation: nature de grandeur
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: nature, f
+    designation: nature
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 94730f0b-41fa-4d45-85d5-cf9c750d5955

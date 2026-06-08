@@ -53,10 +53,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: reproductibilité de mesure, f
+    designation: reproductibilité de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: reproductibilité, f
+    designation: reproductibilité
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: caa6c2e7-9108-45f3-aa1a-8cc0dc39be4f

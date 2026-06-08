@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.28'
   localized_concepts:
@@ -59,10 +58,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle ordinale, f
+    designation: échelle ordinale
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: échelle de repérage, f
+    designation: échelle de repérage
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 35e96036-a2cb-4e49-9ea5-897686f3ea96

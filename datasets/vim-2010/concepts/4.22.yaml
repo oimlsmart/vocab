@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: variation due à une grandeur d’influence, f
+    designation: variation due à une grandeur d’influence
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0c85f604-b4f7-4a45-b58b-ace7302dde11

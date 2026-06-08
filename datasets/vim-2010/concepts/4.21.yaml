@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: dérive instrumentale, f
+    designation: dérive instrumentale
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 370b5148-c01c-474f-b7c4-00fc76bfd5dc

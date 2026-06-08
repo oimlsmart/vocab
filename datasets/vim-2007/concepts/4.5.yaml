@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.5'
   localized_concepts:
@@ -55,10 +54,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étendue de mesure, f
+    designation: étendue de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: étendue nominale, f
+    designation: étendue nominale
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 36e8f6c3-c302-43ea-90eb-e4ee1c3570e6

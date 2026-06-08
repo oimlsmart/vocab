@@ -69,7 +69,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: diagramme d’étalonnage, m
+    designation: diagramme d’étalonnage
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: f4c36cdd-5310-4974-b911-a2133d4fb6ab

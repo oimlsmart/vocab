@@ -65,7 +65,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: condition de répétabilité, f
+    designation: condition de répétabilité
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8635f07f-c231-4fbc-ab56-6eaf9e2922de

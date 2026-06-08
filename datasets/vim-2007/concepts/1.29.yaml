@@ -47,7 +47,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: échelle de référence conventionnelle, f
+    designation: échelle de référence conventionnelle
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 371f3417-3a9b-4cb6-8385-fabb015372c0

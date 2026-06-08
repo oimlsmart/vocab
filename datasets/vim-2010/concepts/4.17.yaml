@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: zone morte, f
+    designation: zone morte
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: d7b7bb2b-d2af-4b3c-85de-941ae3bcfcf4

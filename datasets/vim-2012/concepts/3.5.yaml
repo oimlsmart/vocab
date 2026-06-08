@@ -62,7 +62,9 @@ data:
     designation: échelle d'un appareil de mesure afficheur
   - type: expression
     normative_status: admitted
-    designation: échelle, f
+    designation: échelle
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 886883a5-9ee9-4654-957a-1ab5c2e5ec0f

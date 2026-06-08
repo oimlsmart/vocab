@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.3'
   localized_concepts:
@@ -60,7 +59,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: système de grandeurs, m
+    designation: système de grandeurs
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 012331e4-cbdb-492c-9e78-d26fa4df0fd5

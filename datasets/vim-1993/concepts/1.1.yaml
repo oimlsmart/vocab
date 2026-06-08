@@ -1,4 +1,3 @@
----
 data:
   identifier: '1.1'
   localized_concepts:
@@ -80,7 +79,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur {mesurable), f
+    designation: grandeur {mesurable)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: a189cde2-e6c9-490d-b6e8-58b456eb569e

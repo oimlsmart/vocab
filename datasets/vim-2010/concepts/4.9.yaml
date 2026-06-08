@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: condition assignée de fonctionnement, f
+    designation: condition assignée de fonctionnement
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6788d098-cad0-4de8-8dc9-12ab01ba95af

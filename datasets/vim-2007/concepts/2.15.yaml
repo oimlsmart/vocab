@@ -74,10 +74,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: fidélité de mesure, f
+    designation: fidélité de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: fidélité, f
+    designation: fidélité
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 182599bb-d7e1-4b0a-8734-426c6e30be62

@@ -48,7 +48,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude-type, f
+    designation: incertitude-type
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: fed3e9a4-a4aa-48f6-8ab8-8becfc9cc4d1

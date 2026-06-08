@@ -1,7 +1,7 @@
 data:
   identifier: '1.23'
   localized_concepts:
-    eng: 0225934c-db95-4bcb-8c08-06c812bc2ed3
+    eng: '0225934c-db95-4bcb-8c08-06c812bc2ed3'
     fra: 3e1e823f-6cbe-40cf-8318-eab368d4f1ef
   domains:
   - concept_id: section-1
@@ -39,7 +39,7 @@ data:
     designation: unit equation
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
-id: 0225934c-db95-4bcb-8c08-06c812bc2ed3
+id: '0225934c-db95-4bcb-8c08-06c812bc2ed3'
 ---
 data:
   dates:
@@ -62,7 +62,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: équation aux unités, f
+    designation: équation aux unités
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3e1e823f-6cbe-40cf-8318-eab368d4f1ef

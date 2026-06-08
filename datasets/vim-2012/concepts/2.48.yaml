@@ -70,7 +70,9 @@ data:
     designation: modèle de mesure
   - type: expression
     normative_status: admitted
-    designation: modèle, m
+    designation: modèle
+    grammar_info:
+    - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: ec6f0aa5-cc40-42f6-af28-094f6e3e45da

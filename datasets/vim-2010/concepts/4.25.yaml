@@ -59,7 +59,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: classe d'exactitude, f
+    designation: classe d'exactitude
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: f534559e-fcf2-4634-a2bb-1b1f3673c481

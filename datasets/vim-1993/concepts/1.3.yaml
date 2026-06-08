@@ -52,7 +52,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur de base, f
+    designation: grandeur de base
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: cd6a9773-c66d-46b2-859d-1a1b5d287d13

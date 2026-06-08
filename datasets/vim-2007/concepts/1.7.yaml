@@ -108,7 +108,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: dimension, f
+    designation: dimension
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 03df6b7b-a364-436c-9072-6f3a44cae496

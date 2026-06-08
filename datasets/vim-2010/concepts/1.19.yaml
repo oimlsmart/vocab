@@ -85,10 +85,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur d'une grandeur, f
+    designation: valeur d'une grandeur
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: valeur, f
+    designation: valeur
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: e2d786f5-6b80-4180-9d3f-86cbaec79951

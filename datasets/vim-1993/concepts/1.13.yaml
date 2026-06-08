@@ -46,7 +46,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: unité (de mesure) de base, f
+    designation: unité (de mesure) de base
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: adcb125c-b627-4c61-bf54-cbe80260d199

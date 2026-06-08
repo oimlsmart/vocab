@@ -60,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon de travail, m
+    designation: étalon de travail
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: c9d8bcaa-ef63-4402-857d-9aea7dbbd0d1

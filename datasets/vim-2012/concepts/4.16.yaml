@@ -58,10 +58,14 @@ data:
     designation: seuil de discrimination
   - type: expression
     normative_status: admitted
-    designation: seuil de mobilité, m
+    designation: seuil de mobilité
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: mobilité, f
+    designation: mobilité
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 966961cf-df7b-410d-a718-95e8c75a5b3b

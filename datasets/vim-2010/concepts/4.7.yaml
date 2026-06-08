@@ -62,7 +62,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: intervalle de mesure, m
+    designation: intervalle de mesure
+    grammar_info:
+    - gender: m
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 6ad6a3d2-4318-43ed-9942-5db33661ce0e

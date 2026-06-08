@@ -53,7 +53,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: traçabilité métrologique à une unité de mesure, f
+    designation: traçabilité métrologique à une unité de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 66c814d9-164b-4604-bc07-bb3171f59b41

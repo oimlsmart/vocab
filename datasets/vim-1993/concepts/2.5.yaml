@@ -51,7 +51,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mode opératoire (de mesure), m
+    designation: mode opératoire (de mesure)
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 447c050c-c01d-44b0-8f6f-d2deaa27a1ca

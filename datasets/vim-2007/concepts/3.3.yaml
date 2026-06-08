@@ -8,7 +8,7 @@ data:
     source: urn:oiml:pub:v:2:2007
     ref_type: section
 status: valid
-id: 067986e5-cf4a-49cf-9983-d44f356f7e6b
+id: '067986e5-cf4a-49cf-9983-d44f356f7e6b'
 schema_version: '3'
 related:
 - type: supersedes
@@ -58,10 +58,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil de mesure indicateur, m
+    designation: appareil de mesure indicateur
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: appareil indicateur, m
+    designation: appareil indicateur
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: b96de3ea-ce17-467f-814a-4ff7fb8d3f75

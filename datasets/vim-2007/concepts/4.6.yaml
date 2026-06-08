@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.6'
   localized_concepts:
@@ -68,7 +67,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: valeur nominale, f
+    designation: valeur nominale
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: e6d4f5b4-a0ee-4db2-8b84-1f59ffddde39

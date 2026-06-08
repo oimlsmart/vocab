@@ -57,7 +57,9 @@ data:
     designation: répétabilité de mesure
   - type: expression
     normative_status: admitted
-    designation: répétabilité, f
+    designation: répétabilité
+    grammar_info:
+    - gender: f
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 58541238-5f0d-468c-b0f3-5e693b75b9ea

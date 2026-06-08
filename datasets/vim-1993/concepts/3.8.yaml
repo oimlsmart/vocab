@@ -62,7 +62,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: écart-type expérimental, m
+    designation: écart-type expérimental
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 96b2a3b7-35b1-4044-a7f5-bc69b40665ca

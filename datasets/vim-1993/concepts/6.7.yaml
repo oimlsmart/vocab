@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.7'
   localized_concepts:
@@ -51,7 +50,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: étalon de travail, m
+    designation: étalon de travail
+    grammar_info:
+    - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8313eb57-756a-402b-a488-24c519588039

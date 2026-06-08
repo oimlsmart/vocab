@@ -60,7 +60,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: incertitude définitionnelle, f
+    designation: incertitude définitionnelle
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: e46c16a0-6ef1-496b-a7ff-286bd7723998

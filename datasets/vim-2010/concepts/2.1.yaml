@@ -61,10 +61,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: mesurage, m
+    designation: mesurage
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: mesure, f
+    designation: mesure
+    grammar_info:
+    - gender: f
 date_accepted: '2010-01-01T00:00:00+00:00'
 entry_status: valid
 id: 17a9f310-09f6-4eac-a3b8-bbb2cbc631d9

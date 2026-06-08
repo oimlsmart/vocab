@@ -45,10 +45,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil de mesure afficheur, m
+    designation: appareil de mesure afficheur
+    grammar_info:
+    - gender: m
   - type: expression
     normative_status: admitted
-    designation: appareil afficheur, m
+    designation: appareil afficheur
+    grammar_info:
+    - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 0cdbdc55-5633-4456-8c7b-7f535b98ebf1

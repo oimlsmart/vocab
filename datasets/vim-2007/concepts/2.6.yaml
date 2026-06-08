@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.6'
   localized_concepts:
@@ -70,10 +69,14 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: procédure de mesure, f
+    designation: procédure de mesure
+    grammar_info:
+    - gender: f
   - type: expression
     normative_status: admitted
-    designation: procédure opératoire, f
+    designation: procédure opératoire
+    grammar_info:
+    - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: f1de2dae-0d87-49c9-93ce-fcb033018715
