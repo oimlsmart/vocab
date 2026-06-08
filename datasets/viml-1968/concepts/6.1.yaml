@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.1'
   localized_concepts:
@@ -17,14 +16,15 @@ data:
     type: accepted
   definition:
   - content: 'Moyens techniques destinés à exécuter les mesurages et comprenant :
-      les mesures matérialisées les appareils mesureurs. Remarques : 1. Parfols, les
-      transducteurs constituent un ensemble séparable complet sont considérés comme
-      un groupe spécial d''instruments de mesurage. 2. Les instruments de mesurage,
-      les transducteurs de mesurage et les dispositifs auxiliaires de mesurage ont
-      parfois une dénomination commune « moyens de mesurage ».'
+      les mesures matérialisées les appareils mesureurs'
   examples: []
   id: 6.1-fra
-  notes: []
+  notes:
+  - content: Parfols, les transducteurs constituent un ensemble séparable complet
+      sont considérés comme un groupe spécial d'instruments de mesurage.
+  - content: Les instruments de mesurage, les transducteurs de mesurage et les dispositifs
+      auxiliaires de mesurage ont parfois une dénomination commune « moyens de mesurage
+      ».
   sources: []
   terms:
   - type: expression
