@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.7'
   localized_concepts:
@@ -23,9 +24,9 @@ data:
   id: 1.7-eng
   language_code: eng
   notes:
-  - content: Units of measurement have  names and symbols. 2  Units of quantit1es
-      of the same dimension may have the  same  names  and  symbols  even  when  the
-      quantities are not of the same kind.
+  - content: Units of measurement have conventionally assigned names and symbols.
+  - content: Units of quantities of the same dimension may have the same names and
+      symbols even when the quantities are not of the same kind.
   terms:
   - type: expression
     normative_status: preferred
@@ -47,8 +48,9 @@ data:
   language_code: fra
   notes:
   - content: Des noms et des symboles sont attribués par convention aux unités de
-      mesure. 2  Les unités de grandeurs   ont la même dimension peuvent avoir le
-      même nom et le même symbole, même si ces grandeurs ne sont pas de même nature.
+      mesure.
+  - content: Les unités de grandeurs qui ont la même dimension peuvent avoir le même
+      nom et le même symbole, même si ces grandeurs ne sont pas de même nature.
   terms:
   - type: expression
     normative_status: preferred

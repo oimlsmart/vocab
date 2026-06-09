@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.15'
   localized_concepts:
@@ -19,14 +20,14 @@ data:
   - content: device or substance that indicates the presence of a phenomenon without
       necessarily providing a value of an associated quantity
   examples:
-  - content: halogen leak detector; litmus paper
+  - content: halogen leak detector
+  - content: litmus paper
   id: 4.15-eng
   language_code: eng
   notes:
-  - content: halogen leak detector; litmus paper
   - content: An indication may be produced only when the value of the quantity reaches
-      a threshold, somet1mes called the detection limit of the detector. 2  ln some
-      fields the term "detector" is used for the concept of "sensor"
+      a threshold, sometimes called the detection limit of the detector.
+  - content: In some fields the term "detector" is used for the concept of "sensor".
   terms:
   - type: expression
     normative_status: preferred
@@ -47,10 +48,10 @@ data:
   id: 4.15-fra
   language_code: fra
   notes:
-  - content: détecteur de fuite à halogène; papier au tournesol
-  - content: On peut n'avoir une indication que si la valeur de la  atteint un seuil
-      donné, parfois appelé seuil de détection du détecteur. 2  Dans certains domaines,
-      le terme «détecteur)) est utilisé pour le concept de «capteur».
+  - content: On peut n'avoir une indication que si la valeur de la grandeur atteint
+      un seuil donné, parfois appelé seuil de détction du détecteur.
+  - content: Dans certains domaines, le terme «détecteur» est utilisé pour le concept
+      de «capteur».
   terms:
   - type: expression
     normative_status: preferred

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '6.7'
   localized_concepts:
@@ -23,8 +24,8 @@ data:
   language_code: eng
   notes:
   - content: A working standard is usually calibrated against a reference standard.
-      2 A working standard used routinely to ensure that measurements are being carried
-      out correctly is called a check standard.
+  - content: A working standard used routinely to ensure that measurements are being
+      carried out correctly is called a check standard.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,8 +46,9 @@ data:
   language_code: fra
   notes:
   - content: Un étalon de travail est habituellement étalonné par rapport à un étalon
-      de référence. 2 Un étalon de travail utilisé couramment pour s'assurer que les
-      mesures sont effectuées correctement est appelé étalon de contrôle.
+      de référence.
+  - content: Un étalon de travail utilisé couramment pour s'assurer que les mesures
+      sont effectuées correctement est appelé étalon de contrôle.
   terms:
   - type: expression
     normative_status: preferred

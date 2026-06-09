@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.20'
   localized_concepts:
@@ -28,11 +29,12 @@ data:
   id: 1.20-eng
   language_code: eng
   notes:
-  - content: '"Conventional  true  value"  Is  sometimes  called assigned  value,  best  estimate  of  the  value,
-      conventional value or reference value. "Reference value", in this sense, shouid
-      not be confused with "reference value" in the sense used in the NOTE to 5.7.
-      2  Frequently, a number of results of measurements of a quantity is used to
-      establish a conventional true value.'
+  - content: '"Conventional true value" is sometimes called assigned value, best estimate
+      of the value, conventional value or reference value. "Reference value", in this
+      sense, should not be confused with "reference value" in the sense used in the
+      NOTE to 5.7.'
+  - content: Frequently, a number of results of measurements of a quantity is used
+      to establish a conventional true value.
   terms:
   - type: expression
     normative_status: preferred
@@ -63,8 +65,8 @@ data:
   - content: La valeur conventionnellement vraie est quelquefois appelée valeur assignée,
       meilleure estimation de la valeur, valeur convenue ou valeur de référence; le
       terme "valeur de référence», dans ce sens, ne doit pas être confondu avec le
-      même terme utilisé dans le sens de la note de 5.7. 2  On utilise souvent un
-      grand nombre de résultats de mesures  a'une  grandeur  pour  établir  une  valeur
+      même terme utilisé dans le sens de la note de 5.7
+  - content: On utilise souvent un grand nombre de résultats de mesures  a'une  grandeur  pour  établir  une  valeur
       conventionnellement vraie.
   terms:
   - type: expression

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.4'
   localized_concepts:
@@ -22,7 +23,7 @@ data:
   id: 2.4-eng
   language_code: eng
   notes:
-  - content: 'Methods of measurement may be qualif1ed 1n vanous ways such as: substitution
+  - content: 'Methods of measurement may be qualified in vanous ways such as: substitution
       method differential method null method.'
   terms:
   - type: expression
@@ -37,28 +38,8 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: linéaire, échelle  4.23 logarithmique, échelle  4.24  note longueur d'une
-      division d'échelle  4.21 longueur d'échelle  4. î 8 M matérialisée, mesure  4.2
-      et préambule du chapitre 4 matériau de référence (MR)  6.13 et préambule du
-      chapitre 4 matériau de référence certifié (MRC)  6.14 maximales, erreurs, tolérées
-      d'un instrument de mesure 5.21 meilleure estimation  1.20  note 1 mème, grandeurs
-      de, nature  1.1  note 2 mesurable, grandeur  1.1 mesurage  2.1 mesurage, répétabilité
-      des résultats de 3.6 mesurage, reproductibilité des résultats de 3.7 mesurage,
-      résultat d'un 3.1 mesurande 2.6 mesurande, valeur transformée d'un 2.9 mesure,
-      appareil de  4.1 et preambule du chap:tre 4 mesure, appareil de, à affichage
-      analogique  4.10 mesure, appareil de, à affichage numérique  4.11 mesure, appareil
-      de, afficheur  4.6 mesure, appareil de, enregistreur  4.7 mesure, appareil de,
-      indicateur  4.6 mesure, appareil de, intégrateur  4.9 mesure, appareil de, totalisateur  4.8
-      mesure, calibrage d'un instrument de  4.29 mesure, chaîne de  4.4 et préambule
-      du chapitre 4 mesure, dispositif de  préambule du cl,apitre 4 mesure, échelle
-      d'un appareil de  4.17 mesure, mode opératoire de  2.5 mesure, multiple d'une
-      unité de  1.16 mesure, principe de  2.3 mesure, signal de 2.8 mesure, sous-multiple
-      d'une unité de 1.17 mesure, symbole d'une unité de 1.8 mesure, système de 4.5
-      et préambule du chapitre 4 mesure, système d'unités de  1.9 mesure, transducteur
-      de  4.3 et préambule du chapitre 4 mesure, unité de  1.7 mesure, unité de, de
-      base  1.13 mesure, unité de, dérivée  1.14 mesure, unité de, dérivée cohérente  1.10
-      mesure, unité de, hors système  1.15 méthode différentielle  2 .4  note méthode
-      de mesure  2.4
+  - content: succession logique des opérations, décrites d’une manière générique,
+      mises en œuvre lors de l’exécution de mesurages
   examples: []
   id: 2.4-fra
   language_code: fra
@@ -68,7 +49,9 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: limites d'erreur tolérées d'un instrument de mesure 5.21
+    designation: méthode de mesure
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 83393536-952a-471e-8bb8-41f3dd05d88d

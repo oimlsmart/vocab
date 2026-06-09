@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.6'
   localized_concepts:
@@ -23,8 +24,8 @@ data:
   id: 5.6-eng
   language_code: eng
   notes:
-  - content: The limiting conditions for storage,  transport and operation may be
-      different. 2  The limiting conditions may include limiting values of the measurand
+  - content: The limiting conditions for storage, transport and operation may be different.
+  - content: The limiting conditions may include limiting values of the measurand
       and of the influence quantities.
   terms:
   - type: expression
@@ -47,8 +48,9 @@ data:
   language_code: fra
   notes:
   - content: Les conditions limites peuvent être différentes pour le stockage, le
-      transport et le fonctionnement. 2  Les conditions limites peuvent comprendre
-      des valeurs limites pour le mesurande et pour les grandeurs d'influence.
+      transport et le fonctionnement.
+  - content: Les conditions limites peuvent comprendre des valeurs limites pour le
+      mesurande et pour les grandeurs d'influence. =
   terms:
   - type: expression
     normative_status: preferred

@@ -16,16 +16,22 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: p reproducibiîity of results of measurements report, calibration  6.11  Note
-      3 resolution of a displaying device  5.12
+  - content: closeness of the agreement between the results of successive measurements
+      of the same measurand carried out under the same conditions of measurement
   examples: []
   id: 3.6-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: These conditions are called repeatability conditions.
+  - content: 'Repeatability conditions include: the same measurement procedure, the
+      same observer, the same measuring instrument used under the same conditions,
+      the same location, repetition over a short period of time.'
+  - content: Repeatability may be expressed quantitatively in terms of the dispersion
+      characteristics of the results.
   terms:
   - type: expression
     normative_status: preferred
-    designation: one, quantity of dimension  1.6 operating conditions, rated  5.5
+    designation: repeatability (of results of measurements)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 528086b2-61d9-4ab8-a138-f1a5cf31ba08

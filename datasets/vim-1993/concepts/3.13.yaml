@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.13'
   localized_concepts:
@@ -22,9 +23,9 @@ data:
   id: 3.13-eng
   language_code: eng
   notes:
-  - content: Random error is equal to error minus systematic error. 2 Because only
-      a finite number of measurements can be made, it is possible to determine only
-      an estimate of random error.
+  - content: Random error is equal to error minus systematic error
+  - content: Because only a finite number of measurements can be made, it is possible
+      to determine only an estimate of random error.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,8 +46,8 @@ data:
   language_code: fra
   notes:
   - content: L'erreur aléatoire est égale à l'erreur moins l'erreur systématique.
-      2  Comme on ne peut faire qu'un nombre fini de mesu-rages, il est seulement
-      possible de déterminer une estimation de l'erreur aléatoire.
+  - content: Comme on ne peut faire qu'un nombre fini de mesurages, il est seulement
+      possible de déterminer une estimation de l'erreur aléatoire. =
   terms:
   - type: expression
     normative_status: preferred

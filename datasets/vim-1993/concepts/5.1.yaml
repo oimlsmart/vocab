@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.1'
   localized_concepts:
@@ -22,10 +23,12 @@ data:
   id: 5.1-eng
   language_code: eng
   notes:
-  - content: 'Nominal range is normally stated in terms of its lower and upper  limits,
-      for  example,  "100 °C  to  200 °C". Where the lower lirnit is zero, the nominal
-      range is commonly stated solely in terms of its upper iimit: for example a nominai
-      range of O V to 100 V is expressed as "100 V". 2 See 5.2 Note.'
+  - content: 'Nominal range is normally stated in terms of its lower and upper limits,
+      for example, "100 $ ^{\circ} \mathrm{C} $ to 200 $ ^{\circ} \mathrm{C} $ ".
+      Where the lower limit is zero, the nominal range is commonly stated solely in
+      terms of its upper limit: for example a nominal range of 0 V to 100 V is expressed
+      as "100 V".'
+  - content: See 5.2 Note.
   terms:
   - type: expression
     normative_status: preferred

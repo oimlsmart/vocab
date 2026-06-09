@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.5'
   localized_concepts:
@@ -50,9 +51,9 @@ data:
   id: 4.5-fra
   language_code: fra
   notes:
-  - content: Le système peut comprendre des mesures matéria-lisées et des réactifs
-      chimiques. 2 Un système de mesure installé à demeure est appelé installation
-      de mesure. 30                                                    Metro:ogy 1993
+  - content: Le système peut comprendre des mesures matériallisées et des réactifs
+      chimiques.
+  - content: Un système de mesure installé à demeure est appelé installation de mesure.
   terms:
   - type: expression
     normative_status: preferred

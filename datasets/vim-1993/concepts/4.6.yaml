@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.6'
   localized_concepts:
@@ -29,7 +30,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: displaying (measuring) instrument indicating {measuring) instrument
+    designation: displaying (measuring) instrument
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: c0463b52-524c-4654-ba5c-364414c43335
@@ -42,8 +43,8 @@ data:
   - content: appareil (de mesure) indicateur, m appareil de mesure qui affiche une
       indication
   examples:
-  - content: voltmètre à 1ndicat1on analogique; frequencemètre numérique; micromètre
-      à vis. voltmètre à 1ndicat1on analogique; frequencemètre numérique; micromètre
+  - content: voltmètre à indication analogique; frequencemètre numérique; micromètre
+      à vis. voltmètre à indication analogique; frequencemètre numérique; micromètre
       à vis.
   id: 4.6-fra
   language_code: fra
@@ -54,7 +55,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: appareil {de mesure) afficheur
+    designation: appareil (de mesure) afficheur
     grammar_info:
     - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'

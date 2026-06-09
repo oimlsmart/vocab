@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.2'
   localized_concepts:
@@ -22,15 +23,8 @@ data:
   language_code: eng
   notes:
   - content: for a nominal range of -10 V to +10 V, the span is 20 V
-  - content: ln some fields of knowledge, the difference between the greatest and
-      smallest values Is called range. Certains des termes définis dans ce chapitre
-      sont applicables aussi bien à un appareil de mesure,  à  un  dispositif  de  mesure,  à  un
-      transducteur de mesure ou à un système de mesure  et,  par  analogie,  à  une  mesure
-      matérialisée ou à un matériau de référence. Pour cette raison, le terme «instrument
-      de mesure» s'entend ici comme terme générique couvrant toutes ces acceptions
-      possibles. Le signal d'entrée d'un système de mesure peut être appelé stimulus,
-      en anglais, et le signal de sortie peut être appelé réponse. Dans ce chapitre,
-      on désigne par «mesurande)) la  grandeur  appliquée  à  un  instrument  de mesure.
+  - content: In some fields of knowledge, the difference between the greatest and
+      smallest values is called range.
   terms:
   - type: expression
     normative_status: preferred
