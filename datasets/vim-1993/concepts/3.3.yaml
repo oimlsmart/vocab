@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.3'
   localized_concepts:
@@ -10,41 +11,3 @@ data:
 status: valid
 id: 4feeba52-4da0-42d3-bbb2-c8c834fead0b
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: result of a measurement before correction for systematic error
-  examples: []
-  id: 3.3-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: uncorrected result
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 5fbe2cc5-33bf-403d-aeca-4f032f4fbc1c
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: résultat d'un mesurage avant correction  de l'erreur systématique
-  examples: []
-  id: 3.3-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: résultat brut
-    grammar_info:
-    - gender: m
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: da1a8f98-9c55-478f-ab77-7d1d34e0b7cd

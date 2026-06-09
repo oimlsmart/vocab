@@ -53,7 +53,7 @@ data:
   sources:
   - origin:
       ref:
-        source: ISO/CEI 17000:2004
+        source: ISO/IEC 17000:2004
       locality:
         type: clause
         reference_from: '7.10'

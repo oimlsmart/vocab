@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.10'
   localized_concepts:
@@ -10,45 +11,3 @@ data:
 status: valid
 id: 9bd49f6a-5410-484b-bffb-cf7820facca0
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: change  in  the  response  of  a  measuring instrument divided by the
-      corresponding change in the stimulus
-  examples: []
-  id: 5.10-eng
-  language_code: eng
-  notes:
-  - content: The sensitivity may depend on the value of the stimulus.
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: sensitivity
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 651b76d6-0a08-4b3d-a77f-d6893b60d07e
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: quotient de l'accroissement de la réponse d'un instrument de mesure par
-      l'accroissement correspondant du signal d'entrée
-  examples: []
-  id: 5.10-fra
-  language_code: fra
-  notes:
-  - content: La valeur de la sensibilité peut dépendre de la valeur du signal d'entrée.
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: sensibilité
-    grammar_info:
-    - gender: f
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: ff6338e4-72c4-4c8a-8cd9-95d46ff073fd

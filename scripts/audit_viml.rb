@@ -30,7 +30,7 @@ stats = {
 
 TERM_IDS.each do |tid|
   # ── Load YAML concept file ──
-  yaml_path = File.join(OUTPUT_DIR, "#{tid}.yaml")
+  yaml_path = File.join(OUTPUT_DIR, "concepts", "#{tid}.yaml")
   unless File.exist?(yaml_path)
     issues << "#{tid}: YAML file missing"
     next

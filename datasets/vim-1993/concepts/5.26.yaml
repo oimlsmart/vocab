@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.26'
   localized_concepts:
@@ -10,43 +11,3 @@ data:
 status: valid
 id: add26b16-a766-4617-a4b4-f98266a44890
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: ability  of  a  measuring  instrument  to  g1ve indications free from
-      systematic error
-  examples: []
-  id: 5.26-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: freedom from bias (of a measuring instrument)
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: ea1cbc47-2939-42da-8335-515eef62ee40
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: aptitude d'un instrument de mesure à donner des indications exemptes
-      d'erreur systématique
-  examples: []
-  id: 5.26-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: justesse (d'un instrument de mesure)
-    grammar_info:
-    - gender: f
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 7c273ffa-ed08-4253-8f8a-a21b30a5f8cf

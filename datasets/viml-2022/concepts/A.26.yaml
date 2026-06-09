@@ -75,7 +75,7 @@ data:
   sources:
   - origin:
       ref:
-        source: ISO/CEI 17000:2020
+        source: ISO/IEC 17000:2020
       locality:
         type: clause
         reference_from: '9.11'

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.16'
   localized_concepts:
@@ -10,46 +11,3 @@ data:
 status: valid
 id: ea882079-587d-4016-8eb9-586fe4fea5c5
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: fixed or movable part of a displaying device whose position with reference  to
-      the scale marks  enables  an  indicated  value  to  be determined
-  examples:
-  - content: pointer; luminous spot; liquid surface; recording pen. pointer; luminous
-      spot; liquid surface; recording pen.
-  id: 4.16-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: index
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 80078fce-88e6-4126-b686-a0446dd90f52
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: partie fixe ou mobile d'un dispositif indicateur dont la position par
-      rapport aux repères permet de déterminer une valeur indiquée
-  examples:
-  - content: a) spot surface d'un liquide; plume spot surface d'un liquide; plume
-  id: 4.16-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: index
-    grammar_info:
-    - gender: m
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 41e494cd-5c02-419b-baf6-5f932c367680

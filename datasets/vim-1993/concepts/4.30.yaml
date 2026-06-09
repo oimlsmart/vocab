@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.30'
   localized_concepts:
@@ -10,45 +11,3 @@ data:
 status: valid
 id: '02591c0f-ebfb-48d7-b271-38e56250872e'
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: operation of bringing a measuring instrument into a state of performance
-      suitable for its use
-  examples: []
-  id: 4.30-eng
-  language_code: eng
-  notes:
-  - content: Adjustment may be automatic, sem1automatic or manual.
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: adjustment (of a measuring instrument)
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 2a474bf3-eec8-46b5-98dd-c46a5102b5f6
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: opération destinée à amener un instrument de mesure à un   de fonctionnement
-      convenant à son utilisation
-  examples: []
-  id: 4.30-fra
-  language_code: fra
-  notes:
-  - content: peut être automatique, semi-automa-tique ou manuel.
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: ajustage (d'un instrument de mesure)
-    grammar_info:
-    - gender: m
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: d50a4c6e-4da6-4619-8b1a-ee28efe49d63

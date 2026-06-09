@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.12'
   localized_concepts:
@@ -10,51 +11,3 @@ data:
 status: valid
 id: 00a62c4f-d875-43d5-b96d-d89c04ec84f9
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: the coherent  system  of  units  adopted  and recommended by the General
-      Conference on Weights and Measures (CGPM)
-  examples: []
-  id: 1.12-eng
-  language_code: eng
-  notes:
-  - content: 'The SI is based at present on the following seven base units:'
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: International System of Units, SI
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: eab2f203-9512-46a6-8093-3869b4f6912b
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: système cohérent d'unités adopté et recom-mandé par la Conférence générale
-      des poids et mesures (CGPM)
-  examples: []
-  id: 1.12-fra
-  language_code: fra
-  notes:
-  - content: 'Le SI est fondé actuellement sur les sept unités de base sU1vantes:
-      Ouantity SI base unit Name Symbol length metre m mass kilogram kg time second
-      s electric current ampere A thermodynamic temperature kelvin K amount of substance
-      mole mol luminous intensity candela cd ! Grandeur Unité SI de base Nom Symbole
-      longueur mètre m masse kilogramme kg temps seconde s courant électrique ampère
-      A température thermodynamique kelvin K quantité de matière mole mol intensité
-      lumineuse candela cd'
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: Système international d'unités, SI
-    grammar_info:
-    - gender: m
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 276de175-efb2-4cf7-be87-31796fb19405

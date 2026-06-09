@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.8'
   localized_concepts:
@@ -10,44 +11,3 @@ data:
 status: valid
 id: 04d32b81-87c7-43d5-aa4d-7e874d0b1c46
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: conventional sign designating a unit of measurement
-  examples: []
-  id: 1.8-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: symbol of a unit (of measurement)
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 48e56e4d-f6f4-4ff6-9fc0-bbc52f65a18b
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: signe conventionnel désignant une unité de mesure
-  examples:
-  - content: 'mis the symbol for metre: Ais the symbol for ampere. mis the symbol
-      for metre: Ais the symbol for ampere.'
-  - content: 'm est le A est le m est le A est le du mètre:  de l''ampère.'
-  id: 1.8-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: symbole d'une unité (de mesure)
-    grammar_info:
-    - gender: m
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: d0d44a1c-64ce-46f1-b010-48bf437414d6

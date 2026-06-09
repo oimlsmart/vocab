@@ -1,3 +1,4 @@
+---
 data:
   identifier: '6.3'
   localized_concepts:
@@ -10,43 +11,3 @@ data:
 status: valid
 id: 46441e9a-23d6-448e-923e-99359dfff141
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: standard recognized by a national decision to serve, in a country, as
-      the basis for assigning values  to  other  standards  of  the  quantity concerned
-  examples: []
-  id: 6.3-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: national (measurement) standard
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 56d1e0c7-cab6-42c2-ab2e-415f60b93de3
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: étalon reconnu par une décision nationale, dans un pays, pour servir
-      de base à l'attribution de valeurs  aux  autres  étalons  de  la  grandeur concernée
-  examples: []
-  id: 6.3-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: étalon national
-    grammar_info:
-    - gender: m
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: aeb1eb2c-2d68-4e3c-a4d9-787fe70ba6a1
