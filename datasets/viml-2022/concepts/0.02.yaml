@@ -11,7 +11,7 @@ data:
   sources:
   - origin:
       ref:
-        source: OIML V2-200:2012
+        source: OIML V 2-200:2012
       locality:
         type: clause
         reference_from: '1.16'
@@ -56,7 +56,7 @@ data:
   sources:
   - origin:
       ref:
-        source: OIML V2-200:2012
+        source: OIML V 2-200:2012
       locality:
         type: clause
         reference_from: '1.16'
@@ -100,7 +100,7 @@ data:
   sources:
   - origin:
       ref:
-        source: OIML V2-200:2012
+        source: OIML V 2-200:2012
       locality:
         type: clause
         reference_from: '1.16'
