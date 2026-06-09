@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.18'
   localized_concepts:
@@ -42,9 +43,9 @@ data:
   id: 4.18-fra
   language_code: fra
   notes:
-  - content: The line may be real or imaginary, curved or straight. 2 Scale length
-      is expressed in units of length, regardiess La droite. peut être reelle ou courbe
-      ou of the units of the measurand or the units marked on the scale.
+  - content: La ligne peut être réelle ou imaginaire, courbe ou droite.
+  - content: La longueur d'échelle est exprimée en unité de longueur, quelle que soit
+      l'unité du mesurande ou l'unité marquée sur l'échelle.
   terms:
   - type: expression
     normative_status: preferred

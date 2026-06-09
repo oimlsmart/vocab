@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.1'
   localized_concepts:
@@ -21,10 +22,11 @@ data:
   id: 3.1-eng
   language_code: eng
   notes:
-  - content: 'When a result is g1ven, it should be made clear whether it refers to:
-      the indication the uncorrected result the corrected result and whether several
-      values are averaged. 2  A complete statement of the result of a measurement
-      includes information about the uncertainty of measure-ment.'
+  - content: When a result is given, it should be made clear whether it refers to:,
+      the indication, the uncorrected result, the corrected result and whether several
+      values are averaged.
+  - content: A complete statement of the result of a measurement includes information
+      about the uncertainty of measurement.
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +45,11 @@ data:
   id: 3.1-fra
   language_code: fra
   notes:
-  - content: 'Lorsqu''on donne un resultat, on indiquera clairement si l''on se réfère:
-      à l''indication au résultat brut au résultat corrigé et si cela comporte une
-      moyenne obtenue à partir de plusieurs valeurs. 2  Une expression complète du
-      résultat d''un mesurage comprend des informations sur l''incertitude de mesure.'
+  - content: Lorsqu'on donne un résultat, on indiquera clairement si l'on se réfère:,
+      à l'indication, au résultat brut, au résultat corrigé et si cela comporte une
+      moyenne obtenue à partir de plusieurs valeurs.
+  - content: Une expression complète du résultat d'un mesurage comprend des informations
+      sur l'incertitude de mesure.
   terms:
   - type: expression
     normative_status: preferred

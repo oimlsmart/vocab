@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.1'
   localized_concepts:
@@ -20,12 +21,12 @@ data:
       determined quantitatively
   examples:
   - content: 'quantities in a general sense: length, ttme, mass. temperature, electncal
-      resIstance. amount-of-substance concentration; particular quantit1es:length
+      resIstance. amount-of-substance concentration; particular quantities:length
       of a given rodelectrical resistance of a gIven specimen of wIreamount-of-substance
-      concentration of ethanol 1n a given sample of wine. quantities in a general
+      concentration of ethanol in a given sample of wine. quantities in a general
       sense: length, ttme, mass. temperature, electncal resIstance. amount-of-substance
-      concentration; particular quantit1es: length of a given rod electrical resistance
-      of a gIven specimen of wIre amount-of-substance concentration of ethanol 1n
+      concentration; particular quantities: length of a given rod electrical resistance
+      of a gIven specimen of wIre amount-of-substance concentration of ethanol in
       a given sample of wine. Ouantities that can be placed in order of magnitude
       relative to one another are called quantities of the same kind. Ouantities of
       the same kind may be grouped together into categories of quantities, for exampie:
@@ -34,7 +35,7 @@ data:
   id: 1.1-eng
   language_code: eng
   notes:
-  - content: The term quantity may refer to a quantity 1n a general sense [see example
+  - content: The term quantity may refer to a quantity in a general sense [see example
       a) l or to a particular quantity lsee example b)I.
   terms:
   - type: expression
@@ -79,7 +80,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: grandeur {mesurable)
+    designation: grandeur (mesurable)
     grammar_info:
     - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'

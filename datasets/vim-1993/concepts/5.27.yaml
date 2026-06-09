@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.27'
   localized_concepts:
@@ -23,11 +24,12 @@ data:
   id: 5.27-eng
   language_code: eng
   notes:
-  - content: 'These conditions include: reduction to a minimum of the vanat1ons due
-      to the observer the same measurement procedure the same observer the same measuring
-      equ1pn,ent, used under the same conditions the same location repet1tion over
-      a short period of time. 2 Repeatability may be expressed quantitatively in terms
-      of the dispersion characteristics of the indications.'
+  - content: These conditions include:, reduction to a minimum of the variations due
+      to the observer, the same measurement procedure, the same observer, the same
+      measuring equipment, used under the same conditions, the same location, repetition
+      over a short period of time.
+  - content: Repeatability may be expressed quantitatively in terms of the dispersion
+      characteristics of the indications.
   terms:
   - type: expression
     normative_status: preferred
@@ -48,11 +50,12 @@ data:
   id: 5.27-fra
   language_code: fra
   notes:
-  - content: 'Ces conditions comprennent: réduction au minimum des variations dues
-      à l''observateur même mode opératoire de mesure même observateur même équipement
-      de mesure, utilisé dans les mêmes conditions même lieu répétition durant une
-      courte période de temps. 2  La répétabilité peut s''exprimer quantitativement
-      à l''aide des caractéristiques de dispersion des indications.'
+  - content: Ces conditions comprennent:, réduction au minimum des variations dues
+      à l'observateur, même mode opératoire de mesure, même observateur, même équipement
+      de mesure, utilisé dans les mêmes conditions, même lieu, répétition durant une
+      courte période de temps.
+  - content: La répétabilité peut s'exprimer quantitativement à l'aide des caractéristiques
+      de dispersion des indications.
   terms:
   - type: expression
     normative_status: preferred

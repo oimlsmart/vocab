@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.12'
   localized_concepts:
@@ -23,8 +24,8 @@ data:
   language_code: eng
   notes:
   - content: For a digital displaying device, this is the change in the indication
-      when the least significant digit changes by one step. 2 This concept applies
-      also to a recording device.
+      when the least significant digit changes by one step.
+  - content: This concept applies also to a recording device.
   terms:
   - type: expression
     normative_status: preferred
@@ -44,9 +45,9 @@ data:
   id: 5.12-fra
   language_code: fra
   notes:
-  - content: Pour  un dispositif  afficheur  numérique,  différence d'indication qui
-      correspond au changement d'une unité du chiffre le moins significatif. 2 Ce
-      concept s'applique aussi à un dispositif enregistreur.
+  - content: Pour un dispositif afficheur numérique, différence d'indication qui correspond
+      au changement d'une unité du chiffre le moins significatif.
+  - content: Ce concept s'applique aussi à un dispositif enregistreur.
   terms:
   - type: expression
     normative_status: preferred

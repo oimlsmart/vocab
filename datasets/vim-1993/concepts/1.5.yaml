@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.5'
   localized_concepts:
@@ -31,7 +32,8 @@ data:
   language_code: eng
   notes:
   - content: The factors that represent the base quantities are called "dimensions"
-      of these base quantities. 2 For details of the relevant aigebra, see ISO 31-0.
+      of these base quantities.
+  - content: For details of the relevant algebra, see ISO 31-0.
   terms:
   - type: expression
     normative_status: preferred
@@ -60,9 +62,9 @@ data:
   id: 1.5-fra
   language_code: fra
   notes:
-  - content: Le facteur qui représente une grandeur de base est appelé «d1mens1onn
-      de cette grandeur de base. 2 Pour les part1cular1tés de l'algèbre des d1mens1ons,
-      voir l:SO31-0.
+  - content: Le facteur qui représente une grandeur de base est appelé «dimension»
+      de cette grandeur de base.
+  - content: Pour les particularités de l'algèbre des dimensions, voir I'ISO 31-0.
   terms:
   - type: expression
     normative_status: preferred

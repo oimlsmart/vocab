@@ -1,3 +1,4 @@
+---
 data:
   identifier: '6.1'
   localized_concepts:
@@ -28,16 +29,11 @@ data:
   id: 6.1-eng
   language_code: eng
   notes:
-  - content: 'A set  of  similar  material measures  or measunng instruments  that,  through  their  combined  use,
-      constitutes a standard is called a collective standard. 2  A set of standards
-      of chosen values that, 1ndividua\iy or in combination, provides a series of
-      values of quanfüres of the same kind is called a group standard. Dans la science
-      et la technologie, le mot anglais «standard» est utilisé avec deux significations
-      différentes: comme document normatif techni-que largement adopté, spécification,
-      recomman-dation technique  ou document  similaire  (en français «norme»), et
-      aussi comme «étalon» (en anglais  «measurement  standard))).  Seule  la deuxième
-      signification relève de ce Vocabulaire et en anglais le qualificatif «measurement))
-      est généralement omis par simplification.'
+  - content: A set of similar material measures or measuring instruments that, through
+      their combined use, constitutes a standard, is called a collective standard.
+  - content: A set of standards of chosen values that, individually or in combination,
+      provides a series of values of quantities of the same kind is called a group
+      standard.
   terms:
   - type: expression
     normative_status: preferred
@@ -67,11 +63,11 @@ data:
   id: 6.1-fra
   language_code: fra
   notes:
-  - content: Un ensernble de mesures matérialisées ou d'instru-ments de mesure semblables
-      qui, utilisés conjoin-tement.  constituent  un étalon,  est  appelé  étalon
-      collectif. 2  Un  ensemble  d'étalons  de  valeurs  choisies  qui, individuellement
-      ou par combinaison, fournissent une série de valeurs de grandeurs de même nature
-      est appelé série d'étalons.
+  - content: Un ensemble de mesures matérialisées ou d'instruments de mesure semblables
+      qui, utilisés conjointement, constituent un étalon, est appelé étalon collectif.
+  - content: Un ensemble d'étalons de valeurs choisies qui, individuellement ou par
+      combinaison, fournissent une série de valeurs de grandeurs de même nature est
+      appelé série d'étalons.
   terms:
   - type: expression
     normative_status: preferred

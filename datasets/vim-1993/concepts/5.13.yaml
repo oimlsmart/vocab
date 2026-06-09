@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.13'
   localized_concepts:
@@ -22,9 +23,9 @@ data:
   id: 5.13-eng
   language_code: eng
   notes:
-  - content: The dead band may depend on the rate of change. 2  The dead band is sometimes
-      deliberately made large to prevent change in the response for small changes
-      in the stimulus.
+  - content: The dead band may depend on the rate of change.
+  - content: The dead band is sometimes deliberately made large to prevent change
+      in the response for small changes in the stimulus.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,9 +46,9 @@ data:
   id: 5.13-fra
   language_code: fra
   notes:
-  - content: La zone morte peut dépendre de l'allure des variations. 2  La zone morte
-      est parfois délibérément augmentée pour éviter les variations de réponse dues
-      aux petites variations du signal d'entrée.
+  - content: La zone morte peut dépendre de l'allure des variations.
+  - content: La zone morte est parfois délibérément augmentée pour éviter les variations
+      de réponse dues aux petites variations du signal d'entrée.
   terms:
   - type: expression
     normative_status: preferred

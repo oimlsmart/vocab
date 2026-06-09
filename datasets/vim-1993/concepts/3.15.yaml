@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.15'
   localized_concepts:
@@ -22,9 +23,9 @@ data:
   id: 3.15-eng
   language_code: eng
   notes:
-  - content: The correction 1s equal to the negat1ve of the estimated systematic error.
-      2  Since the systematic error cannot be known perfectly, the compensation cannot
-      be complete.
+  - content: The correction is equal to the negative of the estimated systematic error.
+  - content: Since the systematic error cannot be known perfectly, the compensation
+      cannot be complete.
   terms:
   - type: expression
     normative_status: preferred
@@ -44,9 +45,9 @@ data:
   id: 3.15-fra
   language_code: fra
   notes:
-  - content: La  correction  est  égale  à  l'opposé  de  l'erreur systématique estimée.
-      2  Puisque l'erreur systématique ne peut pas être connue parfaitement,  la compensation  ne
-      peut  pas  être complète.
+  - content: La correction est egale à l'opposé de l'erreur systématique estimée.
+  - content: Puisque l'erreur systématique ne peut pas être connue parfaitement, la
+      compensation ne peut pas être complète.
   terms:
   - type: expression
     normative_status: preferred

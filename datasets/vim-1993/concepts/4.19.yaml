@@ -15,7 +15,8 @@ data:
   dates:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
-  definition: []
+  definition:
+  - content: set of values bounded by the extreme indications
   examples: []
   id: 4.19-eng
   language_code: eng
@@ -28,7 +29,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: note 2.7
+    designation: range of indication
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 11f7bc02-1673-4699-ab20-acb73c98593b

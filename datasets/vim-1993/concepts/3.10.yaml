@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.10'
   localized_concepts:
@@ -21,11 +22,15 @@ data:
   id: 3.10-eng
   language_code: eng
   notes:
-  - content: Since a true value cannot be determined, in practIce a conventional true
-      value is used (see 1.19 and 1.20). 2  When it is necessary to distinguish "error"
-      from "relative error", the former is sometimes  called absolute error of measurement.
-      This should not be confused with absolute value of error, which is the modulus
-      of the error.
+  - content: Random error is equal to error minus systematic error.
+  - content: Because only a finite number of measurements can be made, it is possible
+      to determine only an estimate of random error.
+  - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, dans la
+      pratique on utilise une valeur conventionnellement vraie (voir 1.19 et 1.20).
+  - content: Lorsqu'il est nécessaire de faire la distinction entre «l'erreur» et
+      «l'erreur relative», la première est parfois appelée «erreur absolue de mesure».
+      Il ne faut pas la confondre avec la valeur absolue de l'erreur, qui est le module
+      de l'erreur.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,10 +50,10 @@ data:
   language_code: fra
   notes:
   - content: Étant donné qu·une valeur vraie ne peut pas être déterminée, dans la
-      pratique on utilise une valeur conventionnellement vraie (voir 1.19 et 1.20).
-      2 Lorsqu'il est nécessaire de faire ia distinction entre «l'erreur)) et «l'erreur
-      relative», la première est parfois appelée «erreur absolue de mesure». Il ne
-      faut pas la confondre avec la valeur absolue de l'erreur, qui est le module
+      pratique on utilise une valeur conventionnellement vraie (voir 1.19 et 1.20)
+  - content: Lorsqu'ilest nécessaire de faire ia distinction entre «l'erreur)) et
+      «l'erreur relative», la première est parfois appelée «erreur absolue de mesure».
+      Il ne faut pas la confondre avec la valeur absolue de l'erreur, qui est le module
       de l'erreur.
   terms:
   - type: expression

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.4'
   localized_concepts:
@@ -22,8 +23,8 @@ data:
   id: 5.4-eng
   language_code: eng
   notes:
-  - content: "\"error'' is determined in relation to a conventional true value. 2
-      See 5.2 Note."
+  - content: '"error" is determined in relation to a conventional true value.'
+  - content: See 5.2 Note.
   terms:
   - type: expression
     normative_status: preferred

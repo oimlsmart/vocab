@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.14'
   localized_concepts:
@@ -22,11 +23,11 @@ data:
   id: 5.14-eng
   language_code: eng
   notes:
-  - content: 'Where stability with respect to a quantity other than time is considered,
-      this should be stated explicitly. 2  Stability may be quantified in several
-      ways, for example: in terms of the time over which a metrological characteristic
-      changes by a stated amount, or in terms of the change in a characteristic over
-      a stated time.'
+  - content: Where stability with respect to a quantity other than time is considered,
+      this should be stated explicitly.
+  - content: Stability may be quantified in several ways, for example:, in terms of
+      the time over which a metrological characteristic changes by a stated amount,
+      or, in terms of the change in a characteristic over a stated time.
   terms:
   - type: expression
     normative_status: preferred

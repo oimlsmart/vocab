@@ -1,7 +1,8 @@
+---
 data:
   identifier: '1.19'
   localized_concepts:
-    eng: 42d1b33a-9063-46cf-83b0-0ed1ca7c1652
+    eng: 42d1b33a-9063-46cf-83b0-0edica7c1652
     fra: e5eaf92a-97c1-47df-bd4d-d7ac87a99005
   domains:
   - concept_id: section-1
@@ -16,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: value consistent with the definition of a g1ven particular quantity
+  - content: value consistent with the definition of a given particular quantity
   examples: []
   id: 1.19-eng
   language_code: eng
@@ -32,7 +33,7 @@ data:
     designation: true value (of a quantity)
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
-id: 42d1b33a-9063-46cf-83b0-0ed1ca7c1652
+id: 42d1b33a-9063-46cf-83b0-0edica7c1652
 ---
 data:
   dates:
@@ -42,10 +43,10 @@ data:
   - content: valeur compatible avec la définition d'une gran-deur particulière donnée
       f\JOTES C'est une valeur que l'on obtiendrait par un mesurage parfait Toute
       valeur vraie est par nature indéterminée. L'article indéfini "une» plutôt que
-      l'article défini «la" est utilisé en con1onctIon avec «valeur vraie» parce qu'il
+      l'article défini «la" est utilisé en conionctIon avec «valeur vraie» parce qu'il
       peut y avoir plusieurs valeurs correspondant à la défini-tion d'une grandeur
       particulière donnée. Toute valeur vraie est par nature indéterminée. L'article
-      indéfini "une» plutôt que l'article défini «la" est utilisé en con1onctIon avec
+      indéfini "une» plutôt que l'article défini «la" est utilisé en conionctIon avec
       «valeur vraie» parce qu'il peut y avoir plusieurs valeurs correspondant à la
       défini-tion d'une grandeur particulière donnée.
   examples: []

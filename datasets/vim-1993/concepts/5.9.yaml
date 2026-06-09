@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.9'
   localized_concepts:
@@ -25,9 +26,10 @@ data:
   language_code: eng
   notes:
   - content: The relationship may be expressed in the form of a mathematical equation,
-      a numerical table, or a graph. 2 When the stimulus varies as a funct1on of time,
-      one form of the response characteristic is the transfer function (the Laplace
-      transform of the response divided by that of the stimulus).
+      a numerical table, or a graph.
+  - content: When the stimulus varies as a function of time, one form of the response
+      characteristic is the transfer function (the Laplace transform of the response
+      divided by that of the stimulus).
   terms:
   - type: expression
     normative_status: preferred
@@ -47,12 +49,12 @@ data:
   id: 5.9-fra
   language_code: fra
   notes:
-  - content: force électromotrice d'un thermocouple en fonction de la température.
-  - content: La relation peut s'exprimer sous la forme d'une équa-tion mathématique,
-      d'une table numérique ou d'un graphe. 2 Lorsque le signal d'entrée varie en
-      fonction du temps, la fonction de transfert (quotient de la transformée de Laplace
-      du    de sortie par la transformée de Laplace du signal d'entrée) est une forme
-      de la carac-téristique de transfert.
+  - content: La relation peut s'exprimer sous la forme d'une équation mathématique,
+      d'une table numérique ou d'un graphe.
+  - content: Lorsque le signal d'entrée varie en fonction du temps, la fonction de
+      transfert (quotient de la transformée de Laplace du signal de sortie par la
+      transformée de Laplace du signal d'entrée) est une forme de la caractéristique
+      de transfert.
   terms:
   - type: expression
     normative_status: preferred

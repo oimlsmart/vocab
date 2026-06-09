@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.8'
   localized_concepts:
@@ -23,10 +24,11 @@ data:
   id: 5.8-eng
   language_code: eng
   notes:
-  - content: Multirange measunng instruments with a single display have several instrument
-      constants that correspond, for  example,  ta  different  positions  of  a  selector
-      mechanism. 2 Where the instrument constant is the number one, it is generally
-      not shown on the instrument.
+  - content: Multirange measuring instruments with a single display have several instrument
+      constants that correspond, for example, to different positions of a selector
+      mechanism.
+  - content: Where the instrument constant is the number one, it is generally not
+      shown on the instrument.
   terms:
   - type: expression
     normative_status: preferred
@@ -49,8 +51,9 @@ data:
   notes:
   - content: Les instruments de mesure à calibres multiples et qui ne comportent qu'un
       seul affichage ont plusieurs constantes correspondant, par exemple, à différentes
-      positions d'un mécanisme sélecteur. 2 Lorsque la constante est le nombre un,
-      il n'est géné-ralement pas indiqué sur l'instrument.
+      positions d'un mécanisme sélecteur.
+  - content: Lorsque la constante est le nombre un, il n'est généralement pas indiqué
+      sur l'instrument.
   terms:
   - type: expression
     normative_status: preferred

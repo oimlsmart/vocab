@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.5'
   localized_concepts:
@@ -22,8 +23,8 @@ data:
   id: 3.5-eng
   language_code: eng
   notes:
-  - content: '"Accuracy" is a qualitative concept. 2 The term precision should not
-      be used for "accuracy".'
+  - content: '"Accuracy" is a qualitative concept.'
+  - content: The term precision should not be used for "accuracy".
   terms:
   - type: expression
     normative_status: preferred
@@ -43,8 +44,8 @@ data:
   id: 3.5-fra
   language_code: fra
   notes:
-  - content: Le concept d'«exactituden est qualitatif. 2  Le terme «précision» ne
-      doit pas être utilisé pour «exactitude».
+  - content: Le concept d'«exactitude» est qualitatif.
+  - content: Le terme «précision》 ne doit pas être utilisé pour «exactitude».
   terms:
   - type: expression
     normative_status: preferred
