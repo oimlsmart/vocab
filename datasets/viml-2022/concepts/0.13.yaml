@@ -11,7 +11,7 @@ data:
   sources:
   - origin:
       ref:
-        source: OIML V2-200:2012
+        source: OIML V 2-200:2012
       locality:
         type: clause
         reference_from: '3.5'
@@ -42,7 +42,7 @@ data:
   sources:
   - origin:
       ref:
-        source: OIML V2-200:2012
+        source: OIML V 2-200:2012
       locality:
         type: clause
         reference_from: '3.5'
@@ -70,7 +70,7 @@ data:
   sources:
   - origin:
       ref:
-        source: OIML V2-200:2012
+        source: OIML V 2-200:2012
       locality:
         type: clause
         reference_from: '3.5'
