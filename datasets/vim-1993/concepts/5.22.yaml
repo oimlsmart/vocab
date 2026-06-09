@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.22'
   localized_concepts:
@@ -10,43 +11,3 @@ data:
 status: valid
 id: 36c138e7-f0ee-4a3f-97e0-aadfd730f11d
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: error of a measuring instrument at a specified indication or a specified
-      value of the measurand, chosen for checking the instrument
-  examples: []
-  id: 5.22-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: datum error (of a measuring instrument)
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 3a33759d-8b58-4a6b-9ee1-4031aa056ff9
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: erreur d'un instrument de mesure pour une indication spécifiée ou pour
-      une valeur spécifiée du mesurande,  choisie  pour  le  contrôle  de l'instrument
-  examples: []
-  id: 5.22-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: erreur au point de contrôle (d'un instrument de mesure)
-    grammar_info:
-    - gender: f
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: de2d3168-4e85-4970-b24b-7d431e226fe1

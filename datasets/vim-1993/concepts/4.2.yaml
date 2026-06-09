@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.2'
   localized_concepts:
@@ -10,57 +11,3 @@ data:
 status: valid
 id: 70ac3a63-9b3b-4aae-86f1-7300e631b341
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: device intended to reproduce or supply, in a permanent manner during
-      its use, one or more known values of a given quantity
-  examples:
-  - content: 'a weight: a weight: De nombreux termes différents sont employés pour
-      décrire le matériel qui est utilisé pour les mesurages. Ce Vocabulaire définit
-      seulement une sélection de termes préférentiels; la liste suivante, plus complète,
-      est donnée dans un ordre approximatif de complexité croissante. Ces termes ne
-      s''excluent pas mutuellement. élément composant partie transducteur de mesure
-      dispositif de mesure matériau de référence mesure matérialisée instrument de
-      mesure { appareil de mesure appareillage équipement chaîne de mesure système
-      de mesure installation de mesure'
-  id: 4.2-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: material measure
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 4b929e5e-6737-4e57-a334-0d8f3b981694
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: dispositif destiné à reproduire ou à fournir, d'une façon permanente
-      pendant son emploi, une ou plusieurs  valeurs  connues  d'une  grandeur donnée
-  examples:
-  - content: masse marquée; a measure of volume (of one or several values, with or
-      without a scale); a standard electrical resistor; a gauge block; a standard
-      signal generator; a reference material. masse marquée; a measure of volume (of
-      one or several values, with or without a scale); a standard electrical resistor;
-      a gauge block; a standard signal generator; a reference material.
-  id: 4.2-fra
-  language_code: fra
-  notes:
-  - content: The  quantity  concerned  may  be  called  the supplied quantity.
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: mesure matérialisée
-    grammar_info:
-    - gender: f
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: da75ec15-e0bb-47f3-9e1a-874bc88aa036

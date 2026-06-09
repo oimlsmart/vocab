@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.15'
   localized_concepts:
@@ -10,51 +11,3 @@ data:
 status: valid
 id: cfdab45e-3906-43d6-9f8c-22a8426f7a96
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: unit of measurement that does not belong to a given system of units
-  examples:
-  - content: the electronvolt (about 1,602 18 x 10-19 J) Is an off-system unit of
-      energy w1th respect to the SI; day, hour, minute are off-system units of time
-      with respect to the SL the electronvolt (about 1,602 18 x 10-19 J) Is an off-system
-      unit of energy w1th respect to the SI; day, hour, minute are off-system units
-      of time with respect to the SL
-  id: 1.15-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: off-system unit (of measurement)
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 6d46df9e-12dc-4510-bd50-e23f63720ddf
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: unité de mesure qui n'appartient pas à un système d'unités donné
-  examples:
-  - content: 'l''électronvoit (environ 1,602 18 x 10-19 J) est une unité  nors systeme
-      pour le SI: le Jour, l''heure, la minute sont des unités de temps hors     pour
-      ie SI l''électronvoit (environ 1,602 18 x 10-19 J) est une unité  nors systeme
-      pour le SI: le Jour, l''heure, la minute sont des unités de temps hors     pour
-      ie SI'
-  id: 1.15-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: unité (de mesure) hors système
-    grammar_info:
-    - gender: f
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 43b4f89d-a954-4f8a-ada9-86680f8d24c6

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '6.12'
   localized_concepts:
@@ -10,47 +11,3 @@ data:
 status: valid
 id: d01a9877-84d4-4fe9-8edc-876f3caa2823
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: set of operations necessary to preserve the metrological characteristics
-      of a measurement standard within appropriate limits
-  examples: []
-  id: 6.12-eng
-  language_code: eng
-  notes:
-  - content: The  operations  commonly  include  penodic calibration, storage under
-      suitable conditions and care in use.
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: conservation of a (measurement) standard
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: c9adfb42-66b0-419c-b6f1-e57f6e7177c2
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: ensemble des opérations nécessaires à la pré-servation  des  caractéristiques
-      métrologiques d'un étalon dans des limites convenables
-  examples: []
-  id: 6.12-fra
-  language_code: fra
-  notes:
-  - content: Les opérations comprennent  habituellement un étalonnage  périodique,  un
-      stockage  dans  des conditions appropriées et des précautions iors de l'utilisation.
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: conservation d'un étalon
-    grammar_info:
-    - gender: f
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: a1d9c62b-17af-4bf5-b6d0-ad32ac460ec4

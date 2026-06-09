@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.21'
   localized_concepts:
@@ -10,44 +11,3 @@ data:
 status: valid
 id: 491132e9-1bd5-42d5-a97a-d33219d307f1
 schema_version: '3'
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: limits of permissible error (of a measuring instrument) extreme  values  of  an  error  permitted  by
-      specifications,  regulations,  etc.  for  a  given measuring instrument
-  examples: []
-  id: 5.21-eng
-  language_code: eng
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: maximum permissible errors (of a measuring instrument)
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: ad07a45d-9ec6-4dd0-b973-8872664ccc4d
----
-data:
-  dates:
-  - date: '1993-01-01T00:00:00+00:00'
-    type: accepted
-  definition:
-  - content: limites d'erreur tolérées (d'un instrument de mesure), f valeurs extrêmes
-      d'une erreur tolérées par les spécifications, règlements, etc., pour un instru-ment
-      de mesure donné
-  examples: []
-  id: 5.21-fra
-  language_code: fra
-  notes: []
-  terms:
-  - type: expression
-    normative_status: preferred
-    designation: erreurs maximales tolérées (d'un instrument de mesure)
-    grammar_info:
-    - gender: f
-date_accepted: '1993-01-01T00:00:00+00:00'
-entry_status: valid
-id: 7e836f5c-ac17-4f0f-9995-a0172de4c371
