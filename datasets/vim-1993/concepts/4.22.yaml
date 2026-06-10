@@ -16,12 +16,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: difference between the values corresponding to two successive scale marks
+  - content: difference between the values corresponding to two successive scale marks
   examples: []
   id: 4.22-eng
   language_code: eng
   notes:
- - content: Scale interval is expressed in the units marked on the scale, regardless
+  - content: Scale interval is expressed in the units marked on the scale, regardless
       of the units of the measurand.
   terms:
   - type: expression
@@ -36,13 +36,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: valeur d'une division (d'échelle), f différence entre les valeurs correspondant
+  - content: valeur d'une division (d'échelle), f différence entre les valeurs correspondant
       à deux repères successifs
   examples: []
   id: 4.22-fra
   language_code: fra
   notes:
- - content: L'échelon est exprimé en unité marquée sur l'échelle, quelle que soit
+  - content: L'échelon est exprimé en unité marquée sur l'échelle, quelle que soit
       l'unité du mesurande.
   terms:
   - type: expression

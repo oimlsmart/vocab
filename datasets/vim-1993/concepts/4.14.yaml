@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.14'
   localized_concepts:
@@ -16,10 +17,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: element of a measuring instrument or measuring chain that is directly
+  - content: element of a measuring instrument or measuring chain that is directly
       affected by the measurand
   examples:
- - content: measuring junction of a thermoelectric thermometer; rotor of a turbine
+  - content: measuring junction of a thermoelectric thermometer; rotor of a turbine
       flow meter; Bourdon tube of a pressure gauge; float of a level-measuring instrument;
       photocell of a spectrophotometer. measuring junction of a thermoelectric thermometer;
       rotor of a turbine flow meter; Bourdon tube of a pressure gauge; float of a
@@ -27,7 +28,7 @@ data:
   id: 4.14-eng
   language_code: eng
   notes:
- - content: ln some fields the term "detector" is used for this concept.
+  - content: ln some fields the term "detector" is used for this concept.
   terms:
   - type: expression
     normative_status: preferred
@@ -41,10 +42,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: élément d'un appareil de mesure ou d'une chaîne de mesure qui est directement
+  - content: élément d'un appareil de mesure ou d'une chaîne de mesure qui est directement
       soumis à l'action du mesurande
   examples:
- - content: soudure de mesure d'un thermomètre thermoélectri-que; rotor d'un débitmètre
+  - content: soudure de mesure d'un thermomètre thermoélectri-que; rotor d'un débitmètre
       à turbine; tube de Bourdon d'un manomètre; fiotteur d'un appareil de mesure
       de niveau; récepteur photoélectrique d'un spectrophotomètre. soudure de mesure
       d'un thermomètre thermoélectri-que; rotor d'un débitmètre à turbine; tube de
@@ -53,7 +54,7 @@ data:
   id: 4.14-fra
   language_code: fra
   notes:
- - content: Dans certains domaines, le terme «détecteur» est utilisé pour ce concept.
+  - content: Dans certains domaines, le terme «détecteur» est utilisé pour ce concept.
   terms:
   - type: expression
     normative_status: preferred

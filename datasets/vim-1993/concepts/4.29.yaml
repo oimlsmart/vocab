@@ -17,14 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: operation of fixing the positions of the scale marks of a measuring instrument
+  - content: operation of fixing the positions of the scale marks of a measuring instrument
       (in some cases of certain principal marks only), in relation to the corresponding
       values of the measurands
   examples: []
   id: 4.29-eng
   language_code: eng
   notes:
- - content: "(Applicable only to the French text )"
+  - content: "(Applicable only to the French text )"
   terms:
   - type: expression
     normative_status: preferred
@@ -38,14 +38,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: positionnement matériel de chaque repère (éventuellement de certains
-      repères principaux seulement)  d'un instrument de mesure en fonction  de  la  valeur  correspondante  du
-      mesurande
+  - content: positionnement matériel de chaque repère (éventuellement de certains
+      repères principaux seulement) d'un instrument de mesure en fonction de la valeur
+      correspondante du mesurande
   examples: []
   id: 4.29-fra
   language_code: fra
   notes:
- - content: Ne pas confondre «calibrage» et «étalonnage».
+  - content: Ne pas confondre «calibrage» et «étalonnage».
   terms:
   - type: expression
     normative_status: preferred

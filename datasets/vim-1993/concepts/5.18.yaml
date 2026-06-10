@@ -16,12 +16,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: ability of a measuring instrument responses dose to a true value to give
+  - content: ability of a measuring instrument responses dose to a true value to give
   examples: []
   id: 5.18-eng
   language_code: eng
   notes:
- - content: '"Accuracy" is a qualitative concept.'
+  - content: '"Accuracy" is a qualitative concept.'
   terms:
   - type: expression
     normative_status: preferred
@@ -35,13 +35,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: aptitude d'un instrument de mesure à donner des réponses proches d'une
+  - content: aptitude d'un instrument de mesure à donner des réponses proches d'une
       valeur vraie
   examples: []
   id: 5.18-fra
   language_code: fra
   notes:
- - content: Le concept d'«exactitude» est qualitatif.
+  - content: Le concept d'«exactitude» est qualitatif.
   terms:
   - type: expression
     normative_status: preferred

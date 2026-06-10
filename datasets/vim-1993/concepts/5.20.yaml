@@ -16,17 +16,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: indication of a measuring instrument minus a true value of the corresponding
+  - content: indication of a measuring instrument minus a true value of the corresponding
       input quantity
   examples: []
   id: 5.20-eng
   language_code: eng
   notes:
- - content: Since a true value cannot be determined, in practice a conventional true
+  - content: Since a true value cannot be determined, in practice a conventional true
       value is used (see 1.19 and 1.20).
- - content: This concept applies mainly where the instrument is compared to a reference
+  - content: This concept applies mainly where the instrument is compared to a reference
       standard.
- - content: For a material measure, the indication is the value assigned to it.
+  - content: For a material measure, the indication is the value assigned to it.
   terms:
   - type: expression
     normative_status: preferred
@@ -40,17 +40,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: indication d'un instrument de mesure moins une valeur vraie de la grandeur
+  - content: indication d'un instrument de mesure moins une valeur vraie de la grandeur
       d'entrée corres-pondante
   examples: []
   id: 5.20-fra
   language_code: fra
   notes:
- - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, on utilise
+  - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, on utilise
       dans la pratique une valeur conventionnellement vraie (voir 1.19 et 1.20).
- - content: Ce concept s'applique principalement lorsqu'on compare l'instrument à
+  - content: Ce concept s'applique principalement lorsqu'on compare l'instrument à
       un étalon de référence.
- - content: Pour une mesure matérialisée, l'indication est la valeur qui lui est
+  - content: Pour une mesure matérialisée, l'indication est la valeur qui lui est
       assignée.
   terms:
   - type: expression

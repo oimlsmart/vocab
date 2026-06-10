@@ -34,17 +34,17 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: extreme value of measurement error, with respect to a known reference
+  - content: extreme value of measurement error, with respect to a known reference
       quantity value, permitted by specifications or regulations for a given measurement,
       {{measuring instrument,0.10}}, or measuring system
   examples: []
   id: 0.05-eng
   notes:
- - content: Usually the term “maximum permissible errors” or “limits of error” are
+  - content: Usually the term “maximum permissible errors” or “limits of error” are
       used, where there are two extreme values.
- - content: The term “tolerance” should not be used to designate 'maximum permissible
+  - content: The term “tolerance” should not be used to designate 'maximum permissible
       error'.
- - content: Usually the term “maximum permissible error” is abbreviated to “MPE”,
+  - content: Usually the term “maximum permissible error” is abbreviated to “MPE”,
       or “mpe”.
   sources:
   - origin:
@@ -74,17 +74,17 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: valeur extrême de l'erreur de mesure, par rapport à une valeur de référence
+  - content: valeur extrême de l'erreur de mesure, par rapport à une valeur de référence
       connue, qui est tolérée par les spécifications ou règlements pour un mesurage,
       un {{instrument de mesure,0.10}} ou un système de mesure donné
   examples: []
   id: 0.05-fra
   notes:
- - content: Les termes « erreurs maximales tolérées » ou « limites d'erreur » sont
+  - content: Les termes « erreurs maximales tolérées » ou « limites d'erreur » sont
       généralement utilisés lorsqu'il y a deux valeurs extrêmes.
- - content: Il convient de ne pas utiliser le terme « tolérance » pour désigner
-      l'erreur maximale tolérée.
- - content: L'expression « erreur maximale tolérée » est couramment représentée sous
+  - content: Il convient de ne pas utiliser le terme « tolérance » pour désigner l'erreur
+      maximale tolérée.
+  - content: L'expression « erreur maximale tolérée » est couramment représentée sous
       une forme abrégée « MPE » ou « mpe ».
   sources:
   - origin:

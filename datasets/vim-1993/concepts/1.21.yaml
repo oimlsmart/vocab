@@ -16,9 +16,9 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: quotient of the value of a quantity and the unit used in its expression
+  - content: quotient of the value of a quantity and the unit used in its expression
   examples:
- - content: 'lr7 the examples In 1.18, the numbers:'
+  - content: 'lr7 the examples In 1.18, the numbers:'
   id: 1.21-eng
   language_code: eng
   notes: []
@@ -35,9 +35,9 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: nombre qui multiplie l'unité dans l'expression de la valeur d'une grandeur
+  - content: nombre qui multiplie l'unité dans l'expression de la valeur d'une grandeur
   examples:
- - content: 'dans les exemples de 1.18, les nombres: 5.34 0,152 0,012'
+  - content: 'dans les exemples de 1.18, les nombres: 5.34 0,152 0,012'
   id: 1.21-fra
   language_code: fra
   notes: []

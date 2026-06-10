@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.14'
   localized_concepts:
@@ -16,16 +17,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: mean that would result from an infinite number of measurements of the same measurand
-      carried out under repeatability conditions minus a true value of the measurand
+  - content: mean that would result from an infinite number of measurements of the
+      same measurand carried out under repeatability conditions minus a true value
+      of the measurand
   examples: []
   id: 3.14-eng
   language_code: eng
   notes:
- - content: Systematic error is equal to error minus random error.
- - content: Like true value, systematic error and its causes cannot be completely
+  - content: Systematic error is equal to error minus random error.
+  - content: Like true value, systematic error and its causes cannot be completely
       known.
- - content: For a measuring instrument, see "bias" (5.25).
+  - content: For a measuring instrument, see "bias" (5.25).
   terms:
   - type: expression
     normative_status: preferred
@@ -39,16 +41,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: moyenne qui résulterait d'un nombre infini de mesurages du même mesurande, effectués
-      dans les conditions de répétabilité, moins une valeur vraie du mesurande
+  - content: moyenne qui résulterait d'un nombre infini de mesurages du même mesurande,
+      effectués dans les conditions de répétabilité, moins une valeur vraie du mesurande
   examples: []
   id: 3.14-fra
   language_code: fra
   notes:
- - content: L'erreur systématique est égale à l'erreur moins l'erreur aléatoire.
- - content: Comme la valeur vraie, l'erreur systématique et ses causes ne peuvent
+  - content: L'erreur systématique est égale à l'erreur moins l'erreur aléatoire.
+  - content: Comme la valeur vraie, l'erreur systématique et ses causes ne peuvent
       pas être connues complètement.
- - content: Pour un instrument de mesure, voir «erreur de justesse» (5.25).
+  - content: Pour un instrument de mesure, voir «erreur de justesse» (5.25).
   terms:
   - type: expression
     normative_status: preferred

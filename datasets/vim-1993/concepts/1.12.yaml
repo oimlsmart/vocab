@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.12'
   localized_concepts:
@@ -16,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: the coherent system of units adopted and recommended by the General
-      Conference on Weights and Measures (CGPM)
+  - content: the coherent system of units adopted and recommended by the General Conference
+      on Weights and Measures (CGPM)
   examples: []
   id: 1.12-eng
   language_code: eng
   notes:
- - content: 'The SI is based at present on the following seven base units:'
+  - content: 'The SI is based at present on the following seven base units:'
   terms:
   - type: expression
     normative_status: preferred
@@ -36,13 +37,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: système cohérent d'unités adopté et recom-mandé par la Conférence générale
+  - content: système cohérent d'unités adopté et recom-mandé par la Conférence générale
       des poids et mesures (CGPM)
   examples: []
   id: 1.12-fra
   language_code: fra
   notes:
- - content: 'Le SI est fondé actuellement sur les sept unités de base sU1vantes:
+  - content: 'Le SI est fondé actuellement sur les sept unités de base sU1vantes:
       Ouantity SI base unit Name Symbol length metre m mass kilogram kg time second
       s electric current ampere A thermodynamic temperature kelvin K amount of substance
       mole mol luminous intensity candela cd ! Grandeur Unité SI de base Nom Symbole

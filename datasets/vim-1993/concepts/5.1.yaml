@@ -17,18 +17,18 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: range of indications obtainable with a particular setting of the contrais of a measuring
-      instrument
+  - content: range of indications obtainable with a particular setting of the contrais
+      of a measuring instrument
   examples: []
   id: 5.1-eng
   language_code: eng
   notes:
- - content: 'Nominal range is normally stated in terms of its lower and upper limits,
+  - content: 'Nominal range is normally stated in terms of its lower and upper limits,
       for example, "100 $ ^{\circ} \mathrm{C} $ to 200 $ ^{\circ} \mathrm{C} $ ".
       Where the lower limit is zero, the nominal range is commonly stated solely in
       terms of its upper limit: for example a nominal range of 0 V to 100 V is expressed
       as "100 V".'
- - content: See 5.2 Note.
+  - content: See 5.2 Note.
   terms:
   - type: expression
     normative_status: preferred
@@ -42,17 +42,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: étendue d'échelle que l'on obtient pour une position donnée des commandes
+  - content: étendue d'échelle que l'on obtient pour une position donnée des commandes
       d'un instru-ment de mesure
   examples: []
   id: 5.1-fra
   language_code: fra
   notes:
- - content: Le calibre est normalement exprimé par ses limites inférieure et supérieure,
+  - content: Le calibre est normalement exprimé par ses limites inférieure et supérieure,
       par exemple, « 100 °C à 200 °C". Lorsque la limite inféneure est zéro, le calibre
       est habituellement exprimé par la seule limite supé-rieure, par exemple un calibre
       de 0 V à 100 V est appelé « calibre de 100 V».
- - content: de 5.2.
+  - content: de 5.2.
   terms:
   - type: expression
     normative_status: preferred

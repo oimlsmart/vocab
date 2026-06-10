@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.10'
   localized_concepts:
@@ -16,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: change in the response of a measuring instrument divided by the
-      corresponding change in the stimulus
+  - content: change in the response of a measuring instrument divided by the corresponding
+      change in the stimulus
   examples: []
   id: 5.10-eng
   language_code: eng
   notes:
- - content: The sensitivity may depend on the value of the stimulus.
+  - content: The sensitivity may depend on the value of the stimulus.
   terms:
   - type: expression
     normative_status: preferred
@@ -36,13 +37,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: quotient de l'accroissement de la réponse d'un instrument de mesure par
+  - content: quotient de l'accroissement de la réponse d'un instrument de mesure par
       l'accroissement correspondant du signal d'entrée
   examples: []
   id: 5.10-fra
   language_code: fra
   notes:
- - content: La valeur de la sensibilité peut dépendre de la valeur du signal d'entrée.
+  - content: La valeur de la sensibilité peut dépendre de la valeur du signal d'entrée.
   terms:
   - type: expression
     normative_status: preferred

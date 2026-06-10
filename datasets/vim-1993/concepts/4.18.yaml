@@ -17,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: for a given scale, length of the smooth line between the first and last
+  - content: for a given scale, length of the smooth line between the first and last
       scale marks and passing through the centres of ail the shortest scale marks
   examples: []
   id: 4.18-eng
@@ -36,15 +36,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: pour une échelle donnée, longueur de la ligne lissée comprise entre le
+  - content: pour une échelle donnée, longueur de la ligne lissée comprise entre le
       premier et le dernier repère et passant par les milieux de tous les repères
       les plus petits
   examples: []
   id: 4.18-fra
   language_code: fra
   notes:
- - content: La ligne peut être réelle ou imaginaire, courbe ou droite.
- - content: La longueur d'échelle est exprimée en unité de longueur, quelle que soit
+  - content: La ligne peut être réelle ou imaginaire, courbe ou droite.
+  - content: La longueur d'échelle est exprimée en unité de longueur, quelle que soit
       l'unité du mesurande ou l'unité marquée sur l'échelle.
   terms:
   - type: expression

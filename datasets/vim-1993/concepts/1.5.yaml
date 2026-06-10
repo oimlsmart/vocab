@@ -17,11 +17,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: expression that represents a quantity of a system of quantities
-      as the product of powers of factors that represent the base quantities of the
-      system
+  - content: expression that represents a quantity of a system of quantities as the
+      product of powers of factors that represent the base quantities of the system
   examples:
- - content: in a system having base quantities length, mass and time, whose dimensions
+  - content: in a system having base quantities length, mass and time, whose dimensions
       are denoted by L, M and T respectively, LMT-2 is the dimension of force; in
       the same system of quantities, ML-3 is the dimension of mass concentration as
       well as of mass density. in a system having base quantities length, mass and
@@ -31,9 +30,9 @@ data:
   id: 1.5-eng
   language_code: eng
   notes:
- - content: The factors that represent the base quantities are called "dimensions"
+  - content: The factors that represent the base quantities are called "dimensions"
       of these base quantities.
- - content: For details of the relevant algebra, see ISO 31-0.
+  - content: For details of the relevant algebra, see ISO 31-0.
   terms:
   - type: expression
     normative_status: preferred
@@ -47,11 +46,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: expression qui représente une grandeur d'un système de grandeurs comme
-      le produit de puissances  de facteurs qui représentent  les grandeurs de base
+  - content: expression qui représente une grandeur d'un système de grandeurs comme
+      le produit de puissances de facteurs qui représentent les grandeurs de base
       de ce système
   examples:
- - content: dans un système qui a pour grandeurs de base la longueur, la masse et
+  - content: dans un système qui a pour grandeurs de base la longueur, la masse et
       le temps. dont les dimensions sont désignees respectivement par L. M et T. la
       dimension de la force est LMT-2; dans ce même système de grandeurs, ML-3 est
       la dimension de la concentration en masse aussi bien que celle de la masse volumique.
@@ -62,9 +61,9 @@ data:
   id: 1.5-fra
   language_code: fra
   notes:
- - content: Le facteur qui représente une grandeur de base est appelé «dimension»
+  - content: Le facteur qui représente une grandeur de base est appelé «dimension»
       de cette grandeur de base.
- - content: Pour les particularités de l'algèbre des dimensions, voir I'ISO 31-0.
+  - content: Pour les particularités de l'algèbre des dimensions, voir I'ISO 31-0.
   terms:
   - type: expression
     normative_status: preferred

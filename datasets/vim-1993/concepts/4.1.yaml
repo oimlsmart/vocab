@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.1'
   localized_concepts:
@@ -16,8 +17,8 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: device intended to be used to make measurements, alone or in coniunction with
-      supplementary device(s)
+  - content: device intended to be used to make measurements, alone or in coniunction
+      with supplementary device(s)
   examples: []
   id: 4.1-eng
   language_code: eng
@@ -35,7 +36,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: appareil de mesure, m dispositif destiné à être utilisé pour faire des
+  - content: appareil de mesure, m dispositif destiné à être utilisé pour faire des
       mesurages, seul ou associé à un ou plusieurs dispositifs annexes
   examples: []
   id: 4.1-fra

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.3'
   localized_concepts:
@@ -16,10 +17,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: rounded or approximate value of a characteristic of a measuring instrument
+  - content: rounded or approximate value of a characteristic of a measuring instrument
       that provides a guide toits use
   examples:
- - content: 100 Q as the value marked on a standard resistor; 1 L as the value marked
+  - content: 100 Q as the value marked on a standard resistor; 1 L as the value marked
       on a single-mark volumetric flask; 0,1 mol/L as the amount-of-substance concentration
       of a solution of hydrogen chloride, HCI; 25 °C as the set point of a thermostatically
       controlled bath. 100 Q as the value marked on a standard resistor; 1 L as the
@@ -42,13 +43,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: valeur arrondie ou approximative d'une carac-téristique d'un instrument
+  - content: valeur arrondie ou approximative d'une carac-téristique d'un instrument
       de mesure qui sert de guide pour son utilisation
   examples:
- - content: la valeur 100 Q sur une résistance étalon; la valeur 1 L marquée sur
+  - content: la valeur 100 Q sur une résistance étalon; la valeur 1 L marquée sur
       une fiole jaugée à un trait; la valeur 0,1 mcl/L de la concentration en quantité
       de matière d'une solution d'acide chlorhydrique, HCI; la valeur 25 °C du point
-      de consigne d'un bain thermo-statique. la valeur 100 Q  sur une résistance étalon;
+      de consigne d'un bain thermo-statique. la valeur 100 Q sur une résistance étalon;
       la valeur 1 L marquée sur une fiole jaugée à un trait; la valeur 0,1 mcl/L de
       la concentration en quantité de matière d'une solution d'acide chlorhydrique,
       HCI; la valeur 25 °C du point de consigne d'un bain thermo-statique.

@@ -17,14 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: closeness of the agreement between the result of a measurement and a
+  - content: closeness of the agreement between the result of a measurement and a
       true value of the measurand
   examples: []
   id: 3.5-eng
   language_code: eng
   notes:
- - content: '"Accuracy" is a qualitative concept.'
- - content: The term precision should not be used for "accuracy".
+  - content: '"Accuracy" is a qualitative concept.'
+  - content: The term precision should not be used for "accuracy".
   terms:
   - type: expression
     normative_status: preferred
@@ -38,14 +38,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: étroitesse de l'accord entre le résultat d'un mesurage et une valeur
+  - content: étroitesse de l'accord entre le résultat d'un mesurage et une valeur
       vraie du mesurande
   examples: []
   id: 3.5-fra
   language_code: fra
   notes:
- - content: Le concept d'«exactitude» est qualitatif.
- - content: Le terme «précision》 ne doit pas être utilisé pour «exactitude».
+  - content: Le concept d'«exactitude» est qualitatif.
+  - content: Le terme «précision》 ne doit pas être utilisé pour «exactitude».
   terms:
   - type: expression
     normative_status: preferred

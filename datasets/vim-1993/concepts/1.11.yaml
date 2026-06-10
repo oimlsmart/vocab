@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.11'
   localized_concepts:
@@ -16,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: system of units of measurement in which all of the derived units are
+  - content: system of units of measurement in which all of the derived units are
       coherent
   examples:
- - content: 'The following units (expressed by their symbols) form part of the
-      coherent system of units in mechanics within the International System of Units,
-      SI: m; kg; s; m2; m3; Hz=s-1; m-s-1; m-s-2; kg-m-3; N=kg-m-s-2; Pa=kg-m-1.s-2;
-      J=kg-m2-s-2; W=kg-m2,s-3.'
+  - content: 'The following units (expressed by their symbols) form part of the coherent
+      system of units in mechanics within the International System of Units, SI: m;
+      kg; s; m2; m3; Hz=s-1; m-s-1; m-s-2; kg-m-3; N=kg-m-s-2; Pa=kg-m-1.s-2; J=kg-m2-s-2;
+      W=kg-m2,s-3.'
   id: 1.11-eng
   language_code: eng
   notes: []
@@ -39,10 +40,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: système d'unités de mesure dans lequel toutes les unités de mesure sont
+  - content: système d'unités de mesure dans lequel toutes les unités de mesure sont
       cohérentes
   examples:
- - content: 'Les unités suivantes (expnmees par leurs symboles) font partie du système
+  - content: 'Les unités suivantes (expnmees par leurs symboles) font partie du système
       cohérent d''unités de la mécanique dans le Système international d''unités.
       SI: m; kg; s; m2; m3; Hz=s-1; m-s-1; m-s-2; kg-m-3; N=kg-m-s-2; Pa=kg-m-î.s-2;
       J=kg-m2-s-2: W=kg-m2-s-3.'

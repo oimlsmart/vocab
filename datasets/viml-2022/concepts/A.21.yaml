@@ -34,14 +34,14 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: temporary restriction of the statement of conformity by the body that
-      issued the statement, for all or part of the specified scope of  {{attestation,A.15}}
+  - content: temporary restriction of the statement of conformity by the body that
+      issued the statement, for all or part of the specified scope of {{attestation,A.15}}
   examples:
- - content: The issuing body suspends the statement of conformity because the specified
+  - content: The issuing body suspends the statement of conformity because the specified
       requirements are no longer fulfilled.
- - content: The client of the issuing body voluntarily requests suspension of the
+  - content: The client of the issuing body voluntarily requests suspension of the
       statement of conformity.
- - content: The issuing body suspends the statement of conformity because it temporarily
+  - content: The issuing body suspends the statement of conformity because it temporarily
       ceases to perform that type of conformity assessment activity.
   id: A.21-eng
   notes: []
@@ -67,15 +67,15 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: restriction temporaire de l’affirmation de conformité par l’organisme
-      ayant délivré l’affirmation, pour une partie ou l’ensemble de la portée  d'{{attestation,A.15}}
+  - content: restriction temporaire de l’affirmation de conformité par l’organisme
+      ayant délivré l’affirmation, pour une partie ou l’ensemble de la portée d'{{attestation,A.15}}
       spécifiée
   examples:
- - content: L’organisme qui délivre l’affirmation de conformité la suspend, car les
+  - content: L’organisme qui délivre l’affirmation de conformité la suspend, car les
       exigences spécifiées ne sont plus respectées.
- - content: Le client de l’organisme qui délivre l’affirmation de conformité demande
+  - content: Le client de l’organisme qui délivre l’affirmation de conformité demande
       volontairement sa suspension.
- - content: L’organisme qui délivre l’affirmation de conformité suspend cette dernière,
+  - content: L’organisme qui délivre l’affirmation de conformité suspend cette dernière,
       car il cesse temporairement de réaliser ce type d’activité d’évaluation de la
       conformité.
   id: A.21-fra

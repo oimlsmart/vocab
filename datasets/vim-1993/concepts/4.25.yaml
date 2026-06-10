@@ -16,12 +16,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: scale whose scale range does not include the value zero
+  - content: scale whose scale range does not include the value zero
   examples: []
   id: 4.25-eng
   language_code: eng
   notes:
- - content: scale of a clinical thermometer.
+  - content: scale of a clinical thermometer.
   terms:
   - type: expression
     normative_status: preferred
@@ -35,12 +35,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: échelle dont l'étendue ne comporte pas la valeur zéro
+  - content: échelle dont l'étendue ne comporte pas la valeur zéro
   examples: []
   id: 4.25-fra
   language_code: fra
   notes:
- - content: échelle d'un thermomètre médical.
+  - content: échelle d'un thermomètre médical.
   terms:
   - type: expression
     normative_status: preferred

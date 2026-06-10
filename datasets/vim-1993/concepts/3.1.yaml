@@ -17,15 +17,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: value attributed to a measurand, obtained by measurement
+  - content: value attributed to a measurand, obtained by measurement
   examples: []
   id: 3.1-eng
   language_code: eng
   notes:
- - content: When a result is given, it should be made clear whether it refers to:,
+  - content: When a result is given, it should be made clear whether it refers to:,
       the indication, the uncorrected result, the corrected result and whether several
       values are averaged.
- - content: A complete statement of the result of a measurement includes information
+  - content: A complete statement of the result of a measurement includes information
       about the uncertainty of measurement.
   terms:
   - type: expression
@@ -40,15 +40,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: valeur attribuée à un mesurande, obtenue par mesurage
+  - content: valeur attribuée à un mesurande, obtenue par mesurage
   examples: []
   id: 3.1-fra
   language_code: fra
   notes:
- - content: Lorsqu'on donne un résultat, on indiquera clairement si l'on se réfère:,
+  - content: Lorsqu'on donne un résultat, on indiquera clairement si l'on se réfère:,
       à l'indication, au résultat brut, au résultat corrigé et si cela comporte une
       moyenne obtenue à partir de plusieurs valeurs.
- - content: Une expression complète du résultat d'un mesurage comprend des informations
+  - content: Une expression complète du résultat d'un mesurage comprend des informations
       sur l'incertitude de mesure.
   terms:
   - type: expression

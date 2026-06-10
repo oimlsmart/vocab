@@ -16,13 +16,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: smaller unit of measurement that is formed from a given unit according
+  - content: smaller unit of measurement that is formed from a given unit according
       to scaling conventions
   examples: []
   id: 1.17-eng
   language_code: eng
   notes:
- - content: one of the decimal submuitiples of the metre is the millimetre.
+  - content: one of the decimal submuitiples of the metre is the millimetre.
   terms:
   - type: expression
     normative_status: preferred
@@ -36,13 +36,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: unité de mesure plus petite formée à partir d'une unité donnée selon
+  - content: unité de mesure plus petite formée à partir d'une unité donnée selon
       des conventions d'échelonnement
   examples: []
   id: 1.17-fra
   language_code: fra
   notes:
- - content: l'un des sous-multiples décimaux du mètre est le millimètre.
+  - content: l'un des sous-multiples décimaux du mètre est le millimètre.
   terms:
   - type: expression
     normative_status: preferred

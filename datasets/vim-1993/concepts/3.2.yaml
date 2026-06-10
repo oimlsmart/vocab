@@ -16,16 +16,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: value of a quantity provided by a measuring instrument
+  - content: value of a quantity provided by a measuring instrument
   examples: []
   id: 3.2-eng
   language_code: eng
   notes:
- - content: The value read from the displaying device may be called the direct indication;
+  - content: The value read from the displaying device may be called the direct indication;
       it is multiplied by the instrument constant to give the indication.
- - content: The quantity may be the measurand, a measurement signal, or another quantity
+  - content: The quantity may be the measurand, a measurement signal, or another quantity
       to be used in calculating the value of the measurand.
- - content: For a material measure, the indication is the value assigned to it.
+  - content: For a material measure, the indication is the value assigned to it.
   terms:
   - type: expression
     normative_status: preferred
@@ -39,17 +39,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: valeur d'une grandeur fournie par un instrument de mesure
+  - content: valeur d'une grandeur fournie par un instrument de mesure
   examples: []
   id: 3.2-fra
   language_code: fra
   notes:
- - content: La valeur lue sur le dispositif d'affichage peut être appelée indication
+  - content: La valeur lue sur le dispositif d'affichage peut être appelée indication
       directe; elle doit être multipliée par la constante de l'instrument pour obtenir
       l'indication.
- - content: La grandeur peut être le mesurande, un signal de mesure ou une autre
+  - content: La grandeur peut être le mesurande, un signal de mesure ou une autre
       grandeur utilisée pour calculer la valeur du mesurande.
- - content: Pour une mesure matérialisée, l'indication est la valeur qui lui est
+  - content: Pour une mesure matérialisée, l'indication est la valeur qui lui est
       assignée.
   terms:
   - type: expression

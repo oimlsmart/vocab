@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.21'
   localized_concepts:
@@ -16,8 +17,9 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: limits of permissible error (of a measuring instrument) extreme values of an error permitted by
-      specifications,  regulations,  etc.  for  a  given measuring instrument
+  - content: limits of permissible error (of a measuring instrument) extreme values
+      of an error permitted by specifications, regulations, etc. for a given measuring
+      instrument
   examples: []
   id: 5.21-eng
   language_code: eng
@@ -35,7 +37,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: limites d'erreur tolérées (d'un instrument de mesure), f valeurs extrêmes
+  - content: limites d'erreur tolérées (d'un instrument de mesure), f valeurs extrêmes
       d'une erreur tolérées par les spécifications, règlements, etc., pour un instru-ment
       de mesure donné
   examples: []

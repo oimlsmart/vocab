@@ -16,20 +16,20 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: part of a measuring instrument that displays an indication
+  - content: part of a measuring instrument that displays an indication
   examples: []
   id: 4.12-eng
   language_code: eng
   notes:
- - content: This term may include the device by which the value supplied by a material
+  - content: This term may include the device by which the value supplied by a material
       measure is displayed or set.
- - content: An analogue displaying device provides an analogue display; a digital
+  - content: An analogue displaying device provides an analogue display; a digital
       display device provides a digital display.
- - content: A form of presentation of the display either by means of a digital display
+  - content: A form of presentation of the display either by means of a digital display
       in which the least significant digit moves continuously, thus permitting interpolation,
       or by means of a digital display supplemented by a scale and index, is called
       a semidigital display.
- - content: The English term readout device is used as a general descriptor of the
+  - content: The English term readout device is used as a general descriptor of the
       means whereby the response of a measuring instrument is made available.
   terms:
   - type: expression
@@ -44,21 +44,21 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: dispositif indicateur, m partie d'un appareil de mesure qui affiche une
+  - content: dispositif indicateur, m partie d'un appareil de mesure qui affiche une
       indication
   examples: []
   id: 4.12-fra
   language_code: fra
   notes:
- - content: Ce terme peut inclure le dispositif à l'aide duquel la valeur fournie
+  - content: Ce terme peut inclure le dispositif à l'aide duquel la valeur fournie
       par une mesure matérialisée est affichée ou réglée.
- - content: Un dispositif d'affichage analogique fournit un affichage analogique;
+  - content: Un dispositif d'affichage analogique fournit un affichage analogique;
       un dispositif d'affichage numérique fournit un affichage numérique.
- - content: Une forme de présentation de l'affichage, soit au moyen d'un affichage
+  - content: Une forme de présentation de l'affichage, soit au moyen d'un affichage
       numérique dans lequel le chiffre le moins significatif se déplace continuellement,
       permettant ainsi l'interpolation, soit au moyen d'un affichage numérique complété
       par une échelle et un index, est appelé affichage semi-numérique.
- - content: "(Applicable uniquement au texte anglais.)"
+  - content: "(Applicable uniquement au texte anglais.)"
   terms:
   - type: expression
     normative_status: preferred
