@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.19'
   localized_concepts:
@@ -11,3 +10,47 @@ data:
 status: valid
 id: a544f198-c7f7-4386-961c-8a2417b0005d
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: class of measuring instruments that meet certain metrological requirements that are
+      intended to keep errors within specified limits
+  examples: []
+  id: 5.19-eng
+  language_code: eng
+  notes:
+ - content: An accuracy class is usually denoted by a number or symbol adopted by
+      convention and called the class index.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accuracy class
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: b57aa090-2e53-4944-b4d1-64566b40d29a
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: classe d'instruments de mesure qui satisfont à certaines exigences métrologiques
+      destinées à conserver les erreurs dans des limites spécifiées
+  examples: []
+  id: 5.19-fra
+  language_code: fra
+  notes:
+ - content: Une classe d'exactitude est habituellement indiquée par un nombre
+      ou symbole adopté par convention et dénommé indice de classe.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: classe d'exactitude
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 61653943-8618-4192-a031-6ec53fc14b96

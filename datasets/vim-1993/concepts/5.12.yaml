@@ -11,3 +11,49 @@ data:
 status: valid
 id: 6bc99a7f-6e54-41e1-aafd-c6f96264cabb
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: smallest difference between indications of a displaying device that can be meaningfully
+      distinguished
+  examples: []
+  id: 5.12-eng
+  language_code: eng
+  notes:
+ - content: For a digital displaying device, this is the change in the indication
+      when the least significant digit changes by one step.
+ - content: This concept applies also to a recording device.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resolution (of a displaying device)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 8c04cb4c-846a-4b63-9783-501da8909b49
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: la plus petite différence d'indication d'un dispo-sitif afficheur qui
+      peut être perçue de manière significative
+  examples: []
+  id: 5.12-fra
+  language_code: fra
+  notes:
+ - content: Pour un dispositif afficheur numérique, différence d'indication qui correspond
+      au changement d'une unité du chiffre le moins significatif.
+ - content: Ce concept s'applique aussi à un dispositif enregistreur.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résolution (d'un dispositif afficheur)
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 702fb9b8-d17c-478e-8924-3ab5a53f155e

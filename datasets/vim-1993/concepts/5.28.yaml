@@ -17,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: error of a measuring instrument divided by a value specified for the
+ - content: error of a measuring instrument divided by a value specified for the
       instrument
   examples: []
   id: 5.28-eng
   language_code: eng
   notes:
-  - content: The specified value is generally called the fiducial value, and may be,
+ - content: The specified value is generally called the fiducial value, and may be,
       for example, the span or the upper limit of the nominal range of the measuring
       instrument.
   terms:
@@ -39,13 +39,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: rapport de l'erreur d'un instrument de mesure à une valeur spécifiée
+ - content: rapport de l'erreur d'un instrument de mesure à une valeur spécifiée
       pour l'instrument
   examples: []
   id: 5.28-fra
   language_code: fra
   notes:
-  - content: La valeur spécifiée est généralement appelée valeur conventionnelle et
+ - content: La valeur spécifiée est généralement appelée valeur conventionnelle et
       peut être, par exemple, l'intervalle de mesure ou la limite supérieure du calibre
       de l'instrument de mesure
   terms:

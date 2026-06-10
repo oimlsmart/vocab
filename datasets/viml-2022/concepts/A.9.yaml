@@ -28,3 +28,66 @@ related:
 status: valid
 id: 231acb27-95f6-5cb9-807c-cb2c85923cfa
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: selection and/or collection of material or data regarding an object of
+      {{conformity assessment,A.1}}
+  examples: []
+  id: A.9-eng
+  notes:
+ - content: Selection can be on the basis of a procedure, an automated system, professional
+      judgement etc.
+ - content: Selection and collection can be performed by the same or different persons
+      or organizations.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sampling
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 673eebce-691d-5837-9e22-9d2de0729835
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: sélection et/ou collecte de matériaux ou de données relatives à un objet
+      de  l'{{évaluation de la conformité,A.1}}
+  examples: []
+  id: A.9-fra
+  notes:
+ - content: 'à l’article: La sélection peut se faire sur la base d’une procédure,
+      d’un système automatisé, d’un jugement professionnel, etc.'
+ - content: 'à l’article: La sélection et la collecte peuvent être réalisées par
+      les mêmes personnes ou organisations, ou par des personnes ou organisations
+      différentes.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '6.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: échantillonnage
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: fab50416-3e01-5e2a-bba0-cfae530c5db7

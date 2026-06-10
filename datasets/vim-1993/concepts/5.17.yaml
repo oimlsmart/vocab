@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.17'
   localized_concepts:
@@ -11,3 +10,45 @@ data:
 status: valid
 id: 5d46adbd-c14a-4f2d-be7b-a285480910f2
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: time interval between the instant when a stimulus is subjected to a specified abrupt
+      change  and the  instant  when the response reaches  and  remains  within  specified  limits
+      around its final steady value
+  examples: []
+  id: 5.17-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: response time
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9234287b-1529-43bf-a8ef-53f88ed94c27
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: intervalle de temps compris entre le moment où un signal d'entrée subit
+      un changement brusque spécifié et le moment où le signal de sortie atteint dans
+      des limites spécifiées, sa valeur finale en régime établi et s'y maintient
+  examples: []
+  id: 5.17-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de réponse
+    grammar_info:
+    - gender: m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 991120a7-082e-489e-9dc2-2eeb28fb5844

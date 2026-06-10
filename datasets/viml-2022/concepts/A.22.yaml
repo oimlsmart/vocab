@@ -34,5 +34,63 @@ related:
     source: urn:oiml:pub:v:1:2013
     id: A.22
 status: valid
-id: '08977df5-4eb3-5c8e-b6d7-fe3bfb5f5db9'
+id: 08977df5-4eb3-5c8e-b6d7-fe3bfb5f5db9
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: request by the person or organization that provides, or that is, the object
+      of {{conformity assessment,A.1}} to a {{conformity assessment body,A.2}} or
+      an {{accreditation body,A.3}} for reconsideration by that body of a decision
+      it has made relating to that object
+  examples: []
+  id: A.22-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appeal
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c7eac6f5-8f12-572f-8a2c-79c43410d0f1
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: demande adressée par la personne ou l’organisation qui fournit ou qui
+      est l’objet de l'{{évaluation de la conformité,A.1}} à un {{organisme de l'évaluation
+      de la conformité,A.2}} ou à un {{organisme d'accréditation,A.3}} pour que cet
+      organisme reconsidère une décision déjà prise relative à cet objet
+  examples: []
+  id: A.22-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '8.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appel
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 618f47ee-1012-58fa-b376-6db4f835ca2e

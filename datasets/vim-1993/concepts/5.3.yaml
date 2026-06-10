@@ -1,4 +1,3 @@
----
 data:
   identifier: '5.3'
   localized_concepts:
@@ -11,3 +10,57 @@ data:
 status: valid
 id: 6a4ec82d-10f1-4d60-99fb-3f879a46333e
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: rounded or approximate value of a characteristic of a measuring instrument
+      that provides a guide toits use
+  examples:
+ - content: 100 Q as the value marked on a standard resistor; 1 L as the value marked
+      on a single-mark volumetric flask; 0,1 mol/L as the amount-of-substance concentration
+      of a solution of hydrogen chloride, HCI; 25 °C as the set point of a thermostatically
+      controlled bath. 100 Q as the value marked on a standard resistor; 1 L as the
+      value marked on a single-mark volumetric flask; 0,1 mol/L as the amount-of-substance
+      concentration of a solution of hydrogen chloride, HCI; 25 °C as the set point
+      of a thermostatically controlled bath.
+  id: 5.3-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal value
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 23857516-a997-48c8-9bef-8173b94878be
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: valeur arrondie ou approximative d'une carac-téristique d'un instrument
+      de mesure qui sert de guide pour son utilisation
+  examples:
+ - content: la valeur 100 Q sur une résistance étalon; la valeur 1 L marquée sur
+      une fiole jaugée à un trait; la valeur 0,1 mcl/L de la concentration en quantité
+      de matière d'une solution d'acide chlorhydrique, HCI; la valeur 25 °C du point
+      de consigne d'un bain thermo-statique. la valeur 100 Q  sur une résistance étalon;
+      la valeur 1 L marquée sur une fiole jaugée à un trait; la valeur 0,1 mcl/L de
+      la concentration en quantité de matière d'une solution d'acide chlorhydrique,
+      HCI; la valeur 25 °C du point de consigne d'un bain thermo-statique.
+  id: 5.3-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur nominale
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2f95e82c-f378-48a2-9e9e-da715904885e

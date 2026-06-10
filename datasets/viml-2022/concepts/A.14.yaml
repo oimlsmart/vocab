@@ -32,3 +32,61 @@ related:
 status: valid
 id: 3240f187-38fe-565f-8bb4-8dabf18d6605
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: consideration of the suitability, adequacy and effectiveness of selection
+      and determination activities, and the results of these activities, with regard
+      to fulfilment of  {{specified requirements,A.6}} by an object of {{conformity
+      assessment,A.1}}
+  examples: []
+  id: A.14-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: review
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 4132a3de-c588-572a-bdb6-10065b6987df
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: prise en compte de la pertinence, de l’adéquation et de l’efficacité
+      des activités de sélection et de détermination, et de leurs résultats, en ce
+      qui concerne le respect, par un objet de l'{{évaluation de la conformité,A.1}},
+      d'{{exigences spécifiées,A.6}}
+  examples: []
+  id: A.14-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.1'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: revue
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: a8cffa56-a86e-5abd-9546-d6efae8950ab

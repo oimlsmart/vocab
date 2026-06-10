@@ -17,14 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: value consistent with the definition of a given particular quantity
+ - content: value consistent with the definition of a given particular quantity
   examples: []
   id: 1.19-eng
   language_code: eng
   notes:
-  - content: This is a value that would be obtained by a perfect measurement.
-  - content: True values are by nature indeterminate.
-  - content: The indefinite article "a", rather than the definite article "the", is
+ - content: This is a value that would be obtained by a perfect measurement.
+ - content: True values are by nature indeterminate.
+ - content: The indefinite article "a", rather than the definite article "the", is
       used in conjunction with "true value" because there may be many values consistent
       with the definition of a given particular quantity.
   terms:
@@ -40,7 +40,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: valeur compatible avec la définition d'une gran-deur particulière donnée
+ - content: valeur compatible avec la définition d'une gran-deur particulière donnée
       f\JOTES C'est une valeur que l'on obtiendrait par un mesurage parfait Toute
       valeur vraie est par nature indéterminée. L'article indéfini "une» plutôt que
       l'article défini «la" est utilisé en conionctIon avec «valeur vraie» parce qu'il
@@ -53,9 +53,9 @@ data:
   id: 1.19-fra
   language_code: fra
   notes:
-  - content: C'est une valeur que l'on obtiendrait par un mesurage parfait.
-  - content: Toute valeur vraie est par nature indéterminée.
-  - content: L'article indéfini «une» plutôt que l'article défini «la» est utilisé
+ - content: C'est une valeur que l'on obtiendrait par un mesurage parfait.
+ - content: Toute valeur vraie est par nature indéterminée.
+ - content: L'article indéfini «une» plutôt que l'article défini «la» est utilisé
       en conjonction avec «valeur vraie» parce qu'il peut y avoir plusieurs valeurs
       correspondant à la définition d'une grandeur particulière donnée.
   terms:

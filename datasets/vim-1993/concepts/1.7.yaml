@@ -11,3 +11,52 @@ data:
 status: valid
 id: 94a334b5-69e9-4db4-bcab-1e2e1a09e841
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: particular quantity, defined and adopted by convention, with which
+      other quantities of the same kind are compared in order to express their magnitudes
+      relative to that quantity
+  examples: []
+  id: 1.7-eng
+  language_code: eng
+  notes:
+ - content: Units of measurement have conventionally assigned names and symbols.
+ - content: Units of quantities of the same dimension may have the same names and
+      symbols even when the quantities are not of the same kind.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit (of measurement)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 2b433153-2165-4298-883e-9107e9900b7b
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: grandeur particulière, définie et adoptée par convention, à laquelle
+      on compare les autres grandeurs de même nature pour les exprimer quantitativement
+      par rapport à cette grandeur
+  examples: []
+  id: 1.7-fra
+  language_code: fra
+  notes:
+ - content: Des noms et des symboles sont attribués par convention aux unités de
+      mesure.
+ - content: Les unités de grandeurs qui ont la même dimension peuvent avoir le même
+      nom et le même symbole, même si ces grandeurs ne sont pas de même nature.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité (de mesure)
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 93671449-f58e-4c45-b5a0-45120affbe36

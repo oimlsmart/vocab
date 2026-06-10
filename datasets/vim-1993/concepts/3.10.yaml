@@ -17,17 +17,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: result of a measurement minus a true value of the measurand
+ - content: result of a measurement minus a true value of the measurand
   examples: []
   id: 3.10-eng
   language_code: eng
   notes:
-  - content: Random error is equal to error minus systematic error.
-  - content: Because only a finite number of measurements can be made, it is possible
+ - content: Random error is equal to error minus systematic error.
+ - content: Because only a finite number of measurements can be made, it is possible
       to determine only an estimate of random error.
-  - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, dans la
+ - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, dans la
       pratique on utilise une valeur conventionnellement vraie (voir 1.19 et 1.20).
-  - content: Lorsqu'il est nécessaire de faire la distinction entre «l'erreur» et
+ - content: Lorsqu'il est nécessaire de faire la distinction entre «l'erreur» et
       «l'erreur relative», la première est parfois appelée «erreur absolue de mesure».
       Il ne faut pas la confondre avec la valeur absolue de l'erreur, qui est le module
       de l'erreur.
@@ -44,14 +44,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: résultat d'un mesurage moins une valeur vraie du mesurande
+ - content: résultat d'un mesurage moins une valeur vraie du mesurande
   examples: []
   id: 3.10-fra
   language_code: fra
   notes:
-  - content: Étant donné qu·une valeur vraie ne peut pas être déterminée, dans la
+ - content: Étant donné qu·une valeur vraie ne peut pas être déterminée, dans la
       pratique on utilise une valeur conventionnellement vraie (voir 1.19 et 1.20)
-  - content: Lorsqu'ilest nécessaire de faire ia distinction entre «l'erreur)) et
+ - content: Lorsqu'ilest nécessaire de faire ia distinction entre «l'erreur)) et
       «l'erreur relative», la première est parfois appelée «erreur absolue de mesure».
       Il ne faut pas la confondre avec la valeur absolue de l'erreur, qui est le module
       de l'erreur.

@@ -17,14 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: maximum interval through which a stimulus may be changed in both directions
+ - content: maximum interval through which a stimulus may be changed in both directions
       without producing a change in response of a measuring instrument
   examples: []
   id: 5.13-eng
   language_code: eng
   notes:
-  - content: The dead band may depend on the rate of change.
-  - content: The dead band is sometimes deliberately made large to prevent change
+ - content: The dead band may depend on the rate of change.
+ - content: The dead band is sometimes deliberately made large to prevent change
       in the response for small changes in the stimulus.
   terms:
   - type: expression
@@ -39,15 +39,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: intervalle maximal à l'intérieur duquel on peut faire varier le signal
+ - content: intervalle maximal à l'intérieur duquel on peut faire varier le signal
       d'entrée dans les deux sens sans provoquer de variation de la réponse d'un instrument
       de mesure
   examples: []
   id: 5.13-fra
   language_code: fra
   notes:
-  - content: La zone morte peut dépendre de l'allure des variations.
-  - content: La zone morte est parfois délibérément augmentée pour éviter les variations
+ - content: La zone morte peut dépendre de l'allure des variations.
+ - content: La zone morte est parfois délibérément augmentée pour éviter les variations
       de réponse dues aux petites variations du signal d'entrée.
   terms:
   - type: expression

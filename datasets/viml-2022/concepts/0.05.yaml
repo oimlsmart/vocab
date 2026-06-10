@@ -28,3 +28,80 @@ related:
 status: valid
 id: 98b77369-c2e5-51a7-b888-d197fd45ee6a
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: extreme value of measurement error, with respect to a known reference
+      quantity value, permitted by specifications or regulations for a given measurement,
+      {{measuring instrument,0.10}}, or measuring system
+  examples: []
+  id: 0.05-eng
+  notes:
+ - content: Usually the term “maximum permissible errors” or “limits of error” are
+      used, where there are two extreme values.
+ - content: The term “tolerance” should not be used to designate 'maximum permissible
+      error'.
+ - content: Usually the term “maximum permissible error” is abbreviated to “MPE”,
+      or “mpe”.
+  sources:
+  - origin:
+      ref:
+        source: OIML V 2-200:2012
+      locality:
+        type: clause
+        reference_from: '4.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum permissible measurement error
+  - type: expression
+    normative_status: admitted
+    designation: maximum permissible error
+  - type: expression
+    normative_status: admitted
+    designation: limit of error
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: ea4fd6e8-bb18-5e0c-a6a1-cbc0bb0f0881
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: valeur extrême de l'erreur de mesure, par rapport à une valeur de référence
+      connue, qui est tolérée par les spécifications ou règlements pour un mesurage,
+      un {{instrument de mesure,0.10}} ou un système de mesure donné
+  examples: []
+  id: 0.05-fra
+  notes:
+ - content: Les termes « erreurs maximales tolérées » ou « limites d'erreur » sont
+      généralement utilisés lorsqu'il y a deux valeurs extrêmes.
+ - content: Il convient de ne pas utiliser le terme « tolérance » pour désigner
+      l'erreur maximale tolérée.
+ - content: L'expression « erreur maximale tolérée » est couramment représentée sous
+      une forme abrégée « MPE » ou « mpe ».
+  sources:
+  - origin:
+      ref:
+        source: OIML V 2-200:2012
+      locality:
+        type: clause
+        reference_from: '4.26'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erreur maximale tolérée
+  - type: expression
+    normative_status: admitted
+    designation: limite d'erreur
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 0da94796-3734-55ea-9dbf-e8c7ec3d7a5f
