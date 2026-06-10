@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.5'
   localized_concepts:
@@ -16,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: conditions of use for which specified metro-logical characteristics of
+  - content: conditions of use for which specified metro-logical characteristics of
       a measuring instrument are intended to lie within given limits
   examples: []
   id: 5.5-eng
   language_code: eng
   notes:
- - content: The rated operating conditions generally specify ranges or rated values
+  - content: The rated operating conditions generally specify ranges or rated values
       of the measurand and of the influence quantities.
   terms:
   - type: expression
@@ -37,14 +38,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: conditions d'utilisation pour lesquelles les carac-téristiques métrologiques
-      spécifiées d'un instru-ment de mesure  sont supposées  comprises entre des limites
+  - content: conditions d'utilisation pour lesquelles les carac-téristiques métrologiques
+      spécifiées d'un instru-ment de mesure sont supposées comprises entre des limites
       données
   examples: []
   id: 5.5-fra
   language_code: fra
   notes:
- - content: Les conditions assignées de fonctionnement spéci-fient généralement des
+  - content: Les conditions assignées de fonctionnement spéci-fient généralement des
       valeurs assignées pour le mesurande et pour les grandeurs d'influence.
   terms:
   - type: expression

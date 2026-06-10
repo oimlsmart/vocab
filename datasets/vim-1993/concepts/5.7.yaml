@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.7'
   localized_concepts:
@@ -16,14 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: conditions of use prescribed for testing the performance of a measuring
+  - content: conditions of use prescribed for testing the performance of a measuring
       instrument or for intercomparison of results of measurements
   examples: []
   id: 5.7-eng
   language_code: eng
   notes:
- - content: The reference conditions generally include reference values or reference
-      ranges for the influence  quantities  affecting  the  measuring instrument.
+  - content: The reference conditions generally include reference values or reference
+      ranges for the influence quantities affecting the measuring instrument.
   terms:
   - type: expression
     normative_status: preferred
@@ -37,13 +38,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: conditions d'utilisation prescrites pour les essais de fonctionnement
-      d'un instrument de mesure ou  pour  l'intercomparaison  de  résultats  de mesures
+  - content: conditions d'utilisation prescrites pour les essais de fonctionnement
+      d'un instrument de mesure ou pour l'intercomparaison de résultats de mesures
   examples: []
   id: 5.7-fra
   language_code: fra
   notes:
- - content: Les conditions de référence comprennent généra-lement des valeurs de
+  - content: Les conditions de référence comprennent généra-lement des valeurs de
       référence ou des étendues de référence pour les grandeurs d'influence affec-tant
       l'instrument de mesure.
   terms:

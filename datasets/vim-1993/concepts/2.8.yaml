@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.8'
   localized_concepts:
@@ -16,10 +17,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: quantity that represents the measurand and which is functionally related
+  - content: quantity that represents the measurand and which is functionally related
       to it
   examples:
- - content: 'the electrical output signal of a pressure transducer: the frequency
+  - content: 'the electrical output signal of a pressure transducer: the frequency
       from a voltage-to-frequency converter: the electromotive force of an electrochemical
       concen-tration cell used to measure a difference in concen-tration. the electrical
       output signal of a pressure transducer: the frequency from a voltage-to-frequency
@@ -28,7 +29,7 @@ data:
   id: 2.8-eng
   language_code: eng
   notes:
- - content: The input signal to a measunng system may be called the stimulus; the
+  - content: The input signal to a measunng system may be called the stimulus; the
       output signal may be called the response.
   terms:
   - type: expression
@@ -43,10 +44,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: grandeur qui représente le mesurande et qui lui est fonctionnellement
+  - content: grandeur qui représente le mesurande et qui lui est fonctionnellement
       liée
   examples:
- - content: le signal électrique de sortie d'un transducteur de pression; la fréquence
+  - content: le signal électrique de sortie d'un transducteur de pression; la fréquence
       fournie par un convertisseur de tension-fréquence; le signal électrique de sortie
       d'un transducteur de pression; la fréquence fournie par un convertisseur de
       tension-fréquence; cl la force électromotrice d'une cellule électrochimique
@@ -54,9 +55,8 @@ data:
   id: 2.8-fra
   language_code: fra
   notes:
- - content: Le signal d'entrée d'un système peut être appelé «stimulus» en anglais;
-      le signal de sortie peut être appelé «réponse». 20                                                     Mrno:ogy
-      1993
+  - content: Le signal d'entrée d'un système peut être appelé «stimulus» en anglais;
+      le signal de sortie peut être appelé «réponse». 20 Mrno:ogy 1993
   terms:
   - type: expression
     normative_status: preferred

@@ -16,10 +16,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: quantity in the dimensional expression of which ail the exponents of
+  - content: quantity in the dimensional expression of which ail the exponents of
       the dimensions of the base quantities reduce to zero
   examples:
- - content: linear strain, friction factor, Mach number, refractive index, mole fraction
+  - content: linear strain, friction factor, Mach number, refractive index, mole fraction
       (amount-of-substance fraction), mass fraction.
   id: 1.6-eng
   language_code: eng
@@ -37,11 +37,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: grandeur sans dimension, f grandeur dont l'expression dimensionnelle
+  - content: grandeur sans dimension, f grandeur dont l'expression dimensionnelle
       en fonction des dimensions des grandeurs de base présente des exposants qui
       se réduisent tous à zéro
   examples:
- - content: dilatation linéique relative, facteur de frottement, nombre de Mach,
+  - content: dilatation linéique relative, facteur de frottement, nombre de Mach,
       indice de réfraction, fraction molaire, fraction massique.
   id: 1.6-fra
   language_code: fra

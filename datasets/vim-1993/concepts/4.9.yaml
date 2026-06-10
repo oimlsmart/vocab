@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.9'
   localized_concepts:
@@ -16,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: measuring instrument that determines the value a measurand by integrating
+  - content: measuring instrument that determines the value a measurand by integrating
       a quantity with respect to another quantity
   examples: []
   id: 4.9-eng
   language_code: eng
   notes:
- - content: electrical energy meter.
+  - content: electrical energy meter.
   terms:
   - type: expression
     normative_status: preferred
@@ -36,13 +37,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: appareil de mesure qui détermine la valeur d'un mesurande en intégrant une grandeur en
-      fonction d'une autre grandeur
+  - content: appareil de mesure qui détermine la valeur d'un mesurande en intégrant
+      une grandeur en fonction d'une autre grandeur
   examples: []
   id: 4.9-fra
   language_code: fra
   notes:
- - content: compteur d'énergie électrique.
+  - content: compteur d'énergie électrique.
   terms:
   - type: expression
     normative_status: preferred

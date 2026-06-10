@@ -38,13 +38,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: sufficiency of different {{conformity assessment,A.1}} results to provide
+  - content: sufficiency of different {{conformity assessment,A.1}} results to provide
       the same level of assurance of conformity with regard to the same {{specified
       requirements,A.6}}
   examples: []
   id: A.32-eng
   notes:
- - content: The expression “conformity assessment result” signifies the output of
+  - content: The expression “conformity assessment result” signifies the output of
       any conformity assessment activity (e.g. a report or certificate) and can include
       a finding of nonconformity.
   sources:
@@ -72,13 +72,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: concordance suffisante entre différents résultats d'{{évaluation de la
-      conformité,A.1}}  pour fournir le même niveau d'assurance de la conformité quant
+  - content: concordance suffisante entre différents résultats d'{{évaluation de la
+      conformité,A.1}} pour fournir le même niveau d'assurance de la conformité quant
       aux mêmes {{exigences spécifiées,A.6}}
   examples: []
   id: A.32-fra
   notes:
- - content: 'à l’article: L’expression « résultat d’évaluation de la conformité »
+  - content: 'à l’article: L’expression « résultat d’évaluation de la conformité »
       signifie que le produit d’une activité d‘évaluation de la conformité (par exemple,
       un rapport ou un certificat) et peut comprendre un constat de non-conformité.'
   sources:

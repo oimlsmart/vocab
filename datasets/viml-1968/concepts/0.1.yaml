@@ -16,31 +16,31 @@ data:
   - date: '1968-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: Domaine des connaissances relatives aux mesurages.
+  - content: Domaine des connaissances relatives aux mesurages.
   examples: []
   id: 0.1-fra
   notes:
- - content: |-
+  - content: |-
       Les principeaux domaînes de la métrologie concernent :
 
       * les unités de mesure et leurs étalons (leur établissement, reproduction,
-        conservation et transmission),
+       conservation et transmission),
       * les mesurages (leurs méthodes, leur exécution, l''estimation
-        de leur précision etc.),
+       de leur précision etc.),
       * les instruments de mesurage (leurs propriétés examinées
-        du point de vue de leur destination),
+       du point de vue de leur destination),
       * les observateurs (leurs qualités se rapportant à l''exécution des
-        mesurages, par ex. la lecture des indications des instruments de
-        mesurage).
- - content: |-
+       mesurages, par ex. la lecture des indications des instruments de
+       mesurage).
+  - content: |-
       La métrologie embrasse tous les problèmes aussl bien théoriques que
       pratiques se rapportant aux mesurages, quelle que soit la précision de ceux-ci.
- - content: |-
+  - content: |-
       Selon la grandeur envisagée, la métrologie se divise en : métrologie des
       longueurs, métrologie du temps, etc... et, selon le domaine
       d''application, en métrologie industrielle, métrologie technique,
       métrologie astronomique, métrologie médicale, etc...'
- - content: Sont comprises également dans la métrologie les déterminations des constantes
+  - content: Sont comprises également dans la métrologie les déterminations des constantes
       physiques et des propriétés des matériaux et des substances.
   sources: []
   terms:

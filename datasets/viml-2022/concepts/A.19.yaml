@@ -42,7 +42,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: third-party {{attestation,A.15}} related to a {{conformity assessment
+  - content: third-party {{attestation,A.15}} related to a {{conformity assessment
       body,A.2}}, conveying formal demonstration of its competence,impartiality and
       consistent operation in performing specific {{conformity assessment,A.1}} activities
   examples: []
@@ -70,10 +70,10 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: '{{attestation,A.15}} par tierce partie, portant sur un {{organisme
-      d''évaluation de la conformité,A.2}} constituant une reconnaissance formelle
-      de la compétence, de l’impartialité et de la cohérence de la réalisation d’activités
-      spécifiques d''{{évaluation de la conformité,A.1}}'
+  - content: "{{attestation,A.15}} par tierce partie, portant sur un {{organisme d'évaluation
+      de la conformité,A.2}} constituant une reconnaissance formelle de la compétence,
+      de l’impartialité et de la cohérence de la réalisation d’activités spécifiques
+      d'{{évaluation de la conformité,A.1}}"
   examples: []
   id: A.19-fra
   notes: []

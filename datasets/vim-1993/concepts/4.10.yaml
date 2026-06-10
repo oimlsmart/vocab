@@ -17,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: measuring instrument in which the output or display is a continuous function of the
-      measurand or of the input signal
+  - content: measuring instrument in which the output or display is a continuous function
+      of the measurand or of the input signal
   examples: []
   id: 4.10-eng
   language_code: eng
   notes:
- - content: This term relates to the form of presentation of the output or display,
+  - content: This term relates to the form of presentation of the output or display,
       not to the principle of operation of the instrument.
   terms:
   - type: expression
@@ -38,13 +38,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: appareil de mesure pour lequel le signal de sortie ou l'affichage est
+  - content: appareil de mesure pour lequel le signal de sortie ou l'affichage est
       une fonction continue du mesurande ou du signal d'entrée
   examples: []
   id: 4.10-fra
   language_code: fra
   notes:
- - content: Ce terme se rattache à la forme de présentation des signaux de sortie
+  - content: Ce terme se rattache à la forme de présentation des signaux de sortie
       ou de l'affichage, non au principe de fonctionnement de l'instrument.
   terms:
   - type: expression

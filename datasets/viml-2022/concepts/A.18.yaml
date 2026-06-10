@@ -38,7 +38,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: third-party {{attestation,A.15}} related to an object of {{conformity
+  - content: third-party {{attestation,A.15}} related to an object of {{conformity
       assessment,A.1}}, with the exception of accreditation
   examples: []
   id: A.18-eng
@@ -65,8 +65,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: '{{attestation,A.15}} par tierce partie portant sur un objet de l''{{évaluation
-      de la conformité,A.1}}, à l’exception de l’accréditation'
+  - content: "{{attestation,A.15}} par tierce partie portant sur un objet de l'{{évaluation
+      de la conformité,A.1}}, à l’exception de l’accréditation"
   examples: []
   id: A.18-fra
   notes: []

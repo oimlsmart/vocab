@@ -1,3 +1,4 @@
+---
 data:
   identifier: '6.10'
   localized_concepts:
@@ -16,9 +17,9 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: property of the result of a measurement or the value of a standard whereby
-      it can be related to stated  references,  usually  national  or  inter-national
-      standards, through an unbroken chain of comparisons all having stated uncertainties
+  - content: property of the result of a measurement or the value of a standard whereby
+      it can be related to stated references, usually national or inter-national standards,
+      through an unbroken chain of comparisons all having stated uncertainties
   examples: []
   id: 6.10-eng
   language_code: eng
@@ -36,18 +37,18 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: propriété du résultat d'un mesurage ou d'un étalon tel qu'il puisse être
+  - content: propriété du résultat d'un mesurage ou d'un étalon tel qu'il puisse être
       relié à des références déterminées, généralement des étalons natio-naux ou internationaux,
-      par l'intermédiaire d'une chaîne ininterrompue  de comparaisons  ayant toutes
+      par l'intermédiaire d'une chaîne ininterrompue de comparaisons ayant toutes
       des incertitudes déterminées The concept is often traceable. by the adJective
   examples: []
   id: 6.10-fra
   language_code: fra
   notes:
- - content: Ce concept est souvent exprimé par l'adjectif traçable.
- - content: La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement
+  - content: Ce concept est souvent exprimé par l'adjectif traçable.
+  - content: La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement
       aux étalons ou chaîne d'étalonnage.
- - content: La manière dont s'effectue la liaison aux étalons est appelée raccordement
+  - content: La manière dont s'effectue la liaison aux étalons est appelée raccordement
       aux étalons.
   terms:
   - type: expression

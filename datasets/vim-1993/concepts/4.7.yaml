@@ -16,17 +16,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: measuring instrument that provides a record of the indication
+  - content: measuring instrument that provides a record of the indication
   examples:
- - content: barograph; thermoluminescent dosimeter; recording spectrometer. barograph;
+  - content: barograph; thermoluminescent dosimeter; recording spectrometer. barograph;
       thermoluminescent dosimeter; recording spectrometer.
   id: 4.7-eng
   language_code: eng
   notes:
- - content: The record (display) may be analogue (continuous or discontinuous line)
+  - content: The record (display) may be analogue (continuous or discontinuous line)
       or digital.
- - content: Values of more than one quantity may be recorded (displayed) simultaneously.
- - content: A recording instrument may also display an indication.
+  - content: Values of more than one quantity may be recorded (displayed) simultaneously.
+  - content: A recording instrument may also display an indication.
   terms:
   - type: expression
     normative_status: preferred
@@ -40,18 +40,18 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: appareil de mesure qui fournit un enregis-trement de l'indication
+  - content: appareil de mesure qui fournit un enregis-trement de l'indication
   examples:
- - content: 'barographe: dosimètre thermoluminescent; spectromètre enregistreur.
+  - content: 'barographe: dosimètre thermoluminescent; spectromètre enregistreur.
       barographe: dosimètre thermoluminescent; spectromètre enregistreur.'
   id: 4.7-fra
   language_code: fra
   notes:
- - content: L'enregistrement (affichage) peut être analogique (ligne continue ou
+  - content: L'enregistrement (affichage) peut être analogique (ligne continue ou
       discontinue) ou numérique.
- - content: Les valeurs de plusieurs grandeurs peuvent être enregistrées (affichées)
+  - content: Les valeurs de plusieurs grandeurs peuvent être enregistrées (affichées)
       simultanément.
- - content: Un appareil enregistreur peut aussi afficher une indication.
+  - content: Un appareil enregistreur peut aussi afficher une indication.
   terms:
   - type: expression
     normative_status: preferred

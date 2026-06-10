@@ -17,17 +17,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: coefficient by which the direct indication of a measuring instrument
+  - content: coefficient by which the direct indication of a measuring instrument
       must be multiplied to give the indicated value of the measurand or of a quantity
       to be used to calculate the value of the measurand
   examples: []
   id: 5.8-eng
   language_code: eng
   notes:
- - content: Multirange measuring instruments with a single display have several instrument
+  - content: Multirange measuring instruments with a single display have several instrument
       constants that correspond, for example, to different positions of a selector
       mechanism.
- - content: Where the instrument constant is the number one, it is generally not
+  - content: Where the instrument constant is the number one, it is generally not
       shown on the instrument.
   terms:
   - type: expression
@@ -42,17 +42,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: coefficient par lequel l'indication directe d'un instrument de mesure
+  - content: coefficient par lequel l'indication directe d'un instrument de mesure
       doit être multipliée pour obtenir la valeur indiquée du mesurande ou d'une grandeur
       à utiliser dans le calcul de la valeur du mesurande
   examples: []
   id: 5.8-fra
   language_code: fra
   notes:
- - content: Les instruments de mesure à calibres multiples et qui ne comportent qu'un
+  - content: Les instruments de mesure à calibres multiples et qui ne comportent qu'un
       seul affichage ont plusieurs constantes correspondant, par exemple, à différentes
       positions d'un mécanisme sélecteur.
- - content: Lorsque la constante est le nombre un, il n'est généralement pas indiqué
+  - content: Lorsque la constante est le nombre un, il n'est généralement pas indiqué
       sur l'instrument.
   terms:
   - type: expression

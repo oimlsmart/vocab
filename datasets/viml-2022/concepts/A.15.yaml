@@ -34,16 +34,16 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: issue of a statement, based on a decision, that fulfillment of {{specified
+  - content: issue of a statement, based on a decision, that fulfillment of {{specified
       requirements,A.6}} has been demonstrated
   examples: []
   id: A.15-eng
   notes:
- - content: The resulting statement, referred to in this document as a “statement
+  - content: The resulting statement, referred to in this document as a “statement
       of conformity”, is intended to convey the assurance that the specified requirements
       have been fulfilled. Such an assurance does not, of itself, provide contractual
       or other legal guarantees.
- - content: First-party attestation and third-party attestation are distinguished
+  - content: First-party attestation and third-party attestation are distinguished
       by the terms declaration, certification and accreditation, but there is no corresponding
       term applicable to second-party attestation.
   sources:
@@ -68,16 +68,16 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: délivrance d'une affirmation basée sur une décision indiquant que le
-      respect des  {{exigences spécifiées,A.6}} a été démontré
+  - content: délivrance d'une affirmation basée sur une décision indiquant que le
+      respect des {{exigences spécifiées,A.6}} a été démontré
   examples: []
   id: A.15-fra
   notes:
- - content: 'à l’article: L’affirmation qui en résulte, désignée dans le présent
+  - content: 'à l’article: L’affirmation qui en résulte, désignée dans le présent
       document sous le nom de « affirmation de conformité », est destinée à donner
       l’assurance que les exigences spécifiées ont été respectées. Une telle assurance
       ne constitue pas en soi une garantie contractuelle ou autre garantie légale.'
- - content: 'à l’article: L’attestation par première partie et l’attestation par
+  - content: 'à l’article: L’attestation par première partie et l’attestation par
       tierce partie se distinguent par les termes déclaration, certification et accréditation,
       mais aucun terme correspondant n’est applicable à l’attestation par seconde
       partie.'

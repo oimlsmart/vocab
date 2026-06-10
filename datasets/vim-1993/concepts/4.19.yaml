@@ -16,16 +16,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: set of values bounded by the extreme indications
+  - content: set of values bounded by the extreme indications
   examples: []
   id: 4.19-eng
   language_code: eng
   notes:
- - content: For an analogue display this may be called the scale range.
- - content: The range of indications is expressed in the units marked on the display,
+  - content: For an analogue display this may be called the scale range.
+  - content: The range of indications is expressed in the units marked on the display,
       regardless of the units of the measurand, and is normally stated in terms of
       its lower and upper limits, for example, 100°C to 200°C.
- - content: See 5.2 Note.
+  - content: See 5.2 Note.
   terms:
   - type: expression
     normative_status: preferred
@@ -39,16 +39,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: ensemble des valeurs limité par les indications extrêmes
+  - content: ensemble des valeurs limité par les indications extrêmes
   examples: []
   id: 4.19-fra
   language_code: fra
   notes:
- - content: Pour un affichage analogique, cet ensemble peut être appelé étendue d'échelle.
- - content: L'étendue des indications est exprimée en unité de l'affichage, quelle
+  - content: Pour un affichage analogique, cet ensemble peut être appelé étendue d'échelle.
+  - content: L'étendue des indications est exprimée en unité de l'affichage, quelle
       que soit l'unité du mesurande, et est normalement spécifiée par ses limites
       inférieure et supérieure, par exemple, 100°C à 200°C.
- - content: Voir note de 5.2.
+  - content: Voir note de 5.2.
   terms:
   - type: expression
     normative_status: preferred

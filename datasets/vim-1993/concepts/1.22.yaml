@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.22'
   localized_concepts:
@@ -16,11 +17,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: for particular quantities of a given kind, an ordered set of values,
-      continuous or discrete, defined  by  convention  as  a  reference  for arranging
-      quantities of that kind in order of magnitude
+  - content: for particular quantities of a given kind, an ordered set of values,
+      continuous or discrete, defined by convention as a reference for arranging quantities
+      of that kind in order of magnitude
   examples:
- - content: 'the Mohs hardness scale; the pH scale in chemistry: the scale of octane
+  - content: 'the Mohs hardness scale; the pH scale in chemistry: the scale of octane
       numbers for petroleurn fuel. the Mohs hardness scale; the pH scale in chemistry:
       the scale of octane numbers for petroleurn fuel.'
   id: 1.22-eng
@@ -39,14 +40,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: pour des grandeurs particulières d'une nature donnée, ensemble de repères ordonnés,
-      continu ou discret, défini par convention comme référence pour classer en ordre
-      croissant ou décroissant les grandeurs de cette nature
+  - content: pour des grandeurs particulières d'une nature donnée, ensemble de repères
+      ordonnés, continu ou discret, défini par convention comme référence pour classer
+      en ordre croissant ou décroissant les grandeurs de cette nature
   examples:
- - content: l'échelle de dureté de Mohs; l'échelle de pH en chimie; l'échelle des
+  - content: l'échelle de dureté de Mohs; l'échelle de pH en chimie; l'échelle des
       indices d'octane pour les carburants, l'échelle de dureté de Mohs; l'échelle
       de pH en chimie; l'échelle des indices d'octane pour les carburants, îv1euoiogy
-      1993                                                                  17
+      1993 17
   id: 1.22-fra
   language_code: fra
   notes: []

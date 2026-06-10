@@ -17,15 +17,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: smallest difference between indications of a displaying device that can be meaningfully
-      distinguished
+  - content: smallest difference between indications of a displaying device that can
+      be meaningfully distinguished
   examples: []
   id: 5.12-eng
   language_code: eng
   notes:
- - content: For a digital displaying device, this is the change in the indication
+  - content: For a digital displaying device, this is the change in the indication
       when the least significant digit changes by one step.
- - content: This concept applies also to a recording device.
+  - content: This concept applies also to a recording device.
   terms:
   - type: expression
     normative_status: preferred
@@ -39,15 +39,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: la plus petite différence d'indication d'un dispo-sitif afficheur qui
+  - content: la plus petite différence d'indication d'un dispo-sitif afficheur qui
       peut être perçue de manière significative
   examples: []
   id: 5.12-fra
   language_code: fra
   notes:
- - content: Pour un dispositif afficheur numérique, différence d'indication qui correspond
+  - content: Pour un dispositif afficheur numérique, différence d'indication qui correspond
       au changement d'une unité du chiffre le moins significatif.
- - content: Ce concept s'applique aussi à un dispositif enregistreur.
+  - content: Ce concept s'applique aussi à un dispositif enregistreur.
   terms:
   - type: expression
     normative_status: preferred

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.20'
   localized_concepts:
@@ -16,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: part of a scale between any two successive scale marks
+  - content: part of a scale between any two successive scale marks
   examples: []
   id: 4.20-eng
   language_code: eng
@@ -34,7 +35,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: partie d'une échelle comprise entre deux repères successifs quelconques
+  - content: partie d'une échelle comprise entre deux repères successifs quelconques
   examples: []
   id: 4.20-fra
   language_code: fra

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.8'
   localized_concepts:
@@ -16,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: conventional sign designating a unit of measurement
+  - content: conventional sign designating a unit of measurement
   examples: []
   id: 1.8-eng
   language_code: eng
@@ -34,11 +35,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: signe conventionnel désignant une unité de mesure
+  - content: signe conventionnel désignant une unité de mesure
   examples:
- - content: 'mis the symbol for metre: Ais the symbol for ampere. mis the symbol
+  - content: 'mis the symbol for metre: Ais the symbol for ampere. mis the symbol
       for metre: Ais the symbol for ampere.'
- - content: 'm est le A est le m est le A est le du mètre: de l''ampère.'
+  - content: 'm est le A est le m est le A est le du mètre: de l''ampère.'
   id: 1.8-fra
   language_code: fra
   notes: []

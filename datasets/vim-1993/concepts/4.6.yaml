@@ -17,16 +17,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: measuring instrument that displays an indication
+  - content: measuring instrument that displays an indication
   examples:
- - content: analogue indicating voltmeter; digital frequency meter; micrometer. analogue
+  - content: analogue indicating voltmeter; digital frequency meter; micrometer. analogue
       indicating voltmeter; digital frequency meter; micrometer.
   id: 4.6-eng
   language_code: eng
   notes:
- - content: The display may be analogue (continuous or discontinuous) or digital.
- - content: Values of more than one quantity may be displayed simultaneously.
- - content: A displaying measuring instrument may also provide a record.
+  - content: The display may be analogue (continuous or discontinuous) or digital.
+  - content: Values of more than one quantity may be displayed simultaneously.
+  - content: A displaying measuring instrument may also provide a record.
   terms:
   - type: expression
     normative_status: preferred
@@ -40,18 +40,18 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: appareil (de mesure) indicateur, m appareil de mesure qui affiche une
+  - content: appareil (de mesure) indicateur, m appareil de mesure qui affiche une
       indication
   examples:
- - content: voltmètre à indication analogique; frequencemètre numérique; micromètre
+  - content: voltmètre à indication analogique; frequencemètre numérique; micromètre
       à vis. voltmètre à indication analogique; frequencemètre numérique; micromètre
       à vis.
   id: 4.6-fra
   language_code: fra
   notes:
- - content: L'indication peut être analogique (continue ou discontinue) ou numérique.
- - content: Les valeurs de plusieurs grandeurs peuvent être indiquées simultanément.
- - content: Un appareil de mesure afficheur peut, de plus, fournir un enregistrement.
+  - content: L'indication peut être analogique (continue ou discontinue) ou numérique.
+  - content: Les valeurs de plusieurs grandeurs peuvent être indiquées simultanément.
+  - content: Un appareil de mesure afficheur peut, de plus, fournir un enregistrement.
   terms:
   - type: expression
     normative_status: preferred

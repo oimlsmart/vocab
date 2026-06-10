@@ -17,15 +17,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: extreme conditions that a measuring instrument is required to withstand
-      without damage, and without degradation  of  specified metrological characteristics
+  - content: extreme conditions that a measuring instrument is required to withstand
+      without damage, and without degradation of specified metrological characteristics
       when it is subsequently operated under its rated operating conditions
   examples: []
   id: 5.6-eng
   language_code: eng
   notes:
- - content: The limiting conditions for storage, transport and operation may be different.
- - content: The limiting conditions may include limiting values of the measurand
+  - content: The limiting conditions for storage, transport and operation may be different.
+  - content: The limiting conditions may include limiting values of the measurand
       and of the influence quantities.
   terms:
   - type: expression
@@ -40,16 +40,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: conditions extrêmes qu'un instrument de mesure doit pouvoir supporter
+  - content: conditions extrêmes qu'un instrument de mesure doit pouvoir supporter
       sans dommage et sans dégradation des caractéristiques métro-logiques spécifiées
-      lorsqu'il est ensuite utilisé dans  ses  conditions  assignées  de  fonction-nement
+      lorsqu'il est ensuite utilisé dans ses conditions assignées de fonction-nement
   examples: []
   id: 5.6-fra
   language_code: fra
   notes:
- - content: Les conditions limites peuvent être différentes pour le stockage, le
+  - content: Les conditions limites peuvent être différentes pour le stockage, le
       transport et le fonctionnement.
- - content: Les conditions limites peuvent comprendre des valeurs limites pour le
+  - content: Les conditions limites peuvent comprendre des valeurs limites pour le
       mesurande et pour les grandeurs d'influence. =
   terms:
   - type: expression

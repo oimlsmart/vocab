@@ -1,3 +1,4 @@
+---
 data:
   identifier: '6.11'
   localized_concepts:
@@ -16,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: set of operations that establish, under specified conditions, the relationship
+  - content: set of operations that establish, under specified conditions, the relationship
       between values of quantities indioated by a measuring instrument or measuring
       system, or values represented by a material measure or a reference material,
       and the oorresponding values realized by standards
@@ -24,12 +25,12 @@ data:
   id: 6.11-eng
   language_code: eng
   notes:
- - content: The result of a calibration permits either the assignment of values of
+  - content: The result of a calibration permits either the assignment of values of
       measurands to the indications or the determination of corrections with respect
       to indications.
- - content: A calibration may also determine other metrological properties such as
+  - content: A calibration may also determine other metrological properties such as
       the effect of influence quantities.
- - content: The result of a calibration may be recorded in a document, sometimes
+  - content: The result of a calibration may be recorded in a document, sometimes
       called a calibration certificate or a calibration report.
   terms:
   - type: expression
@@ -44,21 +45,21 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: ensemble des opérations établissant, dans des conditions spécifiées, la relation entre les
-      valeurs de la grandeur indiquées par un appareil de mesure ou un système de
-      mesure, ou les valeurs représentées par une mesure matéria-lisée ou par un matériau
-      de référence, et les valeurs correspondantes de la grandeur réali-sées par des
-      étalons
+  - content: ensemble des opérations établissant, dans des conditions spécifiées,
+      la relation entre les valeurs de la grandeur indiquées par un appareil de mesure
+      ou un système de mesure, ou les valeurs représentées par une mesure matéria-lisée
+      ou par un matériau de référence, et les valeurs correspondantes de la grandeur
+      réali-sées par des étalons
   examples: []
   id: 6.11-fra
   language_code: fra
   notes:
- - content: Le résultat d'un étalonnage permet soit d'attribuer aux indications les
+  - content: Le résultat d'un étalonnage permet soit d'attribuer aux indications les
       valeurs correspondantes du mesurande, soit de déterminer les corrections à appliquer
       aux indications.
- - content: Un étalonnage peut aussi servir à déterminer d'autres propriétés métrologiques
+  - content: Un étalonnage peut aussi servir à déterminer d'autres propriétés métrologiques
       telles que les effets de grandeurs d'influence.
- - content: Le résultat d'un étalonnage peut être consigné dans un document parfois
+  - content: Le résultat d'un étalonnage peut être consigné dans un document parfois
       appelé certificat d'étalonnage ou rapport d'étalonnage.
   terms:
   - type: expression

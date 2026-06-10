@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.7'
   localized_concepts:
@@ -16,16 +17,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: quantity that is not the measurand but that affects the result of the
+  - content: quantity that is not the measurand but that affects the result of the
       measurement
   examples:
- - content: temperature of a micrometer used to measure length; frequency in the
+  - content: temperature of a micrometer used to measure length; frequency in the
       measurement of the amplitude of an alternating electric potential difference;
-      bilirubin  concentration  in  the  measurement  of haemoglobin concentration
-      in a sample of human blood plasma. temperature of a micrometer used to measure
-      length; frequency in the measurement of the amplitude of an alternating electric
-      potential difference; bilirubin  concentration  in  the  measurement  of haemoglobin
-      concentration in a sample of human blood plasma.
+      bilirubin concentration in the measurement of haemoglobin concentration in a
+      sample of human blood plasma. temperature of a micrometer used to measure length;
+      frequency in the measurement of the amplitude of an alternating electric potential
+      difference; bilirubin concentration in the measurement of haemoglobin concentration
+      in a sample of human blood plasma.
   id: 2.7-eng
   language_code: eng
   notes: []
@@ -42,10 +43,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: grandeur qui n'est pas le mesurande mais qui a un effet sur le résultat
+  - content: grandeur qui n'est pas le mesurande mais qui a un effet sur le résultat
       du mesurage
   examples:
- - content: temperature d'un micromètre lors de la mesure d'une longueur; fréquence
+  - content: temperature d'un micromètre lors de la mesure d'une longueur; fréquence
       lors de la mesure de l'amplitude d'une tension électrique alternative; concentration
       en bilirubine lors de la mesure de la concentration en hémoglobine dans un échantillon
       de plasma sanguin humain. temperature d'un micromètre lors de la mesure d'une

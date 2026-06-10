@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.18'
   localized_concepts:
@@ -16,8 +17,8 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: magnitude of a particular quantity generally expressed as a unit
-      of measurement multiplied by a number
+  - content: magnitude of a particular quantity generally expressed as a unit of measurement
+      multiplied by a number
   examples: []
   id: 1.18-eng
   language_code: eng
@@ -35,13 +36,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: expression quantitative d'une grandeur particu-lière, généralement sous
+  - content: expression quantitative d'une grandeur particu-lière, généralement sous
       la forme d'une unité de mesure multipliée par un nombre
   examples:
- - content: 'length of a rod: mass of a body: amount of substance length of a rod:
-      mass of a body: amount of substance 5,34 m  or 534 cm; 0,152 kg or 152 g;'
- - content: 'longueur d''une tige· masse d''un corps: quantité de matière longueur
-      d''une tige· masse d''un corps: quantité de matière 5,34 m  ou 534 cm; 0,152
+  - content: 'length of a rod: mass of a body: amount of substance length of a rod:
+      mass of a body: amount of substance 5,34 m or 534 cm; 0,152 kg or 152 g;'
+  - content: 'longueur d''une tige· masse d''un corps: quantité de matière longueur
+      d''une tige· masse d''un corps: quantité de matière 5,34 m ou 534 cm; 0,152
       kg ou 152 g; of a sample of water (H20): 0,012 mol or 12 mmol'
   id: 1.18-fra
   language_code: fra

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.3'
   localized_concepts:
@@ -16,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: result of a measurement before correction for systematic error
+  - content: result of a measurement before correction for systematic error
   examples: []
   id: 3.3-eng
   language_code: eng
@@ -34,7 +35,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: résultat d'un mesurage avant correction de l'erreur systématique
+  - content: résultat d'un mesurage avant correction de l'erreur systématique
   examples: []
   id: 3.3-fra
   language_code: fra

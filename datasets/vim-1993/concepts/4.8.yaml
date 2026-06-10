@@ -16,11 +16,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: measuring instrument that determines the value of a measurand by summation
+  - content: measuring instrument that determines the value of a measurand by summation
       of partial values of the measurand obtained simultaneously or consecutively
       from one or more sources
   examples:
- - content: totalizing railway weighbridge; electrical power summation-meter. totalizing
+  - content: totalizing railway weighbridge; electrical power summation-meter. totalizing
       railway weighbridge; electrical power summation-meter.
   id: 4.8-eng
   language_code: eng
@@ -38,11 +38,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: appareil de mesure qui détermine la valeur d'un mesurande en faisant
+  - content: appareil de mesure qui détermine la valeur d'un mesurande en faisant
       la somme des valeurs partielles de ce mesurande obtenues simulta-nément ou consécutivement
       d'une ou plusieurs sources
   examples:
- - content: pont-bascule totalisateur ferroviaire; appareil de mesure totalisateur
+  - content: pont-bascule totalisateur ferroviaire; appareil de mesure totalisateur
       de puissance électrique. pont-bascule totalisateur ferroviaire; appareil de
       mesure totalisateur de puissance électrique.
   id: 4.8-fra

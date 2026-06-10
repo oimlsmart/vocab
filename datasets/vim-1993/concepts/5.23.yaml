@@ -16,7 +16,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: datum error for zero value of the measurand
+  - content: datum error for zero value of the measurand
   examples: []
   id: 5.23-eng
   language_code: eng
@@ -34,7 +34,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: erreur au point de contrôle pour une valeur nulle du mesurande
+  - content: erreur au point de contrôle pour une valeur nulle du mesurande
   examples: []
   id: 5.23-fra
   language_code: fra

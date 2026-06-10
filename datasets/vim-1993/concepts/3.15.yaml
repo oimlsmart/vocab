@@ -17,14 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: value added algebraically to the uncorrected result of a measurement
+  - content: value added algebraically to the uncorrected result of a measurement
       to compensate for systematic error
   examples: []
   id: 3.15-eng
   language_code: eng
   notes:
- - content: The correction is equal to the negative of the estimated systematic error.
- - content: Since the systematic error cannot be known perfectly, the compensation
+  - content: The correction is equal to the negative of the estimated systematic error.
+  - content: Since the systematic error cannot be known perfectly, the compensation
       cannot be complete.
   terms:
   - type: expression
@@ -39,14 +39,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: valeur ajoutée algébriquement au résultat brut d'un mesurage pour compenser une
-      erreur systématique
+  - content: valeur ajoutée algébriquement au résultat brut d'un mesurage pour compenser
+      une erreur systématique
   examples: []
   id: 3.15-fra
   language_code: fra
   notes:
- - content: La correction est egale à l'opposé de l'erreur systématique estimée.
- - content: Puisque l'erreur systématique ne peut pas être connue parfaitement, la
+  - content: La correction est egale à l'opposé de l'erreur systématique estimée.
+  - content: Puisque l'erreur systématique ne peut pas être connue parfaitement, la
       compensation ne peut pas être complète.
   terms:
   - type: expression

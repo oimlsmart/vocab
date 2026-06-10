@@ -16,10 +16,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: device that provides an output quantity having a determined relationship
+  - content: device that provides an output quantity having a determined relationship
       to the input quantity
   examples:
- - content: thermocouple; current transformer; strain gauge; dl pH electrode. thermocouple;
+  - content: thermocouple; current transformer; strain gauge; dl pH electrode. thermocouple;
       current transformer; strain gauge; dl pH electrode.
   id: 4.3-eng
   language_code: eng
@@ -37,10 +37,10 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
- - content: dispositif qui fait correspondre à une grandeur d'entrée une grandeur
+  - content: dispositif qui fait correspondre à une grandeur d'entrée une grandeur
       de sortie selon une loi déterminée
   examples:
- - content: thermocouple; transformateur de courant; jauge de contrainte; électrode
+  - content: thermocouple; transformateur de courant; jauge de contrainte; électrode
       de pH. thermocouple; transformateur de courant; jauge de contrainte; électrode
       de pH.
   id: 4.3-fra
