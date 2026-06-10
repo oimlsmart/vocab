@@ -2,7 +2,7 @@
 data:
   identifier: A.37
   localized_concepts:
-    eng: '08ccf727-9c71-5ea9-9218-64ba4c5c37e0'
+    eng: 08ccf727-9c71-5ea9-9218-64ba4c5c37e0
     fra: eb1b7aa0-3253-5c73-8ef9-1dcab99957d9
   domains:
   - concept_id: section-A
@@ -28,3 +28,63 @@ related:
 status: valid
 id: 418956a3-14a2-55b5-ae79-8faf984342de
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: arrangement whereby more than two parties recognize or accept each other's
+      {{conformity assessment,A.1}} results
+  examples: []
+  id: A.37-eng
+  notes:
+ - content: The expression “conformity assessment result” signifies the output of
+      any conformity assessment activity (e.g. a report or certificate) and can include
+      a finding of nonconformity.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multilateral arrangement
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 08ccf727-9c71-5ea9-9218-64ba4c5c37e0
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: arrangement selon lequel plus de deux parties reconnaissent ou acceptent
+      les résultats de l'{{évaluation de la conformité,A.1}} des autres parties
+  examples: []
+  id: A.37-fra
+  notes:
+ - content: 'à l’article: L’expression « résultat d’évaluation de la conformité »
+      désigne le produit d’une activité d’évaluation de la conformité (par exemple,
+      un rapport ou un certificat) et peut comprendre un constat de non-conformité.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.9'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arrangement multilatéral
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: eb1b7aa0-3253-5c73-8ef9-1dcab99957d9

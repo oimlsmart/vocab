@@ -16,12 +16,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: error of measurement divided by a true value of the measurand
+ - content: error of measurement divided by a true value of the measurand
   examples: []
   id: 3.12-eng
   language_code: eng
   notes:
-  - content: Since a true value cannot be determined, in practice a conventional true
+ - content: Since a true value cannot be determined, in practice a conventional true
       value is used (see 1.19 and 1.20).
   terms:
   - type: expression
@@ -36,12 +36,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: rapport de l'erreur de mesure à une valeur vraie du mesurande
+ - content: rapport de l'erreur de mesure à une valeur vraie du mesurande
   examples: []
   id: 3.12-fra
   language_code: fra
   notes:
-  - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, dans la
+ - content: Étant donné qu'une valeur vraie ne peut pas être déterminée, dans la
       pratique on utilise une valeur conventionnellement vraie tvoIr 1.19 et 1.20).
   terms:
   - type: expression

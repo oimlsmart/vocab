@@ -16,13 +16,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: particular quantity subject to measurement
+ - content: particular quantity subject to measurement
   examples: []
   id: 2.6-eng
   language_code: eng
   notes:
-  - content: vapour pressure of a g1ven sample of water at 20 °C
-  - content: The specification of a measurand may require statements about quantities
+ - content: vapour pressure of a g1ven sample of water at 20 °C
+ - content: The specification of a measurand may require statements about quantities
       such as time, temperature and pressure.
   terms:
   - type: expression
@@ -37,13 +37,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur particulière soumise à mesurage
+ - content: grandeur particulière soumise à mesurage
   examples: []
   id: 2.6-fra
   language_code: fra
   notes:
-  - content: pression de vapeur d'un echantillon donné d'eau à 20 °C
-  - content: La définition du mesurande peut nécessiter des indications relatives
+ - content: pression de vapeur d'un echantillon donné d'eau à 20 °C
+ - content: La définition du mesurande peut nécessiter des indications relatives
       à des grandeurs telles que le temps, la température et la pression.
   terms:
   - type: expression

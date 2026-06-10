@@ -11,3 +11,53 @@ data:
 status: valid
 id: 7a8d85b3-d0e0-42d5-8a92-61368158b84b
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: ability of a measuring instrument to maintain constant its metrological characteristics with
+      time
+  examples: []
+  id: 5.14-eng
+  language_code: eng
+  notes:
+ - content: Where stability with respect to a quantity other than time is considered,
+      this should be stated explicitly.
+ - content: Stability may be quantified in several ways, for example:, in terms of
+      the time over which a metrological characteristic changes by a stated amount,
+      or, in terms of the change in a characteristic over a stated time.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stability
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: d0636f82-6595-4fec-8020-e3b1b06f079a
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: 'aptitude d''un instrument de mesure à conserver ses caractéristiques
+      métrologiques constantes au cours du temps :...orsque l''on considère la constance
+      en fonction d''une grandeur autre que le temps, il est nécessaire de le mentionner
+      explicitement. 2 La constance peut être exprimée quantitativement de plusieurs
+      façons, par exemple: par la durée au cours de laquelle une caractéristique métrologique
+      évolue d''une quantité donnée, ou par la variation d''une caractéristique au
+      cours d''une durée donnée.'
+  examples: []
+  id: 5.14-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constance
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 94935e00-5417-4048-9982-793701abe692

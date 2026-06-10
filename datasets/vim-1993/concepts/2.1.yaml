@@ -16,12 +16,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of operations having the object of deter-mining a value of a quantity
+ - content: set of operations having the object of deter-mining a value of a quantity
   examples: []
   id: 2.1-eng
   language_code: eng
   notes:
-  - content: The operations may be performed automatically
+ - content: The operations may be performed automatically
   terms:
   - type: expression
     normative_status: preferred
@@ -35,13 +35,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble d'opérations ayant pour but de déter-miner une valeur d'une
+ - content: ensemble d'opérations ayant pour but de déter-miner une valeur d'une
       grandeur
   examples: []
   id: 2.1-fra
   language_code: fra
   notes:
-  - content: Le déroulement des opérations peut être auto-matique.
+ - content: Le déroulement des opérations peut être auto-matique.
   terms:
   - type: expression
     normative_status: preferred

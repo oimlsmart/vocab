@@ -11,3 +11,56 @@ data:
 status: valid
 id: 3e533f56-d20e-41f6-a0aa-1058a5caa721
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: relationship between a stimulus and the corresponding response,
+      for defined conditions
+  examples:
+ - content: the e.m.f. (electromotive force) of a thermo-couple as a function of
+      temperature.
+  id: 5.9-eng
+  language_code: eng
+  notes:
+ - content: The relationship may be expressed in the form of a mathematical equation,
+      a numerical table, or a graph.
+ - content: When the stimulus varies as a function of time, one form of the response
+      characteristic is the transfer function (the Laplace transform of the response
+      divided by that of the stimulus).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: response characteristic
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: db62c145-da6f-4889-967f-03b0e6d82ef3
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: relation entre un signal d'entrée et la réponse correspondante, dans
+      des conditions définies
+  examples: []
+  id: 5.9-fra
+  language_code: fra
+  notes:
+ - content: La relation peut s'exprimer sous la forme d'une équation mathématique,
+      d'une table numérique ou d'un graphe.
+ - content: Lorsque le signal d'entrée varie en fonction du temps, la fonction de
+      transfert (quotient de la transformée de Laplace du signal de sortie par la
+      transformée de Laplace du signal d'entrée) est une forme de la caractéristique
+      de transfert.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: caractéristique de transfert
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1ed0289b-3573-4b6e-b970-f56d098f2a1f

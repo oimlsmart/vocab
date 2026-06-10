@@ -17,14 +17,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of values of measurands for which the error of a measuring instrument
+ - content: set of values of measurands for which the error of a measuring instrument
       is intended to lie within specified limits
   examples: []
   id: 5.4-eng
   language_code: eng
   notes:
-  - content: '"error" is determined in relation to a conventional true value.'
-  - content: See 5.2 Note.
+ - content: '"error" is determined in relation to a conventional true value.'
+ - content: See 5.2 Note.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,15 +38,15 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble des valeurs du mesurande pour les-quelles l'erreur d'un instrument
+ - content: ensemble des valeurs du mesurande pour les-quelles l'erreur d'un instrument
       de mesure est supposée comprise entre des limites spécifiées
   examples: []
   id: 5.4-fra
   language_code: fra
   notes:
-  - content: L'erreur est établie par référence à une valeur conven-tionnellement
+ - content: L'erreur est établie par référence à une valeur conven-tionnellement
       vraie.
-  - content: de 5.2.
+ - content: de 5.2.
   terms:
   - type: expression
     normative_status: preferred

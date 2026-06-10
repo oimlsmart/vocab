@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.20'
   localized_concepts:
@@ -11,3 +10,41 @@ data:
 status: valid
 id: e89150aa-f712-4dc3-8db2-5c47cdd36044
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: part of a scale between any two successive scale marks
+  examples: []
+  id: 4.20-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale division
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: b41b8b53-6364-4916-9404-6d4ce65783a1
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: partie d'une échelle comprise entre deux repères successifs quelconques
+  examples: []
+  id: 4.20-fra
+  language_code: fra
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: division
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: f2498a39-000a-49f6-85d2-fab698d55166

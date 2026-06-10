@@ -17,17 +17,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device or substance that indicates the presence of a phenomenon without
+ - content: device or substance that indicates the presence of a phenomenon without
       necessarily providing a value of an associated quantity
   examples:
-  - content: halogen leak detector
-  - content: litmus paper
+ - content: halogen leak detector
+ - content: litmus paper
   id: 4.15-eng
   language_code: eng
   notes:
-  - content: An indication may be produced only when the value of the quantity reaches
+ - content: An indication may be produced only when the value of the quantity reaches
       a threshold, sometimes called the detection limit of the detector.
-  - content: In some fields the term "detector" is used for the concept of "sensor".
+ - content: In some fields the term "detector" is used for the concept of "sensor".
   terms:
   - type: expression
     normative_status: preferred
@@ -41,16 +41,16 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: dispositif ou substance qui indique la présence d'un phénomène sans nécessairement
+ - content: dispositif ou substance qui indique la présence d'un phénomène sans nécessairement
       fournir une valeur d'une grandeur associée
   examples:
-  - content: détecteur de fuite à halogène; papier au tournesol
+ - content: détecteur de fuite à halogène; papier au tournesol
   id: 4.15-fra
   language_code: fra
   notes:
-  - content: On peut n'avoir une indication que si la valeur de la grandeur atteint
+ - content: On peut n'avoir une indication que si la valeur de la grandeur atteint
       un seuil donné, parfois appelé seuil de détction du détecteur.
-  - content: Dans certains domaines, le terme «détecteur» est utilisé pour le concept
+ - content: Dans certains domaines, le terme «détecteur» est utilisé pour le concept
       de «capteur».
   terms:
   - type: expression

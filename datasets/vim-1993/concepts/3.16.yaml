@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.16'
   localized_concepts:
@@ -11,3 +10,47 @@ data:
 status: valid
 id: 07754faa-63df-424e-bfed-8bdab8d025c8
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: numerical factor by which the uncorrected result of a measurement is
+      multiplied to compensate for systematic error
+  examples: []
+  id: 3.16-eng
+  language_code: eng
+  notes:
+ - content: Since the systematic error cannot be known perfectly, the compensation
+      cannot be complete.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction factor
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 80925954-5458-4d37-a3aa-3f688c5ca9af
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: facteur numérique par lequel on multiplie le résultat brut d'un mesurage
+      pour compenser une erreur systématique
+  examples: []
+  id: 3.16-fra
+  language_code: fra
+  notes:
+ - content: Puisque l'erreur systématique ne peut pas être connue parfaitement, la
+      compensation ne peut pas être complète
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de correction
+    grammar_info:
+    - gender: m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 6b8be019-1fb6-4aa7-8753-674174183861

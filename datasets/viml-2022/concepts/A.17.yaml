@@ -28,3 +28,55 @@ related:
 status: valid
 id: b046c69a-8724-5a34-9491-06e490cc311a
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: first-party {{attestation,A.15}}
+  examples: []
+  id: A.17-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: declaration
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 201caaab-3911-54f3-b5e4-8814e84cfe08
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: '{{attestation,A.15}} par première partie'
+  examples: []
+  id: A.17-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.5'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: déclaration
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c1880d14-af2a-5935-997a-f89c1ab0c2a6

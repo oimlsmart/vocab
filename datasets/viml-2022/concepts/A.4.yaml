@@ -32,3 +32,61 @@ related:
 status: valid
 id: 42f3aa71-3aa5-5619-b8b3-0931d6f337c1
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: set of rules and {{procedures,A.7}} for the management of similar or
+      related  {{conformity assessment,A.1}} schemes
+  examples: []
+  id: A.4-eng
+  notes:
+ - content: A conformity assessment system can be operated at an international, regional,
+      national, sub-national, or industry sector level.
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conformity assessment system
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 9b2a480f-66a8-559c-84f6-744f5b3ecc14
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: ensemble de règles et {{procédures,A.7}} pour le management de systèmes
+      particuliers d'{{évaluation de la conformité,A.1}} similaires ou connexes
+  examples: []
+  id: A.4-fra
+  notes:
+ - content: 'à l’article: Un système d’évaluation de la conformité peut être mis
+      en œuvre à un niveau international, régional, national, infranational ou sectoriel.'
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '4.8'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système d'évaluation de la conformité
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: 7eb86fc8-1284-5d17-82c8-7546354022f1

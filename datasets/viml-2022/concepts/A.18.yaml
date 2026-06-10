@@ -32,3 +32,57 @@ related:
 status: valid
 id: 9b46cf63-e319-59c4-b045-c774df856bd5
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: third-party {{attestation,A.15}} related to an object of {{conformity
+      assessment,A.1}}, with the exception of accreditation
+  examples: []
+  id: A.18-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certification
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: fb5fdecf-e643-5b11-af96-044891864a04
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: '{{attestation,A.15}} par tierce partie portant sur un objet de l''{{évaluation
+      de la conformité,A.1}}, à l’exception de l’accréditation'
+  examples: []
+  id: A.18-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '7.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certification
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: d282778f-c7d4-52d7-8334-22ca2caa8b16

@@ -11,3 +11,52 @@ data:
 status: valid
 id: 98add1ef-a809-4fd7-8fe2-cf3c20e8146c
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: extreme conditions that a measuring instrument is required to withstand
+      without damage, and without degradation  of  specified metrological characteristics
+      when it is subsequently operated under its rated operating conditions
+  examples: []
+  id: 5.6-eng
+  language_code: eng
+  notes:
+ - content: The limiting conditions for storage, transport and operation may be different.
+ - content: The limiting conditions may include limiting values of the measurand
+      and of the influence quantities.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limiting conditions
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 4fe7d424-88a1-4bb1-9e21-9d2cc84e614b
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: conditions extrêmes qu'un instrument de mesure doit pouvoir supporter
+      sans dommage et sans dégradation des caractéristiques métro-logiques spécifiées
+      lorsqu'il est ensuite utilisé dans  ses  conditions  assignées  de  fonction-nement
+  examples: []
+  id: 5.6-fra
+  language_code: fra
+  notes:
+ - content: Les conditions limites peuvent être différentes pour le stockage, le
+      transport et le fonctionnement.
+ - content: Les conditions limites peuvent comprendre des valeurs limites pour le
+      mesurande et pour les grandeurs d'influence. =
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conditions limites
+    grammar_info:
+    - gender: f
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: ca805aa8-2ce7-4e1a-a2c1-75359c3c85cc

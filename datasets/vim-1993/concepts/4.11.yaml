@@ -1,4 +1,3 @@
----
 data:
   identifier: '4.11'
   localized_concepts:
@@ -11,3 +10,46 @@ data:
 status: valid
 id: 541c2934-8f2e-4b89-aa8b-3bf0b088633d
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: measuring instrument that provides a digitized output or display ��OTE This
+      term relates to the form ot presentation of the output or display, not to the
+      principle of operation of the instrument.
+  examples: []
+  id: 4.11-eng
+  language_code: eng
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: digital measuring instrument digital indicating instrument
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: b1231dc7-531b-46ae-822e-23bcb448dad9
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: appareil de mesure qui fournit un signal de sortie ou un affichage sous
+      forme numérique
+  examples: []
+  id: 4.11-fra
+  language_code: fra
+  notes:
+ - content: Ce terme se rattache à la forme de présentation des signaux de sortie
+      ou de l'affichage, non au principe de fonctionnement de l'instrument
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appareil de mesure (à affichage) numérique
+    grammar_info:
+    - gender: m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1ae44022-6f1f-4665-9f93-bc0cf7f6506e

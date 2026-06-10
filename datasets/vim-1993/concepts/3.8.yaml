@@ -1,4 +1,3 @@
----
 data:
   identifier: '3.8'
   localized_concepts:
@@ -11,3 +10,61 @@ data:
 status: valid
 id: aa64756a-2c1b-4b55-b0ad-359fc1241f37
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: 'i= 1 n-1 for a series of Il measurements of the same measurand, the
+      quantity s  characterizing the dispersion  of  the results and given by the
+      formula: ,,,·-- xi being the result  of  the ith  measurement and .r being the
+      arithmetic mean of the n results considered'
+  examples: []
+  id: 3.8-eng
+  language_code: eng
+  notes:
+ - content: Considering the series of n values as a sample of a distribution, x̄
+      is an unbiased estimate of the mean μ, and s² is an unbiased estimate of the
+      variance σ² of that distribution.
+ - content: The expression s/√n is an estimate of the standard deviation of the distribution
+      of x̄ and is called the experimental standard deviation of the mean.
+ - content: '"Experimental standard deviation of the mean" is sometimes incorrectly
+      called standard error of the mean.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: experimental standard deviation
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: ce9bafa9-2bbb-4be3-912b-32a9a722c343
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: "           i=1         Il -1 pour une série de n mesurages du même mesurande,
+      grandeur s caractérisant la disper-sion des résultats, donnée par la formule:
+      s= xi étant le résultat du ième mesurage et x la moyenne arithmétique des n
+      résultats consi-dérés"
+  examples: []
+  id: 3.8-fra
+  language_code: fra
+  notes:
+ - content: En considérant la série de n valeurs comme échantillon d'une distribution,
+      x̄ est un estimateur sans biais de la moyenne μ, et s² est un estimateur sans
+      biais de la variance σ² de cette distribution.
+ - content: L'expression s/√n est une estimation de l'écart-type de la distribution
+      de x̄ et est appelée écart-type expérimental de la moyenne.
+ - content: L'écart-type expérimental de la moyenne est parfois appelé, à tort, erreur
+      de la moyenne.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: écart-type expérimental
+    grammar_info:
+    - gender: m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 96b2a3b7-35b1-4044-a7f5-bc69b40665ca

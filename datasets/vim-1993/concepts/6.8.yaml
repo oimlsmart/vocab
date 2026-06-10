@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.8'
   localized_concepts:
@@ -11,3 +10,45 @@ data:
 status: valid
 id: d744ef65-7c32-4da9-8e7f-1d9ffa007a6f
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: standard used as an intermediary to compare standards
+  examples: []
+  id: 6.8-eng
+  language_code: eng
+  notes:
+ - content: The term transfer device should be used when the intermediary is not
+      a standard.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transfer standard
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 802fdb62-5b4d-4a47-b36f-f72f74bbd630
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: étalon utilisé comme intermédiaire pour comparer entre eux des étalons
+  examples: []
+  id: 6.8-fra
+  language_code: fra
+  notes:
+ - content: Le terme dispositif de transfert doit être utilisé lorsque l'intermédiaire
+      n'est pas un étalon.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étalon de transfert
+    grammar_info:
+    - gender: m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: b5f77d9b-2689-4883-8f34-448d9cd1b8d7

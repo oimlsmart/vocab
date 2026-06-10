@@ -22,8 +22,7 @@ data:
   - date: '2024-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mstyle
-      displaystyle="true"><msub><mi>&#x3bc;</mi><mn>0</mn></msub><mo>=</mo><mn>4</mn><mi>&#x3c0;</mi><mo>&#xd7;</mo><msup><mn>10</mn><mrow><mo>&#x2212;</mo><mn>7</mn></mrow></msup><mi>N</mi><msup><mi>A</mi><mn>2</mn></msup></mstyle></math>'
+  - content: '<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mstyle displaystyle="true"><msub><mi>&#x3bc;</mi><mn>0</mn></msub><mo>=</mo><mn>4</mn><mi>&#x3c0;</mi><mo>&#xd7;</mo><msup><mn>10</mn><mrow><mo>&#x2212;</mo><mn>7</mn></mrow></msup><mi>N</mi><msup><mi>A</mi><mn>2</mn></msup></mstyle></math>'
   examples: []
   id: 01455-eng
   notes: []
@@ -31,9 +30,9 @@ data:
   - origin:
       ref:
         source: OIML R111-1:2004
-    locality:
-      type: clause
-      reference_from: 2.9.5
+      locality:
+        type: clause
+        reference_from: 2.9.5
     type: authoritative
   terms:
   - type: expression

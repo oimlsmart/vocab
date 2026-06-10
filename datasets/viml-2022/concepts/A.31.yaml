@@ -32,3 +32,59 @@ related:
 status: valid
 id: ccda3e82-a332-56be-b8e5-e7273509e061
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: organization established within government, or empowered by government,
+      to designate {{conformity assessment bodies,A.2}} and to suspend or withdraw
+      their {{designation,A.30}}
+  examples: []
+  id: A.31-eng
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: designating authority
+  language_code: eng
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: b7bd7f21-5780-53e3-b71f-0dfd69af4596
+---
+data:
+  dates:
+  - date: '2022-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: organisation établie au sein du gouvernement, ou habilitée par celui-ci,
+      chargée de désigner les {{organismes d'évaluation de la conformité,A.2}} et
+      de suspendre ou de retirer leur {{désignation,A.30}}
+  examples: []
+  id: A.31-fra
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: ISO/IEC 17000:2020
+      locality:
+        type: clause
+        reference_from: '9.3'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: autorité de désignation
+  language_code: fra
+  entry_status: valid
+date_accepted: '2022-01-01T00:00:00+00:00'
+id: c65bfcce-d4b1-562d-a8a9-8449aab996f5

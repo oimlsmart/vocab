@@ -17,12 +17,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: systematic error of the indication of a measuring instrument
+ - content: systematic error of the indication of a measuring instrument
   examples: []
   id: 5.25-eng
   language_code: eng
   notes:
-  - content: The bias of a measuring instrument 1s normally est1mated by averaging
+ - content: The bias of a measuring instrument 1s normally est1mated by averaging
       the error of indication over an appropriate number of repeated measurements.
   terms:
   - type: expression
@@ -37,12 +37,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: erreur systématique d'indication d'un instrument de mesure
+ - content: erreur systématique d'indication d'un instrument de mesure
   examples: []
   id: 5.25-fra
   language_code: fra
   notes:
-  - content: L'erreur de justesse est normalement estimée en prenant la moyenne de
+ - content: L'erreur de justesse est normalement estimée en prenant la moyenne de
       l'erreur d'indication sur un nombre approprié d'observations répétées.
   terms:
   - type: expression

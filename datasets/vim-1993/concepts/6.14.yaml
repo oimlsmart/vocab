@@ -1,4 +1,3 @@
----
 data:
   identifier: '6.14'
   localized_concepts:
@@ -11,3 +10,89 @@ data:
 status: valid
 id: e6693ae6-ced1-4834-8e19-c8214b333641
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: reference material, accompanied by a certificate, one or more of whose
+      property values are certified  by  a  procedure  which  establishes traceability
+      to an accurate realization of the unit in which the property values are expressed,
+      and for which each certified value is accompanied by an uncertainty at a stated
+      level of confidence
+  examples: []
+  id: 6.14-eng
+  language_code: eng
+  notes:
+ - content: The definition of a "reference material certificate" is given in 4.2*.
+ - content: CRMs are generally prepared in batches for which the property values
+      are determined within stated uncertainty limits by measurements on samples representative
+      of the whole batch.
+ - content: The certified properties of certified reference materials are sometimes
+      conveniently and reliably realized when the material is incorporated into a
+      specially fabricated device, e.g. a substance of known triple-point into a triple-point
+      cell, a glass of known optical density into a transmission filter, spheres of
+      uniform particle size mounted on a microscope slide. Such devices may also be
+      considered as CRMs.
+ - content: All CRMs lie within the definition of "measurement standards" or "etalons"
+      given in the "International Vocabulary of basic and general terms in metrology
+      (VIM)".
+ - content: Some RMs and CRMs have properties which, because they cannot be correlated
+      with an established chemical structure or for other reasons, cannot be determined
+      by exactly defined physical and chemical measurement methods. Such materials
+      include certain biological materials such as vaccines to which an International
+      unit has been assigned by the World Health Organization.
+ - content: This definition, including the Notes, is taken from ISO Guide 30:1992.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: certified reference material (CRM)
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: a9a72357-b033-4575-9c7e-82ecb5d5a155
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: matériau de référence, accompagné d'un certi-ficat, dont une (ou plusieurs)
+      valeur(s) de la (des) propriété(s) est (sont) certifiée(s) par une procé-dure
+      qui établit son raccordement à une réali-sation exacte de l'unité dans laquelle
+      les valeurs de propriété sont exprimées et pour laquelle chaque valeur certifiée
+      est accompagnée d'une incertitude à un niveau de confiance indiqué
+  examples: []
+  id: 6.14-fra
+  language_code: fra
+  notes:
+ - content: La définition d'un «certificat de matériau de référence» est donnée en
+      4.2*.
+ - content: Les MRC sont en général préparés en lots dont les valeurs de propriété
+      sont déterminées, dans les limites d'incertitude indiquées, par des mesurages
+      sur des échantillons représentatifs du lot entier.
+ - content: Les propriétés certifiées de matériaux de référence sont parfois commodément
+      et fiablement réalisées lorsque le matériau est incorporé dans un dispositif
+      fabriqué spécialement, par exemple une substance dont le point triple est connu
+      dans une cellule triple point; un verre de densité optique connue dans un filtre
+      de transmission; des sphères à granulométrie uniforme montées sur une lame de
+      microscope. De tels dispositifs peuvent également être considérés comme des
+      MRC.
+ - content: Tous les MRC répondent à la définition «des étalons» donnée dans le «Vocabulaire
+      international des termes fondamentaux et généraux de métrologie (VIM)».
+ - content: Certains MR et MRC ont des propriétés qui, parce qu'elles ne peuvent
+      être rapportées à une structure chimique établie, ou pour d'autres raisons,
+      ne peuvent être déterminées par des méthodes de mesure physiques et chimiques
+      exactement définies. De tels matériaux comprennent certains matériaux biologiques
+      tels que des vaccins auxquels une unité internationale a été attribuée par l'Organisation
+      mondiale de la santé.
+ - content: Cette définition (y compris les notes) est extraite du Guide ISO 30:1992.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matériau de référence certifié (MRC)
+    grammar_info:
+    - gender: m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9d635c59-8cb2-4fdb-a93b-0d699ef55620

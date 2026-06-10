@@ -1,4 +1,3 @@
----
 data:
   identifier: '2.5'
   localized_concepts:
@@ -11,3 +10,50 @@ data:
 status: valid
 id: 5bc5f4bd-546c-404f-af25-4d8de7805924
 schema_version: '3'
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: set of operations, described specifically, used in the performance of particular measurements
+      according to a given method
+  examples: []
+  id: 2.5-eng
+  language_code: eng
+  notes:
+ - content: A measurement procedure is usually recorded in a document that is sometimes ,tself called a
+      "measurement procedure"  (or a measurement method) and is usually in sufficient
+      detail to enable an operator to carry out a measurement without additional information.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: measurement procedure
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 1aec4515-05dd-4b96-a7d1-c55983f901e4
+---
+data:
+  dates:
+  - date: '1993-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+ - content: ensemble des opérations, décrites d'une manière spécifique, mises
+      en œuvre lors de l'exécution de mesurages particuliers selon une méthode donnée
+  examples: []
+  id: 2.5-fra
+  language_code: fra
+  notes:
+ - content: Le mode opératoire est habituellement décrit dans un document qui est
+      quelquefois appelé lui-même «mode opératoire» et qui donne assez de détails
+      pour qu'un opérateur puisse effectuer un mesu-rage sans avoir besoin d'autres
+      informations.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mode opératoire (de mesure)
+    grammar_info:
+    - gender: m
+date_accepted: '1993-01-01T00:00:00+00:00'
+entry_status: valid
+id: 447c050c-c01d-44b0-8f6f-d2deaa27a1ca
