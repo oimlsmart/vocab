@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mark intended to protect the {{measuring instrument,0.10}} against any
-      unauthorized modification, re{{adjustment,0.15}}, removal of parts, etc.
+  - content: mark intended to protect the {{0.10,measuring instrument}} against any
+      unauthorized modification, re{{0.15,adjustment}}, removal of parts, etc.
   examples: []
   id: 3.06-eng
   notes: []
@@ -50,8 +50,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: marque destinée à protéger l'{{instrument de mesure,0.10}} contre toute
-      intervention non autorisée, notamment une modification, un ré{{ajustement,0.15}},
+  - content: marque destinée à protéger l'{{0.10,instrument de mesure}} contre toute
+      intervention non autorisée, notamment une modification, un ré{{0.15,ajustement}},
       une suppression de composants, etc.
   examples: []
   id: 3.06-fra

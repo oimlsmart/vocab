@@ -32,8 +32,7 @@ data:
   id: 5.09-eng
   notes:
   - content: Typically, an associated measuring instrument is connected to a device
-      (correction device, conversion device, calculator) that is part of a {{measuring
-      instrument,0.10}} and that changes (corrects, converts) the measurement result
+      (correction device, conversion device, calculator) that is part of a {{0.10,measuring instrument}} and that changes (corrects, converts) the measurement result
       to obtain a value for the measurand under specified conditions.
   sources: []
   terms:
@@ -57,7 +56,7 @@ data:
   notes:
   - content: En général, un instrument de mesure associé est relié à un dispositif
       (dispositif de correction, dispositif de conversion, calculateur), faisant partie
-      de l'{{instrument de mesure,0.10}}, permettant de modifier (corriger, convertir)
+      de l'{{0.10,instrument de mesure}}, permettant de modifier (corriger, convertir)
       le résultat de mesure afin d'obtenir une valeur du mesurande dans des conditions
       spécifiées.
   sources: []

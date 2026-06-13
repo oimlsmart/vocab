@@ -25,10 +25,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: extreme value of {{measurement error,2.16}}, with respect to a known
-      {{reference quantity value,5.18}}, permitted by specifications or regulations
-      for a given {{measurement,2.1}}, {{measuring instrument,3.1}}, or {{measuring
-      system,3.2}}
+  - content: extreme value of {{2.16,measurement error}}, with respect to a known
+      {{5.18,reference quantity value}}, permitted by specifications or regulations
+      for a given {{2.1,measurement}}, {{3.1,measuring instrument}}, or {{3.2,measuring system}}
   examples: []
   id: 4.26-eng
   language_code: eng
@@ -62,10 +61,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: valeur extrême de l'{{erreur de mesure,2.16}}, par rapport à une {{valeur
-      de référence,5.18}} connue, qui est tolérée par les spécifications ou règlements
-      pour un {{mesurage,2.1}}, un {{instrument de mesure,3.1}} ou un {{système de
-      mesure,3.2}} donné
+  - content: valeur extrême de l'{{2.16,erreur de mesure}}, par rapport à une {{5.18,valeur de référence}} connue, qui est tolérée par les spécifications ou règlements
+      pour un {{2.1,mesurage}}, un {{3.1,instrument de mesure}} ou un {{3.2,système de mesure}} donné
   examples: []
   id: 4.26-fra
   language_code: fra

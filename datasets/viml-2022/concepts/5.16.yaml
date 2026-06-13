@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: difference between the {{intrinsic error,0.06}} after a period of use
-      and the {{initial intrinsic error,5.11}} of a measuring instrument
+  - content: difference between the {{0.06,intrinsic error}} after a period of use
+      and the {{5.11,initial intrinsic error}} of a measuring instrument
   examples: []
   id: 5.16-eng
   notes: []
@@ -50,8 +50,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: différence entre l'{{erreur intrinsèque,0.06}} après un certain temps
-      d'utilisation et l'{{erreur intrinsèque initiale,5.11}} d'un instrument de mesure
+  - content: différence entre l'{{0.06,erreur intrinsèque}} après un certain temps
+      d'utilisation et l'{{5.11,erreur intrinsèque initiale}} d'un instrument de mesure
   examples: []
   id: 5.16-fra
   notes: []

@@ -31,11 +31,11 @@ data:
     type: accepted
   definition:
   - content: program code and dedicated data domain receiving, filtering, or transmitting
-      data between software {{modules,4.04}}
+      data between software {{4.04,modules}}
   examples: []
   id: 6.03-eng
   notes:
-  - content: A software interface is not necessarily {{legally relevant,4.08}}.
+  - content: A software interface is not necessarily {{4.08,legally relevant}}.
   sources: []
   terms:
   - type: expression
@@ -52,11 +52,11 @@ data:
     type: accepted
   definition:
   - content: programme code et champ de données dédié recevant, filtrant ou transmettant
-      les données entre les {{modules,4.04}} du logiciel
+      les données entre les {{4.04,modules}} du logiciel
   examples: []
   id: 6.03-fra
   notes:
-  - content: Une interface logicielle n'a pas obligatoirement un {{caractère légal,4.08}}.
+  - content: Une interface logicielle n'a pas obligatoirement un {{4.08,caractère légal}}.
   sources: []
   terms:
   - type: expression

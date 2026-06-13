@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: systematic iteration of {{conformity assessment,A.1}} activities as a
+  - content: systematic iteration of {{A.1,conformity assessment}} activities as a
       basis for maintaining the validity of the statement of conformity
   examples: []
   id: A.20-eng
@@ -61,7 +61,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: itération systématique d'activités d'{{évaluation de la conformité,A.1}}
+  - content: itération systématique d'activités d'{{A.1,évaluation de la conformité}}
       comme base du maintien de la validité de l'affirmation de conformité
   examples: []
   id: A.20-fra

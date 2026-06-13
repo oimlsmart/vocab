@@ -35,7 +35,7 @@ data:
     type: accepted
   definition:
   - content: temporary restriction of the statement of conformity by the body that
-      issued the statement, for all or part of the specified scope of {{attestation,A.15}}
+      issued the statement, for all or part of the specified scope of {{A.15,attestation}}
   examples:
   - content: The issuing body suspends the statement of conformity because the specified
       requirements are no longer fulfilled.
@@ -68,7 +68,7 @@ data:
     type: accepted
   definition:
   - content: restriction temporaire de l’affirmation de conformité par l’organisme
-      ayant délivré l’affirmation, pour une partie ou l’ensemble de la portée d'{{attestation,A.15}}
+      ayant délivré l’affirmation, pour une partie ou l’ensemble de la portée d'{{A.15,attestation}}
       spécifiée
   examples:
   - content: L’organisme qui délivre l’affirmation de conformité la suspend, car les

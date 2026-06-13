@@ -27,7 +27,7 @@ data:
     type: accepted
   definition:
   - content: value specified in the applicable Recommendation delimiting non-significant
-      {{faults,5.12}}
+      {{5.12,faults}}
   examples: []
   id: 5.13-eng
   notes: []
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: valeur spécifiée dans la Recommandation applicable, délimitant les {{défauts,5.12}}
+  - content: valeur spécifiée dans la Recommandation applicable, délimitant les {{5.12,défauts}}
       non-significatifs
   examples: []
   id: 5.13-fra

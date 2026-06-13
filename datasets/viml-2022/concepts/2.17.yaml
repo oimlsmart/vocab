@@ -31,10 +31,10 @@ data:
     type: accepted
   definition:
   - content: legal decision taken by a party, either voluntarily or based on a bi-
-      or multilateral arrangement whereby a {{verification certificate,3.02}} issued
-      and/or a {{verification mark,3.04}} applied by another party is recognized as
-      complying with relevant requirements, without issuing a new {{verification certificate,3.02}}
-      and/or affixing a new {{verification mark,3.04}}
+      or multilateral arrangement whereby a {{3.02,verification certificate}} issued
+      and/or a {{3.04,verification mark}} applied by another party is recognized as
+      complying with relevant requirements, without issuing a new {{3.02,verification certificate}}
+      and/or affixing a new {{3.04,verification mark}}
   examples: []
   id: 2.17-eng
   notes: []
@@ -54,11 +54,11 @@ data:
     type: accepted
   definition:
   - content: décision légale prise par une partie, volontairement ou sur la base d'un
-      accord bi- ou multilatéral, selon laquelle un {{certificat de vérification,3.02}}
-      délivré et / ou une {{marque de vérification,3.04}} apposée par une autre partie
+      accord bi- ou multilatéral, selon laquelle un {{3.02,certificat de vérification}}
+      délivré et / ou une {{3.04,marque de vérification}} apposée par une autre partie
       est reconnu comme satisfaisant aux exigences applicables, sans délivrance d'un
-      nouveau {{certificat de vérification,3.02}} et/ou sans apposition d'une nouvelle
-      {{marque de vérification,3.04}}
+      nouveau {{3.02,certificat de vérification}} et/ou sans apposition d'une nouvelle
+      {{3.04,marque de vérification}}
   examples: []
   id: 2.17-fra
   notes: []

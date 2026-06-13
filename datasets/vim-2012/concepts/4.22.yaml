@@ -21,9 +21,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: difference in {{indication,4.1}} for a given {{measured quantity value,2.10}},
-      or in {{quantity values,1.19}} supplied by a {{material measure,3.6}}, when
-      an {{influence quantity,2.52}} assumes successively two different quantity values
+  - content: difference in {{4.1,indication}} for a given {{2.10,measured quantity value}},
+      or in {{1.19,quantity values}} supplied by a {{3.6,material measure}}, when
+      an {{2.52,influence quantity}} assumes successively two different quantity values
   examples: []
   id: 4.22-eng
   language_code: eng
@@ -47,9 +47,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: différence entre les {{indications,4.1}} qui correspondent à une même
-      {{valeur mesurée,2.10}}, ou entre les {{valeurs,1.19}} fournies par une {{mesure
-      matérialisée,3.6}}, lorsqu'une {{grandeur d'influence,2.52}} prend successivement
+  - content: différence entre les {{4.1,indications}} qui correspondent à une même
+      {{2.10,valeur mesurée}}, ou entre les {{1.19,valeurs}} fournies par une {{3.6,mesure matérialisée}}, lorsqu'une {{2.52,grandeur d'influence}} prend successivement
       deux valeurs différentes
   examples: []
   id: 4.22-fra

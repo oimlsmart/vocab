@@ -21,8 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measured quantity value,2.10}}, obtained by a given {{measurement
-      procedure,2.6}}, for which the probability of falsely claiming the absence of
+  - content: "{{2.10,measured quantity value}}, obtained by a given {{2.6,measurement procedure}}, for which the probability of falsely claiming the absence of
       a component in a material is β, given a probability α of falsely claiming its
       presence"
   examples: []
@@ -53,7 +52,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur mesurée,2.10}}, obtenue par une {{procédure de mesure,2.6}}
+  - content: "{{2.10,valeur mesurée}}, obtenue par une {{2.6,procédure de mesure}}
       donnée, pour laquelle la probabilité de déclarer faussement l'absence d'un constituant
       dans un matériau est β, étant donnée la probabilité α de déclarer faussement
       sa présence"

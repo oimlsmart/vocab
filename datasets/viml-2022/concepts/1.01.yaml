@@ -39,7 +39,7 @@ data:
     type: accepted
   definition:
   - content: practice and process of applying statutory and regulatory structure and
-      enforcement to {{metrology,0.01}}
+      enforcement to {{0.01,metrology}}
   examples: []
   id: 1.01-eng
   notes:
@@ -48,13 +48,13 @@ data:
 
       — setting up legal requirements,
 
-      — control / {{conformity assessment,A.1}} of regulated products and regulated
+      — control / {{A.1,conformity assessment}} of regulated products and regulated
       activities,
 
       — supervision of regulated products and of regulated activities, and
 
       — providing the necessary infrastructure for the traceability of regulated measurements
-      and {{measuring instruments,0.10}} to {{SI,0.02}} or national standards.'
+      and {{0.10,measuring instruments}} to {{0.02,SI}} or national standards.'
   - content: There are also regulations outside the area of legal metrology pertaining
       to the accuracy and correctness of measurement methods.
   sources: []
@@ -72,7 +72,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: pratique et processus consistant à appliquer à la {{métrologie,0.01}}
+  - content: pratique et processus consistant à appliquer à la {{0.01,métrologie}}
       une structure législative et réglementaire, et à la faire exécuter (voir 0.01)
   examples: []
   id: 1.01-fra
@@ -82,12 +82,12 @@ data:
 
       — l''établissement des exigences légales,
 
-      — le contrôle/l''{{évaluation de la conformité,A.1}} des produits réglementés,
+      — le contrôle/l''{{A.1,évaluation de la conformité}} des produits réglementés,
 
       — la surveillance des produits réglementés et des activités réglementés, et
 
       — la définition de l''infrastructure nécessaire pour assurer la traçabilité
-      des mesurages et {{instruments de mesure,0.10}} réglementés aux étalons {{SI,0.02}}
+      des mesurages et {{0.10,instruments de mesure}} réglementés aux étalons {{0.02,SI}}
       ou nationaux.'
   - content: Il existe également des réglementations en dehors du champ de la métrologie
       légale concernant l'exactitude et la pertinence des méthodes de mesurage.

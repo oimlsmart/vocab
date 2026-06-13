@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: approval of a type of {{measuring instrument,0.10}} that is linked with
+  - content: approval of a type of {{0.10,measuring instrument}} that is linked with
       one or more specific restrictions
   examples: []
   id: 2.06-eng
@@ -56,7 +56,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: approbation d'un type d'{{instrument de mesure,0.10}} associée à une
+  - content: approbation d'un type d'{{0.10,instrument de mesure}} associée à une
       ou plusieurs restrictions
   examples: []
   id: 2.06-fra

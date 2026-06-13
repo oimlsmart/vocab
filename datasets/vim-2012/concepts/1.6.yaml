@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{system of quantities,1.3}} based on the seven {{base quantities,1.4}}:
+  - content: "{{1.3,system of quantities}} based on the seven {{1.4,base quantities}}:
       length, mass, time, electric current, thermodynamic temperature, amount of substance,
       and luminous intensity"
   examples: []
@@ -30,15 +30,18 @@ data:
   notes:
   - content: This system of quantities is published in the ISO 80000 and IEC 80000
       series Quantities and units.
-  - content: The {{International System of Units,1.16}} (SI) (see 1.16) is based on
+  - content: The {{1.16,International System of Units}} (SI) (see 1.16) is based on
       the ISQ.
   terms:
   - type: expression
     normative_status: preferred
     designation: International System of Quantities
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: ISQ
+    related:
+    - type: abbreviated_form_for
+      target: International System of Quantities
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 8e7293f5-ab7f-443f-897f-05c3f0bd9f7d
@@ -48,7 +51,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{système de grandeurs,1.3}} fondé sur les sept {{grandeurs de base,1.4}}:
+  - content: "{{1.3,système de grandeurs}} fondé sur les sept {{1.4,grandeurs de base}}:
       longueur, masse, temps, courant électrique, température thermodynamique, quantité
       de matière, intensité lumineuse"
   examples: []
@@ -57,15 +60,18 @@ data:
   notes:
   - content: Ce système de grandeurs est publié dans les séries ISO 80000 et CEI 80000
       Grandeurs et unités.
-  - content: Le {{Système international d'unités,1.16}} (SI) (voir 1.16) est fondé
+  - content: Le {{1.16,Système international d'unités}} (SI) (voir 1.16) est fondé
       sur l'ISQ.
   terms:
   - type: expression
     normative_status: preferred
     designation: Système international de grandeurs
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: ISQ
+    related:
+    - type: abbreviated_form_for
+      target: Système international de grandeurs
     grammar_info:
     - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'

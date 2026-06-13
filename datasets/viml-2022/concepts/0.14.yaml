@@ -36,9 +36,9 @@ data:
   definition:
   - content: operation that, under specified conditions, in a first step, establishes
       a relation between the quantity values with measurement uncertainties provided
-      by measurement standards and corresponding {{indications,0.03}} with associated
+      by measurement standards and corresponding {{0.03,indications}} with associated
       measurement uncertainties and, in a second step, uses this information to establish
-      a relation for obtaining a measurement result from an {{indication,0.03}}
+      a relation for obtaining a measurement result from an {{0.03,indication}}
   examples: []
   id: 0.14-eng
   notes:
@@ -46,7 +46,7 @@ data:
       calibration diagram, calibration curve, or calibration table. In some cases,
       it may consist of an additive or multiplicative correction of the indication
       with associated measurement uncertainty.
-  - content: Calibration should not be confused with {{adjustment of a measuring system,0.15}},
+  - content: Calibration should not be confused with {{0.15,adjustment of a measuring system}},
       often mistakenly called “self-calibration”, nor with verification of calibration.
   - content: Often, the first step alone in the above definition is perceived as being
       calibration.
@@ -74,10 +74,10 @@ data:
   definition:
   - content: opération qui, dans des conditions spécifiées, établit en une première
       étape une relation entre les valeurs et les incertitudes de mesure associées
-      qui sont fournies par des étalons et les {{indications,0.03}} correspondantes
+      qui sont fournies par des étalons et les {{0.03,indications}} correspondantes
       avec les incertitudes associées, puis utilise en une seconde étape cette information
       pour établir une relation permettant d'obtenir un résultat de mesure à partir
-      d'une {{indication,0.03}}
+      d'une {{0.03,indication}}
   examples: []
   id: 0.14-fra
   notes:
@@ -85,8 +85,7 @@ data:
       d'étalonnage, d'un diagramme d'étalonnage, d'une courbe d'étalonnage ou d'une
       table d'étalonnage. Dans certains cas, il peut consister en une correction additive
       ou multiplicative de l'indication avec une incertitude de mesure associée.
-  - content: Il convient de ne pas confondre l'étalonnage avec l'{{ajustage d'un système
-      de mesure,0.15}}, souvent appelé improprement «auto-étalonnage», ni avec la
+  - content: Il convient de ne pas confondre l'étalonnage avec l'{{0.15,ajustage d'un système de mesure}}, souvent appelé improprement «auto-étalonnage», ni avec la
       vérification de l'étalonnage.
   - content: La seule première étape dans la définition est souvent perçue comme étant
       l'étalonnage.

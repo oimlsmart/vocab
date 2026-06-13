@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: protection of {{measuring instrument,0.10}} software or data domain by
+  - content: protection of {{0.10,measuring instrument}} software or data domain by
       a hardware or software implemented seal
   examples: []
   id: 6.04-eng
@@ -48,7 +48,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: protection du logiciel d'un {{instrument de mesure,0.10}} ou du domaine
+  - content: protection du logiciel d'un {{0.10,instrument de mesure}} ou du domaine
       de données par la mise en œuvre d'un scellement mécanique ou électronique
   examples: []
   id: 6.04-fra

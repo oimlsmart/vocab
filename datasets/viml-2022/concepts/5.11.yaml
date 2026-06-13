@@ -38,8 +38,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{intrinsic error,0.06}} of a {{measuring instrument,0.10}} as determined
-      prior to {{performance tests,5.21}} and {{durability,5.15}} evaluations'
+  - content: '{{0.06,intrinsic error}} of a {{0.10,measuring instrument}} as determined
+      prior to {{5.21,performance tests}} and {{5.15,durability}} evaluations'
   examples: []
   id: 5.11-eng
   notes: []
@@ -58,8 +58,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{erreur intrinsèque,0.06}} d''un instrument de mesure telle qu''elle
-      est déterminée avant les essais de performance et les évaluations de {{durabilité,5.15}}'
+  - content: '{{0.06,erreur intrinsèque}} d''un instrument de mesure telle qu''elle
+      est déterminée avant les essais de performance et les évaluations de {{5.15,durabilité}}'
   examples: []
   id: 5.11-fra
   notes: []

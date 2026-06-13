@@ -35,7 +35,7 @@ data:
     type: accepted
   definition:
   - content: selection and/or collection of material or data regarding an object of
-      {{conformity assessment,A.1}}
+      {{A.1,conformity assessment}}
   examples: []
   id: A.9-eng
   notes:
@@ -66,7 +66,7 @@ data:
     type: accepted
   definition:
   - content: sélection et/ou collecte de matériaux ou de données relatives à un objet
-      de l'{{évaluation de la conformité,A.1}}
+      de l'{{A.1,évaluation de la conformité}}
   examples: []
   id: A.9-fra
   notes:

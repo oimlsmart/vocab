@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: document stating that a {{measuring instrument,0.10}} was found not to
+  - content: document stating that a {{0.10,measuring instrument}} was found not to
       comply or no longer to comply with the relevant statutory requirements
   examples: []
   id: 3.03-eng
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: document indiquant qu'un {{instrument de mesure,0.10}} a été jugé comme
+  - content: document indiquant qu'un {{0.10,instrument de mesure}} a été jugé comme
       ne satisfaisant pas ou ne satisfaisant plus aux exigences réglementaires applicables
   examples: []
   id: 3.03-fra

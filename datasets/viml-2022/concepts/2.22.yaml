@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: cancellation of the {{verification mark,3.04}} when it has been found
-      that the {{measuring instrument,0.10}} no longer complies with the statutory
+  - content: cancellation of the {{3.04,verification mark}} when it has been found
+      that the {{0.10,measuring instrument}} no longer complies with the statutory
       requirements
   examples: []
   id: 2.22-eng
@@ -51,8 +51,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: annulation de la {{marque de vérification,3.04}} quand il a été constaté
-      que l'{{instrument de mesure,0.10}} ne satisfait plus aux exigences réglementaires
+  - content: annulation de la {{3.04,marque de vérification}} quand il a été constaté
+      que l'{{0.10,instrument de mesure}} ne satisfait plus aux exigences réglementaires
   examples: []
   id: 2.22-fra
   notes: []

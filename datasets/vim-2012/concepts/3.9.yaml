@@ -23,14 +23,14 @@ data:
     type: accepted
   definition:
   - content: device or substance that indicates the presence of a phenomenon, body,
-      or substance when a threshold {{value,1.19}} of an associated {{quantity,1.1}}
+      or substance when a threshold {{1.19,value}} of an associated {{1.1,quantity}}
       is exceeded
   examples:
   - content: Halogen leak detector, litmus paper.
   id: 3.9-eng
   language_code: eng
   notes:
-  - content: In some fields, the term “detector” is used for the concept of {{sensor,3.8}}.
+  - content: In some fields, the term “detector” is used for the concept of {{3.8,sensor}}.
   - content: In chemistry, the term “indicator” is frequently used for this concept.
   terms:
   - type: expression
@@ -46,7 +46,7 @@ data:
     type: accepted
   definition:
   - content: dispositif ou substance qui indique la présence d'un phénomène, d'un
-      corps ou d'une substance lorsqu'une {{valeur,1.19}} de seuil d'une {{grandeur,1.1}}
+      corps ou d'une substance lorsqu'une {{1.19,valeur}} de seuil d'une {{1.1,grandeur}}
       associée est dépassée
   examples:
   - content: Détecteur de fuite à halogène, papier au tournesol.
@@ -54,7 +54,7 @@ data:
   language_code: fra
   notes:
   - content: Dans certains domaines, le terme «détecteur» est employé pour le concept
-      de {{capteur,3.8}}.
+      de {{3.8,capteur}}.
   - content: En chimie, le terme «indicateur» est souvent employé pour ce concept.
   terms:
   - type: expression

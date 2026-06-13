@@ -43,8 +43,8 @@ data:
     type: accepted
   definition:
   - content: request by the person or organization that provides, or that is, the
-      object of {{conformity assessment,A.1}} to a {{conformity assessment body,A.2}}
-      or an {{accreditation body,A.3}} for reconsideration by that body of a decision
+      object of {{A.1,conformity assessment}} to a {{A.2,conformity assessment body}}
+      or an {{A.3,accreditation body}} for reconsideration by that body of a decision
       it has made relating to that object
   examples: []
   id: A.22-eng
@@ -72,8 +72,7 @@ data:
     type: accepted
   definition:
   - content: demande adressée par la personne ou l’organisation qui fournit ou qui
-      est l’objet de l'{{évaluation de la conformité,A.1}} à un {{organisme de l'évaluation
-      de la conformité,A.2}} ou à un {{organisme d'accréditation,A.3}} pour que cet
+      est l’objet de l'{{A.1,évaluation de la conformité}} à un {{A.2,organisme de l'évaluation de la conformité}} ou à un {{A.3,organisme d'accréditation}} pour que cet
       organisme reconsidère une décision déjà prise relative à cet objet
   examples: []
   id: A.22-fra

@@ -25,7 +25,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{system of units,1.13}}, based on the {{International System of Quantities,1.6}},
+  - content: "{{1.13,system of units}}, based on the {{1.6,International System of Quantities}},
       their names and symbols, including a series of prefixes and their names and
       symbols, together with rules for their use, adopted by the General Conference
       on Weights and Measures (CGPM)"
@@ -34,7 +34,7 @@ data:
   language_code: eng
   notes:
   - content: |-
-      The SI is founded on the seven {{base quantities,1.4}} of the {{ISQ,1.6}} and the names and symbols of the corresponding {{base units,1.10}} that are contained in the following table.
+      The SI is founded on the seven {{1.4,base quantities}} of the {{1.6,ISQ}} and the names and symbols of the corresponding {{1.10,base units}} that are contained in the following table.
 
       |===
       | lengthlongueur | metremètre
@@ -45,15 +45,15 @@ data:
       | amount of substancequantité de matière | molemole
       | luminous intensityintensité lumineuse | candelacandela
       |===
-  - content: The base units and the {{coherent derived units,1.12}} of the SI form
+  - content: The base units and the {{1.12,coherent derived units}} of the SI form
       a coherent set, designated the “set of coherent SI units”.
   - content: For a full description and explanation of the International System of
       Units, see the current edition of the SI brochure published by the Bureau International
       des Poids et Mesures (BIPM) and available on the BIPM website.
-  - content: In {{quantity calculus,1.21}}, the quantity 'number of entities' is often
+  - content: In {{1.21,quantity calculus}}, the quantity 'number of entities' is often
       considered to be a base quantity, with the base unit one, symbol 1.
   - content: |-
-      The SI prefixes for {{multiples of units,1.17}} and {{submultiples of units,1.18}} are:
+      The SI prefixes for {{1.17,multiples of units}} and {{1.18,submultiples of units}} are:
 
       |===
       | 1024 | yottayotta
@@ -81,9 +81,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: International System of Units
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: SI
+    related:
+    - type: abbreviated_form_for
+      target: International System of Units
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2d18389c-b377-4a36-a635-d965f1e0e1c1
@@ -94,7 +97,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{système d'unités,1.13}}, fondé sur le {{Système international de grandeurs,1.6}},
+  - content: "{{1.13,système d'unités}}, fondé sur le {{1.6,Système international de grandeurs}},
       comportant les noms et symboles des unités, une série de préfixes avec leurs
       noms et symboles, ainsi que des règles pour leur emploi, adopté par la Conférence
       générale des poids et mesures (CGPM)"
@@ -103,7 +106,7 @@ data:
   language_code: fra
   notes:
   - content: |-
-      Le SI est fondé sur les sept {{grandeurs de base,1.4}} de l'{{ISQ,1.6}}. Les noms et les symboles des {{unités de base,1.10}} sont donnés dans le tableau suivant.
+      Le SI est fondé sur les sept {{1.4,grandeurs de base}} de l'{{1.6,ISQ}}. Les noms et les symboles des {{1.10,unités de base}} sont donnés dans le tableau suivant.
 
       |===
       | lengthlongueur | metremètre
@@ -114,17 +117,17 @@ data:
       | amount of substancequantité de matière | molemole
       | luminous intensityintensité lumineuse | candelacandela
       |===
-  - content: Les unités de base et les {{unités dérivées cohérentes,1.12}} du SI forment
+  - content: Les unités de base et les {{1.12,unités dérivées cohérentes}} du SI forment
       un ensemble cohérent, appelé «ensemble des unités SI cohérentes».
   - content: Pour une description et une explication complètes du Système international
       d'unités, voir la dernière édition de la brochure du SI publiée par le Bureau
       international des poids et mesures (BIPM) et disponible sur le site internet
       du BIPM.
-  - content: En {{algèbre des grandeurs,1.21}}, la grandeur «nombre d'entités» est
+  - content: En {{1.21,algèbre des grandeurs}}, la grandeur «nombre d'entités» est
       souvent considérée comme une grandeur de base, avec l'unité de base un, symbole
       1.
   - content: |-
-      Les préfixes SI pour les {{multiples des unités,1.17}} et {{sous-multiples des unités,1.18}} sont:
+      Les préfixes SI pour les {{1.17,multiples des unités}} et {{1.18,sous-multiples des unités}} sont:
 
       |===
       | 1024 | yottayotta
@@ -152,9 +155,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: Système international d'unités
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: SI
+    related:
+    - type: abbreviated_form_for
+      target: Système international d'unités
     grammar_info:
     - gender: m
 date_accepted: '2012-01-01T00:00:00+00:00'

@@ -22,8 +22,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: rounded or approximate {{value,1.19}} of a characterizing {{quantity,1.1}}
-      of a {{measuring instrument,3.1}} or {{measuring system,3.2}} that provides
+  - content: rounded or approximate {{1.19,value}} of a characterizing {{1.1,quantity}}
+      of a {{3.1,measuring instrument}} or {{3.2,measuring system}} that provides
       guidance for its appropriate use
   examples:
   - content: 100 Ω as the nominal quantity value marked on a standard resistor.
@@ -53,8 +53,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur,1.19}} arrondie ou approximative d'une {{grandeur,1.1}} caractéristique
-      d'un {{instrument de mesure,3.1}} ou d'un {{système de mesure,3.2}}, qui sert
+  - content: "{{1.19,valeur}} arrondie ou approximative d'une {{1.1,grandeur}} caractéristique
+      d'un {{3.1,instrument de mesure}} ou d'un {{3.2,système de mesure}}, qui sert
       de guide pour son utilisation appropriée"
   examples:
   - content: La valeur 100 Ω marquée sur une résistance étalon.
@@ -66,7 +66,7 @@ data:
   language_code: fra
   notes:
   - content: En anglais, il convient de ne pas utilizer «nominal quantity value» et
-      «nominal value» pour la valeur d'une {{propriété qualitative,1.30}} (en anglais
+      «nominal value» pour la valeur d'une {{1.30,propriété qualitative}} (en anglais
       «nominal property value»).
   terms:
   - type: expression

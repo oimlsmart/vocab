@@ -21,16 +21,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition of {{measurement,2.1}}, out of a set of conditions that includes
-      the same {{measurement procedure,2.6}}, same location, and replicate measurements
+  - content: condition of {{2.1,measurement}}, out of a set of conditions that includes
+      the same {{2.6,measurement procedure}}, same location, and replicate measurements
       on the same or similar objects over an extended period of time, but may include
       other conditions involving changes
   examples: []
   id: 2.22-eng
   language_code: eng
   notes:
-  - content: The changes can include new {{calibrations,2.39}}, {{calibrators,5.12}},
-      operators, and {{measuring systems,3.2}}.
+  - content: The changes can include new {{2.39,calibrations}}, {{5.12,calibrators}},
+      operators, and {{3.2,measuring systems}}.
   - content: A specification for the conditions should contain the conditions changed
       and unchanged, to the extent practical.
   - content: In chemistry, the term “inter-serial precision condition of measurement”
@@ -51,16 +51,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition de {{mesurage,2.1}} dans un ensemble de conditions qui comprennent
-      la même {{procédure de mesure,2.6}}, le même lieu et des mesurages répétés sur
+  - content: condition de {{2.1,mesurage}} dans un ensemble de conditions qui comprennent
+      la même {{2.6,procédure de mesure}}, le même lieu et des mesurages répétés sur
       le même objet ou des objets similaires pendant une période de temps étendue,
       mais peuvent comprendre d'autres conditions que l'on fait varier
   examples: []
   id: 2.22-fra
   language_code: fra
   notes:
-  - content: Les conditions que l'on fait varier peuvent comprendre de nouveaux {{étalonnages,2.39}},
-      {{étalons,5.1}}, opérateurs et {{systèmes de mesure,3.2}}.
+  - content: Les conditions que l'on fait varier peuvent comprendre de nouveaux {{2.39,étalonnages}},
+      {{5.1,étalons}}, opérateurs et {{3.2,systèmes de mesure}}.
   - content: Il convient qu'une spécification relative aux conditions contienne, dans
       la mesure du possible, les conditions que l'on fait varier et celles qui restent
       inchangées.

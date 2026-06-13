@@ -39,8 +39,8 @@ data:
     type: accepted
   definition:
   - content: organization established within government, or empowered by government,
-      to designate {{conformity assessment bodies,A.2}} and to suspend or withdraw
-      their {{designation,A.30}}
+      to designate {{A.2,conformity assessment bodies}} and to suspend or withdraw
+      their {{A.30,designation}}
   examples: []
   id: A.31-eng
   notes: []
@@ -67,8 +67,8 @@ data:
     type: accepted
   definition:
   - content: organisation établie au sein du gouvernement, ou habilitée par celui-ci,
-      chargée de désigner les {{organismes d'évaluation de la conformité,A.2}} et
-      de suspendre ou de retirer leur {{désignation,A.30}}
+      chargée de désigner les {{A.2,organismes d'évaluation de la conformité}} et
+      de suspendre ou de retirer leur {{A.30,désignation}}
   examples: []
   id: A.31-fra
   notes: []

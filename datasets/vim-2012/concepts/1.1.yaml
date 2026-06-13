@@ -53,8 +53,8 @@ data:
       dans le spécimen i de sang, C(Erc; Sgi) | \n| Rockwell C hardness, HRC dureté
       C de Rockwell, HRC | Rockwell C hardness of steel sample i, HRCi dureté C de
       Rockwell du spécimen i d'acier, HRCi | \n|==="
-  - content: A reference can be a {{measurement unit,1.9}}, a {{measurement procedure,2.6}},
-      a {{reference material,5.13}}, or a combination of such.
+  - content: A reference can be a {{1.9,measurement unit}}, a {{2.6,measurement procedure}},
+      a {{5.13,reference material}}, or a combination of such.
   - content: Symbols for quantities are given in the ISO 80000 and IEC 80000 series
       Quantities and units. The symbols for quantities are written in italics. A given
       symbol can indicate different quantities.
@@ -63,8 +63,8 @@ data:
   - content: A quantity as defined here is a scalar. However, a vector or a tensor,
       the components of which are quantities, is also considered to be a quantity.
   - content: The concept 'quantity' may be generically divided into, e.g. 'physical
-      quantity', 'chemical quantity', and 'biological quantity', or {{base quantity,1.4}}
-      and {{derived quantity,1.5}}.
+      quantity', 'chemical quantity', and 'biological quantity', or {{1.4,base quantity}}
+      and {{1.5,derived quantity}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -109,8 +109,7 @@ data:
       dans le spécimen i de sang, C(Erc; Sgi) | \n| Rockwell C hardness, HRC dureté
       C de Rockwell, HRC | Rockwell C hardness of steel sample i, HRCi dureté C de
       Rockwell du spécimen i d'acier, HRCi | \n|==="
-  - content: La référence peut être une {{unité de mesure,1.9}}, une {{procédure de
-      mesure,2.6}}, un {{matériau de référence,5.13}}, ou une de leurs combinaisons.
+  - content: La référence peut être une {{1.9,unité de mesure}}, une {{2.6,procédure de mesure}}, un {{5.13,matériau de référence}}, ou une de leurs combinaisons.
   - content: Les séries ISO 80000 et CEI 80000 Grandeurs et unités donnent des symboles
       de grandeurs. Les symboles de grandeurs sont écrits en italique. Un symbole
       donné peut noter des grandeurs différentes.
@@ -120,8 +119,7 @@ data:
       un vecteur ou un tenseur dont les composantes sont des grandeurs est aussi considéré
       comme une grandeur.
   - content: Le concept de grandeur peut être subdivisé génériquement, par exemple
-      «grandeur physique», «grandeur chimique» et «grandeur biologique», ou {{grandeur
-      de base,1.4}} et {{grandeur dérivée,1.5}}.
+      «grandeur physique», «grandeur chimique» et «grandeur biologique», ou {{1.4,grandeur de base}} et {{1.5,grandeur dérivée}}.
   terms:
   - type: expression
     normative_status: preferred

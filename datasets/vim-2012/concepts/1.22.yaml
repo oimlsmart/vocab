@@ -22,8 +22,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mathematical relation between {{quantities,1.1}} in a given {{system
-      of quantities,1.3}}, independent of {{measurement units,1.9}}
+  - content: mathematical relation between {{1.1,quantities}} in a given {{1.3,system of quantities}}, independent of {{1.9,measurement units}}
   examples:
   - content: Q1 = ζ Q2 Q3 where Q1, Q2 and Q3 denote different quantities, and where
       ζ is a numerical factor.
@@ -48,8 +47,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: relation d'égalité entre des {{grandeurs,1.1}} d'un {{système de grandeurs,1.3}}
-      donné, indépendante des {{unités de mesure,1.9}}
+  - content: relation d'égalité entre des {{1.1,grandeurs}} d'un {{1.3,système de grandeurs}}
+      donné, indépendante des {{1.9,unités de mesure}}
   examples:
   - content: Q1 = ζQ2 Q3, où Q1, Q2 et Q3 représentent différentes grandeurs et où
       ζ est un facteur numérique.

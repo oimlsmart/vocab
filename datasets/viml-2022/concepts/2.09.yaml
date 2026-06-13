@@ -46,9 +46,9 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{conformity assessment,A.1}} procedure (other than {{type evaluation,2.04}})
-      which results in the affixing of a {{verification mark,3.04}} and/or issuing
-      of a {{verification certificate,3.02}}'
+  - content: '{{A.1,conformity assessment}} procedure (other than {{2.04,type evaluation}})
+      which results in the affixing of a {{3.04,verification mark}} and/or issuing
+      of a {{3.02,verification certificate}}'
   examples: []
   id: 2.09-eng
   notes:
@@ -68,9 +68,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{procédure,A.7}} d''{{évaluation de la conformité,A.1}} (autre que
-      l''{{approbation de type,2.05}}) qui conduit à l''apposition d''une {{marque
-      de vérification,3.04}} et/ou à la délivrance d''un {{certificat de vérification,3.02}}'
+  - content: '{{A.7,procédure}} d''{{A.1,évaluation de la conformité}} (autre que
+      l''{{2.05,approbation de type}}) qui conduit à l''apposition d''une {{3.04,marque de vérification}} et/ou à la délivrance d''un {{3.02,certificat de vérification}}'
   examples: []
   id: 2.09-fra
   notes:

@@ -21,18 +21,18 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity value,1.19}} representing a {{measurement result,2.9}}"
+  - content: "{{1.19,quantity value}} representing a {{2.9,measurement result}}"
   examples: []
   id: 2.10-eng
   language_code: eng
   notes:
-  - content: For a {{measurement,2.1}} involving replicate {{indications,4.1}}, each
+  - content: For a {{2.1,measurement}} involving replicate {{4.1,indications}}, each
       indication can be used to provide a corresponding measured quantity value. This
       set of individual measured quantity values can be used to calculate a resulting
       measured quantity value, such as an average or median, usually with a decreased
-      associated {{measurement uncertainty,2.26}}.
-  - content: When the range of the {{true quantity values,2.11}} believed to represent
-      the {{measurand,2.3}} is small compared with the measurement uncertainty, a
+      associated {{2.26,measurement uncertainty}}.
+  - content: When the range of the {{2.11,true quantity values}} believed to represent
+      the {{2.3,measurand}} is small compared with the measurement uncertainty, a
       measured quantity value can be considered to be an estimate of an essentially
       unique true quantity value and is often an average or median of individual measured
       quantity values obtained through replicate measurements.
@@ -67,18 +67,18 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur d'une grandeur,1.19}} représentant un {{résultat de mesure,2.9}}"
+  - content: "{{1.19,valeur d'une grandeur}} représentant un {{2.9,résultat de mesure}}"
   examples: []
   id: 2.10-fra
   language_code: fra
   notes:
-  - content: Pour un {{mesurage,2.1}} impliquant des {{indications,4.1}} répétées,
+  - content: Pour un {{2.1,mesurage}} impliquant des {{4.1,indications}} répétées,
       chacune peut être utilisée pour fournir une valeur mesurée correspondante. Cet
       ensemble de valeurs mesurées individuelles peut ensuite être utilisé pour calculer
       une valeur mesurée résultante, telle qu'une moyenne ou une médiane, en général
-      avec une {{incertitude de mesure,2.26}} associée qui décroît.
-  - content: Lorsque l'étendue des {{valeurs vraies,2.11}} considérées comme représentant
-      le {{mesurande,2.3}} est petite par rapport à l'incertitude de mesure, on peut
+      avec une {{2.26,incertitude de mesure}} associée qui décroît.
+  - content: Lorsque l'étendue des {{2.11,valeurs vraies}} considérées comme représentant
+      le {{2.3,mesurande}} est petite par rapport à l'incertitude de mesure, on peut
       considérer une valeur mesurée comme une estimation d'une valeur vraie par essence
       unique, souvent sous la forme d'une moyenne ou d'une médiane de valeurs mesurées
       individuelles obtenues par des mesurages répétés.

@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: arrangement whereby one party recognizes or accepts a {{conformity assessment,A.1}}
+  - content: arrangement whereby one party recognizes or accepts a {{A.1,conformity assessment}}
       result of another party
   examples: []
   id: A.35-eng
@@ -65,7 +65,7 @@ data:
     type: accepted
   definition:
   - content: arrangement selon lequel une partie reconnaît ou accepte le résultat
-      de l'{{évaluation de la conformité,A.1}} fourni par une autre partie
+      de l'{{A.1,évaluation de la conformité}} fourni par une autre partie
   examples: []
   id: A.35-fra
   notes:

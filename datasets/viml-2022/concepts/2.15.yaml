@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: decision of legal relevance that a {{measuring instrument,0.10}} does
+  - content: decision of legal relevance that a {{0.10,measuring instrument}} does
       not comply with statutory requirements for verification and prohibiting its
       use for applications requiring mandatory verification
   examples: []
@@ -50,7 +50,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: décision de portée légale spécifiant qu'un {{instrument de mesure,0.10}}
+  - content: décision de portée légale spécifiant qu'un {{0.10,instrument de mesure}}
       ne satisfait pas aux exigences réglementaires de vérification et interdisant
       son utilisation pour les applications exigeant une vérification obligatoire
   examples: []

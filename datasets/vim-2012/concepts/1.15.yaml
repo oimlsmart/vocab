@@ -22,11 +22,10 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement unit,1.9}} that does not belong to a given {{system of
-      units,1.13}}"
+  - content: "{{1.9,measurement unit}} that does not belong to a given {{1.13,system of units}}"
   examples:
   - content: The electronvolt (about 1.602 18 ·10–19J) is an off-system measurement
-      unit of energy with respect to the {{SI,1.16}}.
+      unit of energy with respect to the {{1.16,SI}}.
   - content: Day, hour, minute are off-system measurement units of time with respect
       to the SI.
   id: 1.15-eng
@@ -48,11 +47,11 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{unité de mesure,1.9}} qui n'appartient pas à un {{système d'unités,1.13}}
+  - content: "{{1.9,unité de mesure}} qui n'appartient pas à un {{1.13,système d'unités}}
       donné"
   examples:
   - content: L'électronvolt (environ 1,602 18 ·10–19J) est une unité d'énergie hors
-      système pour le {{SI,1.16}}.
+      système pour le {{1.16,SI}}.
   - content: Le jour, l'heure, la minute sont des unités de temps hors système pour
       le SI.
   id: 1.15-fra

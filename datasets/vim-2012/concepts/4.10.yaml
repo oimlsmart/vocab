@@ -21,17 +21,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: extreme operating condition that a {{measuring instrument,3.1}} or {{measuring
-      system,3.2}} is required to withstand without damage, and without degradation
+  - content: extreme operating condition that a {{3.1,measuring instrument}} or {{3.2,measuring system}} is required to withstand without damage, and without degradation
       of specified metrological properties, when it is subsequently operated under
-      its {{rated operating conditions,4.9}}
+      its {{4.9,rated operating conditions}}
   examples: []
   id: 4.10-eng
   language_code: eng
   notes:
   - content: Limiting conditions for storage, transport or operation can differ.
-  - content: Limiting conditions can include limiting {{values,1.19}} of a {{quantity,1.1}}
-      being measured and of any {{influence quantity,2.52}}.
+  - content: Limiting conditions can include limiting {{1.19,values}} of a {{1.1,quantity}}
+      being measured and of any {{2.52,influence quantity}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,18 +44,18 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition de fonctionnement extrême qu'un {{instrument de mesure,3.1}}
-      ou un {{système de mesure,3.2}} doit pouvoir supporter sans dommage et sans
+  - content: condition de fonctionnement extrême qu'un {{3.1,instrument de mesure}}
+      ou un {{3.2,système de mesure}} doit pouvoir supporter sans dommage et sans
       dégradation de propriétés métrologiques spécifiées, lorsqu'il est ensuite utilisé
-      dans ses {{conditions assignées de fonctionnement,4.9}}
+      dans ses {{4.9,conditions assignées de fonctionnement}}
   examples: []
   id: 4.10-fra
   language_code: fra
   notes:
   - content: Les conditions limites de fonctionnement peuvent être différentes pour
       le stockage, le transport et le fonctionnement.
-  - content: Les conditions limites de fonctionnement peuvent comprendre des {{valeurs,1.19}}
-      limites pour la {{grandeur,1.1}} mesurée et pour les {{grandeurs d'influence,2.52}}.
+  - content: Les conditions limites de fonctionnement peuvent comprendre des {{1.19,valeurs}}
+      limites pour la {{1.1,grandeur}} mesurée et pour les {{2.52,grandeurs d'influence}}.
   terms:
   - type: expression
     normative_status: preferred

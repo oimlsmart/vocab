@@ -21,9 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{reference measurement procedure,2.7}} used to obtain a {{measurement
-      result,2.9}} without relation to a {{measurement standard,5.1}} for a {{quantity,1.1}}
-      of the same {{kind,1.2}}"
+  - content: "{{2.7,reference measurement procedure}} used to obtain a {{2.9,measurement result}} without relation to a {{5.1,measurement standard}} for a {{1.1,quantity}}
+      of the same {{1.2,kind}}"
   examples:
   - content: The volume of water delivered by a 50 ml pipette at 20 °C is measured
       by weighing the water delivered by the pipette into a beaker, taking the mass
@@ -59,9 +58,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{procédure de mesure de référence,2.7}} utilisée pour obtenir un {{résultat
-      de mesure,2.9}} sans relation avec un {{étalon,5.1}} d'une {{grandeur,1.1}}
-      de même {{nature,1.2}}"
+  - content: "{{2.7,procédure de mesure de référence}} utilisée pour obtenir un {{2.9,résultat de mesure}} sans relation avec un {{5.1,étalon}} d'une {{1.1,grandeur}}
+      de même {{1.2,nature}}"
   examples:
   - content: Le volume d'eau délivré par une pipette de 5 ml à 20 °C est mesuré en
       pesant l'eau délivrée par la pipette dans un bécher, en prenant la différence

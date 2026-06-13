@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: document certifying that the {{verification of the measuring instrument,2.09}}
+  - content: document certifying that the {{2.09,verification of the measuring instrument}}
       was carried out and compliance with statutory requirements was confirmed
   examples: []
   id: 3.02-eng
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: document certifiant que la {{vérification d'un instrument de mesure,2.09}}
+  - content: document certifiant que la {{2.09,vérification d'un instrument de mesure}}
       a été effectuée et que la conformité aux exigences réglementaires a été constatée
   examples: []
   id: 3.02-fra

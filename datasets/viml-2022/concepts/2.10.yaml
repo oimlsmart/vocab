@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: examination of a {{measuring instrument,0.10}} either to partial requirements
+  - content: examination of a {{0.10,measuring instrument}} either to partial requirements
       or before certain elements of the measuring instrument are installed as part
       of the verification procedure
   examples: []
@@ -47,7 +47,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: examen d'un {{instrument de mesure,0.10}}, soit par rapport à une partie
+  - content: examen d'un {{0.10,instrument de mesure}}, soit par rapport à une partie
       des exigences, soit avant que certains éléments de l'instrument de mesure soient
       assemblés, dans le cadre d'une procédure de vérification
   examples: []

@@ -38,8 +38,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: range or characteristics of objects of {{conformity assessment,A.1}}
-      covered by {{attestation,A.15}}
+  - content: range or characteristics of objects of {{A.1,conformity assessment}}
+      covered by {{A.15,attestation}}
   examples: []
   id: A.16-eng
   notes: []
@@ -65,8 +65,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: étendue ou caractéristiques des objets de l'{{évaluation de la conformité,A.1}}
-      couverts par l'{{attestation,A.15}}
+  - content: étendue ou caractéristiques des objets de l'{{A.1,évaluation de la conformité}}
+      couverts par l'{{A.15,attestation}}
   examples: []
   id: A.16-fra
   notes: []

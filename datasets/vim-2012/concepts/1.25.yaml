@@ -21,13 +21,12 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mathematical relation between {{numerical quantity values,1.20}}, based
-      on a given {{quantity equation,1.22}} and specified {{measurement units,1.9}}
+  - content: mathematical relation between {{1.20,numerical quantity values}}, based
+      on a given {{1.22,quantity equation}} and specified {{1.9,measurement units}}
   examples:
-  - content: For the {{quantities,1.1}} in Example 1 in item 1.22, {Q1} = ζ{Q2} {Q3}
+  - content: For the {{1.1,quantities}} in Example 1 in item 1.22, {Q1} = ζ{Q2} {Q3}
       where {Q1}, {Q2}, and {Q3} denote the numerical values of Q1, Q2, and Q3, respectively,
-      provided that they are expressed in either {{base units,1.10}} or {{coherent
-      derived units,1.12}} or both.
+      provided that they are expressed in either {{1.10,base units}} or {{1.12,coherent derived units}} or both.
   - content: In the quantity equation for kinetic energy of a particle, T= (1/2) mv2,
       if m= 2 kg and v= 3 m/s, then {T} = (1/2) ·2 ·32 is a numerical value equation
       giving the numerical value 9 of Tin joules.
@@ -54,13 +53,12 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: relation d'égalité entre des {{valeurs numériques,1.20}}, fondée sur
-      une {{équation aux grandeurs,1.22}} donnée et des {{unités de mesure,1.9}} spécifiées
+  - content: relation d'égalité entre des {{1.20,valeurs numériques}}, fondée sur
+      une {{1.22,équation aux grandeurs}} donnée et des {{1.9,unités de mesure}} spécifiées
   examples:
-  - content: Pour les {{grandeurs,1.1}} données dans l'
+  - content: Pour les {{1.1,grandeurs}} données dans l'
   - content: de 1.22, {Q1} = ζ {Q2} {Q3}, où {Q1}, {Q2} et {Q3} représentent respectivement
-      les valeurs numériques de Q1, Q2 et Q3 lorsqu'elles sont exprimées en {{unités
-      de base,1.10}} ou en {{unités dérivées cohérentes,1.12}} ou les deux.
+      les valeurs numériques de Q1, Q2 et Q3 lorsqu'elles sont exprimées en {{1.10,unités de base}} ou en {{1.12,unités dérivées cohérentes}} ou les deux.
   - content: Pour l'équation de l'énergie cinétique d'une particule, T= (1/2) mv2,
       si m= 2 kg et v= 3 m/s, alors {T} = (1/2) ·2 · 32 est une équation aux valeurs
       numériques donnant la valeur numérique 9 pour Ten joules.

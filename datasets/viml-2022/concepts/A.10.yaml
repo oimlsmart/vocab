@@ -38,8 +38,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: determination of one or more characteristics of an object of {{conformity
-      assessment,A.1}}, according to a {{procedure,A.7}}
+  - content: determination of one or more characteristics of an object of {{A.1,conformity assessment}}, according to a {{A.7,procedure}}
   examples: []
   id: A.10-eng
   notes:
@@ -73,8 +72,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: détermination d'une ou de plusieurs caractéristiques d'un objet de l'{{évaluation
-      de la conformité,A.1}}, selon une {{procédure,A.7}}
+  - content: détermination d'une ou de plusieurs caractéristiques d'un objet de l'{{A.1,évaluation de la conformité}}, selon une {{A.7,procédure}}
   examples: []
   id: A.10-fra
   notes:

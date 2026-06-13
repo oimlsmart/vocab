@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: property of a {{measuring instrument,3.1}}, whereby its metrological
+  - content: property of a {{3.1,measuring instrument}}, whereby its metrological
       properties remain constant in time
   examples:
   - content: In terms of the duration of a time interval over which a metrological
@@ -47,7 +47,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: propriété d'un {{instrument de mesure,3.1}} selon laquelle celui-ci conserve
+  - content: propriété d'un {{3.1,instrument de mesure}} selon laquelle celui-ci conserve
       ses propriétés métrologiques constantes au cours du temps
   examples:
   - content: Par la durée d'un intervalle de temps au cours duquel une propriété métrologique

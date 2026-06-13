@@ -32,12 +32,12 @@ data:
   notes:
   - content: 'Legal units may be
 
-      — {{SI,0.02}} units,
+      — {{0.02,SI}} units,
 
-      — their decimal multiples and submultiples as indicated by the use of {{SI,0.02}}
+      — their decimal multiples and submultiples as indicated by the use of {{0.02,SI}}
       prefixes, or
 
-      — non-{{SI,0.02}} units specified by relevant regulations.'
+      — non-{{0.02,SI}} units specified by relevant regulations.'
   sources: []
   terms:
   - type: expression
@@ -59,12 +59,12 @@ data:
   notes:
   - content: 'Les unités légales peuvent être
 
-      — les unités {{SI,0.02}},
+      — les unités {{0.02,SI}},
 
       — leurs multiples et sous-multiples décimaux comme indiqué par l''utilisation
-      des préfixes du {{SI,0.02}}, ou
+      des préfixes du {{0.02,SI}}, ou
 
-      — des unités non {{SI,0.02}} spécifiées par les règlements applicables.'
+      — des unités non {{0.02,SI}} spécifiées par les règlements applicables.'
   sources: []
   terms:
   - type: expression

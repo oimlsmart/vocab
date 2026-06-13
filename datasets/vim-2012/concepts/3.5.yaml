@@ -25,8 +25,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: part of a {{displaying measuring instrument,3.4}}, consisting of an ordered
-      set of marks together with any associated {{quantity values,1.19}}
+  - content: part of a {{3.4,displaying measuring instrument}}, consisting of an ordered
+      set of marks together with any associated {{1.19,quantity values}}
   examples: []
   id: 3.5-eng
   language_code: eng
@@ -49,9 +49,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: partie d'un {{appareil de mesure afficheur,3.4}} constituée d'un ensemble
-      ordonné de repères, associés éventuellement à des nombres ou des {{valeurs de
-      grandeurs,1.19}}
+  - content: partie d'un {{3.4,appareil de mesure afficheur}} constituée d'un ensemble
+      ordonné de repères, associés éventuellement à des nombres ou des {{1.19,valeurs de grandeurs}}
   examples: []
   id: 3.5-fra
   language_code: fra

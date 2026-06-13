@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mark applied to a {{measuring instrument,0.10}} in a conspicuous manner
-      certifying that the {{verification of the measuring instrument,2.09}} was carried
+  - content: mark applied to a {{0.10,measuring instrument}} in a conspicuous manner
+      certifying that the {{2.09,verification of the measuring instrument}} was carried
       out and compliance with statutory requirements was confirmed
   examples: []
   id: 3.04-eng
@@ -53,8 +53,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: marque apposée sur un {{instrument de mesure,0.10}} de manière apparente
-      certifiant que la {{vérification de l'instrument de mesure,2.09}} a été effectuée
+  - content: marque apposée sur un {{0.10,instrument de mesure}} de manière apparente
+      certifiant que la {{2.09,vérification de l'instrument de mesure}} a été effectuée
       et que la conformité aux exigences réglementaires à été constatée
   examples: []
   id: 3.04-fra

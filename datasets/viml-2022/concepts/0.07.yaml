@@ -35,7 +35,7 @@ data:
     type: accepted
   definition:
   - content: quantity that, in a direct measurement, does not affect the quantity
-      that is actually measured, but affects the relation between the {{indication,0.03}}
+      that is actually measured, but affects the relation between the {{0.03,indication}}
       and the measurement result
   examples:
   - content: Frequency in the direct measurement with an ammeter of the constant amplitude
@@ -80,7 +80,7 @@ data:
     type: accepted
   definition:
   - content: grandeur qui, lors d'un mesurage direct, n'a pas d'effet sur la grandeur
-      effectivement mesurée, mais a un effet sur la relation entre l'{{indication,0.03}}
+      effectivement mesurée, mais a un effet sur la relation entre l'{{0.03,indication}}
       et le résultat de mesure
   examples:
   - content: Fréquence lors du mesurage direct de l'amplitude constante d'un courant

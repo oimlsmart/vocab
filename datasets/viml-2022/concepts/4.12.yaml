@@ -30,12 +30,12 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{legally relevant parameter,4.10}} with a value that depends on the
+  - content: '{{4.10,legally relevant parameter}} with a value that depends on the
       individual instrument'
   examples: []
   id: 4.12-eng
   notes:
-  - content: Device-specific parameters comprise {{adjustment,0.15}} parameters (e.g.
+  - content: Device-specific parameters comprise {{0.15,adjustment}} parameters (e.g.
       span adjustment or other adjustments or corrections) and configuration parameters
       (e.g. maximum value, minimum value, units of measurement, etc.).
   sources: []
@@ -53,12 +53,12 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{paramètre à caractère légal,4.10}} dont la valeur dépend de chaque
+  - content: '{{4.10,paramètre à caractère légal}} dont la valeur dépend de chaque
       instrument'
   examples: []
   id: 4.12-fra
   notes:
-  - content: 'Les paramètres spécifiques individuels comprennent les paramètres d''{{ajustage,0.15}}
+  - content: 'Les paramètres spécifiques individuels comprennent les paramètres d''{{0.15,ajustage}}
       (par exemple : ajustage de pente, autres ajustages ou corrections) et les paramètres
       de configuration (par exemple : valeur maximale, valeur minimale, unités de
       mesure, etc.).'

@@ -31,7 +31,7 @@ data:
     type: accepted
   definition:
   - content: device used for storing measurement data after completion of the measurement
-      and keeping it available for later {{legally relevant,4.08}} purposes (e.g.
+      and keeping it available for later {{4.08,legally relevant}} purposes (e.g.
       the conclusion of a commercial transaction)
   examples: []
   id: 6.07-eng
@@ -52,8 +52,7 @@ data:
     type: accepted
   definition:
   - content: dispositif permettant de mémoriser les données après la réalisation du
-      mesurage et de les conserver accessibles à des fins ultérieures à {{caractère
-      métrologique,4.03}} (par exemple, la conclusion d'une transaction commerciale)
+      mesurage et de les conserver accessibles à des fins ultérieures à {{4.03,caractère métrologique}} (par exemple, la conclusion d'une transaction commerciale)
   examples: []
   id: 6.07-fra
   notes: []

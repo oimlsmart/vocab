@@ -21,9 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: operating condition of a {{measuring instrument,3.1}} or {{measuring
-      system,3.2}} in which the relation established by {{calibration,2.39}} remains
-      valid even for a {{measurand,2.3}} varying with time
+  - content: operating condition of a {{3.1,measuring instrument}} or {{3.2,measuring system}} in which the relation established by {{2.39,calibration}} remains
+      valid even for a {{2.3,measurand}} varying with time
   examples: []
   id: 4.8-eng
   language_code: eng
@@ -41,9 +40,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition de fonctionnement d'un {{instrument de mesure,3.1}} ou d'un
-      {{système de mesure,3.2}} dans laquelle la relation établie par un {{étalonnage,2.39}}
-      reste valable même pour un {{mesurande,2.3}} qui varie en fonction du temps
+  - content: condition de fonctionnement d'un {{3.1,instrument de mesure}} ou d'un
+      {{3.2,système de mesure}} dans laquelle la relation établie par un {{2.39,étalonnage}}
+      reste valable même pour un {{2.3,mesurande}} qui varie en fonction du temps
   examples: []
   id: 4.8-fra
   language_code: fra

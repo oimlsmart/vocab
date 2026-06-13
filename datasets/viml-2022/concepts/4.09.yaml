@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measuring instrument,0.10}} of an approved type, which on its own
+  - content: '{{0.10,measuring instrument}} of an approved type, which on its own
       or together with suitable documentation, serves as a reference e.g. for checking
       conformity of instruments with the approved type'
   examples: []
@@ -47,7 +47,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{instrument de mesure,0.10}} d''un type approuvé qui, seul ou avec
+  - content: '{{0.10,instrument de mesure}} d''un type approuvé qui, seul ou avec
       une documentation appropriée, sert de référence, par exemple, pour vérifier
       la conformité d''instruments au type approuvé'
   examples: []

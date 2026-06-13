@@ -21,17 +21,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: interval containing the set of {{true quantity values,2.11}} of a {{measurand,2.3}}
+  - content: interval containing the set of {{2.11,true quantity values}} of a {{2.3,measurand}}
       with a stated probability, based on the information available
   examples: []
   id: 2.36-eng
   language_code: eng
   notes:
-  - content: A coverage interval does not need to be centred on the chosen {{measured
-      quantity value,2.10}} (see ISO/IEC Guide 98-3:2008/Suppl.1).
+  - content: A coverage interval does not need to be centred on the chosen {{2.10,measured quantity value}} (see ISO/IEC Guide 98-3:2008/Suppl.1).
   - content: A coverage interval should not be termed “confidence interval” to avoid
       confusion with the statistical concept (see ISO/IEC Guide 98-3:2008, 6.2.2).
-  - content: A coverage interval can be derived from an {{expanded measurement uncertainty,2.35}}
+  - content: A coverage interval can be derived from an {{2.35,expanded measurement uncertainty}}
       (see ISO/IEC Guide 98-3:2008, 2.3.5).
   terms:
   - type: expression
@@ -50,18 +49,17 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: intervalle contenant l'ensemble des {{valeurs vraies,2.11}} d'un {{mesurande,2.3}}
+  - content: intervalle contenant l'ensemble des {{2.11,valeurs vraies}} d'un {{2.3,mesurande}}
       avec une probabilité déterminée, fondé sur l'information disponible
   examples: []
   id: 2.36-fra
   language_code: fra
   notes:
-  - content: Un intervalle élargi n'est pas nécessairement centré sur la {{valeur
-      mesurée,2.10}} choisie (voir le Guide ISO/CEI 98-3:2008/Suppl.1).
+  - content: Un intervalle élargi n'est pas nécessairement centré sur la {{2.10,valeur mesurée}} choisie (voir le Guide ISO/CEI 98-3:2008/Suppl.1).
   - content: Il convient de ne pas appeler «intervalle de confiance» un intervalle
       élargi pour éviter des confusions avec le concept statistique (voir le Guide
       ISO/CEI 98-3:2008, 6.2.2).
-  - content: Un intervalle élargi peut se déduire d'une {{incertitude élargie,2.35}}
+  - content: Un intervalle élargi peut se déduire d'une {{2.35,incertitude élargie}}
       (voir le Guide ISO/CEI 98-3:2008, 2.3.5).
   terms:
   - type: expression

@@ -22,7 +22,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement standard,5.1}} recognized by signatories to an international
+  - content: "{{5.1,measurement standard}} recognized by signatories to an international
       agreement and intended to serve worldwide"
   examples:
   - content: The international prototype of the kilogram.
@@ -30,7 +30,7 @@ data:
       standard 1999, 75/589, 650 International Units per ampoule.
   - content: VSMOW2 (Vienna Standard Mean Ocean Water) distributed by the International
       Atomic Energy Agency (IAEA) for differential stable isotope amount-of-substance
-      ratio {{measurements,2.1}}.
+      ratio {{2.1,measurements}}.
   id: 5.2-eng
   language_code: eng
   notes: []
@@ -47,14 +47,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{étalon,5.1}} reconnu par les signataires d'un accord international
+  - content: "{{5.1,étalon}} reconnu par les signataires d'un accord international
       pour une utilisation mondiale"
   examples:
   - content: Le prototype international du kilogramme.
   - content: Gonadotrophine chorionique, 4e étalon international de l'Organisation
       mondiale de la santé (OMS), 1999, 75/589, 650 unités internationales par ampoule.
   - content: |-
-      Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence internationale pour l'énergie atomique (AIEA) pour des {{mesurages,2.1}} de rapports molaires différentiels
+      Eau océanique moyenne normalisée de Vienne (VSMOW2), distribuée par l'Agence internationale pour l'énergie atomique (AIEA) pour des {{2.1,mesurages}} de rapports molaires différentiels
        relatif d'isotopes stables.
   id: 5.2-fra
   language_code: fra

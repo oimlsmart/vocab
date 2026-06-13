@@ -25,18 +25,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: operating condition prescribed for evaluating the performance of a {{measuring
-      instrument,3.1}} or {{measuring system,3.2}} or for comparison of {{measurement
-      results,2.9}}
+  - content: operating condition prescribed for evaluating the performance of a {{3.1,measuring instrument}} or {{3.2,measuring system}} or for comparison of {{2.9,measurement results}}
   examples: []
   id: 4.11-eng
   language_code: eng
   notes:
-  - content: Reference operating conditions specify intervals of {{values,1.19}} of
-      the {{measurand,2.3}} and of the {{influence quantities,2.52}}.
+  - content: Reference operating conditions specify intervals of {{1.19,values}} of
+      the {{2.3,measurand}} and of the {{2.52,influence quantities}}.
   - content: In IEC 60050-300, item 311-06-02, the term “reference condition” refers
-      to an operating condition under which the specified {{instrumental measurement
-      uncertainty,4.24}} is the smallest possible.
+      to an operating condition under which the specified {{4.24,instrumental measurement uncertainty}} is the smallest possible.
   terms:
   - type: expression
     normative_status: preferred
@@ -55,16 +52,16 @@ data:
     type: accepted
   definition:
   - content: condition de fonctionnement prescrite pour évaluer les performances d'un
-      {{instrument de mesure,3.1}} ou d'un {{système de mesure,3.2}} ou pour comparer
-      des {{résultats de mesure,2.9}}
+      {{3.1,instrument de mesure}} ou d'un {{3.2,système de mesure}} ou pour comparer
+      des {{2.9,résultats de mesure}}
   examples: []
   id: 4.11-fra
   language_code: fra
   notes:
   - content: Les conditions de fonctionnement de référence spécifient des intervalles
-      de {{valeurs,1.19}} du {{mesurande,2.3}} et des {{grandeurs d'influence,2.52}}.
+      de {{1.19,valeurs}} du {{2.3,mesurande}} et des {{2.52,grandeurs d'influence}}.
   - content: Dans la CEI 60050-300, no 311-06-02, le terme «condition de référence»
-      désigne une condition de fonctionnement dans laquelle l'{{incertitude instrumentale,4.24}}
+      désigne une condition de fonctionnement dans laquelle l'{{4.24,incertitude instrumentale}}
       spécifiée est la plus petite possible.
   terms:
   - type: expression

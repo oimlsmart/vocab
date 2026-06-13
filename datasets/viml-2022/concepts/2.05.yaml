@@ -34,9 +34,9 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: decision of legal relevance, based on the review of the {{type evaluation,2.04}}
-      report, that the type of a {{measuring instrument,0.10}} complies with the relevant
-      statutory requirements and results in the issuance of the {{type approval certificate,3.01}}
+  - content: decision of legal relevance, based on the review of the {{2.04,type evaluation}}
+      report, that the type of a {{0.10,measuring instrument}} complies with the relevant
+      statutory requirements and results in the issuance of the {{3.01,type approval certificate}}
   examples: []
   id: 2.05-eng
   notes:
@@ -57,9 +57,8 @@ data:
     type: accepted
   definition:
   - content: décision de portée légale, basée sur la revue du rapport d'évaluation,
-      selon laquelle le type d'{{instrument de mesure,0.10}} satisfait aux exigences
-      réglementaires applicables et conduit à la délivrance du certificat d'{{approbation
-      de type,2.05}}
+      selon laquelle le type d'{{0.10,instrument de mesure}} satisfait aux exigences
+      réglementaires applicables et conduit à la délivrance du certificat d'{{2.05,approbation de type}}
   examples: []
   id: 2.05-fra
   notes:

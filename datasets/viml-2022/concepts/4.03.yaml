@@ -27,7 +27,7 @@ data:
     type: accepted
   definition:
   - content: attribute of any device, instrument, function or software thatinfluences
-      the measurement result or any other {{primary indication,5.05}}
+      the measurement result or any other {{5.05,primary indication}}
   examples: []
   id: 4.03-eng
   notes: []
@@ -47,7 +47,7 @@ data:
     type: accepted
   definition:
   - content: attribut de tout dispositif, instrument, fonction ou logiciel qui influence
-      le résultat de mesurage ou toute autre {{indication primaire,5.05}}
+      le résultat de mesurage ou toute autre {{5.05,indication primaire}}
   examples: []
   id: 4.03-fra
   notes: []

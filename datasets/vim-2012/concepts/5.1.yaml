@@ -21,12 +21,11 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: realization of the definition of a given {{quantity,1.1}}, with stated
-      {{quantity value,1.19}} and associated {{measurement uncertainty,2.26}}, used
+  - content: realization of the definition of a given {{1.1,quantity}}, with stated
+      {{1.19,quantity value}} and associated {{2.26,measurement uncertainty}}, used
       as a reference
   examples:
-  - content: 1 kg mass measurement standard with an associated {{standard measurement
-      uncertainty,2.30}} of 3 µg.
+  - content: 1 kg mass measurement standard with an associated {{2.30,standard measurement uncertainty}} of 3 µg.
   - content: 100 Ω measurement standard resistor with an associated standard measurement
       uncertainty of 1 µΩ.
   - content: Caesium frequency standard with a relative standard measurement uncertainty
@@ -35,21 +34,20 @@ data:
       measurement uncertainty of 0.006.
   - content: Set of reference solutions of cortisol in human serum having a certified
       quantity value with measurement uncertainty for each solution.
-  - content: "{{Reference material,5.13}} providing quantity values with measurement
+  - content: "{{5.13,Reference material}} providing quantity values with measurement
       uncertainties for the mass concentration of each of ten different proteins."
   id: 5.1-eng
   language_code: eng
   notes:
   - content: A “realization of the definition of a given quantity” can be provided
-      by a {{measuring system,3.2}}, a {{material measure,3.6}}, or a reference material.
+      by a {{3.2,measuring system}}, a {{3.6,material measure}}, or a reference material.
   - content: A measurement standard is frequently used as a reference in establishing
-      {{measured quantity values,2.10}} and associated measurement uncertainties for
-      other quantities of the same {{kind,1.2}}, thereby establishing {{metrological
-      traceability,2.41}} through {{calibration,2.39}} of other measurement standards,
-      {{measuring instruments,3.1}}, or measuring systems.
+      {{2.10,measured quantity values}} and associated measurement uncertainties for
+      other quantities of the same {{1.2,kind}}, thereby establishing {{2.41,metrological traceability}} through {{2.39,calibration}} of other measurement standards,
+      {{3.1,measuring instruments}}, or measuring systems.
   - content: The term “realization” is used here in the most general meaning. It denotes
       three procedures of “realization”. The first one consists in the physical realization
-      of the {{measurement unit,1.9}} from its definition and is realization sensu
+      of the {{1.9,measurement unit}} from its definition and is realization sensu
       stricto. The second, termed “reproduction”, consists not in realizing the measurement
       unit from its definition but in setting up a highly reproducible measurement
       standard based on a physical phenomenon, as it happens, e.g. in case of use
@@ -58,8 +56,8 @@ data:
       The third procedure consists in adopting a material measure as a measurement
       standard. It occurs in the case of the measurement standard of 1 kg.
   - content: A standard measurement uncertainty associated with a measurement standard
-      is always a component of the {{combined standard measurement uncertainty,2.31}}
-      (see ISO/IEC Guide 98-3:2008, 2.3.4) in a {{measurement result,2.9}} obtained
+      is always a component of the {{2.31,combined standard measurement uncertainty}}
+      (see ISO/IEC Guide 98-3:2008, 2.3.4) in a {{2.9,measurement result}} obtained
       using the measurement standard. Frequently, this component is small compared
       with other components of the combined standard measurement uncertainty.
   - content: Quantity value and measurement uncertainty must be determined at the
@@ -94,11 +92,11 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: réalisation de la définition d'une {{grandeur,1.1}} donnée, avec une
-      {{valeur,1.19}} déterminée et une {{incertitude de mesure,2.26}} associée, utilisée
+  - content: réalisation de la définition d'une {{1.1,grandeur}} donnée, avec une
+      {{1.19,valeur}} déterminée et une {{2.26,incertitude de mesure}} associée, utilisée
       comme référence
   examples:
-  - content: Étalon de masse de 1 kg avec une {{incertitude-type,2.30}} associée de
+  - content: Étalon de masse de 1 kg avec une {{2.30,incertitude-type}} associée de
       3 µg.
   - content: Résistance étalon de 100 Ω avec une incertitude-type associée de 1 µΩ.
   - content: Étalon de fréquence à césium avec une incertitude-type associée de 2
@@ -108,22 +106,22 @@ data:
        
   - content: Série de solutions de référence de cortisol dans du sérum humain, dont
       chaque solution a une valeur certifiée avec une incertitude de mesure.
-  - content: "{{Matériau de référence,5.13}} fournissant des valeurs avec les incertitudes
+  - content: "{{5.13,Matériau de référence}} fournissant des valeurs avec les incertitudes
       de mesure associées pour la concentration en masse de dix protéines différentes."
   id: 5.1-fra
   language_code: fra
   notes:
   - content: La «réalisation de la définition d'une grandeur donnée» peut être fournie
-      par un {{système de mesure,3.2}}, une {{mesure matérialisée,3.6}} ou un matériau
+      par un {{3.2,système de mesure}}, une {{3.6,mesure matérialisée}} ou un matériau
       de référence.
-  - content: Un étalon sert souvent de référence dans l'obtention de {{valeurs mesurées,2.10}}
-      et d'incertitudes de mesure associées pour d'autres grandeurs de même {{nature,1.2}},
-      établissant ainsi une {{traçabilité métrologique,2.41}} par l'intermédiaire
-      de l'{{étalonnage,2.39}} d'autres étalons, {{instruments de mesure,3.1}} ou
+  - content: Un étalon sert souvent de référence dans l'obtention de {{2.10,valeurs mesurées}}
+      et d'incertitudes de mesure associées pour d'autres grandeurs de même {{1.2,nature}},
+      établissant ainsi une {{2.41,traçabilité métrologique}} par l'intermédiaire
+      de l'{{2.39,étalonnage}} d'autres étalons, {{3.1,instruments de mesure}} ou
       systèmes de mesure.
   - content: Le terme «réalisation» est employé ici dans son sens le plus général.
       Il désigne trois procédures de réalisation. La première, la réalisation stricto
-      sensu, est la réalisation physique de l'{{unité de mesure,1.9}} à partir de
+      sensu, est la réalisation physique de l'{{1.9,unité de mesure}} à partir de
       sa définition. La deuxième, appelée «reproduction», consiste, non pas à réaliser
       l'unité à partir de sa définition, mais à construire un étalon hautement reproductible
       fondé sur un phénomène physique, par exemple l'emploi de lasers stabilisés en
@@ -132,8 +130,8 @@ data:
       consiste à adopter une mesure matérialisée comme étalon. C'est le cas de l'étalon
       de 1 kg.
   - content: L'incertitude-type associée à un étalon est toujours une composante de
-      l'{{incertitude-type composée,2.31}} (voir le Guide ISO/CEI 98-3:2008, 2.3.4)
-      dans un {{résultat de mesure,2.9}} obtenu en utilisant l'étalon. Cette composante
+      l'{{2.31,incertitude-type composée}} (voir le Guide ISO/CEI 98-3:2008, 2.3.4)
+      dans un {{2.9,résultat de mesure}} obtenu en utilisant l'étalon. Cette composante
       est souvent petite par rapport à d'autres composantes de l'incertitude-type
       composée.
   - content: La valeur de la grandeur et l'incertitude de mesure doivent être déterminées

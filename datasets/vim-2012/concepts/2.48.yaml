@@ -21,16 +21,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mathematical relation among all {{quantities,1.1}} known to be involved
-      in a {{measurement,2.1}}
+  - content: mathematical relation among all {{1.1,quantities}} known to be involved
+      in a {{2.1,measurement}}
   examples: []
   id: 2.48-eng
   language_code: eng
   notes:
   - content: A general form of a measurement model is the equation h(Y, X1, …, Xn)
-      = 0, where Y, the {{output quantity in the measurement model,2.51}}, is the
-      {{measurand,2.3}}, the {{quantity value,1.19}} of which is to be inferred from
-      information about {{input quantities in the measurement model,2.50}}X1, …, Xn.
+      = 0, where Y, the {{2.51,output quantity in the measurement model}}, is the
+      {{2.3,measurand}}, the {{1.19,quantity value}} of which is to be inferred from
+      information about {{2.50,input quantities in the measurement model}}X1, …, Xn.
   - content: In more complex cases where there are two or more output quantities in
       a measurement model, the measurement model consists of more than one equation.
   terms:
@@ -52,16 +52,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: relation mathématique entre toutes les {{grandeurs,1.1}} qui interviennent
-      dans un {{mesurage,2.1}}
+  - content: relation mathématique entre toutes les {{1.1,grandeurs}} qui interviennent
+      dans un {{2.1,mesurage}}
   examples: []
   id: 2.48-fra
   language_code: fra
   notes:
   - content: Une forme générale d'un modèle de mesure est l'équation h(Y, X1, …, Xn)
-      = 0 , où Y, la {{grandeur de sortie dans le modèle de mesure,2.51}}, est le
-      {{mesurande,2.3}}, dont la {{valeur,1.19}} doit être déduite de l'information
-      sur les {{grandeurs d'entrée dans le modèle de mesure,2.50}}X1, …, Xn.
+      = 0 , où Y, la {{2.51,grandeur de sortie dans le modèle de mesure}}, est le
+      {{2.3,mesurande}}, dont la {{1.19,valeur}} doit être déduite de l'information
+      sur les {{2.50,grandeurs d'entrée dans le modèle de mesure}}X1, …, Xn.
   - content: Dans les cas plus complexes où il y a deux grandeurs de sortie ou plus,
       le modèle de mesure comprend plus d'une seule équation.
   terms:

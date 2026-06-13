@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mark applied to a {{measuring instrument,0.10}} certifying its conformity
+  - content: mark applied to a {{0.10,measuring instrument}} certifying its conformity
       to the approved type
   examples: []
   id: 3.07-eng
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: marque apposée sur un {{instrument de mesure,0.10}} pour certifier qu'il
+  - content: marque apposée sur un {{0.10,instrument de mesure}} pour certifier qu'il
       est conforme au type approuvé
   examples: []
   id: 3.07-fra

@@ -35,8 +35,7 @@ data:
     type: accepted
   definition:
   - content: process for obtaining relevant information about an object of conformity
-      assessment and evaluating it objectively to determine the extent to which {{specified
-      requirements,A.6}} are fulfilled
+      assessment and evaluating it objectively to determine the extent to which {{A.6,specified requirements}} are fulfilled
   examples:
   - content: of objects for an audit are management systems, processes, products and
       services.
@@ -69,7 +68,7 @@ data:
   definition:
   - content: processus permettant d’obtenir des informations pertinentes sur un objet
       de l’évaluation de la conformité et de l’évaluer objectivement pour déterminer
-      dans quelle mesure les {{exigences spécifiées,A.6}} sont respectées
+      dans quelle mesure les {{A.6,exigences spécifiées}} sont respectées
   examples: []
   id: A.12-fra
   notes:

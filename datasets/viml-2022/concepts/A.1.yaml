@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: demonstration that {{specified requirements,A.6}} are fulfilled
+  - content: demonstration that {{A.6,specified requirements}} are fulfilled
   examples: []
   id: A.1-eng
   notes:
@@ -72,7 +72,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: démonstration que des {{exigences spécifiées,A.6}} sont respectées
+  - content: démonstration que des {{A.6,exigences spécifiées}} sont respectées
   examples: []
   id: A.1-fra
   notes:

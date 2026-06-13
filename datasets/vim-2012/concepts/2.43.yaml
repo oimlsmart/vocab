@@ -21,14 +21,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{metrological traceability,2.41}} where the reference is the definition
-      of a {{measurement unit,1.9}} through its practical realization"
+  - content: "{{2.41,metrological traceability}} where the reference is the definition
+      of a {{1.9,measurement unit}} through its practical realization"
   examples: []
   id: 2.43-eng
   language_code: eng
   notes:
   - content: The expression “traceability to the SI” means 'metrological traceability
-      to a measurement unit of the {{International System of Units,1.16}}'.
+      to a measurement unit of the {{1.16,International System of Units}}'.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,14 +45,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{traçabilité métrologique,2.41}} où la référence est la définition
-      d'une {{unité de mesure,1.9}} sous la forme de sa réalisation pratique"
+  - content: "{{2.41,traçabilité métrologique}} où la référence est la définition
+      d'une {{1.9,unité de mesure}} sous la forme de sa réalisation pratique"
   examples: []
   id: 2.43-fra
   language_code: fra
   notes:
   - content: L'expression «traçabilité au SI» signifie la traçabilité métrologique
-      à une unité de mesure du {{Système international d'unités,1.16}}.
+      à une unité de mesure du {{1.16,Système international d'unités}}.
   terms:
   - type: expression
     normative_status: preferred

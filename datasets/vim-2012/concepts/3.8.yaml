@@ -22,8 +22,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: element of a {{measuring system,3.2}} that is directly affected by a
-      phenomenon, body, or substance carrying a {{quantity,1.1}} to be measured
+  - content: element of a {{3.2,measuring system}} that is directly affected by a
+      phenomenon, body, or substance carrying a {{1.1,quantity}} to be measured
   examples:
   - content: Sensing coil of a platinum resistance thermometer, rotor of a turbine
       flow meter, Bourdon tube of a pressure gauge, float of a level-measuring instrument,
@@ -46,8 +46,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: élément d'un {{système de mesure,3.2}} qui est directement soumis à l'action
-      du phénomène, du corps ou de la substance portant la {{grandeur,1.1}} à mesurer
+  - content: élément d'un {{3.2,système de mesure}} qui est directement soumis à l'action
+      du phénomène, du corps ou de la substance portant la {{1.1,grandeur}} à mesurer
   examples:
   - content: Bobine sensible d'un thermomètre à résistance de platine, rotor d'un
       débitmètre à turbine, tube de Bourdon d'un manomètre, flotteur d'un appareil

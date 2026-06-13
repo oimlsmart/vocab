@@ -22,7 +22,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement unit,1.9}} obtained by dividing a given measurement unit
+  - content: "{{1.9,measurement unit}} obtained by dividing a given measurement unit
       by an integer greater than one"
   examples:
   - content: The millimetre is a decimal submultiple of the metre.
@@ -30,8 +30,8 @@ data:
   id: 1.18-eng
   language_code: eng
   notes:
-  - content: SI prefixes for decimal submultiples of SI {{base units,1.10}} and SI
-      {{derived units,1.11}} are given in Note 5 of 1.16.
+  - content: SI prefixes for decimal submultiples of SI {{1.10,base units}} and SI
+      {{1.11,derived units}} are given in Note 5 of 1.16.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,7 +45,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{unité de mesure,1.9}} obtenue en divisant une unité de mesure donnée
+  - content: "{{1.9,unité de mesure}} obtenue en divisant une unité de mesure donnée
       par un entier supérieur à un"
   examples:
   - content: Le millimètre est un sous-multiple décimal du mètre.
@@ -54,8 +54,8 @@ data:
   id: 1.18-fra
   language_code: fra
   notes:
-  - content: Les préfixes SI pour les sous-multiples décimaux des {{unités de base,1.10}}
-      et des {{unités dérivées,1.11}} du SI sont donnés à la Note 5 de 1.16.
+  - content: Les préfixes SI pour les sous-multiples décimaux des {{1.10,unités de base}}
+      et des {{1.11,unités dérivées}} du SI sont donnés à la Note 5 de 1.16.
   terms:
   - type: expression
     normative_status: preferred

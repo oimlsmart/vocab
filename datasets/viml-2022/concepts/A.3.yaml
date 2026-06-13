@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: authoritative body that performs {{accreditation,A.19}}
+  - content: authoritative body that performs {{A.19,accreditation}}
   examples: []
   id: A.3-eng
   notes:
@@ -62,7 +62,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: organisme faisant autorité qui procède à l'{{accréditation,A.19}}
+  - content: organisme faisant autorité qui procède à l'{{A.19,accréditation}}
   examples: []
   id: A.3-fra
   notes:

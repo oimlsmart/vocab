@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: identifiable group of {{measuring instruments,0.10}} belonging to the
+  - content: identifiable group of {{0.10,measuring instruments}} belonging to the
       same manufactured type within the same category that have the same design features
       and metrological principles for measurement but which may differ in some metrological
       and technical performance characteristics, as defined in the relevant Recommendation
@@ -48,7 +48,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: groupe identifiable d'{{instruments de mesure,0.10}} appartenant au même
+  - content: groupe identifiable d'{{0.10,instruments de mesure}} appartenant au même
       type fabriqué et à la même catégorie, qui ont les mêmes caractéristiques de
       conception et principes de mesurage, mais qui peuvent différer par quelques
       caractéristiques de performance métrologiques et techniques, telles que définies

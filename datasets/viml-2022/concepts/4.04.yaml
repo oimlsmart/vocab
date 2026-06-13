@@ -30,8 +30,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: identifiable part of a {{measuring instrument,0.10}} or of a {{family
-      of measuring instruments,4.02}} that performs a specific function or functions
+  - content: identifiable part of a {{0.10,measuring instrument}} or of a {{4.02,family of measuring instruments}} that performs a specific function or functions
       and that can be separately evaluated according to prescribed metrological and
       technical performance requirements as specified in the relevant Recommendation
   examples:
@@ -55,8 +54,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: partie identifiable d'un {{instrument de mesure,0.10}} ou d'une {{famille
-      d'instruments de mesure,4.02}} ayant une ou plusieurs fonctions spécifiques
+  - content: partie identifiable d'un {{0.10,instrument de mesure}} ou d'une {{4.02,famille d'instruments de mesure}} ayant une ou plusieurs fonctions spécifiques
       et qui peut être évaluée séparément, en application des exigences de performances
       métrologiques et techniques fixées dans la Recommandation applicable
   examples:

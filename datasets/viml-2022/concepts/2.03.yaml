@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: activity of {{legal metrological control,2.01}} to check the observance
-      of {{metrology,0.01}} laws and regulations
+  - content: activity of {{2.01,legal metrological control}} to check the observance
+      of {{0.01,metrology}} laws and regulations
   examples: []
   id: 2.03-eng
   notes:
@@ -54,8 +54,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: activité du {{contrôle de métrologie légale,2.01}} consistant à vérifier
-      que les lois et règlements de {{métrologie,0.01}} sont respectés
+  - content: activité du {{2.01,contrôle de métrologie légale}} consistant à vérifier
+      que les lois et règlements de {{0.01,métrologie}} sont respectés
   examples: []
   id: 2.03-fra
   notes:

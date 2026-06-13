@@ -34,8 +34,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{subsequent verification,2.13}} of a {{measuring instrument,0.10}},
-      carried out periodically at specified intervals according to the {{procedure,A.7}}
+  - content: '{{2.13,subsequent verification}} of a {{0.10,measuring instrument}},
+      carried out periodically at specified intervals according to the {{A.7,procedure}}
       laid down by the regulations'
   examples: []
   id: 2.14-eng
@@ -55,8 +55,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{vérification ultérieure,2.13}} d''un {{instrument de mesure,0.10}}
-      effectuée périodiquement à des intervalles spécifiés selon la {{procédure,A.7}}
+  - content: '{{2.13,vérification ultérieure}} d''un {{0.10,instrument de mesure}}
+      effectuée périodiquement à des intervalles spécifiés selon la {{A.7,procédure}}
       fixée par la réglementation'
   examples: []
   id: 2.14-fra

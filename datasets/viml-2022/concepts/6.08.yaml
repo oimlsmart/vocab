@@ -27,7 +27,7 @@ data:
     type: accepted
   definition:
   - content: interface that enables information to be interchanged between the operator
-      and the {{measuring instrument,0.10}} or its hardware or software components,
+      and the {{0.10,measuring instrument}} or its hardware or software components,
       e.g. switches, keyboard, mouse, display, monitor, printer, touch-screen, software
       window on a screen including the software that generates it
   examples: []
@@ -49,7 +49,7 @@ data:
     type: accepted
   definition:
   - content: interface permettant l'échange d'informations entre l'utilisateur et
-      l'{{instrument de mesure,0.10}}, ses composants matériels ou sa partie logicielle
+      l'{{0.10,instrument de mesure}}, ses composants matériels ou sa partie logicielle
       comme un bouton, un clavier, une souris, un écran, un moniteur, une imprimante,
       un écran tactile, une fenêtre logicielle sur un écran, y compris le logiciel
       permettant de la générer

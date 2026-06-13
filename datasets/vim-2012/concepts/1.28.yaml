@@ -21,15 +21,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity-value scale,1.27}} for {{ordinal quantities,1.26}}"
+  - content: "{{1.27,quantity-value scale}} for {{1.26,ordinal quantities}}"
   examples:
   - content: Rockwell C hardness scale.
   - content: Scale of octane numbers for petroleum fuel.
   id: 1.28-eng
   language_code: eng
   notes:
-  - content: An ordinal quantity-value scale may be established by {{measurements,2.1}}
-      according to a {{measurement procedure,2.6}}.
+  - content: An ordinal quantity-value scale may be established by {{2.1,measurements}}
+      according to a {{2.6,measurement procedure}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -46,15 +46,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{échelle de valeurs,1.27}} pour {{grandeurs ordinales,1.26}}"
+  - content: "{{1.27,échelle de valeurs}} pour {{1.26,grandeurs ordinales}}"
   examples:
   - content: Échelle de dureté C de Rockwell.
   - content: Échelle des indices d'octane pour les carburants.
   id: 1.28-fra
   language_code: fra
   notes:
-  - content: Une échelle ordinale peut être établie par des {{mesurages,2.1}} conformément
-      à une {{procédure de mesure,2.6}}.
+  - content: Une échelle ordinale peut être établie par des {{2.1,mesurages}} conformément
+      à une {{2.6,procédure de mesure}}.
   terms:
   - type: expression
     normative_status: preferred

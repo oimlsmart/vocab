@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: use of a {{conformity assessment,A.1}} result provided by another person
+  - content: use of a {{A.1,conformity assessment}} result provided by another person
       or organization
   examples: []
   id: A.34-eng
@@ -67,7 +67,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: utilisation d'un résultat d'{{évaluation de la conformité,A.1}} fourni
+  - content: utilisation d'un résultat d'{{A.1,évaluation de la conformité}} fourni
       par une autre personne ou organisation
   examples: []
   id: A.34-fra

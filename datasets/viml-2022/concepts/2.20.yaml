@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: means intended to protect the {{measuring instrument,0.10}} against any
-      unauthorized modification, re{{adjustment,0.15}}, removal of parts, software,
+  - content: means intended to protect the {{0.10,measuring instrument}} against any
+      unauthorized modification, re{{0.15,adjustment}}, removal of parts, software,
       etc.
   examples: []
   id: 2.20-eng
@@ -52,8 +52,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: moyen destiné à protéger l'{{instrument de mesure,0.10}} contre toute
-      intervention non autorisée, modification de l'{{ajustage,0.15}}, retrait de
+  - content: moyen destiné à protéger l'{{0.10,instrument de mesure}} contre toute
+      intervention non autorisée, modification de l'{{0.15,ajustage}}, retrait de
       parties, modification du logiciel, etc.
   examples: []
   id: 2.20-fra

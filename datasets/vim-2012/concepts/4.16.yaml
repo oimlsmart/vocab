@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: largest change in a {{value,1.19}} of a {{quantity,1.1}} being measured
-      that causes no detectable change in the corresponding {{indication,4.1}}
+  - content: largest change in a {{1.19,value}} of a {{1.1,quantity}} being measured
+      that causes no detectable change in the corresponding {{4.1,indication}}
   examples: []
   id: 4.16-eng
   language_code: eng
@@ -43,8 +43,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: variation la plus grande de la {{valeur,1.19}} d'une {{grandeur,1.1}}
-      mesurée qui ne produit aucune variation détectable de l'{{indication,4.1}} correspondante
+  - content: variation la plus grande de la {{1.19,valeur}} d'une {{1.1,grandeur}}
+      mesurée qui ne produit aucune variation détectable de l'{{4.1,indication}} correspondante
   examples: []
   id: 4.16-fra
   language_code: fra

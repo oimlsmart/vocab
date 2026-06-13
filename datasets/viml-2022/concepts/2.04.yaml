@@ -30,8 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{conformity assessment,A.1}} procedure on one or more specimens of
-      an identified type (pattern) of {{measuring instruments,0.10}} which results
+  - content: '{{A.1,conformity assessment}} procedure on one or more specimens of
+      an identified type (pattern) of {{0.10,measuring instruments}} which results
       in an evaluation report and / or an evaluation certificate'
   examples: []
   id: 2.04-eng
@@ -53,8 +53,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: procédure d'{{évaluation de la conformité,A.1}} d'un ou plusieurs exemplaires
-      d'un type (modèle) identifié d'{{instrument de mesure,0.10}} conduisant à l'établissement
+  - content: procédure d'{{A.1,évaluation de la conformité}} d'un ou plusieurs exemplaires
+      d'un type (modèle) identifié d'{{0.10,instrument de mesure}} conduisant à l'établissement
       d'un rapport d'évaluation et/ou d'un certificat d'évaluation
   examples: []
   id: 2.04-fra

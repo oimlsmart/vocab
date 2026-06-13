@@ -26,13 +26,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: technical regulation in the field of {{legal metrology,1.01}}
+  - content: technical regulation in the field of {{1.01,legal metrology}}
   examples: []
   id: 1.03-eng
   notes:
   - content: These regulations shall, when applicable, be compatible with the International
       Recommendations of the OIML and make use of their requirements.
-  - content: 'The scope of {{legal metrology,1.01}} generally includes
+  - content: 'The scope of {{1.01,legal metrology}} generally includes
 
       — protection of the interests of individuals and enterprises,
 
@@ -57,13 +57,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: réglementation technique du domaine de la {{métrologie légale,1.01}}
+  - content: réglementation technique du domaine de la {{1.01,métrologie légale}}
   examples: []
   id: 1.03-fra
   notes:
   - content: Si applicable, ces réglementations doivent être compatibles avec les
       Recommandations internationales de l'OIML et recourir à leurs exigences.
-  - content: 'Généralement, le champ de la {{métrologie légale,1.01}} comprend
+  - content: 'Généralement, le champ de la {{1.01,métrologie légale}} comprend
 
       — la protection des intérêts des personnes et des sociétés,
 

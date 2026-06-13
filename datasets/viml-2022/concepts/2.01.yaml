@@ -38,18 +38,18 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: the whole of {{legal metrology,1.01}} activities
+  - content: the whole of {{1.01,legal metrology}} activities
   examples: []
   id: 2.01-eng
   notes:
   - content: 'Legal metrological control includes
 
-      — {{legal control of measuring instruments,2.02}},
+      — {{2.02,legal control of measuring instruments}},
 
-      — {{metrological supervision,2.03}},
+      — {{2.03,metrological supervision}},
 
       — all the operations for the purpose of examining and demonstrating, e.g. to
-      testify in a court of law, the condition of a {{measuring instrument,0.10}}
+      testify in a court of law, the condition of a {{0.10,measuring instrument}}
       and to determine its metrological properties, amongst others by reference to
       the relevant statutory requirements.'
   sources: []
@@ -67,19 +67,18 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble des activités de {{métrologie légale,1.01}}
+  - content: ensemble des activités de {{1.01,métrologie légale}}
   examples: []
   id: 2.01-fra
   notes:
   - content: 'Le contrôle de métrologie légale inclut
 
-      — le {{contrôle légal des instruments de mesure,2.02}},
+      — le {{2.02,contrôle légal des instruments de mesure}},
 
-      — la {{surveillance métrologique,2.03}},
+      — la {{2.03,surveillance métrologique}},
 
       — l''ensemble des opérations consistant à examiner et établir, par exemple dans
-      le cadre d''une expertise devant une cour de justice, l''état d''un {{instrument
-      de mesure,0.10}}, et à déterminer ses caractéristiques métrologiques, notamment
+      le cadre d''une expertise devant une cour de justice, l''état d''un {{0.10,instrument de mesure}}, et à déterminer ses caractéristiques métrologiques, notamment
       au regard des exigences métrologiques applicables.'
   sources: []
   terms:

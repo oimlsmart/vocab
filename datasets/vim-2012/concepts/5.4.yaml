@@ -22,13 +22,12 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement standard,5.1}} established using a {{primary reference
-      measurement procedure,2.8}}, or created as an artifact, chosen by convention"
+  - content: "{{5.1,measurement standard}} established using a {{2.8,primary reference measurement procedure}}, or created as an artifact, chosen by convention"
   examples:
   - content: Primary measurement standard of amount-of-substance concentration prepared
       by dissolving a known amount of substance of a chemical component to a known
       volume of solution.
-  - content: Primary measurement standard for pressure based on separate {{measurements,2.1}}
+  - content: Primary measurement standard for pressure based on separate {{2.1,measurements}}
       of force and area.
   - content: Primary measurement standard for isotope amount-of-substance ratio measurements,
       prepared by mixing known amount-of-substances of specified isotopes.
@@ -55,13 +54,13 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{étalon,5.1}} établi à l'aide d'une {{procédure de mesure primaire,2.8}}
+  - content: "{{5.1,étalon}} établi à l'aide d'une {{2.8,procédure de mesure primaire}}
       ou créé comme objet choisi par convention"
   examples:
   - content: Étalon primaire de concentration en quantité de matière préparé en dissolvant
       une quantité de matière connue d'une substance chimique dans un volume connu
       de solution.
-  - content: Étalon primaire de pression fondé sur des {{mesurages,2.1}} séparés de
+  - content: Étalon primaire de pression fondé sur des {{2.1,mesurages}} séparés de
       force et d'aire.
   - content: Étalon primaire pour les mesurages du rapport molaire d'isotopes, préparé
       en mélangeant des quantités de matière connues d'isotopes spécifiés.
