@@ -4,6 +4,9 @@ schema_version: '3'
 
 id: viml-2022
 ref: "OIML V 1:2022"
+refAliases:
+  - "OIML V 1:2022"
+  - "VIML"
 year: 2022
 urn: "urn:oiml:pub:v:1:2022"
 urnAliases:

@@ -4,6 +4,8 @@ schema_version: '3'
 
 id: viml-2000
 ref: "OIML V 1:2000"
+refAliases:
+  - "OIML V 1:2000"
 year: 2000
 urn: "urn:oiml:pub:v:1:2000"
 urnAliases:

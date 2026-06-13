@@ -4,6 +4,8 @@ schema_version: '3'
 
 id: viml-2013
 ref: "OIML V 1:2013"
+refAliases:
+  - "OIML V 1:2013"
 year: 2013
 urn: "urn:oiml:pub:v:1:2013"
 urnAliases:

@@ -3,6 +3,8 @@ schema_type: glossarist
 schema_version: '3'
 id: viml-1968
 ref: OIML V 1:1968
+refAliases:
+  - "OIML V 1:1968"
 year: 1968
 urn: urn:oiml:pub:v:1:1968
 urnAliases:
