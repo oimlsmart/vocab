@@ -30,7 +30,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{error of indication,0.04}}, determined under {{reference conditions,0.09}}'
+  - content: '{{0.04,error of indication}}, determined under {{0.09,reference conditions}}'
   examples: []
   id: 0.06-eng
   notes: []
@@ -49,7 +49,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{erreur d''indication,0.04}} déterminée dans les {{conditions de référence,0.09}}'
+  - content: '{{0.04,erreur d''indication}} déterminée dans les {{0.09,conditions de référence}}'
   examples: []
   id: 0.06-fra
   notes: []

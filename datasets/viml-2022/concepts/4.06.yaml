@@ -30,7 +30,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: definitive model of a {{measuring instrument,0.10}} or {{module,4.04}}
+  - content: definitive model of a {{0.10,measuring instrument}} or {{4.04,module}}
       (including a family of instruments or modules) of which all of the elements
       affecting its metrological properties are suitably defined
   examples: []
@@ -51,7 +51,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: modèle définitif d'un {{instrument de mesure,0.10}} ou d'un {{module,4.04}}
+  - content: modèle définitif d'un {{0.10,instrument de mesure}} ou d'un {{4.04,module}}
       (y compris une famille d'instruments ou de modules) pour lequel tous les éléments
       susceptibles d'affecter ses propriétés métrologiques sont définis de façon appropriée
   examples: []

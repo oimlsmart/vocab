@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: decision of legal relevance that a {{measuring instrument,0.10}} after
+  - content: decision of legal relevance that a {{0.10,measuring instrument}} after
       it had been disqualified was returned to conformity with statutory requirements
       and its use for applications requiring mandatory verification is no longer prohibited
   examples: []
@@ -47,7 +47,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: décision de portée légale spécifiant qu'un {{instrument de mesure,0.10}}
+  - content: décision de portée légale spécifiant qu'un {{0.10,instrument de mesure}}
       préalablement refusé satisfait à nouveau aux exigences réglementaires et que
       son utilisation pour les applications exigeant une vérification obligatoire
       n'est plus interdite

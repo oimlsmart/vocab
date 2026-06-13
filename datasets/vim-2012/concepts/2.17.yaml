@@ -21,21 +21,20 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: component of {{measurement error,2.16}} that in replicate {{measurements,2.1}}
+  - content: component of {{2.16,measurement error}} that in replicate {{2.1,measurements}}
       remains constant or varies in a predictable manner
   examples: []
   id: 2.17-eng
   language_code: eng
   notes:
-  - content: A {{reference quantity value,5.18}} for a systematic measurement error
-      is a {{true quantity value,2.11}}, or a {{measured quantity value,2.10}} of
-      a {{measurement standard,5.1}} of negligible {{measurement uncertainty,2.26}},
-      or a {{conventional quantity value,2.12}}.
+  - content: A {{5.18,reference quantity value}} for a systematic measurement error
+      is a {{2.11,true quantity value}}, or a {{2.10,measured quantity value}} of
+      a {{5.1,measurement standard}} of negligible {{2.26,measurement uncertainty}},
+      or a {{2.12,conventional quantity value}}.
   - content: Systematic measurement error, and its causes, can be known or unknown.
-      A {{correction,2.53}} can be applied to compensate for a known systematic measurement
+      A {{2.53,correction}} can be applied to compensate for a known systematic measurement
       error.
-  - content: Systematic measurement error equals measurement error minus {{random
-      measurement error,2.19}}.
+  - content: Systematic measurement error equals measurement error minus {{2.19,random measurement error}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -55,20 +54,20 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: composante de l'{{erreur de mesure,2.16}} qui, dans des {{mesurages,2.1}}
+  - content: composante de l'{{2.16,erreur de mesure}} qui, dans des {{2.1,mesurages}}
       répétés, demeure constante ou varie de façon prévisible
   examples: []
   id: 2.17-fra
   language_code: fra
   notes:
-  - content: La {{valeur de référence,5.18}} pour une erreur systématique est une
-      {{valeur vraie,2.11}}, une {{valeur mesurée,2.10}} d'un {{étalon,5.1}} dont
-      l'{{incertitude de mesure,2.26}} est négligeable, ou une {{valeur conventionnelle,2.12}}.
+  - content: La {{5.18,valeur de référence}} pour une erreur systématique est une
+      {{2.11,valeur vraie}}, une {{2.10,valeur mesurée}} d'un {{5.1,étalon}} dont
+      l'{{2.26,incertitude de mesure}} est négligeable, ou une {{2.12,valeur conventionnelle}}.
   - content: L'erreur systématique et ses causes peuvent être connues ou inconnues.
-      On peut appliquer une {{correction,2.53}} pour compenser une erreur systématique
+      On peut appliquer une {{2.53,correction}} pour compenser une erreur systématique
       connue.
   - content: L'erreur systématique est égale à la différence entre l'erreur de mesure
-      et l'{{erreur aléatoire,2.19}}.
+      et l'{{2.19,erreur aléatoire}}.
   terms:
   - type: expression
     normative_status: preferred

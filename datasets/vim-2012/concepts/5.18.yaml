@@ -21,21 +21,20 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity value,1.19}} used as a basis for comparison with values of
-      {{quantities,1.1}} of the same {{kind,1.2}}"
+  - content: "{{1.19,quantity value}} used as a basis for comparison with values of
+      {{1.1,quantities}} of the same {{1.2,kind}}"
   examples: []
   id: 5.18-eng
   language_code: eng
   notes:
-  - content: A reference quantity value can be a {{true quantity value,2.11}} of a
-      {{measurand,2.3}}, in which case it is unknown, or a {{conventional quantity
-      value,2.12}}, in which case it is known.
+  - content: A reference quantity value can be a {{2.11,true quantity value}} of a
+      {{2.3,measurand}}, in which case it is unknown, or a {{2.12,conventional quantity value}}, in which case it is known.
   - content: |-
-      A reference quantity value with associated {{measurement uncertainty,2.26}} is usually provided with reference to
-      a) material, e.g. a {{certified reference material,5.14}},
+      A reference quantity value with associated {{2.26,measurement uncertainty}} is usually provided with reference to
+      a) material, e.g. a {{5.14,certified reference material}},
       b) a device, e.g. a stabilized laser,
-      c) a {{reference measurement procedure,2.7}},
-      d) a comparison of {{measurement standards,5.1}}.
+      c) a {{2.7,reference measurement procedure}},
+      d) a comparison of {{5.1,measurement standards}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -56,21 +55,21 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur d'une grandeur,1.19}} servant de base de comparaison pour les
-      valeurs de {{grandeurs,1.1}} de même {{nature,1.2}}"
+  - content: "{{1.19,valeur d'une grandeur}} servant de base de comparaison pour les
+      valeurs de {{1.1,grandeurs}} de même {{1.2,nature}}"
   examples: []
   id: 5.18-fra
   language_code: fra
   notes:
-  - content: La valeur de référence peut être une {{valeur vraie,2.11}} d'un {{mesurande,2.3}},
-      et est alors inconnue, ou une {{valeur conventionnelle,2.12}}, et est alors
+  - content: La valeur de référence peut être une {{2.11,valeur vraie}} d'un {{2.3,mesurande}},
+      et est alors inconnue, ou une {{2.12,valeur conventionnelle}}, et est alors
       connue.
   - content: |-
-      Une valeur de référence associée à son {{incertitude de mesure,2.26}} se rapporte généralement à
-      a) un matériau, par exemple un {{matériau de référence certifié,5.14}},
+      Une valeur de référence associée à son {{2.26,incertitude de mesure}} se rapporte généralement à
+      a) un matériau, par exemple un {{5.14,matériau de référence certifié}},
       b) un dispositif, par exemple un laser stabilisé,
-      c) une {{procédure de mesure de référence,2.7}},
-      d) une comparaison d'{{étalons,5.1}}.
+      c) une {{2.7,procédure de mesure de référence}},
+      d) une comparaison d'{{5.1,étalons}}.
   terms:
   - type: expression
     normative_status: preferred

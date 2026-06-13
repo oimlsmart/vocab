@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: quotient of the change in an {{indication,4.1}} of a {{measuring system,3.2}}
-      and the corresponding change in a {{value,1.19}} of a {{quantity,1.1}} being
+  - content: quotient of the change in an {{4.1,indication}} of a {{3.2,measuring system}}
+      and the corresponding change in a {{1.19,value}} of a {{1.1,quantity}} being
       measured
   examples: []
   id: 4.12-eng
@@ -31,7 +31,7 @@ data:
   - content: Sensitivity of a measuring system can depend on the value of the quantity
       being measured.
   - content: The change considered in a value of a quantity being measured must be
-      large compared with the {{resolution,4.14}}.
+      large compared with the {{4.14,resolution}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -48,8 +48,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: quotient de la variation d'une {{indication,4.1}} d'un {{système de mesure,3.2}}
-      par la variation correspondante de la {{valeur,1.19}} de la {{grandeur,1.1}}
+  - content: quotient de la variation d'une {{4.1,indication}} d'un {{3.2,système de mesure}}
+      par la variation correspondante de la {{1.19,valeur}} de la {{1.1,grandeur}}
       mesurée
   examples: []
   id: 4.12-fra
@@ -57,7 +57,7 @@ data:
   notes:
   - content: La sensibilité peut dépendre de la valeur de la grandeur mesurée.
   - content: La variation de la valeur de la grandeur mesurée doit être grande par
-      rapport à la {{résolution,4.14}}.
+      rapport à la {{4.14,résolution}}.
   terms:
   - type: expression
     normative_status: preferred

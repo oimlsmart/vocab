@@ -34,14 +34,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: operating condition prescribed for evaluating the performance of a {{measuring
-      instrument,0.10}} or {{measuring system,0.12}} or for comparison of measurement
+  - content: operating condition prescribed for evaluating the performance of a {{0.10,measuring instrument}} or {{0.12,measuring system}} or for comparison of measurement
       results
   examples: []
   id: 0.09-eng
   notes:
   - content: Reference operating conditions specify intervals of values of the measurand
-      and of the {{influence quantities,0.07}}.
+      and of the {{0.07,influence quantities}}.
   - content: In IEC 60050-300, item 311-06-02, the term “reference condition” refers
       to an operating condition under which the specified instrumental measurement
       uncertainty is the smallest possible.
@@ -71,13 +70,13 @@ data:
     type: accepted
   definition:
   - content: condition de fonctionnement prescrite pour évaluer les performances d'un
-      {{instrument de mesure,0.10}} ou d'un {{système de mesure,0.12}} ou pour comparer
+      {{0.10,instrument de mesure}} ou d'un {{0.12,système de mesure}} ou pour comparer
       des résultats de mesure
   examples: []
   id: 0.09-fra
   notes:
   - content: Les conditions de fonctionnement de référence spécifient des intervalles
-      de valeurs du mesurande et des {{grandeurs d'influence,0.07}}.
+      de valeurs du mesurande et des {{0.07,grandeurs d'influence}}.
   - content: Dans la CEI 60050-300, no 311-06-02, le terme « condition de référence
       » désigne une condition de fonctionnement dans laquelle l'incertitude instrumentale
       spécifiée est la plus petite possible.

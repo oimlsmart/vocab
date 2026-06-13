@@ -21,8 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement precision,2.15}} under a set of {{repeatability conditions
-      of measurement,2.20}}"
+  - content: "{{2.15,measurement precision}} under a set of {{2.20,repeatability conditions of measurement}}"
   examples: []
   id: 2.21-eng
   language_code: eng
@@ -46,7 +45,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{fidélité de mesure,2.15}} selon un ensemble de {{conditions de répétabilité,2.20}}"
+  - content: "{{2.15,fidélité de mesure}} selon un ensemble de {{2.20,conditions de répétabilité}}"
   examples: []
   id: 2.21-fra
   language_code: fra

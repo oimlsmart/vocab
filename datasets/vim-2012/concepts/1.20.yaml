@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: number in the expression of a {{quantity value,1.19}}, other than any
+  - content: number in the expression of a {{1.19,quantity value}}, other than any
       number serving as the reference
   examples:
   - content: In an amount-of-substance fraction equal to 3 mmol/mol, the numerical
@@ -34,11 +34,10 @@ data:
   id: 1.20-eng
   language_code: eng
   notes:
-  - content: For {{quantities of dimension one,1.8}}, the reference is a {{measurement
-      unit,1.9}} which is a number and this is not considered as a part of the numerical
+  - content: For {{1.8,quantities of dimension one}}, the reference is a {{1.9,measurement unit}} which is a number and this is not considered as a part of the numerical
       quantity value.
-  - content: For {{quantities,1.1}} that have a measurement unit (i.e. those other
-      than {{ordinal quantities,1.26}}), the numerical value {Q} of a quantity Qis
+  - content: For {{1.1,quantities}} that have a measurement unit (i.e. those other
+      than {{1.26,ordinal quantities}}), the numerical value {Q} of a quantity Qis
       frequently denoted {Q} = Q/[Q], where [Q] denotes the measurement unit.
   terms:
   - type: expression
@@ -59,7 +58,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: nombre dans l'expression de la {{valeur d'une grandeur,1.19}}, autre
+  - content: nombre dans l'expression de la {{1.19,valeur d'une grandeur}}, autre
       qu'un nombre utilisé comme référence
   examples:
   - content: Pour une fraction molaire égale à 3 mmol/mol, la valeur numérique est
@@ -71,11 +70,10 @@ data:
   id: 1.20-fra
   language_code: fra
   notes:
-  - content: Pour les {{grandeurs sans dimension,1.8}}, la référence est une {{unité
-      de mesure,1.9}} qui est un nombre, et ce nombre n'est pas considéré comme faisant
+  - content: Pour les {{1.8,grandeurs sans dimension}}, la référence est une {{1.9,unité de mesure}} qui est un nombre, et ce nombre n'est pas considéré comme faisant
       partie de la valeur numérique
-  - content: Pour les {{grandeurs,1.1}} qui ont une unité de mesure (c'est-à-dire
-      autres que les {{grandeurs ordinales,1.26}}), la valeur numérique {Q} d'une
+  - content: Pour les {{1.1,grandeurs}} qui ont une unité de mesure (c'est-à-dire
+      autres que les {{1.26,grandeurs ordinales}}), la valeur numérique {Q} d'une
       grandeur Qest fréquemment notée {Q} = Q/[Q], où [Q] est le symbole de l'unité
       de mesure
   terms:

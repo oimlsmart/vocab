@@ -21,10 +21,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: property of a set of {{measurement results,2.9}} for a specified {{measurand,2.3}},
-      such that the absolute value of the difference of any pair of {{measured quantity
-      values,2.10}} from two different measurement results is smaller than some chosen
-      multiple of the {{standard measurement uncertainty,2.30}} of that difference
+  - content: property of a set of {{2.9,measurement results}} for a specified {{2.3,measurand}},
+      such that the absolute value of the difference of any pair of {{2.10,measured quantity values}} from two different measurement results is smaller than some chosen
+      multiple of the {{2.30,standard measurement uncertainty}} of that difference
   examples: []
   id: 2.47-eng
   language_code: eng
@@ -32,10 +31,10 @@ data:
   - content: Metrological compatibility of measurement results replaces the traditional
       concept of 'staying within the error', as it represents the criterion for deciding
       whether two measurement results refer to the same measurand or not. If in a
-      set of {{measurements,2.1}} of a measurand, thought to be constant, a measurement
+      set of {{2.1,measurements}} of a measurand, thought to be constant, a measurement
       result is not compatible with the others, either the measurement was not correct
-      (e.g. its {{measurement uncertainty,2.26}} was assessed as being too small)
-      or the measured {{quantity,1.1}} changed between measurements.
+      (e.g. its {{2.26,measurement uncertainty}} was assessed as being too small)
+      or the measured {{1.1,quantity}} changed between measurements.
   - content: Correlation between the measurements influences metrological compatibility
       of measurement results. If the measurements are completely uncorrelated, the
       standard measurement uncertainty of their difference is equal to the root mean
@@ -64,10 +63,10 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: propriété d'un ensemble de {{résultats de mesure,2.9}} correspondant
-      à un {{mesurande,2.3}} spécifié, telle que la valeur absolue de la différence
-      des {{valeurs mesurées,2.10}} pour toute paire de résultats de mesure est plus
-      petite qu'un certain multiple choisi de l'{{incertitude-type,2.30}} de cette
+  - content: propriété d'un ensemble de {{2.9,résultats de mesure}} correspondant
+      à un {{2.3,mesurande}} spécifié, telle que la valeur absolue de la différence
+      des {{2.10,valeurs mesurées}} pour toute paire de résultats de mesure est plus
+      petite qu'un certain multiple choisi de l'{{2.30,incertitude-type}} de cette
       différence
   examples: []
   id: 2.47-fra
@@ -75,10 +74,10 @@ data:
   notes:
   - content: La compatibilité de mesure remplace le concept traditionnel «rester dans
       l'erreur», puisqu'elle exprime selon quel critère décider si deux résultats
-      de mesure se rapportent ou non au même mesurande. Si, dans un ensemble de {{mesurages,2.1}}
+      de mesure se rapportent ou non au même mesurande. Si, dans un ensemble de {{2.1,mesurages}}
       d'un mesurande que l'on pense être constant, un résultat de mesure n'est pas
       compatible avec les autres, soit le mesurage n'est pas correct (par exemple
-      l'{{incertitude de mesure,2.26}} évaluée est trop petite), soit la {{grandeur,1.1}}
+      l'{{2.26,incertitude de mesure}} évaluée est trop petite), soit la {{1.1,grandeur}}
       mesurée a changé d'un mesurage à l'autre.
   - content: La corrélation entre les mesurages influence la compatibilité de mesure.
       Si les mesurages sont entièrement décorrélés, l'incertitude-type de leur différence

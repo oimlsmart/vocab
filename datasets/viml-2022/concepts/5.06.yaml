@@ -35,8 +35,7 @@ data:
   examples: []
   id: 5.06-eng
   notes:
-  - content: An ancillary device may or may not be subject to {{legal metrological
-      control,2.01}} according to its function in the {{measuring system,0.12}} or
+  - content: An ancillary device may or may not be subject to {{2.01,legal metrological control}} according to its function in the {{0.12,measuring system}} or
       to national regulations.
   - content: 'Main ancillary devices are:
 
@@ -76,8 +75,7 @@ data:
   examples: []
   id: 5.06-fra
   notes:
-  - content: Un dispositif complémentaire peut ou non être soumis au {{contrôle métrologique
-      légal,2.01}}, compte tenu de sa fonction dans le {{système de mesure,0.12}}
+  - content: Un dispositif complémentaire peut ou non être soumis au {{2.01,contrôle métrologique légal}}, compte tenu de sa fonction dans le {{0.12,système de mesure}}
       ou des réglementations nationales.
   - content: 'Les principaux dispositifs complémentaires sont :
 

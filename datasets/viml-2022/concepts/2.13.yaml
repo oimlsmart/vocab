@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: verification of a {{measuring instrument,0.10}} after a previous verification
+  - content: verification of a {{0.10,measuring instrument}} after a previous verification
   examples: []
   id: 2.13-eng
   notes:
@@ -35,7 +35,7 @@ data:
       — mandatory periodic verification,
       — verification after repair, and
       — voluntary verification.
-  - content: Subsequent verification of a {{measuring instrument,0.10}} may be carried
+  - content: Subsequent verification of a {{0.10,measuring instrument}} may be carried
       out before expiry of the period of validity of a previous verification either
       at the request of the user (owner) or when its verification is declared to be
       no longer valid.
@@ -54,7 +54,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: vérification d'un {{instrument de mesure,0.10}} qui suit une vérification
+  - content: vérification d'un {{0.10,instrument de mesure}} qui suit une vérification
       précédente
   examples:
   - content: |-
@@ -64,7 +64,7 @@ data:
       — vérification volontaire.
   id: 2.13-fra
   notes:
-  - content: La vérification ultérieure d'un {{instrument de mesure,0.10}} peut être
+  - content: La vérification ultérieure d'un {{0.10,instrument de mesure}} peut être
       effectuée avant l'expiration de la période de validité d'une vérification précédente,
       soit à la demande de l'utilisateur (propriétaire), soit quand sa vérification
       est déclarée comme n'étant plus valable.

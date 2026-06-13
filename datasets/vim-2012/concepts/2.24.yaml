@@ -21,14 +21,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition of {{measurement,2.1}}, out of a set of conditions that includes
-      different locations, operators, {{measuring systems,3.2}}, and replicate measurements
+  - content: condition of {{2.1,measurement}}, out of a set of conditions that includes
+      different locations, operators, {{3.2,measuring systems}}, and replicate measurements
       on the same or similar objects
   examples: []
   id: 2.24-eng
   language_code: eng
   notes:
-  - content: The different measuring systems may use different {{measurement procedures,2.6}}.
+  - content: The different measuring systems may use different {{2.6,measurement procedures}}.
   - content: A specification should give the conditions changed and unchanged, to
       the extent practical.
   terms:
@@ -47,15 +47,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition de {{mesurage,2.1}} dans un ensemble de conditions qui comprennent
-      des lieux, des opérateurs et des {{systèmes de mesure,3.2}} différents, ainsi
+  - content: condition de {{2.1,mesurage}} dans un ensemble de conditions qui comprennent
+      des lieux, des opérateurs et des {{3.2,systèmes de mesure}} différents, ainsi
       que des mesurages répétés sur le même objet ou des objets similaires
   examples: []
   id: 2.24-fra
   language_code: fra
   notes:
-  - content: Les différents systèmes de mesure peuvent utiliser des {{procédures de
-      mesure,2.6}} différentes.
+  - content: Les différents systèmes de mesure peuvent utiliser des {{2.6,procédures de mesure}} différentes.
   - content: Il convient qu'une spécification relative aux conditions contienne, dans
       la mesure du possible, les conditions que l'on fait varier et celles qui restent
       inchangées.

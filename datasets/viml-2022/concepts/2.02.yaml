@@ -30,8 +30,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: generic term used to globally designate legal operations to which {{measuring
-      instruments,0.10}} may be subjected, e.g. {{type approval,2.05}}, verification,
+  - content: generic term used to globally designate legal operations to which {{0.10,measuring instruments}} may be subjected, e.g. {{2.05,type approval}}, verification,
       etc.
   examples: []
   id: 2.02-eng
@@ -52,8 +51,8 @@ data:
     type: accepted
   definition:
   - content: terme générique utilisé pour désigner globalement les opérations légales
-      auxquelles des {{instruments de mesure,0.10}} peuvent être soumis, par exemple
-      l'{{approbation de type,2.05}}, la vérification, etc.
+      auxquelles des {{0.10,instruments de mesure}} peuvent être soumis, par exemple
+      l'{{2.05,approbation de type}}, la vérification, etc.
   examples: []
   id: 2.02-fra
   notes: []

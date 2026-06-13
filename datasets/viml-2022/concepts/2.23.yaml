@@ -38,19 +38,19 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: manufacturer's declaration of conformity of {{measuring instruments,0.10}}
-      to legal metrological requirements for {{initial verification,2.12}}; the declaration
+  - content: manufacturer's declaration of conformity of {{0.10,measuring instruments}}
+      to legal metrological requirements for {{2.12,initial verification}}; the declaration
       is permitted on condition that the manufacturer has a quality management system
       implemented and approved by a competent body
   examples: []
   id: 2.23-eng
   notes:
-  - content: The {{national responsible body,1.04}} shall have in place a means for
+  - content: The {{1.04,national responsible body}} shall have in place a means for
       periodically validating the implementation of a manufacturer's quality management
       system.
-  - content: The quality management program for {{measuring instruments,0.10}} shall
-      be in accordance with legal metrological requirements for {{initial verification,2.12}}
-      according to national laws or regulations for {{legal metrological control,2.01}}.
+  - content: The quality management program for {{0.10,measuring instruments}} shall
+      be in accordance with legal metrological requirements for {{2.12,initial verification}}
+      according to national laws or regulations for {{2.01,legal metrological control}}.
   sources: []
   terms:
   - type: expression
@@ -67,20 +67,18 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: déclaration de conformité d'{{instruments de mesure,0.10}} aux exigences
-      de métrologie légale applicables à la {{vérification primitive,2.12}} établie
+  - content: déclaration de conformité d'{{0.10,instruments de mesure}} aux exigences
+      de métrologie légale applicables à la {{2.12,vérification primitive}} établie
       par le fabricant, la déclaration étant subordonnée à la mise en place d'un système
       de management de la qualité par le fabricant, approuvé par un organisme compétent
   examples: []
   id: 2.23-fra
   notes:
-  - content: L'{{organisme national responsable,1.04}} doit avoir établi les moyens
+  - content: L'{{1.04,organisme national responsable}} doit avoir établi les moyens
       de valider périodiquement la mise en œuvre du système de management de la qualité
       du fabricant.
-  - content: Le programme de management de la qualité des {{instruments de mesure,0.10}}
-      doit être conforme aux exigences métrologiques légales applicables à la {{vérification
-      primitive,2.12}}, conformément aux lois et règlements du {{contrôle de métrologie
-      légale,2.01}}.
+  - content: Le programme de management de la qualité des {{0.10,instruments de mesure}}
+      doit être conforme aux exigences métrologiques légales applicables à la {{2.12,vérification primitive}}, conformément aux lois et règlements du {{2.01,contrôle de métrologie légale}}.
   sources: []
   terms:
   - type: expression

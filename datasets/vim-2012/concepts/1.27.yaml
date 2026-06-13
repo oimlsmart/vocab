@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ordered set of {{quantity values,1.19}} of {{quantities,1.1}} of a given
-      {{kind of quantity,1.2}} used in ranking, according to magnitude, quantities
+  - content: ordered set of {{1.19,quantity values}} of {{1.1,quantities}} of a given
+      {{1.2,kind of quantity}} used in ranking, according to magnitude, quantities
       of that kind
   examples:
   - content: Celsius temperature scale.
@@ -52,7 +52,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble ordonné de {{valeurs,1.19}} de {{grandeurs,1.1}} d'une {{nature,1.2}}
+  - content: ensemble ordonné de {{1.19,valeurs}} de {{1.1,grandeurs}} d'une {{1.2,nature}}
       donnée, utilisé pour classer des grandeurs de cette nature en ordre croissant
       ou décroissant de leurs expressions quantitatives
   examples:

@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: attribute of a part of a {{measuring instrument,0.10}}, a device or software
+  - content: attribute of a part of a {{0.10,measuring instrument}}, a device or software
       subject to legal control
   examples: []
   id: 4.08-eng
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: attribut d'une partie d'un {{instrument de mesure,0.10}}, d'un dispositif
+  - content: attribut d'une partie d'un {{0.10,instrument de mesure}}, d'un dispositif
       ou d'un logiciel soumise au contrôle légal
   examples: []
   id: 4.08-fra

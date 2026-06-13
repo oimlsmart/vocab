@@ -39,7 +39,7 @@ data:
   examples: []
   id: 0.10-eng
   notes:
-  - content: A measuring instrument that can be used alone is a {{measuring system,0.12}}.
+  - content: A measuring instrument that can be used alone is a {{0.12,measuring system}}.
   - content: A measuring instrument may be an indicating measuring instrument or a
       material measure.
   sources:
@@ -69,8 +69,7 @@ data:
   examples: []
   id: 0.10-fra
   notes:
-  - content: Un instrument de mesure qui peut être utilisé seul est un {{système de
-      mesure,0.12}}.
+  - content: Un instrument de mesure qui peut être utilisé seul est un {{0.12,système de mesure}}.
   - content: Un instrument de mesure peut être un appareil de mesure indicateur ou
       une mesure matérialisée.
   sources:

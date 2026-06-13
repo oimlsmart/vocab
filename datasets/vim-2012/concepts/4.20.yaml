@@ -21,8 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: average of replicate {{indications,4.1}} minus a {{reference quantity
-      value,5.18}}
+  - content: average of replicate {{4.1,indications}} minus a {{5.18,reference quantity value}}
   examples: []
   id: 4.20-eng
   language_code: eng
@@ -43,8 +42,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: différence entre la moyenne d'{{indications,4.1}} répétées et une {{valeur
-      de référence,5.18}}
+  - content: différence entre la moyenne d'{{4.1,indications}} répétées et une {{5.18,valeur de référence}}
   examples: []
   id: 4.20-fra
   language_code: fra

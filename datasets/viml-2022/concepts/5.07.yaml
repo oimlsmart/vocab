@@ -30,12 +30,12 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: facility that is incorporated in a {{measuring instrument,0.10}} and
-      which enables {{significant faults,5.14}} to be detected and acted upon
+  - content: facility that is incorporated in a {{0.10,measuring instrument}} and
+      which enables {{5.14,significant faults}} to be detected and acted upon
   examples: []
   id: 5.07-eng
   notes:
-  - content: “Acted upon” refers to any adequate response by the {{measuring instrument,0.10}}
+  - content: “Acted upon” refers to any adequate response by the {{0.10,measuring instrument}}
       (luminous signal, acoustic signal, prevention of the measurement process, etc.).
   sources: []
   terms:
@@ -52,13 +52,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: système incorporé dans un {{instrument de mesure,0.10}} et qui permet
-      de détecter et de mettre en évidence les {{défauts significatifs,5.14}}
+  - content: système incorporé dans un {{0.10,instrument de mesure}} et qui permet
+      de détecter et de mettre en évidence les {{5.14,défauts significatifs}}
   examples: []
   id: 5.07-fra
   notes:
   - content: La mise en évidence peut être matérialisée par toute réponse appropriée
-      de l'{{instrument de mesure,0.10}} (signal lumineux, signal acoustique, blocage
+      de l'{{0.10,instrument de mesure}} (signal lumineux, signal acoustique, blocage
       du processus de mesurage, etc.).
   sources: []
   terms:

@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: identifiable group of {{modules,4.04}} belonging to the same manufactured
+  - content: identifiable group of {{4.04,modules}} belonging to the same manufactured
       type that have similar design features but that may differ in some metrological
       and technical performance requirements as defined in the relevant Recommendation
   examples: []
@@ -47,7 +47,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: groupe identifiable de {{modules,4.04}} appartenant au même type fabriqué,
+  - content: groupe identifiable de {{4.04,modules}} appartenant au même type fabriqué,
       qui ont les mêmes caractéristiques de conception, mais qui peuvent différer
       par quelques exigences de performances métrologiques et techniques, telles que
       définies dans la Recommandation applicable

@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: number and reference together expressing magnitude of a {{quantity,1.1}}
+  - content: number and reference together expressing magnitude of a {{1.1,quantity}}
   examples:
   - content: |-
       Length of a given rod:
@@ -60,9 +60,9 @@ data:
   notes:
   - content: |-
       According to the type of reference, a quantity value is either
-      - a product of a number and a {{measurement unit,1.9}} (see Examples 1, 2, 3, 4, 5, 8 and 9); the measurement unit one is generally not indicated for {{quantities of dimension one,1.8}} (see Examples 6 and 8), or
-      - a number and a reference to a {{measurement procedure,2.6}} (see Example 7), or
-      - a number and a {{reference material,5.13}} (see Example 10).
+      - a product of a number and a {{1.9,measurement unit}} (see Examples 1, 2, 3, 4, 5, 8 and 9); the measurement unit one is generally not indicated for {{1.8,quantities of dimension one}} (see Examples 6 and 8), or
+      - a number and a reference to a {{2.6,measurement procedure}} (see Example 7), or
+      - a number and a {{5.13,reference material}} (see Example 10).
   - content: The number can be complex (see Example 5).
   - content: A quantity value can be presented in more than one way (see Examples
       1, 2 and 8).
@@ -95,7 +95,7 @@ data:
     type: accepted
   definition:
   - content: ensemble d'un nombre et d'une référence constituant l'expression quantitative
-      d'une {{grandeur,1.1}}
+      d'une {{1.1,grandeur}}
   examples:
   - content: |-
       Longueur d'une tige donnée:
@@ -134,9 +134,9 @@ data:
   notes:
   - content: |-
       Selon le type de référence, la valeur d'une grandeur est
-      - soit le produit d'un nombre et d'une {{unité de mesure,1.9}} (voir les Exemples 1, 2, 3, 4, 5, 8 et 9); l'unité un est généralement omise pour les {{grandeurs sans dimension,1.8}} (voir Exemples 6 et 8);
-      - soit un nombre et la référence à une {{procédure de mesure,2.6}} (voir Exemple 7);
-      - soit un nombre et un {{matériau de référence,5.13}} (voir Exemple 10).
+      - soit le produit d'un nombre et d'une {{1.9,unité de mesure}} (voir les Exemples 1, 2, 3, 4, 5, 8 et 9); l'unité un est généralement omise pour les {{1.8,grandeurs sans dimension}} (voir Exemples 6 et 8);
+      - soit un nombre et la référence à une {{2.6,procédure de mesure}} (voir Exemple 7);
+      - soit un nombre et un {{5.13,matériau de référence}} (voir Exemple 10).
   - content: Le nombre peut être complexe (voir Exemple 5).
   - content: La valeur d'une grandeur peut être représentée de plus d'une façon (voir
       Exemples 1, 2 et 8).

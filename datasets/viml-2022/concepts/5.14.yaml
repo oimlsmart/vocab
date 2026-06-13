@@ -42,21 +42,21 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{fault,5.12}} exceeding the applicable {{fault limit,5.13}} value'
+  - content: '{{5.12,fault}} exceeding the applicable {{5.13,fault limit}} value'
   examples: []
   id: 5.14-eng
   notes:
-  - content: 'For particular types of {{measuring instruments,0.10}} some {{faults,5.12}}
-      exceeding the {{fault limit,5.13}} may not be considered a significant fault;
+  - content: 'For particular types of {{0.10,measuring instruments}} some {{5.12,faults}}
+      exceeding the {{5.13,fault limit}} may not be considered a significant fault;
       the applicable Recommendation shall state when such exception applies. For example,
       the occurrence of one or some of the following faults may be acceptable:
 
       — faults arising from simultaneous and mutually independent causes originating
-      in a measuring instrument or in its {{checking facilities,5.07}};
+      in a measuring instrument or in its {{5.07,checking facilities}};
 
       — faults implying the impossibility to perform any measurement;
 
-      — transitory faults being momentary variations in the {{indication,0.03}}, which
+      — transitory faults being momentary variations in the {{0.03,indication}}, which
       cannot be interpreted, memorized or transmitted as a measurement result;
 
       — faults giving rise to variations in the measurement result that are serious
@@ -77,23 +77,23 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{défaut,5.12}} plus grand que le {{défaut limite,5.13}} applicable'
+  - content: '{{5.12,défaut}} plus grand que le {{5.13,défaut limite}} applicable'
   examples: []
   id: 5.14-fra
   notes:
-  - content: 'Pour des types d''{{instruments de mesure,0.10}} donnés, des {{défauts,5.12}}
-      plus grands que le {{défaut limite,5.13}} peuvent ne pas être considérés comme
+  - content: 'Pour des types d''{{0.10,instruments de mesure}} donnés, des {{5.12,défauts}}
+      plus grands que le {{5.13,défaut limite}} peuvent ne pas être considérés comme
       significatifs ; la Recommandation applicable doit indiquer lorsque de telles
       exceptions s''appliquent. Par exemple, l''apparition d''un ou plusieurs des
       défauts suivants peut être acceptable :
 
       — défauts provenant de causes simultanées et mutuellement indépendantes (par
       exemple champs électromagnétiques et décharges) dans un instrument ou dans ses
-      {{systèmes de contrôle,5.07}} ;
+      {{5.07,systèmes de contrôle}} ;
 
       — défauts rendant impossible l''accomplissement de toute mesure ;
 
-      — défauts transitoires provenant de variations momentanées de l''{{indication,0.03}},
+      — défauts transitoires provenant de variations momentanées de l''{{0.03,indication}},
       qui ne peuvent être interprétées, mises en mémoire ou transmises comme un résultat
       de mesure ;
 

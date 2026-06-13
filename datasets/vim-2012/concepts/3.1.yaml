@@ -25,15 +25,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device used for making {{measurements,2.1}}, alone or in conjunction
+  - content: device used for making {{2.1,measurements}}, alone or in conjunction
       with one or more supplementary devices
   examples: []
   id: 3.1-eng
   language_code: eng
   notes:
-  - content: A measuring instrument that can be used alone is a {{measuring system,3.2}}.
-  - content: A measuring instrument may be an {{indicating measuring instrument,3.3}}
-      or a {{material measure,3.6}}.
+  - content: A measuring instrument that can be used alone is a {{3.2,measuring system}}.
+  - content: A measuring instrument may be an {{3.3,indicating measuring instrument}}
+      or a {{3.6,material measure}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -48,16 +48,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: dispositif utilisé pour faire des {{mesurages,2.1}}, seul ou associé
+  - content: dispositif utilisé pour faire des {{2.1,mesurages}}, seul ou associé
       à un ou plusieurs dispositifs annexes
   examples: []
   id: 3.1-fra
   language_code: fra
   notes:
-  - content: Un instrument de mesure qui peut être utilisé seul est un {{système de
-      mesure,3.2}}.
-  - content: Un instrument de mesure peut être un {{appareil de mesure indicateur,3.3}}
-      ou une {{mesure matérialisée,3.6}}.
+  - content: Un instrument de mesure qui peut être utilisé seul est un {{3.2,système de mesure}}.
+  - content: Un instrument de mesure peut être un {{3.3,appareil de mesure indicateur}}
+      ou une {{3.6,mesure matérialisée}}.
   terms:
   - type: expression
     normative_status: preferred

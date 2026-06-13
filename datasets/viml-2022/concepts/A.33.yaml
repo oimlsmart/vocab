@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: acknowledgement of the validity of a {{conformity assessment,A.1}} result
+  - content: acknowledgement of the validity of a {{A.1,conformity assessment}} result
       provided by another person or organization
   examples: []
   id: A.33-eng
@@ -67,7 +67,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: reconnaissance de la validité d'un résultat d'{{évaluation de la conformité,A.1}}
+  - content: reconnaissance de la validité d'un résultat d'{{A.1,évaluation de la conformité}}
       fourni par une autre personne ou organisation
   examples: []
   id: A.33-fra

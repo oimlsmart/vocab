@@ -38,9 +38,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: sufficiency of different {{conformity assessment,A.1}} results to provide
-      the same level of assurance of conformity with regard to the same {{specified
-      requirements,A.6}}
+  - content: sufficiency of different {{A.1,conformity assessment}} results to provide
+      the same level of assurance of conformity with regard to the same {{A.6,specified requirements}}
   examples: []
   id: A.32-eng
   notes:
@@ -72,9 +71,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: concordance suffisante entre différents résultats d'{{évaluation de la
-      conformité,A.1}} pour fournir le même niveau d'assurance de la conformité quant
-      aux mêmes {{exigences spécifiées,A.6}}
+  - content: concordance suffisante entre différents résultats d'{{A.1,évaluation de la conformité}} pour fournir le même niveau d'assurance de la conformité quant
+      aux mêmes {{A.6,exigences spécifiées}}
   examples: []
   id: A.32-fra
   notes:

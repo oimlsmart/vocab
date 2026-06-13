@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: part of a displaying {{measuring instrument,0.10}}, consisting of an
+  - content: part of a displaying {{0.10,measuring instrument}}, consisting of an
       ordered set of marks together with any associated quantity values
   examples: []
   id: 0.13-eng
@@ -61,7 +61,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: partie d'un {{appareil de mesure,0.10}} afficheur constituée d'un ensemble
+  - content: partie d'un {{0.10,appareil de mesure}} afficheur constituée d'un ensemble
       ordonné de repères, associés éventuellement à des nombres ou des valeurs de
       grandeurs
   examples: []

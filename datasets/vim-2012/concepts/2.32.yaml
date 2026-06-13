@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{standard measurement uncertainty,2.30}} divided by the absolute value
-      of the {{measured quantity value,2.10}}"
+  - content: "{{2.30,standard measurement uncertainty}} divided by the absolute value
+      of the {{2.10,measured quantity value}}"
   examples: []
   id: 2.32-eng
   language_code: eng
@@ -45,8 +45,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: quotient de l'{{incertitude-type,2.30}} par la valeur absolue de la {{valeur
-      mesurée,2.10}}
+  - content: quotient de l'{{2.30,incertitude-type}} par la valeur absolue de la {{2.10,valeur mesurée}}
   examples: []
   id: 2.32-fra
   language_code: fra

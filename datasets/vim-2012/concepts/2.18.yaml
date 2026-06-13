@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: estimate of a {{systematic measurement error,2.17}}
+  - content: estimate of a {{2.17,systematic measurement error}}
   examples: []
   id: 2.18-eng
   language_code: eng
@@ -45,7 +45,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: estimation d'une {{erreur systématique,2.17}}
+  - content: estimation d'une {{2.17,erreur systématique}}
   examples: []
   id: 2.18-fra
   language_code: fra

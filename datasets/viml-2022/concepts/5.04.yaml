@@ -30,13 +30,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: part of the {{measuring instrument,0.10}} which displays the measurement
+  - content: part of the {{0.10,measuring instrument}} which displays the measurement
       results either continuously or on demand
   examples: []
   id: 5.04-eng
   notes:
   - content: A printing device is not an indicating device, although a printed measurement
-      result is considered to be an {{indication,0.03}}.
+      result is considered to be an {{0.03,indication}}.
   sources: []
   terms:
   - type: expression
@@ -52,13 +52,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: partie de l'{{instrument de mesure,0.10}} qui affiche les résultats de
+  - content: partie de l'{{0.10,instrument de mesure}} qui affiche les résultats de
       mesurages, soit de façon continue, soit sur demande
   examples: []
   id: 5.04-fra
   notes:
   - content: Un dispositif d'impression ne constitue pas un dispositif indicateur,
-      bien qu'une valeur imprimée soit une {{indication,0.03}}.
+      bien qu'une valeur imprimée soit une {{0.03,indication}}.
   sources: []
   terms:
   - type: expression

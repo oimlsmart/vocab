@@ -27,7 +27,7 @@ data:
     type: accepted
   definition:
   - content: sequence of readable characters (e.g. version number, checksum) that
-      is inextricably linked to the software or software {{module,4.04}} under consideration
+      is inextricably linked to the software or software {{4.04,module}} under consideration
   examples: []
   id: 6.01-eng
   notes:
@@ -48,7 +48,7 @@ data:
     type: accepted
   definition:
   - content: séquence de caractères lisibles (par exemple un numéro de version, une
-      somme de contrôle) inextricablement liée au logiciel ou {{module,4.04}} de logiciel
+      somme de contrôle) inextricablement liée au logiciel ou {{4.04,module}} de logiciel
       considéré
   examples: []
   id: 6.01-fra

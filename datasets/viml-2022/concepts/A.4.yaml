@@ -38,8 +38,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of rules and {{procedures,A.7}} for the management of similar or
-      related {{conformity assessment,A.1}} schemes
+  - content: set of rules and {{A.7,procedures}} for the management of similar or
+      related {{A.1,conformity assessment}} schemes
   examples: []
   id: A.4-eng
   notes:
@@ -67,8 +67,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble de règles et {{procédures,A.7}} pour le management de systèmes
-      particuliers d'{{évaluation de la conformité,A.1}} similaires ou connexes
+  - content: ensemble de règles et {{A.7,procédures}} pour le management de systèmes
+      particuliers d'{{A.1,évaluation de la conformité}} similaires ou connexes
   examples: []
   id: A.4-fra
   notes:

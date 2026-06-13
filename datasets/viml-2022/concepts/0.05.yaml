@@ -36,7 +36,7 @@ data:
   definition:
   - content: extreme value of measurement error, with respect to a known reference
       quantity value, permitted by specifications or regulations for a given measurement,
-      {{measuring instrument,0.10}}, or measuring system
+      {{0.10,measuring instrument}}, or measuring system
   examples: []
   id: 0.05-eng
   notes:
@@ -76,7 +76,7 @@ data:
   definition:
   - content: valeur extrême de l'erreur de mesure, par rapport à une valeur de référence
       connue, qui est tolérée par les spécifications ou règlements pour un mesurage,
-      un {{instrument de mesure,0.10}} ou un système de mesure donné
+      un {{0.10,instrument de mesure}} ou un système de mesure donné
   examples: []
   id: 0.05-fra
   notes:

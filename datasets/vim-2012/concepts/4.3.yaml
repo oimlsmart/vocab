@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of {{quantity values,1.19}} bounded by extreme possible {{indications,4.1}}
+  - content: set of {{1.19,quantity values}} bounded by extreme possible {{4.1,indications}}
   examples: []
   id: 4.3-eng
   language_code: eng
@@ -45,7 +45,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble des {{valeurs,1.19}} comprises entre les deux {{indications,4.1}}
+  - content: ensemble des {{1.19,valeurs}} comprises entre les deux {{4.1,indications}}
       extrêmes
   examples: []
   id: 4.3-fra

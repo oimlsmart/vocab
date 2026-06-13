@@ -30,8 +30,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{indication,0.03}} (displayed, printed or memorized) subject to {{legal
-      metrological control,2.01}}'
+  - content: '{{0.03,indication}} (displayed, printed or memorized) subject to {{2.01,legal metrological control}}'
   examples: []
   id: 5.05-eng
   notes: []
@@ -50,8 +49,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{indication,0.03}} (affichée, imprimée ou mémorisée) soumise au {{contrôle
-      métrologique légal,2.01}}'
+  - content: '{{0.03,indication}} (affichée, imprimée ou mémorisée) soumise au {{2.01,contrôle métrologique légal}}'
   examples: []
   id: 5.05-fra
   notes: []

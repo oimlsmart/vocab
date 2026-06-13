@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity,1.1}} for which all the exponents of the factors corresponding
-      to the {{base quantities,1.4}} in its {{quantity dimension,1.7}} are zero"
+  - content: "{{1.1,quantity}} for which all the exponents of the factors corresponding
+      to the {{1.4,base quantities}} in its {{1.7,quantity dimension}} are zero"
   examples:
   - content: Plane angle, solid angle, refractive index, relative permeability, mass
       fraction, friction factor, Mach number.
@@ -36,10 +36,10 @@ data:
       symbolic representation of the dimension for such quantities. The term “quantity
       of dimension one” reflects the convention in which the symbolic representation
       of the dimension for such quantities is the symbol 1 (see ISO 31-0:1992, 2.2.6).
-  - content: The {{measurement units,1.9}} and {{values,1.19}} of quantities of dimension
+  - content: The {{1.9,measurement units}} and {{1.19,values}} of quantities of dimension
       one are numbers, but such quantities convey more information than a number.
   - content: Some quantities of dimension one are defined as the ratios of two quantities
-      of the same {{kind,1.2}}.
+      of the same {{1.2,kind}}.
   - content: Numbers of entities are quantities of dimension one.
   terms:
   - type: expression
@@ -57,8 +57,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur,1.1}} pour laquelle tous les exposants des facteurs correspondant
-      aux {{grandeurs de base,1.4}} dans sa {{dimension,1.7}} sont nuls"
+  - content: "{{1.1,grandeur}} pour laquelle tous les exposants des facteurs correspondant
+      aux {{1.4,grandeurs de base}} dans sa {{1.7,dimension}} sont nuls"
   examples:
   - content: Angle plan, angle solide, indice de réfraction, perméabilité relative,
       fraction massique, facteur de frottement, nombre de Mach.
@@ -72,11 +72,11 @@ data:
       de la dimension de telles grandeurs. Le terme «grandeur de dimension un» reflète
       la convention selon laquelle la représentation symbolique de la dimension de
       telles grandeurs est le symbole 1 (voir l'ISO 31-0:1992, 2.2.6).
-  - content: Les {{unités de mesure,1.9}} et les {{valeurs,1.19}} des grandeurs sans
+  - content: Les {{1.9,unités de mesure}} et les {{1.19,valeurs}} des grandeurs sans
       dimension sont des nombres, mais ces grandeurs portent plus d'information qu'un
       nombre.
   - content: Certaines grandeurs sans dimension sont définies comme des rapports de
-      deux grandeurs de même {{nature,1.2}}
+      deux grandeurs de même {{1.2,nature}}
   - content: Les nombres d'entités sont des grandeurs sans dimension
   terms:
   - type: expression

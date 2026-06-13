@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: the first making available of a {{measuring instrument,0.10}} or a prepackage
+  - content: the first making available of a {{0.10,measuring instrument}} or a prepackage
       on the market
   examples: []
   id: 2.24-eng
@@ -48,8 +48,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mise à disposition pour la première fois sur le marché d'un {{instrument
-      de mesure,0.10}} ou d'un préemballage
+  - content: mise à disposition pour la première fois sur le marché d'un {{0.10,instrument de mesure}} ou d'un préemballage
   examples: []
   id: 2.24-fra
   notes:

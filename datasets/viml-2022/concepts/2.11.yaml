@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: verification of a homogeneous batch of {{measuring instruments,0.10}}
+  - content: verification of a homogeneous batch of {{0.10,measuring instruments}}
       based on the results of examination of a statistically appropriate number of
       specimens selected at random from an identified lot
   examples: []
@@ -47,7 +47,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: vérification d'un lot homogène d'{{instruments de mesure,0.10}} basée
+  - content: vérification d'un lot homogène d'{{0.10,instruments de mesure}} basée
       sur l'examen d'un nombre statistiquement approprié d'exemplaires pris au hasard
       dans un lot identifié
   examples: []

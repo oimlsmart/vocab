@@ -21,19 +21,18 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement standard,5.1}} established through {{calibration,2.39}}
-      with respect to a {{primary measurement standard,5.4}} for a {{quantity,1.1}}
-      of the same {{kind,1.2}}'
+  - content: '{{5.1,measurement standard}} established through {{2.39,calibration}}
+      with respect to a {{5.4,primary measurement standard}} for a {{1.1,quantity}}
+      of the same {{1.2,kind}}'
   examples: []
   id: 5.5-eng
   language_code: eng
   notes:
   - content: Calibration may be obtained directly between a primary measurement standard
-      and a secondary measurement standard, or involve an intermediate {{measuring
-      system,3.2}} calibrated by the primary measurement standard and assigning a
-      {{measurement result,2.9}} to the secondary measurement standard.
-  - content: A measurement standard having its {{quantity value,1.19}} assigned by
-      a ratio {{primary reference measurement procedure,2.8}} is a secondary measurement
+      and a secondary measurement standard, or involve an intermediate {{3.2,measuring system}} calibrated by the primary measurement standard and assigning a
+      {{2.9,measurement result}} to the secondary measurement standard.
+  - content: A measurement standard having its {{1.19,quantity value}} assigned by
+      a ratio {{2.8,primary reference measurement procedure}} is a secondary measurement
       standard.
   terms:
   - type: expression
@@ -51,18 +50,17 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{étalon,5.1}} établi par l''intermédiaire d''un {{étalonnage,2.39}}
-      par rapport à un {{étalon primaire,5.4}} d''une {{grandeur,1.1}} de même {{nature,1.2}}'
+  - content: '{{5.1,étalon}} établi par l''intermédiaire d''un {{2.39,étalonnage}}
+      par rapport à un {{5.4,étalon primaire}} d''une {{1.1,grandeur}} de même {{1.2,nature}}'
   examples: []
   id: 5.5-fra
   language_code: fra
   notes:
   - content: On peut obtenir directement la relation entre l'étalon primaire et l'étalon
-      secondaire ou mettre en oeuvre un {{système de mesure,3.2}} intermédiaire étalonné
-      par l'étalon primaire, qui assigne un {{résultat de mesure,2.9}} à l'étalon
+      secondaire ou mettre en oeuvre un {{3.2,système de mesure}} intermédiaire étalonné
+      par l'étalon primaire, qui assigne un {{2.9,résultat de mesure}} à l'étalon
       secondaire.
-  - content: Un étalon dont la {{valeur,1.19}} est assignée par une {{procédure de
-      mesure primaire,2.8}} de mesure de rapport est un étalon secondaire.
+  - content: Un étalon dont la {{1.19,valeur}} est assignée par une {{2.8,procédure de mesure primaire}} de mesure de rapport est un étalon secondaire.
   terms:
   - type: expression
     normative_status: preferred

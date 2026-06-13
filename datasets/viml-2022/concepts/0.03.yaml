@@ -34,8 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: quantity value provided by a {{measuring instrument,0.10}} or a {{measuring
-      system,0.12}}
+  - content: quantity value provided by a {{0.10,measuring instrument}} or a {{0.12,measuring system}}
   examples: []
   id: 0.03-eng
   notes:
@@ -68,8 +67,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: valeur fournie par un {{instrument de mesure,0.10}} ou un {{système de
-      mesure,0.12}}
+  - content: valeur fournie par un {{0.10,instrument de mesure}} ou un {{0.12,système de mesure}}
   examples: []
   id: 0.03-fra
   notes:

@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: sub-assembly, combination of subassemblies or complete {{measuring instrument,0.10}}
+  - content: sub-assembly, combination of subassemblies or complete {{0.10,measuring instrument}}
       subject to a test
   examples: []
   id: 4.16-eng

@@ -21,8 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measurement error,2.16}} of a {{measuring instrument,3.1}} or {{measuring
-      system,3.2}} at a specified {{measured quantity value,2.10}}"
+  - content: "{{2.16,measurement error}} of a {{3.1,measuring instrument}} or {{3.2,measuring system}} at a specified {{2.10,measured quantity value}}"
   examples: []
   id: 4.27-eng
   language_code: eng
@@ -47,8 +46,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{erreur de mesure,2.16}} d'un {{instrument de mesure,3.1}} ou d'un
-      {{système de mesure,3.2}} pour une {{valeur mesurée,2.10}} spécifiée"
+  - content: "{{2.16,erreur de mesure}} d'un {{3.1,instrument de mesure}} ou d'un
+      {{3.2,système de mesure}} pour une {{2.10,valeur mesurée}} spécifiée"
   examples: []
   id: 4.27-fra
   language_code: fra

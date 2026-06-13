@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity value,1.19}} attributed by agreement to a {{quantity,1.1}}
+  - content: "{{1.19,quantity value}} attributed by agreement to a {{1.1,quantity}}
       for a given purpose"
   examples:
   - content: Standard acceleration of free fall (formerly called “standard acceleration
@@ -35,10 +35,9 @@ data:
   notes:
   - content: The term “conventional true quantity value” is sometimes used for this
       concept, but its use is discouraged.
-  - content: Sometimes a conventional quantity value is an estimate of a {{true quantity
-      value,2.11}}.
+  - content: Sometimes a conventional quantity value is an estimate of a {{2.11,true quantity value}}.
   - content: A conventional quantity value is generally accepted as being associated
-      with a suitably small {{measurement uncertainty,2.26}}, which might be zero.
+      with a suitably small {{2.26,measurement uncertainty}}, which might be zero.
   terms:
   - type: expression
     normative_status: preferred
@@ -61,7 +60,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{valeur,1.19}} attribuée à une {{grandeur,1.1}} par un accord pour
+  - content: "{{1.19,valeur}} attribuée à une {{1.1,grandeur}} par un accord pour
       un usage donné"
   examples:
   - content: Valeur conventionnelle de l'accélération due à la pesanteur ou accélération
@@ -74,10 +73,9 @@ data:
   notes:
   - content: Le terme «valeur conventionnellement vraie» est quelquefois utilisé pour
       ce concept, mais son utilisation est déconseillée.
-  - content: Une valeur conventionnelle est quelquefois une estimation d'une {{valeur
-      vraie,2.11}}.
+  - content: Une valeur conventionnelle est quelquefois une estimation d'une {{2.11,valeur vraie}}.
   - content: Une valeur conventionnelle est généralement considérée comme associée
-      à une {{incertitude de mesure,2.26}} convenablement petite, qui peut être nulle.
+      à une {{2.26,incertitude de mesure}} convenablement petite, qui peut être nulle.
   terms:
   - type: expression
     normative_status: preferred

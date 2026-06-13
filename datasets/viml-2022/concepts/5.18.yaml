@@ -42,15 +42,14 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{influence quantity,0.07}} having a value which ranges within the {{rated
-      operating conditions,0.08}} of a {{measuring instrument,0.10}}'
+  - content: '{{0.07,influence quantity}} having a value which ranges within the {{0.08,rated operating conditions}} of a {{0.10,measuring instrument}}'
   examples: []
   id: 5.18-eng
   notes:
   - content: The rated operating conditions shall be in conformity with the applicable
       requirements specified in the applicable Recommendation
-  - content: The variation of an {{indication,0.03}} as a consequence of an influence
-      factor is considered an error and not a {{fault,5.12}}.
+  - content: The variation of an {{0.03,indication}} as a consequence of an influence
+      factor is considered an error and not a {{5.12,fault}}.
   sources: []
   terms:
   - type: expression
@@ -73,8 +72,8 @@ data:
   notes:
   - content: Les conditions assignées de fonctionnement doivent être conformes aux
       exigences applicables spécifiées dans la Recommandation applicable.
-  - content: Le changement d'{{indication,0.03}} dû à un facteur d'influence est une
-      erreur et non un {{défaut,5.12}}.
+  - content: Le changement d'{{0.03,indication}} dû à un facteur d'influence est une
+      erreur et non un {{5.12,défaut}}.
   sources: []
   terms:
   - type: expression

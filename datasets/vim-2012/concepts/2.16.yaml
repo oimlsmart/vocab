@@ -21,18 +21,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{measured quantity value,2.10}} minus a {{reference quantity value,5.18}}"
+  - content: "{{2.10,measured quantity value}} minus a {{5.18,reference quantity value}}"
   examples: []
   id: 2.16-eng
   language_code: eng
   notes:
   - content: The concept of 'measurement error' can be used both a) when there is
-      a single reference quantity value to refer to, which occurs if a {{calibration,2.39}}
-      is made by means of a {{measurement standard,5.1}} with a {{measured quantity
-      value,2.10}} having a negligible {{measurement uncertainty,2.26}} or if a {{conventional
-      quantity value,2.12}} is given, in which case the measurement error is known,
-      and b) if a {{measurand,2.3}} is supposed to be represented by a unique {{true
-      quantity value,2.11}} or a set of true quantity values of negligible range,
+      a single reference quantity value to refer to, which occurs if a {{2.39,calibration}}
+      is made by means of a {{5.1,measurement standard}} with a {{2.10,measured quantity value}} having a negligible {{2.26,measurement uncertainty}} or if a {{2.12,conventional quantity value}} is given, in which case the measurement error is known,
+      and b) if a {{2.3,measurand}} is supposed to be represented by a unique {{2.11,true quantity value}} or a set of true quantity values of negligible range,
       in which case the measurement error is not known.
   - content: Measurement error should not be confused with production error or mistake.
   terms:
@@ -59,18 +56,17 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: différence entre la {{valeur mesurée,2.10}} d'une {{grandeur,1.1}} et
-      une {{valeur de référence,5.18}}
+  - content: différence entre la {{2.10,valeur mesurée}} d'une {{1.1,grandeur}} et
+      une {{5.18,valeur de référence}}
   examples: []
   id: 2.16-fra
   language_code: fra
   notes:
   - content: Le concept d'erreur peut être utilisé a) lorsqu'il existe une valeur
       de référence unique à laquelle se rapporter, ce qui a lieu si on effectue un
-      {{étalonnage,2.39}} au moyen d'un {{étalon,5.1}} dont la {{valeur mesurée,2.10}}
-      a une {{incertitude de mesure,2.26}} négligeable ou si on prend une {{valeur
-      conventionnelle,2.12}}, l'erreur étant alors connue, b) si on suppose le {{mesurande,2.3}}
-      représenté par une {{valeur vraie,2.11}} unique ou un ensemble de valeurs vraies
+      {{2.39,étalonnage}} au moyen d'un {{5.1,étalon}} dont la {{2.10,valeur mesurée}}
+      a une {{2.26,incertitude de mesure}} négligeable ou si on prend une {{2.12,valeur conventionnelle}}, l'erreur étant alors connue, b) si on suppose le {{2.3,mesurande}}
+      représenté par une {{2.11,valeur vraie}} unique ou un ensemble de valeurs vraies
       d'étendue négligeable, l'erreur étant alors inconnue.
   - content: Il convient de ne pas confondre l'erreur de mesure avec une erreur de
       production ou une erreur humaine.

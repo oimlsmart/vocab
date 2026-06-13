@@ -21,16 +21,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: evaluation of a component of {{measurement uncertainty,2.26}} determined
-      by means other than a {{Type A evaluation of measurement uncertainty,2.28}}
+  - content: evaluation of a component of {{2.26,measurement uncertainty}} determined
+      by means other than a {{2.28,Type A evaluation of measurement uncertainty}}
   examples:
   - content: |-
       Evaluation based on information
-      - associated with authoritative published {{quantity values,1.19}},
-      - associated with the quantity value of a {{certified reference material,5.14}},
-      - obtained from a {{calibration,2.39}} certificate,
+      - associated with authoritative published {{1.19,quantity values}},
+      - associated with the quantity value of a {{5.14,certified reference material}},
+      - obtained from a {{2.39,calibration}} certificate,
       - about drift,
-      - obtained from the {{accuracy class,4.25}} of a verified {{measuring instrument,3.1}},
+      - obtained from the {{4.25,accuracy class}} of a verified {{3.1,measuring instrument}},
       - obtained from limits deduced through personal experience.
   id: 2.29-eng
   language_code: eng
@@ -52,16 +52,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: évaluation d'une composante de l'{{incertitude de mesure,2.26}} par d'autres
-      moyens qu'une {{évaluation de type A de l'incertitude,2.28}}
+  - content: évaluation d'une composante de l'{{2.26,incertitude de mesure}} par d'autres
+      moyens qu'une {{2.28,évaluation de type A de l'incertitude}}
   examples:
   - content: |-
       Évaluation fondée sur des informations
-      - associées à des {{valeurs,1.19}} publiées faisant autorité,
-      - associées à la valeur d'un {{matériau de référence certifié,5.14}},
-      - obtenues à partir d'un certificat d'{{étalonnage,2.39}},
+      - associées à des {{1.19,valeurs}} publiées faisant autorité,
+      - associées à la valeur d'un {{5.14,matériau de référence certifié}},
+      - obtenues à partir d'un certificat d'{{2.39,étalonnage}},
       - concernant la dérive,
-      - obtenues à partir de la {{classe d'exactitude,4.25}} d'un {{instrument de mesure,3.1}} vérifié,
+      - obtenues à partir de la {{4.25,classe d'exactitude}} d'un {{3.1,instrument de mesure}} vérifié,
       - obtenues à partir de limites déduites de l'expérience personnelle.
   id: 2.29-fra
   language_code: fra

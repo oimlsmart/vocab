@@ -21,15 +21,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: product of a {{combined standard measurement uncertainty,2.31}} and a
+  - content: product of a {{2.31,combined standard measurement uncertainty}} and a
       factor larger than the number one
   examples: []
   id: 2.35-eng
   language_code: eng
   notes:
-  - content: The factor depends upon the type of probability distribution of the {{output
-      quantity in a measurement model,2.51}} and on the selected {{coverage probability,2.37}}.
-  - content: The term “factor” in this definition refers to a {{coverage factor,2.38}}.
+  - content: The factor depends upon the type of probability distribution of the {{2.51,output quantity in a measurement model}} and on the selected {{2.37,coverage probability}}.
+  - content: The term “factor” in this definition refers to a {{2.38,coverage factor}}.
   - content: Expanded measurement uncertainty is termed “overall uncertainty” in paragraph
       5 of Recommendation INC-1 (1980) (see the GUM) and simply “uncertainty” in IEC
       documents.
@@ -53,16 +52,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: produit d'une {{incertitude-type composée,2.31}} et d'un facteur supérieur
+  - content: produit d'une {{2.31,incertitude-type composée}} et d'un facteur supérieur
       au nombre un
   examples: []
   id: 2.35-fra
   language_code: fra
   notes:
-  - content: Le facteur dépend du type de la loi de probabilité de la {{grandeur de
-      sortie dans un modèle de mesure,2.51}} et de la {{probabilité de couverture,2.37}}
+  - content: Le facteur dépend du type de la loi de probabilité de la {{2.51,grandeur de sortie dans un modèle de mesure}} et de la {{2.37,probabilité de couverture}}
       choisie.
-  - content: Le facteur qui intervient dans la définition est un {{facteur d'élargissement,2.38}}.
+  - content: Le facteur qui intervient dans la définition est un {{2.38,facteur d'élargissement}}.
   - content: L'incertitude élargie est appelée «incertitude globale» au paragraphe
       5 de la Recommandation INC-1 (1980) (voir le GUM) et simplement «incertitude»
       dans les documents de la CEI.

@@ -21,8 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition of {{measurement,2.1}}, out of a set of conditions that includes
-      the same {{measurement procedure,2.6}}, same operators, same {{measuring system,3.2}},
+  - content: condition of {{2.1,measurement}}, out of a set of conditions that includes
+      the same {{2.6,measurement procedure}}, same operators, same {{3.2,measuring system}},
       same operating conditions and same location, and replicate measurements on the
       same or similar objects over a short period of time
   examples: []
@@ -49,9 +49,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition de {{mesurage,2.1}} dans un ensemble de conditions qui comprennent
-      la même {{procédure de mesure,2.6}}, les mêmes opérateurs, le même {{système
-      de mesure,3.2}}, les mêmes conditions de fonctionnement et le même lieu, ainsi
+  - content: condition de {{2.1,mesurage}} dans un ensemble de conditions qui comprennent
+      la même {{2.6,procédure de mesure}}, les mêmes opérateurs, le même {{3.2,système de mesure}}, les mêmes conditions de fonctionnement et le même lieu, ainsi
       que des mesurages répétés sur le même objet ou des objets similaires pendant
       une courte période de temps
   examples: []

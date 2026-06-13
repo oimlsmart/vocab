@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: body that performs {{conformity assessment,A.1}} services, excluding
+  - content: body that performs {{A.1,conformity assessment}} services, excluding
       accreditation
   examples: []
   id: A.2-eng
@@ -61,7 +61,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: organisme qui réalise des activités d'{{évaluation de la conformité,A.1}},
+  - content: organisme qui réalise des activités d'{{A.1,évaluation de la conformité}},
       à l’exclusion de l’accréditation
   examples: []
   id: A.2-fra

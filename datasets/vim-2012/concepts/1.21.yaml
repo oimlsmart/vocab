@@ -21,15 +21,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of mathematical rules and operations applied to {{quantities,1.1}}
-      other than {{ordinal quantities,1.26}}
+  - content: set of mathematical rules and operations applied to {{1.1,quantities}}
+      other than {{1.26,ordinal quantities}}
   examples: []
   id: 1.21-eng
   language_code: eng
   notes:
-  - content: In quantity calculus, {{quantity equations,1.22}} are preferred to {{numerical
-      value equations,1.25}} because quantity equations are independent of the choice
-      of {{measurement units,1.9}}, whereas numerical value equations are not (see
+  - content: In quantity calculus, {{1.22,quantity equations}} are preferred to {{1.25,numerical value equations}} because quantity equations are independent of the choice
+      of {{1.9,measurement units}}, whereas numerical value equations are not (see
       ISO 31-0:1992, 2.2.2).
   terms:
   - type: expression
@@ -44,15 +43,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble de règles et opérations mathématiques appliquées aux {{grandeurs,1.1}}
-      autres que les {{grandeurs ordinales,1.26}}
+  - content: ensemble de règles et opérations mathématiques appliquées aux {{1.1,grandeurs}}
+      autres que les {{1.26,grandeurs ordinales}}
   examples: []
   id: 1.21-fra
   language_code: fra
   notes:
-  - content: En algèbre des grandeurs, les {{équations aux grandeurs,1.22}} sont préférées
-      aux {{équations aux valeurs numériques,1.25}} car les premières, contrairement
-      aux secondes, sont indépendantes du choix des {{unités de mesure,1.9}} (voir
+  - content: En algèbre des grandeurs, les {{1.22,équations aux grandeurs}} sont préférées
+      aux {{1.25,équations aux valeurs numériques}} car les premières, contrairement
+      aux secondes, sont indépendantes du choix des {{1.9,unités de mesure}} (voir
       l'ISO 31-0:1992, 2.2.2).
   terms:
   - type: expression

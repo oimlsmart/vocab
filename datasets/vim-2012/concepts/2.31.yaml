@@ -21,9 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{standard measurement uncertainty,2.30}} that is obtained using the
-      individual {{standard measurement uncertainties,2.30}} associated with the {{input
-      quantities in a measurement model,2.50}}"
+  - content: "{{2.30,standard measurement uncertainty}} that is obtained using the
+      individual {{2.30,standard measurement uncertainties}} associated with the {{2.50,input quantities in a measurement model}}"
   examples: []
   id: 2.31-eng
   language_code: eng
@@ -52,8 +51,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{incertitude-type,2.30}} obtenue en utilisant les {{incertitudes-types,2.30}}
-      individuelles associées aux {{grandeurs d'entrée dans un modèle de mesure,2.50}}"
+  - content: "{{2.30,incertitude-type}} obtenue en utilisant les {{2.30,incertitudes-types}}
+      individuelles associées aux {{2.50,grandeurs d'entrée dans un modèle de mesure}}"
   examples: []
   id: 2.31-fra
   language_code: fra

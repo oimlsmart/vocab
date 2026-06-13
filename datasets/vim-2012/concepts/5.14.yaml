@@ -22,13 +22,13 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{reference material,5.13}}, accompanied by documentation issued by
+  - content: "{{5.13,reference material}}, accompanied by documentation issued by
       an authoritative body and providing one or more specified property values with
       associated uncertainties and traceabilities, using valid procedures"
   examples:
-  - content: Human serum with assigned {{quantity value,1.19}} for the concentration
-      of cholesterol and associated {{measurement uncertainty,2.26}} stated in an
-      accompanying certificate, used as a {{calibrator,5.12}} or {{measurement trueness,2.14}}
+  - content: Human serum with assigned {{1.19,quantity value}} for the concentration
+      of cholesterol and associated {{2.26,measurement uncertainty}} stated in an
+      accompanying certificate, used as a {{5.12,calibrator}} or {{2.14,measurement trueness}}
       control material.
   id: 5.14-eng
   language_code: eng
@@ -38,9 +38,8 @@ data:
   - content: Procedures for the production and certification of certified reference
       materials are given, e.g. in ISO Guide 34 and ISO Guide 35.
   - content: In this definition, “uncertainty” covers both 'measurement uncertainty'
-      and 'uncertainty associated with the value of a {{nominal property,1.30}}',
-      such as for identity and sequence. “Traceability” covers both '{{metrological
-      traceability,2.41}} of a quantity value' and 'traceability of a nominal property
+      and 'uncertainty associated with the value of a {{1.30,nominal property}}',
+      such as for identity and sequence. “Traceability” covers both '{{2.41,metrological traceability}} of a quantity value' and 'traceability of a nominal property
       value'.
   - content: Specified quantity values of certified reference materials require metrological
       traceability with associated measurement uncertainty (Accred. Qual. Assur.:2006)
@@ -52,9 +51,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: certified reference material
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: CRM
+    related:
+    - type: abbreviated_form_for
+      target: certified reference material
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: a0cb6256-be47-45b8-9c9b-a91095509163
@@ -64,15 +66,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{matériau de référence,5.13}}, accompagné d'une documentation délivrée
+  - content: "{{5.13,matériau de référence}}, accompagné d'une documentation délivrée
       par un organisme faisant autorité et fournissant une ou plusieurs valeurs de
       propriétés spécifiées avec les incertitudes et les traçabilités associées, en
       utilisant des procédures valables"
   examples:
-  - content: Sérum humain dont la {{valeur,1.19}} assignée à la concentration de cholestérol
-      et l'{{incertitude de mesure,2.26}} associée sont indiquées dans un certificat
-      et qui sert d'{{étalon,5.1}} dans un {{étalonnage,2.39}} ou de matériau de contrôle
-      de la {{justesse de mesure,2.14}}.
+  - content: Sérum humain dont la {{1.19,valeur}} assignée à la concentration de cholestérol
+      et l'{{2.26,incertitude de mesure}} associée sont indiquées dans un certificat
+      et qui sert d'{{5.1,étalon}} dans un {{2.39,étalonnage}} ou de matériau de contrôle
+      de la {{2.14,justesse de mesure}}.
   id: 5.14-fra
   language_code: fra
   notes:
@@ -82,9 +84,9 @@ data:
       référence certifiés sont données, par exemple, dans les Guide ISO 34 et Guide
       ISO 35.
   - content: Dans la définition, le terme «incertitude» peut désigner soit une incertitude
-      de mesure, soit l'incertitude associée à la valeur d'une {{propriété qualitative,1.30}},
+      de mesure, soit l'incertitude associée à la valeur d'une {{1.30,propriété qualitative}},
       telle que l'identité ou la séquence. Le terme «traçabilité» peut désigner soit
-      la {{traçabilité métrologique,2.41}} de la valeur d'une grandeur, soit la traçabilité
+      la {{2.41,traçabilité métrologique}} de la valeur d'une grandeur, soit la traçabilité
       de la valeur d'une propriété qualitative.
   - content: Les valeurs de grandeurs spécifiées des matériaux de référence certifiés
       exigent une traçabilité métrologique avec une incertitude de mesure associée
@@ -96,9 +98,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: matériau de référence certifié
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: MRC
+    related:
+    - type: abbreviated_form_for
+      target: matériau de référence certifié
 date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 81c8cc5a-58ea-4aaf-a070-9ff81a1bc15d

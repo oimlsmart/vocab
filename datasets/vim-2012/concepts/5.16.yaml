@@ -31,7 +31,7 @@ data:
   id: 5.16-eng
   language_code: eng
   notes:
-  - content: In this definition, 'accuracy' covers, for example, {{measurement accuracy,2.13}}
+  - content: In this definition, 'accuracy' covers, for example, {{2.13,measurement accuracy}}
       and 'accuracy of a nominal property value'.
   - content: "“Data” is a plural form, “datum” is the singular. “Data” is commonly
       used in the singular sense, instead of “datum”."
@@ -57,8 +57,7 @@ data:
   id: 5.16-fra
   language_code: fra
   notes:
-  - content: Dans la définition, le terme «exactitude» peut désigner soit une {{exactitude
-      de mesure,2.13}}, soit l'«exactitude de la valeur d'une propriété qualitative».
+  - content: Dans la définition, le terme «exactitude» peut désigner soit une {{2.13,exactitude de mesure}}, soit l'«exactitude de la valeur d'une propriété qualitative».
   - content: En anglais, «data» est une forme plurielle dont le singulier est «datum».
       «Data» est couramment utilisé au sens singulier à la place de «datum».
   terms:

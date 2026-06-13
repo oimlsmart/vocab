@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ability of the {{measuring instrument,0.10}} to maintain its performance
+  - content: ability of the {{0.10,measuring instrument}} to maintain its performance
       characteristics over a period of use
   examples: []
   id: 5.15-eng
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: aptitude d'un {{instrument de mesure,0.10}} à conserver ses caractéristiques
+  - content: aptitude d'un {{0.10,instrument de mesure}} à conserver ses caractéristiques
       de performance après une période d'utilisation
   examples: []
   id: 5.15-fra

@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measuring instrument,0.10}} required to conform to prescribed requirements,
+  - content: '{{0.10,measuring instrument}} required to conform to prescribed requirements,
       in particular legal metrological requirements'
   examples: []
   id: 4.07-eng
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{instrument de mesure,0.10}} soumis aux exigences prescrites, en particulier
+  - content: '{{0.10,instrument de mesure}} soumis aux exigences prescrites, en particulier
       les exigences de métrologie légale'
   examples: []
   id: 4.07-fra

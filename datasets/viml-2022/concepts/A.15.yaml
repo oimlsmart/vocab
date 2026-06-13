@@ -34,8 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: issue of a statement, based on a decision, that fulfillment of {{specified
-      requirements,A.6}} has been demonstrated
+  - content: issue of a statement, based on a decision, that fulfillment of {{A.6,specified requirements}} has been demonstrated
   examples: []
   id: A.15-eng
   notes:
@@ -69,7 +68,7 @@ data:
     type: accepted
   definition:
   - content: délivrance d'une affirmation basée sur une décision indiquant que le
-      respect des {{exigences spécifiées,A.6}} a été démontré
+      respect des {{A.6,exigences spécifiées}} a été démontré
   examples: []
   id: A.15-fra
   notes:

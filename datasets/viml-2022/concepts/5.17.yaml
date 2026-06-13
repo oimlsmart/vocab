@@ -30,7 +30,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{durability error,5.16}} exceeding the value specified in the applicable
+  - content: '{{5.16,durability error}} exceeding the value specified in the applicable
       Recommendation'
   examples: []
   id: 5.17-eng
@@ -40,7 +40,7 @@ data:
       applies. For example the occurrence of one or some of the following errors may
       be acceptable:
 
-      — the {{indication,0.03}} cannot be interpreted, memorized or transmitted as
+      — the {{0.03,indication}} cannot be interpreted, memorized or transmitted as
       a measurement result;
 
       — the indication implies the impossibility to perform any measurement;
@@ -65,7 +65,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{erreur de durabilité,5.16}} plus grande que la valeur spécifiée dans
+  - content: '{{5.16,erreur de durabilité}} plus grande que la valeur spécifiée dans
       la Recommandation applicable'
   examples: []
   id: 5.17-fra
@@ -75,7 +75,7 @@ data:
       doit indiquer lorsque de telles exceptions s''appliquent. Par exemple, l''apparition
       d''une ou plusieurs des erreurs suivantes peut être acceptable :
 
-      — l''{{indication,0.03}} ne peut être interprétée, mise en mémoire ou transmise
+      — l''{{0.03,indication}} ne peut être interprétée, mise en mémoire ou transmise
       comme un résultat de mesure ;
 
       — l''indication rend impossible l''accomplissement de toute mesure ;

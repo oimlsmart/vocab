@@ -21,14 +21,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: smallest change in a {{quantity,1.1}} being measured that causes a perceptible
-      change in the corresponding {{indication,4.1}}
+  - content: smallest change in a {{1.1,quantity}} being measured that causes a perceptible
+      change in the corresponding {{4.1,indication}}
   examples: []
   id: 4.14-eng
   language_code: eng
   notes:
   - content: Resolution can depend on, for example, noise (internal or external) or
-      friction. It may also depend on the {{value,1.19}} of a quantity being measured.
+      friction. It may also depend on the {{1.19,value}} of a quantity being measured.
   terms:
   - type: expression
     normative_status: preferred
@@ -42,14 +42,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: plus petite variation de la {{grandeur,1.1}} mesurée qui produit une
-      variation perceptible de l'{{indication,4.1}} correspondante
+  - content: plus petite variation de la {{1.1,grandeur}} mesurée qui produit une
+      variation perceptible de l'{{4.1,indication}} correspondante
   examples: []
   id: 4.14-fra
   language_code: fra
   notes:
   - content: La résolution peut dépendre, par exemple, du bruit (interne ou externe)
-      ou du frottement. Elle peut aussi dépendre de la {{valeur,1.19}} de la grandeur
+      ou du frottement. Elle peut aussi dépendre de la {{1.19,valeur}} de la grandeur
       mesurée.
   terms:
   - type: expression

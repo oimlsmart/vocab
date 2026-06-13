@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: verification of a {{measuring instrument,0.10}} which has not been verified
+  - content: verification of a {{0.10,measuring instrument}} which has not been verified
       previously
   examples: []
   id: 2.12-eng
@@ -46,7 +46,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: vérification d'un {{instrument de mesure,0.10}} qui n'a pas été vérifié
+  - content: vérification d'un {{0.10,instrument de mesure}} qui n'a pas été vérifié
       auparavant
   examples: []
   id: 2.12-fra

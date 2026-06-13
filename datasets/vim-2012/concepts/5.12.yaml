@@ -21,7 +21,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{measurement standard,5.1}} used in {{calibration,2.39}}'
+  - content: '{{5.1,measurement standard}} used in {{2.39,calibration}}'
   examples: []
   id: 5.12-eng
   language_code: eng
@@ -40,7 +40,7 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: '{{étalon,5.1}} utilisé pour des {{étalonnages,2.39}}'
+  - content: '{{5.1,étalon}} utilisé pour des {{2.39,étalonnages}}'
   examples: []
   id: 5.12-fra
   language_code: fra

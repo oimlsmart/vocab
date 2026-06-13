@@ -34,13 +34,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: separation of the software in {{measuring instruments,0.10}}, which can
-      be divided into a {{legally relevant,4.08}} part and a legally non-relevant
+  - content: separation of the software in {{0.10,measuring instruments}}, which can
+      be divided into a {{4.08,legally relevant}} part and a legally non-relevant
       part
   examples: []
   id: 6.02-eng
   notes:
-  - content: These parts communicate via a {{software interface,6.03}}.
+  - content: These parts communicate via a {{6.03,software interface}}.
   sources: []
   terms:
   - type: expression
@@ -56,13 +56,13 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: séparation du logiciel d'un {{instrument de mesure,0.10}}, qui peut être
-      divisé en une partie à {{caractère légal,4.08}} et une partie n'ayant pas de
+  - content: séparation du logiciel d'un {{0.10,instrument de mesure}}, qui peut être
+      divisé en une partie à {{4.08,caractère légal}} et une partie n'ayant pas de
       caractère légal
   examples: []
   id: 6.02-fra
   notes:
-  - content: Ces parties communiquent par une {{interface logicielle,6.03}}.
+  - content: Ces parties communiquent par une {{6.03,interface logicielle}}.
   sources: []
   terms:
   - type: expression

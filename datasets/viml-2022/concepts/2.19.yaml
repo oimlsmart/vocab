@@ -32,11 +32,10 @@ data:
   definition:
   - content: affixing of one or more marks
   examples:
-  - content: 'of marks include: verification, rejection, {{sealing,2.20}} and {{type
-      approval,2.05}} marks (as described in 3.05, 3.06, and 3.07).'
+  - content: 'of marks include: verification, rejection, {{2.20,sealing}} and {{2.05,type approval}} marks (as described in 3.05, 3.06, and 3.07).'
   id: 2.19-eng
   notes:
-  - content: Verification and {{sealing,2.20}} marks may be combined.
+  - content: Verification and {{2.20,sealing}} marks may be combined.
   - content: The manufacturer may be authorized to apply other marks.
   sources: []
   terms:
@@ -55,11 +54,10 @@ data:
   definition:
   - content: apposition d'une ou de plusieurs marques
   examples:
-  - content: marques de vérification, de refus, de {{scellement,2.20}} ou d'{{approbation
-      de type,2.05}} (telles que définies en 3.05, 3.06 and 3.07).
+  - content: marques de vérification, de refus, de {{2.20,scellement}} ou d'{{2.05,approbation de type}} (telles que définies en 3.05, 3.06 and 3.07).
   id: 2.19-fra
   notes:
-  - content: Les marques de vérification et de {{scellement,2.20}} peuvent être combinées.
+  - content: Les marques de vérification et de {{2.20,scellement}} peuvent être combinées.
   - content: Le fabricant peut être autorisé à apposer d'autres marques.
   sources: []
   terms:

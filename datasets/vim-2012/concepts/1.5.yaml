@@ -22,8 +22,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity,1.1}}, in a {{system of quantities,1.3}}, defined in terms
-      of the {{base quantities,1.4}} of that system"
+  - content: "{{1.1,quantity}}, in a {{1.3,system of quantities}}, defined in terms
+      of the {{1.4,base quantities}} of that system"
   examples:
   - content: In a system of quantities having the base quantities length and mass,
       mass density is a derived quantity defined as the quotient of mass and volume
@@ -44,8 +44,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur,1.1}} définie, dans un {{système de grandeurs,1.3}}, en fonction
-      des {{grandeurs de base,1.4}} de ce système"
+  - content: "{{1.1,grandeur}} définie, dans un {{1.3,système de grandeurs}}, en fonction
+      des {{1.4,grandeurs de base}} de ce système"
   examples:
   - content: Dans un système de grandeurs ayant pour grandeurs de base la longueur
       et la masse, la masse volumique est une grandeur dérivée définie comme le quotient

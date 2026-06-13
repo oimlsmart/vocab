@@ -26,7 +26,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: document certifying that {{type approval,2.05}} has been granted
+  - content: document certifying that {{2.05,type approval}} has been granted
   examples: []
   id: 3.01-eng
   notes: []
@@ -45,7 +45,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: document certifiant que l'{{approbation de type,2.05}} a été accordée
+  - content: document certifiant que l'{{2.05,approbation de type}} a été accordée
   examples: []
   id: 3.01-fra
   notes: []

@@ -21,18 +21,16 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: detailed description of a {{measurement,2.1}} according to one or more
-      {{measurement principles,2.4}} and to a given {{measurement method,2.5}}, based
-      on a {{measurement model,2.48}} and including any calculation to obtain a {{measurement
-      result,2.9}}
+  - content: detailed description of a {{2.1,measurement}} according to one or more
+      {{2.4,measurement principles}} and to a given {{2.5,measurement method}}, based
+      on a {{2.48,measurement model}} and including any calculation to obtain a {{2.9,measurement result}}
   examples: []
   id: 2.6-eng
   language_code: eng
   notes:
   - content: A measurement procedure is usually documented in sufficient detail to
       enable an operator to perform a measurement.
-  - content: A measurement procedure can include a statement concerning a {{target
-      measurement uncertainty,2.34}}.
+  - content: A measurement procedure can include a statement concerning a {{2.34,target measurement uncertainty}}.
   - content: A measurement procedure is sometimes called a standard operating procedure,
       abbreviated SOP.
   terms:
@@ -53,18 +51,17 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: description détaillée d'un {{mesurage,2.1}} conformément à un ou plusieurs
-      {{principes de mesure,2.4}} et à une {{méthode de mesure,2.5}} donnée, fondée
-      sur un {{modèle de mesure,2.48}} et incluant tout calcul destiné à obtenir un
-      {{résultat de mesure,2.9}}
+  - content: description détaillée d'un {{2.1,mesurage}} conformément à un ou plusieurs
+      {{2.4,principes de mesure}} et à une {{2.5,méthode de mesure}} donnée, fondée
+      sur un {{2.48,modèle de mesure}} et incluant tout calcul destiné à obtenir un
+      {{2.9,résultat de mesure}}
   examples: []
   id: 2.6-fra
   language_code: fra
   notes:
   - content: Une procédure de mesure est habituellement documentée avec assez de détails
       pour permettre à un opérateur d'effectuer un mesurage.
-  - content: Une procédure de mesure peut inclure une assertion concernant une {{incertitude
-      cible,2.34}}.
+  - content: Une procédure de mesure peut inclure une assertion concernant une {{2.34,incertitude cible}}.
   - content: Une procédure de mesure est quelquefois appelée en anglais standard operating
       procedure, abrégé en SOP. Le terme «mode opératoire de mesure» était employé
       en français dans la deuxième édition du VIM.

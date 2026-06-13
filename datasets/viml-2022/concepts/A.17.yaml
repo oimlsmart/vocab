@@ -34,7 +34,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: first-party {{attestation,A.15}}
+  - content: first-party {{A.15,attestation}}
   examples: []
   id: A.17-eng
   notes: []
@@ -60,7 +60,7 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{attestation,A.15}} par première partie"
+  - content: "{{A.15,attestation}} par première partie"
   examples: []
   id: A.17-fra
   notes: []

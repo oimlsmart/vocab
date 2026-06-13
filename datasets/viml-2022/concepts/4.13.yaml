@@ -30,9 +30,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: definitive model or {{family of measuring instruments,4.02}} permitted
-      for legal use, the decision being confirmed by the issuing of a {{type approval
-      certificate,3.01}}
+  - content: definitive model or {{4.02,family of measuring instruments}} permitted
+      for legal use, the decision being confirmed by the issuing of a {{3.01,type approval certificate}}
   examples: []
   id: 4.13-eng
   notes: []
@@ -51,9 +50,8 @@ data:
   - date: '2022-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: modèle définitif ou {{famille d'instruments de mesure,4.02}} dont l'utilisation
-      est légalement permise, la décision étant attestée par la délivrance d'un {{certificat
-      d'approbation de type,3.01}}
+  - content: modèle définitif ou {{4.02,famille d'instruments de mesure}} dont l'utilisation
+      est légalement permise, la décision étant attestée par la délivrance d'un {{3.01,certificat d'approbation de type}}
   examples: []
   id: 4.13-fra
   notes: []

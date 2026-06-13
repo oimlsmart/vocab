@@ -43,20 +43,19 @@ data:
     type: accepted
   definition:
   - content: legal acts and secondary legislation that provide the statutory structure
-      to {{metrology,0.01}}
+      to {{0.01,metrology}}
   examples: []
   id: 1.02-eng
   notes:
-  - content: 'Legal acts and secondary legislation in particular specify the {{legal
-      units of measurement,1.06}}, prescribe
+  - content: 'Legal acts and secondary legislation in particular specify the {{1.06,legal units of measurement}}, prescribe
 
-      — requirements with respect to the properties of {{measuring instruments,0.10}},
+      — requirements with respect to the properties of {{0.10,measuring instruments}},
 
       — accuracy of measurement in cases specified by law,
 
-      — a system of {{legal control of measuring instruments,2.02}}, and
+      — a system of {{2.02,legal control of measuring instruments}}, and
 
-      — {{metrological supervision,2.03}}.'
+      — {{2.03,metrological supervision}}.'
   sources: []
   terms:
   - type: expression
@@ -73,20 +72,20 @@ data:
     type: accepted
   definition:
   - content: actes légaux et réglementaires pris pour application de ces lois, qui
-      donnent la structure légale à la {{métrologie,0.01}}
+      donnent la structure légale à la {{0.01,métrologie}}
   examples: []
   id: 1.02-fra
   notes:
   - content: 'Les actes légaux et la réglementation induite définissent, en particulier,
-      les {{unités de mesure légales,1.06}} et prescrivent
+      les {{1.06,unités de mesure légales}} et prescrivent
 
-      — les exigences relatives aux caractéristiques des {{instruments de mesure,0.10}},
+      — les exigences relatives aux caractéristiques des {{0.10,instruments de mesure}},
 
       — l''exactitude de mesurage, lorsqu''elle est définie par voie légale,
 
-      — un système de {{contrôle légal des instruments de mesure,2.02}}, et
+      — un système de {{2.02,contrôle légal des instruments de mesure}}, et
 
-      — la {{surveillance métrologique,2.03}}.'
+      — la {{2.03,surveillance métrologique}}.'
   sources: []
   terms:
   - type: expression

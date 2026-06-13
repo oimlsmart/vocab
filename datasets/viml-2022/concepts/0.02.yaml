@@ -65,9 +65,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: International System of Units
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: SI
+    related:
+    - type: abbreviated_form_for
+      target: International System of Units
   language_code: eng
   entry_status: valid
 date_accepted: '2022-01-01T00:00:00+00:00'
@@ -109,9 +112,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: Système international d'unités
-  - type: expression
+  - type: abbreviation
     normative_status: admitted
     designation: SI
+    related:
+    - type: abbreviated_form_for
+      target: Système international d'unités
   language_code: fra
   entry_status: valid
 date_accepted: '2022-01-01T00:00:00+00:00'

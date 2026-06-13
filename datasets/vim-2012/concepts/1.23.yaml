@@ -22,12 +22,11 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: mathematical relation between {{base units,1.10}}, {{coherent derived
-      units,1.12}} or other {{measurement units,1.9}}
+  - content: mathematical relation between {{1.10,base units}}, {{1.12,coherent derived units}} or other {{1.9,measurement units}}
   examples:
-  - content: For the {{quantities,1.1}} in Example 1 of item 1.22, [Q1] = [Q2] [Q3]
+  - content: For the {{1.1,quantities}} in Example 1 of item 1.22, [Q1] = [Q2] [Q3]
       where [Q1], [Q2], and [Q3] denote the measurement units of Q1, Q2, and Q3, respectively,
-      provided that these measurement units are in a {{coherent system of units,1.14}}.
+      provided that these measurement units are in a {{1.14,coherent system of units}}.
   - content: J := kg m2/s2, where J, kg, m, and s are the symbols for the joule, kilogram,
       metre, and second, respectively. (The symbol := denotes “is by definition equal
       to” as given in the ISO 80000 and IEC 80000 series.)
@@ -48,13 +47,11 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: relation d'égalité entre des {{unités de base,1.10}}, des {{unités dérivées
-      cohérentes,1.12}} ou d'autres {{unités de mesure,1.9}}
+  - content: relation d'égalité entre des {{1.10,unités de base}}, des {{1.12,unités dérivées cohérentes}} ou d'autres {{1.9,unités de mesure}}
   examples:
-  - content: Pour les {{grandeurs,1.1}} données dans l'
+  - content: Pour les {{1.1,grandeurs}} données dans l'
   - content: de 1.22, [Q1] = [Q2] [Q3] où [Q1], [Q2] et [Q3] représentent respectivement
-      les unités de Q1, Q2 et Q3, pourvu que ces unités soient dans un {{système cohérent
-      d'unités,1.14}}.
+      les unités de Q1, Q2 et Q3, pourvu que ces unités soient dans un {{1.14,système cohérent d'unités}}.
   - content: J := kg m2/s2, où J, kg, m et s sont respectivement les symboles du joule,
       du kilogramme, du mètre et de la seconde. (Le symbole := signifie «est par définition
       égal à», comme indiqué dans les séries ISO 80000 et CEI 80000.)

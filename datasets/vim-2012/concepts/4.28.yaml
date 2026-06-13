@@ -21,13 +21,12 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{datum measurement error,4.27}} where the specified {{measured quantity
-      value,2.10}} is zero"
+  - content: "{{4.27,datum measurement error}} where the specified {{2.10,measured quantity value}} is zero"
   examples: []
   id: 4.28-eng
   language_code: eng
   notes:
-  - content: Zero error should not be confused with absence of {{measurement error,2.16}}.
+  - content: Zero error should not be confused with absence of {{2.16,measurement error}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,14 +44,13 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{erreur au point de contrôle,4.27}} lorsque la {{valeur mesurée,2.10}}
+  - content: "{{4.27,erreur au point de contrôle}} lorsque la {{2.10,valeur mesurée}}
       spécifiée est nulle"
   examples: []
   id: 4.28-fra
   language_code: fra
   notes:
-  - content: Il convient de ne pas confondre l'erreur à zéro avec l'absence d'{{erreur
-      de mesure,2.16}}.
+  - content: Il convient de ne pas confondre l'erreur à zéro avec l'absence d'{{2.16,erreur de mesure}}.
   terms:
   - type: expression
     normative_status: preferred

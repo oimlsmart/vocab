@@ -21,17 +21,15 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of {{values,1.19}} of {{quantities,1.1}} of the same {{kind,1.2}}
-      that can be measured by a given {{measuring instrument,3.1}} or {{measuring
-      system,3.2}} with specified {{instrumental measurement uncertainty,4.24}}, under
+  - content: set of {{1.19,values}} of {{1.1,quantities}} of the same {{1.2,kind}}
+      that can be measured by a given {{3.1,measuring instrument}} or {{3.2,measuring system}} with specified {{4.24,instrumental measurement uncertainty}}, under
       defined conditions
   examples: []
   id: 4.7-eng
   language_code: eng
   notes:
   - content: In some fields, the term is “measuring range” or “measurement range”.
-  - content: The lower limit of a measuring interval should not be confused with {{detection
-      limit,4.18}}.
+  - content: The lower limit of a measuring interval should not be confused with {{4.18,detection limit}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -48,9 +46,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble des {{valeurs,1.19}} de {{grandeurs,1.1}} d'une même {{nature,1.2}}
-      qu'un {{instrument de mesure,3.1}} ou un {{système de mesure,3.2}} donné peut
-      mesurer avec une {{incertitude instrumentale,4.24}} spécifiée, dans des conditions
+  - content: ensemble des {{1.19,valeurs}} de {{1.1,grandeurs}} d'une même {{1.2,nature}}
+      qu'un {{3.1,instrument de mesure}} ou un {{3.2,système de mesure}} donné peut
+      mesurer avec une {{4.24,incertitude instrumentale}} spécifiée, dans des conditions
       déterminées
   examples: []
   id: 4.7-fra
@@ -59,7 +57,7 @@ data:
   - content: Dans certains domaines, le terme anglais est «measuring range» ou «measurement
       range». En français, le terme «étendue de mesure» est parfois improprement employé.
   - content: Il convient de ne pas confondre la limite inférieure d'un intervalle
-      de mesure avec la {{limite de détection,4.18}}.
+      de mesure avec la {{4.18,limite de détection}}.
   terms:
   - type: expression
     normative_status: preferred

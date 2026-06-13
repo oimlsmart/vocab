@@ -21,9 +21,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity,1.1}}, defined by a conventional {{measurement procedure,2.6}},
+  - content: "{{1.1,quantity}}, defined by a conventional {{2.6,measurement procedure}},
       for which a total ordering relation can be established, according to magnitude,
-      with other quantities of the same {{kind,1.2}}, but for which no algebraic operations
+      with other quantities of the same {{1.2,kind}}, but for which no algebraic operations
       among those quantities exist"
   examples:
   - content: Rockwell C hardness.
@@ -34,10 +34,9 @@ data:
   language_code: eng
   notes:
   - content: Ordinal quantities can enter into empirical relations only and have neither
-      {{measurement units,1.9}} nor {{quantity dimensions,1.7}}. Differences and ratios
+      {{1.9,measurement units}} nor {{1.7,quantity dimensions}}. Differences and ratios
       of ordinal quantities have no physical meaning.
-  - content: Ordinal quantities are arranged according to {{ordinal quantity-value
-      scales,1.28}} (see 1.28).
+  - content: Ordinal quantities are arranged according to {{1.28,ordinal quantity-value scales}} (see 1.28).
   terms:
   - type: expression
     normative_status: preferred
@@ -51,8 +50,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur,1.1}} définie par une {{procédure de mesure,2.6}} adoptée
-      par convention, qui peut être classée avec d'autres grandeurs de même {{nature,1.2}}
+  - content: "{{1.1,grandeur}} définie par une {{2.6,procédure de mesure}} adoptée
+      par convention, qui peut être classée avec d'autres grandeurs de même {{1.2,nature}}
       selon l'ordre croissant ou décroissant de leurs expressions quantitatives, mais
       pour laquelle aucune relation algébrique entre ces grandeurs n'existe"
   examples:
@@ -64,9 +63,9 @@ data:
   language_code: fra
   notes:
   - content: Les grandeurs ordinales ne peuvent prendre part qu'à des relations empiriques
-      et n'ont ni {{unités de mesure,1.9}}, ni {{dimensions,1.7}}. Les différences
+      et n'ont ni {{1.9,unités de mesure}}, ni {{1.7,dimensions}}. Les différences
       et les rapports de grandeurs ordinales n'ont pas de signification.
-  - content: Les grandeurs ordinales sont classées selon des {{échelles ordinales,1.28}}
+  - content: Les grandeurs ordinales sont classées selon des {{1.28,échelles ordinales}}
       (voir 1.28).
   terms:
   - type: expression

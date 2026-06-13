@@ -21,9 +21,8 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{quantity,1.1}} that must be measured, or a quantity, the {{value,1.19}}
-      of which can be otherwise obtained, in order to calculate a {{measured quantity
-      value,2.10}} of a {{measurand,2.3}}"
+  - content: "{{1.1,quantity}} that must be measured, or a quantity, the {{1.19,value}}
+      of which can be otherwise obtained, in order to calculate a {{2.10,measured quantity value}} of a {{2.3,measurand}}"
   examples:
   - content: When the length of a steel rod at a specified temperature is the measurand,
       the actual temperature, the length at that actual temperature, and the linear
@@ -33,8 +32,8 @@ data:
   language_code: eng
   notes:
   - content: An input quantity in a measurement model is often an output quantity
-      of a {{measuring system,3.2}}.
-  - content: "{{Indications,4.1}}, {{corrections,2.53}} and {{influence quantities,2.52}}
+      of a {{3.2,measuring system}}.
+  - content: "{{4.1,Indications}}, {{2.53,corrections}} and {{2.52,influence quantities}}
       can be input quantities in a measurement model."
   terms:
   - type: expression
@@ -56,9 +55,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{grandeur,1.1}} qui doit être mesurée, ou grandeur dont la {{valeur,1.19}}
-      peut être obtenue autrement, pour calculer une {{valeur mesurée,2.10}} d'un
-      {{mesurande,2.3}}"
+  - content: "{{1.1,grandeur}} qui doit être mesurée, ou grandeur dont la {{1.19,valeur}}
+      peut être obtenue autrement, pour calculer une {{2.10,valeur mesurée}} d'un
+      {{2.3,mesurande}}"
   examples:
   - content: Lorsque le mesurande est la longueur d'une tige d'acier à une température
       spécifiée, la température réelle, la longueur à la température réelle et le
@@ -68,9 +67,8 @@ data:
   language_code: fra
   notes:
   - content: Une grandeur d'entrée dans un modèle de mesure est souvent une grandeur
-      de sortie d'un {{système de mesure,3.2}}.
-  - content: Les {{indications,4.1}}, les {{corrections,2.53}} et les {{grandeurs
-      d'influence,2.52}} sont des grandeurs d'entrée dans un modèle de mesure.
+      de sortie d'un {{3.2,système de mesure}}.
+  - content: Les {{4.1,indications}}, les {{2.53,corrections}} et les {{2.52,grandeurs d'influence}} sont des grandeurs d'entrée dans un modèle de mesure.
   terms:
   - type: expression
     normative_status: preferred

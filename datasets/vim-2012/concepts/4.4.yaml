@@ -21,9 +21,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of {{quantity values,1.19}}, bounded by rounded or approximate extreme
-      {{indications,4.1}}, obtainable with a particular setting of the controls of
-      a {{measuring instrument,3.1}} or {{measuring system,3.2}} and used to designate
+  - content: set of {{1.19,quantity values}}, bounded by rounded or approximate extreme
+      {{4.1,indications}}, obtainable with a particular setting of the controls of
+      a {{3.1,measuring instrument}} or {{3.2,measuring system}} and used to designate
       that setting
   examples: []
   id: 4.4-eng
@@ -48,9 +48,9 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble des {{valeurs,1.19}} comprises entre deux {{indications,4.1}}
+  - content: ensemble des {{1.19,valeurs}} comprises entre deux {{4.1,indications}}
       extrêmes arrondies ou approximatives, que l'on obtient pour une position particulière
-      des commandes d'un {{instrument de mesure,3.1}} ou d'un {{système de mesure,3.2}}
+      des commandes d'un {{3.1,instrument de mesure}} ou d'un {{3.2,système de mesure}}
       et qui sert à désigner cette position
   examples: []
   id: 4.4-fra

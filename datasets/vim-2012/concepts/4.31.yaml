@@ -21,15 +21,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: expression of the relation between {{indication,4.1}} and corresponding
-      {{measured quantity value,2.10}}
+  - content: expression of the relation between {{4.1,indication}} and corresponding
+      {{2.10,measured quantity value}}
   examples: []
   id: 4.31-eng
   language_code: eng
   notes:
   - content: A calibration curve expresses a one-to-one relation that does not supply
-      a {{measurement result,2.9}} as it bears no information about the {{measurement
-      uncertainty,2.26}}.
+      a {{2.9,measurement result}} as it bears no information about the {{2.26,measurement uncertainty}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -47,15 +46,14 @@ data:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: expression de la relation entre une {{indication,4.1}} et la {{valeur
-      mesurée,2.10}} correspondante
+  - content: expression de la relation entre une {{4.1,indication}} et la {{2.10,valeur mesurée}} correspondante
   examples: []
   id: 4.31-fra
   language_code: fra
   notes:
   - content: Une courbe d'étalonnage exprime une relation biunivoque qui ne fournit
-      pas un {{résultat de mesure,2.9}} puisqu'elle ne contient aucune information
-      sur l'{{incertitude de mesure,2.26}}.
+      pas un {{2.9,résultat de mesure}} puisqu'elle ne contient aucune information
+      sur l'{{2.26,incertitude de mesure}}.
   terms:
   - type: expression
     normative_status: preferred
