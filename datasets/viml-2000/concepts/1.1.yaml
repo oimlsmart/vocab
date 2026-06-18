@@ -28,7 +28,7 @@ data:
   sources:
   - origin:
       ref:
-        source: VIM
+        source: OIML V 2:1993
       locality:
         type: clause
         reference_from: '2.2'
@@ -54,7 +54,7 @@ data:
   sources:
   - origin:
       ref:
-        source: VIM
+        source: OIML V 2:1993
       locality:
         type: clause
         reference_from: '2.2'
