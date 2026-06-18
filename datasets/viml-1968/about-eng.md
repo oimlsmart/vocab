@@ -4,7 +4,7 @@ Le **Vocabulaire international de métrologie légale (VIML)** a été publié p
 l'Organisation Internationale de Métrologie Légale (OIML) sous la référence **OIML V 1:1968**.
 
 Il s'agit de la **première édition**, en français uniquement, remplacée par
-[OIML V 1:2000](/oiml-vocab/viml-2000/concept/1.1). Elle comprend 276 concepts
+[OIML V 1:2000](/vocab/viml-2000/concept/1.1). Elle comprend 276 concepts
 répartis en 9 chapitres.
 
 **Avertissement :** Ce jeu de données a été extrait d'un document numérisé par OCR.
