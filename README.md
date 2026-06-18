@@ -1,8 +1,8 @@
 # VIML — International Vocabulary of Legal Metrology
 
-[![Deploy](https://github.com/metanorma/oiml-vocab/actions/workflows/build_deploy.yml/badge.svg)](https://github.com/metanorma/oiml-vocab/actions/workflows/build_deploy.yml)
+[![Deploy](https://github.com/oimlsmart/vocab/actions/workflows/build_deploy.yml/badge.svg)](https://github.com/oimlsmart/vocab/actions/workflows/build_deploy.yml)
 
-Online terminology browser for the **International Vocabulary of Legal Metrology** (OIML V 1:2022), deployed at [metanorma.github.io/oiml-vocab](https://metanorma.github.io/oiml-vocab/).
+Online terminology browser for the **International Vocabulary of Legal Metrology** (OIML V 1:2022), deployed at [oimlsmart.github.io/vocab](https://oimlsmart.github.io/vocab/).
 
 Built with the [Glossarist Concept Browser](https://github.com/glossarist/concept-browser) — a statically deployable SPA for browsing terminology datasets.
 
@@ -18,8 +18,7 @@ Built with the [Glossarist Concept Browser](https://github.com/glossarist/concep
 ## Repository structure
 
 ```
-oiml-vocab/
-├── site-config.yml          Site configuration (branding, features, dataset, base path)
+vocab/├── site-config.yml          Site configuration (branding, features, dataset, base path)
 ├── about.md                 About page (English)
 ├── about-fra.md             About page (French)
 ├── viml-glossarist/         Glossarist v3 dataset (source of truth)
@@ -73,14 +72,14 @@ npx vite preview
 All configuration is in `site-config.yml`. Key fields:
 
 ```yaml
-basePath: /oiml-vocab/               # Subpath for GitHub Pages deployment
+basePath: /vocab/               # Subpath for GitHub Pages deployment
 
 datasets:
   - id: viml
     localPath: viml-glossarist       # Dataset source directory
     ref: "OIML V 1:2022"            # Publication reference (shown in sidebar provenance)
     owner: OIML
-    sourceRepo: https://github.com/metanorma/oiml-vocab
+    sourceRepo: https://github.com/oimlsmart/vocab
 
 branding:
   primaryColor: "#004996"

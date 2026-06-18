@@ -5,7 +5,7 @@ la référence **ISO Guide 99:1993** (également connu sous le nom d'**ISO/TAG 4
 copublié par l'OIML sous la référence **OIML V 2:1993** et par le prédécesseur du JCGM
 sous la référence **JCGM 200:1993**.
 
-Il s'agit de l'**édition 1993**, remplacée par [OIML V 2-200:2007](/oiml-vocab/vim-2007/concept/1.1).
+Il s'agit de l'**édition 1993**, remplacée par [OIML V 2-200:2007](/vocab/vim-2007/concept/1.1).
 Elle comprend 120 définitions de concepts réparties en 6 chapitres. Cette édition utilise
 une structure différente des éditions ultérieures, avec des chapitres séparés pour les
 « Résultats de mesure » et les « Instruments de mesure » au lieu du chapitre consolidé
