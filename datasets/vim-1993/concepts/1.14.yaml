@@ -21,9 +21,18 @@ data:
   id: 1.14-eng
   language_code: eng
   notes:
-  - content: 'Sorne derived units have special names and symbols; for example, in
-      the SI: Ouantity SI derived unit Name Symboi force energy pressure newton JOUie
-      pascal N J Pa'
+  - content: |
+      Some derived units have special names and symbols; for example, in
+      the SI:
+      
+      [cols="3",options="header,unnumbered",headerrows=2]
+      |===
+      .2+| Quantity 2+| SI derived unit | Name | Symbol
+
+      | force    | newton | stem:["unitsml(N)"]
+      | energy   | joule  | stem:["unitsml(J)"]
+      | pressure | pascal | stem:["unitsml(Pa)"]
+      |===
   terms:
   - type: expression
     normative_status: preferred
@@ -42,9 +51,18 @@ data:
   id: 1.14-fra
   language_code: fra
   notes:
-  - content: 'Pour certaines unités dérivées, il existe des noms et des symboles spéciaux;
-      par exemple, dans le SI: Grandeur Unité SI dérivée Nom Symbole force energie
-      pression newton JOUie pascal N j Pa'
+  - content: |
+      Pour certaines unités dérivées, il existe des noms et des symboles spéciaux;
+      par exemple, dans le SI:
+
+      [cols="3",options="header,unnumbered",headerrows=2]
+      |===
+      .2+| Grandeur 2+| Unité SI dérivée | Nom | Symbole
+
+      | force    | newton | stem:["unitsml(N)"]
+      | énergie  | joule  | stem:["unitsml(J)"]
+      | pression | pascal | stem:["unitsml(Pa)"]
+      |===
   terms:
   - type: expression
     normative_status: preferred

@@ -16,7 +16,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: quantity in the dimensional expression of which ail the exponents of
+  - content: quantity in the dimensional expression of which all the exponents of
       the dimensions of the base quantities reduce to zero
   examples:
   - content: linear strain, friction factor, Mach number, refractive index, mole fraction
@@ -27,7 +27,10 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: quantity of dimension one dimensionless quantity
+    designation: quantity of dimension one
+  - type: expression
+    normative_status: admitted
+    designation: dimensionless quantity
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 390c6d39-1164-4bc8-865e-70ab7b81706d
@@ -37,7 +40,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur sans dimension, f grandeur dont l'expression dimensionnelle
+  - content: grandeur grandeur dont l'expression dimensionnelle
       en fonction des dimensions des grandeurs de base présente des exposants qui
       se réduisent tous à zéro
   examples:
@@ -50,6 +53,11 @@ data:
   - type: expression
     normative_status: preferred
     designation: grandeur de dimension un
+    grammar_info:
+    - gender: f
+  - type: expression
+    normative_status: admitted
+    designation: grandeur sans dimension
     grammar_info:
     - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'

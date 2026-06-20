@@ -19,11 +19,9 @@ data:
   definition:
   - content: unit of measurement that does not belong to a given system of units
   examples:
-  - content: the electronvolt (about 1,602 18 x 10-19 J) Is an off-system unit of
-      energy w1th respect to the SI; day, hour, minute are off-system units of time
-      with respect to the SL the electronvolt (about 1,602 18 x 10-19 J) Is an off-system
-      unit of energy w1th respect to the SI; day, hour, minute are off-system units
-      of time with respect to the SL
+  - content: the electronvolt (about stem:[1.60218 xx 10^{-19} "unitsml(J)"])
+      is an off-system unit of energy with respect to the SI;
+  - content: day, hour, minute are off-system units of time with respect to the SI.
   id: 1.15-eng
   language_code: eng
   notes: []
@@ -42,11 +40,9 @@ data:
   definition:
   - content: unité de mesure qui n'appartient pas à un système d'unités donné
   examples:
-  - content: 'l''électronvoit (environ 1,602 18 x 10-19 J) est une unité nors systeme
-      pour le SI: le Jour, l''heure, la minute sont des unités de temps hors pour
-      ie SI l''électronvoit (environ 1,602 18 x 10-19 J) est une unité nors systeme
-      pour le SI: le Jour, l''heure, la minute sont des unités de temps hors pour
-      ie SI'
+  - content: l'électronvolt (environ stem:[1.60218 xx 10^{-19} "unitsml(J)"])
+      est une unité hors système pour le SI;
+  - content: le Jour, l'heure, la minute sont des unités de temps hors pour le SI.
   id: 1.15-fra
   language_code: fra
   notes: []
