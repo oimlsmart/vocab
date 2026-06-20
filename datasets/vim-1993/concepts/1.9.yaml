@@ -17,11 +17,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: set of base units, together with denved units, defined in accordance
+  - content: set of base units, together with derived units, defined in accordance
       with given rules, for a given system of quantities
   examples:
-  - content: International System of Units. SI; CGS system of units. International
-      System of Units. SI; CGS system of units.
+  - content: International System of Units. SI;
+  - content: CGS system of units.
   id: 1.9-eng
   language_code: eng
   notes: []
@@ -41,8 +41,8 @@ data:
   - content: ensemble des unités de base et des unités dérivées, définies suivant
       les règles données, pour un système de grandeurs donné
   examples:
-  - content: international d'unités, SI; système d'unités CGS. international d'unités,
-      SI; système d'unités CGS.
+  - content: Système international d'unités, SI;
+  - content: système d'unités CGS.
   id: 1.9-fra
   language_code: fra
   notes: []

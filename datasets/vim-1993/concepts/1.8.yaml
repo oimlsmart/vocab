@@ -18,7 +18,9 @@ data:
     type: accepted
   definition:
   - content: conventional sign designating a unit of measurement
-  examples: []
+  examples:
+    - content: stem:["unitsml(m)"] is the symbol for metre;
+    - content: stem:["unitsml(A)"] is the symbol for ampere.
   id: 1.8-eng
   language_code: eng
   notes: []
@@ -37,9 +39,8 @@ data:
   definition:
   - content: signe conventionnel désignant une unité de mesure
   examples:
-  - content: 'mis the symbol for metre: Ais the symbol for ampere. mis the symbol
-      for metre: Ais the symbol for ampere.'
-  - content: 'm est le A est le m est le A est le du mètre: de l''ampère.'
+  - content: stem:["unitsml(m)"] est le symbole du mètre;
+  - content: stem:["unitsml(A)"] est le symbole de l'ampère.
   id: 1.8-fra
   language_code: fra
   notes: []

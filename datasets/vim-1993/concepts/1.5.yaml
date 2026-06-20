@@ -21,12 +21,9 @@ data:
       product of powers of factors that represent the base quantities of the system
   examples:
   - content: in a system having base quantities length, mass and time, whose dimensions
-      are denoted by L, M and T respectively, LMT-2 is the dimension of force; in
-      the same system of quantities, ML-3 is the dimension of mass concentration as
-      well as of mass density. in a system having base quantities length, mass and
-      time, whose dimensions are denoted by L, M and T respectively, LMT-2 is the
-      dimension of force; in the same system of quantities, ML-3 is the dimension
-      of mass concentration as well as of mass density.
+      are denoted by stem:["unitsml(L)"], stem:["unitsml(M)"] and stem:["unitsml(T)"] respectively, stem:["unitsml(M*L^-2)"] is the dimension of force; 
+  - content: in the same system of quantities, stem:["unitsml(M*L^-3)"] is the dimension of mass
+      concentration as well as of mass density.
   id: 1.5-eng
   language_code: eng
   notes:
@@ -51,13 +48,9 @@ data:
       de ce système
   examples:
   - content: dans un système qui a pour grandeurs de base la longueur, la masse et
-      le temps. dont les dimensions sont désignees respectivement par L. M et T. la
-      dimension de la force est LMT-2; dans ce même système de grandeurs, ML-3 est
+      le temps. dont les dimensions sont désignees respectivement par stem:["unitsml(L)"], stem:["unitsml(M)"] et stem:["unitsml(T)"], la
+      dimension de la force est stem:["unitsml(M*L^-2)"]; dans ce même système de grandeurs, stem:["unitsml(M*L^-3)"] est
       la dimension de la concentration en masse aussi bien que celle de la masse volumique.
-      dans un système qui a pour grandeurs de base la longueur, la masse et le temps.
-      dont les dimensions sont désignees respectivement par L. M et T. la dimension
-      de la force est LMT-2; dans ce même système de grandeurs, ML-3 est la dimension
-      de la concentration en masse aussi bien que celle de la masse volumique.
   id: 1.5-fra
   language_code: fra
   notes:
