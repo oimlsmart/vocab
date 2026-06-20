@@ -19,8 +19,8 @@ data:
   - content: larger unit of measurement that is formed from a given unit according
       to scaling conventions
   examples:
-  - content: one of the decimal multiples of the metre Is the kilometre; one of the
-      decimal multiples of the metre Is the kilometre;
+  - content: one of the decimal multiples of the metre is the kilometre;
+  - content: one of the non-decimal multiples of the second is the hour.
   id: 1.16-eng
   language_code: eng
   notes: []
@@ -40,10 +40,8 @@ data:
   - content: unité de mesure plus grande formée à partir d'une unité donnée selon
       des conventions d'échelonnement
   examples:
-  - content: l'un des multiples décimaux du métre est le kilomètre; one of the non-decimal
-      hour. l'un des multiples décimaux du métre est le kilomètre; one of the non-decimal
-      hour. of the second Is the b) l'un des l'heure. non décimaux de la seconde est
-      15
+  - content: l'un des multiples décimaux du métre est le kilomètre;
+  - content: l'un des multiples non décimaux de la seconde est l'heure
   id: 1.16-fra
   language_code: fra
   notes: []

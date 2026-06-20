@@ -18,7 +18,11 @@ data:
   definition:
   - content: quotient of the value of a quantity and the unit used in its expression
   examples:
-  - content: 'lr7 the examples In 1.18, the numbers:'
+  - content: |
+      in the examples In 1.18, the numbers:
+      . 5.34, 534;
+      . 0.152, 152;
+      . 0.012, 12.
   id: 1.21-eng
   language_code: eng
   notes: []
@@ -37,7 +41,11 @@ data:
   definition:
   - content: nombre qui multiplie l'unité dans l'expression de la valeur d'une grandeur
   examples:
-  - content: 'dans les exemples de 1.18, les nombres: 5.34 0,152 0,012'
+  - content: |
+      dans les exemples de 1.18, les nombres:
+      . 5.34, 534;
+      . 0.152, 152;
+      . 0.012, 12.
   id: 1.21-fra
   language_code: fra
   notes: []

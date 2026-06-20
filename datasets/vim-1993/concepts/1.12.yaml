@@ -23,7 +23,21 @@ data:
   id: 1.12-eng
   language_code: eng
   notes:
-  - content: 'The SI is based at present on the following seven base units:'
+  - content: |
+      The SI is based at present on the following seven base units:
+
+      [cols="3", options="header,unnumbered",headerrows=2]
+      |===
+      .2+| Quantity 2+| SI base unit | Name | Symbol
+
+      | length                    | metre    | stem:["unitsml(m)"]
+      | mass                      | kilogram | stem:["unitsml(kg)"]
+      | time                      | second   | stem:["unitsml(s)"]
+      | electric current          | ampere   | stem:["unitsml(A)"]
+      | thermodynamic temperature | kelvin   | stem:["unitsml(K)"]
+      | amount of substance       | mole     | stem:["unitsml(mol)"]
+      | luminous intensity        | candela  | stem:["unitsml(cd)"]
+      |===
   terms:
   - type: expression
     normative_status: preferred
@@ -43,13 +57,22 @@ data:
   id: 1.12-fra
   language_code: fra
   notes:
-  - content: 'Le SI est fondé actuellement sur les sept unités de base sU1vantes:
-      Ouantity SI base unit Name Symbol length metre m mass kilogram kg time second
-      s electric current ampere A thermodynamic temperature kelvin K amount of substance
-      mole mol luminous intensity candela cd ! Grandeur Unité SI de base Nom Symbole
-      longueur mètre m masse kilogramme kg temps seconde s courant électrique ampère
-      A température thermodynamique kelvin K quantité de matière mole mol intensité
-      lumineuse candela cd'
+  - content: |
+      Le SI est fondé actuellement sur les sept unités de base suivantes:
+
+      [cols="3", options="header,unnumbered",headerrows=2]
+      |===
+      .2+| Grandeur 2+| Unité SI de base | Nom | Symbole
+
+      | longueur                    | mètre      | stem:["unitsml(m)"]
+      | masse                       | kilogramme | stem:["unitsml(kg)"]
+      | temps                       | seconde    | stem:["unitsml(s)"]
+      | courant électrique          | ampère     | stem:["unitsml(A)"]
+      | température thermodynamique | kelvin     | stem:["unitsml(K)"]
+      | quantité de matière         | mole       | stem:["unitsml(mol)"]
+      | intensité lumineuse         | candela    | stem:["unitsml(cd)"]
+      |=== 
+
   terms:
   - type: expression
     normative_status: preferred

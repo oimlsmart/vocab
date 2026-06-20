@@ -21,16 +21,19 @@ data:
       continuous or discrete, defined by convention as a reference for arranging quantities
       of that kind in order of magnitude
   examples:
-  - content: 'the Mohs hardness scale; the pH scale in chemistry: the scale of octane
-      numbers for petroleurn fuel. the Mohs hardness scale; the pH scale in chemistry:
-      the scale of octane numbers for petroleurn fuel.'
+  - content: the Mohs hardness scale;
+  - content: the pH scale in chemistry;
+  - content: the scale of octane numbers for petroleum fuel.
   id: 1.22-eng
   language_code: eng
   notes: []
   terms:
   - type: expression
     normative_status: preferred
-    designation: conventional reference scale reference-value scale
+    designation: conventional reference scale
+  - type: expression
+    normative_status: admitted
+    designation: reference-value scale
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3331408e-f594-4676-976f-1275f56b8b8d
@@ -44,10 +47,9 @@ data:
       ordonnés, continu ou discret, défini par convention comme référence pour classer
       en ordre croissant ou décroissant les grandeurs de cette nature
   examples:
-  - content: l'échelle de dureté de Mohs; l'échelle de pH en chimie; l'échelle des
-      indices d'octane pour les carburants, l'échelle de dureté de Mohs; l'échelle
-      de pH en chimie; l'échelle des indices d'octane pour les carburants, îv1euoiogy
-      1993 17
+  - content: l'échelle de dureté de Mohs;
+  - content: l'échelle de pH en chimie;
+  - content: l'échelle des indices d'octane pour les carburants.
   id: 1.22-fra
   language_code: fra
   notes: []
