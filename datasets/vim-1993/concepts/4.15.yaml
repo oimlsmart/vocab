@@ -26,7 +26,7 @@ data:
   language_code: eng
   notes:
   - content: An indication may be produced only when the value of the quantity reaches
-      a threshold, sometimes called the detection limit of the detector.
+      a threshold, sometimes called the *detection limit* of the detector.
   - content: In some fields the term "detector" is used for the concept of "sensor".
   terms:
   - type: expression
@@ -49,7 +49,7 @@ data:
   language_code: fra
   notes:
   - content: On peut n'avoir une indication que si la valeur de la grandeur atteint
-      un seuil donné, parfois appelé seuil de détction du détecteur.
+      un seuil donné, parfois appelé *seuil de détection* du détecteur.
   - content: Dans certains domaines, le terme «détecteur» est utilisé pour le concept
       de «capteur».
   terms:

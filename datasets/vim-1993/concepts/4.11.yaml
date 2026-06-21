@@ -17,13 +17,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: measuring instrument that provides a digitized output or display ��OTE
-      This term relates to the form ot presentation of the output or display, not
-      to the principle of operation of the instrument.
+  - content: measuring instrument that provides a digitized output or display
   examples: []
   id: 4.11-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: This term relates to the form of presentation of the output or display, not
+      to the principle of operation of the instrument.
   terms:
   - type: expression
     normative_status: preferred

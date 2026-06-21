@@ -36,8 +36,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: valeur d'une division (d'échelle), f différence entre les valeurs correspondant
-      à deux repères successifs
+  - content: différence entre les valeurs correspondant à deux repères successifs
   examples: []
   id: 4.22-fra
   language_code: fra
@@ -50,6 +49,11 @@ data:
     designation: échelon
     grammar_info:
     - gender: m
+  - type: expression
+    normative_status: preferred
+    designation: valeur d'une division (d'échelle)
+    grammar_info:
+    - gender: f
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 3b9b3fd1-aabe-41c3-b3bf-5868bc7c9fbb

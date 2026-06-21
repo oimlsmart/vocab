@@ -17,7 +17,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device intended to be used to make measurements, alone or in coniunction
+  - content: device intended to be used to make measurements, alone or in conjunction
       with supplementary device(s)
   examples: []
   id: 4.1-eng
@@ -36,8 +36,8 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: appareil de mesure, m dispositif destiné à être utilisé pour faire des
-      mesurages, seul ou associé à un ou plusieurs dispositifs annexes
+  - content: dispositif destiné à être utilisé pour faire des mesurages,
+      seul ou associé à un ou plusieurs dispositifs annexes
   examples: []
   id: 4.1-fra
   language_code: fra
@@ -46,6 +46,11 @@ data:
   - type: expression
     normative_status: preferred
     designation: instrument de mesure
+    grammar_info:
+    - gender: m
+    - type: expression
+    normative_status: preferred
+    designation: appareil de mesure
     grammar_info:
     - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'

@@ -20,8 +20,10 @@ data:
   - content: fixed or movable part of a displaying device whose position with reference
       to the scale marks enables an indicated value to be determined
   examples:
-  - content: pointer; luminous spot; liquid surface; recording pen. pointer; luminous
-      spot; liquid surface; recording pen.
+  - content: pointer;
+  - content: luminous spot;
+  - content: liquid surface;
+  - content: recording pen.
   id: 4.16-eng
   language_code: eng
   notes: []
@@ -41,7 +43,10 @@ data:
   - content: partie fixe ou mobile d'un dispositif indicateur dont la position par
       rapport aux repères permet de déterminer une valeur indiquée
   examples:
-  - content: a) spot surface d'un liquide; plume spot surface d'un liquide; plume
+  - content: aiguille;
+  - content: spot lumineux;
+  - content: surface d'un liquide;
+  - content: plume d'enregistrement.
   id: 4.16-fra
   language_code: fra
   notes: []

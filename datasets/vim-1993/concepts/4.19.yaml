@@ -21,10 +21,10 @@ data:
   id: 4.19-eng
   language_code: eng
   notes:
-  - content: For an analogue display this may be called the scale range.
+  - content: For an analogue display this may be called the *scale range*.
   - content: The range of indications is expressed in the units marked on the display,
       regardless of the units of the measurand, and is normally stated in terms of
-      its lower and upper limits, for example, 100°C to 200°C.
+      its lower and upper limits, for example, stem:[100 "unitsml(degC)"] to stem:[200 "unitsml(degC)"].
   - content: See 5.2 Note.
   terms:
   - type: expression
@@ -44,10 +44,10 @@ data:
   id: 4.19-fra
   language_code: fra
   notes:
-  - content: Pour un affichage analogique, cet ensemble peut être appelé étendue d'échelle.
+  - content: Pour un affichage analogique, cet ensemble peut être appelé *étendue d'échelle*.
   - content: L'étendue des indications est exprimée en unité de l'affichage, quelle
       que soit l'unité du mesurande, et est normalement spécifiée par ses limites
-      inférieure et supérieure, par exemple, 100°C à 200°C.
+      inférieure et supérieure, par exemple, stem:[100 "unitsml(degC)"] à stem:[200 "unitsml(degC)"].
   - content: Voir note de 5.2.
   terms:
   - type: expression

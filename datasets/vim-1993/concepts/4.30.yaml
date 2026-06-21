@@ -23,7 +23,7 @@ data:
   id: 4.30-eng
   language_code: eng
   notes:
-  - content: Adjustment may be automatic, sem1automatic or manual.
+  - content: Adjustment may be automatic, semiautomatic or manual.
   terms:
   - type: expression
     normative_status: preferred
@@ -37,13 +37,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: opération destinée à amener un instrument de mesure à un de fonctionnement
+  - content: opération destinée à amener un instrument de mesure à un état de fonctionnement
       convenant à son utilisation
   examples: []
   id: 4.30-fra
   language_code: fra
   notes:
-  - content: peut être automatique, semi-automa-tique ou manuel.
+  - content: L'ajustage peut être automatique, semi-automatique ou manuel.
   terms:
   - type: expression
     normative_status: preferred

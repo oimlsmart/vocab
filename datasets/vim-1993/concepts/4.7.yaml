@@ -18,13 +18,12 @@ data:
   definition:
   - content: measuring instrument that provides a record of the indication
   examples:
-  - content: barograph; thermoluminescent dosimeter; recording spectrometer. barograph;
-      thermoluminescent dosimeter; recording spectrometer.
+  - content: barograph; thermoluminescent dosimeter; recording spectrometer.
   id: 4.7-eng
   language_code: eng
   notes:
-  - content: The record (display) may be analogue (continuous or discontinuous line)
-      or digital.
+  - content: The record (display) may be *analogue* (continuous or discontinuous line)
+      or *digital*.
   - content: Values of more than one quantity may be recorded (displayed) simultaneously.
   - content: A recording instrument may also display an indication.
   terms:
@@ -47,8 +46,8 @@ data:
   id: 4.7-fra
   language_code: fra
   notes:
-  - content: L'enregistrement (affichage) peut être analogique (ligne continue ou
-      discontinue) ou numérique.
+  - content: L'enregistrement (affichage) peut être *analogique* (ligne continue ou
+      discontinue) ou *numérique*.
   - content: Les valeurs de plusieurs grandeurs peuvent être enregistrées (affichées)
       simultanément.
   - content: Un appareil enregistreur peut aussi afficher une indication.
