@@ -20,8 +20,8 @@ data:
       of partial values of the measurand obtained simultaneously or consecutively
       from one or more sources
   examples:
-  - content: totalizing railway weighbridge; electrical power summation-meter. totalizing
-      railway weighbridge; electrical power summation-meter.
+  - content: totalizing railway weighbridge;
+  - content: electrical power summation-meter.
   id: 4.8-eng
   language_code: eng
   notes: []
@@ -39,12 +39,11 @@ data:
     type: accepted
   definition:
   - content: appareil de mesure qui détermine la valeur d'un mesurande en faisant
-      la somme des valeurs partielles de ce mesurande obtenues simulta-nément ou consécutivement
+      la somme des valeurs partielles de ce mesurande obtenues simultanément ou consécutivement
       d'une ou plusieurs sources
   examples:
-  - content: pont-bascule totalisateur ferroviaire; appareil de mesure totalisateur
-      de puissance électrique. pont-bascule totalisateur ferroviaire; appareil de
-      mesure totalisateur de puissance électrique.
+  - content: pont-bascule totalisateur ferroviaire;
+  - content: appareil de mesure totalisateur de puissance électrique.
   id: 4.8-fra
   language_code: fra
   notes: []
