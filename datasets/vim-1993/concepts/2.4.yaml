@@ -17,14 +17,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: logical sequence of operations, described gen-erically, used in the performance
-      of measure-ments
+  - content: logical sequence of operations, described generically, used in the performance
+      of measurements
   examples: []
   id: 2.4-eng
   language_code: eng
   notes:
-  - content: 'Methods of measurement may be qualified in vanous ways such as: substitution
-      method differential method null method.'
+  - content: |
+      Methods of measurement may be qualified in various ways such as:
+      - *substitution method*,
+      - *differential method*,
+      - *null method*.
   terms:
   - type: expression
     normative_status: preferred
@@ -38,14 +41,17 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: succession logique des opérations, décrites d’une manière générique,
-      mises en œuvre lors de l’exécution de mesurages
+  - content: succession logique des opérations, décrites d'une manière générique,
+      mises en œuvre lors de l'exécution de mesurages
   examples: []
   id: 2.4-fra
   language_code: fra
   notes:
-  - content: 'La méthode de mesure peut être qualifiée de diverses façons telles que:
-      méthode de substitution, méthode différentielle, méthode de zéro.'
+  - content: |
+      La méthode de mesure peut être qualifiée de diverses façons telles que:
+      - *méthode de substitution*,
+      - *méthode différentielle*,
+      - *méthode de zéro*.
   terms:
   - type: expression
     normative_status: preferred

@@ -20,17 +20,15 @@ data:
   - content: quantity that represents the measurand and which is functionally related
       to it
   examples:
-  - content: 'the electrical output signal of a pressure transducer: the frequency
-      from a voltage-to-frequency converter: the electromotive force of an electrochemical
-      concen-tration cell used to measure a difference in concen-tration. the electrical
-      output signal of a pressure transducer: the frequency from a voltage-to-frequency
-      converter: the electromotive force of an electrochemical concen-tration cell
-      used to measure a difference in concen-tration'
+  - content: the electrical output signal of a pressure transducer;
+  - content: the frequency from a voltage-to-frequency converter;
+  - content: the electromotive force of an electrochemical concentration cell used
+      to measure a difference in concentration.
   id: 2.8-eng
   language_code: eng
   notes:
-  - content: The input signal to a measunng system may be called the stimulus; the
-      output signal may be called the response.
+  - content: The input signal to a measuring system may be called the *stimulus*; the
+      output signal may be called the *response*.
   terms:
   - type: expression
     normative_status: preferred
@@ -47,16 +45,15 @@ data:
   - content: grandeur qui représente le mesurande et qui lui est fonctionnellement
       liée
   examples:
-  - content: le signal électrique de sortie d'un transducteur de pression; la fréquence
-      fournie par un convertisseur de tension-fréquence; le signal électrique de sortie
-      d'un transducteur de pression; la fréquence fournie par un convertisseur de
-      tension-fréquence; cl la force électromotrice d'une cellule électrochimique
-      à concentration utilisée pour mesurer une différence de concentration.
+  - content: le signal électrique de sortie d'un transducteur de pression;
+  - content: la fréquence fournie par un convertisseur de tension-fréquence;
+  - content: la force électromotrice d'une cellule électrochimique à concentration utilisée
+      pour mesurer une différence de concentration.
   id: 2.8-fra
   language_code: fra
   notes:
-  - content: Le signal d'entrée d'un système peut être appelé «stimulus» en anglais;
-      le signal de sortie peut être appelé «réponse». 20 Mrno:ogy 1993
+  - content: Le signal d'entrée d'un système peut être appelé *«stimulus»* en anglais;
+      le signal de sortie peut être appelé *«réponse»*.
   terms:
   - type: expression
     normative_status: preferred
