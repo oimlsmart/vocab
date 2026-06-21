@@ -19,13 +19,9 @@ data:
   - content: scientific basis of a measurement
   examples:
   - content: the thermoelectric effect applied to the measurement of temperature;
-      the Josephson effect applied to the measurement of electric potential difference;
-      the Doppler effect applied to the measurement of velocity; the Raman effect
-      applied to the measurement of the wave number of molecular vibrations. the thermoelectric
-      effect applied to the measurement of temperature; the Josephson effect applied
-      to the measurement of electric potential difference; the Doppler effect applied
-      to the measurement of velocity; the Raman effect applied to the measurement
-      of the wave number of molecular vibrations.
+  - content: the Josephson effect applied to the measurement of electric potential difference;
+  - content: the Doppler effect applied to the measurement of velocity;
+  - content: the Raman effect applied to the measurement of the wave number of molecular vibrations.
   id: 2.3-eng
   language_code: eng
   notes: []
@@ -44,14 +40,10 @@ data:
   definition:
   - content: base scientifique d'un mesurage
   examples:
-  - content: 'l''effet thermoélectrique utilisé pour le mesurage de la température:
-      l''effet Josephson utilisé pour le mesurage de la tension électrique; l''effet
-      Doppler utilise pour le mesurage de la vitesse; l''effet Raman utilisé pour
-      le mesurage du nombre d''onde des vibrations moléculaires. l''effet thermoélectrique
-      utilisé pour le mesurage de la température: l''effet Josephson utilisé pour
-      le mesurage de la tension électrique; l''effet Doppler utilise pour le mesurage
-      de la vitesse; l''effet Raman utilisé pour le mesurage du nombre d''onde des
-      vibrations moléculaires.'
+  - content: l'effet thermoélectrique utilisé pour le mesurage de la température;
+  - content: l'effet Josephson utilisé pour le mesurage de la tension électrique;
+  - content: l'effet Doppler utilise pour le mesurage de la vitesse;
+  - content: l'effet Raman utilisé pour le mesurage du nombre d'onde des vibrations moléculaires.
   id: 2.3-fra
   language_code: fra
   notes: []

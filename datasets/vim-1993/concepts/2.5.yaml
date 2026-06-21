@@ -24,7 +24,7 @@ data:
   language_code: eng
   notes:
   - content: A measurement procedure is usually recorded in a document that is sometimes
-      ,tself called a "measurement procedure" (or a measurement method) and is usually
+      itself called a "measurement procedure" (or a *measurement method*) and is usually
       in sufficient detail to enable an operator to carry out a measurement without
       additional information.
   terms:
@@ -47,9 +47,9 @@ data:
   language_code: fra
   notes:
   - content: Le mode opératoire est habituellement décrit dans un document qui est
-      quelquefois appelé lui-même «mode opératoire» et qui donne assez de détails
-      pour qu'un opérateur puisse effectuer un mesu-rage sans avoir besoin d'autres
-      informations.
+      quelquefois appelé lui-même «mode opératoire» (ou *méthode de mesure*) et qui
+      donne assez de détails pour qu'un opérateur puisse effectuer un mesurage sans
+      avoir besoin d'autres informations.
   terms:
   - type: expression
     normative_status: preferred
