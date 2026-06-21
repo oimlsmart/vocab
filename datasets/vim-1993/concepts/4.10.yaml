@@ -28,7 +28,10 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: analogue measuring instrument analogue indicating instrument
+    designation: analogue measuring instrument
+  - type: expression
+    normative_status: admitted
+    designation: analogue indicating instrument
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 065b6a6e-b8ec-42c5-bbfd-30b9c07cc3b6

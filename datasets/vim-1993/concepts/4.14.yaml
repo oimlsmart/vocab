@@ -20,15 +20,15 @@ data:
   - content: element of a measuring instrument or measuring chain that is directly
       affected by the measurand
   examples:
-  - content: measuring junction of a thermoelectric thermometer; rotor of a turbine
-      flow meter; Bourdon tube of a pressure gauge; float of a level-measuring instrument;
-      photocell of a spectrophotometer. measuring junction of a thermoelectric thermometer;
-      rotor of a turbine flow meter; Bourdon tube of a pressure gauge; float of a
-      level-measuring instrument; photocell of a spectrophotometer.
+  - content: measuring junction of a thermoelectric thermometer;
+  - content: rotor of a turbine flow meter; 
+  - content: Bourdon tube of a pressure gauge; 
+  - content: float of a level-measuring instrument;
+  - content: photocell of a spectrophotometer.
   id: 4.14-eng
   language_code: eng
   notes:
-  - content: ln some fields the term "detector" is used for this concept.
+  - content: In some fields the term "detector" is used for this concept.
   terms:
   - type: expression
     normative_status: preferred
@@ -45,12 +45,11 @@ data:
   - content: élément d'un appareil de mesure ou d'une chaîne de mesure qui est directement
       soumis à l'action du mesurande
   examples:
-  - content: soudure de mesure d'un thermomètre thermoélectri-que; rotor d'un débitmètre
-      à turbine; tube de Bourdon d'un manomètre; fiotteur d'un appareil de mesure
-      de niveau; récepteur photoélectrique d'un spectrophotomètre. soudure de mesure
-      d'un thermomètre thermoélectri-que; rotor d'un débitmètre à turbine; tube de
-      Bourdon d'un manomètre; fiotteur d'un appareil de mesure de niveau; récepteur
-      photoélectrique d'un spectrophotomètre.
+  - content: soudure de mesure d'un thermomètre thermoélectrique; 
+  - content: rotor d'un débitmètre à turbine;
+  - content: tube de Bourdon d'un manomètre;
+  - content: flotteur d'un appareil de mesure de niveau;
+  - content: récepteur photoélectrique d'un spectrophotomètre.
   id: 4.14-fra
   language_code: fra
   notes:

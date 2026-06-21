@@ -19,12 +19,13 @@ data:
   definition:
   - content: measuring instrument that displays an indication
   examples:
-  - content: analogue indicating voltmeter; digital frequency meter; micrometer. analogue
-      indicating voltmeter; digital frequency meter; micrometer.
+  - content: analogue indicating voltmeter; 
+  - content: digital frequency meter; 
+  - content: micrometer.
   id: 4.6-eng
   language_code: eng
   notes:
-  - content: The display may be analogue (continuous or discontinuous) or digital.
+  - content: The display may be *analogue* (continuous or discontinuous) or *digital*.
   - content: Values of more than one quantity may be displayed simultaneously.
   - content: A displaying measuring instrument may also provide a record.
   terms:
@@ -43,13 +44,14 @@ data:
   - content: appareil (de mesure) indicateur, m appareil de mesure qui affiche une
       indication
   examples:
-  - content: voltmètre à indication analogique; frequencemètre numérique; micromètre
-      à vis. voltmètre à indication analogique; frequencemètre numérique; micromètre
+  - content: voltmètre à indication analogique;
+  - content: fréquencemètre numérique;
+  - content: micromètre à vis
       à vis.
   id: 4.6-fra
   language_code: fra
   notes:
-  - content: L'indication peut être analogique (continue ou discontinue) ou numérique.
+  - content: L'indication peut être *analogique* (continue ou discontinue) ou *numérique*.
   - content: Les valeurs de plusieurs grandeurs peuvent être indiquées simultanément.
   - content: Un appareil de mesure afficheur peut, de plus, fournir un enregistrement.
   terms:

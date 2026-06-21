@@ -23,7 +23,7 @@ data:
   id: 4.17-eng
   language_code: eng
   notes:
-  - content: Each mark is called a scale mark.
+  - content: Each mark is called a *scale mark*.
   terms:
   - type: expression
     normative_status: preferred
@@ -37,13 +37,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble ordonné de repères avec toute chif-fraison associée, formant
+  - content: ensemble ordonné de *repères* avec toute chif-fraison associée, formant
       partie d'un dispositif indicateur d'un appareil de mesure
   examples: []
   id: 4.17-fra
   language_code: fra
   notes:
-  - content: "(Applicable uniquement au texte"
+  - content: "(Applicable uniquement au texte anglais.)"
   terms:
   - type: expression
     normative_status: preferred
