@@ -21,7 +21,7 @@ data:
   id: 3.2-eng
   language_code: eng
   notes:
-  - content: The value read from the displaying device may be called the direct indication;
+  - content: The value read from the displaying device may be called the *direct indication*;
       it is multiplied by the instrument constant to give the indication.
   - content: The quantity may be the measurand, a measurement signal, or another quantity
       to be used in calculating the value of the measurand.
@@ -44,8 +44,8 @@ data:
   id: 3.2-fra
   language_code: fra
   notes:
-  - content: La valeur lue sur le dispositif d'affichage peut être appelée indication
-      directe; elle doit être multipliée par la constante de l'instrument pour obtenir
+  - content: La valeur lue sur le dispositif d'affichage peut être appelée *indication
+      directe*; elle doit être multipliée par la constante de l'instrument pour obtenir
       l'indication.
   - content: La grandeur peut être le mesurande, un signal de mesure ou une autre
       grandeur utilisée pour calculer la valeur du mesurande.
