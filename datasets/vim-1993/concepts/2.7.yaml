@@ -20,13 +20,11 @@ data:
   - content: quantity that is not the measurand but that affects the result of the
       measurement
   examples:
-  - content: temperature of a micrometer used to measure length; frequency in the
-      measurement of the amplitude of an alternating electric potential difference;
-      bilirubin concentration in the measurement of haemoglobin concentration in a
-      sample of human blood plasma. temperature of a micrometer used to measure length;
-      frequency in the measurement of the amplitude of an alternating electric potential
-      difference; bilirubin concentration in the measurement of haemoglobin concentration
-      in a sample of human blood plasma.
+  - content: temperature of a micrometer used to measure length; 
+  - content: frequency in the measurement of the amplitude of an alternating
+      electric potential difference;
+  - content: bilirubin concentration in the measurement of haemoglobin
+      concentration in a sample of human blood plasma.
   id: 2.7-eng
   language_code: eng
   notes: []
@@ -46,13 +44,12 @@ data:
   - content: grandeur qui n'est pas le mesurande mais qui a un effet sur le résultat
       du mesurage
   examples:
-  - content: temperature d'un micromètre lors de la mesure d'une longueur; fréquence
-      lors de la mesure de l'amplitude d'une tension électrique alternative; concentration
+  - content: température d'un micromètre lors de la mesure d'une longueur;  concentration
       en bilirubine lors de la mesure de la concentration en hémoglobine dans un échantillon
-      de plasma sanguin humain. temperature d'un micromètre lors de la mesure d'une
-      longueur; fréquence lors de la mesure de l'amplitude d'une tension électrique
-      alternative; concentration en bilirubine lors de la mesure de la concentration
-      en hémoglobine dans un échantillon de plasma sanguin humain.
+      de plasma sanguin humain.
+  - content: fréquence lors de la mesure de l'amplitude d'une tension électrique alternative;
+  - content: concentration en bilirubine lors de la mesure de la concentration en
+      hémoglobine dans un échantillon de plasma sanguin humain.
   id: 2.7-fra
   language_code: fra
   notes: []
