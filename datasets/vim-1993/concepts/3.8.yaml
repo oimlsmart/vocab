@@ -17,21 +17,28 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'i= 1 n-1 for a series of Il measurements of the same measurand, the
-      quantity s characterizing the dispersion of the results and given by the formula:
-      ,,,·-- xi being the result of the ith measurement and .r being the arithmetic
-      mean of the n results considered'
+  - content: |
+        for a series of stem:[n] measurements of the same measurand, the
+        quantity stem:[s] characterizing the dispersion of the results and given by the formula:
+        
+        [stem%unnumbered]
+        ++++
+        s = sqrt{frac{sum_{i=1}^n (x_i - bar x)^2}{n-1}}
+        ++++
+
+        stem:[x_i] being the result of the ith measurement and stem:[bar x] being the arithmetic
+        mean of the stem:[n] results considered
   examples: []
   id: 3.8-eng
   language_code: eng
   notes:
-  - content: Considering the series of n values as a sample of a distribution, x̄
-      is an unbiased estimate of the mean μ, and s² is an unbiased estimate of the
-      variance σ² of that distribution.
-  - content: The expression s/√n is an estimate of the standard deviation of the distribution
-      of x̄ and is called the experimental standard deviation of the mean.
+  - content: Considering the series of stem:[n] values as a sample of a distribution, stem:[bar x]
+      is an unbiased estimate of the mean stem:[mu], and stem:[s^2] is an unbiased estimate of the
+      variance stem:[sigma^2] of that distribution.
+  - content: The expression stem:[s//sqrt{n}] is an estimate of the standard deviation of the distribution
+      of stem:[bar x] and is called the *experimental standard deviation of the mean*.
   - content: '"Experimental standard deviation of the mean" is sometimes incorrectly
-      called standard error of the mean.'
+      called *standard error of the mean*.'
   terms:
   - type: expression
     normative_status: preferred
@@ -45,21 +52,28 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "           i=1         Il -1 pour une série de n mesurages du même mesurande,
-      grandeur s caractérisant la disper-sion des résultats, donnée par la formule:
-      s= xi étant le résultat du ième mesurage et x la moyenne arithmétique des n
-      résultats consi-dérés"
+  - content: |
+        pour une série de stem:[n] mesurages du même mesurande, grandeur stem:[s]
+        caractérisant la dispersion des résultats, donnée par la formule:
+
+        [stem%unnumbered]
+        ++++
+        s = sqrt{frac{sum_{i=1}^n (x_i - bar x)^2}{n-1}}
+        ++++
+        
+        stem[x_i] étant le résultat du i^ème^ mesurage et stem:[bar x] la moyenne arithmétique
+        des stem:[n] résultats considérés"
   examples: []
   id: 3.8-fra
   language_code: fra
   notes:
-  - content: En considérant la série de n valeurs comme échantillon d'une distribution,
-      x̄ est un estimateur sans biais de la moyenne μ, et s² est un estimateur sans
-      biais de la variance σ² de cette distribution.
-  - content: L'expression s/√n est une estimation de l'écart-type de la distribution
-      de x̄ et est appelée écart-type expérimental de la moyenne.
-  - content: L'écart-type expérimental de la moyenne est parfois appelé, à tort, erreur
-      de la moyenne.
+  - content: En considérant la série de stem:[n] valeurs comme échantillon d'une distribution,
+      stem:[bar x] est un estimateur sans biais de la moyenne stem:[mu], et stem:[s^2] est un estimateur sans
+      biais de la variance stem:[sigma^2] de cette distribution.
+  - content: L'expression stem:[s//sqrt{n}] est une estimation de l'écart-type de la distribution
+      de stem:[bar x] et est appelée *écart-type expérimental de la moyenne*.
+  - content: L'écart-type expérimental de la moyenne est parfois appelé, à tort, *erreur
+      de la moyenne*.
   terms:
   - type: expression
     normative_status: preferred

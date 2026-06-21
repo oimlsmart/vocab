@@ -24,7 +24,7 @@ data:
   language_code: eng
   notes:
   - content: '"Accuracy" is a qualitative concept.'
-  - content: The term precision should not be used for "accuracy".
+  - content: The term *precision* should not be used for "accuracy".
   terms:
   - type: expression
     normative_status: preferred
@@ -45,7 +45,7 @@ data:
   language_code: fra
   notes:
   - content: Le concept d'«exactitude» est qualitatif.
-  - content: Le terme «précision》 ne doit pas être utilisé pour «exactitude».
+  - content: Le terme *«précision»* ne doit pas être utilisé pour «exactitude».
   terms:
   - type: expression
     normative_status: preferred
