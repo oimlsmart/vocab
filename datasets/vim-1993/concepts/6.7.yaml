@@ -18,14 +18,14 @@ data:
     type: accepted
   definition:
   - content: standard that is used routinely to calibrate or check material measures,
-      measuring instru-ments or reference materials
+      measuring instruments or reference materials
   examples: []
   id: 6.7-eng
   language_code: eng
   notes:
   - content: A working standard is usually calibrated against a reference standard.
   - content: A working standard used routinely to ensure that measurements are being
-      carried out correctly is called a check standard.
+      carried out correctly is called a *check standard*.
   terms:
   - type: expression
     normative_status: preferred
@@ -48,7 +48,7 @@ data:
   - content: Un étalon de travail est habituellement étalonné par rapport à un étalon
       de référence.
   - content: Un étalon de travail utilisé couramment pour s'assurer que les mesures
-      sont effectuées correctement est appelé étalon de contrôle.
+      sont effectuées correctement est appelé *étalon de contrôle*.
   terms:
   - type: expression
     normative_status: preferred

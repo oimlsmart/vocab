@@ -18,17 +18,17 @@ data:
     type: accepted
   definition:
   - content: material or substance one or more of whose property values are sufficiently
-      homogeneous and well established to be used for tne cali-bration of an apparatus,
+      homogeneous and well established to be used for the calibration of an apparatus,
       the assessment of a measurement method, or for assigning values to materials
-      î✓OTE A reference material may be in the form of a pure or mixed gas, liquid
-      or solid. Examples are water for the calibration of viscometers, sapphire as
-      a heat-capacity calibrant in calorimetry, and soiutions used for calibration
-      in chemical ana!ysis. This definition, including the Note, is taken from ISO
-      Guide 30:1992.
   examples: []
   id: 6.13-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: A reference material may be in the form of a pure or mixed gas, liquid
+      or solid. Examples are water for the calibration of viscometers, sapphire as
+      a heat-capacity calibrant in calorimetry, and solutions used for calibration
+      in chemical analysis.
+  - content: This definition, including the Note, is taken from ISO Guide 30:1992. 
   terms:
   - type: expression
     normative_status: preferred
@@ -43,18 +43,19 @@ data:
     type: accepted
   definition:
   - content: matériau ou substance dont une (ou plusieurs) valeur(s) de la (des) propriété(s)
-      est (sont) suffisamment homogène(s) et bien défin1e(s) pour permettre de l'utiliser
-      pour l'étalonnage d'un appareil, !'évaluation d'une méthode de mesurage ou l'attribution
-      de valeurs aux matériaux ��OTE Un matériau de référence peut se présenter sous
-      la forrT,e d'un gaz, d'un iiquide O:.J d'un solide, pur ou composé. Des exempies
-      sont !'eau pour i'étaionnage des viscosimètres, ie saphir qui permet d'étalonner
-      la capacité thermique en caiorirr,étr1e et les solutions utilisées pour l'étalonnc1ge
-      dans l'analyse chimique. Cette déf1nit1on !y compr,s ia note) est extraite du
-      Guide ISO 30 1992. 48 Metrclogy 1993
+      est (sont) suffisamment homogène(s) et bien définie(s) pour permettre de l'utiliser
+      pour l'étalonnage d'un appareil, l'évaluation d'une méthode de mesurage ou l'attribution
+      de valeurs aux matériaux
   examples: []
   id: 6.13-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: Un matériau de référence peut se présenter sous
+      la forme d'un gaz, d'un liquide ou d'un solide, pur ou composé. Des exemples
+      sont l'eau pour l'étalonnage des viscosimètres, le saphir qui permet d'étalonner
+      la capacité thermique en calorimétrie et les solutions utilisées pour l'étalonnage
+      dans l'analyse chimique.
+  - content: Cette définition (y compris la note) est extraite du Guide ISO 30:1992.
   terms:
   - type: expression
     normative_status: preferred
