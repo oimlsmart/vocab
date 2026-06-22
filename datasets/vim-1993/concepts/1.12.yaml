@@ -71,7 +71,7 @@ data:
       | température thermodynamique | kelvin     | stem:["unitsml(K)"]
       | quantité de matière         | mole       | stem:["unitsml(mol)"]
       | intensité lumineuse         | candela    | stem:["unitsml(cd)"]
-      |=== 
+      |===
 
   terms:
   - type: expression

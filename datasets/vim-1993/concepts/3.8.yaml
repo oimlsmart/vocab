@@ -20,7 +20,7 @@ data:
   - content: |
         for a series of stem:[n] measurements of the same measurand, the
         quantity stem:[s] characterizing the dispersion of the results and given by the formula:
-        
+
         [stem%unnumbered]
         ++++
         s = sqrt{frac{sum_{i=1}^n (x_i - bar x)^2}{n-1}}
@@ -60,7 +60,7 @@ data:
         ++++
         s = sqrt{frac{sum_{i=1}^n (x_i - bar x)^2}{n-1}}
         ++++
-        
+
         stem[x_i] étant le résultat du i^ème^ mesurage et stem:[bar x] la moyenne arithmétique
         des stem:[n] résultats considérés"
   examples: []

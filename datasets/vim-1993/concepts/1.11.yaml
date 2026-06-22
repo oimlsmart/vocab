@@ -23,7 +23,7 @@ data:
   - content: |
       The following units (expressed by their symbols) form part of the coherent
       system of units in mechanics within the International System of Units, SI:
-      
+
       stem:["unitsml(m)"];
       stem:["unitsml(kg)"]; stem:["unitsml(s)"]; stem:["unitsml(m^2)"]; stem:["unitsml(m^3)"]; stem:["unitsml(Hz)" = "unitsml(s^-1)"]; stem:["unitsml(m*s^-1)"]; stem:["unitsml(m*s^-2)"]; stem:["unitsml(kg*m^-3)"]; stem:["unitsml(N)" = "unitsml(kg*m*s^-2)"]; stem:["unitsml(Pa)"= "unitsml(kg*m^-1*s^-2)"]; stem:["unitsml(J)" = "unitsml(kg*m^2*s^-2)"];
       stem:["unitsml(W)" = "unitsml(kg*m^2*s^-3)"].

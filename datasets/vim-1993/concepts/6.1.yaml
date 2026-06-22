@@ -21,11 +21,11 @@ data:
       system intended to define, realize, conserve or reproduce a unit or one or more
       values of a quantity to serve as a reference
   examples:
-  - content: stem:[1 "unitsml(kg)"] mass standard; 
-  - content: stem:[100 "unitsml(Ohm)"] standard resistor; 
-  - content: standard ammeter; 
-  - content: caesium frequency standard; 
-  - content: standard hydrogen electrode; 
+  - content: stem:[1 "unitsml(kg)"] mass standard;
+  - content: stem:[100 "unitsml(Ohm)"] standard resistor;
+  - content: standard ammeter;
+  - content: caesium frequency standard;
+  - content: standard hydrogen electrode;
   - content: reference solution of cortisol in human serum having a certified concentration.
 
   id: 6.1-eng
@@ -56,10 +56,10 @@ data:
       de mesure destiné à définir, réaliser, conserver ou reproduire une unité ou
       une ou plusieurs valeurs d'une grandeur pour servir de référence
   examples:
-  - content: étalon de masse de stem:[1 "unitsml(kg)"]; 
-  - content: résistance étalon de stem:[100 "unitsml(Ohm)"]; 
+  - content: étalon de masse de stem:[1 "unitsml(kg)"];
+  - content: résistance étalon de stem:[100 "unitsml(Ohm)"];
   - content: ampèremètre étalon;
-  - content: étalon de fréquence à césium; électrode de référence à hydrogène; 
+  - content: étalon de fréquence à césium; électrode de référence à hydrogène;
   - content: solution de référence de cortisol dans le sérum humain, de concentration certifiée.
   id: 6.1-fra
   language_code: fra
