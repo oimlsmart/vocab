@@ -18,10 +18,9 @@ data:
   definition:
   - content: ability of a measuring instrument not to alter the measurand
   examples:
-  - content: a mass balance 1s transparent; a resistance thermometer that heats the
-      medium whose temperature it is intended to measure is not transparent. a mass
-      balance 1s transparent; a resistance thermometer that heats the medium whose
-      temperature it is intended to measure is not transparent.
+  - content: a mass balance is transparent;
+  - content: a resistance thermometer that heats the
+      medium whose temperature it is intended to measure is not transparent.
   id: 5.15-eng
   language_code: eng
   notes: []
@@ -40,11 +39,9 @@ data:
   definition:
   - content: aptitude d'un instrument de mesure à ne pas modifier le mesurande
   examples:
-  - content: une balance est un instrument discret pour la mesure des masses; un thermomètre
-      à résistance qui chauffe le milieu dont il doit mesurer la température n'est
-      pas discret. une balance est un instrument discret pour la mesure des masses;
-      un thermomètre à résistance qui chauffe le milieu dont il doit mesurer la température
-      n'est pas discret.
+  - content: une balance est un instrument discret pour la mesure des masses; 
+  - content: un thermomètre à résistance qui chauffe le milieu dont il doit mesurer
+      la température n'est pas discret.
   id: 5.15-fra
   language_code: fra
   notes: []

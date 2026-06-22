@@ -23,8 +23,8 @@ data:
   id: 5.7-eng
   language_code: eng
   notes:
-  - content: The reference conditions generally include reference values or reference
-      ranges for the influence quantities affecting the measuring instrument.
+  - content: The reference conditions generally include *reference values or reference
+      ranges* for the influence quantities affecting the measuring instrument.
   terms:
   - type: expression
     normative_status: preferred
@@ -44,9 +44,8 @@ data:
   id: 5.7-fra
   language_code: fra
   notes:
-  - content: Les conditions de référence comprennent généra-lement des valeurs de
-      référence ou des étendues de référence pour les grandeurs d'influence affec-tant
-      l'instrument de mesure.
+  - content: Les conditions de référence comprennent généralement des *valeurs de référence*
+      ou des *étendues de référence* pour les grandeurs d'influence affectant l'instrument de mesure.
   terms:
   - type: expression
     normative_status: preferred
