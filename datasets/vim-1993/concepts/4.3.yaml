@@ -21,7 +21,7 @@ data:
   examples:
   - content: thermocouple;
   - content: current transformer;
-  - content: strain gauge; 
+  - content: strain gauge;
   - content: pH electrode.
   id: 4.3-eng
   language_code: eng
@@ -42,7 +42,7 @@ data:
   - content: dispositif qui fait correspondre à une grandeur d'entrée une grandeur
       de sortie selon une loi déterminée
   examples:
-  - content: thermocouple; 
+  - content: thermocouple;
   - content: transformateur de courant;
   - content: jauge de contrainte;
   - content: électrode de pH.
