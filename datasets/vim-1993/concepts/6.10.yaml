@@ -23,7 +23,10 @@ data:
   examples: []
   id: 6.10-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The concept is often expressed by the adjective *traceable*.
+  - content: The unbroken chain of comparisons is called a *traceability chain*.
+  - content: (Applicable only to the French text.)
   terms:
   - type: expression
     normative_status: preferred
@@ -40,16 +43,16 @@ data:
   - content: propriété du résultat d'un mesurage ou d'un étalon tel qu'il puisse être
       relié à des références déterminées, généralement des étalons natio-naux ou internationaux,
       par l'intermédiaire d'une chaîne ininterrompue de comparaisons ayant toutes
-      des incertitudes déterminées The concept is often traceable. by the adJective
+      des incertitudes déterminées
   examples: []
   id: 6.10-fra
   language_code: fra
   notes:
-  - content: Ce concept est souvent exprimé par l'adjectif traçable.
-  - content: La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement
-      aux étalons ou chaîne d'étalonnage.
-  - content: La manière dont s'effectue la liaison aux étalons est appelée raccordement
-      aux étalons.
+  - content: Ce concept est souvent exprimé par l'adjectif *traçable*.
+  - content: La chaîne ininterrompue de comparaisons est appelée *chaîne de raccordement
+      aux étalons* ou *chaîne d'étalonnage*.
+  - content: La manière dont s'effectue la liaison aux étalons est appelée *raccordement
+      aux étalons*.
   terms:
   - type: expression
     normative_status: preferred
