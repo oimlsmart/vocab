@@ -21,7 +21,7 @@ data:
       product of powers of factors that represent the base quantities of the system
   examples:
   - content: in a system having base quantities length, mass and time, whose dimensions
-      are denoted by stem:["unitsml(L)"], stem:["unitsml(M)"] and stem:["unitsml(T)"] respectively, stem:["unitsml(M*L^-2)"] is the dimension of force; 
+      are denoted by stem:["unitsml(L)"], stem:["unitsml(M)"] and stem:["unitsml(T)"] respectively, stem:["unitsml(M*L^-2)"] is the dimension of force;
   - content: in the same system of quantities, stem:["unitsml(M*L^-3)"] is the dimension of mass
       concentration as well as of mass density.
   id: 1.5-eng
