@@ -17,30 +17,32 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: material measure, measuring instrument, refer-ence material or measuring
+  - content: material measure, measuring instrument, reference material or measuring
       system intended to define, realize, conserve or reproduce a unit or one or more
       values of a quantity to serve as a reference
   examples:
-  - content: 1 kg mass standard; 100 n standard resIstor; standard arnmeter; caesium
-      frequency standard; standard hydrogen electrode; reference solution of cortisol
-      In human serum having a certified concentration. 1 kg mass standard; 100 n standard
-      resIstor; standard arnmeter; caesium frequency standard; standard hydrogen electrode;
-      reference solution of cortisol In human serum having a certified concentration.
+  - content: stem:[1 "unitsml(kg)"] mass standard; 
+  - content: stem:[100 "unitsml(Ohm)"] standard resistor; 
+  - content: standard ammeter; 
+  - content: caesium frequency standard; 
+  - content: standard hydrogen electrode; 
+  - content: reference solution of cortisol in human serum having a certified concentration.
+
   id: 6.1-eng
   language_code: eng
   notes:
   - content: A set of similar material measures or measuring instruments that, through
-      their combined use, constitutes a standard, is called a collective standard.
+      their combined use, constitutes a standard, is called a *collective standard*.
   - content: A set of standards of chosen values that, individually or in combination,
-      provides a series of values of quantities of the same kind is called a group
-      standard.
+      provides a series of values of quantities of the same kind is called a *group
+      standard*.
   terms:
   - type: expression
     normative_status: preferred
-    designation: standard etalon
+    designation: (measurement) standard
   - type: expression
     normative_status: admitted
-    designation: measurement
+    designation: etalon
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: 9fc570d3-4a0e-46fb-9f0d-e51f575bcc7c
@@ -51,23 +53,22 @@ data:
     type: accepted
   definition:
   - content: mesure matérialisée, appareil de mesure, matériau de référence ou système
-      de mesure destiné à définir, réaliser, conserver ou repro-duire une unité ou
+      de mesure destiné à définir, réaliser, conserver ou reproduire une unité ou
       une ou plusieurs valeurs d'une grandeur pour servir de référence
   examples:
-  - content: étalon de masse de 1 kg; résistance étalon de 100 n; ampèremètre étalon;
-      étalon de fréquence à césium; électrode de référence à hydrogène; solution de
-      référence de cortisol dans le sérum humain, de concentration certifiée. étalon
-      de masse de 1 kg; résistance étalon de 100 n; ampèremètre étalon; étalon de
-      fréquence à césium; électrode de référence à hydrogène; solution de référence
-      de cortisol dans le sérum humain, de concentration certifiée.
+  - content: étalon de masse de stem:[1 "unitsml(kg)"]; 
+  - content: résistance étalon de stem:[100 "unitsml(Ohm)"]; 
+  - content: ampèremètre étalon;
+  - content: étalon de fréquence à césium; électrode de référence à hydrogène; 
+  - content: solution de référence de cortisol dans le sérum humain, de concentration certifiée.
   id: 6.1-fra
   language_code: fra
   notes:
   - content: Un ensemble de mesures matérialisées ou d'instruments de mesure semblables
-      qui, utilisés conjointement, constituent un étalon, est appelé étalon collectif.
+      qui, utilisés conjointement, constituent un étalon, est appelé *étalon collectif*.
   - content: Un ensemble d'étalons de valeurs choisies qui, individuellement ou par
       combinaison, fournissent une série de valeurs de grandeurs de même nature est
-      appelé série d'étalons.
+      appelé *série d'étalons*.
   terms:
   - type: expression
     normative_status: preferred
