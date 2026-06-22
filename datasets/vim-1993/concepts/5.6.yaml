@@ -41,8 +41,8 @@ data:
     type: accepted
   definition:
   - content: conditions extrêmes qu'un instrument de mesure doit pouvoir supporter
-      sans dommage et sans dégradation des caractéristiques métro-logiques spécifiées
-      lorsqu'il est ensuite utilisé dans ses conditions assignées de fonction-nement
+      sans dommage et sans dégradation des caractéristiques métrologiques spécifiées
+      lorsqu'il est ensuite utilisé dans ses conditions assignées de fonctionnement
   examples: []
   id: 5.6-fra
   language_code: fra
@@ -50,7 +50,7 @@ data:
   - content: Les conditions limites peuvent être différentes pour le stockage, le
       transport et le fonctionnement.
   - content: Les conditions limites peuvent comprendre des valeurs limites pour le
-      mesurande et pour les grandeurs d'influence. =
+      mesurande et pour les grandeurs d'influence.
   terms:
   - type: expression
     normative_status: preferred

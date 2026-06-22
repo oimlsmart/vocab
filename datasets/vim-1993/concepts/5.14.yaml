@@ -25,9 +25,9 @@ data:
   notes:
   - content: Where stability with respect to a quantity other than time is considered,
       this should be stated explicitly.
-  - content: Stability may be quantified in several ways, for example:, in terms of
+  - content: 'Stability may be quantified in several ways, for example: in terms of
       the time over which a metrological characteristic changes by a stated amount,
-      or, in terms of the change in a characteristic over a stated time.
+      or, in terms of the change in a characteristic over a stated time.'
   terms:
   - type: expression
     normative_status: preferred
@@ -42,16 +42,17 @@ data:
     type: accepted
   definition:
   - content: 'aptitude d''un instrument de mesure à conserver ses caractéristiques
-      métrologiques constantes au cours du temps :...orsque l''on considère la constance
-      en fonction d''une grandeur autre que le temps, il est nécessaire de le mentionner
-      explicitement. 2 La constance peut être exprimée quantitativement de plusieurs
-      façons, par exemple: par la durée au cours de laquelle une caractéristique métrologique
-      évolue d''une quantité donnée, ou par la variation d''une caractéristique au
-      cours d''une durée donnée.'
+      métrologiques constantes au cours du temps'
   examples: []
   id: 5.14-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: 'Lorsque l''on considère la constance en fonction d''une grandeur
+      autre que le temps, il est nécessaire de le mentionner explicitement. 
+  - content: 'La constance peut être exprimée quantitativement de plusieurs
+      façons, par exemple: par la durée au cours de laquelle une caractéristique métrologique
+      évolue d''une quantité donnée, ou, par la variation d''une caractéristique au
+      cours d''une durée donnée.'
   terms:
   - type: expression
     normative_status: preferred
