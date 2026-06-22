@@ -45,7 +45,8 @@ data:
   definition:
   - content: relation entre un signal d'entrée et la réponse correspondante, dans
       des conditions définies
-  examples: []
+  examples:
+  - content: force électromotrice d'un thermocouple en fonction de la température.
   id: 5.9-fra
   language_code: fra
   notes:

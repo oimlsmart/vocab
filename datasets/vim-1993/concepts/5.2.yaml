@@ -22,9 +22,10 @@ data:
   id: 5.2-eng
   language_code: eng
   notes:
-  - content: for a nominal range of -10 V to +10 V, the span is 20 V
+  - content: for a nominal range of stem:[-10 "unitsml(V)"] to stem:[+10 "unitsml(V)"],
+      the span is stem:[20 "unitsml(V)"]
   - content: In some fields of knowledge, the difference between the greatest and
-      smallest values is called range.
+      smallest values is called *range*.
   terms:
   - type: expression
     normative_status: preferred
@@ -43,9 +44,10 @@ data:
   id: 5.2-fra
   language_code: fra
   notes:
-  - content: peur un calibre de -10 V à +10 V, l'intervalle de mesure est 20 V
+  - content: pour un calibre de stem:[-10 "unitsml(V)"] à stem:[+10 "unitsml(V)"],
+      l'intervalle de mesure est stem:[20 "unitsml(V)"]
   - content: Dans certains domaines scientifiques, la diffé-rence entre la pius grande
-      et la plus petite valeur est appelée étendue.
+      et la plus petite valeur est appelée *étendue*.
   terms:
   - type: expression
     normative_status: preferred

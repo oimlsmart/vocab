@@ -28,7 +28,11 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: measuring range working range
+    designation: measuring range
+  terms:
+  - type: expression
+    normative_status: admitted
+    designation: working range
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: d614c694-cda3-4400-b9ad-8a33af4131b1
@@ -46,7 +50,7 @@ data:
   notes:
   - content: L'erreur est établie par référence à une valeur conven-tionnellement
       vraie.
-  - content: de 5.2.
+  - content: Voir note de 5.2.
   terms:
   - type: expression
     normative_status: preferred
