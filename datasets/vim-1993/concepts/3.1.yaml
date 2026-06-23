@@ -22,9 +22,9 @@ data:
   id: 3.1-eng
   language_code: eng
   notes:
-  - content: When a result is given, it should be made clear whether it refers to:,
+  - content: 'When a result is given, it should be made clear whether it refers to:
       the indication, the uncorrected result, the corrected result and whether several
-      values are averaged.
+      values are averaged.'
   - content: A complete statement of the result of a measurement includes information
       about the uncertainty of measurement.
   terms:

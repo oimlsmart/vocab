@@ -51,7 +51,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: système cohérent d'unités adopté et recom-mandé par la Conférence générale
+  - content: système cohérent d'unités adopté et recommandé par la Conférence générale
       des poids et mesures (CGPM)
   examples: []
   id: 1.12-fra
@@ -72,7 +72,6 @@ data:
       | quantité de matière         | mole       | stem:["unitsml(mol)"]
       | intensité lumineuse         | candela    | stem:["unitsml(cd)"]
       |===
-
   terms:
   - type: expression
     normative_status: preferred

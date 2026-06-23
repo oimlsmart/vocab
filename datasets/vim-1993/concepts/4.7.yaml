@@ -1,3 +1,4 @@
+---
 data:
   identifier: '4.7'
   localized_concepts:
@@ -18,7 +19,9 @@ data:
   definition:
   - content: measuring instrument that provides a record of the indication
   examples:
-  - content: barograph; thermoluminescent dosimeter; recording spectrometer.
+  - content: barograph;
+  - content: thermoluminescent dosimeter;
+  - content: recording spectrometer.
   id: 4.7-eng
   language_code: eng
   notes:
@@ -39,10 +42,11 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: appareil de mesure qui fournit un enregis-trement de l'indication
+  - content: appareil de mesure qui fournit un enregistrement de l'indication
   examples:
-  - content: 'barographe: dosimètre thermoluminescent; spectromètre enregistreur.
-      barographe: dosimètre thermoluminescent; spectromètre enregistreur.'
+  - content: barographe;
+  - content: dosimètre thermoluminescent;
+  - content: spectromètre enregistreur.
   id: 4.7-fra
   language_code: fra
   notes:
