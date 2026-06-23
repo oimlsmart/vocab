@@ -39,14 +39,14 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: module de la différence entre :es deux limites d'une étendue
+  - content: module de la différence entre les deux limites d'une étendue
   examples: []
   id: 5.2-fra
   language_code: fra
   notes:
   - content: pour un calibre de stem:[-10 "unitsml(V)"] à stem:[+10 "unitsml(V)"],
       l'intervalle de mesure est stem:[20 "unitsml(V)"]
-  - content: Dans certains domaines scientifiques, la diffé-rence entre la pius grande
+  - content: Dans certains domaines scientifiques, la différence entre la plus grande
       et la plus petite valeur est appelée *étendue*.
   terms:
   - type: expression

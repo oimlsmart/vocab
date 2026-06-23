@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.6'
   localized_concepts:
@@ -40,7 +41,7 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur grandeur dont l'expression dimensionnelle
+  - content: grandeur dont l'expression dimensionnelle
       en fonction des dimensions des grandeurs de base présente des exposants qui
       se réduisent tous à zéro
   examples:

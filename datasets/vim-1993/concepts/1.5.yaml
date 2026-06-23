@@ -48,15 +48,15 @@ data:
       de ce système
   examples:
   - content: dans un système qui a pour grandeurs de base la longueur, la masse et
-      le temps. dont les dimensions sont désignees respectivement par stem:["unitsml(L)"], stem:["unitsml(M)"] et stem:["unitsml(T)"], la
-      dimension de la force est stem:["unitsml(M*L^-2)"]; dans ce même système de grandeurs, stem:["unitsml(M*L^-3)"] est
-      la dimension de la concentration en masse aussi bien que celle de la masse volumique.
+      le temps, dont les dimensions sont désignées respectivement par stem:["unitsml(L)"], stem:["unitsml(M)"] et stem:["unitsml(T)"], la dimension de la force est stem:["unitsml(M*L^-2)"]; 
+  - content: dans ce même système de grandeurs, stem:["unitsml(M*L^-3)"]
+      est la dimension de la concentration en masse aussi bien que celle de la masse volumique.
   id: 1.5-fra
   language_code: fra
   notes:
   - content: Le facteur qui représente une grandeur de base est appelé «dimension»
       de cette grandeur de base.
-  - content: Pour les particularités de l'algèbre des dimensions, voir I'ISO 31-0.
+  - content: Pour les particularités de l'algèbre des dimensions, voir l'ISO 31-0.
   terms:
   - type: expression
     normative_status: preferred

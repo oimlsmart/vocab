@@ -20,8 +20,8 @@ data:
   - content: device or substance that indicates the presence of a phenomenon without
       necessarily providing a value of an associated quantity
   examples:
-  - content: halogen leak detector
-  - content: litmus paper
+  - content: halogen leak detector;
+  - content: litmus paper.
   id: 4.15-eng
   language_code: eng
   notes:
@@ -44,7 +44,8 @@ data:
   - content: dispositif ou substance qui indique la présence d'un phénomène sans nécessairement
       fournir une valeur d'une grandeur associée
   examples:
-  - content: détecteur de fuite à halogène; papier au tournesol
+  - content: détecteur de fuite à halogène;
+  - content: papier au tournesol.
   id: 4.15-fra
   language_code: fra
   notes:

@@ -41,13 +41,12 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: appareil (de mesure) indicateur, m appareil de mesure qui affiche une
+  - content: appareil de mesure qui affiche une
       indication
   examples:
   - content: voltmètre à indication analogique;
   - content: fréquencemètre numérique;
-  - content: micromètre à vis
-      à vis.
+  - content: micromètre à vis.
   id: 4.6-fra
   language_code: fra
   notes:
@@ -58,6 +57,11 @@ data:
   - type: expression
     normative_status: preferred
     designation: appareil (de mesure) afficheur
+    grammar_info:
+    - gender: m
+  - type: expression
+    normative_status: admitted
+    designation: appareil (de mesure) indicateur
     grammar_info:
     - gender: m
 date_accepted: '1993-01-01T00:00:00+00:00'

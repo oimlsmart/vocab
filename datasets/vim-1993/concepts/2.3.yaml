@@ -1,3 +1,4 @@
+---
 data:
   identifier: '2.3'
   localized_concepts:
@@ -42,7 +43,7 @@ data:
   examples:
   - content: l'effet thermoélectrique utilisé pour le mesurage de la température;
   - content: l'effet Josephson utilisé pour le mesurage de la tension électrique;
-  - content: l'effet Doppler utilise pour le mesurage de la vitesse;
+  - content: l'effet Doppler utilisé pour le mesurage de la vitesse;
   - content: l'effet Raman utilisé pour le mesurage du nombre d'onde des vibrations moléculaires.
   id: 2.3-fra
   language_code: fra

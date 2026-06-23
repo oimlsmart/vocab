@@ -24,7 +24,7 @@ data:
   id: 3.13-eng
   language_code: eng
   notes:
-  - content: Random error is equal to error minus systematic error
+  - content: Random error is equal to error minus systematic error.
   - content: Because only a finite number of measurements can be made, it is possible
       to determine only an estimate of random error.
   terms:
@@ -41,7 +41,7 @@ data:
     type: accepted
   definition:
   - content: résultat d'un mesurage moins la moyenne d'un nombre infini de mesurages
-      du même mesu-rande, effectués dans les conditions de répéta-bilité
+      du même mesurande, effectués dans les conditions de répétabilité
   examples: []
   id: 3.13-fra
   language_code: fra

@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.21'
   localized_concepts:
@@ -19,7 +20,7 @@ data:
   - content: quotient of the value of a quantity and the unit used in its expression
   examples:
   - content: |
-      in the examples In 1.18, the numbers:
+      in the examples in 1.18, the numbers:
       . 5.34, 534;
       . 0.152, 152;
       . 0.012, 12.

@@ -25,7 +25,7 @@ data:
   - content: Since a true value cannot be determined, in practice a conventional true
       value is used (see 1.19 and 1.20).
   - content: When it is necessary to distinguish "error" from "relative error", the former
-      is sometimes called" *absolute error of measurement*. This should not be confused with
+      is sometimes called *absolute error of measurement*. This should not be confused with
       the *absolute value of the error*, which is the modulus of the error.
   terms:
   - type: expression

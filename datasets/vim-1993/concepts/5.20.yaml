@@ -1,3 +1,4 @@
+---
 data:
   identifier: '5.20'
   localized_concepts:
@@ -41,7 +42,7 @@ data:
     type: accepted
   definition:
   - content: indication d'un instrument de mesure moins une valeur vraie de la grandeur
-      d'entrée corres-pondante
+      d'entrée correspondante
   examples: []
   id: 5.20-fra
   language_code: fra

@@ -61,8 +61,8 @@ data:
         s = sqrt{frac{sum_{i=1}^n (x_i - bar x)^2}{n-1}}
         ++++
 
-        stem[x_i] étant le résultat du i^ème^ mesurage et stem:[bar x] la moyenne arithmétique
-        des stem:[n] résultats considérés"
+        stem:[x_i] étant le résultat du i^ème^ mesurage et stem:[bar x] la moyenne arithmétique
+        des stem:[n] résultats considérés
   examples: []
   id: 3.8-fra
   language_code: fra
