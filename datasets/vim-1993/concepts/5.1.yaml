@@ -24,7 +24,7 @@ data:
   language_code: eng
   notes:
   - content: 'Nominal range is normally stated in terms of its lower and upper limits,
-      for example, "stem:[100 "unitsml(degC)"] à stem:[200 "unitsml(degC)"] ".
+      for example, "stem:[100 "unitsml(degC)"] to stem:[200 "unitsml(degC)"] ".
       Where the lower limit is zero, the nominal range is commonly stated solely in
       terms of its upper limit: for example a nominal range of stem:[0 "unitsml(V)"] to stem:[100 "unitsml(V)"] is expressed
       as "stem:[100 "unitsml(V)"]".'
@@ -49,9 +49,10 @@ data:
   language_code: fra
   notes:
   - content: Le calibre est normalement exprimé par ses limites inférieure et supérieure,
-      par exemple, « stem:[100 "unitsml(degC)"] à 200 "unitsml(degC)" ». Lorsque la limite inférieure est zéro, le calibre
-      est habituellement exprimé par la seule limite supérieure, par exemple un calibre
-      de stem:[0 "unitsml(V)"] à stem:[100 "unitsml(V)"] est appelé « calibre de stem:[100 "unitsml(V)"] ».
+      par exemple, « stem:[100 "unitsml(degC)"] à stem:[200 "unitsml(degC)"] ». Lorsque la
+      limite inférieure est zéro, le calibre est habituellement exprimé par la seule limite
+      supérieure, par exemple un calibre de stem:[0 "unitsml(V)"] à stem:[100 "unitsml(V)"]
+      est appelé « calibre de stem:[100 "unitsml(V)"] ».
   - content: Voir note de 5.2.
   terms:
   - type: expression

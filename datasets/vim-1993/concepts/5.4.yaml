@@ -29,7 +29,6 @@ data:
   - type: expression
     normative_status: preferred
     designation: measuring range
-  terms:
   - type: expression
     normative_status: admitted
     designation: working range
@@ -42,13 +41,13 @@ data:
   - date: '1993-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble des valeurs du mesurande pour les-quelles l'erreur d'un instrument
+  - content: ensemble des valeurs du mesurande pour lesquelles l'erreur d'un instrument
       de mesure est supposée comprise entre des limites spécifiées
   examples: []
   id: 5.4-fra
   language_code: fra
   notes:
-  - content: L'erreur est établie par référence à une valeur conven-tionnellement
+  - content: L'erreur est établie par référence à une valeur conventionnellement
       vraie.
   - content: Voir note de 5.2.
   terms:
