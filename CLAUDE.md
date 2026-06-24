@@ -37,17 +37,13 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 - `datasets/vim-1993/` — Glossarist v3 dataset for VIM 1993 (120 concepts, OCR)
 - `about-eng.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
-- `scripts/scrape_viml.rb` — Scraper for VIML 2022 dataset (from viml.oiml.info)
-- `scripts/scrape_viml_2013.rb` — Scraper for VIML 2013 (Word HTML)
-- `scripts/scrape_viml_2000.rb` — Scraper for VIML 2000 (PDF HTML)
-- `scripts/scrape_viml_1968.rb` — Scraper for VIML 1968 (OCR HTML, French only)
-- `scripts/viml_edition_scraper.rb` — Shared scraper framework (EditionConfig, ConceptBuilder, DatasetWriter)
-- `scripts/scrape_vim.rb` — Scraper for VIM 2012 dataset (from jcgm.bipm.org/vim)
-- `scripts/scrape_vim_pdf.rb` — Scraper for VIM 2007/2010 (from pdftotext output)
-- `scripts/scrape_vim_1993.rb` — Scraper for VIM 1993 (from OCR HTML)
-- `scripts/audit_viml.rb` — VIML dataset validation script
-- `scripts/audit_vim.rb` — VIM dataset validation script
-- `scripts/ocr_vim_1993_zai.py` — Re-OCR VIM 1993 / VIML 1968 PDFs via Z.AI GLM-OCR API
+- `scripts/validate_datasets.rb` — CI gate, dataset invariant validation (read-only)
+- `scripts/audit_viml.rb` — Read-only VIML dataset audit
+- `scripts/audit_vim.rb` — Read-only VIM dataset audit
+- `scripts/compare_viml_1968_index.rb` — Read-only comparator (viml-1968 index vs concepts)
+- `scripts/match_supersedes.rb` — Find supersedes relationships across editions (default `--dry-run`)
+- `scripts/historical/` — One-shot generation scripts that seeded each edition. **Do not re-run** — datasets are authoritative. See `scripts/historical/README.md`.
+- `scripts/ocr_vim_1993_zai.py` — Z.AI GLM-OCR API client (writes to `/tmp/`, not datasets)
 - `reference-docs/vim-1993-ocr/` — Z.AI OCR output for VIM 1993 (layout_details, mapping)
 - `reference-docs/viml-1968-ocr/` — Z.AI OCR output for VIML 1968
 
@@ -81,7 +77,7 @@ Push to `main` triggers `.github/workflows/build_deploy.yml`:
 2. Run `npx concept-browser build`
 3. Deploy `dist/` to GitHub Pages
 
-Note: Edition scrapers run locally, not in CI. Datasets are committed to the repo.
+Note: Edition scrapers in `scripts/historical/` are one-shots that have already run. They are not part of routine workflow. See `scripts/historical/README.md`.
 
 ## Datasets
 
@@ -98,12 +94,6 @@ Four VIML editions are available as separate datasets:
 
 Cross-edition `supersedes` relations are encoded declaratively in each concept's `related` array — only the newer concept declares what it supersedes. `superseded_by` is derived at render time by concept-browser from incoming `supersedes` graph edges.
 
-Scrapers are run locally from the glossarist-ruby repo context:
-```sh
-cd /path/to/glossarist-ruby
-bundle exec ruby /path/to/vocab/scripts/scrape_viml_2013.rb
-```
-
 ### VIM (multi-edition)
 
 Four VIM editions are available as separate datasets:
@@ -117,6 +107,4 @@ Four VIM editions are available as separate datasets:
 
 VIM 2007/2010 share the same concept numbering (5 chapters, 143 concepts). VIM 1993 has 6 chapters with 120 concepts (1.1-1.22, 2.1-2.9, 3.1-3.16, 4.1-4.31, 5.1-5.28, 6.1-6.14).
 
-To update 2012: `ruby scripts/scrape_vim.rb` (fetch/build/about phases)
-To update 2007/2010: `ruby scripts/scrape_vim_pdf.rb EDITION` (2007 or 2010)
-To update 1993: `ruby scripts/scrape_vim_1993.rb`
+Datasets are authoritative — hand-curated by editors. To fix data, edit the YAML directly. Do not regenerate from source (the original scrapers are in `scripts/historical/` for provenance only).

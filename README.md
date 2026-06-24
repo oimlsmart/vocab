@@ -109,12 +109,15 @@ All configuration comes from `site-config.yml` — the only env var is `GITHUB_T
 
 ## Updating the dataset
 
-The `scripts/` directory contains Ruby scripts used to generate the Glossarist v3 dataset from source material:
+Datasets under `datasets/**/*.yaml` are authoritative — human editors curate them by hand, one entry at a time. To fix data, edit the YAML directly with surgical changes.
 
-- `scripts/scrape_viml.rb` — scrapes the VIML vocabulary and produces YAML concept files
-- `scripts/audit_viml.rb` — validates the generated dataset
+The active `scripts/` directory contains only read-only tools:
+- `scripts/validate_datasets.rb` — CI gate, invariant checking
+- `scripts/audit_vim.rb`, `scripts/audit_viml.rb` — read-only audits
+- `scripts/compare_viml_1968_index.rb` — read-only comparison
+- `scripts/match_supersedes.rb` — find supersedes relationships (default `--dry-run`)
 
-After updating the dataset, commit the changes to `viml-glossarist/` and push to `main` to trigger a rebuild.
+The original one-shot scrapers that seeded each edition live in `scripts/historical/` for provenance only. **Do not re-run them** — they would overwrite editor-curated entries. See `scripts/historical/README.md`.
 
 ## License
 
