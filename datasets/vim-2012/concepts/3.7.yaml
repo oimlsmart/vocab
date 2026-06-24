@@ -19,18 +19,16 @@ related:
   ref:
     source: urn:oiml:pub:v:2:2010
     id: '3.7'
----
+schema_version: '3'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device, used in {{2.1,measurement}}, that provides an output {{1.1,quantity}}
-      having a specified relation to the input quantity
+  - content: device, used in {{2.1,measurement}}, that provides an output {{1.1,quantity}} having a specified relation to the input quantity
   examples:
-  - content: Thermocouple, electric current transformer, strain gauge, pH electrode,
-      Bourdon tube, bimetallic strip.
+  - content: Thermocouple, electric current transformer, strain gauge, pH electrode, Bourdon tube, bimetallic strip.
   id: 3.7-eng
   language_code: eng
   notes: []
@@ -42,17 +40,14 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: dd3b510b-8b09-47ba-b3ff-23ead25a0fad
 ---
----
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: dispositif, employé en {{2.1,mesurage}}, qui fait correspondre à une
-      {{1.1,grandeur}} d'entrée une grandeur de sortie selon une loi déterminée
+  - content: dispositif, employé en {{2.1,mesurage}}, qui fait correspondre à une {{1.1,grandeur}} d'entrée une grandeur de sortie selon une loi déterminée
   examples:
-  - content: Thermocouple, transformateur de courant électrique, jauge de contrainte,
-      électrode de pH, tube de Bourdon, bilame.
+  - content: Thermocouple, transformateur de courant électrique, jauge de contrainte, électrode de pH, tube de Bourdon, bilame.
   id: 3.7-fra
   language_code: fra
   notes: []

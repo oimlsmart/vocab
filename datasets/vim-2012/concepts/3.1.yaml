@@ -1,3 +1,4 @@
+---
 data:
   identifier: '3.1'
   localized_concepts:
@@ -18,22 +19,20 @@ related:
   ref:
     source: urn:oiml:pub:v:2:2010
     id: '3.1'
----
+schema_version: '3'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device used for making {{2.1,measurements}}, alone or in conjunction
-      with one or more supplementary devices
+  - content: device used for making {{2.1,measurements}}, alone or in conjunction with one or more supplementary devices
   examples: []
   id: 3.1-eng
   language_code: eng
   notes:
   - content: A measuring instrument that can be used alone is a {{3.2,measuring system}}.
-  - content: A measuring instrument may be an {{3.3,indicating measuring instrument}}
-      or a {{3.6,material measure}}.
+  - content: A measuring instrument may be an {{3.3,indicating measuring instrument}} or a {{3.6,material measure}}.
   terms:
   - type: expression
     normative_status: preferred
@@ -42,21 +41,18 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: e3946598-45f6-4b9b-8989-3babbe32528b
 ---
----
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: dispositif utilisé pour faire des {{2.1,mesurages}}, seul ou associé
-      à un ou plusieurs dispositifs annexes
+  - content: dispositif utilisé pour faire des {{2.1,mesurages}}, seul ou associé à un ou plusieurs dispositifs annexes
   examples: []
   id: 3.1-fra
   language_code: fra
   notes:
   - content: Un instrument de mesure qui peut être utilisé seul est un {{3.2,système de mesure}}.
-  - content: Un instrument de mesure peut être un {{3.3,appareil de mesure indicateur}}
-      ou une {{3.6,mesure matérialisée}}.
+  - content: Un instrument de mesure peut être un {{3.3,appareil de mesure indicateur}} ou une {{3.6,mesure matérialisée}}.
   terms:
   - type: expression
     normative_status: preferred
