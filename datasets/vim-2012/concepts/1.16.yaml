@@ -1,3 +1,4 @@
+---
 data:
   identifier: '1.16'
   localized_concepts:
@@ -18,17 +19,14 @@ related:
   ref:
     source: urn:oiml:pub:v:2:2010
     id: '1.16'
----
+schema_version: '3'
 ---
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{1.13,system of units}}, based on the {{1.6,International System of Quantities}},
-      their names and symbols, including a series of prefixes and their names and
-      symbols, together with rules for their use, adopted by the General Conference
-      on Weights and Measures (CGPM)"
+  - content: "{{1.13,system of units}}, based on the {{1.6,International System of Quantities}}, their names and symbols, including a series of prefixes and their names and symbols, together with rules for their use, adopted by the General Conference on Weights and Measures (CGPM)"
   examples: []
   id: 1.16-eng
   language_code: eng
@@ -45,13 +43,9 @@ data:
       | amount of substancequantité de matière | molemole
       | luminous intensityintensité lumineuse | candelacandela
       |===
-  - content: The base units and the {{1.12,coherent derived units}} of the SI form
-      a coherent set, designated the “set of coherent SI units”.
-  - content: For a full description and explanation of the International System of
-      Units, see the current edition of the SI brochure published by the Bureau International
-      des Poids et Mesures (BIPM) and available on the BIPM website.
-  - content: In {{1.21,quantity calculus}}, the quantity 'number of entities' is often
-      considered to be a base quantity, with the base unit one, symbol 1.
+  - content: The base units and the {{1.12,coherent derived units}} of the SI form a coherent set, designated the “set of coherent SI units”.
+  - content: For a full description and explanation of the International System of Units, see the current edition of the SI brochure published by the Bureau International des Poids et Mesures (BIPM) and available on the BIPM website.
+  - content: In {{1.21,quantity calculus}}, the quantity 'number of entities' is often considered to be a base quantity, with the base unit one, symbol 1.
   - content: |-
       The SI prefixes for {{1.17,multiples of units}} and {{1.18,submultiples of units}} are:
 
@@ -91,16 +85,12 @@ date_accepted: '2012-01-01T00:00:00+00:00'
 entry_status: valid
 id: 2d18389c-b377-4a36-a635-d965f1e0e1c1
 ---
----
 data:
   dates:
   - date: '2012-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: "{{1.13,système d'unités}}, fondé sur le {{1.6,Système international de grandeurs}},
-      comportant les noms et symboles des unités, une série de préfixes avec leurs
-      noms et symboles, ainsi que des règles pour leur emploi, adopté par la Conférence
-      générale des poids et mesures (CGPM)"
+  - content: "{{1.13,système d'unités}}, fondé sur le {{1.6,Système international de grandeurs}}, comportant les noms et symboles des unités, une série de préfixes avec leurs noms et symboles, ainsi que des règles pour leur emploi, adopté par la Conférence générale des poids et mesures (CGPM)"
   examples: []
   id: 1.16-fra
   language_code: fra
@@ -117,15 +107,9 @@ data:
       | amount of substancequantité de matière | molemole
       | luminous intensityintensité lumineuse | candelacandela
       |===
-  - content: Les unités de base et les {{1.12,unités dérivées cohérentes}} du SI forment
-      un ensemble cohérent, appelé «ensemble des unités SI cohérentes».
-  - content: Pour une description et une explication complètes du Système international
-      d'unités, voir la dernière édition de la brochure du SI publiée par le Bureau
-      international des poids et mesures (BIPM) et disponible sur le site internet
-      du BIPM.
-  - content: En {{1.21,algèbre des grandeurs}}, la grandeur «nombre d'entités» est
-      souvent considérée comme une grandeur de base, avec l'unité de base un, symbole
-      1.
+  - content: Les unités de base et les {{1.12,unités dérivées cohérentes}} du SI forment un ensemble cohérent, appelé «ensemble des unités SI cohérentes».
+  - content: Pour une description et une explication complètes du Système international d'unités, voir la dernière édition de la brochure du SI publiée par le Bureau international des poids et mesures (BIPM) et disponible sur le site internet du BIPM.
+  - content: En {{1.21,algèbre des grandeurs}}, la grandeur «nombre d'entités» est souvent considérée comme une grandeur de base, avec l'unité de base un, symbole 1.
   - content: |-
       Les préfixes SI pour les {{1.17,multiples des unités}} et {{1.18,sous-multiples des unités}} sont:
 
