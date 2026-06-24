@@ -1,10 +1,15 @@
 ---
 # Bibliography of external standards referenced by VIML 2022.
+# id: source-string format used in concept sources (machine lookup)
+# reference: canonical display form
 
-- reference: "ISO/IEC 17000:2020"
+- id: "ISO/IEC 17000:2020"
+  reference: "ISO/IEC 17000:2020"
   title: "Conformity assessment — Vocabulary and general principles"
   link: https://www.iso.org/standard/73070.html
 
-- reference: "OIML V 2-200:2012"
+- id: "OIML V 2-200:2012"
+  reference: "OIML V 2-200:2012"
   title: "International Vocabulary of Metrology – Basic and General Concepts and Associated Terms (VIM)"
   link: https://www.bipm.org/en/committees/jc/jcgm/publications
+
