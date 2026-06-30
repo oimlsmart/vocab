@@ -1,0 +1,59 @@
+data:
+  identifier: '2.53'
+  localized_concepts:
+    eng:
+    fra:
+  domains:
+  - concept_id: section-2
+    source:
+    ref_type: section
+status: valid
+id:
+schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '2.7'
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: compensation for an estimated systematic effect
+  id: 2.53-eng
+  language_code: eng
+  notes:
+  - content: See GUM, 3.2.3 for explanation of 'systematic effect'.
+  - content: The compensation can take different forms, such as an addend or a factor, or can be deduced from a
+      table.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id: 9163925c-b147-4f00-8084-4399ab8f30ab
+---
+data:
+  dates:
+  - date: '2007-01-01T00:00:00+00:00'
+    type: accepted
+  definition:
+  - content: compensation d'un effet systématique connu
+  id: 2.53-fra
+  language_code: fra
+  notes:
+  - content: Voir le GUM, 3.2.3 pour une explication du concept d'effet systématique.
+  - content: La modification peut prendre différentes formes, telles que l'addition d'une valeur ou la
+      multiplication par un facteur, ou peut se déduire d'une table.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction
+    grammar_info:
+    - gender: f
+date_accepted: '2007-01-01T00:00:00+00:00'
+entry_status: valid
+id:
