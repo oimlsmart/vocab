@@ -10,11 +10,7 @@ data:
 status: valid
 id: 491bdf81-0e53-458d-a2e9-6c0a61ba48f0
 schema_version: '3'
-related:
-- type: supersedes
-  ref:
-    source: urn:oiml:pub:v:2:2007
-    id: '1.23'
+related: []
 ---
 data:
   dates:

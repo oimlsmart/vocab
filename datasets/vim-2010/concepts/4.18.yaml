@@ -10,11 +10,7 @@ data:
 status: valid
 id: ba105a7d-314a-46a3-bfab-c60b0e41e760
 schema_version: '3'
-related:
-- type: supersedes
-  ref:
-    source: urn:oiml:pub:v:2:2007
-    id: '4.18'
+related: []
 ---
 data:
   dates:
