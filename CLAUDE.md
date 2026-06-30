@@ -107,4 +107,9 @@ Four VIM editions are available as separate datasets:
 
 VIM 2007/2010 share the same concept numbering (5 chapters, 143 concepts). VIM 1993 has 6 chapters with 120 concepts (1.1-1.22, 2.1-2.9, 3.1-3.16, 4.1-4.31, 5.1-5.28, 6.1-6.14).
 
+**VIM 2007 is the fully editor-validated authoritative edition** (issue #27). Editors have manually checked every concept against `reference-docs/v002-200-e07.pdf`. Cross-edition supersession:
+
+- `supersedes` source `urn:oiml:pub:v:2:1993` → VIM 1993 (the prior edition with different numbering)
+- `supersedes` source `urn:oiml:pub:v:2:2007` → VIM 2007 (VIM 2010 mirrors 2007 with corrections; VIM 2012 supersedes 2007 directly)
+
 Datasets are authoritative — hand-curated by editors. To fix data, edit the YAML directly. Do not regenerate from source (the original scrapers are in `scripts/historical/` for provenance only).
