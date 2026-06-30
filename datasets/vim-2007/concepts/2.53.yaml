@@ -1,20 +1,24 @@
 data:
   identifier: '2.53'
   localized_concepts:
-    eng:
-    fra:
+    eng: 22958ceb-ab7a-4a6b-8c23-ee20a8ee9d77
+    fra: c0debf4d-fba8-4d24-89a0-dc4995bea914
   domains:
   - concept_id: section-2
-    source:
+    source: urn:oiml:pub:v:2:2007
     ref_type: section
 status: valid
-id:
+id: 3a34534a-739f-4f8f-acb6-d9a4a0a2d15b
 schema_version: '3'
 related:
 - type: supersedes
   ref:
     source: urn:oiml:pub:v:2:1993
-    id: '2.7'
+    id: '3.15'
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:1993
+    id: '3.16'
 ---
 data:
   dates:
@@ -34,7 +38,7 @@ data:
     designation: correction
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id: 9163925c-b147-4f00-8084-4399ab8f30ab
+id: 22958ceb-ab7a-4a6b-8c23-ee20a8ee9d77
 ---
 data:
   dates:
@@ -56,4 +60,4 @@ data:
     - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
-id:
+id: c0debf4d-fba8-4d24-89a0-dc4995bea914
