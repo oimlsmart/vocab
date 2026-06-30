@@ -21,8 +21,8 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: adjustment of a measuring system so that it provides a null indication
-      corresponding to a zero value of a quantity to be measured
+  - content: '*adjustment of a measuring system* so that it provides a null *indication*
+        corresponding to a zero *value* of a *quantity* to be measured'
   examples: []
   id: 3.12-eng
   language_code: eng
@@ -43,8 +43,8 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ajustage d'un système de mesure pour que le système fournisse une indication
-      égale à zéro correspondant à une valeur égale à zéro de la grandeur à mesurer
+    - content: '*ajustage d''un système de mesure* pour que le système fournisse une *indication*
+        égale à zéro correspondant à une *valeur* égale à zéro de la *grandeur* à mesurer'
   examples: []
   id: 3.12-fra
   language_code: fra

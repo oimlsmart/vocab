@@ -7,11 +7,6 @@ data:
   - concept_id: section-3
     source: urn:oiml:pub:v:2:2007
     ref_type: section
-  related:
-  - type: supersedes
-    ref:
-      source: urn:oiml:pub:v:2:1993
-      id: '4.4'
 status: valid
 id: 684dba97-b1cd-4d48-8493-b69fbe292868
 schema_version: '3'
@@ -26,12 +21,11 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: series of elements of a measuring system constituting a single path of
-      the signal from a sensor to an output element
+  - content: series of elements of a *measuring system* constituting a single path of
+        the signal from a *sensor* to an output element
   examples:
-  - content: a) Electro-acoustic measuring chain comprising a microphone, attenuator,
-      filter, amplifier, and voltmeter. b) Mechanical measuring chain comprising a
-      Bourdon tube, system of levers, two gears, and a mechanical dial.
+  - content: Electro-acoustic measuring chain comprising a microphone, attenuator, filter, amplifier, and voltmeter
+  - content: Mechanical measuring chain comprising a Bourdon tube, system of levers, two gears, and a mechanical dial
   id: 3.10-eng
   language_code: eng
   notes: []
@@ -48,12 +42,13 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: suite d'éléments d'un système de mesure qui constitue un seul chemin
-      du signal depuis le capteur jusqu'à l'élément de sortie
+    - content: suite d'éléments d'un *système de mesure* qui constitue un seul chemin
+        du signal depuis le *capteur* jusqu'à l'élément de sortie
   examples:
-  - content: a) Chaîne de mesure électroacoustique comprenant un microphone, un atténuateur,
-      un filtre, un amplificateur et un voltmètre. b) Chaîne de mesure mécanique comprenant
-      un tube de Bourdon, un système de leviers et un cadran mécanique.
+  - content: Chaîne de mesure électroacoustique comprenant un microphone,
+      un atténuateur, un filtre, un amplificateur et un voltmètre
+  - content: Chaîne de mesure mécanique comprenant un tube de Bourdon, un système de
+      leviers et un cadran mécanique
   id: 3.10-fra
   language_code: fra
   notes: []

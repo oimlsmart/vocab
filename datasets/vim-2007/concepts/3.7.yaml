@@ -7,11 +7,6 @@ data:
   - concept_id: section-3
     source: urn:oiml:pub:v:2:2007
     ref_type: section
-  related:
-  - type: supersedes
-    ref:
-      source: urn:oiml:pub:v:2:1993
-      id: '4.3'
 status: valid
 id: 955228c4-8d43-4df0-8ad4-80a027328e27
 schema_version: '3'
@@ -26,11 +21,15 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: device, used in measurement, that provides an output quantity having
+  - content: device, used in *measurement*, that provides an output *quantity* having
       a specified relation to the input quantity
   examples:
-  - content: a) Thermocouple, b) electric current transformer, c) strain gauge, d)
-      pH electrode, e) Bourdon tube, f) bimetallic strip.
+  - content: Thermocouple,
+  - content: electric current transformer,
+  - content: strain gauge,
+  - content: pH electrode,
+  - content: Bourdon tube,
+  - content: bimetallic strip.
   id: 3.7-eng
   language_code: eng
   notes: []
@@ -47,11 +46,15 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: dispositif, employé en mesurage, qui fait correspondre à une grandeur
+  - content: dispositif, employé en *mesurage*, qui fait correspondre à une *grandeur*
       d'entrée une grandeur de sortie selon une loi déterminée
   examples:
-  - content: a) Thermocouple, b) transformateur de courant électrique, c) jauge de
-      contrainte, d) électrode de pH, e) tube de Bourdon, f) bilame.
+  - content: Thermocouple,
+  - content: transformateur de courant électrique,
+  - content: jauge de contrainte,
+  - content: électrode de pH,
+  - content: tube de Bourdon,
+  - content: bilame.
   id: 3.7-fra
   language_code: fra
   notes: []

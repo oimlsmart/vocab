@@ -17,8 +17,8 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: indicating measuring instrument where the output signal is presented
-      in visual form
+  - content: '*indicating measuring instrument* where the output signal is presented
+      in visual form'
   examples: []
   id: 3.4-eng
   language_code: eng
@@ -36,8 +36,8 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: instrument de mesure indicateur dont le signal de sortie est présenté
-      sous forme visuelle
+  - content: '*instrument de mesure indicateur* dont le signal de sortie est présenté
+      sous forme visuelle'
   examples: []
   id: 3.4-fra
   language_code: fra
