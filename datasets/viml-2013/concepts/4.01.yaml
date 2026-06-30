@@ -39,7 +39,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’instruments ensemble identifiable d’instruments en fonction de caractéristiques
+  - content: ensemble identifiable d’instruments en fonction de caractéristiques
       métrologiques et techniques spécifiques comme la quantité mesurée, l’étendue
       de mesure et le principe ou la méthode de mesurage
   examples: []
@@ -49,7 +49,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: catégorie
+    designation: catégorie d’instruments
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

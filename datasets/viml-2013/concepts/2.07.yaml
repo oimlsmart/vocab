@@ -50,7 +50,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’une approbation de type décision légale prise par une partie, volontairement
+  - content: décision légale prise par une partie, volontairement
       ou sur la base d’un accord bi- ou multilatéral, selon laquelle un type préalablement
       approuvé par une autre partie est reconnu comme satisfaisant aux exigences réglementaires
       applicables, sans délivrance d’un nouveau certificat d’approbation de type
@@ -62,7 +62,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: reconnaissance
+    designation: reconnaissance d’une approbation de type
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
