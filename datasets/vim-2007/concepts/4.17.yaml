@@ -7,11 +7,6 @@ data:
   - concept_id: section-4
     source: urn:oiml:pub:v:2:2007
     ref_type: section
-  related:
-  - type: supersedes
-    ref:
-      source: urn:oiml:pub:v:2:1993
-      id: '5.13'
 status: valid
 id: d1ea9494-b3ae-4b97-8073-acf369e3ab5b
 schema_version: '3'
@@ -26,13 +21,14 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: maximum interval through which a value of a quantity being measured can
+  - content: maximum interval through which a *value* of a *quantity* being measured can
       be changed in both directions without producing a detectable change in the corresponding
-      indication Note The dead band can depend on the rate of change.
+      *indication*
   examples: []
   id: 4.17-eng
   language_code: eng
-  notes: []
+  notes:
+  - content: The dead band can depend on the rate of change.
   terms:
   - type: expression
     normative_status: preferred
@@ -46,14 +42,14 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: intervalle maximal à l'intérieur duquel on peut faire varier la valeur
-      de la grandeur mesurée dans les deux sens sans provoquer de variation détectable
-      de l'indication correspondante Note La zone morte peut dépendre de la vitesse
-      de la variation.
+  - content: intervalle maximal à l'intérieur duquel on peut faire varier la *valeur*
+      de la *grandeur* mesurée dans les deux sens sans provoquer de variation détectable
+      de l'*indication* correspondante
   examples: []
   id: 4.17-fra
   language_code: fra
-  notes: []
+  notes:
+  - content: La zone morte peut dépendre de la vitesse de la variation.
   terms:
   - type: expression
     normative_status: preferred
