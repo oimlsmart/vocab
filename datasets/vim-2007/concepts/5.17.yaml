@@ -17,13 +17,10 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: reference data issued by a recognized authority
+  - content: '*reference data* issued by a recognized authority'
   examples:
-  - content: a) Values of the fundamental physical constants, as regularly evaluated
-      and published by ICSU CODATA. b) Relative atomic mass values, also called atomic
-      weight values, of the elements, as evaluated every two years by IUPAC-CIAAW
-      at the IUPAC General Assembly and published in Pure Appl. Chem. or in J. Phys.
-      Chem. Ref. Data.
+  - content: Values of the fundamental physical constants, as regularly evaluated and published by ICSU CODATA.
+  - content: Relative atomic mass values, also called atomic weight values, of the elements, as evaluated every two years by IUPAC-CIAAW at the IUPAC General Assembly and published in Pure Appl. Chem. or in J. Phys. Chem. Ref. Data.
   id: 5.17-eng
   language_code: eng
   notes: []
@@ -40,13 +37,10 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: donnée de référence provenant d'une autorité reconnue
+  - content: '*donnée de référence* provenant d''une autorité reconnue'
   examples:
-  - content: a) Valeurs des constantes physiques fondamentales, évaluées et publiées
-      régulièrement par ICSU CODATA. b) Valeurs des masses atomiques relatives des
-      éléments, appelées aussi valeurs des poids atomiques, évaluées tous les deux
-      ans par l'IUPAC-CIAAW à l’Assemblée générale de l’IUPAC et publiées dans Pure
-      Appl. Chem. ou dans J. Phys. Chem. Ref. Data.
+  - content: Valeurs des constantes physiques fondamentales, évaluées et publiées régulièrement par ICSU CODATA.
+  - content: Valeurs des masses atomiques relatives des éléments, appelées aussi valeurs des poids atomiques, évaluées tous les deux ans par l'IUPAC-CIAAW à l'Assemblée générale de l'IUPAC et publiées dans Pure Appl. Chem. ou dans J. Phys. Chem. Ref. Data.
   id: 5.17-fra
   language_code: fra
   notes: []
