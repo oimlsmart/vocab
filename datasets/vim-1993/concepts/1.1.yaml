@@ -19,27 +19,22 @@ data:
   definition:
   - content: attribute of a phenomenon, body or substance that may be distinguished
       qualitatively and determined quantitatively
-  examples: []
   id: 1.1-eng
   language_code: eng
   notes:
   - content: The term quantity may refer to a quantity in a general sense [see example
-      a)] or to a *particular quantity* [see example b)].
+      a)] or to a particular quantity [see example b)].
     examples:
     - content: 'quantities in a general sense: length, time, mass, temperature, electrical
-        resistance, amount-of-substance concentration;'
-    - content: |
-        particular quantities:
-          - length of a given rod
-          - electrical resistance of a given specimen of wire
-          - amount-of-substance concentration of ethanol in a given sample of wine.
-  - content: Quantities that can be placed in order of magnitude
-      relative to one another are called *quantities of the same kind*.
-  - content: |
-      Quantities of the same kind may be grouped together into *categories of quantities*, for example:
-      - work, heat, energy
-      - thickness, circumference, wavelength.
-  - content: '*Symbols for quantities* are given in ISO 31.'
+        resistance, amount-of-substance concentration'
+    - content: 'particular quantities: length of a given rod; electrical resistance
+        of a given specimen of wire; amount-of-substance concentration of ethanol
+        in a given sample of wine'
+  - content: Quantities that can be placed in order of magnitude relative to one another
+      are called quantities of the same kind.
+  - content: 'Quantities of the same kind may be grouped together into categories of
+      quantities, for example: work, heat, energy; thickness, circumference, wavelength.'
+  - content: Symbols for quantities are given in ISO 31.
   terms:
   - type: expression
     normative_status: preferred
@@ -58,28 +53,23 @@ data:
   definition:
   - content: attribut d'un phénomène, d'un corps ou d'une substance, qui est susceptible
       d'être distingué qualitativement et déterminé quantitativement
-  examples: []
   id: 1.1-fra
   language_code: fra
   notes:
   - content: Le terme «grandeur» peut se rapporter à une grandeur dans un sens général
-      [voir exemple a)] ou à une *grandeur particulière* [voir exemple b)].
+      [voir exemple a)] ou à une grandeur particulière [voir exemple b)].
     examples:
     - content: 'grandeurs dans un sens général: longueur, temps, masse, température,
-        résistance électrique, concentration en quantité de matière;'
-    - content: |
-        grandeurs particulières
-        - longueur d'une tige donnée
-        - résistance électrique d'un échantillon donné de fil
-        - concentration en quantité de matière d'éthanol dans un échantillon donné de vin.
+        résistance électrique, concentration en quantité de matière'
+    - content: 'grandeurs particulières: longueur d''une tige donnée; résistance électrique
+        d''un échantillon donné de fil; concentration en quantité de matière d''éthanol
+        dans un échantillon donné de vin'
   - content: Les grandeurs qui peuvent être classées les unes par rapport aux autres
-      en ordre croissant (ou décroissant) sont appelées *grandeurs de même nature*.
-  - content: |
-          Les grandeurs de même nature peuvent être groupées ensemble en
-          *catégories de grandeurs*, par exemple:
-          - travail, chaleur, énergie;
-          - épaisseur, circonférence, longueur d'onde.
-  - content: Des *symboles de grandeurs* sont donnés dans l'ISO 31.
+      en ordre croissant (ou décroissant) sont appelées grandeurs de même nature.
+  - content: 'Les grandeurs de même nature peuvent être groupées ensemble en catégories
+      de grandeurs, par exemple: travail, chaleur, énergie; épaisseur, circonférence,
+      longueur d''onde.'
+  - content: Des symboles de grandeurs sont donnés dans l'ISO 31.
   terms:
   - type: expression
     normative_status: preferred
@@ -89,3 +79,4 @@ data:
 date_accepted: '1993-01-01T00:00:00+00:00'
 entry_status: valid
 id: a189cde2-e6c9-490d-b6e8-58b456eb569e
+
