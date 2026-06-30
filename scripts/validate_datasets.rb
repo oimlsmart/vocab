@@ -68,6 +68,7 @@ class DatasetValidator
     check_i18n_paritity(concept_files.size)
     check_sources_resolve(sources_per_file)
     check_related_resolve(related_per_file)
+    check_supersedes_cross_dataset(related_per_file)
     check_bibliography_coverage(sources_per_file)
 
     self
@@ -249,6 +250,38 @@ class DatasetValidator
         next if r[:source].nil? # malformed; skip
         next if all_ids.include?(r[:id].to_s)
         error("#{basename}: related #{r[:type]} ref id=#{r[:id].inspect} source=#{r[:source].inspect} not found in this dataset")
+      end
+    end
+  end
+
+  # For `related[].supersedes` entries with a URN source like
+  # `urn:oiml:pub:v:2:YEAR`, verify the target concept exists in
+  # `datasets/vim-YEAR/concepts/`. If the target edition isn't in the repo
+  # at all (e.g., VIM 1984 not yet populated), warn but don't fail — we
+  # can't validate what we don't have.
+  def check_supersedes_cross_dataset(related_per_file)
+    urn_year = /\Aurn:oiml:pub:v:2:(\d{4})\z/
+    related_per_file.each do |path, related|
+      basename = File.basename(path)
+      related.each do |r|
+        next unless r[:type] == "supersedes"
+        m = urn_year.match(r[:source].to_s)
+        next unless m
+        year = m[1]
+        target_dir = File.join(DATASETS_DIR, "vim-#{year}", "concepts")
+        target_repo_root = File.join(DATASETS_DIR, "vim-#{year}")
+        unless Dir.exist?(target_repo_root)
+          # Edition not in repo: warn but don't fail
+          next
+        end
+        unless Dir.exist?(target_dir)
+          warning("#{basename}: supersedes target edition vim-#{year} has no concepts/ directory")
+          next
+        end
+        target_file = File.join(target_dir, "#{r[:id]}.yaml")
+        unless File.exist?(target_file)
+          error("#{basename}: supersedes ref id=#{r[:id].inspect} (vim-#{year}) resolves to no concept file")
+        end
       end
     end
   end
