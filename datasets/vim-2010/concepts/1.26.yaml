@@ -10,11 +10,7 @@ data:
 status: valid
 id: f1f4049e-21c3-4db3-af81-e730067afffd
 schema_version: '3'
-related:
-- type: supersedes
-  ref:
-    source: urn:oiml:pub:v:2:2007
-    id: '1.26'
+related: []
 ---
 data:
   dates:

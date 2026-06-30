@@ -13,7 +13,7 @@ schema_version: '3'
 related:
 - type: supersedes
   ref:
-    source: urn:oiml:pub:v:2:2007
+    source: urn:oiml:pub:v:2:1993
     id: '2.2'
 ---
 data:
