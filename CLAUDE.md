@@ -107,9 +107,12 @@ Four VIM editions are available as separate datasets:
 
 VIM 2007/2010 share the same concept numbering (5 chapters, 143 concepts). VIM 1993 has 6 chapters with 120 concepts (1.1-1.22, 2.1-2.9, 3.1-3.16, 4.1-4.31, 5.1-5.28, 6.1-6.14).
 
-**VIM 2007 is the fully editor-validated authoritative edition** (issue #27). Editors have manually checked every concept against `reference-docs/v002-200-e07.pdf`. Cross-edition supersession:
+**VIM 2007 and VIM 1993 are the fully editor-validated authoritative editions** (issue #27). Editors have manually checked every concept against the source PDFs (`reference-docs/v002-200-e07.pdf` and `v002-ef93.pdf`, the latter re-OCRed via GLM-OCR at `reference-docs/vim-1993-ocr/glm-ocr.md`). Cross-edition supersession:
 
-- `supersedes` source `urn:oiml:pub:v:2:1993` → VIM 1993 (the prior edition with different numbering)
-- `supersedes` source `urn:oiml:pub:v:2:2007` → VIM 2007 (VIM 2010 mirrors 2007 with corrections; VIM 2012 supersedes 2007 directly)
+- `supersedes` source `urn:oiml:pub:v:2:1984` → VIM 1984 (1st edition; not yet populated in `datasets/`, referenced by VIM 1993)
+- `supersedes` source `urn:oiml:pub:v:2:1993` → VIM 1993 (VIM 2007 and VIM 2010 both link here, since VIM 2010 is the corrected print of the same edition as VIM 2007)
+- `supersedes` source `urn:oiml:pub:v:2:2007` → VIM 2007 (VIM 2012 supersedes 2007 directly)
+
+The validator (`scripts/validate_datasets.rb`) verifies that every URN-prefixed supersedes ref points to an actual concept file when the target edition is present in `datasets/`.
 
 Datasets are authoritative — hand-curated by editors. To fix data, edit the YAML directly. Do not regenerate from source (the original scrapers are in `scripts/historical/` for provenance only).
