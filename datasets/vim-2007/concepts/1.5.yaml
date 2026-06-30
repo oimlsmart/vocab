@@ -7,11 +7,6 @@ data:
   - concept_id: section-1
     source: urn:oiml:pub:v:2:2007
     ref_type: section
-  related:
-  - type: supersedes
-    ref:
-      source: urn:oiml:pub:v:2:1993
-      id: '1.4'
 status: valid
 id: 4c84349e-19ae-489f-870d-83865c3dfed7
 schema_version: '3'
@@ -26,8 +21,8 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: quantity, in a system of quantities, defined in terms of the base quantities
-      of that system
+  - content: '*quantity*, in a *system of quantities*, defined in terms of the *base quantities*
+      of that system'
   examples:
   - content: In a system of quantities having the base quantities length and mass,
       mass density is a derived quantity defined as the quotient of mass and volume
@@ -48,8 +43,8 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: grandeur définie, dans un système de grandeurs, en fonction des grandeurs
-      de base de ce système
+  - content: '*grandeur* définie, dans un *système de grandeurs*, en fonction des *grandeurs
+      de base* de ce système'
   examples:
   - content: Dans un système de grandeurs ayant pour grandeurs de base la longueur
       et la masse, la masse volumique est une grandeur dérivée définie comme le quotient
