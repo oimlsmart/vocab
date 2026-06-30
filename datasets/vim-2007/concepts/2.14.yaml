@@ -18,17 +18,17 @@ data:
     type: accepted
   definition:
   - content: closeness of agreement between the average of an infinite number of replicate
-      measured quantity values and a reference quantity value
+      *measured quantity values* and a *reference quantity value*
   examples: []
   id: 2.14-eng
   language_code: eng
   notes:
-  - content: Measurement trueness is not a quantity and thus cannot be expressed numerically,
+  - content: Measurement trueness is not a *quantity* and thus cannot be expressed numerically,
       but measures for closeness of agreement are given in ISO 5725.
-  - content: Measurement trueness is inversely related to systematic measurement error,
-      but is not related to random measurement error.
-  - content: Measurement accuracy should not be used for ‘measurement trueness’ and
-      vice versa.
+  - content: Measurement trueness is inversely related to *systematic measurement error*,
+      but is not related to *random measurement error*.
+  - content: "*Measurement accuracy* should not be used for 'measurement trueness' and
+      vice versa."
   terms:
   - type: expression
     normative_status: preferred
@@ -48,18 +48,18 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: étroitesse de l'accord entre la moyenne d'un nombre infini de valeurs
-      mesurées répétées et une valeur de référence
+  - content: étroitesse de l'accord entre la moyenne d'un nombre infini de
+      *valeurs mesurées* répétées et une *valeur de référence*
   examples: []
   id: 2.14-fra
   language_code: fra
   notes:
-  - content: La justesse de mesure n'est pas une grandeur et ne peut donc pas s'exprimer
+  - content: La justesse de mesure n'est pas une *grandeur* et ne peut donc pas s'exprimer
       numériquement, mais l'ISO 5725 donne des caractéristiques pour l'étroitesse
       de l'accord.
-  - content: La justesse de mesure varie en sens inverse de l'erreur systématique
-      mais n'est pas liée à l'erreur aléatoire.
-  - content: Il convient de ne pas utiliser le terme exactitude de mesure pour la
+  - content: La justesse de mesure varie en sens inverse de l'*erreur systématique*
+      mais n'est pas liée à l'*erreur aléatoire*.
+  - content: Il convient de ne pas utiliser le terme *exactitude de mesure* pour la
       justesse de mesure et vice versa.
   terms:
   - type: expression

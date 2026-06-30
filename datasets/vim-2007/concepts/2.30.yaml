@@ -17,8 +17,7 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: standard uncertainty of measurement standard uncertainty measurement
-      uncertainty expressed as a standard deviation
+  - content: '*measurement uncertainty* expressed as a standard deviation'
   examples: []
   id: 2.30-eng
   language_code: eng
@@ -27,6 +26,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: standard measurement uncertainty
+  - type: expression
+    normative_status: admitted
+    designation: standard uncertainty of measurement
+  - type: expression
+    normative_status: admitted
+    designation: standard uncertainty
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: 71bb2af6-9496-4481-8cce-0c25964cb1bd
@@ -36,7 +41,7 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: incertitude de mesure exprimée sous la forme d'un écart-type
+  - content: '*incertitude de mesure* exprimée sous la forme d''un écart-type'
   examples: []
   id: 2.30-fra
   language_code: fra

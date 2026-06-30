@@ -17,24 +17,27 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: intermediate precision condition condition of measurement, out of a set
-      of conditions that includes the same measurement procedure, same location, and
-      replicate measurements on the same or similar objects over an extended period
-      of time, but may include other conditions involving changes
+  - content: condition of *measurement*, out of a set of conditions that includes
+        the same *measurement procedure*, same location, and replicate measurements
+        on the same or similar objects over an extended period of time, but may
+        include other conditions involving changes
   examples: []
   id: 2.22-eng
   language_code: eng
   notes:
-  - content: The changes can include new calibrations, calibrators, operators, and
-      measuring systems.
+  - content: The changes can include new *calibrations*, *calibrators*, operators, and
+      *measuring systems*.
   - content: A specification for the conditions should contain the conditions changed
       and unchanged, to the extent practical.
-  - content: In chemistry, the term “inter-serial precision condition of measurement”
+  - content: In chemistry, the term "inter-serial precision condition of measurement"
       is sometimes used to designate this concept.
   terms:
   - type: expression
     normative_status: preferred
     designation: intermediate precision condition of measurement
+  - type: expression
+    normative_status: admitted
+    designation: intermediate precision condition
 date_accepted: '2007-01-01T00:00:00+00:00'
 entry_status: valid
 id: e73b5a12-08b3-4dba-974e-d3414b1abd5a
@@ -44,18 +47,18 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: condition de mesurage dans un ensemble de conditions qui comprennent
-      la même procédure de mesure, le même lieu et des mesurages répétés sur le même
+  - content: condition de *mesurage*, dans un ensemble de conditions qui comprennent
+      la même *procédure de mesure*, le même lieu et des mesurages répétés sur le même
       objet ou des objets similaires pendant une période de temps étendue, mais peuvent
-      comprendre d'autres conditions que l’on fait varier
+      comprendre d'autres conditions que l'on fait varier
   examples: []
   id: 2.22-fra
   language_code: fra
   notes:
-  - content: Les conditions que l’on fait varier peuvent comprendre de nouveaux étalonnages,
-      étalons, opérateurs et systèmes de mesure.
-  - content: Il convient qu’une spécification relative aux conditions contienne, dans
-      la mesure du possible, les conditions que l’on fait varier et celles qui restent
+  - content: Les conditions que l'on fait varier peuvent comprendre de nouveaux *étalonnages*,
+      *étalons*, opérateurs et *systèmes de mesure*.
+  - content: Il convient qu'une spécification relative aux conditions contienne, dans
+      la mesure du possible, les conditions que l'on fait varier et celles qui restent
       inchangées.
   - content: En chimie, on utilise quelquefois le terme « condition de fidélité inter-série
       » pour désigner ce concept.
