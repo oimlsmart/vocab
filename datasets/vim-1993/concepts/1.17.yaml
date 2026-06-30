@@ -11,6 +11,11 @@ data:
 status: valid
 id: ad412c13-e49d-4b38-88e8-48500be232ae
 schema_version: '3'
+related:
+- type: supersedes
+  ref:
+    source: urn:oiml:pub:v:2:1984
+    id: '1.16'
 ---
 data:
   dates:
