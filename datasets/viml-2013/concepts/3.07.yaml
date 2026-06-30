@@ -47,7 +47,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’approbation de type marque apposée sur un instrument de mesure pour
+  - content: marque apposée sur un instrument de mesure pour
       certifier qu’il est conforme au type approuvé 4. Classification of measuring
       instruments 4. Classification des instruments de mesure
   examples: []
@@ -57,7 +57,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: marque
+    designation: marque d’approbation de type
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

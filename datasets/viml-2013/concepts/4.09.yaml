@@ -48,7 +48,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un type approuvé instrument de mesure d’un type approuvé qui, seul
+  - content: instrument de mesure d’un type approuvé qui, seul
       ou avec une documentation appropriée, sert de référence, par exemple, pour vérifier
       la conformité d’instruments au type approuvé
   examples: []
@@ -58,7 +58,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: exemplaire
+    designation: exemplaire d’un type approuvé
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

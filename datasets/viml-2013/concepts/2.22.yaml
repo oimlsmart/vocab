@@ -47,7 +47,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’une marque de vérification annulation de la marque de vérification
+  - content: annulation de la marque de vérification
       quand il a été constaté que l’instrument de mesure ne satisfait plus aux exigences
       réglementaires
   examples: []
@@ -57,7 +57,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: oblitération
+    designation: oblitération d’une marque de vérification
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

@@ -56,7 +56,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un instrument de mesure procédure d’évaluation de la conformité (autre
+  - content: procédure d’évaluation de la conformité (autre
       que l’approbation de type) qui conduit à l’apposition d’une marque de vérification
       et/ou à la délivrance d’un certificat de vérification
   examples: []
@@ -67,7 +67,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: vérification
+    designation: vérification d’un instrument de mesure
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

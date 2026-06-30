@@ -48,7 +48,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’un instrument de mesure décision de portée légale spécifiant qu’un
+  - content: décision de portée légale spécifiant qu’un
       instrument de mesure ne satisfait pas aux exigences réglementaires de vérification
       et interdisant son utilisation pour les applications exigeant une vérification
       obligatoire
@@ -59,7 +59,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: refus
+    designation: refus d’un instrument de mesure
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

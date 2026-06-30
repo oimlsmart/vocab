@@ -40,8 +40,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: 'd’échelons de vérification rapport entre la portée maximale d’une balance
-      « Max » et l’échelon de vérification « e » : n = Max / e'
+  - content: 'rapport entre la portée maximale d’une balance « Max » et l’échelon de vérification « e » : n = Max / e'
   examples: []
   id: 5.03-fra
   notes:
@@ -51,7 +50,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: nombre
+    designation: nombre d’échelons de vérification
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

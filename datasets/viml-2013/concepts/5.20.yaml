@@ -37,7 +37,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’essai(s) description d’une série d’essais applicable à certains types
+  - content: description d’une série d’essais applicable à certains types
       d’équipement
   examples: []
   id: 5.20-fra
@@ -46,7 +46,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: programme
+    designation: programme d’essai(s)
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'

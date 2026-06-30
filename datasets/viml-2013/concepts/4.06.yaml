@@ -39,7 +39,7 @@ data:
   - date: '2013-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: d’instrument de mesure ou de module modèle définitif d’un instrument
+  - content: modèle définitif d’un instrument
       de mesure ou d’un module (y compris une famille d’instruments ou de modules)
       pour lequel tous les éléments susceptibles d’affecter ses propriétés métrologiques
       sont définis de façon appropriée
@@ -50,7 +50,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: type
+    designation: type d’instrument de mesure ou de module
 language_code: fra
 entry_status: valid
 date_accepted: '2013-01-01T00:00:00+00:00'
