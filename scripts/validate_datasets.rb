@@ -41,6 +41,11 @@ class DatasetValidator
   end
 
   def validate
+    # Stub datasets (register.yaml only, no concepts yet) — skip gracefully.
+    if @register.is_a?(Hash) && @register["status"] == "stub"
+      return self
+    end
+
     return error("missing concepts/ directory") unless Dir.exist?(@concepts_dir)
 
     concept_files = Dir.glob(File.join(@concepts_dir, "*.yaml")).sort
@@ -275,6 +280,14 @@ class DatasetValidator
           next
         end
         unless Dir.exist?(target_dir)
+          # If target is a stub (register only, no concepts yet), skip silently.
+          target_reg = File.join(DATASETS_DIR, "vim-#{year}", "register.yaml")
+          if File.exist?(target_reg)
+            reg_data = YAML.load_file(target_reg) rescue {}
+            if reg_data.is_a?(Hash) && reg_data["status"] == "stub"
+              next
+            end
+          end
           warning("#{basename}: supersedes target edition vim-#{year} has no concepts/ directory")
           next
         end
