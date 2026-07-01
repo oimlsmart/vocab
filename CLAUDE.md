@@ -38,14 +38,12 @@ Output goes to `dist/`. All configuration is read from `site-config.yml` — no 
 - `about-eng.md` / `about-fra.md` — Site-level about page content (English and French, covers both VIML and VIM)
 - `logos/` — OIML logo SVGs (main, light variant, dark variant)
 - `scripts/validate_datasets.rb` — CI gate, dataset invariant validation (read-only)
-- `scripts/audit_viml.rb` — Read-only VIML dataset audit
-- `scripts/audit_vim.rb` — Read-only VIM dataset audit
 - `scripts/compare_viml_1968_index.rb` — Read-only comparator (viml-1968 index vs concepts)
 - `scripts/match_supersedes.rb` — Find supersedes relationships across editions (default `--dry-run`)
-- `scripts/historical/` — One-shot generation scripts that seeded each edition. **Do not re-run** — datasets are authoritative. See `scripts/historical/README.md`.
-- `scripts/ocr_vim_1993_zai.py` — Z.AI GLM-OCR API client (writes to `/tmp/`, not datasets)
-- `reference-docs/vim-1993-ocr/` — Z.AI OCR output for VIM 1993 (layout_details, mapping)
-- `reference-docs/viml-1968-ocr/` — Z.AI OCR output for VIML 1968
+- `scripts/ocr_pdf_glm.rb` — GLM-OCR driver for any source PDF (auto-splits >100p)
+- `scripts/ocr_vim_1993_zai.py` — Z.AI GLM-OCR API client (legacy, writes to `/tmp/`)
+- `scripts/historical/` — One-shot generation scripts that seeded each edition (incl. the retired `audit_vim.rb` / `audit_viml.rb` which compared against stale cached HTML). **Do not re-run** — datasets are authoritative. See `scripts/historical/README.md`.
+- `reference-docs/{vim,viml}-*-ocr/glm-ocr.md` — Clean GLM OCR output for all 7 source PDFs (VIM 1993/2007/2010/2012, VIML 1968/2000/2013)
 
 ## Configuration conventions
 
@@ -96,20 +94,21 @@ Cross-edition `supersedes` relations are encoded declaratively in each concept's
 
 ### VIM (multi-edition)
 
-Four VIM editions are available as separate datasets:
+Five VIM editions are tracked (four are exposed in the concept-browser; VIM 1984 is a stub pending source OCR):
 
 | Edition | Path | Concepts | Notes |
 |---------|------|----------|-------|
 | 2012 (current) | `datasets/vim-2012/` | 144 | Bilingual EN/FR, scraped from jcgm.bipm.org/vim |
-| 2010 | `datasets/vim-2010/` | 143 | Bilingual EN/FR, scraped from pdftotext |
-| 2007 | `datasets/vim-2007/` | 143 | Bilingual EN/FR, scraped from pdftotext |
+| 2010 | `datasets/vim-2010/` | 144 | Bilingual EN/FR, scraped from pdftotext; mirrors 2007 + adds 2.53 |
+| 2007 | `datasets/vim-2007/` | 144 | Bilingual EN/FR, authoritative (issue #27) + 2.53 added |
 | 1993 | `datasets/vim-1993/` | 120 | Bilingual EN/FR, OCR HTML (6 chapters, 5.29-5.33 do not exist) |
+| 1984 (stub) | `datasets/vim-1984/` | 70 stubs | Not exposed in concept-browser; minimal concept files for URN resolution |
 
-VIM 2007/2010 share the same concept numbering (5 chapters, 143 concepts). VIM 1993 has 6 chapters with 120 concepts (1.1-1.22, 2.1-2.9, 3.1-3.16, 4.1-4.31, 5.1-5.28, 6.1-6.14).
+VIM 2007/2010 share the same concept numbering (5 chapters, 144 concepts each). VIM 1993 has 6 chapters with 120 concepts (1.1-1.22, 2.1-2.9, 3.1-3.16, 4.1-4.31, 5.1-5.28, 6.1-6.14). VIM 1984 uses zero-padded numbering (1.02, 2.05, 6.14) matching its source.
 
-**VIM 2007 and VIM 1993 are the fully editor-validated authoritative editions** (issue #27). Editors have manually checked every concept against the source PDFs (`reference-docs/v002-200-e07.pdf` and `v002-ef93.pdf`, the latter re-OCRed via GLM-OCR at `reference-docs/vim-1993-ocr/glm-ocr.md`). Cross-edition supersession:
+**VIM 2007 and VIM 1993 are the fully editor-validated authoritative editions** (issue #27). Editors have manually checked every concept against GLM OCR output for the source PDFs (`reference-docs/{vim-1993,vim-2007}-ocr/glm-ocr.md` — and likewise for VIM 2010/2012). Cross-edition supersession:
 
-- `supersedes` source `urn:oiml:pub:v:2:1984` → VIM 1984 (1st edition; not yet populated in `datasets/`, referenced by VIM 1993)
+- `supersedes` source `urn:oiml:pub:v:2:1984` → VIM 1984 (1st edition; stub only — 70 minimal concept files referenced by VIM 1993)
 - `supersedes` source `urn:oiml:pub:v:2:1993` → VIM 1993 (VIM 2007 and VIM 2010 both link here, since VIM 2010 is the corrected print of the same edition as VIM 2007)
 - `supersedes` source `urn:oiml:pub:v:2:2007` → VIM 2007 (VIM 2012 supersedes 2007 directly)
 
