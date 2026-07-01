@@ -41,9 +41,6 @@ datasets:
 - id: vim-1993
   localPath: datasets/vim-1993
   color: '#B0BEC5'
-- id: g18
-  localPath: datasets/g18
-  color: '#E57F2A'
 routing: []
 branding:
   primaryColor: '#004996'
@@ -116,9 +113,6 @@ datasetTranslations:
   vim-1993:
     fra:
       description: Remplacée par l'édition 2007. 120 concepts répartis en 6 chapitres couvrant les grandeurs et unités, les mesurages, les résultats de mesure, les instruments de mesure, les caractéristiques des instruments de mesure et les étalons.
-  g18:
-    fra:
-      description: Liste alphabétique des termes définis dans les Recommandations et Documents OIML — 2132 termes issus de 88 publications sources.
 copyright: OIML
 datasetGroups:
 - id: viml
@@ -143,8 +137,3 @@ datasetGroups:
   translations:
     fra:
       label: VIM — Vocabulaire international de métrologie
-- id: g18
-  label: G 18 — Alphabetical List of Terms
-  datasets:
-  - g18
-  color: '#E57F2A'
