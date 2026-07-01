@@ -1,0 +1,12 @@
+---
+data:
+  identifier: '3.14'
+  status: stub
+  superseded_by:
+    - urn:oiml:pub:v:2:1993/3.15
+  note: |
+    Stub entry - referenced by VIM 1993 as the predecessor concept.
+    Actual designation and definition await OCR of the 1984 source PDF.
+    VIM 1993 successors: 3.15
+id: e91fcb45-880e-4d5e-a58e-a040c0e1a08e
+schema_version: '3'

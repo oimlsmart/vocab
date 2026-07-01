@@ -30,8 +30,8 @@ languageOrder:
 ordering: systematic
 
 description:
-  eng: "Stub register for VIM 1st edition (1984). Concept data not yet populated; this register exists so that supersession edges from later editions (VIM 1993 references urn:oiml:pub:v:2:1984) resolve. Concept identifiers use zero-padded form like 1.02, 2.05, 6.14 (matching the source's numbering)."
-  fra: "Registre factice pour la 1ère édition du VIM (1984). Les données conceptuelles ne sont pas encore saisies ; ce registre existe pour que les liens de supersession depuis les éditions ultérieures (VIM 1993 référence urn:oiml:pub:v:2:1984) résolvent. Les identifiants de concepts utilisent la forme zéro-padding comme 1.02, 2.05, 6.14 (correspondant à la numérotation source)."
+  eng: "Stub dataset for VIM 1st edition (1984). 70 minimal concept files exist as resolution targets for VIM 1993 supersession edges (each carries an inferred designation from its VIM 1993 successor). Full concept data — definitions, notes, examples, FR localizations — awaits OCR of the 1984 source PDF. Not currently exposed in the concept-browser; add to site-config.yml once populated."
+  fra: "Registre factice pour la 1ère édition du VIM (1984). 70 fichiers conceptuels minimaux existent comme cibles de résolution pour les liens de supersession du VIM 1993 (chacun contient une désignation inférée à partir de son successeur VIM 1993). Les données conceptuelles complètes — définitions, notes, exemples, localisations FR — attendent l'OCR du PDF source 1984. Non exposé actuellement dans le concept-browser ; à ajouter à site-config.yml une fois rempli."
 
 # No sections, no concepts/ directory yet.
 # Concepts will be added when the 1984 source PDF is OCR'd and encoded.
