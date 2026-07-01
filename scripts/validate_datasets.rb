@@ -28,13 +28,14 @@ ROOT = File.expand_path("..", __dir__)
 DATASETS_DIR = File.join(ROOT, "datasets")
 
 class DatasetValidator
-  attr_reader :errors, :warnings
+  attr_reader :errors, :warnings, :collected_uuids
 
   def initialize(dataset_path)
     @dataset_path = dataset_path
     @id = File.basename(dataset_path)
     @errors = []
     @warnings = []
+    @collected_uuids = {} # uuid -> "concepts/X.yaml"
     @concepts_dir = File.join(@dataset_path, "concepts")
     @register = load_register
     @bib_ids = load_bibliography_ids
@@ -64,6 +65,7 @@ class DatasetValidator
 
       schema_check(path, managed, localized)
       collect_identifiers(path, managed, identifiers)
+      collect_uuids(path, managed, localized)
       sources_per_file[path] = collect_sources(localized)
       related_per_file[path] = collect_related(managed)
     end
@@ -173,6 +175,18 @@ class DatasetValidator
       error("#{File.basename(path)}: duplicate identifier #{id.inspect} (also in #{File.basename(identifiers[id])})")
     else
       identifiers[id] = path
+    end
+  end
+
+  # Collect top-level UUIDs from managed + localized docs for cross-dataset uniqueness check.
+  def collect_uuids(path, managed, localized)
+    rel = Pathname.new(path).relative_path_from(@dataset_path).to_s
+    mid = managed.is_a?(Hash) ? managed["id"] : nil
+    @collected_uuids[mid] = rel if mid.is_a?(String)
+    localized.each do |loc|
+      next unless loc.is_a?(Hash)
+      lid = loc["id"]
+      @collected_uuids[lid] = rel if lid.is_a?(String)
     end
   end
 
@@ -356,6 +370,7 @@ end
 
 total_errors = 0
 total_warnings = 0
+uuids_global = {} # uuid -> "dataset/concept.yaml" (first occurrence)
 datasets.each do |ds|
   validator = DatasetValidator.new(File.join(DATASETS_DIR, ds)).validate
   total_errors += validator.errors.size
@@ -365,6 +380,15 @@ datasets.each do |ds|
   puts "== #{ds}: #{status} (#{validator.errors.size} errors, #{validator.warnings.size} warnings)"
   validator.errors.each { |e| puts "  ERROR: #{e}" }
   validator.warnings.each { |w| puts "  warn:  #{w}" }
+
+  validator.collected_uuids.each do |uuid, location|
+    if uuids_global.key?(uuid)
+      total_errors += 1
+      puts "  ERROR: [cross-dataset] duplicate UUID #{uuid} in #{ds}/#{location} (also in #{uuids_global[uuid]})"
+    else
+      uuids_global[uuid] = "#{ds}/#{location}"
+    end
+  end
 end
 
 puts ""
