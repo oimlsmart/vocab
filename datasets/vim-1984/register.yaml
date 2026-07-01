@@ -1,0 +1,37 @@
+---
+schema_type: glossarist
+schema_version: '3'
+
+id: vim-1984
+ref: "OIML V 2:1984"
+refAliases:
+  - "ISO Guide 99:1984"
+  - "ISO/TAG 4:1984"
+year: 1984
+urn: "urn:oiml:pub:v:2:1984"
+urnAliases:
+  - "urn:oiml:pub:v:2:1984*"
+status: stub
+
+owner: OIML
+sourceRepo: https://github.com/oimlsmart/vocab
+tags:
+  - metrology
+  - oiml
+  - vocabulary
+
+languages:
+  - eng
+  - fra
+languageOrder:
+  - eng
+  - fra
+
+ordering: systematic
+
+description:
+  eng: "Stub register for VIM 1st edition (1984). Concept data not yet populated; this register exists so that supersession edges from later editions (VIM 1993 references urn:oiml:pub:v:2:1984) resolve. Concept identifiers use zero-padded form like 1.02, 2.05, 6.14 (matching the source's numbering)."
+  fra: "Registre factice pour la 1ère édition du VIM (1984). Les données conceptuelles ne sont pas encore saisies ; ce registre existe pour que les liens de supersession depuis les éditions ultérieures (VIM 1993 référence urn:oiml:pub:v:2:1984) résolvent. Les identifiants de concepts utilisent la forme zéro-padding comme 1.02, 2.05, 6.14 (correspondant à la numérotation source)."
+
+# No sections, no concepts/ directory yet.
+# Concepts will be added when the 1984 source PDF is OCR'd and encoded.
