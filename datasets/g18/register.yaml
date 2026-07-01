@@ -17,8 +17,17 @@ languageOrder:
 - eng
 ordering: alphabetical
 description:
-  eng: Alphabetical list of terms defined in OIML Recommendations and Documents —
-    2132 terms from 88 source publications
+  eng: |
+    Alphabetical list of terms defined in OIML Recommendations and Documents
+    (2132 terms from 88 source publications). 1207 unique terms; 287 terms
+    appear in multiple publications (one entry per term-in-publication instance).
+    101 entries have `related` (type `see`) edges to VIM/VIML concepts.
+
+    Preserved here as canonical source data - not deleted. The new sister
+    project `oimlsmart/g18-registry` consumes this data and renders it as a
+    term-usage registry (per-term views, per-TC views, AI consistency checks).
+
+    See https://github.com/oimlsmart/g18-registry and issue #42.
 about:
   eng: about.md
 sections:
