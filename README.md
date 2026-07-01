@@ -113,9 +113,9 @@ Datasets under `datasets/**/*.yaml` are authoritative — human editors curate t
 
 The active `scripts/` directory contains only read-only tools:
 - `scripts/validate_datasets.rb` — CI gate, invariant checking
-- `scripts/audit_vim.rb`, `scripts/audit_viml.rb` — read-only audits
 - `scripts/compare_viml_1968_index.rb` — read-only comparison
 - `scripts/match_supersedes.rb` — find supersedes relationships (default `--dry-run`)
+- `scripts/ocr_pdf_glm.rb` — GLM-OCR driver for any source PDF (auto-splits >100p)
 
 The original one-shot scrapers that seeded each edition live in `scripts/historical/` for provenance only. **Do not re-run them** — they would overwrite editor-curated entries. See `scripts/historical/README.md`.
 
