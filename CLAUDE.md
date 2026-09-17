@@ -91,6 +91,25 @@ Four VIML editions are available as separate datasets:
 
 Cross-edition `supersedes` relations are encoded declaratively in each concept's `related` array — only the newer concept declares what it supersedes. `superseded_by` is derived at render time by concept-browser from incoming `supersedes` graph edges.
 
+### Concept identifier semantics (issue #119)
+
+Three distinct clause numbers attach to a concept, and they intentionally differ:
+
+- `identifier` (and the URL path `dataset/<edition>/concept/<id>`) — the concept's
+  clause number **in its own publication**. VIML 2022 concept `0.10` is clause 0.10
+  of OIML V 1:2022; the coincidence that VIML 2013 also has a clause 0.10 does not
+  make the identifier "the 2013 one". Never renumber a dataset to match another
+  edition's numbering.
+- `sources[].origin` (`authoritative`) — the clause of the **source publication**
+  the definition was adapted from (e.g. VIML 2022 `0.10` cites OIML V 2-200:2012
+  clause 3.1).
+- `related` (`supersedes`) — the **prior edition's** clause the concept replaces
+  (e.g. VIML 2022 `0.10` supersedes `urn:oiml:pub:v:1:2013` clause `0.10`).
+
+The concept header shows the own-publication identifier; the Relations rows render
+the cross-edition citation (manifest `ref` + target clause, e.g. "OIML V 1:2013,
+clause 0.10") and the Edition Series rail shows the supersession chain.
+
 ### VIM (multi-edition)
 
 Five VIM editions are tracked (four are exposed in the concept-browser; VIM 1984 is a stub pending source OCR):
