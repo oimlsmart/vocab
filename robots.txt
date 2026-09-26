@@ -1,0 +1,3 @@
+# noindex rides the meta tag on every page — crawl stays open so the de-index propagates
+User-agent: *
+Allow: /
